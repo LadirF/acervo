@@ -67,7 +67,12 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 14. A eventual impossibilidade de apresentação dos documentos-fonte repercute também sobre a suficiência da confissão. A confissão relativa ao armazenamento de material de abuso sexual infantojuvenil, previsto no art. 241-B do ECA, não supre a ausência de controle defensivo sobre o relatório policial elaborado a partir dos reports NCMEC, nem substitui a necessidade de elementos externos de corroboração independentes da cadeia probatória comprometida. Precedente da Terceira Seção no AREsp n. 2.123.334/MG.
   > IV. Dispositivo e tese
   > 15. Resultado do Julgamento: Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido para determinar o retorno dos autos à origem, com disponibilização integral dos reports NCMEC n. 89794268 e 126248964, reabertura de prazo defensivo e, na impossibilidade de apresentação, reavaliação da admissibilidade e da força probatória do RAPJ nos pontos dependentes da fonte primária não acessível.
-  > Tese de julgamento:
+  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator]:
+  > 1. O relatório encaminhado pelo NCMEC à Polícia Federal pode ser recebido como notícia-crime quando não demonstrada burla às garantias processuais brasileiras, provocação ilícita das autoridades nacionais ou afronta à soberania ou à ordem pública.
+  > 2. A defesa tem direito de acesso integral aos reports NCMEC que subsidiaram relatório policial utilizado para estruturar a imputação ou sustentar a materialidade do fato.
+  > 3. A ausência de disponibilização da fonte primária da prova digital compromete o contraditório quando impede o controle da completude, da fidelidade e da correspondência entre o documento originário e o relatório policial derivado.
+  > 4. Reconhecido o vício desde a resposta à acusação, devem ser renovados os atos necessários ao efetivo exercício da ampla defesa, com reavaliação da força probatória do relatório policial caso os documentos originários não possam ser apresentados.
+  > 5. A confissão do acusado não supre a ausência de disponibilização da fonte primária utilizada na elaboração do relatório policial, nem afasta a necessidade de elementos externos de corroboração independentes para sustentar condenação pelo art. 241-B do ECA.
   > (REsp n. 2.197.493/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/6/2026, DJEN de 23/6/2026.)
 
 ## 37. REsp nº 2163522 / RJ (STJ)

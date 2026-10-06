@@ -386,7 +386,12 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 14. A eventual impossibilidade de apresentação dos documentos-fonte repercute também sobre a suficiência da confissão. A confissão relativa ao armazenamento de material de abuso sexual infantojuvenil, previsto no art. 241-B do ECA, não supre a ausência de controle defensivo sobre o relatório policial elaborado a partir dos reports NCMEC, nem substitui a necessidade de elementos externos de corroboração independentes da cadeia probatória comprometida. Precedente da Terceira Seção no AREsp n. 2.123.334/MG.
   > IV. Dispositivo e tese
   > 15. Resultado do Julgamento: Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido para determinar o retorno dos autos à origem, com disponibilização integral dos reports NCMEC n. 89794268 e 126248964, reabertura de prazo defensivo e, na impossibilidade de apresentação, reavaliação da admissibilidade e da força probatória do RAPJ nos pontos dependentes da fonte primária não acessível.
-  > Tese de julgamento:
+  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator]:
+  > 1. O relatório encaminhado pelo NCMEC à Polícia Federal pode ser recebido como notícia-crime quando não demonstrada burla às garantias processuais brasileiras, provocação ilícita das autoridades nacionais ou afronta à soberania ou à ordem pública.
+  > 2. A defesa tem direito de acesso integral aos reports NCMEC que subsidiaram relatório policial utilizado para estruturar a imputação ou sustentar a materialidade do fato.
+  > 3. A ausência de disponibilização da fonte primária da prova digital compromete o contraditório quando impede o controle da completude, da fidelidade e da correspondência entre o documento originário e o relatório policial derivado.
+  > 4. Reconhecido o vício desde a resposta à acusação, devem ser renovados os atos necessários ao efetivo exercício da ampla defesa, com reavaliação da força probatória do relatório policial caso os documentos originários não possam ser apresentados.
+  > 5. A confissão do acusado não supre a ausência de disponibilização da fonte primária utilizada na elaboração do relatório policial, nem afasta a necessidade de elementos externos de corroboração independentes para sustentar condenação pelo art. 241-B do ECA.
   > (REsp n. 2.197.493/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/6/2026, DJEN de 23/6/2026.)
 
 ## 37. REsp nº 2163522 / RJ (STJ)
@@ -576,7 +581,20 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
   > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
 
-## 51. Súmula nº 665 (STJ)
+## 51. RMS nº 38.983 / DF (STF)
+- Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Gilmar Mendes. Segunda Turma. Publicado em 28/02/2024.
+- Crime / Tema: PAD (administrativo)
+- Resumo: PAD: é ilegal a demissão por abandono de cargo sem prova da intenção de abandonar (art. 138 da Lei 8.112/90). Os motivos e pressupostos de fato da penalidade podem ser controlados pelo Judiciário, pois não são juízo de conveniência da Administração. Segurança concedida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rms-38983.pdf
+- Ementa oficial:
+  > RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO-DISCIPLINAR (PAD). SERVIDOR PUNIDO COM PENA DE DEMISSÃO. RECURSO PROVIDO PARA CONCEDER A SEGURANÇA.
+  > 1. A aplicação das penalidades previstas no art. 127 da Lei 8.112/1990 vincula-se ao cumprimento de prerrequisitos estritos previstos na legislação de regência, apurados mediante a apreciação das características particulares de cada caso concreto em sede de processo administrativo disciplinar. A caracterização de tais requisitos não se sujeita a juízos de conveniência ou oportunidade da Administração e, portanto, é sindicável pela via judicial.
+  > 2. No controle judicial dos atos administrativos de demissão de servidor público estável, “a legalidade do ato administrativo compreende, não só a competência para a prática do ato e as suas formalidades extrínsecas, como também os seus requisitos substanciais, os seus motivos, os seus pressupostos de direito e de fato”, sendo certo que “a inconformidade do ato com os fatos que a lei declara pressupostos dêle constitui ilegalidade, do mesmo modo que o constitui a forma inadequada que o ato porventura apresente” (LEAL, Victor Nunes. Atos administrativos - Exame da sua validade pelo poder judiciário. Revista de Direito Administrativo, v. 3, p. 69–98, 1946).
+  > 3. Caso em que a penalidade de demissão aplicada pela Administração se deu sem devida caracterização do elemento subjetivo referente ao intuito de abandonar o cargo ocupado (Lei 8.112/1990, art. 138). Na espécie, a aplicação da penalidade de demissão violou direito líquido e certo do impetrante, uma vez que, valendo-se de fundamentação inconsistente e contraditória, calcada em presunções não corroboradas pelo acervo fático-probatório dos autos do PAD, a União aplicou-lhe a penalidade de demissão deixando de considerar a data em que efetivamente se deu o término de sua cessão informal ao Senado.
+  > 4. Recurso ordinário provido para reformar o acórdão recorrido e conceder a segurança.
+  > (STF, RMS n. 38.983/DF, relator Ministro André Mendonça, redator do acórdão Ministro Gilmar Mendes, Segunda Turma, julgado em 13/11/2023, DJe de 28/2/2024.)
+
+## 52. Súmula nº 665 (STJ)
 - Súmula aprovada pela Primeira Seção em 13/12/2023. Publicado em 14/12/2023.
 - Crime / Tema: PAD (administrativo)
 - Resumo: Controle judicial do PAD restringe-se à regularidade do procedimento e à legalidade do ato; mérito administrativo só em flagrante ilegalidade, teratologia ou sanção manifestamente desproporcional.
@@ -585,7 +603,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > O controle jurisdicional do processo administrativo disciplinar restringe-se ao exame da regularidade do procedimento e da legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, não sendo possível incursão no mérito administrativo, ressalvadas as hipóteses de flagrante ilegalidade, teratologia ou manifesta desproporcionalidade da sanção aplicada.
   > (Súmula n. 665, Primeira Seção, julgado em 13/12/2023, DJe de 14/12/2023.)
 
-## 52. AREsp nº 2236994 / SP (STJ)
+## 53. AREsp nº 2236994 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/11/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A pronúncia exige autoria corroborada com alto grau de probabilidade (arts. 155, 413 e 414 do CPP); a palavra dos policiais, contrariada por cinco laudos periciais, não basta. Impronúncia restabelecida, com comunicação à Corregedoria da PM.
@@ -605,19 +623,6 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 11. O Tribunal local não examinou minimamente os dados probatórios técnicos valorados pelo juiz singular, nem explicou o porquê de estar equivocada sua valoração. Na verdade, a Corte estadual apenas invocou genericamente o in dubio pro societate para pronunciar o recorrente, mas não dedicou uma linha sequer à análise das provas periciais, tampouco às contradições entre elas e o testemunho dos policiais.
   > 12. Agravo conhecido e recurso especial provido, a fim de restabelecer a decisão de impronúncia, com determinação de comunicação dos fatos à Corregedoria da PM/SP.
   > (AREsp n. 2.236.994/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023.)
-
-## 53. RMS nº 38.983 / DF (STF)
-- Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Gilmar Mendes. Segunda Turma. Publicado em 13/11/2023.
-- Crime / Tema: PAD (administrativo)
-- Resumo: PAD: é ilegal a demissão por abandono de cargo sem prova da intenção de abandonar (art. 138 da Lei 8.112/90). Os motivos e pressupostos de fato da penalidade podem ser controlados pelo Judiciário, pois não são juízo de conveniência da Administração. Segurança concedida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rms-38983.pdf
-- Ementa oficial:
-  > RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO-DISCIPLINAR (PAD). SERVIDOR PUNIDO COM PENA DE DEMISSÃO. RECURSO PROVIDO PARA CONCEDER A SEGURANÇA.
-  > 1. A aplicação das penalidades previstas no art. 127 da Lei 8.112/1990 vincula-se ao cumprimento de prerrequisitos estritos previstos na legislação de regência, apurados mediante a apreciação das características particulares de cada caso concreto em sede de processo administrativo disciplinar. A caracterização de tais requisitos não se sujeita a juízos de conveniência ou oportunidade da Administração e, portanto, é sindicável pela via judicial.
-  > 2. No controle judicial dos atos administrativos de demissão de servidor público estável, “a legalidade do ato administrativo compreende, não só a competência para a prática do ato e as suas formalidades extrínsecas, como também os seus requisitos substanciais, os seus motivos, os seus pressupostos de direito e de fato”, sendo certo que “a inconformidade do ato com os fatos que a lei declara pressupostos dêle constitui ilegalidade, do mesmo modo que o constitui a forma inadequada que o ato porventura apresente” (LEAL, Victor Nunes. Atos administrativos - Exame da sua validade pelo poder judiciário. Revista de Direito Administrativo, v. 3, p. 69–98, 1946).
-  > 3. Caso em que a penalidade de demissão aplicada pela Administração se deu sem devida caracterização do elemento subjetivo referente ao intuito de abandonar o cargo ocupado (Lei 8.112/1990, art. 138). Na espécie, a aplicação da penalidade de demissão violou direito líquido e certo do impetrante, uma vez que, valendo-se de fundamentação inconsistente e contraditória, calcada em presunções não corroboradas pelo acervo fático-probatório dos autos do PAD, a União aplicou-lhe a penalidade de demissão deixando de considerar a data em que efetivamente se deu o término de sua cessão informal ao Senado.
-  > 4. Recurso ordinário provido para reformar o acórdão recorrido e conceder a segurança.
-  > (STF, RMS n. 38.983/DF, relator Ministro André Mendonça, redator do acórdão Ministro Gilmar Mendes, Segunda Turma, julgado em 13/11/2023, DJe de 13/11/2023.)
 
 ## 54. REsp nº 2004051 / SC (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 22/08/2023.
