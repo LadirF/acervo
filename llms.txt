@@ -2,5 +2,11 @@
 
 > Acervo de decisões (STJ, STF, TRFs e tribunais estaduais), principalmente de Direito Penal e Processual Penal, com resumo, ementa oficial, referência para citação e PDF.
 
-- [Acervo completo em texto](https://ladirf.github.io/acervo/acervo.md): todas as decisões, uma por seção.
+- [Índice](https://ladirf.github.io/acervo/acervo.md): todas as decisões com resumo; comece por aqui.
+- [Parte 1](https://ladirf.github.io/acervo/acervo-parte-1.md): ementas oficiais, referências e PDFs das decisões 1 a 15.
+- [Parte 2](https://ladirf.github.io/acervo/acervo-parte-2.md): ementas oficiais, referências e PDFs das decisões 16 a 30.
+- [Parte 3](https://ladirf.github.io/acervo/acervo-parte-3.md): ementas oficiais, referências e PDFs das decisões 31 a 45.
+- [Parte 4](https://ladirf.github.io/acervo/acervo-parte-4.md): ementas oficiais, referências e PDFs das decisões 46 a 60.
+- [Parte 5](https://ladirf.github.io/acervo/acervo-parte-5.md): ementas oficiais, referências e PDFs das decisões 61 a 70.
+- [Arquivo único](https://ladirf.github.io/acervo/acervo-completo.md): tudo junto (grande; para enviar a projetos).
 - [Página do acervo](https://ladirf.github.io/acervo/): busca e filtros (interface para pessoas).
