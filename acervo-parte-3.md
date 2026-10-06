@@ -11,7 +11,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 31. HC nº 1124321 / PR (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Nulidade por ausência de alegação específica não debatida em plenário do Tribunal do Júri. Mera alegação por laudo/testemunha não valida aplicação da agravante.
+- Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
 
 ## 32. RHC nº 243213 / SP (STJ)
@@ -23,7 +23,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 33. HC nº 1121206 / PI (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Crime de organização criminosa sem violência ou grave ameaça, não praticado contra os filhos, sem situação excepcional que impeça concessão do benefício da substituição de prisão preventiva em domiciliar à mãe solo de duas crianças menores (3 e 8 anos).
+- Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
 
 ## 34. HC nº 1122510 / BA (STJ)
@@ -156,7 +156,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 43. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo
-- Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa inválida não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia, e é prova irrepetível: refazê-lo não sana o vício. A autoria só pode vir de provas independentes.
+- Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1953602.pdf
 - Ementa oficial:
   > RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PROCESSUAL PENAL. RECONHECIMENTO DE PESSOA (FOTOGRÁFICO E/OU PRESENCIAL). OBSERVÂNCIA DOS PRECEITOS DO ART. 226 DO CÓDIGO DE PROCESSO PENAL: OBRIGATORIEDADE. CONSEQUÊNCIAS DO RECONHECIMENTO FALHO OU VICIADO: (1) IRREPETIBILIDADE. (2) IMPOSSIBILIDADE DE UTILIZAÇÃO, POR SI SÓ, COMO INDÍCIO MÍNIMO DE AUTORIA NECESSÁRIO PARA DECRETAÇÃO DE PRISÃO CAUTELAR, RECEBIMENTO DE DENÚNCIA OU PRONÚNCIA. (3) INADMISSIBILIDADE COMO PROVA DE AUTORIA. POSSIBILIDADE, ENTRETANTO, DE FORMAÇÃO DO CONVENCIMENTO DO MAGISTRADO COM BASE EM PROVAS AUTÔNOMAS. CASO CONCRETO: ROUBO QUALIFICADO DE AGÊNCIA DOS CORREIOS. RECONHECIMENTO PESSOAL VICIADO. CONDENAÇÃO QUE NÃO SE AMPARA EM OUTRAS PROVAS. RECURSO ESPECIAL DA DEFESA PROVIDO.

@@ -165,7 +165,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 19. AgRg no AREsp nº 3141827 / DF (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
-- Resumo: Tribunal do Júri: juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva; viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
+- Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3141827.pdf
 - Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-aresp-3141827.pdf
 - Ementa oficial:
@@ -230,7 +230,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
-- Resumo: Tema 1.241/STJ — Quantidade de droga, sozinha, só afasta o tráfico privilegiado se for tão expressiva que seja incompatível com o pequeno traficante. Fora disso, precisa de outros elementos concretos (profissionalismo, logística, estrutura de armazenamento).
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Quantidade de droga, sozinha, só afasta o tráfico privilegiado se for tão expressiva que seja incompatível com o pequeno traficante. Fora disso, precisa de outros elementos concretos (profissionalismo, logística, estrutura de armazenamento).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2059576.pdf
 - Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1241.pdf
 - Ementa oficial:
@@ -258,7 +258,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
-- Resumo: Tema 1.154/STJ — Natureza e quantidade da droga são avaliadas juntas e uma única vez na dosimetria, de preferência para definir a fração de redução do tráfico privilegiado. Usá-las para aumentar a pena-base e também para reduzir essa fração é bis in idem.
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Natureza e quantidade da droga são avaliadas juntas e uma única vez na dosimetria, de preferência para modular a fração do tráfico privilegiado. Usá-las para aumentar a pena-base e também para reduzir essa fração é bis in idem.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1963433.pdf
 - Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1154.pdf
 - Ementa oficial:
@@ -330,7 +330,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 31. HC nº 1124321 / PR (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Nulidade por ausência de alegação específica não debatida em plenário do Tribunal do Júri. Mera alegação por laudo/testemunha não valida aplicação da agravante.
+- Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
 
 ## 32. RHC nº 243213 / SP (STJ)
@@ -342,7 +342,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 33. HC nº 1121206 / PI (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Crime de organização criminosa sem violência ou grave ameaça, não praticado contra os filhos, sem situação excepcional que impeça concessão do benefício da substituição de prisão preventiva em domiciliar à mãe solo de duas crianças menores (3 e 8 anos).
+- Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
 
 ## 34. HC nº 1122510 / BA (STJ)
@@ -475,7 +475,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 43. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo
-- Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa inválida não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia, e é prova irrepetível: refazê-lo não sana o vício. A autoria só pode vir de provas independentes.
+- Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1953602.pdf
 - Ementa oficial:
   > RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PROCESSUAL PENAL. RECONHECIMENTO DE PESSOA (FOTOGRÁFICO E/OU PRESENCIAL). OBSERVÂNCIA DOS PRECEITOS DO ART. 226 DO CÓDIGO DE PROCESSO PENAL: OBRIGATORIEDADE. CONSEQUÊNCIAS DO RECONHECIMENTO FALHO OU VICIADO: (1) IRREPETIBILIDADE. (2) IMPOSSIBILIDADE DE UTILIZAÇÃO, POR SI SÓ, COMO INDÍCIO MÍNIMO DE AUTORIA NECESSÁRIO PARA DECRETAÇÃO DE PRISÃO CAUTELAR, RECEBIMENTO DE DENÚNCIA OU PRONÚNCIA. (3) INADMISSIBILIDADE COMO PROVA DE AUTORIA. POSSIBILIDADE, ENTRETANTO, DE FORMAÇÃO DO CONVENCIMENTO DO MAGISTRADO COM BASE EM PROVAS AUTÔNOMAS. CASO CONCRETO: ROUBO QUALIFICADO DE AGÊNCIA DOS CORREIOS. RECONHECIMENTO PESSOAL VICIADO. CONDENAÇÃO QUE NÃO SE AMPARA EM OUTRAS PROVAS. RECURSO ESPECIAL DA DEFESA PROVIDO.

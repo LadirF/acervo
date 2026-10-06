@@ -37,7 +37,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 19. AgRg no AREsp nº 3141827 / DF (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
-- Resumo: Tribunal do Júri: juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva; viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
+- Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3141827.pdf
 - Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-aresp-3141827.pdf
 - Ementa oficial:
@@ -102,7 +102,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
-- Resumo: Tema 1.241/STJ — Quantidade de droga, sozinha, só afasta o tráfico privilegiado se for tão expressiva que seja incompatível com o pequeno traficante. Fora disso, precisa de outros elementos concretos (profissionalismo, logística, estrutura de armazenamento).
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Quantidade de droga, sozinha, só afasta o tráfico privilegiado se for tão expressiva que seja incompatível com o pequeno traficante. Fora disso, precisa de outros elementos concretos (profissionalismo, logística, estrutura de armazenamento).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2059576.pdf
 - Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1241.pdf
 - Ementa oficial:
@@ -130,7 +130,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
-- Resumo: Tema 1.154/STJ — Natureza e quantidade da droga são avaliadas juntas e uma única vez na dosimetria, de preferência para definir a fração de redução do tráfico privilegiado. Usá-las para aumentar a pena-base e também para reduzir essa fração é bis in idem.
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Natureza e quantidade da droga são avaliadas juntas e uma única vez na dosimetria, de preferência para modular a fração do tráfico privilegiado. Usá-las para aumentar a pena-base e também para reduzir essa fração é bis in idem.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1963433.pdf
 - Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1154.pdf
 - Ementa oficial:
