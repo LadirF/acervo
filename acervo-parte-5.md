@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 5 de 5 (decisões 61 a 71)
+# Acervo de Jurisprudência — Cury Advogados — parte 5 de 5 (decisões 61 a 73)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 71 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 73 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,44 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Índice de todas as decisões: https://ladirf.github.io/acervo/acervo.md
 
-## 61. HC nº 660930 / SP (STJ)
+## 61. RHC nº 147043 / SP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
+- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
+- Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-147043.pdf
+- Ementa oficial:
+  > RECURSO EM HABEAS CORPUS. OPERAÇÃO CUSTO BRASIL. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E TRÁFICO DE INFLUÊNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA E NA CONSTRIÇÃO CAUTELAR DE BENS. AJUIZAMENTO DE MANDADO DE SEGURANÇA PELO CORRÉU NA ORIGEM. DETERMINAÇÃO, PELA CORTE REGIONAL, DE LEVANTAMENTO DO BLOQUEIO PATRIMONIAL. DEMORA NA FINALIZAÇAO DAS INVESTIGAÇÕES. TRATAMENTO ISONÔMICO. NECESSIDADE.
+  > 1. Hipótese em que medidas cautelares assecuratórias impostas ao acusado persistem desde 3/6/2016, sendo que o oferecimento da denúncia ocorreu somente em 30/4/2019, e seu recebimento, no dia 7/5/2019. Pedido de desbloqueio de bens pendente de apreciação em primeiro grau. Marcha processual sem previsão de início.
+  > 2. Frente à quadra processual na origem ainda indefinida e dado o lapso temporal sobejamente transcorrido, soa desarrazoado manter por mais tempo as providências cautelares então estabelecidas.
+  > 3. Ante a concessão de segurança, em feito ajuizado pelo corréu na origem, a fim de determinar o levantamento da constrição patrimonial, à vista delonga no trâmite das investigações (mesmo com recebimento da denúncia em data anterior pelo Juízo singular), é de rigor a liberação do patrimônio do recorrente, a fim de assegurar tratamento isonômico entre os acusados.
+  > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
+  > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
+
+## 62. HC nº 653515 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
+- Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-653515.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. AUSÊNCIA DE LACRE. FRAGILIDADE DO MATERIAL PROBATÓRIO RESIDUAL. ABSOLVIÇÃO QUE SE MOSTRA DEVIDA. ASSOCIAÇÃO PARA O NARCOTRÁFICO. HIGIDEZ DA CONDENAÇÃO. ORDEM CONCEDIDA.
+  > 1. A superveniência de sentença condenatória não tem o condão de prejudicar a análise da tese defensiva de que teria havido quebra da cadeia de custódia da prova, em razão de a substância entorpecente haver sido entregue para perícia sem o necessário lacre. Isso porque, ao contrário do que ocorre com a prisão preventiva, por exemplo – que tem natureza rebus sic standibus, isto é, que se caracteriza pelo dinamismo existente na situação de fato que justifica a medida constritiva, a qual deve submeter-se sempre a constante avaliação do magistrado –, o caso dos autos traz hipótese em que houve uma desconformidade entre o procedimento usado na coleta e no acondicionamento de determinadas substâncias supostamente apreendidas com o paciente e o modelo previsto no Código de Processo Penal, fenômeno processual, esse, produzido ainda na fase inquisitorial, que se tornou estático e não modificável e, mais do que isso, que subsidiou a própria comprovação da materialidade e da autoria delitivas.
+  > 2. Segundo o disposto no art. 158-A do CPP, "Considera-se cadeia de custódia o conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento até o descarte".
+  > 3. A autenticação de uma prova é um dos métodos que assegura ser o item apresentado aquilo que se afirma ele ser, denominado pela doutrina de princípio da mesmidade.
+  > 4. De forma bastante sintética, pode-se afirmar que o art. 158-B do CPP detalha as diversas etapas de rastreamento do vestígio: reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte. O art. 158-C, por sua vez, estabelece o perito oficial como sujeito preferencial a realizar a coleta dos vestígios, bem como o lugar para onde devem ser encaminhados (central de custódia). Já o art. 158-D disciplina como os vestígios devem ser acondicionados, com a previsão de que todos os recipientes devem ser selados com lacres, com numeração individualizada, "de forma a garantir a inviolabilidade e a idoneidade do vestígio".
+  > 5. Se é certo que, por um lado, o legislador trouxe, nos arts. 158-A a 158-F do CPP, determinações extremamente detalhadas de como se deve preservar a cadeia de custódia da prova, também é certo que, por outro, quedou-se silente em relação aos critérios objetivos para definir quando ocorre a quebra da cadeia de custódia e quais as consequências jurídicas, para o processo penal, dessa quebra ou do descumprimento de um desses dispositivos legais. No âmbito da doutrina, as soluções apresentadas são as mais diversas.
+  > 6. Na hipótese dos autos, pelos depoimentos prestados pelos agentes estatais em juízo, não é possível identificar, com precisão, se as substâncias apreendidas realmente estavam com o paciente já desde o início e, no momento da chegada dos policiais, elas foram por ele dispensadas no chão, ou se as sacolas com as substâncias simplesmente estavam próximas a ele e poderiam eventualmente pertencer a outro traficante que estava no local dos fatos.
+  > 7. Mostra-se mais adequada a posição que sustenta que as irregularidades constantes da cadeia de custódia devem ser sopesadas pelo magistrado com todos os elementos produzidos na instrução, a fim de aferir se a prova é confiável. Assim, à míngua de outras provas capazes de dar sustentação à acusação, deve a pretensão ser julgada improcedente, por insuficiência probatória, e o réu ser absolvido.
+  > 9. O fato de a substância haver chegado para perícia em um saco de supermercado, fechado por nó e desprovido de lacre, fragiliza, na verdade, a própria pretensão acusatória, porquanto não permite identificar, com precisão, se a substância apreendida no local dos fatos foi a mesma apresentada para fins de realização de exame pericial e, por conseguinte, a mesma usada pelo Juiz sentenciante para lastrear o seu decreto condenatório. Não se garantiu a inviolabilidade e a idoneidade dos vestígios coletados (art. 158-D, § 1º, do CPP). A integralidade do lacre não é uma medida meramente protocolar; é, antes, a segurança de que o material não foi manipulado, adulterado ou substituído, tanto que somente o perito poderá realizar seu rompimento para análise, ou outra pessoa autorizada, quando houver motivos (art. 158-D, § 3º, do CPP).
+  > 9. Não se agiu de forma criteriosa com o recolhimento dos elementos probatórios e com sua preservação; a cadeia de custódia do vestígio não foi implementada, o elo de acondicionamento foi rompido e a garantia de integridade e de autenticidade da prova foi, de certa forma, prejudicada. Mais do que isso, sopesados todos os elementos produzidos ao longo da instrução criminal, verifica-se a debilidade ou a fragilidade do material probatório residual, porque, além de o réu haver afirmado em juízo que nem sequer tinha conhecimento da substância entorpecente encontrada, ambos os policiais militares, ouvidos sob o crivo do contraditório e da ampla defesa, não foram uníssonos e claros o bastante em afirmar se a droga apreendida realmente estava em poder do paciente ou se a ele pertencia.
+  > 10. Conforme deflui da sentença condenatória, não houve outras provas suficientes o bastante a formar o convencimento judicial sobre a autoria do crime de tráfico de drogas que foi imputado ao acusado. Não é por demais lembrar que a atividade probatória deve ser de qualidade tal a espancar quaisquer dúvidas sobre a existência do crime e a autoria responsável, o que não ocorreu no caso dos autos. Deveria a acusação, diante do descumprimento do disposto no art. 158-D, § 3º, do CPP, haver suprido as irregularidades por meio de outros elementos probatórios, de maneira que, ao não o fazer, não há como subsistir a condenação do paciente no tocante ao delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+  > 11. Em um modelo processual em que sobrelevam princípios e garantias voltadas à proteção do indivíduo contra eventuais abusos estatais que interfiram em sua liberdade, dúvidas relevantes hão de merecer solução favorável ao réu (favor rei).
+  > 12. Não foi a simples inobservância do procedimento previsto no art. 158-D, § 1º, do CPP que induz a concluir pela absolvição do réu em relação ao crime de tráfico de drogas; foi a ausência de outras provas suficientes o bastante a formar o convencimento judicial sobre a autoria do delito a ele imputado. A questão relativa à quebra da cadeia de custódia da prova merece tratamento acurado, conforme o caso analisado em concreto, de maneira que, a depender das peculiaridades da hipótese analisada, pode haver diferentes desfechos processuais para os casos de descumprimento do assentado no referido dispositivo legal.
+  > 13. Permanece hígida a condenação do paciente no tocante ao crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006), porque, além de ele próprio haver admitido, em juízo, que atuava como olheiro do tráfico de drogas e, assim, confirmando que o local dos fatos era dominado pela facção criminosa denominada Comando Vermelho, esta Corte Superior de Justiça entende que, para a configuração do referido delito, é irrelevante a apreensão de drogas na posse direta do agente.
+  > 14. Porque proclamada a absolvição do paciente em relação ao crime de tráfico de drogas, deve ser a ele assegurado o direito de aguardar no regime aberto o julgamento da apelação criminal. Isso porque era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base estabelecida no mínimo legal e, em relação a esse ilícito, foi condenado à reprimenda de 3 anos de reclusão (fl. 173). Caso não haja recurso do Ministério Público contra a sentença condenatória (ou, se houver e ele for improvido) e a sanção permaneça nesse patamar, fica definitivo o regime inicial mais brando de cumprimento de pena.
+  > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
+  > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
+
+## 63. HC nº 660930 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. O relator ficou vencido ao anular a busca pessoal motivada pela cor da pele.
@@ -28,7 +65,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
   > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
 
-## 62. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 64. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
@@ -42,7 +79,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
   > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
 
-## 63. AgRg no HC nº 157.627 / PR (STF)
+## 65. AgRg no HC nº 157.627 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
@@ -55,7 +92,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > IV – Agravo regimental provido, para conhecer e conceder a ordem.
   > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
 
-## 64. REsp nº 1795341 / RS (STJ)
+## 66. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -69,7 +106,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 65. Inq nº 3.994 / DF (STF)
+## 67. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -90,7 +127,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 66. AgRg no Inq nº 1093 / DF (STJ)
+## 68. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -108,7 +145,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 67. APn nº 746 / MT (STJ)
+## 69. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -125,7 +162,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 68. HC nº 341790 / PR (STJ)
+## 70. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -141,7 +178,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 69. HC nº 127.483 / PR (STF)
+## 71. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -164,9 +201,9 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 70. Inq nº 4.130 QO / PR (STF)
+## 72. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada
+- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-4130-qo.pdf
 - Inteiro teor no STF: https://jurisprudencia.stf.jus.br/pages/search/sjur337006/false
@@ -194,7 +231,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
 
-## 71. REsp nº 1388440 / ES (STJ)
+## 73. REsp nº 1388440 / ES (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
 - Crime / Tema: Crimes contra as relações de consumo · Prescrição
 - Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.

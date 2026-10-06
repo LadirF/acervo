@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 4 de 5 (decisões 46 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 71 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 73 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Índice de todas as decisões: https://ladirf.github.io/acervo/acervo.md
 
-## 46. AgRg no REsp nº 2173273 / MG (STJ)
+## 46. RHC nº 213637 / BA (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
+- Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
+- Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
+
+## 47. AgRg no REsp nº 2173273 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
@@ -22,13 +28,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
 
-## 47. Rcl nº 80.133 / PR (STF)
+## 48. Rcl nº 80.133 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
 - Crime / Tema: Prova digital · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf
 
-## 48. AgRg no AREsp nº 2243364 / MG (STJ)
+## 49. AgRg no AREsp nº 2243364 / MG (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
@@ -52,15 +58,28 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
   > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
 
-## 49. HC nº 840695 / PB (STJ)
+## 50. AgRg no RHC nº 189376 / MT (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
+- Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-189376.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. FALSIFICAÇÃO DO SINAL EMPREGADO NO CONTRASTE DE METAL PRECIOSO OU NA FISCALIZAÇÃO ALFANDEGÁRIA, OU PARA OUTROS FINS. LAVAGEM DE DINHEIRO. COMPETÊNCIA PARA AUTORIZAÇÃO DE QUEBRA DE SIGILO DE DADOS DE CELULAR. NÃO APLICAÇÃO DA TEORIA DO JUÍZO APARENTE. FATOS CONEXOS À OPERAÇAO QUE TRAMITA NA JUSTIÇA FEDERAL. NÃO DEMONSTRÇÃO DE URGÊNCIA QUE AUTORIZARIA A ATUAÇÃO DA JUSTIÇA ESTADUAL. AGRAVO DO MINISTÉRIO PÚBLICO FEDERAL – MPF DESPROVIDO.
+  > 1. De rigor o afastamento da aparente competência da Justiça Estadual para autorização da quebra de sigilo de dados, uma vez que a ação policial que culminou na apreensão do celular teve origem em pedido formulado pela Polícia Federal, que, em razão de decisões proferidas pela Justiça Federal de Cuiabá, no âmbito da operação Catrapo, vinha monitorando o corréu, o que denota ser crível, desde o início, que os fatos investigados eram conexos e estavam compreendidos na competência da Justiça Federal.
+  > 2. Não restando minimamente esclarecido como a competência poderia recair sobre a Justiça Estadual, deve ser afastada a possibilidade de aplicação da teoria do Juízo aparente.
+  > 3. Não demonstrada urgência que validaria a atuação imediata do Juízo Estadual, mormente em se considerando não haver risco efetivo e iminente de perecimento das provas, uma vez que o celular apreendido se encontrava sob custódia da Justiça, a extração de dados do celular apreendido por ele determinada deve ser declarada nula.
+  > 4. Agravo regimental desprovido.
+  > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+
+## 51. HC nº 840695 / PB (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/02/2025.
 - Crime / Tema: Estelionato · Continuidade delitiva · Dosimetria
 - Resumo: Pirâmide financeira: os 41 estelionatos, praticados do mesmo modo e em sequência, configuram crime continuado, e não concurso material. Em vez de somar as penas, aplica-se uma só pena aumentada. Continuidade reconhecida de ofício, com pena final de 3 anos e 4 meses em regime semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
 
-## 50. HC nº 943710 / SC (STJ)
+## 52. HC nº 943710 / SC (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
-- Crime / Tema: Crimes contra o sistema financeiro · RIF
+- Crime / Tema: Crimes contra o sistema financeiro · RIF · Competência
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-943710.pdf
 - Ementa oficial:
@@ -74,7 +93,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 7. Ordem concedida parcialmente para reconhecer a ilicitude da solicitação direta dos Relatórios de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos deles derivados, cabendo ao Juízo de primeiro grau identificá-los, procedendo ao seu desentranhamento, além de analisar se persiste a justa causa para o trâmite da ação penal na sua ausência.
   > (HC n. 943.710/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
 
-## 51. AgRg no HC nº 828054 / RN (STJ)
+## 53. AgRg no HC nº 828054 / RN (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/04/2024.
 - Crime / Tema: Tráfico de drogas · Quebra da cadeia de custódia · Prova digital
 - Resumo: Extração de dados de celular sem metodologia que garanta a integridade (hash, software certificado; só prints de tela): a quebra da cadeia de custódia torna a prova digital inadmissível, e o ônus é do Estado. Ordem concedida de ofício.
@@ -91,7 +110,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
   > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
 
-## 52. RMS nº 38.983 / DF (STF)
+## 54. RMS nº 38.983 / DF (STF)
 - Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Gilmar Mendes. Segunda Turma. Publicado em 28/02/2024.
 - Crime / Tema: PAD (administrativo)
 - Resumo: PAD: é ilegal a demissão por abandono de cargo sem prova da intenção de abandonar (art. 138 da Lei 8.112/90). Os motivos e pressupostos de fato da penalidade podem ser controlados pelo Judiciário, pois não são juízo de conveniência da Administração. Segurança concedida.
@@ -104,7 +123,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 4. Recurso ordinário provido para reformar o acórdão recorrido e conceder a segurança.
   > (STF, RMS n. 38.983/DF, relator Ministro André Mendonça, redator do acórdão Ministro Gilmar Mendes, Segunda Turma, julgado em 13/11/2023, DJe de 28/2/2024.)
 
-## 53. Súmula nº 665 (STJ)
+## 55. Súmula nº 665 (STJ)
 - Súmula aprovada pela Primeira Seção em 13/12/2023. Publicado em 14/12/2023.
 - Crime / Tema: PAD (administrativo)
 - Resumo: Controle judicial do PAD restringe-se à regularidade do procedimento e à legalidade do ato; mérito administrativo só em flagrante ilegalidade, teratologia ou sanção manifestamente desproporcional.
@@ -113,7 +132,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > O controle jurisdicional do processo administrativo disciplinar restringe-se ao exame da regularidade do procedimento e da legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, não sendo possível incursão no mérito administrativo, ressalvadas as hipóteses de flagrante ilegalidade, teratologia ou manifesta desproporcionalidade da sanção aplicada.
   > (Súmula n. 665, Primeira Seção, julgado em 13/12/2023, DJe de 14/12/2023.)
 
-## 54. AREsp nº 2236994 / SP (STJ)
+## 56. AREsp nº 2236994 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/11/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A pronúncia exige autoria corroborada com alto grau de probabilidade (arts. 155, 413 e 414 do CPP); a palavra dos policiais, contrariada por cinco laudos periciais, não basta. Impronúncia restabelecida, com comunicação à Corregedoria da PM.
@@ -134,7 +153,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 12. Agravo conhecido e recurso especial provido, a fim de restabelecer a decisão de impronúncia, com determinação de comunicação dos fatos à Corregedoria da PM/SP.
   > (AREsp n. 2.236.994/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023.)
 
-## 55. REsp nº 2004051 / SC (STJ)
+## 57. REsp nº 2004051 / SC (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 22/08/2023.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri
 - Resumo: Laudos periciais produzidos unilateralmente pelo MP e pela polícia, durante a instrução e sem controle judicial, são nulos e devem ser desentranhados, assim como o ofício do DNIT juntado após a pronúncia. A pronúncia foi mantida, porque não se baseou neles: embriaguez e direção perigosa indicam dolo eventual, que é compatível com a tentativa.
@@ -154,13 +173,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 11. Agravo conhecido para negar provimento ao recurso especial interposto contra o acórdão proferido nos Embargos Infringentes. Recurso especial dirigido contra o acórdão proferido no Recurso em Sentido Estrito parcialmente conhecido e, nessa extensão, provido em parte, a fim de anular os exames periciais realizados pela autoridade policial e pelo Ministério Público e que foram juntados após a pronúncia, determinando que sejam desentranhados dos autos. Habeas corpus concedido, de ofício, para anular a prova produzida por meio da requisição de diligências feita pelo Ministério Público do Estado de Santa Catarina ao Departamento Nacional de Infraestrutura e Transportes - DNIT, determinando o desentranhamento do Ofício n. 55223/2019, do referido Órgão.
   > (REsp n. 2.004.051/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
 
-## 56. HC nº 219.196 / GO (STF)
+## 58. HC nº 219.196 / GO (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 02/06/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão · Direito ao silêncio · Cabimento do HC
 - Resumo: Confissão informal colhida sem aviso do direito ao silêncio é ilícita, e denúncia anônima, sozinha, não autoriza o ingresso em domicílio (art. 5º, XI e LXIII, da CF). Busca anulada junto com as provas derivadas (art. 157, § 1º, do CPP); ré absolvida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-219196.pdf
 
-## 57. HC nº 166.373 / PR (STF)
+## 59. HC nº 166.373 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Alexandre de Moraes. Plenário. Publicado em 18/05/2023.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
@@ -175,7 +194,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5.Habeas Corpus deferido, com a fixação da seguinte TESE: “Havendo pedido expresso da defesa no momento processual adequado (art. 403 do CPP e art. 11 da Lei 8.038/90), os réus têm o direito de apresentar suas alegações finais após a manifestação das defesas dos colaboradores, sob pena de nulidade”.
   > (STF, HC n. 166.373/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 30/11/2022, DJe de 18/5/2023.)
 
-## 58. AgRg no RHC nº 143169 / RJ (STJ)
+## 60. AgRg no RHC nº 143169 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto; redator do acórdão: Min. Ribeiro Dantas. Quinta Turma. Publicado em 02/03/2023.
 - Crime / Tema: Furto · Organização criminosa · Lavagem de dinheiro · Quebra da cadeia de custódia · Prova digital
 - Resumo: Quebra da cadeia de custódia da prova digital: a polícia não documentou a apreensão e a análise dos computadores, sem imagem bit a bit nem hash. É ônus do Estado provar a integridade da prova. São inadmissíveis as provas extraídas e as delas derivadas, e a exigência vale mesmo para fatos anteriores ao Pacote Anticrime.
@@ -192,40 +211,3 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 8. Pela quebra da cadeia de custódia, são inadmissíveis as provas extraídas dos computadores do acusado, bem como as provas delas derivadas, em aplicação analógica do art. 157, § 1º, do CPP.
   > 9. Agravo regimental parcialmente provido, para prover também em parte o recurso ordinário em habeas corpus e declarar a inadmissibilidade das provas em questão.
   > (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023.)
-
-## 59. RHC nº 147043 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
-- Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-147043.pdf
-- Ementa oficial:
-  > RECURSO EM HABEAS CORPUS. OPERAÇÃO CUSTO BRASIL. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E TRÁFICO DE INFLUÊNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA E NA CONSTRIÇÃO CAUTELAR DE BENS. AJUIZAMENTO DE MANDADO DE SEGURANÇA PELO CORRÉU NA ORIGEM. DETERMINAÇÃO, PELA CORTE REGIONAL, DE LEVANTAMENTO DO BLOQUEIO PATRIMONIAL. DEMORA NA FINALIZAÇAO DAS INVESTIGAÇÕES. TRATAMENTO ISONÔMICO. NECESSIDADE.
-  > 1. Hipótese em que medidas cautelares assecuratórias impostas ao acusado persistem desde 3/6/2016, sendo que o oferecimento da denúncia ocorreu somente em 30/4/2019, e seu recebimento, no dia 7/5/2019. Pedido de desbloqueio de bens pendente de apreciação em primeiro grau. Marcha processual sem previsão de início.
-  > 2. Frente à quadra processual na origem ainda indefinida e dado o lapso temporal sobejamente transcorrido, soa desarrazoado manter por mais tempo as providências cautelares então estabelecidas.
-  > 3. Ante a concessão de segurança, em feito ajuizado pelo corréu na origem, a fim de determinar o levantamento da constrição patrimonial, à vista delonga no trâmite das investigações (mesmo com recebimento da denúncia em data anterior pelo Juízo singular), é de rigor a liberação do patrimônio do recorrente, a fim de assegurar tratamento isonômico entre os acusados.
-  > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
-  > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
-
-## 60. HC nº 653515 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
-- Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-653515.pdf
-- Ementa oficial:
-  > HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. AUSÊNCIA DE LACRE. FRAGILIDADE DO MATERIAL PROBATÓRIO RESIDUAL. ABSOLVIÇÃO QUE SE MOSTRA DEVIDA. ASSOCIAÇÃO PARA O NARCOTRÁFICO. HIGIDEZ DA CONDENAÇÃO. ORDEM CONCEDIDA.
-  > 1. A superveniência de sentença condenatória não tem o condão de prejudicar a análise da tese defensiva de que teria havido quebra da cadeia de custódia da prova, em razão de a substância entorpecente haver sido entregue para perícia sem o necessário lacre. Isso porque, ao contrário do que ocorre com a prisão preventiva, por exemplo – que tem natureza rebus sic standibus, isto é, que se caracteriza pelo dinamismo existente na situação de fato que justifica a medida constritiva, a qual deve submeter-se sempre a constante avaliação do magistrado –, o caso dos autos traz hipótese em que houve uma desconformidade entre o procedimento usado na coleta e no acondicionamento de determinadas substâncias supostamente apreendidas com o paciente e o modelo previsto no Código de Processo Penal, fenômeno processual, esse, produzido ainda na fase inquisitorial, que se tornou estático e não modificável e, mais do que isso, que subsidiou a própria comprovação da materialidade e da autoria delitivas.
-  > 2. Segundo o disposto no art. 158-A do CPP, "Considera-se cadeia de custódia o conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento até o descarte".
-  > 3. A autenticação de uma prova é um dos métodos que assegura ser o item apresentado aquilo que se afirma ele ser, denominado pela doutrina de princípio da mesmidade.
-  > 4. De forma bastante sintética, pode-se afirmar que o art. 158-B do CPP detalha as diversas etapas de rastreamento do vestígio: reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte. O art. 158-C, por sua vez, estabelece o perito oficial como sujeito preferencial a realizar a coleta dos vestígios, bem como o lugar para onde devem ser encaminhados (central de custódia). Já o art. 158-D disciplina como os vestígios devem ser acondicionados, com a previsão de que todos os recipientes devem ser selados com lacres, com numeração individualizada, "de forma a garantir a inviolabilidade e a idoneidade do vestígio".
-  > 5. Se é certo que, por um lado, o legislador trouxe, nos arts. 158-A a 158-F do CPP, determinações extremamente detalhadas de como se deve preservar a cadeia de custódia da prova, também é certo que, por outro, quedou-se silente em relação aos critérios objetivos para definir quando ocorre a quebra da cadeia de custódia e quais as consequências jurídicas, para o processo penal, dessa quebra ou do descumprimento de um desses dispositivos legais. No âmbito da doutrina, as soluções apresentadas são as mais diversas.
-  > 6. Na hipótese dos autos, pelos depoimentos prestados pelos agentes estatais em juízo, não é possível identificar, com precisão, se as substâncias apreendidas realmente estavam com o paciente já desde o início e, no momento da chegada dos policiais, elas foram por ele dispensadas no chão, ou se as sacolas com as substâncias simplesmente estavam próximas a ele e poderiam eventualmente pertencer a outro traficante que estava no local dos fatos.
-  > 7. Mostra-se mais adequada a posição que sustenta que as irregularidades constantes da cadeia de custódia devem ser sopesadas pelo magistrado com todos os elementos produzidos na instrução, a fim de aferir se a prova é confiável. Assim, à míngua de outras provas capazes de dar sustentação à acusação, deve a pretensão ser julgada improcedente, por insuficiência probatória, e o réu ser absolvido.
-  > 9. O fato de a substância haver chegado para perícia em um saco de supermercado, fechado por nó e desprovido de lacre, fragiliza, na verdade, a própria pretensão acusatória, porquanto não permite identificar, com precisão, se a substância apreendida no local dos fatos foi a mesma apresentada para fins de realização de exame pericial e, por conseguinte, a mesma usada pelo Juiz sentenciante para lastrear o seu decreto condenatório. Não se garantiu a inviolabilidade e a idoneidade dos vestígios coletados (art. 158-D, § 1º, do CPP). A integralidade do lacre não é uma medida meramente protocolar; é, antes, a segurança de que o material não foi manipulado, adulterado ou substituído, tanto que somente o perito poderá realizar seu rompimento para análise, ou outra pessoa autorizada, quando houver motivos (art. 158-D, § 3º, do CPP).
-  > 9. Não se agiu de forma criteriosa com o recolhimento dos elementos probatórios e com sua preservação; a cadeia de custódia do vestígio não foi implementada, o elo de acondicionamento foi rompido e a garantia de integridade e de autenticidade da prova foi, de certa forma, prejudicada. Mais do que isso, sopesados todos os elementos produzidos ao longo da instrução criminal, verifica-se a debilidade ou a fragilidade do material probatório residual, porque, além de o réu haver afirmado em juízo que nem sequer tinha conhecimento da substância entorpecente encontrada, ambos os policiais militares, ouvidos sob o crivo do contraditório e da ampla defesa, não foram uníssonos e claros o bastante em afirmar se a droga apreendida realmente estava em poder do paciente ou se a ele pertencia.
-  > 10. Conforme deflui da sentença condenatória, não houve outras provas suficientes o bastante a formar o convencimento judicial sobre a autoria do crime de tráfico de drogas que foi imputado ao acusado. Não é por demais lembrar que a atividade probatória deve ser de qualidade tal a espancar quaisquer dúvidas sobre a existência do crime e a autoria responsável, o que não ocorreu no caso dos autos. Deveria a acusação, diante do descumprimento do disposto no art. 158-D, § 3º, do CPP, haver suprido as irregularidades por meio de outros elementos probatórios, de maneira que, ao não o fazer, não há como subsistir a condenação do paciente no tocante ao delito descrito no art. 33, caput, da Lei n. 11.343/2006.
-  > 11. Em um modelo processual em que sobrelevam princípios e garantias voltadas à proteção do indivíduo contra eventuais abusos estatais que interfiram em sua liberdade, dúvidas relevantes hão de merecer solução favorável ao réu (favor rei).
-  > 12. Não foi a simples inobservância do procedimento previsto no art. 158-D, § 1º, do CPP que induz a concluir pela absolvição do réu em relação ao crime de tráfico de drogas; foi a ausência de outras provas suficientes o bastante a formar o convencimento judicial sobre a autoria do delito a ele imputado. A questão relativa à quebra da cadeia de custódia da prova merece tratamento acurado, conforme o caso analisado em concreto, de maneira que, a depender das peculiaridades da hipótese analisada, pode haver diferentes desfechos processuais para os casos de descumprimento do assentado no referido dispositivo legal.
-  > 13. Permanece hígida a condenação do paciente no tocante ao crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006), porque, além de ele próprio haver admitido, em juízo, que atuava como olheiro do tráfico de drogas e, assim, confirmando que o local dos fatos era dominado pela facção criminosa denominada Comando Vermelho, esta Corte Superior de Justiça entende que, para a configuração do referido delito, é irrelevante a apreensão de drogas na posse direta do agente.
-  > 14. Porque proclamada a absolvição do paciente em relação ao crime de tráfico de drogas, deve ser a ele assegurado o direito de aguardar no regime aberto o julgamento da apelação criminal. Isso porque era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base estabelecida no mínimo legal e, em relação a esse ilícito, foi condenado à reprimenda de 3 anos de reclusão (fl. 173). Caso não haja recurso do Ministério Público contra a sentença condenatória (ou, se houver e ele for improvido) e a sanção permaneça nesse patamar, fica definitivo o regime inicial mais brando de cumprimento de pena.
-  > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
-  > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
