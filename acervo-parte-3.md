@@ -32,16 +32,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - Resumo: Superação excepcional da Súmula 691/STF — liminar para soltura imediata, paciente mantido preso em flagrante por mais de 72h sem qualquer controle jurisdicional da custódia, sem prejuízo de nova decretação de preventiva pelo Juízo natural, se fundamentada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1122510.pdf
 
-## 35. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
-- Decisão colegiada. Relator: Des. Carlos Eduardo Contar. 2ª Câmara Criminal. Publicado em 14/07/2026.
-- Crime / Tema: Extorsão · Quebra da cadeia de custódia · Prova digital
-- Resumo: Absolvição por insuficiência de provas: prints de WhatsApp sem perícia não bastam para condenar. Ausência de integridade do material digital.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0027305-77-2022.pdf
-- Ementa oficial:
-  > APELAÇÃO – DIREITO PROCESSUAL PENAL – EXTORSÃO – ABSOLVIÇÃO – PROVA DIGITAL – APONTAMENTO DE SÉRIA DÚVIDA QUANTO À ORIGEM E ELABORAÇÃO – IMPOSSIBILIDADE DE AFERIÇÃO TÉCNICA DE SUA CONFIABILIDADE – ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSITIVA – PROVIMENTO. Ainda que o conjunto de indícios apontem para a possível responsabilidade do acusado, não sendo possível aferir-se tecnicamente a rastreabilidade da prova digital coligida e fundamentadamente impugnada pela defesa, de rigor a absolvição, em homenagem ao princípio do in dubio pro reo. Apelação defensiva a que se dá provimento, a fim de acolher o pleito absolutório.
-  > (TJMS, Apelação Criminal n. 0027305-77.2022.8.12.0001, relator Desembargador Carlos Eduardo Contar, 2ª Câmara Criminal, julgado em 14/7/2026, publicado em 14/7/2026.)
-
-## 36. REsp nº 2197493 / RS (STJ)
+## 35. REsp nº 2197493 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/06/2026.
 - Crime / Tema: Abuso sexual infantojuvenil (ECA) · Prova digital · Acesso da defesa às provas
 - Resumo: Relatórios (reports) do NCMEC que deram origem à investigação de material de abuso sexual infantil não foram entregues à defesa. Sem acesso a essa fonte primária do relatório policial, os autos voltam à origem para juntada integral e reabertura do prazo defensivo. A confissão não supre a falta.
@@ -74,6 +65,15 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 4. Reconhecido o vício desde a resposta à acusação, devem ser renovados os atos necessários ao efetivo exercício da ampla defesa, com reavaliação da força probatória do relatório policial caso os documentos originários não possam ser apresentados.
   > 5. A confissão do acusado não supre a ausência de disponibilização da fonte primária utilizada na elaboração do relatório policial, nem afasta a necessidade de elementos externos de corroboração independentes para sustentar condenação pelo art. 241-B do ECA.
   > (REsp n. 2.197.493/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/6/2026, DJEN de 23/6/2026.)
+
+## 36. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
+- Decisão colegiada. Relator: Des. Carlos Eduardo Contar. 2ª Câmara Criminal. Publicado em 04/08/2026.
+- Crime / Tema: Extorsão · Quebra da cadeia de custódia · Prova digital
+- Resumo: Absolvição por insuficiência de provas: prints de WhatsApp sem perícia não bastam para condenar. Ausência de integridade do material digital.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0027305-77-2022.pdf
+- Ementa oficial:
+  > APELAÇÃO – DIREITO PROCESSUAL PENAL – EXTORSÃO – ABSOLVIÇÃO – PROVA DIGITAL – APONTAMENTO DE SÉRIA DÚVIDA QUANTO À ORIGEM E ELABORAÇÃO – IMPOSSIBILIDADE DE AFERIÇÃO TÉCNICA DE SUA CONFIABILIDADE – ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSITIVA – PROVIMENTO. Ainda que o conjunto de indícios apontem para a possível responsabilidade do acusado, não sendo possível aferir-se tecnicamente a rastreabilidade da prova digital coligida e fundamentadamente impugnada pela defesa, de rigor a absolvição, em homenagem ao princípio do in dubio pro reo. Apelação defensiva a que se dá provimento, a fim de acolher o pleito absolutório.
+  > (TJMS, Apelação Criminal n. 0027305-77.2022.8.12.0001, relator Desembargador Carlos Eduardo Contar, 2ª Câmara Criminal, julgado em 31/7/2026, publicado em 4/8/2026.)
 
 ## 37. REsp nº 2163522 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/06/2026.
