@@ -7,11 +7,11 @@ Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
 Este índice lista todas as decisões com o resumo. As **ementas oficiais, referências e links de PDF** estão nas partes abaixo (15 decisões cada, na mesma numeração):
-- Parte 1: decisões 1 a 15 — https://ladirf.github.io/acervo/acervo-parte-1.md
-- Parte 2: decisões 16 a 30 — https://ladirf.github.io/acervo/acervo-parte-2.md
-- Parte 3: decisões 31 a 45 — https://ladirf.github.io/acervo/acervo-parte-3.md
-- Parte 4: decisões 46 a 60 — https://ladirf.github.io/acervo/acervo-parte-4.md
-- Parte 5: decisões 61 a 73 — https://ladirf.github.io/acervo/acervo-parte-5.md
+- Parte 1: decisões 1 a 15 — https://ladirf.github.io/acervo/ia/20261006-1716/acervo-parte-1.md
+- Parte 2: decisões 16 a 30 — https://ladirf.github.io/acervo/ia/20261006-1716/acervo-parte-2.md
+- Parte 3: decisões 31 a 45 — https://ladirf.github.io/acervo/ia/20261006-1716/acervo-parte-3.md
+- Parte 4: decisões 46 a 60 — https://ladirf.github.io/acervo/ia/20261006-1716/acervo-parte-4.md
+- Parte 5: decisões 61 a 73 — https://ladirf.github.io/acervo/ia/20261006-1716/acervo-parte-5.md
 - Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md
 
 ## Decisões
