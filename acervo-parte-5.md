@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 5 de 5 (decisões 61 a 70)
+# Acervo de Jurisprudência — Cury Advogados — parte 5 de 5 (decisões 61 a 71)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 70 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 71 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,27 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Índice de todas as decisões: https://ladirf.github.io/acervo/acervo.md
 
-## 61. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 61. HC nº 660930 / SP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. O relator ficou vencido ao anular a busca pessoal motivada pela cor da pele.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-660930.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. TRÁFICO. 1,53 GRAMAS DE COCAÍNA. SENTENÇA CONDENATÓRIA. DOSIMETRIA. DESPROPORCIONALIDADE. VALORAÇÃO NEGATIVA DA PERSONALIDADE COM FUNDAMENTO EM ANTECEDENTES CRIMINAIS. IMPOSSIBILIDADE. FLAGRANTE ILEGALIDADE. QUANTIDADE DE DROGA QUE NÃO JUSTIFICA AFASTAR A CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. ÍNFIMA QUANTIDADE QUE DEVE PREVALECER SOBRE A REINCIDÊNCIA, PERMITINDO FIXAR REGIME MAIS BRANDO E SUBSTITUIR A REPRIMENDA. FLAGRANTE ILEGALIDADE. ORDEM CONCEDIDA À UNANIMIDADE. AUTO DE PRISÃO EM FLAGRANTE EIVADO DE NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA ORIGINADA EM ELEMENTO INIDÔNEO. COR DA PELE NÃO PODE CONFIGURAR ELEMENTO CONCRETO INDICIÁRIO DE DESCONFIANÇA DO AGENTE DE SEGURANÇA PÚBLICA. ILICITUDE DOS ELEMENTOS DE PROVA QUE EMBASARAM A CONDENAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONVICÇÃO DO RELATOR NÃO ACOMPANHADA NA SEXTA TURMA.
+  > 1. A valoração negativa da personalidade com fundamento nas condenações transitadas em julgado não encontra respaldo na atual jurisprudência do Superior Tribunal de Justiça, consolidada no sentido de que eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte (EAREsp n. 1.311.636/MS, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 26/4/2019 - grifo nosso).
+  > 2. A ínfima quantidade da droga apreendida não justifica o afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, sendo perfeitamente cabível a sua aplicação em patamar intermediário (1/2), diante da reincidência.
+  > 3. Ordem concedida para redimensionar a pena, com modificação do regime e reconhecida a possibilidade de substituição da pena por duas restritivas de direito a serem fixadas pelo Juízo das Execuções Criminais.
+  > 4. Busca pessoal do paciente feita em razão de o mesmo ser negro conforme depoimento dos responsáveis pelo flagrante: “QUE AO PASSAR PELA RUA SANTA TERESA, QUADRA 4, AVISTOU AO LONGE UM INDIVÍDUO DE COR NEGRA QUE ESTAVA EM CENA TÍPICA DE TRÁFICO DE DROGAS, UMA VEZ QUE ELE ESTAVA EM PÉ JUNTO O MEIO FIO DA VIA PÚBLICA E UM VEÍCULO ESTAVA PARADO JUNTO A ELE COMO SE ESTIVESSE VENDENDO/COMPRANDO ALGO” e “QUE AO SE APROXIMAREM DA RUA SANTA TERESA VIRAM UM INDIVÍDUO NEGRO QUE "SERVIA" ALGUM USUÁRIO DE DROGA EM UM CARRO DE COR CLARA”.
+  > 5. A cor da pele do paciente foi o que, considerando o depoimento dos policiais responsáveis pelo flagrante, despertou a suspeita que justificou a busca pessoal no paciente. Ainda que não tenha sido somente a cor da pele, mas, sim, todo o contexto, como estar o indivíduo ao lado de veículo, em atitude de mercancia, em área de tráfico, pela experiência dos policiais, a meu ver, a cor da pele foi o fator que primeiramente despertou a atenção do agente de segurança pública, o que não pode ser admitido.
+  > 6. Este Superior Tribunal de Justiça por diversas vezes constatou abusos praticados pelas forças policiais na execução das buscas pessoal e domiciliar, concedendo a ordem para reconhecer a nulidade das provas obtidas nessas buscas irregulares, com a consequente absolvição dos acusados.
+  > 7. Não se pode ter como elemento ensejador da fundada suspeita a convicção do agente policial despertada a partir da cor da pele, como descrito no Auto de Prisão em Flagrante constante dos autos, sob o risco de ratificação de condutas tirânicas violadoras de direitos e garantias individuais, a configurar tanto o abuso de poder, quanto o racismo.
+  > 8. Nula a abordagem realizada pelos policiais militares, diante da manifesta ausência de fundada suspeita de o paciente estar portando drogas no momento da abordagem, acarretando a ilicitude das provas obtidas por meio da busca pessoal.
+  > 9. Ausentes os elementos probatórios que ensejaram a condenação, a sentença deverá ser anulada, absolvendo-se o paciente por ausência de provas da materialidade do delito.
+  > 10. Na sessão de julgamento de 14/9/2021, a Sexta Turma não acompanhou o Relator na concessão da ordem de ofício, quanto à ilegalidade da busca pessoal, à mingua de fundada suspeita.
+  > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
+  > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
+
+## 62. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
@@ -22,7 +42,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
   > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
 
-## 62. AgRg no HC nº 157.627 / PR (STF)
+## 63. AgRg no HC nº 157.627 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
@@ -35,7 +55,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > IV – Agravo regimental provido, para conhecer e conceder a ordem.
   > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
 
-## 63. REsp nº 1795341 / RS (STJ)
+## 64. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -49,7 +69,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 64. Inq nº 3.994 / DF (STF)
+## 65. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -70,7 +90,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 65. AgRg no Inq nº 1093 / DF (STJ)
+## 66. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -88,7 +108,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 66. APn nº 746 / MT (STJ)
+## 67. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -105,7 +125,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 67. HC nº 341790 / PR (STJ)
+## 68. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -121,7 +141,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 68. HC nº 127.483 / PR (STF)
+## 69. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -144,7 +164,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 69. Inq nº 4.130 QO / PR (STF)
+## 70. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
@@ -174,7 +194,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
 
-## 70. REsp nº 1388440 / ES (STJ)
+## 71. REsp nº 1388440 / ES (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
 - Crime / Tema: Crimes contra as relações de consumo · Prescrição
 - Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.

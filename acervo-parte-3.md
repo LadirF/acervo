@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 3 de 5 (decisões 31 a 45)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 70 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 71 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -120,7 +120,21 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 3. Agravo regimental a que se nega provimento.
   > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)
 
-## 41. AgRg no AREsp nº 2583516 / TO (STJ)
+## 41. RHC nº 223931 / PE (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
+- Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-223931.pdf
+- Ementa oficial:
+  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. OCORRÊNCIA. RECURSO PROVIDO.
+  > 1. O trancamento da ação penal, somente é possível, na via estreita do habeas corpus ou do seu respectivo recurso ordinário em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de materialidade ou de autoria delitiva.
+  > 2. Limitando-se a peça acusatória a genericamente imputar as condutas de tráfico e associação para o tráfico, sem qualquer descrição concreta da suposta coordenação, da divisão específica de tarefas ou do vínculo estável entre os réus, verifica-se a inobservância dos requisitos previstos no art. 41 do CPP.
+  > 3. A mera referência a registros policiais pretéritos e a apreensões desacompanhadas de indicação precisa de datas, locais e circunstâncias dos fatos não supre a exigência legal de descrição mínima apta a demonstrar a justa causa.
+  > 4. A generalidade da imputação compromete o exercício da ampla defesa e do contraditório, impondo o reconhecimento da inépcia da denúncia, com extensão aos demais denunciados, nos termos do art. 580 do CPP.
+  > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
+  > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
+
+## 42. AgRg no AREsp nº 2583516 / TO (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
@@ -147,13 +161,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
   > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
 
-## 42. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
+## 43. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin (Presidente). Publicado em 02/02/2026.
 - Crime / Tema: Dosimetria
 - Resumo: Devolução do processo ao fluxo regular após pacificação do Tema 150/STF (RE 593818): maus antecedentes não prescrevem em 5 anos como a reincidência, mas o julgador pode deixar de valorá-los se irrelevantes ou muito distantes no tempo.
 - Ver andamento no STF: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7467927
 
-## 43. REsp nº 1953602 / SP (STJ)
+## 44. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -173,22 +187,8 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 44. RHC nº 213637 / BA (STJ)
+## 45. RHC nº 213637 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
-
-## 45. AgRg no REsp nº 2173273 / MG (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
-- Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2173273.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. AUSÊNCIA. DENÚNCIA ANÔNIMA. NERVOSISMO. ELEMENTOS SUBJETIVOS INSUFICIENTES. CONSENTIMENTO DO MORADOR. NÃO COMPROVAÇÃO. ILICITUDE DA PROVA. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. O Plenário do Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, com repercussão geral previamente reconhecida (Tema n. 280), assentou que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados" (Rel. Ministro Gilmar Mendes, DJe 10/5/2016).
-  > 2. Consoante entendimento do Supremo Tribunal Federal, a notícia anônima de crime, por si só, não é apta para instaurar inquérito policial; ela pode servir de base válida à investigação e à persecução criminal, desde que haja prévia verificação de sua credibilidade em apurações preliminares, ou seja, desde que haja investigações prévias para verificar a verossimilhança da notitia criminis anônima. Assim, com muito mais razão, não há como se admitir que denúncia anônima seja elemento válido para violar franquias constitucionais (à liberdade, ao domicílio, à intimidade).
-  > 3. No caso concreto, segundo consta dos autos, policiais militares receberam denúncia anônima quanto à comercialização de drogas em determinado endereço. Ao lá chegarem, encontraram o acusado na porta da residência, o qual supostamente demonstrou nervosismo. Abordaram-no e este haveria confessado o armazenamento de drogas, bem como franqueado o acesso dos policiais ao imóvel.
-  > 4. No caso dos autos, não há comprovação do consentimento livre e voluntário para o ingresso em domicílio. Com efeito, soa completamente inverossímil a versão policial, ao narrar que o réu, depois de ser abordado em via pública, haveria livre e espontaneamente confessado ter drogas em casa e franqueado o ingresso no domicílio para uma varredura à procura de substâncias ilícitas. Ora, um mínimo de vivência e de bom senso sugerem a falta de credibilidade de tal versão. Pelas circunstâncias em que ocorreram os fatos –, quantidade de policiais, todos armados etc. –, não se mostra crível a voluntariedade e a liberdade para consentir no ingresso. Ademais, O suposto nervosismo genérico do acusado, isoladamente, não é suficiente para justificar o imediato ingresso em domicílio.
-  > 5. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)

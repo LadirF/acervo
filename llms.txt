@@ -7,6 +7,6 @@
 - [Parte 2](https://ladirf.github.io/acervo/acervo-parte-2.md): ementas oficiais, referências e PDFs das decisões 16 a 30.
 - [Parte 3](https://ladirf.github.io/acervo/acervo-parte-3.md): ementas oficiais, referências e PDFs das decisões 31 a 45.
 - [Parte 4](https://ladirf.github.io/acervo/acervo-parte-4.md): ementas oficiais, referências e PDFs das decisões 46 a 60.
-- [Parte 5](https://ladirf.github.io/acervo/acervo-parte-5.md): ementas oficiais, referências e PDFs das decisões 61 a 70.
+- [Parte 5](https://ladirf.github.io/acervo/acervo-parte-5.md): ementas oficiais, referências e PDFs das decisões 61 a 71.
 - [Arquivo único](https://ladirf.github.io/acervo/acervo-completo.md): tudo junto (grande; para enviar a projetos).
 - [Página do acervo](https://ladirf.github.io/acervo/): busca e filtros (interface para pessoas).
