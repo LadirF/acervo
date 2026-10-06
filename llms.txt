@@ -1,0 +1,6 @@
+# Acervo de Jurisprudência — Cury Advogados
+
+> Acervo de decisões (STJ, STF, TRFs e tribunais estaduais), principalmente de Direito Penal e Processual Penal, com resumo, ementa oficial, referência para citação e PDF.
+
+- [Acervo completo em texto](https://ladirf.github.io/acervo/acervo.md): todas as decisões, uma por seção.
+- [Página do acervo](https://ladirf.github.io/acervo/): busca e filtros (interface para pessoas).
