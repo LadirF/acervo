@@ -6,7 +6,7 @@ Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o 
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261006-1716/acervo.md
+Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261006-1728/acervo.md
 
 ## 16. AgRg no AREsp nº 3203005 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 17/09/2026.
@@ -40,7 +40,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 17. REsp nº 2279989 / PR (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
-- Resumo: Impronúncia do réu por insuficiência de prova (depoimento indireto) de autoria no Tribunal do Júri.
+- Resumo: A pronúncia não pode se apoiar só em elementos do inquérito e em testemunho indireto (art. 155 do CPP): sem prova judicial de autoria, impõe-se a impronúncia. Restabelecida a sentença de impronúncia (homicídio qualificado).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2279989.pdf
 
 ## 18. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
@@ -124,7 +124,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 24. HC nº 1127513 / SP (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
 - Crime / Tema: Falsidade ideológica · Alucinação de IA
-- Resumo: Nulidade de relatório final de indiciamento por alucinação de inteligência artificial.
+- Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
 
 ## 25. REsp nº 2059576 / MG (STJ)
@@ -207,7 +207,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 ## 28. HC nº 1095439 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Concessão de ofício da minorante do tráfico privilegiado (ausência de elementos que comprovam dedicação/integração à atividade). Inicialmente afastada (indevidamente) com base apenas na quantidade de droga apreendida.
+- Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: são necessários elementos concretos de dedicação a atividades criminosas ou de integração a organização criminosa. A quantidade expressiva (86,6 kg de cocaína) só modula a fração, aplicada no mínimo (1/6). Pena reduzida para 5 anos, 2 meses e 15 dias, em regime semiaberto. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1095439.pdf
 
 ## 29. HC nº 1104105 / SP (STJ)
@@ -218,6 +218,6 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 ## 30. RHC nº 243155 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
-- Crime / Tema: Estelionato · Uso de documento falso
-- Resumo: Expedição da guia de execução definitiva independentemente do cumprimento do mandado de prisão.
+- Crime / Tema: Furto · Execução penal
+- Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
