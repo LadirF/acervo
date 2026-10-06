@@ -45,7 +45,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
 
 ## 49. HC nº 943710 / SC (STJ)
-- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo. Sexta Turma. Publicado em 23/12/2024.
+- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
 - Crime / Tema: Crimes contra o sistema financeiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-943710.pdf
