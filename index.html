@@ -477,6 +477,41 @@
     color: var(--ink-muted);
   }
 
+  /* Linha da contagem + botão "Limpar filtros" (substitui o Esc no celular) */
+  .count-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 12px;
+  }
+
+  .limpar-filtros {
+    margin-top: 4px;
+    padding: 3px 11px;
+    font: inherit;
+    font-size: 13px;
+    color: var(--ink-muted);
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    box-shadow: var(--shadow-sm);
+    cursor: pointer;
+    transition: color .18s var(--ease), border-color .18s var(--ease), box-shadow .18s var(--ease), transform .18s var(--ease);
+  }
+
+  .limpar-filtros[hidden] { display: none; }
+
+  .limpar-filtros:hover {
+    color: var(--ink);
+    border-color: var(--rule-strong);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-1px);
+  }
+
+  .limpar-filtros:active { transform: translateY(0); box-shadow: var(--shadow-sm); }
+
+  .limpar-filtros:focus-visible { outline: none; border-color: var(--focus); box-shadow: 0 0 0 3px var(--focus-ring); }
+
   /* Decisões: cartões sobre o fundo hachurado */
   ul.docket {
     list-style: none;
@@ -866,7 +901,7 @@
   @media (prefers-reduced-motion: reduce) {
     *, *::before { transition: none !important; }
     dialog.viewer[open] { animation: none; }
-    li.entry:hover, .chips button:hover, .pdf-link:hover, .paginacao button:hover { transform: none !important; }
+    li.entry:hover, .chips button:hover, .pdf-link:hover, .paginacao button:hover, .limpar-filtros:hover { transform: none !important; }
   }
 </style>
 </head>
@@ -940,7 +975,10 @@
         </div>
       </div>
     </div>
-    <p class="count-line" id="countLine">70 decisões</p>
+    <div class="count-row">
+      <p class="count-line" id="countLine">70 decisões</p>
+      <button type="button" class="limpar-filtros" id="limparFiltros" hidden>✕ Limpar filtros</button>
+    </div>
   </div>
 
   <ul class="docket" id="docket">
@@ -1993,6 +2031,9 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       (paginas > 1 ? ' · página ' + pagina + ' de ' + paginas : '');
     emptyState.classList.toggle('show', visible === 0);
     montarPaginacao(paginas);
+    // "Limpar filtros" só aparece com algum filtro ou busca ativa
+    document.getElementById('limparFiltros').hidden = !(term !== '' ||
+      state.tribunal !== 'all' || state.decisao !== 'all' || state.relator !== 'all' || state.crime !== 'all');
   }
 
   // Botões: ‹ Anterior · 1 … 4 5 6 … 9 · Próxima › (primeira, última e a
@@ -2310,6 +2351,9 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     limparFiltros();
     if (document.activeElement === searchInput) searchInput.blur();
   });
+
+  // No celular não há Esc: o botão "Limpar filtros" faz o mesmo.
+  document.getElementById('limparFiltros').addEventListener('click', limparFiltros);
 
   // Tema claro/escuro: abre no claro; o escuro vale quando o usuário escolhe
   // pelo botão (a escolha fica salva neste navegador).
