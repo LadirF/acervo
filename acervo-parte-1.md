@@ -6,7 +6,7 @@ Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o 
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Índice de todas as decisões: https://ladirf.github.io/acervo/acervo.md
+Índice de todas as decisões: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, confirmação nas ementas, compatibilidade alta/média/baixa).
 
 ## 1. HC nº 1120948 / ES (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/10/2026.
