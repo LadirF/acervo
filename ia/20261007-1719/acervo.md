@@ -12,23 +12,24 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 1. **Entenda o caso.** Identifique o crime imputado, a fase processual (investigação, denúncia, instrução, pronúncia, sentença, recurso, execução), a questão jurídica em jogo (nulidade, licitude da prova, prisão, dosimetria, competência etc.), os fatos decisivos e o que a defesa pretende. Se faltar um dado que muda a análise, diga qual.
 2. **Faça a triagem no índice.** Percorra o índice inteiro: cada item traz Crime / Tema e Resumo. Selecione pela **questão jurídica**, não só pelo crime — uma tese sobre cadeia de custódia ou ingresso em domicílio firmada num caso de tráfico pode servir a um caso de homicídio. Os rótulos de Crime / Tema são pistas, não filtros.
-3. **Confirme na fonte.** Abra a parte indicada de cada candidata e leia a ementa oficial (decisões colegiadas). Nas monocráticas, que não têm ementa, use o resumo e, se necessário, o PDF. Não conclua só pelo resumo.
-4. **Compare e classifique.** Para cada decisão selecionada, aponte as semelhanças e as diferenças relevantes de fato e de direito (possível distinguishing) e classifique a compatibilidade como **alta**, **média** ou **baixa**.
-5. **Pondere o peso de cada precedente.** Tema repetitivo, repercussão geral e súmula pesam mais; decisão colegiada pesa mais que monocrática; observe o tribunal, a turma e a data (entendimentos mudam). **Resultado desfavorável à defesa** significa que o pedido foi negado no caso — a tese pode ser útil, mas avise. Trecho marcado "V.V." é voto vencido, não o entendimento do tribunal.
-6. **Responda nesta ordem:** (a) síntese do caso e da questão jurídica; (b) decisões mais compatíveis, da mais para a menos compatível, cada uma com número no acervo, referência para citação (copiada da ementa, sem alterar), tese aplicável, por que se encaixa, ressalvas e link do PDF; (c) decisões do acervo que contrariam a tese da defesa e precisam ser enfrentadas, se houver; (d) se nada for compatível, diga isso claramente.
-7. **Limites.** Cite apenas o que está no acervo — não invente julgados, números, datas ou trechos. Se acrescentar conhecimento próprio, separe e avise que não foi conferido. O acervo é uma seleção do escritório, não uma pesquisa exaustiva; o Resumo é redação do acervo, não texto oficial; recomende conferir a vigência do entendimento nos portais do STJ/STF antes de usar numa peça.
+3. **Filtre pela ementa.** Abra a parte indicada de cada candidata e leia a ementa oficial (decisões colegiadas); nas monocráticas, que não têm ementa, use o resumo. Esta etapa serve para separar as decisões que **corroboram fortemente** o caso concreto das que só tocam o tema.
+4. **Leia o inteiro teor das que corroboram fortemente.** Ementa e resumo mostram só parte do que o tribunal decidiu; ficar neles limita o que o acervo pode oferecer. Por isso, para as decisões filtradas na etapa anterior — e só para elas, porque ler todos os inteiros teores seria inviável —, abra o PDF (link "PDF" na parte correspondente) e leia o inteiro teor: relatório, voto do relator, votos-vista e vencidos, precedentes citados. Procure **tudo o que corrobore o caso concreto**: fundamentos que não entraram na ementa, fatos semelhantes, critérios usados pelo tribunal, precedentes citados que reforcem a tese — e também as ressalvas e distinções que possam enfraquecê-la. Nas decisões do STF em versão leve, o PDF traz só ementa, acórdão e extrato de ata; o inteiro teor completo está no link "Inteiro teor no STF", quando houver. Se não conseguir abrir um PDF, diga isso e conclua com base na ementa.
+5. **Compare e classifique.** Para cada decisão selecionada, aponte as semelhanças e as diferenças relevantes de fato e de direito (possível distinguishing) e classifique a compatibilidade como **alta**, **média** ou **baixa**.
+6. **Pondere o peso de cada precedente.** Tema repetitivo, repercussão geral e súmula pesam mais; decisão colegiada pesa mais que monocrática; observe o tribunal, a turma e a data (entendimentos mudam). **Resultado desfavorável à defesa** significa que o pedido foi negado no caso — a tese pode ser útil, mas avise. Trecho marcado "V.V." é voto vencido, não o entendimento do tribunal.
+7. **Responda nesta ordem:** (a) síntese do caso e da questão jurídica; (b) decisões mais compatíveis, da mais para a menos compatível, cada uma com número no acervo, referência para citação (copiada da ementa, sem alterar), tese aplicável, por que se encaixa, os trechos do inteiro teor que corroboram o caso (entre aspas, com a página do PDF e indicando de quem é o voto), ressalvas e link do PDF; (c) decisões do acervo que contrariam a tese da defesa e precisam ser enfrentadas, se houver; (d) se nada for compatível, diga isso claramente.
+8. **Limites.** Cite apenas o que está no acervo — não invente julgados, números, datas ou trechos. Se acrescentar conhecimento próprio, separe e avise que não foi conferido. O acervo é uma seleção do escritório, não uma pesquisa exaustiva; o Resumo é redação do acervo, não texto oficial; recomende conferir a vigência do entendimento nos portais do STJ/STF antes de usar numa peça.
 
 ## Onde estão as ementas
 
 Este índice lista todas as decisões com o resumo. As **ementas oficiais, referências e links de PDF** estão nas partes abaixo (12 decisões cada, na mesma numeração):
-- Parte 1: decisões 1 a 12 — https://ladirf.github.io/acervo/ia/20261007-1716/acervo-parte-1.md
-- Parte 2: decisões 13 a 24 — https://ladirf.github.io/acervo/ia/20261007-1716/acervo-parte-2.md
-- Parte 3: decisões 25 a 36 — https://ladirf.github.io/acervo/ia/20261007-1716/acervo-parte-3.md
-- Parte 4: decisões 37 a 48 — https://ladirf.github.io/acervo/ia/20261007-1716/acervo-parte-4.md
-- Parte 5: decisões 49 a 60 — https://ladirf.github.io/acervo/ia/20261007-1716/acervo-parte-5.md
-- Parte 6: decisões 61 a 72 — https://ladirf.github.io/acervo/ia/20261007-1716/acervo-parte-6.md
-- Parte 7: decisões 73 a 84 — https://ladirf.github.io/acervo/ia/20261007-1716/acervo-parte-7.md
-- Parte 8: decisões 85 a 90 — https://ladirf.github.io/acervo/ia/20261007-1716/acervo-parte-8.md
+- Parte 1: decisões 1 a 12 — https://ladirf.github.io/acervo/ia/20261007-1719/acervo-parte-1.md
+- Parte 2: decisões 13 a 24 — https://ladirf.github.io/acervo/ia/20261007-1719/acervo-parte-2.md
+- Parte 3: decisões 25 a 36 — https://ladirf.github.io/acervo/ia/20261007-1719/acervo-parte-3.md
+- Parte 4: decisões 37 a 48 — https://ladirf.github.io/acervo/ia/20261007-1719/acervo-parte-4.md
+- Parte 5: decisões 49 a 60 — https://ladirf.github.io/acervo/ia/20261007-1719/acervo-parte-5.md
+- Parte 6: decisões 61 a 72 — https://ladirf.github.io/acervo/ia/20261007-1719/acervo-parte-6.md
+- Parte 7: decisões 73 a 84 — https://ladirf.github.io/acervo/ia/20261007-1719/acervo-parte-7.md
+- Parte 8: decisões 85 a 90 — https://ladirf.github.io/acervo/ia/20261007-1719/acervo-parte-8.md
 - Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md
 
 ## Decisões
