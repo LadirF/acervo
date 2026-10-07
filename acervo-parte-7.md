@@ -127,7 +127,6 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-166373.pdf
-- Inteiro teor no STF: https://jurisprudencia.stf.jus.br/pages/search/sjur479650/false
 - Ementa oficial:
   > CONSTITUCIONAL E PENAL. ACORDO DE COLABORAÇÃO PREMIADA. DEVIDO PROCESSO LEGAL E CONTRADITÓRIO. RÉU/DELATADO TEM O “DIREITO DE FALAR POR ÚLTIMO”. AMPLA DEFESA E APRESENTAÇÃO DE SUAS ALEGAÇÕES FINAIS APÓS A MANIFESTAÇÃO DO COLABORADOR. ORDEM CONCEDIDA.
   > 1.O acordo de colaboração premiada é um meio de obtenção de prova (art. 3º da Lei 12.850/2013), e assim como ocorre em outros meios de obtenção de prova, como a interceptação telefônica, o contraditório é diferido e deverá ser realizado durante a ação penal, com amplas possibilidades de demonstrar eventual falsidade, erros ou exageros das declarações prestadas pelo colaborador. Haverá, portanto, total possibilidade de impugnação das afirmações e informações apresentadas pelo colaborador.
