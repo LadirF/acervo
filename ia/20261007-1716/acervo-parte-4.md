@@ -1,14 +1,28 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 4 de 6 (decisões 46 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 84 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 90 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261007-1551/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, confirmação nas ementas, compatibilidade alta/média/baixa).
+Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261007-1716/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, confirmação nas ementas, compatibilidade alta/média/baixa).
 
-## 46. AgRg no HC nº 1017481 / RN (STJ)
+## 46. AgRg no REsp nº 2237192 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/03/2026.
+- Crime / Tema: Manipulação de mercado · Imparcialidade do juiz
+- Resumo: Suspeição de juiz acionista da empresa ligada à investigação (manipulação de mercado): a parcialidade é aferível objetivamente, e o prejuízo decorre dela. Mantida a anulação de todos os atos do magistrado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2237192.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. INCOMPETÊNCIA DO RELATOR. PREVENÇÃO NÃO OBSERVADA. JULGAMENTO DE MÉRITO DO RECURSO. PRECLUSÃO DA ALEGAÇÃO. ART. 71, § 4º, RISTJ. 2. OFENSA AO ART. 563 DO CPP. SUSPEIÇÃO DO MAGISTRADO. ACIONÁRIO DE EMPRESA RELACIONADA COM A INVESTIGAÇÃO. PARCIALIDADE AFERÍVEL OBJETIVAMENTE. PREJUÍZO DEMONOSTRADO. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+  > 1. Quanto à alegada incompetência deste relator, registro que a distribuição interna do STJ tem natureza relativa, motivo pelo qual eventual prevenção não reconhecida ou reconhecida equivocadamente deve ser suscitada até o início do julgamento, sob pena de preclusão. Com efeito, "o entendimento do STJ é de que a prevenção deve ser suscitada no primeiro momento em que a parte tiver oportunidade, que no caso é a própria distribuição do recurso, ou até o instante que precede o início do seu julgamento". (EDcl no AgRg no AREsp n. 150.035/DF, relator Ministro Humberto Martins, relator para acórdão Ministro Herman Benjamin, Segunda Turma, julgado em 10/11/2015, DJe de 2/2/2017.)
+  > 2. A alegação ministerial consiste em suposta ofensa ao art. 563 do CPP, por considerar que os atos foram anulados sem que se perquirisse a respeito do efetivo prejuízo. Contudo, conforme explicitado na decisão monocrática, a suspeição do magistrado foi verificada em razão de ele possuir 47 participações acionárias da Companhia em que se investigava a divulgação indevida de informações no mercado.
+  > - Nesse contexto, o acórdão recorrido consignou que "a condição que deu causa à mencionada suspeição já existia desde antes da instauração do IPL originário (sendo preexistente portanto ao início das investigações policiais), de modo que atinge todos os atos proferidos pelo Magistrado Dr. VITOR BARBOSA VALPUESTA naquele feito e nos correlacionados, por razões que, como visto acima, são bastante objetivas" (e-STJ fl. 228).
+  > - Como visto, a Corte Regional, ao analisar o caso concreto, considerou que o fato de o juiz ser acionista da IRB BRASIL RESSEGUROS - companhia relacionada à investigação, uma vez que se averiguava a desvalorização de cotações de ações da companhia em virtude de divulgação indevida de informações supostamente inverídicas ao mercado - já revelava o prejuízo, diante da ausência de imparcialidade aferível objetivamente. Dessa forma, não há se falar em ofensa ao art. 563 do CPP.
+  > 3. Agravo regimental a que se nega provimento.
+  > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)
+
+## 47. AgRg no HC nº 1017481 / RN (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 12/03/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital · Fundada suspeita · Cabimento do HC
 - Resumo: O acesso da polícia às conversas do celular do corréu sem autorização judicial é ilícito. Essa prova e as dela derivadas devem ser desentranhadas, cabendo ao juízo verificar se há prova independente que sustente a condenação. A busca pessoal, feita com fundada suspeita, foi considerada válida (art. 244 do CPP).
@@ -34,7 +48,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 3. Provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
   > (AgRg no HC n. 1.017.481/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
 
-## 47. RHC nº 223931 / PE (STJ)
+## 48. RHC nº 223931 / PE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
 - Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
@@ -48,7 +62,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
   > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
 
-## 48. AgRg no AREsp nº 2583516 / TO (STJ)
+## 49. AgRg no AREsp nº 2583516 / TO (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
@@ -75,19 +89,19 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
   > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
 
-## 49. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
+## 50. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin (Presidente). Publicado em 02/02/2026.
 - Crime / Tema: Dosimetria
 - Resumo: Devolução do processo ao fluxo regular após pacificação do Tema 150/STF (RE 593818): maus antecedentes não prescrevem em 5 anos como a reincidência, mas o julgador pode deixar de valorá-los se irrelevantes ou muito distantes no tempo.
 - Ver andamento no STF: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7467927
 
-## 50. AREsp nº 3045207 / MT (STJ)
+## 51. AREsp nº 3045207 / MT (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
 - Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
 - Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
 
-## 51. REsp nº 1953602 / SP (STJ)
+## 52. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -107,13 +121,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 52. RHC nº 213637 / BA (STJ)
+## 53. RHC nº 213637 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
 
-## 53. AgRg no REsp nº 2173273 / MG (STJ)
+## 54. AgRg no REsp nº 2173273 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
@@ -127,13 +141,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
 
-## 54. Rcl nº 80.133 / PR (STF)
+## 55. Rcl nº 80.133 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
 - Crime / Tema: Prova digital · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf
 
-## 55. AgRg no AREsp nº 2243364 / MG (STJ)
+## 56. AgRg no AREsp nº 2243364 / MG (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
@@ -157,7 +171,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
   > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
 
-## 56. AgRg no RHC nº 189376 / MT (STJ)
+## 57. AgRg no RHC nº 189376 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
 - Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
@@ -170,26 +184,20 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 4. Agravo regimental desprovido.
   > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
 
-## 57. HC nº 978977 / PE (STJ)
+## 58. HC nº 978977 / PE (STJ)
 - Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
 
-## 58. AgRg no AREsp nº 2697575 / RJ (STJ)
+## 59. AgRg no AREsp nº 2697575 / RJ (STJ)
 - Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
 - Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf
 
-## 59. HC nº 840695 / PB (STJ)
+## 60. HC nº 840695 / PB (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/02/2025.
 - Crime / Tema: Estelionato · Continuidade delitiva · Dosimetria
 - Resumo: Pirâmide financeira: os 41 estelionatos, praticados do mesmo modo e em sequência, configuram crime continuado, e não concurso material. Em vez de somar as penas, aplica-se uma só pena aumentada. Continuidade reconhecida de ofício, com pena final de 3 anos e 4 meses em regime semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
-
-## 60. AREsp nº 2508013 / MG (STJ)
-- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 29/01/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A pronúncia não pode se basear só em elementos do inquérito e em testemunhos de "ouvir dizer" (art. 155 do CPP). O in dubio pro societate não supre lacuna de prova. Detectado o vício na própria pronúncia, não cabe sequer submeter o réu a novo Júri. Réu despronunciado de ofício, mesmo depois da condenação.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2508013.pdf
