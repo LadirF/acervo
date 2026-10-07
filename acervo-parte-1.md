@@ -1,4 +1,4 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 1 de 6 (decisões 1 a 15)
+# Acervo de Jurisprudência — Cury Advogados — parte 1 de 8 (decisões 1 a 12)
 
 Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 90 decisões, da mais recente para a mais antiga (por data de publicação).
 
@@ -118,21 +118,3 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - Crime / Tema: Crimes contra a ordem tributária · Prescrição
 - Resumo: Crime tributário material (art. 1º, II, da Lei 8.137/90): a prescrição corre da constituição definitiva do crédito (SV 24), conta a pena sem o acréscimo da continuidade (Súmula 497/STF) e cai pela metade para maior de 70 anos na data do acórdão (art. 115 do CP). Prescrição reconhecida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1125136.pdf
-
-## 13. HC nº 1129639 / SP (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/09/2026.
-- Crime / Tema: Ameaça · Violência doméstica · Prisão e medidas cautelares
-- Resumo: Preventiva por ameaça em violência doméstica (pena máxima inferior a 4 anos): o art. 313, III, do CPP exige descumprimento prévio de medida protetiva, e o réu nem havia sido intimado dela. Prisão substituída por medidas protetivas e cautelares diversas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129639.pdf
-
-## 14. HC nº 1130315 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/09/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita
-- Resumo: Busca pessoal em usuário por "comportamento suspeito" genérico, em patrulhamento de rotina, é ilícita (art. 244 do CPP) e contamina o que veio depois: a indicação da casa do vendedor e as apreensões feitas lá (art. 157, § 1º). A ilicitude vale mesmo com a busca feita em terceiro. Paciente e corréu absolvidos de ofício (art. 580 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1130315.pdf
-
-## 15. PET no AREsp nº 2593373 / AM (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2026.
-- Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
-- Resumo: ANPP retroativo (HC 185.913/STF): sem trânsito em julgado, cabe ao MP de primeiro grau avaliar o acordo, e não ao MPF no STJ. Autos remetidos à origem para o MP estadual se manifestar motivadamente sobre o ANPP (art. 28-A do CPP), com direito à revisão do § 14 se houver recusa. O relator não antecipou juízo sobre requisitos nem preclusão.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2593373.pdf
