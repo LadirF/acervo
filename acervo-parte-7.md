@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 7 de 9 (decisões 61 a 70)
+# Acervo de Jurisprudência — Cury Advogados — parte 7 de 10 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 90 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 92 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -66,7 +66,19 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 4. Recurso ordinário provido para reformar o acórdão recorrido e conceder a segurança.
   > (STF, RMS n. 38.983/DF, relator Ministro André Mendonça, redator do acórdão Ministro Gilmar Mendes, Segunda Turma, julgado em 13/11/2023, DJe de 28/2/2024.)
 
-## 66. Súmula nº 665 (STJ)
+## 66. ApCrim nº 5001797-60.2023.8.24.0135 (TJSC)
+- Decisão colegiada. Relator: Des. Leopoldo Augusto Brüggemann. 3ª Câmara Criminal. Publicado em 06/02/2024.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Os policiais foram à casa apurar denúncia anônima de violência doméstica, não a confirmaram e, sem autorização, arrombaram a porta. A droga encontrada depois não legitima o ingresso, porque a flagrância foi constatada só a posteriori. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A entrada na casa do corréu, derivada da primeira, também é ilícita, e a absolvição dele foi mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-5001797-60-2023.pdf
+- Ementa oficial:
+  > APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). SENTENÇA DE PARCIAL PROCEDÊNCIA, COM A CONDENAÇÃO DE UM ACUSADO E ABSOLVIÇÃO DE OUTRO. RECURSOS DA DEFESA E DO MINISTÉRIO PÚBLICO.
+  > RECURSO DEFENSIVO. PRETENSO RECONHECIMENTO DA NULIDADE DA PROVA FACE À VIOLAÇÃO DE DOMICÍLIO. SUBSISTÊNCIA. NÃO OBSERVÂNCIA DO DISPOSTO NO ART. 240 E SEGUINTES DO CÓDIGO DE PROCESSO PENAL E EM AFRONTA AO DISPOSTO NO ART. 5º, XI, DA CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL. INGRESSO REALIZADO COM BASE EM DENÚNCIA ANÔNIMA ACERCA DE HIPOTÉTICO COMETIMENTO DE CRIME RELACIONADO À VIOLÊNCIA DOMÉSTICA. AGENTES PÚBLICOS QUE, AO CHEGAREM AO LOCAL, NÃO CONFIRMARAM O RELATADO. AUSÊNCIA DE AUTORIZAÇÃO PARA O INGRESSO NO LOCAL. LEGITIMAÇÃO POSTERIOR DA CONDUTA QUE NÃO TORNA LEGAL O FLAGRANTE. INOCORRÊNCIA DO ESTADO DE FLAGRÂNCIA PREVISTO NOS ARTS. 302 E 303 DO CPP. VERIFICAÇÃO DO CRIME PERMANENTE A POSTERIORI. INGRESSO ILEGAL, MEDIANTE ARROMBAMENTO DA PORTA DE ENTRADA DA CASA. AUSÊNCIA DE FUNDADAS RAZÕES (JUSTA CAUSA) A ENSEJAR A PRISÃO. PROVA VICIADA. ILEGALIDADE MANIFESTA. ENTENDIMENTO PACIFICADO PELO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. PRECEDENTES DESTA E DA COLENDA CORTE. ILEGALIDADE MANIFESTA. PROVA ILÍCITA. AUSÊNCIA DE MATERIALIDADE DELITIVA. PARECER DA PGJ EM IGUAL SENTIDO. ABSOLVIÇÃO DECRETADA.
+  > APELO ACUSATÓRIO. PRETENSA CONDENAÇÃO DO ACUSADO REMANESCENTE. INVIABILIDADE. NULIDADE DA PROVA OBTIDA. INGRESSO FORÇADO NA RESIDÊNCIA DO APELADO QUE DEU-SE POR DERIVAÇÃO DE PROVA ILÍCITA (VIOLAÇÃO DO DOMICÍLIO DO CODENUNCIADO). VERSÕES DOS POLICIAIS, ADEMAIS, QUE NÃO ENCONTRAM AMPARO NOS AUTOS. ACUSADOS QUE, A TODO MOMENTO, NEGARAM A TRAFICÂNCIA DO APELADO. AUSÊNCIA DE QUALQUER OUTRO ELEMENTO DE PROVA, ALÉM DA DROGA ENCONTRADA NA RESIDÊNCIA, APTA A CORROBORAR A VERSÃO ACUSATÓRIA. PARECER DA PGJ EM IGUAL SENTIDO. ABSOLVIÇÃO MANTIDA.
+  > RECURSO DEFENSIVO CONHECIDO E PROVIDO. RECLAMO ACUSATÓRIO CONHECIDO E DESPROVIDO.
+  > (TJSC, Apelação Criminal n. 5001797-60.2023.8.24.0135, relator Desembargador Leopoldo Augusto Brüggemann, 3ª Câmara Criminal, julgado em 6/2/2024, publicado em 6/2/2024.)
+
+## 67. Súmula nº 665 (STJ)
 - Súmula aprovada pela Primeira Seção em 13/12/2023. Publicado em 14/12/2023.
 - Crime / Tema: PAD (administrativo)
 - Resumo: Controle judicial do PAD restringe-se à regularidade do procedimento e à legalidade do ato; mérito administrativo só em flagrante ilegalidade, teratologia ou sanção manifestamente desproporcional.
@@ -75,7 +87,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > O controle jurisdicional do processo administrativo disciplinar restringe-se ao exame da regularidade do procedimento e da legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, não sendo possível incursão no mérito administrativo, ressalvadas as hipóteses de flagrante ilegalidade, teratologia ou manifesta desproporcionalidade da sanção aplicada.
   > (Súmula n. 665, Primeira Seção, julgado em 13/12/2023, DJe de 14/12/2023.)
 
-## 67. AREsp nº 2236994 / SP (STJ)
+## 68. AREsp nº 2236994 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/11/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A pronúncia exige autoria corroborada com alto grau de probabilidade (arts. 155, 413 e 414 do CPP); a palavra dos policiais, contrariada por cinco laudos periciais, não basta. Impronúncia restabelecida, com comunicação à Corregedoria da PM.
@@ -96,7 +108,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 12. Agravo conhecido e recurso especial provido, a fim de restabelecer a decisão de impronúncia, com determinação de comunicação dos fatos à Corregedoria da PM/SP.
   > (AREsp n. 2.236.994/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023.)
 
-## 68. REsp nº 2004051 / SC (STJ)
+## 69. REsp nº 2004051 / SC (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 22/08/2023.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri
 - Resumo: Laudos periciais produzidos unilateralmente pelo MP e pela polícia, durante a instrução e sem controle judicial, são nulos e devem ser desentranhados, assim como o ofício do DNIT juntado após a pronúncia. A pronúncia foi mantida, porque não se baseou neles: embriaguez e direção perigosa indicam dolo eventual, que é compatível com a tentativa.
@@ -116,22 +128,8 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 11. Agravo conhecido para negar provimento ao recurso especial interposto contra o acórdão proferido nos Embargos Infringentes. Recurso especial dirigido contra o acórdão proferido no Recurso em Sentido Estrito parcialmente conhecido e, nessa extensão, provido em parte, a fim de anular os exames periciais realizados pela autoridade policial e pelo Ministério Público e que foram juntados após a pronúncia, determinando que sejam desentranhados dos autos. Habeas corpus concedido, de ofício, para anular a prova produzida por meio da requisição de diligências feita pelo Ministério Público do Estado de Santa Catarina ao Departamento Nacional de Infraestrutura e Transportes - DNIT, determinando o desentranhamento do Ofício n. 55223/2019, do referido Órgão.
   > (REsp n. 2.004.051/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
 
-## 69. HC nº 219.196 / GO (STF)
+## 70. HC nº 219.196 / GO (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 02/06/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão · Direito ao silêncio · Cabimento do HC
 - Resumo: Confissão informal colhida sem aviso do direito ao silêncio é ilícita, e denúncia anônima, sozinha, não autoriza o ingresso em domicílio (art. 5º, XI e LXIII, da CF). Busca anulada junto com as provas derivadas (art. 157, § 1º, do CPP); ré absolvida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-219196.pdf
-
-## 70. HC nº 166.373 / PR (STF)
-- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Alexandre de Moraes. Plenário. Publicado em 18/05/2023.
-- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
-- Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-166373.pdf
-- Ementa oficial:
-  > CONSTITUCIONAL E PENAL. ACORDO DE COLABORAÇÃO PREMIADA. DEVIDO PROCESSO LEGAL E CONTRADITÓRIO. RÉU/DELATADO TEM O “DIREITO DE FALAR POR ÚLTIMO”. AMPLA DEFESA E APRESENTAÇÃO DE SUAS ALEGAÇÕES FINAIS APÓS A MANIFESTAÇÃO DO COLABORADOR. ORDEM CONCEDIDA.
-  > 1.O acordo de colaboração premiada é um meio de obtenção de prova (art. 3º da Lei 12.850/2013), e assim como ocorre em outros meios de obtenção de prova, como a interceptação telefônica, o contraditório é diferido e deverá ser realizado durante a ação penal, com amplas possibilidades de demonstrar eventual falsidade, erros ou exageros das declarações prestadas pelo colaborador. Haverá, portanto, total possibilidade de impugnação das afirmações e informações apresentadas pelo colaborador.
-  > 2.O interesse processual do colaborador está direta e intimamente ligado à obtenção da condenação do delatado pelo Ministério Público. O colaborador precisa da condenação baseada em informações eficazes que tenha fornecido na delação e que, concretamente, tenham possibilitado a obtenção de provas para sustentar a sentença condenatória; pois se a colaboração não for eficaz, o delator não fará jus aos benefícios prometidos.
-  > 3.A relação de antagonismo entre as versões da acusação, do colaborador e da defesa não deixa dúvidas sobre quem tem o direito de falar por último. A relação COLABORADOR X DELATADO é de antagonismo, é de contradição, é de contraditório. Trata-se de situação diversa daquela tratada pelo Código de Processo Penal em relação aos corréus.
-  > 4.O delatado tem o direito de falar por último sobre todas as imputações que possam levar à sua condenação. O direito de falar por último está contido no exercício pleno da ampla defesa englobando a possibilidade de refutar todas, absolutamente todas as informações, alegações, depoimentos, insinuações, provas e indícios em geral que possam, direta ou indiretamente, influenciar e fundamentar uma futura condenação penal, entre elas as alegações do delator.
-  > 5.Habeas Corpus deferido, com a fixação da seguinte TESE: “Havendo pedido expresso da defesa no momento processual adequado (art. 403 do CPP e art. 11 da Lei 8.038/90), os réus têm o direito de apresentar suas alegações finais após a manifestação das defesas dos colaboradores, sob pena de nulidade”.
-  > (STF, HC n. 166.373/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 30/11/2022, DJe de 18/5/2023.)

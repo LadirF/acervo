@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 5 de 9 (decisões 41 a 50)
+# Acervo de Jurisprudência — Cury Advogados — parte 5 de 10 (decisões 41 a 50)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 90 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 92 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 

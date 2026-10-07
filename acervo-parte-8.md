@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 8 de 9 (decisões 71 a 80)
+# Acervo de Jurisprudência — Cury Advogados — parte 8 de 10 (decisões 71 a 80)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 90 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 92 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,21 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Índice de todas as decisões: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 71. AgRg no REsp nº 2009839 / MG (STJ)
+## 71. HC nº 166.373 / PR (STF)
+- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Alexandre de Moraes. Plenário. Publicado em 18/05/2023.
+- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
+- Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-166373.pdf
+- Ementa oficial:
+  > CONSTITUCIONAL E PENAL. ACORDO DE COLABORAÇÃO PREMIADA. DEVIDO PROCESSO LEGAL E CONTRADITÓRIO. RÉU/DELATADO TEM O “DIREITO DE FALAR POR ÚLTIMO”. AMPLA DEFESA E APRESENTAÇÃO DE SUAS ALEGAÇÕES FINAIS APÓS A MANIFESTAÇÃO DO COLABORADOR. ORDEM CONCEDIDA.
+  > 1.O acordo de colaboração premiada é um meio de obtenção de prova (art. 3º da Lei 12.850/2013), e assim como ocorre em outros meios de obtenção de prova, como a interceptação telefônica, o contraditório é diferido e deverá ser realizado durante a ação penal, com amplas possibilidades de demonstrar eventual falsidade, erros ou exageros das declarações prestadas pelo colaborador. Haverá, portanto, total possibilidade de impugnação das afirmações e informações apresentadas pelo colaborador.
+  > 2.O interesse processual do colaborador está direta e intimamente ligado à obtenção da condenação do delatado pelo Ministério Público. O colaborador precisa da condenação baseada em informações eficazes que tenha fornecido na delação e que, concretamente, tenham possibilitado a obtenção de provas para sustentar a sentença condenatória; pois se a colaboração não for eficaz, o delator não fará jus aos benefícios prometidos.
+  > 3.A relação de antagonismo entre as versões da acusação, do colaborador e da defesa não deixa dúvidas sobre quem tem o direito de falar por último. A relação COLABORADOR X DELATADO é de antagonismo, é de contradição, é de contraditório. Trata-se de situação diversa daquela tratada pelo Código de Processo Penal em relação aos corréus.
+  > 4.O delatado tem o direito de falar por último sobre todas as imputações que possam levar à sua condenação. O direito de falar por último está contido no exercício pleno da ampla defesa englobando a possibilidade de refutar todas, absolutamente todas as informações, alegações, depoimentos, insinuações, provas e indícios em geral que possam, direta ou indiretamente, influenciar e fundamentar uma futura condenação penal, entre elas as alegações do delator.
+  > 5.Habeas Corpus deferido, com a fixação da seguinte TESE: “Havendo pedido expresso da defesa no momento processual adequado (art. 403 do CPP e art. 11 da Lei 8.038/90), os réus têm o direito de apresentar suas alegações finais após a manifestação das defesas dos colaboradores, sob pena de nulidade”.
+  > (STF, HC n. 166.373/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 30/11/2022, DJe de 18/5/2023.)
+
+## 72. AgRg no REsp nº 2009839 / MG (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 16/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão
 - Resumo: Mandado de busca e apreensão de menor não autoriza vasculhar a casa: o art. 283, § 2º, do CPP manda respeitar a inviolabilidade do domicílio. O rádio comunicador só foi visto quando os policiais já estavam dentro. O ônus de provar o consentimento voluntário do morador é do Estado. Provas nulas.
@@ -23,7 +37,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 6. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.009.839/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/5/2023, DJe de 16/5/2023.)
 
-## 72. AgRg no AREsp nº 2045772 / MG (STJ)
+## 73. AgRg no AREsp nº 2045772 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/04/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncias anônimas e uma busca pessoal sem nada encontrado não são fundadas razões para entrar na casa, e a autorização dada por corré (depois absolvida) não valida o ingresso. Provas nulas e réus absolvidos. Determinado o envio de cópias ao MP e à PM para apurar abuso de autoridade (art. 40 do CPP; arts. 22 e 23, II, da Lei 13.869/2019).
@@ -38,7 +52,16 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > VI - No caso presente, a atuação precipitada da polícia culminou na nulidade das provas colhidas, com a inutilização da apreensão de 533,34g de maconha, comprometendo a regularidade da persecução penal, o que certamente poderia ser evitado com as devidas investigações e diligências. Sob essa perspectiva, com esteio nos elementos fáticos subjacentes ao presente recurso, determina-se, com fundamento no artigo 40 do Código de Processo Penal, o envio de cópia dos presentes autos ao Ministério Público Federal e Estadual, ante a competência definida na ADPF 635 - MC, bem como a Polícia Militar, para apuração de infração aos artigos 22 e 23, II, ambos da Lei n. 13.869/2019, dentre outros possíveis crimes previstos no Código Penal, Código Penal Militar e legislação extravagante, com as imediatas providências cabíveis. Agravo regimental provido, para reconhecer a nulidade das provas obtidas mediante ingresso domiciliar sem mandado, bem como as provas derivadas, e absolver os agravantes das imputações contidas na denúncia (art. 386, VII, do CPP), remetendo-se, com esteio no artigo 40 do Código de Processo Penal, cópia dos presentes autos ao Ministério Público Federal e Estadual, para apuração de eventuais crimes, bem como a Polícia Militar, com a imediata comunicação a este Superior Tribunal de Justiça quanto às providências tomadas no âmbito da instituição de segurança pública.
   > (AgRg no AREsp n. 2.045.772/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
 
-## 73. AgRg no RHC nº 143169 / RJ (STJ)
+## 74. ApCrim nº 1500466-02.2020.8.26.0621 (TJSP)
+- Decisão colegiada. Relator: Des. Guilherme de Souza Nucci. 16ª Câmara de Direito Criminal. Publicado em 03/04/2023.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima genérica, sem investigação prévia (campana com registro), sem flagrante de venda e sem urgência, não autoriza a entrada na casa. Também há dúvida sobre o consentimento dado pela mãe da moradora. Provas ilícitas e réus absolvidos (art. 386, VII, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1500466-02-2020.pdf
+- Ementa oficial:
+  > Apelação. Tráfico de drogas e associação ao tráfico. Pleito objetivando a ilicitude das provas obtidas a partir de denúncia anônima e posterior ingresso em domicílio, por policiais civis, com a consequente absolvição por falta de provas. Possibilidade. Apelantes que teriam guardado, em suas residências, 30 porções de maconha (51,2 g), 10 porções de cocaína (1,5 g) e uma porção menor de maconha (37,85 g), sem autorização e em desacordo com determinação legal e regulamentar. Ilegalidade da atuação policial no caso concreto. Diligência policial iniciada por meio de “denúncia anônima” genérica, não esclarecida quanto à sua origem e existência. Entrada na residência da recorrente que ocorreu sem nenhuma diligência prévia de investigação policial, como o acompanhamento do movimento no imóvel por meio de campanas, com registro documental, ou mesmo o flagrante de uma atividade de mercancia ilícita, não se demonstrando sequer a urgência necessária para a excepcional invasão da residência naquele momento específico por parte dos policiais militares. Dúvidas acerca da existência do suposto consentimento oferecido pela genitora da apelante, quanto à entrada dos policiais no local. Circunstâncias do caso concreto que, em seu conjunto, demonstram a ilicitude da entrada dos policiais no imóvel da recorrente e, por consequência, da apreensão dos entorpecentes. Precedentes do STF e do STJ. Assim, tendo em vista a inadmissibilidade de utilização de tais elementos de prova ilícitos, resta frágil e insuficiente o acervo probatório amealhado para comprovação dos crimes, sendo de rigor a absolvição dos apelantes, nos termos do art. 386, inciso VII, do CPP. Recursos providos.
+  > (TJSP, Apelação Criminal n. 1500466-02.2020.8.26.0621, relator Desembargador Guilherme de Souza Nucci, 16ª Câmara de Direito Criminal, julgado em 28/3/2023, publicado em 3/4/2023.)
+
+## 75. AgRg no RHC nº 143169 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto; redator do acórdão: Min. Ribeiro Dantas. Quinta Turma. Publicado em 02/03/2023.
 - Crime / Tema: Furto · Organização criminosa · Lavagem de dinheiro · Quebra da cadeia de custódia · Prova digital
 - Resumo: Quebra da cadeia de custódia da prova digital: a polícia não documentou a apreensão e a análise dos computadores, sem imagem bit a bit nem hash. É ônus do Estado provar a integridade da prova. São inadmissíveis as provas extraídas e as delas derivadas, e a exigência vale mesmo para fatos anteriores ao Pacote Anticrime.
@@ -56,7 +79,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 9. Agravo regimental parcialmente provido, para prover também em parte o recurso ordinário em habeas corpus e declarar a inadmissibilidade das provas em questão.
   > (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023.)
 
-## 74. AgRg no HC nº 731882 / AM (STJ)
+## 76. AgRg no HC nº 731882 / AM (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
@@ -70,7 +93,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
   > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
 
-## 75. RHC nº 147043 / SP (STJ)
+## 77. RHC nº 147043 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
 - Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
@@ -83,7 +106,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
   > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
 
-## 76. HC nº 653515 / RJ (STJ)
+## 78. HC nº 653515 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
 - Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
@@ -107,7 +130,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
   > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
 
-## 77. HC nº 660930 / SP (STJ)
+## 79. HC nº 660930 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. Vencido, em parte, o relator, que anulava as provas da busca pessoal (motivada, a seu ver, pela cor da pele) e absolvia o paciente.
@@ -127,7 +150,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
   > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
 
-## 78. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 80. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
@@ -140,29 +163,3 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 04. Não se prestam à corroboração de delações premiadas elementos genéricos, dissociados dos relatos contidos na denúncia ou incapazes de comprovar a específica realização dolosa das condutas imputadas a cada um dos acusados.
   > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
   > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
-
-## 79. REsp nº 1871856 / SE (STJ)
-- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1871856.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR DESPROVIDA DE MANDADO JUDICIAL. ESTADO DE FLAGRÂNCIA. INEXISTÊNCIA DE INDÍCIOS DA PRÁTICA DELITIVA. DENÚNCIA ANÔNIMA. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. NULIDADE DA PROVA OBTIDA E DAQUELAS DELA DERIVADAS. ABSOLVIÇÃO DO AGENTE. RECURSO PROVIDO.
-  > 1. Nos crimes permanentes, tal como o tráfico de drogas, o estado de flagrância protrai-se no tempo, o que, todavia, não é suficiente, por si só, para justificar busca domiciliar desprovida de mandado judicial, exigindo-se a demonstração de indícios mínimos de que, naquele momento, dentro da residência, ocorra situação de flagrante delito.
-  > 2. A denúncia anônima, desacompanhada de outros elementos indicativos da ocorrência de crime, não legitima o ingresso de policiais no domicílio indicado, inexistindo, nessas situações, justa causa para a medida.
-  > 3. A prova obtida com violação à norma constitucional é imprestável a legitimar os atos dela derivados.
-  > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
-  > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
-
-## 80. AgRg no HC nº 157.627 / PR (STF)
-- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
-- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
-- Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-157627.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM HABEAS CORPUS. CONHECIMENTO. POSSIBILIDADE. APRESENTAÇÃO DE MEMORIAIS ESCRITOS POR RÉUS COLABORADORES E DELATADOS. PRAZO COMUM. INADMISSIBILIDADE. OFENSA ÀS REGRAS DO CONTRADITÓRIO E DA AMPLA DEFESA. NULIDADE. EXISTÊNCIA DE PREJUÍZO. EXEGESE IMEDIATA DOS DIREITOS FUNDAMENTAIS INDEPENDENTEMENTE DA NORMA INFRACONSTITUCIONAL. INTELIGÊNCIA DOS ARTS. 5º, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA DE 1988, E 603, DO CPP. ORDEM CONCEDIDA.
-  > I – Possibilidade de impetração de habeas corpus nos casos em que, configurada flagrante ilegalidade do provimento jurisdicional, descortina-se premente o risco atual ou iminente à liberdade de locomoção, apta, pois, a gerar constrangimento ilegal. Precedentes desta Suprema Corte (HC 87.926/SP, Rel. Min. Cezar Peluso; HC 136.331, Rel. Min. Ricardo Lewandowski).
-  > II - Decisão de primeiro grau de jurisdição que indefere pedido para apresentação de memoriais escritos após o prazo dos réus colaboradores. Prejuízo demonstrado.
-  > III – Memoriais escritos de réus colaboradores, com nítida carga acusatória, deverão preceder aos dos réus delatados, sob pena de nulidade do julgamento. Exegese imediata dos preceitos fundamentais do contraditório e da ampla defesa (art. 5º, LV, da CF/88) que prescindem da previsão expressa de regras infraconstitucionais.
-  > IV – Agravo regimental provido, para conhecer e conceder a ordem.
-  > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
