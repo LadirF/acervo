@@ -1,14 +1,39 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 4 de 13 (decisões 31 a 40)
+# Acervo de Jurisprudência — Cury Advogados — parte 5 de 14 (decisões 41 a 50)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 136 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1531/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 31. REsp nº 2059576 / MG (STJ)
+## 41. REsp nº 2176719 / MG (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
+- Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
+- Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
+
+## 42. HC nº 1127513 / SP (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
+- Crime / Tema: Falsidade ideológica · Alucinação de IA
+- Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
+
+## 43. REsp nº 2253784 / PA (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
+- Crime / Tema: Estupro de vulnerável
+- Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253784.pdf
+- Ementa oficial:
+  > DIREITO PENAL. RECURSO ESPECIAL. ESTUPRO DE VULNERÁVEL. RELACIONAMENTO AMOROSO CONSENTIDO. CIÊNCIA E ANUÊNCIA FAMILIAR. NASCIMENTO DE FILHA. DISTINGUISHING DO TEMA REPETITIVO N. 918/STJ E DA SÚMULA 593/STJ. ATIPICIDADE MATERIAL. RECURSO ESPECIAL PROVIDO. PARECER MINISTERIAL ACOLHIDO.
+  > 1. A tese firmada no Tema Repetitivo n. 918/STJ, reproduzida na Súmula 593/STJ, estabelece que o consentimento da vítima menor de 14 anos, sua experiência sexual anterior ou a existência de relacionamento amoroso com o agente são juridicamente irrelevantes para a configuração do delito previsto no art. 217-A do Código Penal, sem excluir, contudo, a possibilidade de distinguishing em hipóteses absolutamente excepcionais marcadas por circunstâncias fáticas singulares.
+  > 2. A moldura fática delineada pelas instâncias ordinárias revela relacionamento amoroso duradouro entre o recorrente, então com 25 anos de idade, e a vítima, com 12 anos à época dos fatos, mantido com ciência e anuência dos familiares, do qual adveio o nascimento de uma filha, posteriormente reconhecida e assistida material e afetivamente pelo recorrente, inexistindo notícia de violência, coação, exploração, ascendência ou qualquer forma de constrangimento.
+  > 3. As circunstâncias singularíssimas do caso autorizam, excepcionalmente, o reconhecimento da atipicidade material da conduta, mediante distinguishing do Tema Repetitivo n. 918/STJ e da Súmula 593/STJ.
+  > 4. Recurso especial provido para cassar o acórdão condenatório e restabelecer a sentença absolutória, em consonância com o parecer ministerial.
+  > (REsp n. 2.253.784/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/9/2026, DJEN de 8/9/2026.)
+
+## 44. REsp nº 2059576 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
@@ -36,7 +61,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Tese de julgamento: (Temas Repetitivos n. 1214 e n. 1154): "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa".
   > (REsp n. 2.059.576/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 32. REsp nº 1963433 / SP (STJ)
+## 45. REsp nº 1963433 / SP (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
@@ -69,7 +94,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
   > (REsp n. 1.963.433/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 33. REsp nº 2048687 / BA (STJ)
+## 46. REsp nº 2048687 / BA (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 08/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Tema repetitivo
 - Resumo: Tema 1.260/STJ — Pronúncia não pode se basear só em elementos do inquérito nem só em testemunho indireto (“ouvir dizer”), ainda que colhido em juízo. Em contextos de intimidação, facções ou silenciamento de testemunhas, o testemunho indireto qualificado pode ter maior relevo, sob controle judicial estrito.
@@ -85,59 +110,26 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 7. Recurso especial provido.
   > (REsp n. 2.048.687/BA, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/8/2026, DJEN de 8/9/2026.)
 
-## 34. HC nº 1095439 / SP (STJ)
+## 47. HC nº 1095439 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: são necessários elementos concretos de dedicação a atividades criminosas ou de integração a organização criminosa. A quantidade expressiva (86,6 kg de cocaína) só modula a fração, aplicada no mínimo (1/6). Pena reduzida para 5 anos, 2 meses e 15 dias, em regime semiaberto. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1095439.pdf
 
-## 35. HC nº 1104105 / SP (STJ)
+## 48. HC nº 1104105 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
 - Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
 
-## 36. RHC nº 243155 / SP (STJ)
+## 49. RHC nº 243155 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
 
-## 37. HC nº 276.144 / MS (STF)
+## 50. HC nº 276.144 / MS (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
 - Crime / Tema: Corrupção passiva · Dosimetria
 - Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
-
-## 38. AgRg no HC nº 1089462 / MG (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
-- Crime / Tema: Embriaguez ao volante · Excesso de prazo
-- Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089462.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXCESSO DE PRAZO. TRANCAMENTO DE INQUÉRITO POLICIAL. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público Estadual contra decisão monocrática que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para determinar o trancamento de inquérito policial, sem prejuízo de reabertura com surgimento de novas provas.
-  > 2. Trata-se de um único investigado por suposta embriaguez ao volante ocorrida em abril de 2022. Inquérito policial em curso há mais de três anos, sem justificativa plausível para a mora e sem complexidade aparente, com investigado em liberdade. Alegação ministerial de diligências pendentes e de impropriedade do prazo para conclusão do inquérito quando o investigado não está preso.
-  > 3. O Tribunal de origem denegou a ordem no habeas corpus originário. A decisão agravada reconheceu constrangimento ilegal por excesso de prazo e determinou o trancamento do inquérito policial.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se o excesso de prazo na conclusão de inquérito policial, sem justificativa plausível e sem complexidade, caracteriza constrangimento ilegal apto a ensejar o trancamento, ainda que o investigado esteja solto; e (ii) saber se o agravo regimental trouxe argumentos suficientes para infirmar a decisão que concedeu a ordem de ofício.
-  > III. Razões de decidir
-  > 5. A demora superior a três anos, sem justificativa plausível e em feito sem complexidade, viola o direito fundamental à duração razoável do processo (CF/1988, art. 5º, LXXVIII) e configura constrangimento ilegal, autorizando o trancamento do inquérito policial.
-  > 6. O prazo para conclusão do inquérito é impróprio quando o investigado está solto, porém o excesso desarrazoado e injustificado não se legitima pela simples liberdade do investigado; diligências pendentes não afastam a necessidade de conclusão quando não demonstrada a complexidade ou a imprescindibilidade, sendo possível a concessão da ordem, de ofício, diante de flagrante coação ilegal (CPP, art. 654, § 2º).
-  > 7. O agravo regimental não apresentou argumentos capazes de infirmar a decisão agravada, impondo a manutenção do decisum pelos próprios fundamentos.
-  > IV. Dispositivo
-  > 8. Agravo regimental desprovido.
-  > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)
-
-## 39. HC nº 1124321 / PR (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
-
-## 40. RHC nº 243213 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
-- Crime / Tema: Tráfico de drogas · Quebra de sigilo
-- Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf

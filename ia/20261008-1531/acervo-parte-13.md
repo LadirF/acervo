@@ -1,14 +1,52 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 12 de 13 (decisões 111 a 120)
+# Acervo de Jurisprudência — Cury Advogados — parte 13 de 14 (decisões 121 a 130)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 136 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1531/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 111. REsp nº 1871856 / SE (STJ)
+## 121. RE nº 1.301.250 / RJ (STF)
+- Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
+- Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
+- Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1301250.pdf
+- Voto da relatora: https://ladirf.github.io/acervo/pdfs/voto-re-1301250.pdf
+- Ementa oficial:
+  > DIREITO CONSTITUCIONAL. DIREITO PROCESSUAL PENAL. QUEBRA DE SIGILO DE DADOS PESSOAIS. REGISTROS DE ACESSO À INTERNET E FORNECIMENTO DE IP. DECISÃO GENÉRICA. NÃO INDICAÇÃO DE PARÂMETROS MÍNIMOS PARA IDENTIFICAÇÃO DOS USUÁRIOS. NÃO DELIMITAÇÃO, ADEMAIS, DO ESPAÇO TERRITORIAL EM QUE VEICULADA A ORDEM. PROTEÇÃO À INTIMIDADE E AO SIGILO DE DADOS (ART. 5º, X e XII, CF). QUESTÃO CONSTITUCIONAL. POTENCIAL MULTIPLICADOR DA CONTROVÉRSIA. REPERCUSSÃO GERAL RECONHECIDA.
+  > 1. Possui índole constitucional e repercussão geral a controvérsia relativa aos limites e ao alcance de decisões judiciais de quebra de sigilo de dados pessoais, nas quais determinado o fornecimento de registros de acesso à internet e de IPs (internet protocol address), circunscritos a um lapso temporal demarcado, sem, contudo, a indicação de qualquer elemento concreto apto a identificar os usuários.
+  > 2. Repercussão geral reconhecida.
+  > (STF, RE n. 1.301.250 RG/RJ, relatora Ministra Rosa Weber, Tribunal Pleno, julgado em 27/5/2021, DJe de 8/6/2021.)
+
+## 122. HC nº 611918 / SP (STJ)
+- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-611918.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE. ILICITUDE DAS PROVAS. INVASÃO DE DOMICÍLIO. ATUAÇÃO COM BASE EM DENÚNCIA ANÔNIMA. IMPOSSIBILIDADE. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. OCORRÊNCIA. ORDEM CONCEDIDA.
+  > 1. Esta Corte Superior entende serem exigíveis fundamentos razoáveis da existência de crime permanente para justificarem o ingresso desautorizado na residência do agente. Desse modo, a mera denúncia anônima, desacompanhada de outros elementos preliminares indicativos de crime, não legitima o ingresso de policiais no domicílio, sem autorização judicial.
+  > 2. A abordagem em face do réu, em local conhecido como ponto de tráfico, sendo encontrado com ele drogas, não autoriza o ingresso na residência, por não demonstrar os fundamentos razoáveis da existência de crime permanente dentro do domicílio.
+  > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
+  > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
+
+## 123. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+- Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
+- Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
+- Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0702-16-075074.pdf
+- Ementa oficial:
+  > APELAÇÕES CRIMINAIS - COAÇÃO NO CURSO DO PROCESSO E OBSTRUÇÃO DE JUSTIÇA - ABSOLVIÇÃO EM FACE DE AMBOS OS DELITOS - NECESSIDADE - AUTORIA NÃO DEMONSTRADA - PRINCÍPIO DO "IN DUBIO PRO REO" - CONDENAÇÃO FUNDADA APENAS EM COLABORAÇÕES PREMIADAS - DESCABIMENTO - AUSÊNCIA DE ELEMENTOS DE CORROBORAÇÃO ESPECÍFICOS - INTELIGÊNCIA DO ART. 4º, § 16, INC. III, DA LEI Nº 12.850/2013 - RECURSO MINISTERIAL - RECRUDESCIMENTO DA PENA E DO REGIME PRISIONAL - INVIABILIDADE - MATÉRIAS PREJUDICADAS - ABSOLVIÇÃO DO ACUSADO. APELAÇÃO DEFENSIVA PROVIDA E RECURSO MINISTERIAL DESPROVIDO.
+  > 01. Ausentes provas seguras de que o acusado, dolosamente, praticou ou concorreu finalisticamente para a prática dos elementos típicos dos arts. 344 do Código Penal e 2º, § 1º, da Lei nº 12.850/2013, necessária se afigura sua absolvição, mormente em face do princípio do "in dubio pro reo".
+  > 02. Nos termos do art. 4º, § 16, inc. III, da Lei nº 12.850/2013, mostra-se inadmissível a prolação de sentença condenatória fundada apenas nas declarações de colaboradores premiados.
+  > 03. Colaborações premiadas não consubstanciam provas, senão meros meios de obtenção de prova, devendo ser especificamente corroboradas por outros elementos que evidenciem, extreme de dúvidas, os fatos descritos na denúncia.
+  > 04. Não se prestam à corroboração de delações premiadas elementos genéricos, dissociados dos relatos contidos na denúncia ou incapazes de comprovar a específica realização dolosa das condutas imputadas a cada um dos acusados.
+  > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
+  > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
+
+## 124. REsp nº 1871856 / SE (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
@@ -21,7 +59,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
   > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
 
-## 112. AgRg no HC nº 157.627 / PR (STF)
+## 125. AgRg no HC nº 157.627 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
@@ -34,7 +72,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > IV – Agravo regimental provido, para conhecer e conceder a ordem.
   > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
 
-## 113. REsp nº 1795341 / RS (STJ)
+## 126. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -48,7 +86,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 114. Inq nº 3.994 / DF (STF)
+## 127. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -68,7 +106,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 115. AgRg no Inq nº 1093 / DF (STJ)
+## 128. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -86,7 +124,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 116. REsp nº 1574681 / RS (STJ)
+## 129. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -110,7 +148,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 117. APn nº 746 / MT (STJ)
+## 130. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -126,57 +164,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 7. De mais a mais, o recebimento da denúncia pressupõe que a ação penal tenha alguma viabilidade condenatória, a qual, à luz dos elementos frágeis da prova examinada, não parece existir no caso.
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
-
-## 118. RE nº 603.616 / RO (STF)
-- Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
-- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
-- Resumo: Tema 280/STF — A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo à noite, quando amparada em fundadas razões, justificadas a posteriori, de que há flagrante delito dentro da casa, sob pena de responsabilidade do agente e de nulidade dos atos praticados. A flagrância constatada só depois do ingresso não o justifica. No caso, havia fundadas razões.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-603616.pdf
-- Ementa oficial:
-  > Recurso extraordinário representativo da controvérsia. Repercussão geral.
-  > 2. Inviolabilidade de domicílio – art. 5º, XI, da CF. Busca e apreensão domiciliar sem mandado judicial em caso de crime permanente. Possibilidade. A Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo.
-  > 3. Período noturno. A cláusula que limita o ingresso ao período do dia é aplicável apenas aos casos em que a busca é determinada por ordem judicial. Nos demais casos – flagrante delito, desastre ou para prestar socorro – a Constituição não faz exigência quanto ao período do dia.
-  > 4. Controle judicial a posteriori. Necessidade de preservação da inviolabilidade domiciliar. Interpretação da Constituição. Proteção contra ingerências arbitrárias no domicílio. Muito embora o flagrante delito legitime o ingresso forçado em casa sem determinação judicial, a medida deve ser controlada judicialmente. A inexistência de controle judicial, ainda que posterior à execução da medida, esvaziaria o núcleo fundamental da garantia contra a inviolabilidade da casa (art. 5, XI, da CF) e deixaria de proteger contra ingerências arbitrárias no domicílio (Pacto de São José da Costa Rica, artigo 11, 2, e Pacto Internacional sobre Direitos Civis e Políticos, artigo 17, 1). O controle judicial a posteriori decorre tanto da interpretação da Constituição, quanto da aplicação da proteção consagrada em tratados internacionais sobre direitos humanos incorporados ao ordenamento jurídico. Normas internacionais de caráter judicial que se incorporam à cláusula do devido processo legal.
-  > 5. Justa causa. A entrada forçada em domicílio, sem uma justificativa prévia conforme o direito, é arbitrária. Não será a constatação de situação de flagrância, posterior ao ingresso, que justificará a medida. Os agentes estatais devem demonstrar que havia elementos mínimos a caracterizar fundadas razões (justa causa) para a medida.
-  > 6. Fixada a interpretação de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados.
-  > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
-  > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
-
-## 119. HC nº 341790 / PR (STJ)
-- Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
-- **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
-- Resumo: Colaboração premiada é meio de obtenção de prova e não basta, sozinha, para condenar (art. 4º, § 16, da Lei 12.850/13). Negar à defesa a fase preliminar do acordo e os dados pessoais do colaborador (art. 5º) não gera nulidade sem prejuízo demonstrado (art. 563 do CPP). HC não conhecido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-341790.pdf
-- Ementa oficial:
-  > PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. OPERAÇÃO "LAVA-JATO". NULIDADE. NEGATIVA DE ACESSO À INTEGRALIDADE DOS ELEMENTOS DE PROVAS COLHIDOS NA OPERAÇÃO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. HABEAS CORPUS NÃO CONHECIDO.
-  > I - A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso ordinário (v.g.: HC n. 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC n. 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC n. 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014). As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC n. 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC n. 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC n. 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC n. 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
-  > II - Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
-  > III - As teses referentes à nulidade do processo em razão da oitiva de um colaborador como testemunha durante a instrução, bem como acerca da ausência de manifestação do juiz de primeiro grau sobre a expedição de ofício ao Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional (DRCI) dirigido às autoridades suíças não foram analisadas pelo Tribunal a quo, razão pela qual esta Corte fica impedida de manifestar-se sobre os pedidos, sob pena de supressão de instância.
-  > IV - De acordo com o artigo 5º da Lei nº 12.850/13, no bojo da colaboração premiada, é direito do colaborador ter a sua qualificação e dados pessoais preservados. No presente caso, a decisão do magistrado de vedar o acesso às informações referentes ao local de residência e às autorizações para deslocamentos do colaborador está assente com a legislação de regência, bem como não tem o condão de inviabilizar o direito defesa do ora paciente.
-  > V - É cediço que a colaboração premiada tem natureza jurídica de meio de obtenção de prova. Dessa forma, um acordo de colaboração não enseja, por si só, uma sentença condenatória, aquele precisa estar amparado por um conjunto probatório, conforme o art. 4º, § 16, da Lei nº 12.850/13. In casu, a eventual falta de acesso à fase preliminar de um acordo não tem o condão de anular o processo por cerceamento de defesa.
-  > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
-  > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
-
-## 120. HC nº 127.483 / PR (STF)
-- Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
-- **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
-- Crime / Tema: Organização criminosa · Colaboração premiada
-- Resumo: O acordo de colaboração é negócio jurídico processual personalíssimo: o delatado não pode impugná-lo, mas pode confrontar em juízo as declarações do colaborador. A homologação só confere regularidade, voluntariedade e legalidade. Ordem denegada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-127483.pdf
-- Ementa oficial:
-  > Habeas corpus. Impetração contra ato de Ministro do Supremo Tribunal Federal. Conhecimento. Empate na votação. Prevalência da decisão mais favorável ao paciente (art. 146, parágrafo único, do Regimento Interno do Supremo Tribunal Federal). Inteligência do art. 102, I, i, da Constituição Federal. Mérito. Acordo de colaboração premiada. Homologação judicial (art. 4º, § 7º, da Lei nº 12.850/13). Competência do relator (art. 21, I e II, do Regimento Interno do Supremo Tribunal Federal). Decisão que, no exercício de atividade de delibação, se limita a aferir a regularidade, a voluntariedade e a legalidade do acordo. Ausência de emissão de qualquer juízo de valor sobre as declarações do colaborador. Negócio jurídico processual personalíssimo. Impugnação por coautores ou partícipes do colaborador. Inadmissibilidade. Possibilidade de, em juízo, os partícipes ou os coautores confrontarem as declarações do colaborador e de impugnarem, a qualquer tempo, medidas restritivas de direitos fundamentais adotadas em seu desfavor. Personalidade do colaborador. Pretendida valoração como requisito de validade do acordo de colaboração. Descabimento. Vetor a ser considerado no estabelecimento das cláusulas do acordo de colaboração - notadamente na escolha da sanção premial a que fará jus o colaborador -, bem como no momento da aplicação dessa sanção pelo juiz na sentença (art. 4º, § 11, da Lei nº 12.850/13). Descumprimento de anterior acordo de colaboração. Irrelevância. Inadimplemento que se restringiu ao negócio jurídico pretérito, sem o condão de contaminar, a priori, futuros acordos de mesma natureza. Confisco. Disposição, no acordo de colaboração, sobre os efeitos extrapenais de natureza patrimonial da condenação. Admissibilidade. Interpretação do art. 26.1 da Convenção das Nações Unidas contra o Crime Organizado Transnacional (Convenção de Palermo), e do art. 37.2 da Convenção das Nações Unidas Contra a Corrupção (Convenção de Mérida). Sanção premial. Direito subjetivo do colaborador caso sua colaboração seja efetiva e produza os resultados almejados. Incidência dos princípios da segurança jurídica e da proteção da confiança. Precedente. Habeas corpus do qual se conhece. Ordem denegada.
-  > 1. Diante do empate na votação quanto ao conhecimento de habeas corpus impetrado para o Pleno contra ato de Ministro, prevalece a decisão mais favorável ao paciente, nos termos do art. 146, parágrafo único, do Regimento Interno do Supremo Tribunal Federal. Conhecimento do habeas corpus, nos termos do art. 102, I, “i”, da Constituição Federal.
-  > 2. Nos termos do art. 21, I e II, do Regimento Interno do Supremo Tribunal Federal, o relator tem poderes instrutórios para ordenar, monocraticamente, a realização de quaisquer meios de obtenção de prova (v.g., busca e apreensão, interceptação telefônica, afastamento de sigilo bancário e fiscal).
-  > 3. Considerando-se que o acordo de colaboração premiada constitui meio de obtenção de prova (art. 3º da Lei nº 12.850/13), é indubitável que o relator tem poderes para, monocraticamente, homologá-lo (art. 4º, § 7º, da Lei nº 12.850/13).
-  > 4. A colaboração premiada é um negócio jurídico processual, uma vez que, além de ser qualificada expressamente pela lei como “meio de obtenção de prova”, seu objeto é a cooperação do imputado para a investigação e para o processo criminal, atividade de natureza processual, ainda que se agregue a esse negócio jurídico o efeito substancial (de direito material) concernente à sanção premial a ser atribuída a essa colaboração.
-  > 5. A homologação judicial do acordo de colaboração, por consistir em exercício de atividade de delibação, limita-se a aferir a regularidade, a voluntariedade e a legalidade do acordo, não havendo qualquer juízo de valor a respeito das declarações do colaborador.
-  > 6. Por se tratar de negócio jurídico personalíssimo, o acordo de colaboração premiada não pode ser impugnado por coautores ou partícipes do colaborador na organização criminosa e nas infrações penais por ela praticadas, ainda que venham a ser expressamente nominados no respectivo instrumento no “relato da colaboração e seus possíveis resultados” (art. 6º, I, da Lei nº 12.850/13).
-  > 7. De todo modo, nos procedimentos em que figurarem como imputados, os coautores ou partícipes delatados - no exercício do contraditório - poderão confrontar, em juízo, as declarações do colaborador e as provas por ele indicadas, bem como impugnar, a qualquer tempo, as medidas restritivas de direitos fundamentais eventualmente adotadas em seu desfavor.
-  > 8. A personalidade do colaborador não constitui requisito de validade do acordo de colaboração, mas sim vetor a ser considerado no estabelecimento de suas cláusulas, notadamente na escolha da sanção premial a que fará jus o colaborador, bem como no momento da aplicação dessa sanção pelo juiz na sentença (art. 4º, § 11, da Lei nº 12.850/13).
-  > 9. A confiança no agente colaborador não constitui elemento de existência ou requisito de validade do acordo de colaboração.
-  > 10. Havendo previsão em Convenções firmadas pelo Brasil para que sejam adotadas “as medidas adequadas para encorajar” formas de colaboração premiada (art. 26.1 da Convenção de Palermo) e para “mitigação da pena” (art. 37.2 da Convenção de Mérida), no sentido de abrandamento das consequências do crime, o acordo de colaboração, ao estabelecer as sanções premiais a que fará jus o colaborador, pode dispor sobre questões de caráter patrimonial, como o destino de bens adquiridos com o produto da infração pelo agente colaborador.
-  > 11. Os princípios da segurança jurídica e da proteção da confiança tornam indeclinável o dever estatal de honrar o compromisso assumido no acordo de colaboração, concedendo a sanção premial estipulada, legítima contraprestação ao adimplemento da obrigação por parte do colaborador.
-  > 12. Habeas corpus do qual se conhece. Ordem denegada.
-  > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)

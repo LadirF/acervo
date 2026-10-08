@@ -1,14 +1,82 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 6 de 13 (decisões 51 a 60)
+# Acervo de Jurisprudência — Cury Advogados — parte 7 de 14 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 136 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1531/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. AgRg no HC nº 1050683 / SP (STJ)
+## 61. REsp nº 2163522 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/06/2026.
+- Crime / Tema: Crimes contra o sistema financeiro · Dosimetria · Confissão espontânea
+- Resumo: A atenuante da confissão espontânea (art. 65, III, d, do CP) incide sempre que o réu admite a autoria, ainda que de forma parcial, qualificada, retratada ou sem uso na sentença. Retorno para nova dosimetria; mantidos a condenação e o concurso material (Lei 7.492/86, caso Telexfree).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2163522.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. OPERAÇÃO ORION. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. CONTRA A ECONOMIA POPULAR. CRIMES DO ART. 16 E 4º, CAPUT, AMBOS DA LEI N. 7.492/1986. GESTÃO FRAUDULENTA. OPERAÇÃO DE INSTITUIÇÃO FINANCEIRA SEM AUTORIZAÇÃO. AGRAVO INTERPOSTO EM RAZÃO DA ADMISSIBILIDADE PARCIAL DO RECURSO ESPECIAL. NÃO CABIMENTO. APLICAÇÃO ANALÓGICA DAS SÚMULAS 292 E 528, AMBAS DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. ENFRENTAMENTO ESPECÍFICO DAS TESES NA APELAÇÃO E NOS EMBARGOS DE DECLARAÇÃO. EMENDATIO LIBELLI SEM ALTERAÇÃO FÁTICA. CONCURSO MATERIAL MANTIDO. CONDUTAS AUTÔNOMAS E COMPATÍVEIS. ATIPICIDADE REJEITADA. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA. FUNDAMENTAÇÃO NA CULPABILIDADE E CONSEQUÊNCIAS. REEXAME FÁTICO VEDADO. SÚMULA 7/STJ. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO DA ATENUANTE DIANTE DE ADMISSÃO PARCIAL OU QUALIFICADA. ENTENDIMENTO DO STJ. LIMITAÇÃO QUANDO A PENA-BASE ESTÁ NO MÍNIMO. SÚMULA 231/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RETORNO DOS AUTOS PARA NOVA DOSIMETRIA. Agravo em recurso especial não conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido, em parte, nos termos do dispositivo.
+  > (REsp n. 2.163.522/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/6/2026, DJEN de 22/6/2026.)
+
+## 62. AgRg no AREsp nº 2985235 / MT (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/06/2026.
+- Crime / Tema: Associação criminosa · Quebra da cadeia de custódia · Prova digital
+- Resumo: Relatórios técnicos sobre os celulares não bastam quando o acórdão não responde às impugnações da defesa sobre quem extraiu os dados, por qual método, em que data, se a extração foi integral e se a análise partiu dos aparelhos ou de um HD externo. Cabe ao Estado provar integridade, autenticidade e rastreabilidade da prova digital. Acórdão anulado para novo julgamento (Operação Capistrum).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2985235.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PROVA DIGITAL EXTRAÍDA DE CELULARES. OPERAÇÃO CAPISTRUM. CADEIA DE CUSTÓDIA. TRIBUNAL DE ORIGEM QUE AFIRMA TER HAVIDO DOCUMENTAÇÃO DA ARRECADAÇÃO, ARMAZENAMENTO E ANÁLISE DOS ELETRÔNICOS. AUSÊNCIA DE ENFRENTAMENTO DOS PONTOS ESPECÍFICOS IMPUGNADOS PELA DEFESA. RESPONSÁVEL PELA EXTRAÇÃO, MÉTODO, DATA, INTEGRALIDADE DO CONTEÚDO TRANSFERIDO E ORIGEM DA ANÁLISE. ÔNUS DO ESTADO DE DEMONSTRAR A CONFIABILIDADE DA PROVA DIGITAL. DÉFICIT DE FUNDAMENTAÇÃO. ANULAÇÃO DO ACÓRDÃO RECORRIDO PARA NOVO JULGAMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto contra decisão que conheceu agravo para dar parcial provimento ao recurso especial, anulando o acórdão recorrido e determinando o retorno dos autos ao Tribunal de origem para novo julgamento quanto à admissibilidade de prova digital extraída de celulares apreendidos na Operação Capistrum, à luz dos parâmetros da cadeia de custódia.
+  > 2. Fato relevante. A defesa alegou inadmissibilidade dos dados dos Relatórios Técnicos n. 005/2022 e 009/2023 por ausência de indicação do responsável pela extração, do método empregado, da data do procedimento, da integralidade do conteúdo transferido e da origem da análise (aparelhos ou HD externo), sustentando contaminação das provas derivadas. O acórdão de origem afastou a nulidade, atribuindo à defesa o ônus de demonstrar adulteração ou prejuízo e referindo genericamente a integridade do material.
+  > 3. Decisão anterior. A decisão agravada concluiu haver déficit de fundamentação sobre a cadeia de custódia da prova digital, afirmando ser ônus do Estado demonstrar a integridade e autenticidade dos vestígios e determinando a anulação do acórdão de apelação para novo julgamento à luz dos arts. 157, § 1º, 158 e 158-A a 158-F do CPP.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) definir se a decisão agravada deve ser reconsiderada diante das alegações de incidência das Súmulas 182/STJ e 7/STJ e da orientação jurisprudencial segundo a qual a quebra da cadeia de custódia, sem elementos de adulteração, manipulação ou prejuízo concreto, não conduz automaticamente à nulidade da prova; e (ii) estabelecer se o acórdão recorrido enfrentou adequadamente a alegação defensiva de quebra da cadeia de custódia da prova digital, especialmente quanto à ausência de indicação do responsável pela extração, do método utilizado, da data do procedimento, da integralidade do conteúdo transferido e da origem da análise.
+  > III. Razões de decidir
+  > 5. A parte agravante não apresenta argumentos suficientes para alterar a decisão agravada.
+  > 6. O Tribunal de origem afirma que a Polícia Civil e o Ministério Público Estadual documentaram os atos praticados na arrecadação, armazenamento e análise dos eletrônicos apreendidos, com a apresentação de garantias de que o conteúdo permaneceu íntegro enquanto esteve sob custódia policial.
+  > 7. O acórdão recorrido registra que os relatórios técnicos indicam os lacres em que acondicionados os celulares, o modelo, o número de série e o IMEI dos aparelhos, o chip e a operadora utilizada, os dados cadastrais de seus proprietários, bem como informações relativas a aplicativos, contas de usuário, chamadas, contatos telefônicos, localizações, mensagens e mídias.
+  > 8. O Tribunal de origem também assenta que a defesa não nega a autenticidade dos elementos informativos encontrados nos smartphones, não aponta qual informação teria sido manipulada e não demonstra inconsistência das fontes, adulteração ou falta de cautela no manuseio dos registros.
+  > 9. Apesar dessas afirmações, o acórdão recorrido não enfrenta o ponto decisivo suscitado pela defesa: a ausência de indicação do responsável pela extração, do método empregado, da data do procedimento, da integralidade do conteúdo transferido e da origem da análise, isto é, se realizada diretamente a partir dos aparelhos apreendidos ou de HD externo.
+  > 10. A controvérsia não se limita à existência de relatórios técnicos ou à presença de dados extraídos dos aparelhos, mas envolve saber se esses relatórios permitem reconstruir o percurso pelo qual a prova digital foi obtida, preservada e analisada.
+  > 11. O Estado tem o ônus de demonstrar a confiabilidade da fonte probatória, não sendo admissível presumir que o conteúdo analisado corresponde ao conteúdo apreendido, que a extração foi completa, que o método empregado era idôneo ou que o material examinado teve origem nos próprios aparelhos.
+  > 12. A transferência ao acusado do ônus de demonstrar o efetivo comprometimento da cadeia de custódia converte em presunção aquilo que deve ser demonstrado pelo Estado.
+  > 13. O déficit de fundamentação impede o controle da instância superior sobre a admissibilidade da prova digital, pois permanece sem resposta a questão sobre a correspondência entre o conteúdo apreendido e aquele posteriormente utilizado no processo.
+  > 14. O Tribunal de origem deve realizar novo julgamento, explicitando, a partir do que consta dos autos, o procedimento de arrecadação e extração dos dados, a preservação da integridade e da autenticidade dos vestígios digitais e as consequências de eventual imprestabilidade para o conjunto probatório.
+  > IV. Dispositivo e tese 15. . Resultado do Julgamento: Agravo regimental improvido, mantida a anulação do acórdão recorrido para novo julgamento pelo Tribunal de origem quanto à admissibilidade da prova digital, observados os parâmetros da cadeia de custódia.
+  > Tese de julgamento:
+  > 1. A existência de relatórios técnicos sobre aparelhos celulares apreendidos não basta, por si só, para demonstrar a confiabilidade da prova digital quando não enfrentadas as impugnações específicas sobre extração, método, data, integralidade e origem da análise.
+  > 2. O Estado-acusação tem o ônus de demonstrar a integridade, a autenticidade e a rastreabilidade da prova digital que apresenta.
+  > 3. O acórdão que afasta a alegação de quebra da cadeia de custódia sem examinar se os autos permitem reconstruir o percurso de obtenção, preservação e análise da prova digital apresenta déficit de fundamentação.
+  > 4. A insuficiência de fundamentação quanto à cadeia de custódia da prova digital impõe a anulação do acórdão recorrido para novo julgamento pela instância de origem.
+  > (AgRg no AREsp n. 2.985.235/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 16/6/2026.)
+
+## 63. EDcl no AgRg no HC nº 1060880 / AM (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 15/06/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima sobre furto pretérito e "diligências preliminares" genéricas, sem monitoramento nem movimentação típica, não são fundadas razões para entrar no domicílio. O consentimento do morador precisa de registro escrito ou audiovisual. Provas ilícitas e absolvição mantidas; embargos do MP rejeitados.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1060880.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INGRESSO DOMICILIAR SEM MANDADO. FUNDADAS RAZÕES NÃO DEMONSTRADAS. CONSENTIMENTO NÃO COMPROVADO. PROVAS ILÍCITAS. ABSOLVIÇÃO MANTIDA. EMBARGOS REJEITADOS.
+  > I. Caso em exame
+  > 1. Embargos de declaração opostos pelo órgão ministerial contra acórdão que negou provimento a agravo regimental e manteve decisão monocrática que, de ofício, concedeu habeas corpus para reconhecer a ilicitude do ingresso policial em domicílio, declarar inadmissíveis as provas e absolver o paciente com fundamento no art. 386, VII, do Código de Processo Penal.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se o acórdão impugnado incorreu em omissão, contradição, ambiguidade ou obscuridade quanto: (i) à existência de fundadas razões para o ingresso domiciliar sem mandado; (ii) ao consentimento válido do morador; (iii) à ilicitude das provas e à absolvição por ausência de prova válida e independente; e (iv) ao prequestionamento dos dispositivos constitucionais invocados.
+  > III. Razões de decidir
+  > 3. Embargos de declaração possuem função integrativa restrita a sanar omissão, contradição, ambiguidade ou obscuridade, não se prestando à rediscussão do mérito.
+  > 4. O acórdão enfrentou de modo suficiente os pontos controvertidos: validade do ingresso sem mandado, alegado consentimento do morador, ilicitude das provas e inexistência de elementos autônomos aptos a sustentar a condenação por tráfico de drogas.
+  > 5. A inviolabilidade domiciliar foi aplicada à luz do art. 5º, XI, da Constituição e da tese firmada no RE 603.616/RO, exigindo “fundadas razões” objetivas e verificáveis para legitimar ingresso sem mandado; as referências a “diligências preliminares” genéricas, origem em denúncia anônima sobre furto pretérito, e ausência de medidas prévias concretas (monitoramento do imóvel, observação de movimentação típica ou outras diligências) não configuram tal exigência.
+  > 6. A autorização do morador não se apresentou comprovada de forma idônea, ausente registro escrito ou audiovisual do consentimento, conforme orientação desta Corte, impondo o reconhecimento da ilegalidade da busca e a inadmissibilidade das provas dela decorrentes.
+  > 7. Denúncia anônima desacompanhada de elementos verificáveis não legitima mitigação da inviolabilidade domiciliar, conforme jurisprudência consolidada.
+  > 8. Inexistentes omissão, contradição, ambiguidade ou obscuridade, descabe atribuir efeitos modificativos ao julgado por meio do recurso aclaratório.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Embargos de declaração rejeitados.
+  > Tese de julgamento:
+  > 1. Embargos de declaração não se prestam à rediscussão do mérito na ausência de omissão, contradição, ambiguidade ou obscuridade.
+  > 2. A entrada em domicílio sem mandado exige fundadas razões objetivas e verificáveis; denúncia anônima isolada e diligências genéricas não legitimam o ingresso.
+  > 3. O consentimento do morador deve ser comprovado de forma idônea; ausente comprovação, a busca é ilegal e as provas decorrentes são inadmissíveis.
+  > 4. A absolvição é devida quando inexistem provas válidas e independentes aptas a sustentar a condenação (CPP, art. 386, VII).
+  > (EDcl no AgRg no HC n. 1.060.880/AM, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 15/6/2026.)
+
+## 64. AgRg no HC nº 1050683 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 10/06/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital
 - Resumo: Sem apreensão de droga e sem laudo toxicológico definitivo, não há materialidade do tráfico (EREsp 1.544.057/RJ). Mensagens extraídas do celular e depoimentos policiais não suprem a falta. Absolvição mantida, com extensão ao corréu; agravo do MPF desprovido.
@@ -34,13 +102,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. Reconhecida a ausência de materialidade, deve ser mantida a absolvição, ficando prejudicadas questões acessórias.
   > (AgRg no HC n. 1.050.683/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/6/2026, DJEN de 10/6/2026.)
 
-## 52. HC nº 1088218 / SP (STJ)
+## 65. HC nº 1088218 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 03/06/2026.
 - Crime / Tema: Violência doméstica · Perseguição · Ameaça · Prisão e medidas cautelares
 - Resumo: A preventiva decretada só pelo descumprimento de medida protetiva perde o fundamento quando o próprio MP arquiva o inquérito desse descumprimento por atipicidade (encontro fortuito, sem dolo). Sem fato novo e contemporâneo, a condição de foragido não basta para mantê-la, e as medidas protetivas vigentes já resguardam a vítima. Preventiva revogada, facultadas as cautelares do art. 319 do CPP.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1088218.pdf
 
-## 53. AgRg no RHC nº 235625 / SP (STJ)
+## 66. AgRg no RHC nº 235625 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/06/2026.
 - Crime / Tema: Violência doméstica · Quebra da cadeia de custódia · Prova digital
 - Resumo: A cadeia de custódia da prova digital não é formalismo. Não houve laudo de extração, indicação de como os vídeos chegaram à polícia, hash nem registro do percurso, e a defesa só viu uma regravação da tela do sistema: a integridade não está demonstrada. Presunção de idoneidade e fé pública da servidora não suprem a falta, e não se pode exigir da defesa a prova da adulteração (prova diabólica). A questão é objetiva e cabe em HC. Vídeos inadmissíveis, ressalvada perícia nos originais. Agravo do MP desprovido.
@@ -57,7 +125,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 8. Agravo regimental não provido.
   > (AgRg no RHC n. 235.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2026, DJEN de 1/6/2026.)
 
-## 54. AgRg no AREsp nº 2786040 / GO (STJ)
+## 67. AgRg no AREsp nº 2786040 / GO (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/05/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Fundada suspeita
 - Resumo: A afirmação de corréus presos em flagrante de que compraram a droga na casa do acusado, sem confirmação por nenhum outro elemento, não é fundada razão para entrar sem mandado. O Estado não provou o consentimento do morador. Provas nulas e réu absolvido; a busca veicular dos corréus foi considerada válida.
@@ -79,13 +147,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator, que reproduz a decisão monocrática, em que o réu era o agravante]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
   > (AgRg no AREsp n. 2.786.040/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 13/5/2026.)
 
-## 55. AREsp nº 3115023 / RS (STJ)
+## 68. AREsp nº 3115023 / RS (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/04/2026.
 - Crime / Tema: Homicídio · Tribunal do Júri
 - Resumo: A plenitude de defesa prevalece sobre a preclusão do art. 422 do CPP quando há prejuízo concreto. Negar a oitiva dos peritos da defesa e deixar a acusação explorar os pareceres sem contraditório técnico gera assimetria. Oitiva restabelecida e júri anulado (médico e enfermeira acusados da morte de um recém-nascido).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115023.pdf
 
-## 56. AgRg no HC nº 1079684 / MG (STJ)
+## 69. AgRg no HC nº 1079684 / MG (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/04/2026.
 - Crime / Tema: Associação criminosa · Crimes contra a Administração Pública · Lavagem de dinheiro · Quebra de sigilo · Busca e apreensão
 - Resumo: Acesso a dados telemáticos armazenados (dados estáticos) não exige prazo, como a interceptação exige, mas precisa guardar pertinência temática e temporal com os fatos investigados. A investigação de fatos de 2009 a 2015 não autoriza vasculhar dados anteriores ou posteriores, o que seria pescaria probatória. Busca e apreensão mantida, com recorte temporal.
@@ -101,7 +169,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. Agravo regimental a que se dá parcial provimento, para acolher o pedido subsidiário e, de ofício, delimitar as medidas invasivas ao período dos fatos investigados (2009-2015).
   > (AgRg no HC n. 1.079.684/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
 
-## 57. HC nº 1048611 / RS (STJ)
+## 70. HC nº 1048611 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 17/03/2026.
 - Crime / Tema: Execução penal
 - Resumo: A remição pelo trabalho pode ser comprovada por prova testemunhal idônea, mesmo de outros presos, sobretudo quando o Estado falhou em registrar o trabalho (art. 126 da LEP). Proibir de antemão essa prova é ilegal. Ordem concedida para o juízo da execução reanalisar a remição.
@@ -125,57 +193,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 1. A remição pelo trabalho pode ser comprovada por meio de prova testemunhal, desde que idônea e devidamente fundamentada.
   > 2. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal para fins de remição pelo trabalho.
   > (HC n. 1.048.611/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026.)
-
-## 58. AgRg no REsp nº 2237192 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/03/2026.
-- Crime / Tema: Manipulação de mercado · Imparcialidade do juiz
-- Resumo: Suspeição de juiz acionista da empresa ligada à investigação (manipulação de mercado): a parcialidade é aferível objetivamente, e o prejuízo decorre dela. Mantida a anulação de todos os atos do magistrado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2237192.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. INCOMPETÊNCIA DO RELATOR. PREVENÇÃO NÃO OBSERVADA. JULGAMENTO DE MÉRITO DO RECURSO. PRECLUSÃO DA ALEGAÇÃO. ART. 71, § 4º, RISTJ. 2. OFENSA AO ART. 563 DO CPP. SUSPEIÇÃO DO MAGISTRADO. ACIONÁRIO DE EMPRESA RELACIONADA COM A INVESTIGAÇÃO. PARCIALIDADE AFERÍVEL OBJETIVAMENTE. PREJUÍZO DEMONOSTRADO. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
-  > 1. Quanto à alegada incompetência deste relator, registro que a distribuição interna do STJ tem natureza relativa, motivo pelo qual eventual prevenção não reconhecida ou reconhecida equivocadamente deve ser suscitada até o início do julgamento, sob pena de preclusão. Com efeito, "o entendimento do STJ é de que a prevenção deve ser suscitada no primeiro momento em que a parte tiver oportunidade, que no caso é a própria distribuição do recurso, ou até o instante que precede o início do seu julgamento". (EDcl no AgRg no AREsp n. 150.035/DF, relator Ministro Humberto Martins, relator para acórdão Ministro Herman Benjamin, Segunda Turma, julgado em 10/11/2015, DJe de 2/2/2017.)
-  > 2. A alegação ministerial consiste em suposta ofensa ao art. 563 do CPP, por considerar que os atos foram anulados sem que se perquirisse a respeito do efetivo prejuízo. Contudo, conforme explicitado na decisão monocrática, a suspeição do magistrado foi verificada em razão de ele possuir 47 participações acionárias da Companhia em que se investigava a divulgação indevida de informações no mercado.
-  > - Nesse contexto, o acórdão recorrido consignou que "a condição que deu causa à mencionada suspeição já existia desde antes da instauração do IPL originário (sendo preexistente portanto ao início das investigações policiais), de modo que atinge todos os atos proferidos pelo Magistrado Dr. VITOR BARBOSA VALPUESTA naquele feito e nos correlacionados, por razões que, como visto acima, são bastante objetivas" (e-STJ fl. 228).
-  > - Como visto, a Corte Regional, ao analisar o caso concreto, considerou que o fato de o juiz ser acionista da IRB BRASIL RESSEGUROS - companhia relacionada à investigação, uma vez que se averiguava a desvalorização de cotações de ações da companhia em virtude de divulgação indevida de informações supostamente inverídicas ao mercado - já revelava o prejuízo, diante da ausência de imparcialidade aferível objetivamente. Dessa forma, não há se falar em ofensa ao art. 563 do CPP.
-  > 3. Agravo regimental a que se nega provimento.
-  > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)
-
-## 59. AgRg no HC nº 1017481 / RN (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 12/03/2026.
-- Crime / Tema: Tráfico de drogas · Prova digital · Fundada suspeita · Cabimento do HC
-- Resumo: O acesso da polícia às conversas do celular do corréu sem autorização judicial é ilícito. Essa prova e as dela derivadas devem ser desentranhadas, cabendo ao juízo verificar se há prova independente que sustente a condenação. A busca pessoal, feita com fundada suspeita, foi considerada válida (art. 244 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1017481.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA PESSOAL E ACESSO A DADOS DE CELULAR SEM AUTORIZAÇÃO JUDICIAL. PROVAS ILÍCITAS. AGRAVO PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão transitado em julgado.
-  > 2. O agravante sustenta a ocorrência de flagrante ilegalidade na busca pessoal realizada sem fundada suspeita e no acesso ao conteúdo do celular do corréu sem autorização judicial, o que teria resultado na sua identificação como autor do crime de tráfico de drogas.
-  > 3. Requer a reconsideração da decisão recorrida para que seja reconhecida a invalidade das provas obtidas ilegalmente, ou, subsidiariamente, a apreciação pela Quinta Turma para concessão da ordem.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 4. Há duas questões em discussão: (i) saber se a busca pessoal foi realizada sem fundada suspeita; e (ii) saber se o acesso ao conteúdo do celular do corréu, sem autorização judicial, configura prova ilícita e se as provas derivadas devem ser desentranhadas dos autos.
-  > III. RAZÕES DE DECIDIR
-  > 5. A busca pessoal foi realizada com base em policiamento ostensivo e fundada suspeita, conforme previsto no art. 244 do Código de Processo Penal, sendo legítima a revista que resultou na apreensão de porções de cocaína com o corréu.
-  > 6. O acesso aos históricos de mensagens e conversas do celular do corréu, realizado diretamente pela polícia sem autorização judicial, configura prova ilícita, conforme entendimento consolidado pelo Superior Tribunal de Justiça.
-  > 7. As provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
-  > 8. Cabe ao juízo de primeira instância verificar a existência de prova independente e suficiente para eventual manutenção da condenação pelo delito de tráfico de drogas.
-  > IV. DISPOSITIVO E TESE
-  > 9. Resultado do Julgamento: Agravo provido para declarar a nulidade das provas obtidas mediante acesso ao conteúdo do celular do corréu sem autorização judicial, bem como de todas as provas delas decorrentes.
-  > Tese de julgamento:
-  > 1. A busca pessoal é legítima quando realizada com base em policiamento ostensivo e fundada suspeita, nos termos do art. 244 do Código de Processo Penal.
-  > 2. É ilícito o acesso as conversas mantidas em aparelho celular diretamente por autoridades policiais sem prévia autorização judicial.
-  > 3. Provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
-  > (AgRg no HC n. 1.017.481/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
-
-## 60. RHC nº 223931 / PE (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
-- Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-223931.pdf
-- Ementa oficial:
-  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. OCORRÊNCIA. RECURSO PROVIDO.
-  > 1. O trancamento da ação penal, somente é possível, na via estreita do habeas corpus ou do seu respectivo recurso ordinário em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de materialidade ou de autoria delitiva.
-  > 2. Limitando-se a peça acusatória a genericamente imputar as condutas de tráfico e associação para o tráfico, sem qualquer descrição concreta da suposta coordenação, da divisão específica de tarefas ou do vínculo estável entre os réus, verifica-se a inobservância dos requisitos previstos no art. 41 do CPP.
-  > 3. A mera referência a registros policiais pretéritos e a apreensões desacompanhadas de indicação precisa de datas, locais e circunstâncias dos fatos não supre a exigência legal de descrição mínima apta a demonstrar a justa causa.
-  > 4. A generalidade da imputação compromete o exercício da ampla defesa e do contraditório, impondo o reconhecimento da inépcia da denúncia, com extensão aos demais denunciados, nos termos do art. 580 do CPP.
-  > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
-  > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)

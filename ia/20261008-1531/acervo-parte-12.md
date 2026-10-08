@@ -1,14 +1,44 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 11 de 13 (decisões 101 a 110)
+# Acervo de Jurisprudência — Cury Advogados — parte 12 de 14 (decisões 111 a 120)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 136 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1531/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 101. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
+## 111. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
+- Crime / Tema: Tráfico de drogas
+- Resumo: O réu não foi preso em flagrante, os policiais não presenciaram venda e não havia outra prova além da denúncia anônima e dos depoimentos policiais. Depoimento policial só sustenta condenação quando harmônico com as demais provas. Réu absolvido do tráfico (in dubio pro reo).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2167621.pdf
+
+## 112. AgRg no RHC nº 143169 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Messod Azulay Neto; redator do acórdão: Min. Ribeiro Dantas. Quinta Turma. Publicado em 02/03/2023.
+- Crime / Tema: Furto · Organização criminosa · Lavagem de dinheiro · Quebra da cadeia de custódia · Prova digital
+- Resumo: Quebra da cadeia de custódia da prova digital: a polícia não documentou a apreensão e a análise dos computadores, sem imagem bit a bit nem hash. É ônus do Estado provar a integridade da prova. São inadmissíveis as provas extraídas e as delas derivadas, e a exigência vale mesmo para fatos anteriores ao Pacote Anticrime.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-143169.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO OPEN DOORS. FURTO, ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. ACESSO A DOCUMENTOS DE COLABORAÇÃO PREMIADA. FALHA NA INSTRUÇÃO DO HABEAS CORPUS. CADEIA DE CUSTÓDIA. INOBSERVÂNCIA DOS PROCEDIMENTOS TÉCNICOS NECESSÁRIOS A GARANTIR A INTEGRIDADE DAS FONTES DE PROVA ARRECADADAS PELA POLÍCIA. FALTA DE DOCUMENTAÇÃO DOS ATOS REALIZADOS NO TRATAMENTO DA PROVA. CONFIABILIDADE COMPROMETIDA. PROVAS INADMISSÍVEIS, EM CONSEQUÊNCIA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO PARA PROVER TAMBÉM EM PARTE O RECURSO ORDINÁRIO.
+  > 1. O habeas corpus não foi adequadamente instruído para comprovar as alegações defensivas referentes ao acesso a documentos da colaboração premiada, o que impede o provimento do recurso no ponto.
+  > 2. A principal finalidade da cadeia de custódia é garantir que os vestígios deixados no mundo material por uma infração penal correspondem exatamente àqueles arrecadados pela polícia, examinados e apresentados em juízo.
+  > 3. Embora o específico regramento dos arts. 158-A a 158-F do CPP (introduzidos pela Lei 13.964/2019) não retroaja, a necessidade de preservar a cadeia de custódia não surgiu com eles. Afinal, a ideia de cadeia de custódia é logicamente indissociável do próprio conceito de corpo de delito, constante no CPP desde a redação original de seu art. 158. Por isso, mesmo para fatos anteriores a 2019, é necessário avaliar a preservação da cadeia de custódia.
+  > 4. A autoridade policial responsável pela apreensão de um computador (ou outro dispositivo de armazenamento de informações digitais) deve copiar integralmente (bit a bit) o conteúdo do dispositivo, gerando uma imagem dos dados: um arquivo que espelha e representa fielmente o conteúdo original.
+  > 5. Aplicando-se uma técnica de algoritmo hash, é possível obter uma assinatura única para cada arquivo, que teria um valor diferente caso um único bit de informação fosse alterado em alguma etapa da investigação, quando a fonte de prova já estivesse sob a custódia da polícia. Comparando as hashes calculadas nos momentos da coleta e da perícia (ou de sua repetição em juízo), é possível detectar se o conteúdo extraído do dispositivo foi modificado.
+  > 6. É ônus do Estado comprovar a integridade e confiabilidade das fontes de prova por ele apresentadas. É incabível, aqui, simplesmente presumir a veracidade das alegações estatais, quando descumpridos os procedimentos referentes à cadeia de custódia. No processo penal, a atividade do Estado é o objeto do controle de legalidade, e não o parâmetro do controle; isto é, cabe ao Judiciário controlar a atuação do Estado-acusação a partir do direito, e não a partir de uma autoproclamada confiança que o Estado-acusação deposita em si mesmo.
+  > 7. No caso dos autos, a polícia não documentou nenhum dos atos por ela praticados na arrecadação, armazenamento e análise dos computadores apreendidos durante o inquérito, nem se preocupou em apresentar garantias de que seu conteúdo permaneceu íntegro enquanto esteve sob a custódia policial. Como consequência, não há como assegurar que os dados informáticos periciados são íntegros e idênticos aos que existiam nos computadores do réu.
+  > 8. Pela quebra da cadeia de custódia, são inadmissíveis as provas extraídas dos computadores do acusado, bem como as provas delas derivadas, em aplicação analógica do art. 157, § 1º, do CPP.
+  > 9. Agravo regimental parcialmente provido, para prover também em parte o recurso ordinário em habeas corpus e declarar a inadmissibilidade das provas em questão.
+  > (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023.)
+
+## 113. HC nº 776885 / MG (STJ)
+- Decisão monocrática. Relator: Min. Jesuíno Rissato (Des. convocado do TJDFT). Sexta Turma. Publicado em 14/02/2023.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Fundada suspeita · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima e "características físicas" do suspeito não configuram fundada suspeita para a busca pessoal (art. 244 do CPP), e o ingresso na casa que se seguiu também não tinha fundadas razões. Provas nulas, inclusive as da casa. Ação penal trancada, com extensão ao corréu (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-776885.pdf
+
+## 114. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
 - Decisão colegiada. Relator: Des. André Carvalho e Silva de Almeida. 1º Grupo de Direito Criminal. Publicado em 03/02/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Revisão criminal
 - Resumo: Revisão deferida contra condenação do Júri manifestamente contrária à prova: não havia testemunha presencial, a vítima não foi ouvida em juízo e as testemunhas nada disseram contra os réus. Absolvição por falta de prova da autoria (art. 386, V, do CPP), estendida ao corréu.
@@ -17,7 +47,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Revisão Criminal – Júri – Decisão manifestamente contrário à prova dos autos – Inexistência de testemunhas presenciais – Vítima não ouvida em juízo – Testemunhas que nada disseram contra os denunciados – Revisão deferida para absolver.
   > (TJSP, Revisão Criminal n. 0019378-10.2021.8.26.0000, relator Desembargador André Carvalho e Silva de Almeida, 1º Grupo de Direito Criminal, julgado em 27/1/2023, publicado em 3/2/2023.)
 
-## 102. HC nº 762932 / SP (STJ)
+## 115. HC nº 762932 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Antecedente por tráfico, sozinho, não autoriza busca domiciliar; admitir isso seria Direito Penal do autor. O réu já estava preso por porte de arma na rua, sozinho, diante de policiais armados e sem defesa: nessas condições, o consentimento para a busca com cães farejadores não é crível nem válido (coação ambiental), e cabe ao Estado prová-lo. Foi uma pescaria probatória (fishing expedition). Réu absolvido do tráfico; mantida a condenação pela arma, apreendida antes e fora da casa.
@@ -45,7 +75,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 19. Ordem concedida para, considerando que não houve fundadas razões, tampouco comprovação de consentimento válido para a realização de buscas por drogas no domicílio do paciente, reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram, e, por conseguinte, absolvê-lo em relação à prática do delito de tráfico de drogas.
   > (HC n. 762.932/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 30/11/2022.)
 
-## 103. AgRg no HC nº 731882 / AM (STJ)
+## 116. AgRg no HC nº 731882 / AM (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Revisão criminal
 - Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
@@ -59,13 +89,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
   > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
 
-## 104. HC nº 221.204 / MG (STF)
+## 117. HC nº 221.204 / MG (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 24/10/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Cabimento do HC
 - Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
 
-## 105. RHC nº 147043 / SP (STJ)
+## 118. RHC nº 147043 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
 - Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
@@ -78,7 +108,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
   > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
 
-## 106. HC nº 653515 / RJ (STJ)
+## 119. HC nº 653515 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
 - Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
@@ -102,7 +132,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
   > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
 
-## 107. HC nº 660930 / SP (STJ)
+## 120. HC nº 660930 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. Vencido, em parte, o relator, que anulava as provas da busca pessoal (motivada, a seu ver, pela cor da pele) e absolvia o paciente.
@@ -121,41 +151,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 10. Na sessão de julgamento de 14/9/2021, a Sexta Turma não acompanhou o Relator na concessão da ordem de ofício, quanto à ilegalidade da busca pessoal, à mingua de fundada suspeita.
   > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
   > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
-
-## 108. RE nº 1.301.250 / RJ (STF)
-- Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
-- Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
-- Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1301250.pdf
-- Voto da relatora: https://ladirf.github.io/acervo/pdfs/voto-re-1301250.pdf
-- Ementa oficial:
-  > DIREITO CONSTITUCIONAL. DIREITO PROCESSUAL PENAL. QUEBRA DE SIGILO DE DADOS PESSOAIS. REGISTROS DE ACESSO À INTERNET E FORNECIMENTO DE IP. DECISÃO GENÉRICA. NÃO INDICAÇÃO DE PARÂMETROS MÍNIMOS PARA IDENTIFICAÇÃO DOS USUÁRIOS. NÃO DELIMITAÇÃO, ADEMAIS, DO ESPAÇO TERRITORIAL EM QUE VEICULADA A ORDEM. PROTEÇÃO À INTIMIDADE E AO SIGILO DE DADOS (ART. 5º, X e XII, CF). QUESTÃO CONSTITUCIONAL. POTENCIAL MULTIPLICADOR DA CONTROVÉRSIA. REPERCUSSÃO GERAL RECONHECIDA.
-  > 1. Possui índole constitucional e repercussão geral a controvérsia relativa aos limites e ao alcance de decisões judiciais de quebra de sigilo de dados pessoais, nas quais determinado o fornecimento de registros de acesso à internet e de IPs (internet protocol address), circunscritos a um lapso temporal demarcado, sem, contudo, a indicação de qualquer elemento concreto apto a identificar os usuários.
-  > 2. Repercussão geral reconhecida.
-  > (STF, RE n. 1.301.250 RG/RJ, relatora Ministra Rosa Weber, Tribunal Pleno, julgado em 27/5/2021, DJe de 8/6/2021.)
-
-## 109. HC nº 611918 / SP (STJ)
-- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-611918.pdf
-- Ementa oficial:
-  > HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE. ILICITUDE DAS PROVAS. INVASÃO DE DOMICÍLIO. ATUAÇÃO COM BASE EM DENÚNCIA ANÔNIMA. IMPOSSIBILIDADE. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. OCORRÊNCIA. ORDEM CONCEDIDA.
-  > 1. Esta Corte Superior entende serem exigíveis fundamentos razoáveis da existência de crime permanente para justificarem o ingresso desautorizado na residência do agente. Desse modo, a mera denúncia anônima, desacompanhada de outros elementos preliminares indicativos de crime, não legitima o ingresso de policiais no domicílio, sem autorização judicial.
-  > 2. A abordagem em face do réu, em local conhecido como ponto de tráfico, sendo encontrado com ele drogas, não autoriza o ingresso na residência, por não demonstrar os fundamentos razoáveis da existência de crime permanente dentro do domicílio.
-  > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
-  > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
-
-## 110. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
-- Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
-- Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
-- Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0702-16-075074.pdf
-- Ementa oficial:
-  > APELAÇÕES CRIMINAIS - COAÇÃO NO CURSO DO PROCESSO E OBSTRUÇÃO DE JUSTIÇA - ABSOLVIÇÃO EM FACE DE AMBOS OS DELITOS - NECESSIDADE - AUTORIA NÃO DEMONSTRADA - PRINCÍPIO DO "IN DUBIO PRO REO" - CONDENAÇÃO FUNDADA APENAS EM COLABORAÇÕES PREMIADAS - DESCABIMENTO - AUSÊNCIA DE ELEMENTOS DE CORROBORAÇÃO ESPECÍFICOS - INTELIGÊNCIA DO ART. 4º, § 16, INC. III, DA LEI Nº 12.850/2013 - RECURSO MINISTERIAL - RECRUDESCIMENTO DA PENA E DO REGIME PRISIONAL - INVIABILIDADE - MATÉRIAS PREJUDICADAS - ABSOLVIÇÃO DO ACUSADO. APELAÇÃO DEFENSIVA PROVIDA E RECURSO MINISTERIAL DESPROVIDO.
-  > 01. Ausentes provas seguras de que o acusado, dolosamente, praticou ou concorreu finalisticamente para a prática dos elementos típicos dos arts. 344 do Código Penal e 2º, § 1º, da Lei nº 12.850/2013, necessária se afigura sua absolvição, mormente em face do princípio do "in dubio pro reo".
-  > 02. Nos termos do art. 4º, § 16, inc. III, da Lei nº 12.850/2013, mostra-se inadmissível a prolação de sentença condenatória fundada apenas nas declarações de colaboradores premiados.
-  > 03. Colaborações premiadas não consubstanciam provas, senão meros meios de obtenção de prova, devendo ser especificamente corroboradas por outros elementos que evidenciem, extreme de dúvidas, os fatos descritos na denúncia.
-  > 04. Não se prestam à corroboração de delações premiadas elementos genéricos, dissociados dos relatos contidos na denúncia ou incapazes de comprovar a específica realização dolosa das condutas imputadas a cada um dos acusados.
-  > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
-  > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
