@@ -1,26 +1,54 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 4 de 11 (decisões 31 a 40)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 105 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261008-0952/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261008-1104/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 31. RHC nº 243155 / SP (STJ)
+## 31. REsp nº 2048687 / BA (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 08/09/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Tema repetitivo
+- Resumo: Tema 1.260/STJ — Pronúncia não pode se basear só em elementos do inquérito nem só em testemunho indireto (“ouvir dizer”), ainda que colhido em juízo. Em contextos de intimidação, facções ou silenciamento de testemunhas, o testemunho indireto qualificado pode ter maior relevo, sob controle judicial estrito.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2048687.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PRONÚNCIA. FUNDAMENTAÇÃO EXCLUSIVA EM ELEMENTOS INFORMATIVOS DO INQUÉRITO POLICIAL E TESTEMUNHOS INDIRETOS. INADMISSIBILIDADE. VIOLAÇÃO AO ART. 155 DO CPP. AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. DESPRONÚNCIA. RECURSO ESPECIAL PROVIDO.
+  > 1. Recurso representativo de controvérsia, para atender ao disposto nos arts. 1.036 e seguintes do CPC/2015 e 256 e seguintes do Regimento Interno do Superior Tribunal de Justiça.
+  > 2. Delimitação da controvérsia: definir a) se, nos termos do art. 155 do CPP, a pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial; b) se o testemunho indireto, ainda que colhido em juízo, não constitui, isoladamente, meio de prova idôneo para a pronúncia.
+  > 3. Teses: 1) A pronúncia não pode se basear, exclusivamente, em elementos informativos do inquérito, ressalvadas as exceções contidas na parte final do 155, caput, do CPP (provas cautelares, não repetíveis e antecipadas); 2) O testemunho indireto ou de ouvir dizer é prova lícita e admissível no ordenamento jurídico brasileiro, mas, mesmo se produzido em juízo, não é suficiente, por si só, para atingir o standard probatório exigido para a decisão de pronúncia; 3) Em contextos de intimidação da prova, criminalidade organizada, facções criminosas, silenciamento imposto à vítima ou à testemunha e outras hipóteses objetivamente demonstradas de irrepetibilidade ou dificuldade substancial de produção da prova direta, o testemunho indireto qualificado poderá assumir maior relevo probatório, desde que submetido a controle judicial estrito e não dissociado das garantias do contraditório e da ampla defesa.
+  > 4. A Terceira Seção deste Superior Tribunal de Justiça consolidou a jurisprudência no sentido de que a decisão de pronúncia, para ser válida, não pode se apoiar exclusivamente em elementos de informação colhidos durante a fase investigatória ou em depoimentos indiretos (“ouvir dizer”).
+  > 5. Esse entendimento reflete a necessidade de proteger os direitos fundamentais do acusado, em especial a presunção de inocência e o contraditório, que são elementos essenciais em um Estado Democrático de Direito. A aplicação rigorosa do princípio do contraditório na fase de pronúncia busca evitar que o réu seja submetido a julgamento perante o Tribunal do Júri sem a devida substância probatória, garantindo que apenas aquelas acusações baseadas em provas concretas e devidamente verificadas possam dar prosseguimento ao processo penal.
+  > 6. Caso concreto: O acusado foi pronunciado pelo crime de homicídio qualificado (art. 121, § 2º, incisos I e IV, do CP) e pela conduta de atear fogo nos corpos das vítimas, fundamentada a decisão em depoimentos e elementos extraídos das fases investigatória e judicial. Contudo, nenhum dos depoimentos submetidos ao crivo do contraditório traz elementos concretos que possam apontar o réu como autor do crime, em razão das fragilidades, contradições e da natureza indireta das informações prestadas pelas testemunhas ouvidas em juízo. Dessa forma, tem razão a defesa ao alegar violação dos arts. 155 e 414 do CPP, pela ausência de prova robusta e judicializada que justifique a submissão do réu ao Tribunal do Júri.
+  > 7. Recurso especial provido.
+  > (REsp n. 2.048.687/BA, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/8/2026, DJEN de 8/9/2026.)
+
+## 32. HC nº 1095439 / SP (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
+- Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: são necessários elementos concretos de dedicação a atividades criminosas ou de integração a organização criminosa. A quantidade expressiva (86,6 kg de cocaína) só modula a fração, aplicada no mínimo (1/6). Pena reduzida para 5 anos, 2 meses e 15 dias, em regime semiaberto. Ordem concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1095439.pdf
+
+## 33. HC nº 1104105 / SP (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
+- Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
+- Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
+
+## 34. RHC nº 243155 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
 
-## 32. HC nº 276.144 / MS (STF)
+## 35. HC nº 276.144 / MS (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
 - Crime / Tema: Corrupção passiva · Dosimetria
 - Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
 
-## 33. AgRg no HC nº 1089462 / MG (STJ)
+## 36. AgRg no HC nº 1089462 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
 - Crime / Tema: Embriaguez ao volante · Excesso de prazo
 - Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
@@ -41,25 +69,25 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 8. Agravo regimental desprovido.
   > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)
 
-## 34. HC nº 1124321 / PR (STJ)
+## 37. HC nº 1124321 / PR (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
 
-## 35. RHC nº 243213 / SP (STJ)
+## 38. RHC nº 243213 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
 - Crime / Tema: Tráfico de drogas · Quebra de sigilo
 - Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
 
-## 36. HC nº 1121206 / PI (STJ)
+## 39. HC nº 1121206 / PI (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
 - Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
 
-## 37. REsp nº 2204349 / MG (STJ)
+## 40. REsp nº 2204349 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Terceira Seção. Publicado em 20/08/2026.
 - Crime / Tema: Associação para o tráfico · Execução penal · Tema repetitivo
 - Resumo: Tema 1.374/STJ — O art. 112, § 3º, V, da LEP (progressão especial para gestante, mãe ou responsável por criança ou pessoa com deficiência) se interpreta de modo restritivo: "organização criminosa" é só a condenação nos termos da Lei 12.850/2013, e não abrange associação criminosa (art. 288 do CP) nem associação para o tráfico (art. 35 da Lei 11.343/2006). Recurso provido para retificar o cálculo de pena.
@@ -82,52 +110,3 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 14. Aplicando-se a tese ora definida, em atenção aos princípios da legalidade, da taxatividade e do favor rei, a interpretação do art. 112, § 3°, V, da LEP deve se dar de modo restritivo, não abrangendo apenadas pelo crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006).
   > 15. Recurso especial provido para determinar ao Juízo das Execuções Penais que retifique o cálculo de penas da recorrente, abstendo-se de considerar a condenação pelo crime de associação para o tráfico de drogas para fins de análise do requisito contido no art. 112, § 3º, V, da Lei n. 7.210/1984.
   > (REsp n. 2.204.349/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/8/2026, DJEN de 20/8/2026.)
-
-## 38. HC nº 1122510 / BA (STJ)
-- Decisão monocrática (liminar). Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/08/2026.
-- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares · Superação da Súmula 691
-- Resumo: Superação excepcional da Súmula 691/STF — liminar para soltura imediata, paciente mantido preso em flagrante por mais de 72h sem qualquer controle jurisdicional da custódia, sem prejuízo de nova decretação de preventiva pelo Juízo natural, se fundamentada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1122510.pdf
-
-## 39. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
-- Decisão colegiada. Relator: Des. Carlos Eduardo Contar. 2ª Câmara Criminal. Publicado em 04/08/2026.
-- Crime / Tema: Extorsão · Quebra da cadeia de custódia · Prova digital
-- Resumo: Absolvição por insuficiência de provas: prints de WhatsApp sem perícia não bastam para condenar. Ausência de integridade do material digital.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0027305-77-2022.pdf
-- Ementa oficial:
-  > APELAÇÃO – DIREITO PROCESSUAL PENAL – EXTORSÃO – ABSOLVIÇÃO – PROVA DIGITAL – APONTAMENTO DE SÉRIA DÚVIDA QUANTO À ORIGEM E ELABORAÇÃO – IMPOSSIBILIDADE DE AFERIÇÃO TÉCNICA DE SUA CONFIABILIDADE – ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSITIVA – PROVIMENTO. Ainda que o conjunto de indícios apontem para a possível responsabilidade do acusado, não sendo possível aferir-se tecnicamente a rastreabilidade da prova digital coligida e fundamentadamente impugnada pela defesa, de rigor a absolvição, em homenagem ao princípio do in dubio pro reo. Apelação defensiva a que se dá provimento, a fim de acolher o pleito absolutório.
-  > (TJMS, Apelação Criminal n. 0027305-77.2022.8.12.0001, relator Desembargador Carlos Eduardo Contar, 2ª Câmara Criminal, julgado em 31/7/2026, publicado em 4/8/2026.)
-
-## 40. REsp nº 2197493 / RS (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/06/2026.
-- Crime / Tema: Abuso sexual infantojuvenil (ECA) · Prova digital · Acesso da defesa às provas
-- Resumo: Relatórios (reports) do NCMEC que deram origem à investigação de material de abuso sexual infantil não foram entregues à defesa. Sem acesso a essa fonte primária do relatório policial, os autos voltam à origem para juntada integral e reabertura do prazo defensivo. A confissão não supre a falta.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2197493.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. CRIMES DE DISPONIBILIZAÇÃO E ARMAZENAMENTO DE MATERIAL DE ABUSO SEXUAL INFANTOJUVENIL. ARTS. 241-A E 241-B DO ECA. PROVA DIGITAL. REPORTS ENCAMINHADOS PELO NCMEC (NATIONAL CENTER FOR MISSING AND EXPLOITED CHILDREN). ORIGEM ESTRANGEIRA DA INFORMAÇÃO. NOTÍCIA-CRIME APTA A DEFLAGRAR INVESTIGAÇÃO. ART. 13 DA LINDB. LEX DILIGENTIAE. AUSÊNCIA DE DISPONIBILIZAÇÃO À DEFESA DOS DOCUMENTOS-FONTE UTILIZADOS NA ELABORAÇÃO DE RELATÓRIO POLICIAL. IMPOSSIBILIDADE DE CONTROLE DA COMPLETUDE, FIDELIDADE E RASTREABILIDADE DA INFORMAÇÃO. CONTRADITÓRIO E AMPLA DEFESA. CONFISSÃO DO ACUSADO QUANTO AO ARMAZENAMENTO. ART. 241-B DO ECA. NECESSIDADE DE ELEMENTOS EXTERNOS DE CORROBORAÇÃO INDEPENDENTES. ARESP N. 2.123.334/MG. INSUFICIÊNCIA DA CONFISSÃO PARA SUPRIR A AUSÊNCIA DOS DOCUMENTOS-FONTE. NULIDADE A PARTIR DA RESPOSTA À ACUSAÇÃO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Recurso especial interposto pela defesa contra acórdão do TRF da 4ª Região que, em ação penal pela prática dos crimes previstos nos arts. 241-A e 241-B da Lei n. 8.069/1990 (ECA), manteve a condenação pelo armazenamento de material de abuso sexual infantojuvenil em dispositivos eletrônicos e rejeitou preliminares de nulidade relacionadas à competência da Justiça Federal, à licitude das provas oriundas do NCMEC – National Center for Missing and Exploited Children –, à cadeia de custódia, ao sigilo de dados e ao direito ao silêncio. A defesa alegou, em especial, nulidade pela ausência de juntada e disponibilização dos reports NCMEC n. 89794268 e 126248964, utilizados na formação da denúncia e na elaboração do Relatório de Análise de Polícia Judiciária – Caso Rapina n. 460/2022.
-  > 2. Fato relevante. A persecução penal foi deflagrada por reports do NCMEC (n. 89794268 e 126248964), posteriormente analisados em Relatório de Análise de Polícia Judiciária – Caso Rapina n. 460/2022 (RAPJ), sem juntada dos reports ao inquérito ou aos autos, apesar de arguição defensiva desde a resposta à acusação.
-  > 3. Pretensão. A parte recorrente busca o reconhecimento de nulidade por quebra da cadeia de custódia e por ausência de acesso aos reports NCMEC que serviram de base ao RAPJ, com consequente retorno dos autos para disponibilização integral do material, reabertura de prazo defensivo e reavaliação da prova derivada; subsidiariamente, a revisão da dosimetria.
-  > II. Questão em discussão
-  > 4. Há três questões em discussão: (i) definir se reports encaminhados pelo NCMEC à Polícia Federal, produzidos segundo a legislação estrangeira e sem regulamentação tecnológica específica no Brasil, podem ser recebidos como notícia-crime apta a deflagrar investigação; (ii) estabelecer se a ausência de juntada e disponibilização integral à defesa dos reports NCMEC que subsidiaram relatório policial compromete o contraditório, a ampla defesa e a rastreabilidade da prova digital; e (iii) determinar a consequência processual da impossibilidade de controle defensivo sobre a fonte primária utilizada na elaboração do relatório policial.
-  > III. Razões de decidir
-  > 5. O recurso especial não comporta exame de alegada violação direta à Constituição da República nem de ofensa a enunciado sumular, por força da repartição constitucional de competências e da Súmula 518/STJ.
-  > 6. O encaminhamento dos reports pelo NCMEC à Polícia Federal não se torna ilícito pela simples origem estrangeira da informação nem pela ausência de regulamentação brasileira específica da tecnologia empregada em sua elaboração, pois, nessa etapa inicial, os documentos não ingressam no processo como prova judicializada de materialidade ou autoria, mas como notícia-crime destinada a provocar a atuação investigativa das autoridades brasileiras.
-  > 7. O art. 13 da LINDB adota a regra da lex diligentiae, segundo a qual a prova de fatos ocorridos no exterior rege-se pela lei do país em que produzida, quanto ao ônus e aos meios de produção; contudo, o relatório encaminhado pelo NCMEC, em sua feição originária, não constitui prova judicializada de materialidade ou autoria, mas notícia-crime estrangeira apta a deflagrar a investigação, de modo que sua validade inicial não depende de identidade entre o procedimento técnico estrangeiro e o procedimento brasileiro, salvo demonstração de burla às garantias processuais nacionais, violação à soberania ou afronta à ordem pública.
-  > 8. A presunção de legitimidade do relatório policial não dispensa o acesso defensivo à fonte primária que o alimenta, pois apenas o exame dos reports NCMEC permite conferir a fidelidade da reprodução, a completude da transcrição e a correção das inferências feitas pela autoridade policial.
-  > 9. A ausência dos reports NCMEC não representa simples falta de anexo, porque impede a defesa de cotejar o documento originário com o relatório policial que dele se valeu, inclusive quanto a imagens, frames, datas, horários, contas, endereços eletrônicos, número telefônico e demais elementos mencionados no RAPJ.
-  > 10. Quando a informação deixa de servir apenas à deflagração da investigação e passa a sustentar a narrativa acusatória, o contraditório deve alcançar a fonte de onde ela foi extraída.
-  > 11. O prejuízo defensivo não exige demonstração de que os relatórios omitidos continham elemento favorável ao acusado, pois a própria impossibilidade de verificar a completude da prova utilizada contra si configura restrição ao contraditório.
-  > 12. A cadeia de custódia, no caso, atua como garantia de auditabilidade, completude e fidelidade entre o report encaminhado pelo NCMEC, as informações selecionadas pela Polícia Federal e o relatório incorporado ao processo.
-  > 13. A nulidade deve alcançar os atos praticados a partir da resposta à acusação, porque a defesa já havia suscitado, desde esse momento, a necessidade de acesso ao documento-fonte que subsidiou a elaboração do RAPJ, e a continuidade do processo sem essa disponibilização comprometeu a utilidade dos atos defensivos subsequentes.
-  > 14. A eventual impossibilidade de apresentação dos documentos-fonte repercute também sobre a suficiência da confissão. A confissão relativa ao armazenamento de material de abuso sexual infantojuvenil, previsto no art. 241-B do ECA, não supre a ausência de controle defensivo sobre o relatório policial elaborado a partir dos reports NCMEC, nem substitui a necessidade de elementos externos de corroboração independentes da cadeia probatória comprometida. Precedente da Terceira Seção no AREsp n. 2.123.334/MG.
-  > IV. Dispositivo e tese
-  > 15. Resultado do Julgamento: Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido para determinar o retorno dos autos à origem, com disponibilização integral dos reports NCMEC n. 89794268 e 126248964, reabertura de prazo defensivo e, na impossibilidade de apresentação, reavaliação da admissibilidade e da força probatória do RAPJ nos pontos dependentes da fonte primária não acessível.
-  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator]:
-  > 1. O relatório encaminhado pelo NCMEC à Polícia Federal pode ser recebido como notícia-crime quando não demonstrada burla às garantias processuais brasileiras, provocação ilícita das autoridades nacionais ou afronta à soberania ou à ordem pública.
-  > 2. A defesa tem direito de acesso integral aos reports NCMEC que subsidiaram relatório policial utilizado para estruturar a imputação ou sustentar a materialidade do fato.
-  > 3. A ausência de disponibilização da fonte primária da prova digital compromete o contraditório quando impede o controle da completude, da fidelidade e da correspondência entre o documento originário e o relatório policial derivado.
-  > 4. Reconhecido o vício desde a resposta à acusação, devem ser renovados os atos necessários ao efetivo exercício da ampla defesa, com reavaliação da força probatória do relatório policial caso os documentos originários não possam ser apresentados.
-  > 5. A confissão do acusado não supre a ausência de disponibilização da fonte primária utilizada na elaboração do relatório policial, nem afasta a necessidade de elementos externos de corroboração independentes para sustentar condenação pelo art. 241-B do ECA.
-  > (REsp n. 2.197.493/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/6/2026, DJEN de 23/6/2026.)

@@ -1,26 +1,51 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 7 de 11 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 105 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261008-0952/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261008-1104/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. HC nº 840695 / PB (STJ)
+## 61. AgRg no RHC nº 189376 / MT (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
+- Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-189376.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. FALSIFICAÇÃO DO SINAL EMPREGADO NO CONTRASTE DE METAL PRECIOSO OU NA FISCALIZAÇÃO ALFANDEGÁRIA, OU PARA OUTROS FINS. LAVAGEM DE DINHEIRO. COMPETÊNCIA PARA AUTORIZAÇÃO DE QUEBRA DE SIGILO DE DADOS DE CELULAR. NÃO APLICAÇÃO DA TEORIA DO JUÍZO APARENTE. FATOS CONEXOS À OPERAÇAO QUE TRAMITA NA JUSTIÇA FEDERAL. NÃO DEMONSTRÇÃO DE URGÊNCIA QUE AUTORIZARIA A ATUAÇÃO DA JUSTIÇA ESTADUAL. AGRAVO DO MINISTÉRIO PÚBLICO FEDERAL – MPF DESPROVIDO.
+  > 1. De rigor o afastamento da aparente competência da Justiça Estadual para autorização da quebra de sigilo de dados, uma vez que a ação policial que culminou na apreensão do celular teve origem em pedido formulado pela Polícia Federal, que, em razão de decisões proferidas pela Justiça Federal de Cuiabá, no âmbito da operação Catrapo, vinha monitorando o corréu, o que denota ser crível, desde o início, que os fatos investigados eram conexos e estavam compreendidos na competência da Justiça Federal.
+  > 2. Não restando minimamente esclarecido como a competência poderia recair sobre a Justiça Estadual, deve ser afastada a possibilidade de aplicação da teoria do Juízo aparente.
+  > 3. Não demonstrada urgência que validaria a atuação imediata do Juízo Estadual, mormente em se considerando não haver risco efetivo e iminente de perecimento das provas, uma vez que o celular apreendido se encontrava sob custódia da Justiça, a extração de dados do celular apreendido por ele determinada deve ser declarada nula.
+  > 4. Agravo regimental desprovido.
+  > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+
+## 62. HC nº 978977 / PE (STJ)
+- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
+- Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
+
+## 63. AgRg no AREsp nº 2697575 / RJ (STJ)
+- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
+- Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf
+
+## 64. HC nº 840695 / PB (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/02/2025.
 - Crime / Tema: Estelionato · Continuidade delitiva · Dosimetria
 - Resumo: Pirâmide financeira: os 41 estelionatos, praticados do mesmo modo e em sequência, configuram crime continuado, e não concurso material. Em vez de somar as penas, aplica-se uma só pena aumentada. Continuidade reconhecida de ofício, com pena final de 3 anos e 4 meses em regime semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
 
-## 62. AREsp nº 2508013 / MG (STJ)
+## 65. AREsp nº 2508013 / MG (STJ)
 - Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 29/01/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A pronúncia não pode se basear só em elementos do inquérito e em testemunhos de "ouvir dizer" (art. 155 do CPP). O in dubio pro societate não supre lacuna de prova. Detectado o vício na própria pronúncia, não cabe sequer submeter o réu a novo Júri. Réu despronunciado de ofício, mesmo depois da condenação.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2508013.pdf
 
-## 63. HC nº 943710 / SC (STJ)
+## 66. HC nº 943710 / SC (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
 - Crime / Tema: Crimes contra o sistema financeiro · RIF · Competência
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
@@ -36,7 +61,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 7. Ordem concedida parcialmente para reconhecer a ilicitude da solicitação direta dos Relatórios de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos deles derivados, cabendo ao Juízo de primeiro grau identificá-los, procedendo ao seu desentranhamento, além de analisar se persiste a justa causa para o trâmite da ação penal na sua ausência.
   > (HC n. 943.710/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
 
-## 64. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
+## 67. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
 - Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal · Repercussão geral
 - Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.
@@ -48,13 +73,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > - Diante do julgamento do STF no RE nº 635.659, que, por maioria e nos termos do voto do Relator, apreciando o declarou a inconstitucionalidade, sem redução de texto, do art. 28 da Lei 11.343/2006, quando o usuário portar menos de 40g de maconha, de modo a afastar do referido dispositivo todo e qualquer efeito de natureza penal, deve ser reconhecida a atipicidade da conduta, com a consequente absolvição do apelante, devendo os autos serem remetidos ao Juizado Especial Criminal da comarca de origem, para aplicação das sanções administrativas cabíveis.
   > (TJMG, Apelação Criminal n. 1.0000.24.303113-5/001, relator Desembargador Jaubert Carneiro Jaques, 6ª Câmara Criminal, julgado em 22/10/2024, publicado em 23/10/2024.)
 
-## 65. HC nº 902195 / RS (STJ)
+## 68. HC nº 902195 / RS (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 13/08/2024.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Quebra da cadeia de custódia · Prova digital · Pronúncia
 - Resumo: A cadeia de custódia vale também para fatos anteriores ao Pacote Anticrime, porque decorre do conceito de corpo de delito (art. 158 do CPP). A perícia não conseguiu acessar o celular da vítima, e a defesa não pode verificar a integridade nem o contexto das mensagens extraídas dele: essas provas são inadmissíveis e devem ser desentranhadas (art. 157 do CPP). A tese de ilicitude, mesmo levantada só na fase do art. 422, deve ser conhecida. Determinada nova decisão de pronúncia; preventiva mantida. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-902195.pdf
 
-## 66. AgRg no HC nº 828054 / RN (STJ)
+## 69. AgRg no HC nº 828054 / RN (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/04/2024.
 - Crime / Tema: Tráfico de drogas · Quebra da cadeia de custódia · Prova digital
 - Resumo: Extração de dados de celular sem metodologia que garanta a integridade (hash, software certificado; só prints de tela): a quebra da cadeia de custódia torna a prova digital inadmissível, e o ônus é do Estado. Ordem concedida de ofício.
@@ -71,7 +96,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
   > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
 
-## 67. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
+## 70. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
 - Decisão colegiada. Relator: Des. Leme Garcia. 16ª Câmara de Direito Criminal. Publicado em 16/04/2024.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Nenhuma droga foi encontrada com o réu nem houve venda presenciada; as drogas foram apreendidas em via pública e uma testemunha presencial confirmou a versão dele. Na dúvida sobre a autoria, mantida a absolvição (in dubio pro reo).
@@ -79,37 +104,3 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 - Ementa oficial:
   > APELAÇÃO. Tráfico de drogas. Recurso ministerial. Apelado que foi absolvido pelo d. juízo a quo. Pleito de condenação do acusado nos termos exatos propostos na inicial acusatória. Inviabilidade. Nenhuma droga foi encontrada diretamente em poder do acusado, bem como nenhum ato de comercialização foi presenciado pelos policiais militares, de tal modo que não há elementos seguros que indiquem o seu envolvimento na prática da traficância. Substâncias ilícitas apreendidas em via pública. Testemunha presencial que confirmou a versão apresentada pelo acusado. Existência de dúvidas sobre a autoria do delito. Aplicação do princípio do in dubio pro reo. Sentença de primeiro grau mantida. Negado provimento ao recurso.
   > (TJSP, Apelação Criminal n. 1500766-76.2020.8.26.0228, relator Desembargador Leme Garcia, 16ª Câmara de Direito Criminal, julgado em 9/4/2024, publicado em 16/4/2024.)
-
-## 68. RvCr nº 0063421-56.2023.8.19.0000 (TJRJ)
-- Decisão colegiada. Relator: Des. Alcides da Fonseca Neto. 3º Grupo de Câmaras Criminais. Publicado em 08/03/2024.
-- Crime / Tema: Roubo · Reconhecimento de pessoa · Revisão criminal
-- Resumo: Revisão deferida porque a condenação por roubo se apoiou só em reconhecimento fotográfico que não atendeu a nenhuma formalidade do art. 226 do CPP (prova isolada, nula). Rescindido o acórdão e réu absolvido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rvcr-0063421-56-2023.pdf
-- Ementa oficial:
-  > REVISÃO CRIMINAL. ROUBO. CONCURSO FORMAL DE DELITOS. CONDENÇÃO. PRONUNCIAMENTO MANTIDO POR UNANIMIDADE, PELA COLENDA 2ª CÂMARA CRIMINAL. INSURGÊNCIA DEFENSIVA BUSCA A DESCONSTITUIÇÃO DA CONDENAÇÃO, COM FULCRO NO ARTIGO 621, I, DO CÓDIGO DE PROCESSO PENAL, PARA ABSOLVER O REQUERENTE DO CRIME DE ROUBO, AO ARGUMENTO DE QUE HOUVE RECONHECIMENTO EXCLUSIVAMENTE FOTOGRÁFICO E EM DESCOMPASSO COM O DETERMINADO NO ARTIGO 226, DO CÓDIGO DE PROCESSO PENAL. PROCEDÊNCIA DO PEDIDO. PROVA SOLTEIRA NOS AUTOS. AUTORIA DELITIVA ANCORADA, EXCLUSIVAMENTE, EM RECONHECIMENTO DO ACUSADO QUE EM NADA ATENDEU ÀS FORMALIDADES LEGAIS, DE MODO QUE DEVE SER CONSIDERADO NULO. HIPÓTESE DOS AUTOS QUE AUTORIZA A EXCEPCIONAL DESCONSTITUIÇÃO DO ACÓRDÃO RESCINDENDO. PRECEDENTES DO STJ. CONHECIMENTO E PROVIMENTO DO PEDIDO REVISIONAL.
-  > (TJRJ, Revisão Criminal n. 0063421-56.2023.8.19.0000, relator Desembargador Alcides da Fonseca Neto, 3º Grupo de Câmaras Criminais, julgado em 8/3/2024, publicado em 8/3/2024.)
-
-## 69. RMS nº 38.983 / DF (STF)
-- Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Gilmar Mendes. Segunda Turma. Publicado em 28/02/2024.
-- Crime / Tema: PAD (administrativo)
-- Resumo: PAD: é ilegal a demissão por abandono de cargo sem prova da intenção de abandonar (art. 138 da Lei 8.112/90). Os motivos e pressupostos de fato da penalidade podem ser controlados pelo Judiciário, pois não são juízo de conveniência da Administração. Segurança concedida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rms-38983.pdf
-- Ementa oficial:
-  > RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO-DISCIPLINAR (PAD). SERVIDOR PUNIDO COM PENA DE DEMISSÃO. RECURSO PROVIDO PARA CONCEDER A SEGURANÇA.
-  > 1. A aplicação das penalidades previstas no art. 127 da Lei 8.112/1990 vincula-se ao cumprimento de prerrequisitos estritos previstos na legislação de regência, apurados mediante a apreciação das características particulares de cada caso concreto em sede de processo administrativo disciplinar. A caracterização de tais requisitos não se sujeita a juízos de conveniência ou oportunidade da Administração e, portanto, é sindicável pela via judicial.
-  > 2. No controle judicial dos atos administrativos de demissão de servidor público estável, “a legalidade do ato administrativo compreende, não só a competência para a prática do ato e as suas formalidades extrínsecas, como também os seus requisitos substanciais, os seus motivos, os seus pressupostos de direito e de fato”, sendo certo que “a inconformidade do ato com os fatos que a lei declara pressupostos dêle constitui ilegalidade, do mesmo modo que o constitui a forma inadequada que o ato porventura apresente” (LEAL, Victor Nunes. Atos administrativos - Exame da sua validade pelo poder judiciário. Revista de Direito Administrativo, v. 3, p. 69–98, 1946).
-  > 3. Caso em que a penalidade de demissão aplicada pela Administração se deu sem devida caracterização do elemento subjetivo referente ao intuito de abandonar o cargo ocupado (Lei 8.112/1990, art. 138). Na espécie, a aplicação da penalidade de demissão violou direito líquido e certo do impetrante, uma vez que, valendo-se de fundamentação inconsistente e contraditória, calcada em presunções não corroboradas pelo acervo fático-probatório dos autos do PAD, a União aplicou-lhe a penalidade de demissão deixando de considerar a data em que efetivamente se deu o término de sua cessão informal ao Senado.
-  > 4. Recurso ordinário provido para reformar o acórdão recorrido e conceder a segurança.
-  > (STF, RMS n. 38.983/DF, relator Ministro André Mendonça, redator do acórdão Ministro Gilmar Mendes, Segunda Turma, julgado em 13/11/2023, DJe de 28/2/2024.)
-
-## 70. ApCrim nº 5001797-60.2023.8.24.0135 (TJSC)
-- Decisão colegiada. Relator: Des. Leopoldo Augusto Brüggemann. 3ª Câmara Criminal. Publicado em 06/02/2024.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Os policiais foram à casa apurar denúncia anônima de violência doméstica, não a confirmaram e, sem autorização, arrombaram a porta. A droga encontrada depois não legitima o ingresso, porque a flagrância foi constatada só a posteriori. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A entrada na casa do corréu, derivada da primeira, também é ilícita, e a absolvição dele foi mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-5001797-60-2023.pdf
-- Ementa oficial:
-  > APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). SENTENÇA DE PARCIAL PROCEDÊNCIA, COM A CONDENAÇÃO DE UM ACUSADO E ABSOLVIÇÃO DE OUTRO. RECURSOS DA DEFESA E DO MINISTÉRIO PÚBLICO.
-  > RECURSO DEFENSIVO. PRETENSO RECONHECIMENTO DA NULIDADE DA PROVA FACE À VIOLAÇÃO DE DOMICÍLIO. SUBSISTÊNCIA. NÃO OBSERVÂNCIA DO DISPOSTO NO ART. 240 E SEGUINTES DO CÓDIGO DE PROCESSO PENAL E EM AFRONTA AO DISPOSTO NO ART. 5º, XI, DA CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL. INGRESSO REALIZADO COM BASE EM DENÚNCIA ANÔNIMA ACERCA DE HIPOTÉTICO COMETIMENTO DE CRIME RELACIONADO À VIOLÊNCIA DOMÉSTICA. AGENTES PÚBLICOS QUE, AO CHEGAREM AO LOCAL, NÃO CONFIRMARAM O RELATADO. AUSÊNCIA DE AUTORIZAÇÃO PARA O INGRESSO NO LOCAL. LEGITIMAÇÃO POSTERIOR DA CONDUTA QUE NÃO TORNA LEGAL O FLAGRANTE. INOCORRÊNCIA DO ESTADO DE FLAGRÂNCIA PREVISTO NOS ARTS. 302 E 303 DO CPP. VERIFICAÇÃO DO CRIME PERMANENTE A POSTERIORI. INGRESSO ILEGAL, MEDIANTE ARROMBAMENTO DA PORTA DE ENTRADA DA CASA. AUSÊNCIA DE FUNDADAS RAZÕES (JUSTA CAUSA) A ENSEJAR A PRISÃO. PROVA VICIADA. ILEGALIDADE MANIFESTA. ENTENDIMENTO PACIFICADO PELO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. PRECEDENTES DESTA E DA COLENDA CORTE. ILEGALIDADE MANIFESTA. PROVA ILÍCITA. AUSÊNCIA DE MATERIALIDADE DELITIVA. PARECER DA PGJ EM IGUAL SENTIDO. ABSOLVIÇÃO DECRETADA.
-  > APELO ACUSATÓRIO. PRETENSA CONDENAÇÃO DO ACUSADO REMANESCENTE. INVIABILIDADE. NULIDADE DA PROVA OBTIDA. INGRESSO FORÇADO NA RESIDÊNCIA DO APELADO QUE DEU-SE POR DERIVAÇÃO DE PROVA ILÍCITA (VIOLAÇÃO DO DOMICÍLIO DO CODENUNCIADO). VERSÕES DOS POLICIAIS, ADEMAIS, QUE NÃO ENCONTRAM AMPARO NOS AUTOS. ACUSADOS QUE, A TODO MOMENTO, NEGARAM A TRAFICÂNCIA DO APELADO. AUSÊNCIA DE QUALQUER OUTRO ELEMENTO DE PROVA, ALÉM DA DROGA ENCONTRADA NA RESIDÊNCIA, APTA A CORROBORAR A VERSÃO ACUSATÓRIA. PARECER DA PGJ EM IGUAL SENTIDO. ABSOLVIÇÃO MANTIDA.
-  > RECURSO DEFENSIVO CONHECIDO E PROVIDO. RECLAMO ACUSATÓRIO CONHECIDO E DESPROVIDO.
-  > (TJSC, Apelação Criminal n. 5001797-60.2023.8.24.0135, relator Desembargador Leopoldo Augusto Brüggemann, 3ª Câmara Criminal, julgado em 6/2/2024, publicado em 6/2/2024.)

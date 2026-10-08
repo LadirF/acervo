@@ -1,20 +1,67 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 6 de 11 (decisões 51 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 105 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261008-0952/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261008-1104/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. AREsp nº 3045207 / MT (STJ)
+## 51. RHC nº 223931 / PE (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
+- Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-223931.pdf
+- Ementa oficial:
+  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. OCORRÊNCIA. RECURSO PROVIDO.
+  > 1. O trancamento da ação penal, somente é possível, na via estreita do habeas corpus ou do seu respectivo recurso ordinário em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de materialidade ou de autoria delitiva.
+  > 2. Limitando-se a peça acusatória a genericamente imputar as condutas de tráfico e associação para o tráfico, sem qualquer descrição concreta da suposta coordenação, da divisão específica de tarefas ou do vínculo estável entre os réus, verifica-se a inobservância dos requisitos previstos no art. 41 do CPP.
+  > 3. A mera referência a registros policiais pretéritos e a apreensões desacompanhadas de indicação precisa de datas, locais e circunstâncias dos fatos não supre a exigência legal de descrição mínima apta a demonstrar a justa causa.
+  > 4. A generalidade da imputação compromete o exercício da ampla defesa e do contraditório, impondo o reconhecimento da inépcia da denúncia, com extensão aos demais denunciados, nos termos do art. 580 do CPP.
+  > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
+  > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
+
+## 52. AgRg no AREsp nº 2583516 / TO (STJ)
+- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
+- Crime / Tema: Lavagem de dinheiro
+- Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2583516.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO REGIMENTAL. LAVAGEM DE DINHEIRO. AUSÊNCIA DE DOLO ESPECÍFICO. SÚMULAS 7 E 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que, conhecendo do agravo, não conheceu do recurso especial, com fundamento nas Súmulas 7 e 83 do Superior Tribunal de Justiça, mantendo o acórdão do Tribunal Regional Federal da 1ª Região que absolveu os acusados quanto ao crime de lavagem de dinheiro (art. 1º da Lei nº 9.613/1998).
+  > 2. O agravante sustenta que os depósitos fracionados realizados em curto espaço de tempo, inclusive em contas de terceiros, logo após os crimes patrimoniais praticados contra agências dos Correios, seriam suficientes para caracterizar a conduta típica de ocultação ou dissimulação, configurando o delito de lavagem de capitais. Argumenta que a controvérsia envolveria mera revaloração jurídica das premissas fáticas, não incidindo o óbice da Súmula 7 do STJ, e que o acórdão recorrido não estaria em consonância com a jurisprudência desta Corte, afastando a aplicação da Súmula 83.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 3. A questão em discussão consiste em saber se os depósitos fracionados realizados em curto espaço de tempo, inclusive em contas de terceiros, logo após os crimes patrimoniais praticados contra agências dos Correios, configuram o delito de lavagem de capitais, considerando a necessidade de demonstração do dolo específico e do nexo causal entre o delito antecedente e os valores depositados.
+  > III. RAZÕES DE DECIDIR
+  > 4. O acórdão do Tribunal Regional Federal da 1ª Região concluiu pela ausência de demonstração do elemento subjetivo específico do tipo penal, consistente na finalidade de ocultar ou dissimular a origem ilícita dos valores, e pela inexistência de sofisticação, dissimulação ou desvinculação apta a emprestar aparência de licitude ao produto do crime.
+  > 5. O entendimento do Tribunal de origem está alinhado à jurisprudência consolidada do Superior Tribunal de Justiça, que estabelece que o simples depósito de valores ilícitos em conta própria não configura, por si só, o crime de lavagem de dinheiro.
+  > 6. Quanto aos depósitos realizados em contas de terceiros, o Tribunal de origem concluiu que não ficou suficientemente demonstrado o nexo entre o delito antecedente e os valores depositados, sendo inviável o revolvimento do conjunto fático-probatório na via do recurso especial, conforme Súmula 7 do STJ.
+  > 7. A pretensão ministerial de revaloração jurídica das circunstâncias concretas do caso exige nova apreciação de elementos já valorados pelas instâncias ordinárias, o que extrapola os limites da cognição excepcional.
+  > 8. O acórdão recorrido está em consonância com a orientação jurisprudencial do Superior Tribunal de Justiça, que distingue o mero depósito de valores ou sua utilização da efetiva estruturação voltada à ocultação ou dissimulação, atraindo corretamente a incidência da Súmula 83 do STJ.
+  > IV. DISPOSITIVO E TESE
+  > 9. Resultado do Julgamento: Agravo regimental não provido.
+  > Tese de julgamento:
+  > 1. O simples depósito de valores ilícitos em conta própria não configura, por si só, o crime de lavagem de dinheiro.
+  > 2. A pretensão de revaloração jurídica que exige nova apreciação de elementos já valorados pelas instâncias ordinárias extrapola os limites da cognição excepcional do recurso especial.
+  > 3. A Súmula 7 do STJ impede o revolvimento do conjunto fático-probatório na via do recurso especial.
+  > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
+  > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
+
+## 53. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
+- Decisão monocrática. Relator: Min. Edson Fachin (Presidente). Publicado em 02/02/2026.
+- Crime / Tema: Dosimetria
+- Resumo: Devolução do processo ao fluxo regular após pacificação do Tema 150/STF (RE 593818): maus antecedentes não prescrevem em 5 anos como a reincidência, mas o julgador pode deixar de valorá-los se irrelevantes ou muito distantes no tempo.
+- Ver andamento no STF: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7467927
+
+## 54. AREsp nº 3045207 / MT (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
 - Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
 - Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
 
-## 52. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+## 55. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
 - Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
@@ -37,7 +84,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
   > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 53. REsp nº 1953602 / SP (STJ)
+## 56. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -57,13 +104,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 54. RHC nº 213637 / BA (STJ)
+## 57. RHC nº 213637 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
 
-## 55. AgRg no REsp nº 2173273 / MG (STJ)
+## 58. AgRg no REsp nº 2173273 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
@@ -77,13 +124,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
 
-## 56. Rcl nº 80.133 / PR (STF)
+## 59. Rcl nº 80.133 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
 - Crime / Tema: Prova digital · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf
 
-## 57. AgRg no AREsp nº 2243364 / MG (STJ)
+## 60. AgRg no AREsp nº 2243364 / MG (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
@@ -106,28 +153,3 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 2. A aplicação da minorante do tráfico privilegiado é excepcionalmente justificada pela ínfima quantidade de droga e ausência de intuito lucrativo, mesmo diante dos maus antecedentes não específicos.
   > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
   > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
-
-## 58. AgRg no RHC nº 189376 / MT (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
-- Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-189376.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. FALSIFICAÇÃO DO SINAL EMPREGADO NO CONTRASTE DE METAL PRECIOSO OU NA FISCALIZAÇÃO ALFANDEGÁRIA, OU PARA OUTROS FINS. LAVAGEM DE DINHEIRO. COMPETÊNCIA PARA AUTORIZAÇÃO DE QUEBRA DE SIGILO DE DADOS DE CELULAR. NÃO APLICAÇÃO DA TEORIA DO JUÍZO APARENTE. FATOS CONEXOS À OPERAÇAO QUE TRAMITA NA JUSTIÇA FEDERAL. NÃO DEMONSTRÇÃO DE URGÊNCIA QUE AUTORIZARIA A ATUAÇÃO DA JUSTIÇA ESTADUAL. AGRAVO DO MINISTÉRIO PÚBLICO FEDERAL – MPF DESPROVIDO.
-  > 1. De rigor o afastamento da aparente competência da Justiça Estadual para autorização da quebra de sigilo de dados, uma vez que a ação policial que culminou na apreensão do celular teve origem em pedido formulado pela Polícia Federal, que, em razão de decisões proferidas pela Justiça Federal de Cuiabá, no âmbito da operação Catrapo, vinha monitorando o corréu, o que denota ser crível, desde o início, que os fatos investigados eram conexos e estavam compreendidos na competência da Justiça Federal.
-  > 2. Não restando minimamente esclarecido como a competência poderia recair sobre a Justiça Estadual, deve ser afastada a possibilidade de aplicação da teoria do Juízo aparente.
-  > 3. Não demonstrada urgência que validaria a atuação imediata do Juízo Estadual, mormente em se considerando não haver risco efetivo e iminente de perecimento das provas, uma vez que o celular apreendido se encontrava sob custódia da Justiça, a extração de dados do celular apreendido por ele determinada deve ser declarada nula.
-  > 4. Agravo regimental desprovido.
-  > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
-
-## 59. HC nº 978977 / PE (STJ)
-- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
-
-## 60. AgRg no AREsp nº 2697575 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
-- Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf

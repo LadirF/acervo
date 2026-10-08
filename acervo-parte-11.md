@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 11 de 11 (decisões 101 a 105)
+# Acervo de Jurisprudência — Cury Advogados — parte 11 de 11 (decisões 101 a 109)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 105 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,86 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Índice de todas as decisões: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 101. RE nº 603.616 / RO (STF)
+## 101. Inq nº 3.994 / DF (STF)
+- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
+- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
+- Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-3994.pdf
+- Ementa oficial:
+  > Inquérito. Corrupção passiva e lavagem de dinheiro (art. 317, § 1º, e art. 1º, § 4º, da Lei nº 9.613/98, c/c os arts. 29 e 69 do CP). Denúncia. Parlamentares federais. Suposto envolvimento em esquema de corrupção de agentes públicos relacionado à Diretoria de Abastecimento da Petrobras. Vantagens indevidas. Supostos recebimentos na forma de doações eleitorais oficiais, por intermédio de empresas de fachada e também em espécie. Imputações calcadas em depoimentos de réus colaboradores. Ausência de provas minimamente consistentes de corroboração. Fumus commissi delicti não demonstrado. Inexistência de justa causa para a ação penal. Denúncia rejeitada (art. 395, III, CPP) com relação aos parlamentares federais, com determinação de baixa dos autos ao primeiro grau quanto ao não detentor de prerrogativa de foro.
+  > 1. A justa causa para a ação penal consiste na exigência de suporte probatório mínimo a indicar a legitimidade da imputação e se traduz na existência, no inquérito policial ou nas peças de informação que instruem a denúncia, de elementos sérios e idôneos que demonstrem a materialidade do crime e de indícios razoáveis de autoria (Inq nº 3.719/DF, Segunda Turma, de minha relatoria, DJe de 29/10/14).
+  > 2. Na espécie, encontra-se ausente esse substrato probatório mínimo que autoriza a deflagração da ação penal.
+  > 3. Se os depoimentos do réu colaborador, sem outras provas minimamente consistentes de corroboração, não podem conduzir à condenação, também não podem autorizar a instauração da ação penal, por padecerem da presunção relativa de falta de fidedignidade.
+  > 4. A colaboração premiada, como meio de obtenção de prova, tem aptidão para autorizar a deflagração da investigação preliminar, visando adquirir coisas materiais, traços ou declarações dotadas de força probatória. Essa, em verdade, constitui sua verdadeira vocação probatória.
+  > 5. Todavia, os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear um juízo positivo de admissibilidade da acusação, o qual exige a presença do fumus commissi delicti.
+  > 6. O fumus commissi delicti, que se funda em um juízo de probabilidade de condenação, traduz-se, em nosso ordenamento, na prova da existência do crime e na presença de indícios suficientes de autoria.
+  > 7. Se “nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador” (art. 4º, § 16, da Lei nº 12.850/13), é lícito concluir que essas declarações, por si sós, não autorizam a formulação de um juízo de probabilidade de condenação e, por via de consequência, não permitem um juízo positivo de admissibilidade da acusação.
+  > 8. Como não há prova do conhecimento da suposta origem ilícita dos valores, não subsiste a imputação de corrupção passiva e fenece, por arrastamento, a de lavagem de capitais.
+  > 9. Não obstante, em sua contabilidade paralela, os colaboradores premiados tenham feito anotações pessoais que supostamente traduziriam pagamentos indevidos aos parlamentares federais, uma anotação unilateralmente feita em manuscrito particular não tem o condão de corroborar, por si só, o depoimento do colaborador, ainda que para fins de recebimento da denúncia.
+  > 10. Se o depoimento do colaborador necessita ser corroborado por fontes diversas de prova, evidente que uma anotação particular dele próprio emanada não pode servir, por si só, de instrumento de validação.
+  > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
+  > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
+
+## 102. AgRg no Inq nº 1093 / DF (STJ)
+- Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
+- **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
+- Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
+- Resumo: O delatado não tem legitimidade nem interesse para impugnar o acordo de colaboração, que não atinge terceiros; a colaboração é delatio criminis, não prova. Agravo desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-1093.pdf
+- Ementa oficial:
+  > PROCESSUAL PENAL. INQUÉRITO. COLABORAÇÃO PREMIADA. ART. 4º DA LEI 12.850/13. EXISTÊNCIA, VALIDADE E EFICÁCIA. QUESTIONAMENTO. DELATADO. LEGITIMIDADE E INTERESSE. AUSÊNCIA. NEGÓCIO JURÍDICO PROCESSUAL. EFEITOS. RESTRIÇÃO. NATUREZA JURÍDICA PROCESSUAL. DELATIO CRIMINIS. CONTEÚDO. ELEMENTOS DE CONVICÇÃO. DESTINATÁRIO. ÓRGÃO DA ACUSAÇÃO.
+  > 1. O propósito recursal é determinar se o agravante, citado nas informações prestadas por colaborador, tem interesse e legitimidade para impugnar a existência, validade e eficácia de acordo de colaboração premiada ou se existem razões para o imediato trancamento do presente inquérito por meio da concessão de habeas corpus de ofício.
+  > 2. Como reflexo dos princípios do devido processo legal, da presunção de inocência e da ampla defesa, impõe-se à acusação o ônus de colher, preambularmente, um lastro indiciário mínimo para o exercício da pretensão penal punitiva, o que corresponde ao dever de demonstrar a justa causa, conforme previsto no art. 395, III, do CPP.
+  > 3. A colaboração premiada somou à já existente previsão de qualquer pessoa do povo contribuir com a investigação criminal de crime de ação penal pública incondicionada (arts. 5º, § 3º, e 27 do CPP) a possibilidade de, quando se tratar de coautor ou partícipe, obter benefícios processuais e materiais penais.
+  > 4. Quanto ao aspecto processual, a natureza jurídica da colaboração premiada é de delatio criminis, porquanto é mero recurso à formação da convicção da acusação e não elemento de prova, sendo insuficiente para subsidiar, por si só, a condenação de alguém.
+  > 5. O acordo de colaboração não se confunde com seu conteúdo e as cláusulas de referido acordo não repercutem, nem sequer remotamente, na esfera jurídica de terceiros, razão pela qual não têm esses terceiros interesse jurídico nem legitimidade para sua impugnação.
+  > 6. Na presente hipótese, o agravante questiona a validade de acordo de colaboração, por ter sido firmado por órgão do Ministério Público que não possuiria atribuições e homologado por juiz que não possuiria competência para tratar de fatos que envolvessem autoridade com prerrogativa de foro no STJ. Argumenta, ademais, que a colaboração se referiria a crime diverso daquele envolvido do acordo, o que evidenciaria a ilicitude de seu objeto.
+  > 7. As indagações referentes à atribuição do membro do Parquet ou do juiz que o homologa o acordo não afetam a existência, validade ou veracidade dos elementos de convicção fornecidos ao órgão de acusação, os quais podem ser contraditados no momento processual adequado. Ademais, os crimes objeto do acordo têm íntima relação com aquele supostamente praticado pelo agravante.
+  > 8. Agravo regimental improvido.
+  > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
+
+## 103. REsp nº 1574681 / RS (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1574681.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. TRÁFICO DE DROGAS. FLAGRANTE. DOMICÍLIO COMO EXPRESSÃO DO DIREITO À INTIMIDADE. ASILO INVIOLÁVEL. EXCEÇÕES CONSTITUCIONAIS. INTERPRETAÇÃO RESTRITIVA. INVASÃO DE DOMICÍLIO PELA POLÍCIA. NECESSIDADE DE JUSTA CAUSA. NULIDADE DAS PROVAS OBTIDAS. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. ABSOLVIÇÃO DO AGENTE. RECURSO NÃO PROVIDO.
+  > 1. O art. 5º, XI, da Constituição Federal consagrou o direito fundamental relativo à inviolabilidade domiciliar, ao dispor que "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial".
+  > 2. A inviolabilidade de sua morada é uma das expressões do direito à intimidade do indivíduo, o qual, na companhia de seu grupo familiar espera ter o seu espaço de intimidade preservado contra devassas indiscriminadas e arbitrárias, perpetradas sem os cuidados e os limites que a excepcionalidade da ressalva a tal franquia constitucional exigem.
+  > 3. O ingresso regular de domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio.
+  > 4. O Supremo Tribunal Federal definiu, em repercussão geral, que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo – a qualquer hora do dia, inclusive durante o período noturno – quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes) DJe 8/10/2010).
+  > 5. O direito à inviolabilidade de domicílio, dada a sua magnitude e seu relevo, é salvaguardado em diversos catálogos constitucionais de direitos e garantias fundamentais, a exemplo da Convenção Americana de Direitos Humanos, cujo art. 11.2, destinado, explicitamente, à proteção da honra e da dignidade, assim dispõe: “Ninguém pode ser objeto de ingerências arbitrárias ou abusivas em sua vida privada, em sua família, em seu domicílio ou em sua correspondência, nem de ofensas ilegais à sua honra ou reputação.”
+  > 6. A complexa e sofrida realidade social brasileira sujeita as forças policiais a situações de risco e à necessidade de tomada urgente de decisões no desempenho de suas relevantes funções, o que há de ser considerado quando, no conforto de seus gabinetes, realizamos os juízes o controle posterior das ações policiais. Mas, não se há de desconsiderar, por outra ótica, que ocasionalmente a ação policial submete pessoas a situações abusivas e arbitrárias, especialmente as que habitam comunidades socialmente vulneráveis e de baixa renda.
+  > 7. Se, por um lado, a dinâmica e a sofisticação do crime organizado exigem uma postura mais enérgica por parte do Estado, por outro, a coletividade, sobretudo a integrada por segmentos das camadas sociais mais precárias economicamente, também precisa sentir-se segura e ver preservados seus mínimos direitos e garantias constitucionais, em especial o de não ter a residência invadida, a qualquer hora do dia, por policiais, sem as cautelas devidas e sob a única justificativa, não amparada em elementos concretos de convicção, de que o local supostamente seria um ponto de tráfico de drogas, ou que o suspeito do tráfico ali se homiziou.
+  > 8. A ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar írrito o direito à intimidade e à inviolabilidade domiciliar.
+  > 9. Tal compreensão não se traduz, obviamente, em transformar o domicílio em salvaguarda de criminosos, tampouco um espaço de criminalidade. Há de se convir, no entanto, que só justifica o ingresso no domicílio alheio a situação fática emergencial consubstanciadora de flagrante delito, incompatível com o aguardo do momento adequado para, mediante mandado judicial, legitimar a entrada na residência ou local de abrigo.
+  > 10. Se é verdade que o art. 5º, XI, da Constituição Federal, num primeiro momento, parece exigir a emergência da situação para autorizar o ingresso em domicílio alheio sem prévia autorização judicial – ao elencar hipóteses excepcionais como o flagrante delito, casos de desastre ou prestação de socorro –, também é certo que nem todo crime permanente denota essa emergência.
+  > 11. Na hipótese sob exame, o acusado estava em local supostamente conhecido como ponto de venda de drogas, quando, ao avistar a guarnição de policiais, refugiou-se dentro de sua casa, sendo certo que, após revista em seu domicílio, foram encontradas substâncias entorpecentes (18 pedras de crack). Havia, consoante se demonstrou, suspeitas vagas sobre eventual tráfico de drogas perpetrado pelo réu, em razão, única e exclusivamente, do local em que ele estava no momento em que policiais militares realizavam patrulhamento de rotina e em virtude de seu comportamento de correr para sua residência, conduta que pode explicar-se por diversos motivos, não necessariamente o de que o suspeito cometia, no momento, ação caracterizadora de mercancia ilícita de drogas.
+  > 12. A mera intuição acerca de eventual traficância praticada pelo recorrido, embora pudesse autorizar abordagem policial, em via pública, para averiguação, não configura, por si só, justa causa a autorizar o ingresso em seu domicílio, sem o consentimento do morador – que deve ser mínima e seguramente comprovado – e sem determinação judicial.
+  > 13. Ante a ausência de normatização que oriente e regule o ingresso em domicílio alheio, nas hipóteses excepcionais previstas no Texto Maior, há de se aceitar com muita reserva a usual afirmação – como ocorreu na espécie – de que o morador anuiu livremente ao ingresso dos policiais para a busca domiciliar, máxime quando a diligência não é acompanhada de qualquer preocupação em documentar e tornar imune a dúvidas a voluntariedade do consentimento.
+  > 14. Em que pese eventual boa-fé dos policiais militares, não havia elementos objetivos, seguros e racionais, que justificassem a invasão de domicílio. Assim, como decorrência da Doutrina dos Frutos da Árvore Envenenada (ou venenosa, visto que decorre da fruits of the poisonous tree doctrine, de origem norte-americana), consagrada no art. 5º, LVI, da nossa Constituição da República, é nula a prova derivada de conduta ilícita – no caso, a apreensão, após invasão desautorizada do domicílio do recorrido, de 18 pedras de crack –, pois evidente o nexo causal entre uma e outra conduta, ou seja, entre a invasão de domicílio (permeada de ilicitude) e a apreensão de drogas.
+  > 15. Recurso especial não provido, para manter a absolvição do recorrido.
+  > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
+
+## 104. APn nº 746 / MT (STJ)
+- Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
+- Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
+- Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apn-746.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. RECEBIMENTO DE DENÚNCIA. CONSELHEIRO DE TRIBUNAL DE CONTAS. PECULATO. PRESCRIÇÃO. JUSTA CAUSA. INDÍCIOS DE AUTORIA E PROVA DE MATERIALIDADE. DENÚNCIA. EXIGÊNCIAS DO ART. 41 DO CPP. PEÇA REJEITADA.
+  > 1. A pretensão punitiva para o crime de peculato prescreve em 16 anos, razão pela qual, inexistindo causas interruptivas da prescrição, está extinta a punibilidade das condutas eventualmente praticadas em 1999.
+  > 2. A legalidade estrita é regra fundante do estado de direito e constitui o mais importante freio à atuação do poder público em matéria penal, motivo pelo qual, não havendo previsão legal com relação aos dirigentes de autarquias, é inaplicável ao caso a majorante do § 2º do art. 327.
+  > 3. O crime de peculato, na modalidade desvio, consuma-se quando à coisa é dada destinação ou emprego diverso daquele para o qual ela foi entregue ao agente, independentemente da concreta obtenção do proveito. Afirmando a denúncia que os valores foram desviados para pagar dívidas da campanha com empresa de fomento mercantil, o momento consumativo do crime teria ocorrido quando os valores que deveriam ter sido pagos às empresas supostamente prestadoras de serviço foram depositados nas contas da factoring.
+  > 4. Na hipótese dos autos, os indícios de materialidade estão consubstanciados pelo Laudo de Exame Contábil, indicando a existência de indícios de desvio de verbas, consubstanciada na "triangulação entre as empresas vencedoras das licitações, a CONFIANÇA FACTORING e os órgãos públicos para desvio das verbas"; pelos documentos fornecidos pelo Banco Central em cumprimento a decisão judicial, que demonstram o depósito de valores do órgão público nas contas da Confiança Factoring num montante que atinge a quantia de R$ 1.723.600,00, e pela análise da atuação das empresas vencedoras das licitações analisadas, que em sua maioria (correspondendo a 16 do total das 25 licitações) haviam sido constituídas poucos meses antes do certame e, após o recebimento dos valores, permaneceram em inatividade até o cancelamento de seu registro na Junta Comercial.
+  > 5. No entanto, os indícios de autoria em relação ao acusado são frágeis porque não há prova evidente de que tenha ele se beneficiado do desvio, existindo apenas uma testemunha que afirmou tê-lo visto conversando com a pessoa que veio prestar delação, o que, por si só, não pode alicerçar o recebimento da denúncia.
+  > 6. Por sinal, as informações prestadas pelo réu colaborador não constituem prova no sentido pleno, mas instrumento de obtenção de prova, podendo ser valoradas como indícios para o recebimento da denúncia quando sua narrativa for corroborada por outros elementos, o que não ocorre na hipótese dos autos.
+  > 7. De mais a mais, o recebimento da denúncia pressupõe que a ação penal tenha alguma viabilidade condenatória, a qual, à luz dos elementos frágeis da prova examinada, não parece existir no caso.
+  > 8. Denúncia rejeitada por ausência de justa causa.
+  > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
+
+## 105. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -24,7 +103,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 102. HC nº 341790 / PR (STJ)
+## 106. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -40,7 +119,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 103. HC nº 127.483 / PR (STF)
+## 107. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -62,7 +141,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 104. Inq nº 4.130 QO / PR (STF)
+## 108. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
@@ -91,7 +170,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
 
-## 105. REsp nº 1388440 / ES (STJ)
+## 109. REsp nº 1388440 / ES (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
 - Crime / Tema: Crimes contra as relações de consumo · Prescrição
 - Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.
