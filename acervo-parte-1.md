@@ -29,7 +29,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 ## 4. HC nº 1.0000.26.509274-2/000 (TJMG)
 - Decisão colegiada. Relator: Des. Alberto Deodato Neto. 1ª Câmara Criminal. Publicado em 30/09/2026.
 - Crime / Tema: Homicídio qualificado · Inépcia da denúncia
-- Resumo: Denúncia inepta: no concurso de agentes, a acusação precisa indicar ao menos uma conduta de cada denunciado e o vínculo dele com o crime (art. 41 do CPP). Ter estado reunido com o atirador e ter o celular encontrado no local não basta. Ação penal trancada quanto ao paciente e mandado de prisão recolhido.
+- Resumo: Denúncia inepta: no concurso de agentes, a acusação precisa indicar ao menos uma conduta de cada denunciado e o vínculo dele com o crime (art. 41 do CPP). Ter estado reunido com o atirador e ter o celular encontrado no local não basta. Ação penal trancada quanto ao paciente e mandado de prisão recolhido. Voto vencido (V.V.): o trancamento exige ausência manifesta de justa causa; as alegações dependeriam de dilação probatória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1-0000-26-509274.pdf
 - Ementa oficial:
   > HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - TRANCAMENTO DA AÇÃO PENAL - INÉPCIA DA DENÚNCIA - CONSTRANGIMENTO ILEGAL CONFIGURADO - ORDEM CONCEDIDA. O art. 41 do Código de Processo Penal, prevê que a denúncia deve expor o fato criminoso com todas as suas circunstâncias, qualificar o acusado ou fornecer elementos que permitam identificá-lo, classificar juridicamente a conduta e, quando necessário, apresentar o rol de testemunhas.

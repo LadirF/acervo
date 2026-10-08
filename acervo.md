@@ -21,7 +21,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## Onde estão o índice e as ementas
 
-**Índice** (todas as decisões com relator, crime / tema e resumo, divididas por tribunal; numeração única). Leia **todos** os arquivos abaixo para a triagem:
+**Índice** (todas as decisões com tipo de decisão, data, relator, crime / tema e resumo, divididas por tribunal; numeração única). Leia **todos** os arquivos abaixo para a triagem:
 - Índice STJ e STF (97 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf.md
 - Índice TRFs e tribunais estaduais (12 decisões): https://ladirf.github.io/acervo/acervo-indice-tribunais.md
 

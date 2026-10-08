@@ -46,7 +46,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 84. AgRg no AREsp nº 2249976 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
-- Crime / Tema: Receptação
+- Crime / Tema: Receptação · Ato infracional (ECA)
 - Resumo: Adolescente que era só carona da moto receptada, sem estar na posse do bem nem haver prova de que a recebeu ou de que agiu em concurso: a conduta é atípica. Mantida a improcedência da representação (ato infracional análogo à receptação).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2249976.pdf
 - Ementa oficial:
@@ -54,7 +54,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 1. No caso, além de não ter sido localizado na posse do bem, uma vez que não era o responsável pela condução do veículo, não existem outros elementos probatórios a indicar que o adolescente tenha recebido, em proveito próprio, a motocicleta apreendida pelos policiais.
   > 2. Nesse contexto, de rigor o reconhecimento da atipicidade da conduta, pois ausentes quaisquer elementos de prova de que o recorrente tenha praticado um dos verbos nucleares do tipo narrado na peça de representação (e-STJ, fls. 1-6), ou integrado concurso de pessoas em sua prática.
   > 3. Agravo regimental não provido.
-  > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJEN de 13/3/2023.)
+  > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
 
 ## 85. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.

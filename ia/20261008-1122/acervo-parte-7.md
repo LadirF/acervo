@@ -6,7 +6,7 @@ Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o 
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1109/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1122/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
 ## 61. AgRg no RHC nº 189376 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
@@ -63,7 +63,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
 
 ## 67. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
-- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal · Repercussão geral
+- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
 - Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0000-24-303113.pdf
 - Ementa oficial:

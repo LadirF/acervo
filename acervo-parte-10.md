@@ -74,7 +74,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 ## 95. RE nº 1.301.250 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
 - Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
-- Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos.
+- Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1301250.pdf
 - Voto da relatora: https://ladirf.github.io/acervo/pdfs/voto-re-1301250.pdf
 - Ementa oficial:

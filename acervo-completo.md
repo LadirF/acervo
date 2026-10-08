@@ -42,7 +42,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 ## 4. HC nº 1.0000.26.509274-2/000 (TJMG)
 - Decisão colegiada. Relator: Des. Alberto Deodato Neto. 1ª Câmara Criminal. Publicado em 30/09/2026.
 - Crime / Tema: Homicídio qualificado · Inépcia da denúncia
-- Resumo: Denúncia inepta: no concurso de agentes, a acusação precisa indicar ao menos uma conduta de cada denunciado e o vínculo dele com o crime (art. 41 do CPP). Ter estado reunido com o atirador e ter o celular encontrado no local não basta. Ação penal trancada quanto ao paciente e mandado de prisão recolhido.
+- Resumo: Denúncia inepta: no concurso de agentes, a acusação precisa indicar ao menos uma conduta de cada denunciado e o vínculo dele com o crime (art. 41 do CPP). Ter estado reunido com o atirador e ter o celular encontrado no local não basta. Ação penal trancada quanto ao paciente e mandado de prisão recolhido. Voto vencido (V.V.): o trancamento exige ausência manifesta de justa causa; as alegações dependeriam de dilação probatória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1-0000-26-509274.pdf
 - Ementa oficial:
   > HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - TRANCAMENTO DA AÇÃO PENAL - INÉPCIA DA DENÚNCIA - CONSTRANGIMENTO ILEGAL CONFIGURADO - ORDEM CONCEDIDA. O art. 41 do Código de Processo Penal, prevê que a denúncia deve expor o fato criminoso com todas as suas circunstâncias, qualificar o acusado ou fornecer elementos que permitam identificá-lo, classificar juridicamente a conduta e, quando necessário, apresentar o rol de testemunhas.
@@ -289,7 +289,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 28. REsp nº 2253784 / PA (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
-- Crime / Tema: Estupro de vulnerável · Tema repetitivo
+- Crime / Tema: Estupro de vulnerável
 - Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253784.pdf
 - Ementa oficial:
@@ -547,7 +547,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. A absolvição do agravado foi determinada, considerando que os únicos elementos de prova quanto à materialidade delitiva eram decorrentes da busca domiciliar ilícita.
   > IV. DISPOSITIVO E TESE
   > 8. Resultado do Julgamento: Agravo regimental não provido.
-  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
+  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator, que reproduz a decisão monocrática, em que o réu era o agravante]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
   > (AgRg no AREsp n. 2.786.040/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 13/5/2026.)
 
 ## 47. AREsp nº 3115023 / RS (STJ)
@@ -813,7 +813,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 67. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
-- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal · Repercussão geral
+- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
 - Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0000-24-303113.pdf
 - Ementa oficial:
@@ -1025,7 +1025,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 84. AgRg no AREsp nº 2249976 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
-- Crime / Tema: Receptação
+- Crime / Tema: Receptação · Ato infracional (ECA)
 - Resumo: Adolescente que era só carona da moto receptada, sem estar na posse do bem nem haver prova de que a recebeu ou de que agiu em concurso: a conduta é atípica. Mantida a improcedência da representação (ato infracional análogo à receptação).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2249976.pdf
 - Ementa oficial:
@@ -1033,7 +1033,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 1. No caso, além de não ter sido localizado na posse do bem, uma vez que não era o responsável pela condução do veículo, não existem outros elementos probatórios a indicar que o adolescente tenha recebido, em proveito próprio, a motocicleta apreendida pelos policiais.
   > 2. Nesse contexto, de rigor o reconhecimento da atipicidade da conduta, pois ausentes quaisquer elementos de prova de que o recorrente tenha praticado um dos verbos nucleares do tipo narrado na peça de representação (e-STJ, fls. 1-6), ou integrado concurso de pessoas em sua prática.
   > 3. Agravo regimental não provido.
-  > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJEN de 13/3/2023.)
+  > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
 
 ## 85. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
@@ -1182,7 +1182,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 ## 95. RE nº 1.301.250 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
 - Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
-- Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos.
+- Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1301250.pdf
 - Voto da relatora: https://ladirf.github.io/acervo/pdfs/voto-re-1301250.pdf
 - Ementa oficial:

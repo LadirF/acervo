@@ -94,7 +94,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 28. REsp nº 2253784 / PA (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
-- Crime / Tema: Estupro de vulnerável · Tema repetitivo
+- Crime / Tema: Estupro de vulnerável
 - Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253784.pdf
 - Ementa oficial:

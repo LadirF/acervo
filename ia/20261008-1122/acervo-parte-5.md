@@ -6,7 +6,7 @@ Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o 
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1109/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1122/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
 ## 41. HC nº 1122510 / BA (STJ)
 - Decisão monocrática (liminar). Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/08/2026.
@@ -91,7 +91,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 7. A absolvição do agravado foi determinada, considerando que os únicos elementos de prova quanto à materialidade delitiva eram decorrentes da busca domiciliar ilícita.
   > IV. DISPOSITIVO E TESE
   > 8. Resultado do Julgamento: Agravo regimental não provido.
-  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
+  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator, que reproduz a decisão monocrática, em que o réu era o agravante]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
   > (AgRg no AREsp n. 2.786.040/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 13/5/2026.)
 
 ## 47. AREsp nº 3115023 / RS (STJ)

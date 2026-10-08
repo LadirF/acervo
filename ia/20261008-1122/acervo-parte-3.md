@@ -6,7 +6,7 @@ Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o 
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1109/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1122/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
 ## 21. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
 - Decisão colegiada. Relator: Des. Fed. Ângelo Roberto Ilha da Silva. 7ª Turma. Publicado em 16/09/2026.
@@ -94,7 +94,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
 
 ## 28. REsp nº 2253784 / PA (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
-- Crime / Tema: Estupro de vulnerável · Tema repetitivo
+- Crime / Tema: Estupro de vulnerável
 - Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253784.pdf
 - Ementa oficial:
