@@ -1,20 +1,32 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 12 de 14 (decisões 111 a 120)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 136 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 137 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1531/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1535/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 111. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
+## 111. AgRg no AREsp nº 2249976 / SP (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
+- Crime / Tema: Receptação · Ato infracional (ECA)
+- Resumo: Adolescente que era só carona da moto receptada, sem estar na posse do bem nem haver prova de que a recebeu ou de que agiu em concurso: a conduta é atípica. Mantida a improcedência da representação (ato infracional análogo à receptação).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2249976.pdf
+- Ementa oficial:
+  > PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. AUSÊNCIA DE ELEMENTOS PROBATÓRIOS DE QUE O ADOLESCENTE TENHA PRATICADO UM DOS VERBOS NUCLEARES DO TIPO NARRADO NA PEÇA DE REPRESENTAÇÃO, OU DE QUE TENHA INTEGRADO CONCURSO DE PESSOAS EM SUA PRÁTICA. MERO CARONA DO VEÍCULO EVENTUALMENTE ABORDADO PELOS POLICIAIS. AGRAVO NÃO PROVIDO.
+  > 1. No caso, além de não ter sido localizado na posse do bem, uma vez que não era o responsável pela condução do veículo, não existem outros elementos probatórios a indicar que o adolescente tenha recebido, em proveito próprio, a motocicleta apreendida pelos policiais.
+  > 2. Nesse contexto, de rigor o reconhecimento da atipicidade da conduta, pois ausentes quaisquer elementos de prova de que o recorrente tenha praticado um dos verbos nucleares do tipo narrado na peça de representação (e-STJ, fls. 1-6), ou integrado concurso de pessoas em sua prática.
+  > 3. Agravo regimental não provido.
+  > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+
+## 112. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
 - Crime / Tema: Tráfico de drogas
 - Resumo: O réu não foi preso em flagrante, os policiais não presenciaram venda e não havia outra prova além da denúncia anônima e dos depoimentos policiais. Depoimento policial só sustenta condenação quando harmônico com as demais provas. Réu absolvido do tráfico (in dubio pro reo).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2167621.pdf
 
-## 112. AgRg no RHC nº 143169 / RJ (STJ)
+## 113. AgRg no RHC nº 143169 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto; redator do acórdão: Min. Ribeiro Dantas. Quinta Turma. Publicado em 02/03/2023.
 - Crime / Tema: Furto · Organização criminosa · Lavagem de dinheiro · Quebra da cadeia de custódia · Prova digital
 - Resumo: Quebra da cadeia de custódia da prova digital: a polícia não documentou a apreensão e a análise dos computadores, sem imagem bit a bit nem hash. É ônus do Estado provar a integridade da prova. São inadmissíveis as provas extraídas e as delas derivadas, e a exigência vale mesmo para fatos anteriores ao Pacote Anticrime.
@@ -32,13 +44,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 9. Agravo regimental parcialmente provido, para prover também em parte o recurso ordinário em habeas corpus e declarar a inadmissibilidade das provas em questão.
   > (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023.)
 
-## 113. HC nº 776885 / MG (STJ)
+## 114. HC nº 776885 / MG (STJ)
 - Decisão monocrática. Relator: Min. Jesuíno Rissato (Des. convocado do TJDFT). Sexta Turma. Publicado em 14/02/2023.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima e "características físicas" do suspeito não configuram fundada suspeita para a busca pessoal (art. 244 do CPP), e o ingresso na casa que se seguiu também não tinha fundadas razões. Provas nulas, inclusive as da casa. Ação penal trancada, com extensão ao corréu (art. 580 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-776885.pdf
 
-## 114. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
+## 115. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
 - Decisão colegiada. Relator: Des. André Carvalho e Silva de Almeida. 1º Grupo de Direito Criminal. Publicado em 03/02/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Revisão criminal
 - Resumo: Revisão deferida contra condenação do Júri manifestamente contrária à prova: não havia testemunha presencial, a vítima não foi ouvida em juízo e as testemunhas nada disseram contra os réus. Absolvição por falta de prova da autoria (art. 386, V, do CPP), estendida ao corréu.
@@ -47,7 +59,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Revisão Criminal – Júri – Decisão manifestamente contrário à prova dos autos – Inexistência de testemunhas presenciais – Vítima não ouvida em juízo – Testemunhas que nada disseram contra os denunciados – Revisão deferida para absolver.
   > (TJSP, Revisão Criminal n. 0019378-10.2021.8.26.0000, relator Desembargador André Carvalho e Silva de Almeida, 1º Grupo de Direito Criminal, julgado em 27/1/2023, publicado em 3/2/2023.)
 
-## 115. HC nº 762932 / SP (STJ)
+## 116. HC nº 762932 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Antecedente por tráfico, sozinho, não autoriza busca domiciliar; admitir isso seria Direito Penal do autor. O réu já estava preso por porte de arma na rua, sozinho, diante de policiais armados e sem defesa: nessas condições, o consentimento para a busca com cães farejadores não é crível nem válido (coação ambiental), e cabe ao Estado prová-lo. Foi uma pescaria probatória (fishing expedition). Réu absolvido do tráfico; mantida a condenação pela arma, apreendida antes e fora da casa.
@@ -75,7 +87,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 19. Ordem concedida para, considerando que não houve fundadas razões, tampouco comprovação de consentimento válido para a realização de buscas por drogas no domicílio do paciente, reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram, e, por conseguinte, absolvê-lo em relação à prática do delito de tráfico de drogas.
   > (HC n. 762.932/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 30/11/2022.)
 
-## 116. AgRg no HC nº 731882 / AM (STJ)
+## 117. AgRg no HC nº 731882 / AM (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Revisão criminal
 - Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
@@ -89,13 +101,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
   > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
 
-## 117. HC nº 221.204 / MG (STF)
+## 118. HC nº 221.204 / MG (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 24/10/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Cabimento do HC
 - Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
 
-## 118. RHC nº 147043 / SP (STJ)
+## 119. RHC nº 147043 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
 - Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
@@ -108,7 +120,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
   > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
 
-## 119. HC nº 653515 / RJ (STJ)
+## 120. HC nº 653515 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
 - Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
@@ -131,23 +143,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 14. Porque proclamada a absolvição do paciente em relação ao crime de tráfico de drogas, deve ser a ele assegurado o direito de aguardar no regime aberto o julgamento da apelação criminal. Isso porque era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base estabelecida no mínimo legal e, em relação a esse ilícito, foi condenado à reprimenda de 3 anos de reclusão (fl. 173). Caso não haja recurso do Ministério Público contra a sentença condenatória (ou, se houver e ele for improvido) e a sanção permaneça nesse patamar, fica definitivo o regime inicial mais brando de cumprimento de pena.
   > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
   > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
-
-## 120. HC nº 660930 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. Vencido, em parte, o relator, que anulava as provas da busca pessoal (motivada, a seu ver, pela cor da pele) e absolvia o paciente.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-660930.pdf
-- Ementa oficial:
-  > HABEAS CORPUS. TRÁFICO. 1,53 GRAMAS DE COCAÍNA. SENTENÇA CONDENATÓRIA. DOSIMETRIA. DESPROPORCIONALIDADE. VALORAÇÃO NEGATIVA DA PERSONALIDADE COM FUNDAMENTO EM ANTECEDENTES CRIMINAIS. IMPOSSIBILIDADE. FLAGRANTE ILEGALIDADE. QUANTIDADE DE DROGA QUE NÃO JUSTIFICA AFASTAR A CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. ÍNFIMA QUANTIDADE QUE DEVE PREVALECER SOBRE A REINCIDÊNCIA, PERMITINDO FIXAR REGIME MAIS BRANDO E SUBSTITUIR A REPRIMENDA. FLAGRANTE ILEGALIDADE. ORDEM CONCEDIDA À UNANIMIDADE. AUTO DE PRISÃO EM FLAGRANTE EIVADO DE NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA ORIGINADA EM ELEMENTO INIDÔNEO. COR DA PELE NÃO PODE CONFIGURAR ELEMENTO CONCRETO INDICIÁRIO DE DESCONFIANÇA DO AGENTE DE SEGURANÇA PÚBLICA. ILICITUDE DOS ELEMENTOS DE PROVA QUE EMBASARAM A CONDENAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONVICÇÃO DO RELATOR NÃO ACOMPANHADA NA SEXTA TURMA.
-  > 1. A valoração negativa da personalidade com fundamento nas condenações transitadas em julgado não encontra respaldo na atual jurisprudência do Superior Tribunal de Justiça, consolidada no sentido de que eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte (EAREsp n. 1.311.636/MS, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 26/4/2019 - grifo nosso).
-  > 2. A ínfima quantidade da droga apreendida não justifica o afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, sendo perfeitamente cabível a sua aplicação em patamar intermediário (1/2), diante da reincidência.
-  > 3. Ordem concedida para redimensionar a pena, com modificação do regime e reconhecida a possibilidade de substituição da pena por duas restritivas de direito a serem fixadas pelo Juízo das Execuções Criminais.
-  > 4. Busca pessoal do paciente feita em razão de o mesmo ser negro conforme depoimento dos responsáveis pelo flagrante: “QUE AO PASSAR PELA RUA SANTA TERESA, QUADRA 4, AVISTOU AO LONGE UM INDIVÍDUO DE COR NEGRA QUE ESTAVA EM CENA TÍPICA DE TRÁFICO DE DROGAS, UMA VEZ QUE ELE ESTAVA EM PÉ JUNTO O MEIO FIO DA VIA PÚBLICA E UM VEÍCULO ESTAVA PARADO JUNTO A ELE COMO SE ESTIVESSE VENDENDO/COMPRANDO ALGO” e “QUE AO SE APROXIMAREM DA RUA SANTA TERESA VIRAM UM INDIVÍDUO NEGRO QUE "SERVIA" ALGUM USUÁRIO DE DROGA EM UM CARRO DE COR CLARA”.
-  > 5. A cor da pele do paciente foi o que, considerando o depoimento dos policiais responsáveis pelo flagrante, despertou a suspeita que justificou a busca pessoal no paciente. Ainda que não tenha sido somente a cor da pele, mas, sim, todo o contexto, como estar o indivíduo ao lado de veículo, em atitude de mercancia, em área de tráfico, pela experiência dos policiais, a meu ver, a cor da pele foi o fator que primeiramente despertou a atenção do agente de segurança pública, o que não pode ser admitido.
-  > 6. Este Superior Tribunal de Justiça por diversas vezes constatou abusos praticados pelas forças policiais na execução das buscas pessoal e domiciliar, concedendo a ordem para reconhecer a nulidade das provas obtidas nessas buscas irregulares, com a consequente absolvição dos acusados.
-  > 7. Não se pode ter como elemento ensejador da fundada suspeita a convicção do agente policial despertada a partir da cor da pele, como descrito no Auto de Prisão em Flagrante constante dos autos, sob o risco de ratificação de condutas tirânicas violadoras de direitos e garantias individuais, a configurar tanto o abuso de poder, quanto o racismo.
-  > 8. Nula a abordagem realizada pelos policiais militares, diante da manifesta ausência de fundada suspeita de o paciente estar portando drogas no momento da abordagem, acarretando a ilicitude das provas obtidas por meio da busca pessoal.
-  > 9. Ausentes os elementos probatórios que ensejaram a condenação, a sentença deverá ser anulada, absolvendo-se o paciente por ausência de provas da materialidade do delito.
-  > 10. Na sessão de julgamento de 14/9/2021, a Sexta Turma não acompanhou o Relator na concessão da ordem de ofício, quanto à ilegalidade da busca pessoal, à mingua de fundada suspeita.
-  > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
-  > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)

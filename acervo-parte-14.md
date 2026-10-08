@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 14 de 14 (decisões 131 a 136)
+# Acervo de Jurisprudência — Cury Advogados — parte 14 de 14 (decisões 131 a 137)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 136 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 137 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,24 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 131. RE nº 603.616 / RO (STF)
+## 131. APn nº 746 / MT (STJ)
+- Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
+- Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
+- Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apn-746.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. RECEBIMENTO DE DENÚNCIA. CONSELHEIRO DE TRIBUNAL DE CONTAS. PECULATO. PRESCRIÇÃO. JUSTA CAUSA. INDÍCIOS DE AUTORIA E PROVA DE MATERIALIDADE. DENÚNCIA. EXIGÊNCIAS DO ART. 41 DO CPP. PEÇA REJEITADA.
+  > 1. A pretensão punitiva para o crime de peculato prescreve em 16 anos, razão pela qual, inexistindo causas interruptivas da prescrição, está extinta a punibilidade das condutas eventualmente praticadas em 1999.
+  > 2. A legalidade estrita é regra fundante do estado de direito e constitui o mais importante freio à atuação do poder público em matéria penal, motivo pelo qual, não havendo previsão legal com relação aos dirigentes de autarquias, é inaplicável ao caso a majorante do § 2º do art. 327.
+  > 3. O crime de peculato, na modalidade desvio, consuma-se quando à coisa é dada destinação ou emprego diverso daquele para o qual ela foi entregue ao agente, independentemente da concreta obtenção do proveito. Afirmando a denúncia que os valores foram desviados para pagar dívidas da campanha com empresa de fomento mercantil, o momento consumativo do crime teria ocorrido quando os valores que deveriam ter sido pagos às empresas supostamente prestadoras de serviço foram depositados nas contas da factoring.
+  > 4. Na hipótese dos autos, os indícios de materialidade estão consubstanciados pelo Laudo de Exame Contábil, indicando a existência de indícios de desvio de verbas, consubstanciada na "triangulação entre as empresas vencedoras das licitações, a CONFIANÇA FACTORING e os órgãos públicos para desvio das verbas"; pelos documentos fornecidos pelo Banco Central em cumprimento a decisão judicial, que demonstram o depósito de valores do órgão público nas contas da Confiança Factoring num montante que atinge a quantia de R$ 1.723.600,00, e pela análise da atuação das empresas vencedoras das licitações analisadas, que em sua maioria (correspondendo a 16 do total das 25 licitações) haviam sido constituídas poucos meses antes do certame e, após o recebimento dos valores, permaneceram em inatividade até o cancelamento de seu registro na Junta Comercial.
+  > 5. No entanto, os indícios de autoria em relação ao acusado são frágeis porque não há prova evidente de que tenha ele se beneficiado do desvio, existindo apenas uma testemunha que afirmou tê-lo visto conversando com a pessoa que veio prestar delação, o que, por si só, não pode alicerçar o recebimento da denúncia.
+  > 6. Por sinal, as informações prestadas pelo réu colaborador não constituem prova no sentido pleno, mas instrumento de obtenção de prova, podendo ser valoradas como indícios para o recebimento da denúncia quando sua narrativa for corroborada por outros elementos, o que não ocorre na hipótese dos autos.
+  > 7. De mais a mais, o recebimento da denúncia pressupõe que a ação penal tenha alguma viabilidade condenatória, a qual, à luz dos elementos frágeis da prova examinada, não parece existir no caso.
+  > 8. Denúncia rejeitada por ausência de justa causa.
+  > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
+
+## 132. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -24,7 +41,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 132. HC nº 341790 / PR (STJ)
+## 133. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -40,7 +57,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 133. HC nº 127.483 / PR (STF)
+## 134. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -62,7 +79,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 134. Inq nº 4.130 QO / PR (STF)
+## 135. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
@@ -91,7 +108,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
 
-## 135. REsp nº 1388440 / ES (STJ)
+## 136. REsp nº 1388440 / ES (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
 - Crime / Tema: Crimes contra as relações de consumo · Prescrição
 - Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.
@@ -105,7 +122,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso parcialmente provido para anular a sentença condenatória e julgar extinta a punibilidade dos recorrentes.
   > (REsp n. 1.388.440/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/3/2015, DJe de 17/3/2015.)
 
-## 136. Inq nº 1.674 / PA (STF)
+## 137. Inq nº 1.674 / PA (STF)
 - Decisão colegiada. Relator: Min. Ilmar Galvão; redator do acórdão: Min. Sepúlveda Pertence. Plenário. Publicado em 01/08/2003.
 - Crime / Tema: Crimes contra a honra · Imunidade do advogado
 - Resumo: Pelo art. 7º, § 2º, do Estatuto da OAB, a imunidade profissional do advogado cobre injúria e difamação dirigidas ao juiz, desde que pertinentes à causa. Isso superou a jurisprudência do art. 142 do CP; a suspensão cautelar no STF só atingiu o desacato. A imunidade alcança a manifestação à imprensa do Advogado-Geral da União sobre despacho em causa contra a União. Queixa-crime extinta, por maioria.

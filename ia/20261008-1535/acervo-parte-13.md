@@ -1,14 +1,34 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 13 de 14 (decisões 121 a 130)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 136 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 137 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1531/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1535/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 121. RE nº 1.301.250 / RJ (STF)
+## 121. HC nº 660930 / SP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. Vencido, em parte, o relator, que anulava as provas da busca pessoal (motivada, a seu ver, pela cor da pele) e absolvia o paciente.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-660930.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. TRÁFICO. 1,53 GRAMAS DE COCAÍNA. SENTENÇA CONDENATÓRIA. DOSIMETRIA. DESPROPORCIONALIDADE. VALORAÇÃO NEGATIVA DA PERSONALIDADE COM FUNDAMENTO EM ANTECEDENTES CRIMINAIS. IMPOSSIBILIDADE. FLAGRANTE ILEGALIDADE. QUANTIDADE DE DROGA QUE NÃO JUSTIFICA AFASTAR A CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. ÍNFIMA QUANTIDADE QUE DEVE PREVALECER SOBRE A REINCIDÊNCIA, PERMITINDO FIXAR REGIME MAIS BRANDO E SUBSTITUIR A REPRIMENDA. FLAGRANTE ILEGALIDADE. ORDEM CONCEDIDA À UNANIMIDADE. AUTO DE PRISÃO EM FLAGRANTE EIVADO DE NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA ORIGINADA EM ELEMENTO INIDÔNEO. COR DA PELE NÃO PODE CONFIGURAR ELEMENTO CONCRETO INDICIÁRIO DE DESCONFIANÇA DO AGENTE DE SEGURANÇA PÚBLICA. ILICITUDE DOS ELEMENTOS DE PROVA QUE EMBASARAM A CONDENAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONVICÇÃO DO RELATOR NÃO ACOMPANHADA NA SEXTA TURMA.
+  > 1. A valoração negativa da personalidade com fundamento nas condenações transitadas em julgado não encontra respaldo na atual jurisprudência do Superior Tribunal de Justiça, consolidada no sentido de que eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte (EAREsp n. 1.311.636/MS, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 26/4/2019 - grifo nosso).
+  > 2. A ínfima quantidade da droga apreendida não justifica o afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, sendo perfeitamente cabível a sua aplicação em patamar intermediário (1/2), diante da reincidência.
+  > 3. Ordem concedida para redimensionar a pena, com modificação do regime e reconhecida a possibilidade de substituição da pena por duas restritivas de direito a serem fixadas pelo Juízo das Execuções Criminais.
+  > 4. Busca pessoal do paciente feita em razão de o mesmo ser negro conforme depoimento dos responsáveis pelo flagrante: “QUE AO PASSAR PELA RUA SANTA TERESA, QUADRA 4, AVISTOU AO LONGE UM INDIVÍDUO DE COR NEGRA QUE ESTAVA EM CENA TÍPICA DE TRÁFICO DE DROGAS, UMA VEZ QUE ELE ESTAVA EM PÉ JUNTO O MEIO FIO DA VIA PÚBLICA E UM VEÍCULO ESTAVA PARADO JUNTO A ELE COMO SE ESTIVESSE VENDENDO/COMPRANDO ALGO” e “QUE AO SE APROXIMAREM DA RUA SANTA TERESA VIRAM UM INDIVÍDUO NEGRO QUE "SERVIA" ALGUM USUÁRIO DE DROGA EM UM CARRO DE COR CLARA”.
+  > 5. A cor da pele do paciente foi o que, considerando o depoimento dos policiais responsáveis pelo flagrante, despertou a suspeita que justificou a busca pessoal no paciente. Ainda que não tenha sido somente a cor da pele, mas, sim, todo o contexto, como estar o indivíduo ao lado de veículo, em atitude de mercancia, em área de tráfico, pela experiência dos policiais, a meu ver, a cor da pele foi o fator que primeiramente despertou a atenção do agente de segurança pública, o que não pode ser admitido.
+  > 6. Este Superior Tribunal de Justiça por diversas vezes constatou abusos praticados pelas forças policiais na execução das buscas pessoal e domiciliar, concedendo a ordem para reconhecer a nulidade das provas obtidas nessas buscas irregulares, com a consequente absolvição dos acusados.
+  > 7. Não se pode ter como elemento ensejador da fundada suspeita a convicção do agente policial despertada a partir da cor da pele, como descrito no Auto de Prisão em Flagrante constante dos autos, sob o risco de ratificação de condutas tirânicas violadoras de direitos e garantias individuais, a configurar tanto o abuso de poder, quanto o racismo.
+  > 8. Nula a abordagem realizada pelos policiais militares, diante da manifesta ausência de fundada suspeita de o paciente estar portando drogas no momento da abordagem, acarretando a ilicitude das provas obtidas por meio da busca pessoal.
+  > 9. Ausentes os elementos probatórios que ensejaram a condenação, a sentença deverá ser anulada, absolvendo-se o paciente por ausência de provas da materialidade do delito.
+  > 10. Na sessão de julgamento de 14/9/2021, a Sexta Turma não acompanhou o Relator na concessão da ordem de ofício, quanto à ilegalidade da busca pessoal, à mingua de fundada suspeita.
+  > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
+  > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
+
+## 122. RE nº 1.301.250 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
 - Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
 - Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
@@ -20,7 +40,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 2. Repercussão geral reconhecida.
   > (STF, RE n. 1.301.250 RG/RJ, relatora Ministra Rosa Weber, Tribunal Pleno, julgado em 27/5/2021, DJe de 8/6/2021.)
 
-## 122. HC nº 611918 / SP (STJ)
+## 123. HC nº 611918 / SP (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
@@ -32,7 +52,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
   > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
 
-## 123. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 124. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
@@ -46,7 +66,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
   > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
 
-## 124. REsp nº 1871856 / SE (STJ)
+## 125. REsp nº 1871856 / SE (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
@@ -59,7 +79,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
   > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
 
-## 125. AgRg no HC nº 157.627 / PR (STF)
+## 126. AgRg no HC nº 157.627 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
@@ -72,7 +92,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > IV – Agravo regimental provido, para conhecer e conceder a ordem.
   > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
 
-## 126. REsp nº 1795341 / RS (STJ)
+## 127. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -86,7 +106,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 127. Inq nº 3.994 / DF (STF)
+## 128. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -106,7 +126,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 128. AgRg no Inq nº 1093 / DF (STJ)
+## 129. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -124,7 +144,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 129. REsp nº 1574681 / RS (STJ)
+## 130. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -147,20 +167,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 14. Em que pese eventual boa-fé dos policiais militares, não havia elementos objetivos, seguros e racionais, que justificassem a invasão de domicílio. Assim, como decorrência da Doutrina dos Frutos da Árvore Envenenada (ou venenosa, visto que decorre da fruits of the poisonous tree doctrine, de origem norte-americana), consagrada no art. 5º, LVI, da nossa Constituição da República, é nula a prova derivada de conduta ilícita – no caso, a apreensão, após invasão desautorizada do domicílio do recorrido, de 18 pedras de crack –, pois evidente o nexo causal entre uma e outra conduta, ou seja, entre a invasão de domicílio (permeada de ilicitude) e a apreensão de drogas.
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
-
-## 130. APn nº 746 / MT (STJ)
-- Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
-- Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
-- Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apn-746.pdf
-- Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. RECEBIMENTO DE DENÚNCIA. CONSELHEIRO DE TRIBUNAL DE CONTAS. PECULATO. PRESCRIÇÃO. JUSTA CAUSA. INDÍCIOS DE AUTORIA E PROVA DE MATERIALIDADE. DENÚNCIA. EXIGÊNCIAS DO ART. 41 DO CPP. PEÇA REJEITADA.
-  > 1. A pretensão punitiva para o crime de peculato prescreve em 16 anos, razão pela qual, inexistindo causas interruptivas da prescrição, está extinta a punibilidade das condutas eventualmente praticadas em 1999.
-  > 2. A legalidade estrita é regra fundante do estado de direito e constitui o mais importante freio à atuação do poder público em matéria penal, motivo pelo qual, não havendo previsão legal com relação aos dirigentes de autarquias, é inaplicável ao caso a majorante do § 2º do art. 327.
-  > 3. O crime de peculato, na modalidade desvio, consuma-se quando à coisa é dada destinação ou emprego diverso daquele para o qual ela foi entregue ao agente, independentemente da concreta obtenção do proveito. Afirmando a denúncia que os valores foram desviados para pagar dívidas da campanha com empresa de fomento mercantil, o momento consumativo do crime teria ocorrido quando os valores que deveriam ter sido pagos às empresas supostamente prestadoras de serviço foram depositados nas contas da factoring.
-  > 4. Na hipótese dos autos, os indícios de materialidade estão consubstanciados pelo Laudo de Exame Contábil, indicando a existência de indícios de desvio de verbas, consubstanciada na "triangulação entre as empresas vencedoras das licitações, a CONFIANÇA FACTORING e os órgãos públicos para desvio das verbas"; pelos documentos fornecidos pelo Banco Central em cumprimento a decisão judicial, que demonstram o depósito de valores do órgão público nas contas da Confiança Factoring num montante que atinge a quantia de R$ 1.723.600,00, e pela análise da atuação das empresas vencedoras das licitações analisadas, que em sua maioria (correspondendo a 16 do total das 25 licitações) haviam sido constituídas poucos meses antes do certame e, após o recebimento dos valores, permaneceram em inatividade até o cancelamento de seu registro na Junta Comercial.
-  > 5. No entanto, os indícios de autoria em relação ao acusado são frágeis porque não há prova evidente de que tenha ele se beneficiado do desvio, existindo apenas uma testemunha que afirmou tê-lo visto conversando com a pessoa que veio prestar delação, o que, por si só, não pode alicerçar o recebimento da denúncia.
-  > 6. Por sinal, as informações prestadas pelo réu colaborador não constituem prova no sentido pleno, mas instrumento de obtenção de prova, podendo ser valoradas como indícios para o recebimento da denúncia quando sua narrativa for corroborada por outros elementos, o que não ocorre na hipótese dos autos.
-  > 7. De mais a mais, o recebimento da denúncia pressupõe que a ação penal tenha alguma viabilidade condenatória, a qual, à luz dos elementos frágeis da prova examinada, não parece existir no caso.
-  > 8. Denúncia rejeitada por ausência de justa causa.
-  > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
