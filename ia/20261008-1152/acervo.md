@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto para ferramentas de IA)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 110 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -22,20 +22,20 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 ## Onde estão o índice e as ementas
 
 **Índice** (todas as decisões com tipo de decisão, data, relator, crime / tema e resumo, divididas por tribunal; numeração única). Leia **todos** os arquivos abaixo para a triagem:
-- Índice STJ e STF (97 decisões): https://ladirf.github.io/acervo/ia/20261008-1123/acervo-indice-stj-stf.md
-- Índice TRFs e tribunais estaduais (12 decisões): https://ladirf.github.io/acervo/ia/20261008-1123/acervo-indice-tribunais.md
+- Índice STJ e STF (97 decisões): https://ladirf.github.io/acervo/ia/20261008-1152/acervo-indice-stj-stf.md
+- Índice TRFs e tribunais estaduais (13 decisões): https://ladirf.github.io/acervo/ia/20261008-1152/acervo-indice-tribunais.md
 
 **Partes** (ementas oficiais, referências e links de PDF; 10 decisões cada, na mesma numeração do índice):
-- Parte 1: decisões 1 a 10 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-1.md
-- Parte 2: decisões 11 a 20 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-2.md
-- Parte 3: decisões 21 a 30 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-3.md
-- Parte 4: decisões 31 a 40 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-4.md
-- Parte 5: decisões 41 a 50 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-5.md
-- Parte 6: decisões 51 a 60 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-6.md
-- Parte 7: decisões 61 a 70 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-7.md
-- Parte 8: decisões 71 a 80 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-8.md
-- Parte 9: decisões 81 a 90 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-9.md
-- Parte 10: decisões 91 a 100 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-10.md
-- Parte 11: decisões 101 a 109 — https://ladirf.github.io/acervo/ia/20261008-1123/acervo-parte-11.md
+- Parte 1: decisões 1 a 10 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-1.md
+- Parte 2: decisões 11 a 20 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-2.md
+- Parte 3: decisões 21 a 30 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-3.md
+- Parte 4: decisões 31 a 40 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-4.md
+- Parte 5: decisões 41 a 50 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-5.md
+- Parte 6: decisões 51 a 60 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-6.md
+- Parte 7: decisões 61 a 70 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-7.md
+- Parte 8: decisões 71 a 80 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-8.md
+- Parte 9: decisões 81 a 90 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-9.md
+- Parte 10: decisões 91 a 100 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-10.md
+- Parte 11: decisões 101 a 110 — https://ladirf.github.io/acervo/ia/20261008-1152/acervo-parte-11.md
 
 Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md

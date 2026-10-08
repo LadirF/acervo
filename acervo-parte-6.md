@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 6 de 11 (decisões 51 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 110 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,33 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. RHC nº 223931 / PE (STJ)
+## 51. AgRg no HC nº 1017481 / RN (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 12/03/2026.
+- Crime / Tema: Tráfico de drogas · Prova digital · Fundada suspeita · Cabimento do HC
+- Resumo: O acesso da polícia às conversas do celular do corréu sem autorização judicial é ilícito. Essa prova e as dela derivadas devem ser desentranhadas, cabendo ao juízo verificar se há prova independente que sustente a condenação. A busca pessoal, feita com fundada suspeita, foi considerada válida (art. 244 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1017481.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA PESSOAL E ACESSO A DADOS DE CELULAR SEM AUTORIZAÇÃO JUDICIAL. PROVAS ILÍCITAS. AGRAVO PROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão transitado em julgado.
+  > 2. O agravante sustenta a ocorrência de flagrante ilegalidade na busca pessoal realizada sem fundada suspeita e no acesso ao conteúdo do celular do corréu sem autorização judicial, o que teria resultado na sua identificação como autor do crime de tráfico de drogas.
+  > 3. Requer a reconsideração da decisão recorrida para que seja reconhecida a invalidade das provas obtidas ilegalmente, ou, subsidiariamente, a apreciação pela Quinta Turma para concessão da ordem.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. Há duas questões em discussão: (i) saber se a busca pessoal foi realizada sem fundada suspeita; e (ii) saber se o acesso ao conteúdo do celular do corréu, sem autorização judicial, configura prova ilícita e se as provas derivadas devem ser desentranhadas dos autos.
+  > III. RAZÕES DE DECIDIR
+  > 5. A busca pessoal foi realizada com base em policiamento ostensivo e fundada suspeita, conforme previsto no art. 244 do Código de Processo Penal, sendo legítima a revista que resultou na apreensão de porções de cocaína com o corréu.
+  > 6. O acesso aos históricos de mensagens e conversas do celular do corréu, realizado diretamente pela polícia sem autorização judicial, configura prova ilícita, conforme entendimento consolidado pelo Superior Tribunal de Justiça.
+  > 7. As provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
+  > 8. Cabe ao juízo de primeira instância verificar a existência de prova independente e suficiente para eventual manutenção da condenação pelo delito de tráfico de drogas.
+  > IV. DISPOSITIVO E TESE
+  > 9. Resultado do Julgamento: Agravo provido para declarar a nulidade das provas obtidas mediante acesso ao conteúdo do celular do corréu sem autorização judicial, bem como de todas as provas delas decorrentes.
+  > Tese de julgamento:
+  > 1. A busca pessoal é legítima quando realizada com base em policiamento ostensivo e fundada suspeita, nos termos do art. 244 do Código de Processo Penal.
+  > 2. É ilícito o acesso as conversas mantidas em aparelho celular diretamente por autoridades policiais sem prévia autorização judicial.
+  > 3. Provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
+  > (AgRg no HC n. 1.017.481/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
+
+## 52. RHC nº 223931 / PE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
 - Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
@@ -22,7 +48,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
   > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
 
-## 52. AgRg no AREsp nº 2583516 / TO (STJ)
+## 53. AgRg no AREsp nº 2583516 / TO (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
@@ -49,19 +75,19 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
   > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
 
-## 53. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
+## 54. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin (Presidente). Publicado em 02/02/2026.
 - Crime / Tema: Dosimetria
 - Resumo: Devolução do processo ao fluxo regular após pacificação do Tema 150/STF (RE 593818): maus antecedentes não prescrevem em 5 anos como a reincidência, mas o julgador pode deixar de valorá-los se irrelevantes ou muito distantes no tempo.
 - Ver andamento no STF: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7467927
 
-## 54. AREsp nº 3045207 / MT (STJ)
+## 55. AREsp nº 3045207 / MT (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
 - Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
 - Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
 
-## 55. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+## 56. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
 - Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
@@ -84,7 +110,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
   > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 56. REsp nº 1953602 / SP (STJ)
+## 57. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -104,13 +130,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 57. RHC nº 213637 / BA (STJ)
+## 58. RHC nº 213637 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
 
-## 58. AgRg no REsp nº 2173273 / MG (STJ)
+## 59. AgRg no REsp nº 2173273 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
@@ -124,32 +150,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
 
-## 59. Rcl nº 80.133 / PR (STF)
+## 60. Rcl nº 80.133 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
 - Crime / Tema: Prova digital · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf
-
-## 60. AgRg no AREsp nº 2243364 / MG (STJ)
-- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2243364.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO DE INADMISSIBILIDADE. AGRAVO NÃO PROVIDO. TRÁFICO PRIVILEGIADO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial em virtude do óbice da Súmula n. 182/STJ. A parte agravante alega ter impugnado a Súmula n. 83/STJ.
-  > II. Questão em discussão
-  > 2. A discussão consiste em saber se a conduta de oferecer droga gratuitamente a pessoa reclusa em estabelecimento prisional pode ser desclassificada para o tipo penal do art. 33, § 2º, da Lei n. 11.343/2006 ou se deve ser enquadrada no caput do mesmo artigo.
-  > 3. Outro ponto diz respeito à possibilidade de concessão de habeas corpus de ofício para reconhecer a minorante do tráfico privilegiado, considerando a quantidade ínfima de droga e os maus antecedentes do acusado.
-  > III. Razões de decidir
-  > 4. A conduta de oferecer droga gratuitamente amolda-se ao caput do art. 33 da Lei n. 11.343/2006, não se enquadrando nos núcleos verbais do § 2º, que exigem induzir, instigar ou auxiliar ao uso indevido de droga.
-  > 5. A ínfima quantidade de droga apreendida e a ausência de intuito lucrativo justificam a aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, mesmo diante de maus antecedentes não específicos.
-  > 6. A pena foi redimensionada para 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direito, considerando a confissão do acusado e a interpretação sistemática dos arts. 33, § 3º, e 67 do Código Penal.
-  > IV. Dispositivo e tese
-  > 7. Agravo regimental não provido e ordem de habeas corpus concedida de ofício.
-  > Tese de julgamento:
-  > 1. A conduta de oferecer droga gratuitamente a pessoa reclusa amolda-se ao caput do art. 33 da Lei n. 11.343/2006.
-  > 2. A aplicação da minorante do tráfico privilegiado é excepcionalmente justificada pela ínfima quantidade de droga e ausência de intuito lucrativo, mesmo diante dos maus antecedentes não específicos.
-  > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
-  > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)

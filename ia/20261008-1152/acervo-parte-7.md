@@ -1,14 +1,38 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 7 de 11 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 110 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1123/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1152/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. AgRg no RHC nº 189376 / MT (STJ)
+## 61. AgRg no AREsp nº 2243364 / MG (STJ)
+- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
+- Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2243364.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO DE INADMISSIBILIDADE. AGRAVO NÃO PROVIDO. TRÁFICO PRIVILEGIADO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial em virtude do óbice da Súmula n. 182/STJ. A parte agravante alega ter impugnado a Súmula n. 83/STJ.
+  > II. Questão em discussão
+  > 2. A discussão consiste em saber se a conduta de oferecer droga gratuitamente a pessoa reclusa em estabelecimento prisional pode ser desclassificada para o tipo penal do art. 33, § 2º, da Lei n. 11.343/2006 ou se deve ser enquadrada no caput do mesmo artigo.
+  > 3. Outro ponto diz respeito à possibilidade de concessão de habeas corpus de ofício para reconhecer a minorante do tráfico privilegiado, considerando a quantidade ínfima de droga e os maus antecedentes do acusado.
+  > III. Razões de decidir
+  > 4. A conduta de oferecer droga gratuitamente amolda-se ao caput do art. 33 da Lei n. 11.343/2006, não se enquadrando nos núcleos verbais do § 2º, que exigem induzir, instigar ou auxiliar ao uso indevido de droga.
+  > 5. A ínfima quantidade de droga apreendida e a ausência de intuito lucrativo justificam a aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, mesmo diante de maus antecedentes não específicos.
+  > 6. A pena foi redimensionada para 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direito, considerando a confissão do acusado e a interpretação sistemática dos arts. 33, § 3º, e 67 do Código Penal.
+  > IV. Dispositivo e tese
+  > 7. Agravo regimental não provido e ordem de habeas corpus concedida de ofício.
+  > Tese de julgamento:
+  > 1. A conduta de oferecer droga gratuitamente a pessoa reclusa amolda-se ao caput do art. 33 da Lei n. 11.343/2006.
+  > 2. A aplicação da minorante do tráfico privilegiado é excepcionalmente justificada pela ínfima quantidade de droga e ausência de intuito lucrativo, mesmo diante dos maus antecedentes não específicos.
+  > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
+  > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
+
+## 62. AgRg no RHC nº 189376 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
 - Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
@@ -21,31 +45,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Agravo regimental desprovido.
   > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
 
-## 62. HC nº 978977 / PE (STJ)
+## 63. HC nº 978977 / PE (STJ)
 - Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
 
-## 63. AgRg no AREsp nº 2697575 / RJ (STJ)
+## 64. AgRg no AREsp nº 2697575 / RJ (STJ)
 - Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
 - Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf
 
-## 64. HC nº 840695 / PB (STJ)
+## 65. HC nº 840695 / PB (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/02/2025.
 - Crime / Tema: Estelionato · Continuidade delitiva · Dosimetria
 - Resumo: Pirâmide financeira: os 41 estelionatos, praticados do mesmo modo e em sequência, configuram crime continuado, e não concurso material. Em vez de somar as penas, aplica-se uma só pena aumentada. Continuidade reconhecida de ofício, com pena final de 3 anos e 4 meses em regime semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
 
-## 65. AREsp nº 2508013 / MG (STJ)
+## 66. AREsp nº 2508013 / MG (STJ)
 - Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 29/01/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A pronúncia não pode se basear só em elementos do inquérito e em testemunhos de "ouvir dizer" (art. 155 do CPP). O in dubio pro societate não supre lacuna de prova. Detectado o vício na própria pronúncia, não cabe sequer submeter o réu a novo Júri. Réu despronunciado de ofício, mesmo depois da condenação.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2508013.pdf
 
-## 66. HC nº 943710 / SC (STJ)
+## 67. HC nº 943710 / SC (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
 - Crime / Tema: Crimes contra o sistema financeiro · RIF · Competência
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
@@ -61,7 +85,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 7. Ordem concedida parcialmente para reconhecer a ilicitude da solicitação direta dos Relatórios de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos deles derivados, cabendo ao Juízo de primeiro grau identificá-los, procedendo ao seu desentranhamento, além de analisar se persiste a justa causa para o trâmite da ação penal na sua ausência.
   > (HC n. 943.710/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
 
-## 67. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
+## 68. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
 - Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
 - Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.
@@ -73,13 +97,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > - Diante do julgamento do STF no RE nº 635.659, que, por maioria e nos termos do voto do Relator, apreciando o declarou a inconstitucionalidade, sem redução de texto, do art. 28 da Lei 11.343/2006, quando o usuário portar menos de 40g de maconha, de modo a afastar do referido dispositivo todo e qualquer efeito de natureza penal, deve ser reconhecida a atipicidade da conduta, com a consequente absolvição do apelante, devendo os autos serem remetidos ao Juizado Especial Criminal da comarca de origem, para aplicação das sanções administrativas cabíveis.
   > (TJMG, Apelação Criminal n. 1.0000.24.303113-5/001, relator Desembargador Jaubert Carneiro Jaques, 6ª Câmara Criminal, julgado em 22/10/2024, publicado em 23/10/2024.)
 
-## 68. HC nº 902195 / RS (STJ)
+## 69. HC nº 902195 / RS (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 13/08/2024.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Quebra da cadeia de custódia · Prova digital · Pronúncia
 - Resumo: A cadeia de custódia vale também para fatos anteriores ao Pacote Anticrime, porque decorre do conceito de corpo de delito (art. 158 do CPP). A perícia não conseguiu acessar o celular da vítima, e a defesa não pode verificar a integridade nem o contexto das mensagens extraídas dele: essas provas são inadmissíveis e devem ser desentranhadas (art. 157 do CPP). A tese de ilicitude, mesmo levantada só na fase do art. 422, deve ser conhecida. Determinada nova decisão de pronúncia; preventiva mantida. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-902195.pdf
 
-## 69. AgRg no HC nº 828054 / RN (STJ)
+## 70. AgRg no HC nº 828054 / RN (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/04/2024.
 - Crime / Tema: Tráfico de drogas · Quebra da cadeia de custódia · Prova digital
 - Resumo: Extração de dados de celular sem metodologia que garanta a integridade (hash, software certificado; só prints de tela): a quebra da cadeia de custódia torna a prova digital inadmissível, e o ônus é do Estado. Ordem concedida de ofício.
@@ -95,12 +119,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 6. Neste caso, não houve a adoção de procedimentos que assegurassem a idoneidade e a integridade dos elementos obtidos pela extração dos dados do celular apreendido. Logo, evidentes o prejuízo causado pela quebra da cadeia de custódia e a imprestabilidade da prova digital.
   > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
   > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
-
-## 70. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
-- Decisão colegiada. Relator: Des. Leme Garcia. 16ª Câmara de Direito Criminal. Publicado em 16/04/2024.
-- Crime / Tema: Tráfico de drogas
-- Resumo: Nenhuma droga foi encontrada com o réu nem houve venda presenciada; as drogas foram apreendidas em via pública e uma testemunha presencial confirmou a versão dele. Na dúvida sobre a autoria, mantida a absolvição (in dubio pro reo).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1500766-76-2020.pdf
-- Ementa oficial:
-  > APELAÇÃO. Tráfico de drogas. Recurso ministerial. Apelado que foi absolvido pelo d. juízo a quo. Pleito de condenação do acusado nos termos exatos propostos na inicial acusatória. Inviabilidade. Nenhuma droga foi encontrada diretamente em poder do acusado, bem como nenhum ato de comercialização foi presenciado pelos policiais militares, de tal modo que não há elementos seguros que indiquem o seu envolvimento na prática da traficância. Substâncias ilícitas apreendidas em via pública. Testemunha presencial que confirmou a versão apresentada pelo acusado. Existência de dúvidas sobre a autoria do delito. Aplicação do princípio do in dubio pro reo. Sentença de primeiro grau mantida. Negado provimento ao recurso.
-  > (TJSP, Apelação Criminal n. 1500766-76.2020.8.26.0228, relator Desembargador Leme Garcia, 16ª Câmara de Direito Criminal, julgado em 9/4/2024, publicado em 16/4/2024.)

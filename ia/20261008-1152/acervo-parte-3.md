@@ -1,14 +1,20 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 3 de 11 (decisões 21 a 30)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 110 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1123/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1152/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 21. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
+## 21. REsp nº 2279989 / PR (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/09/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
+- Resumo: A pronúncia não pode se apoiar só em elementos do inquérito e em testemunho indireto (art. 155 do CPP): sem prova judicial de autoria, impõe-se a impronúncia. Restabelecida a sentença de impronúncia (homicídio qualificado).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2279989.pdf
+
+## 22. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
 - Decisão colegiada. Relator: Des. Fed. Ângelo Roberto Ilha da Silva. 7ª Turma. Publicado em 16/09/2026.
 - Crime / Tema: Quebra de sigilo · RIF · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito de acessar o registro, no sistema SEI-C, do pedido que originou o RIF, para verificar se já havia investigação formal instaurada quando o relatório foi solicitado ao COAF. Isso não dá acesso aos sistemas da acusação nem antecipa juízo sobre a licitude do RIF.
@@ -19,7 +25,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 2. No caso concreto, em que os elementos constantes dos autos não permitem identificar a data da solicitação que deu origem ao RIF nem aferir se, naquele momento, havia procedimento investigatório formalmente instaurado, mostra-se cabível assegurar à defesa o acesso ao registro da comunicação realizada por meio do Sistema Eletrônico de Intercâmbio – SEI-C. A providência não implica produção de nova prova nem importa antecipação de juízo acerca da validade ou licitude do relatório, destinando-se, nas circunstâncias específicas da hipótese, a viabilizar o controle da regularidade do compartilhamento.
   > (TRF4, HC n. 5027157-97.2026.4.04.0000/PR, relator Desembargador Federal Ângelo Roberto Ilha da Silva, 7ª Turma, julgado em 15/9/2026, publicado em 16/9/2026.)
 
-## 22. RE nº 1.608.434 / ES (STF)
+## 23. RE nº 1.608.434 / ES (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Dias Toffoli. Plenário. Publicado em 15/09/2026.
 - Crime / Tema: Quebra de sigilo · Repercussão geral
 - Resumo: Tema 1.474/STF (repercussão geral reconhecida, mérito pendente). Discute se ordem judicial pode quebrar o sigilo telemático (conteúdo de e-mail e nuvem) para subsidiar fiscalização tributária, fora da investigação criminal (art. 5º, XII, da CF).
@@ -28,7 +34,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Repercussão geral em recurso extraordinário. Direito constitucional e tributário. Fiscalização da Administração Tributária para cobrança de tributo. Quebra de sigilo telemático por ordem judicial. Obtenção de conteúdo armazenado em conta de e-mail ou nuvem vinculada. Presença de matéria constitucional e de repercussão geral.
   > (STF, RE n. 1.608.434 RG/ES, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 24/8/2026, DJe de 15/9/2026.)
 
-## 23. AgRg no AREsp nº 3141827 / DF (STJ)
+## 24. AgRg no AREsp nº 3141827 / DF (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
 - Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
@@ -53,7 +59,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 11. Resultado do Julgamento: Agravo regimental provido para anular o julgamento e determinar a submissão do Agravante a novo julgamento perante o Conselho de Sentença.
   > (AgRg no AREsp n. 3.141.827/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/9/2026, DJEN de 14/9/2026.)
 
-## 24. AgRg no HC nº 1112658 / PR (STJ)
+## 25. AgRg no HC nº 1112658 / PR (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
 - Crime / Tema: Denunciação caluniosa · Perseguição · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
 - Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
@@ -74,25 +80,25 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 8. Resultado do Julgamento: Agravo regimental provido, com confirmação da decisão liminar para substituir a prisão preventiva por internação provisória e demais medidas cautelares diversas da prisão fixadas.
   > (AgRg no HC n. 1.112.658/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/9/2026, DJEN de 11/9/2026.)
 
-## 25. HC nº 276.724 / RS (STF)
+## 26. HC nº 276.724 / RS (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 10/09/2026.
 - Crime / Tema: Cabimento do HC
 - Resumo: A unirrecorribilidade não se aplica ao habeas corpus: a interposição de recurso especial contra o mesmo acórdão não impede o conhecimento do HC. Ordem concedida para o STJ julgar o mérito do HC.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276724.pdf
 
-## 26. REsp nº 2176719 / MG (STJ)
+## 27. REsp nº 2176719 / MG (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
 - Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
 - Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
 
-## 27. HC nº 1127513 / SP (STJ)
+## 28. HC nº 1127513 / SP (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
 - Crime / Tema: Falsidade ideológica · Alucinação de IA
 - Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
 
-## 28. REsp nº 2253784 / PA (STJ)
+## 29. REsp nº 2253784 / PA (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Estupro de vulnerável
 - Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
@@ -105,7 +111,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso especial provido para cassar o acórdão condenatório e restabelecer a sentença absolutória, em consonância com o parecer ministerial.
   > (REsp n. 2.253.784/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/9/2026, DJEN de 8/9/2026.)
 
-## 29. REsp nº 2059576 / MG (STJ)
+## 30. REsp nº 2059576 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
@@ -132,36 +138,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 12. Resultado do Julgamento: Recurso não provido.
   > Tese de julgamento: (Temas Repetitivos n. 1214 e n. 1154): "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa".
   > (REsp n. 2.059.576/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
-
-## 30. REsp nº 1963433 / SP (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
-- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
-- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Natureza e quantidade da droga são avaliadas juntas e uma única vez na dosimetria, de preferência para modular a fração do tráfico privilegiado. Usá-las para aumentar a pena-base e também para reduzir essa fração é bis in idem.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1963433.pdf
-- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1154.pdf
-- Ementa oficial:
-  > DIREITO PENAL. RECURSOS ESPECIAIS REPETITIVOS. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. TEMA 1154 E TEMA 1241 DA SISTEMÁTICA DOS RECURSOS REPETITIVOS. NATUREZA E QUANTIDADE DE ENTORPECENTES. DOSIMETRIA DA PENA. FIXAÇÃO DE TESE VINCULANTE. TESES FIXADAS; RECURSOS JULGADOS.
-  > I. Caso em exame
-  > 1. O julgamento conjunto. Julgamento conjunto, na sistemática dos recursos repetitivos, dos temas 1154 e 1241, para fixação de tese sobre: (i) uso da natureza e quantidade de drogas para afastar a minorante do art. 33, § 4º, da Lei 11.343/2006; e (ii) possibilidade de utilizar a quantidade e variedade de drogas apreendidas para definir a fração da minorante do tráfico privilegiado.
-  > 2. Fato relevante. Delimitação do Tema 712 da repercussão geral (STF) como premissa: “as circunstâncias da natureza e da quantidade da droga apreendida devem ser levadas em consideração apenas em uma das fases do cálculo da pena”, quando se trata de valoração negativa na pena-base e, simultaneamente, modulação da fração do redutor.
-  > 3. Casos representativos. Julgamento dos REsp 1963433-SP (tema 1154), REsp 1964296-MG (tema 1154), REsp 1963489-MS (tema 1154), REsp 2059577-MG (tema 1241) e REsp 2059576-MG (tema 1241). No REsp 1963433-SP, apreensão de 294 porções de crack, total aproximado de 249,8 g, com incidência de causa de aumento do art. 40, VI, da Lei 11.343/2006; no REsp 1964296-MG, apreensão de 1,934 kg de cocaína; no REsp 1963489-MS, apreensão de 99 kg de maconha, com incidência de causa de aumento do art. 40, V, da Lei 11.343/2006.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em: (i) saber se a natureza e a quantidade de drogas, isoladamente consideradas, podem servir como fundamento idôneo para afastar a minorante do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006); e (ii) saber se a quantidade e a variedade de drogas podem ser utilizadas para modular a fração de redução da minorante na terceira fase da dosimetria, e em que medida isso se compatibiliza com o Tema 712 da repercussão geral (STF) e com a vedação ao bis in idem.
-  > 5. Há duas questões adicionais em discussão: (i) saber se é possível valorar, preferencialmente, o binômio natureza-quantidade na terceira fase, deslocando-o da primeira fase sem configurar reformatio in pejus; e (ii) saber se é admissível a valoração simultânea do binômio, na primeira fase para exasperar a pena-base e, na terceira fase, para afastar a minorante, sem violação ao princípio do ne bis in idem.
-  > III. Razões de decidir
-  > 6. Firmou-se que natureza e quantidade constituem binômio incindível, devendo ser sempre valorados conjuntamente, vedada a fragmentação em vetores autônomos na dosimetria.
-  > 7. A premissa do Tema 712 (STF) impede a utilização concomitante do binômio natureza-quantidade para exasperar a pena-base e, simultaneamente, para modular a fração do redutor; não alcança, porém, a hipótese de uso para exasperar a pena-base e, ao mesmo tempo, afastar a incidência da minorante do § 4º do art. 33, o que não configura bis in idem por se tratar de fundamentos distintos.
-  > 8. Adota-se critério de especialidade: o binômio natureza-quantidade deve ser valorado preferencialmente na terceira fase para modular a fração do redutor, salvo quando a minorante não incidir, hipótese em que pode incidir na primeira fase para elevar a pena-base.
-  > 9. Não configura reformatio in pejus o deslocamento, em sede recursal de defesa, da valoração do binômio da primeira para a terceira fase, quando o tribunal passa a aplicar a minorante e utiliza a mesma circunstância apenas para modular a fração, sem aumento do quantum final da pena.
-  > 10. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
-  > 11. Aplicações concretas: (i) REsp 1963433-SP: mantida a negativa da minorante e o regime inicial mais gravoso, com causa de aumento do art. 40, VI; (ii) REsp 1964296-MG: afastada a minorante em razão da apreensão de 1,934 kg de cocaína, com fixação do regime inicial fechado; (iii) REsp 1963489-MS: mantida a negativa da minorante ante 99 kg de maconha e causa de aumento do art. 40, V.
-  > IV. Dispositivo e tese
-  > 12. Resultado do Julgamento: Teses fixadas nos temas 1154 e 1241; REsp 1963433-SP desprovido; REsp 1964296-MG provido; REsp 1963489-MS desprovido; REsp 2059577-MG e REsp 2059576-MG julgados nos termos do voto do relator, com fixação das teses.
-  > Tese de julgamento:
-  > 1. A natureza e a quantidade de drogas devem ser valoradas sempre de forma conjunta, como binômio incindível, vedada a aplicação separada em fases distintas da dosimetria.
-  > 2. A natureza e a quantidade de drogas devem ser valoradas preferencialmente na terceira fase da dosimetria para modular a fração da minorante do art. 33, § 4º, da Lei 11.343/2006, salvo quando a minorante não incidir, hipótese em que podem ser aplicadas na primeira fase para elevar a pena-base.
-  > 3. Caso a instância anterior tenha afastado a minorante e valorado o binômio na primeira fase, o tribunal, em recurso da defesa, ao aplicar o redutor, deve deslocar essa valoração para a terceira fase para modular a fração, sem configurar reformatio in pejus.
-  > 4. Não configura bis in idem considerar a natureza e a quantidade de drogas para aumentar a pena-base e, simultaneamente, como elemento fático para afastar a minorante do art. 33, § 4º, da Lei 11.343/2006; somente haverá bis in idem se o binômio for usado para elevar a pena-base e, ao mesmo tempo, para modular a fração da minorante.
-  > 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
-  > (REsp n. 1.963.433/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)

@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 11 de 11 (decisões 101 a 109)
+# Acervo de Jurisprudência — Cury Advogados — parte 11 de 11 (decisões 101 a 110)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 109 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 110 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,21 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 101. Inq nº 3.994 / DF (STF)
+## 101. REsp nº 1795341 / RS (STJ)
+- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
+- Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
+- Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1795341.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. ART. 305 DO CPM. NULIDADE. INTERCEPTAÇÃO TELEFÔNICA. PROVA EMPRESTADA. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. FALTA DE ACESSO À INTEGRALIDADE DAS CONVERSAS. EVIDENCIADO PELO TRIBUNAL DE ORIGEM A EXISTÊNCIA DE ÁUDIOS DESCONTINUADOS, SEM ORDENAÇÃO, SEQUENCIAL LÓGICA E COM OMISSÃO DE TRECHOS DA DEGRAVAÇÃO. FILTRAGEM ESTABELECIDA SEM A PRESENÇA DO DEFENSOR. NULIDADE RECONHECIDA. PRESCRIÇÃO CONFIGURADA. RECURSOS PROVIDOS. DECRETADA A EXTINÇÃO DA PUNIBILIDADE.
+  > 1. A quebra da cadeia de custódia tem como objetivo garantir a todos os acusados o devido processo legal e os recursos a ele inerentes, como a ampla defesa, o contraditório e principalmente o direito à prova lícita. O instituto abrange todo o caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade (RHC 77.836/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/02/2019, DJe 12/02/2019).
+  > 2. É dever o Estado a disponibilização da integralidade das conversas advindas nos autos de forma emprestada, sendo inadmissível a seleção pelas autoridades de persecução de partes dos áudios interceptados.
+  > 3. A apresentação de parcela do produto extraído dos áudios, cuja filtragem foi estabelecida sem a presença do defensor, acarreta ofensa ao princípio da paridade de armas e ao direito à prova, porquanto a pertinência do acervo probatório não pode ser realizado apenas pela acusação, na medida em que gera vantagem desarrazoada em detrimento da defesa.
+  > 4. Reconhecida a nulidade, inegável a superveniência da prescrição, com fundamento no art. 61 do CPP.
+  > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
+  > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
+
+## 102. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -28,7 +42,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 102. AgRg no Inq nº 1093 / DF (STJ)
+## 103. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -46,7 +60,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 103. REsp nº 1574681 / RS (STJ)
+## 104. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -70,7 +84,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 104. APn nº 746 / MT (STJ)
+## 105. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -87,7 +101,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 105. RE nº 603.616 / RO (STF)
+## 106. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -103,7 +117,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 106. HC nº 341790 / PR (STJ)
+## 107. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -119,7 +133,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 107. HC nº 127.483 / PR (STF)
+## 108. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -141,7 +155,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 108. Inq nº 4.130 QO / PR (STF)
+## 109. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
@@ -170,7 +184,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
 
-## 109. REsp nº 1388440 / ES (STJ)
+## 110. REsp nº 1388440 / ES (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
 - Crime / Tema: Crimes contra as relações de consumo · Prescrição
 - Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.
