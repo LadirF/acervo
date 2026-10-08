@@ -1,14 +1,42 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 4 de 12 (decisões 31 a 40)
+# Acervo de Jurisprudência — Cury Advogados — parte 4 de 13 (decisões 31 a 40)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1207/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 31. REsp nº 1963433 / SP (STJ)
+## 31. REsp nº 2059576 / MG (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
+- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Quantidade de droga, sozinha, só afasta o tráfico privilegiado se for tão expressiva que seja incompatível com o pequeno traficante. Fora disso, precisa de outros elementos concretos (profissionalismo, logística, estrutura de armazenamento).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2059576.pdf
+- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1241.pdf
+- Ementa oficial:
+  > DIREITO PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS. JULGAMENTO CONJUNTO DOS TEMAS REPETITIVOS N. 1241 E N. 1154. ART. 33, § 4º, DA LEI N. 11.343/2006. TRÁFICO PRIVILEGIADO. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO. MODULAÇÃO DA FRAÇÃO DE REDUÇÃO. ART. 42 DA LEI DE DROGAS. BIS IN IDEM. RECURSO ESPECIAL NÃO PROVIDO.
+  > I. Caso em exame
+  > 1. Recurso especial submetido ao rito dos recursos repetitivos, nos termos dos arts. 1.036 e seguintes do Código de Processo Civil.
+  > 2. A controvérsia originalmente afetada ao Tema Repetitivo n. 1241, relativa à possibilidade de utilização da natureza e da quantidade das drogas apreendidas para modulação da fração de redução prevista no art. 33, § 4º, da Lei n. 11.343/2006, foi apreciada conjuntamente com o Tema Repetitivo n. 1154, em razão da interdependência entre as matérias.
+  > 3. No caso concreto, o Tribunal de origem reconheceu a incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 e fixou a fração de redução em 1/6, considerando exclusivamente a quantidade da droga apreendida, sem que esse vetor tivesse sido utilizado na primeira fase da dosimetria.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em definir se a natureza e a quantidade das drogas apreendidas podem ser utilizadas para modular a fração de redução da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que não tenham sido valoradas na primeira fase da dosimetria.
+  > 5. Discute-se, ainda, em que hipóteses a natureza e a quantidade das drogas apreendidas podem fundamentar o afastamento da própria causa especial de diminuição, isoladamente ou em conjunto com outros elementos concretos reveladores da dedicação do agente a atividades criminosas ou de sua integração a organização criminosa.
+  > III. Razões de decidir
+  > 6. O julgamento conjunto dos Temas Repetitivos n. 1241 e n. 1154 permitiu uniformizar a interpretação do art. 33, § 4º, da Lei n. 11.343/2006 quanto ao papel desempenhado pela natureza e pela quantidade das drogas apreendidas tanto na aferição dos requisitos para incidência da causa especial de diminuição quanto na definição da respectiva fração de redução.
+  > 7. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante constitui fundamento idôneo para afastar a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+  > 8. Fora dessa hipótese excepcional, a natureza e a quantidade das drogas, isoladamente consideradas, não autorizam o afastamento da causa especial de diminuição, exigindo-se sua associação com outros elementos concretos do caso, como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento, aptos a evidenciar, mediante fundamentação específica, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
+  > 9. Reconhecida a incidência da causa especial de diminuição, a natureza e a quantidade das drogas apreendidas podem ser utilizadas para definir a fração de redução da pena, desde que não tenham sido valoradas na primeira fase da dosimetria, em observância à vedação ao bis in idem.
+  > 10. Não configura bis in idem a utilização da natureza e da quantidade das drogas como circunstância judicial negativa para exasperar a pena-base e, simultaneamente, como elemento indicativo da dedicação do agente a atividades criminosas ou de sua integração a organização criminosa para afastar a incidência da minorante. A duplicidade ocorre apenas quando essas mesmas circunstâncias são empregadas, concomitantemente, para majorar a pena-base e para modular a fração de redução da pena na terceira fase da dosimetria.
+  > 11. No caso concreto, a pena-base permaneceu fixada no mínimo legal, inexistindo dupla valoração na utilização da quantidade da droga exclusivamente para modular a fração da causa especial de diminuição, razão pela qual deve ser mantido o redutor no patamar de 1/6.
+  > IV. Dispositivo e tese
+  > 12. Resultado do Julgamento: Recurso não provido.
+  > Tese de julgamento: (Temas Repetitivos n. 1214 e n. 1154): "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa".
+  > (REsp n. 2.059.576/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
+
+## 32. REsp nº 1963433 / SP (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
@@ -41,7 +69,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
   > (REsp n. 1.963.433/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 32. REsp nº 2048687 / BA (STJ)
+## 33. REsp nº 2048687 / BA (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 08/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Tema repetitivo
 - Resumo: Tema 1.260/STJ — Pronúncia não pode se basear só em elementos do inquérito nem só em testemunho indireto (“ouvir dizer”), ainda que colhido em juízo. Em contextos de intimidação, facções ou silenciamento de testemunhas, o testemunho indireto qualificado pode ter maior relevo, sob controle judicial estrito.
@@ -57,31 +85,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 7. Recurso especial provido.
   > (REsp n. 2.048.687/BA, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/8/2026, DJEN de 8/9/2026.)
 
-## 33. HC nº 1095439 / SP (STJ)
+## 34. HC nº 1095439 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: são necessários elementos concretos de dedicação a atividades criminosas ou de integração a organização criminosa. A quantidade expressiva (86,6 kg de cocaína) só modula a fração, aplicada no mínimo (1/6). Pena reduzida para 5 anos, 2 meses e 15 dias, em regime semiaberto. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1095439.pdf
 
-## 34. HC nº 1104105 / SP (STJ)
+## 35. HC nº 1104105 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
 - Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
 
-## 35. RHC nº 243155 / SP (STJ)
+## 36. RHC nº 243155 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
 
-## 36. HC nº 276.144 / MS (STF)
+## 37. HC nº 276.144 / MS (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
 - Crime / Tema: Corrupção passiva · Dosimetria
 - Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
 
-## 37. AgRg no HC nº 1089462 / MG (STJ)
+## 38. AgRg no HC nº 1089462 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
 - Crime / Tema: Embriaguez ao volante · Excesso de prazo
 - Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
@@ -102,20 +130,14 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 8. Agravo regimental desprovido.
   > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)
 
-## 38. HC nº 1124321 / PR (STJ)
+## 39. HC nº 1124321 / PR (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
 
-## 39. RHC nº 243213 / SP (STJ)
+## 40. RHC nº 243213 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
 - Crime / Tema: Tráfico de drogas · Quebra de sigilo
 - Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
-
-## 40. HC nº 1121206 / PI (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf

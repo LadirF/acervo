@@ -1,14 +1,14 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 9 de 12 (decisões 81 a 90)
+# Acervo de Jurisprudência — Cury Advogados — parte 10 de 13 (decisões 91 a 100)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1207/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 81. HC nº 166.373 / PR (STF)
+## 91. HC nº 166.373 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Alexandre de Moraes. Plenário. Publicado em 18/05/2023.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
@@ -22,7 +22,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5.Habeas Corpus deferido, com a fixação da seguinte TESE: “Havendo pedido expresso da defesa no momento processual adequado (art. 403 do CPP e art. 11 da Lei 8.038/90), os réus têm o direito de apresentar suas alegações finais após a manifestação das defesas dos colaboradores, sob pena de nulidade”.
   > (STF, HC n. 166.373/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 30/11/2022, DJe de 18/5/2023.)
 
-## 82. AgRg no REsp nº 2009839 / MG (STJ)
+## 92. AgRg no REsp nº 2009839 / MG (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 16/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão
 - Resumo: Mandado de busca e apreensão de menor não autoriza vasculhar a casa: o art. 283, § 2º, do CPP manda respeitar a inviolabilidade do domicílio. O rádio comunicador só foi visto quando os policiais já estavam dentro. O ônus de provar o consentimento voluntário do morador é do Estado. Provas nulas.
@@ -37,7 +37,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 6. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.009.839/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/5/2023, DJe de 16/5/2023.)
 
-## 83. AgRg no AREsp nº 2223319 / MS (STJ)
+## 93. AgRg no AREsp nº 2223319 / MS (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: A confissão do réu, sozinha, não autoriza a entrada na casa, e a suspeita de que ali funcionava um ponto de tráfico também não. O consentimento do morador precisa ser livre e registrado por escrito (e em áudio e vídeo), o que não houve. Provas nulas e absolvição mantida.
@@ -50,7 +50,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > IV - No caso, as circunstâncias que ensejaram o ingresso policial na residência do agravado, decorreram de suspeitas de que na casa do réu funcionava ponto de tráfico de drogas, bem como de sua confissão. Ocorre que, a confissão do réu, por sí só, não autoriza a entrada dos policiais no domicílio, sendo necessário que a permissão conferida de forma livre e voluntária pelo morador seja registrada pela autoridade policial por escrito, o que não ocorreu na hipótese, razão pela qual foi reconhecida a nulidade da diligência e das provas dela decorrentes, com a consequente absolvição do recorrido. Agravo regimental desprovido.
   > (AgRg no AREsp n. 2.223.319/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023.)
 
-## 84. RvCr nº 1.0000.22.247560-0/000 (TJMG)
+## 94. RvCr nº 1.0000.22.247560-0/000 (TJMG)
 - Decisão colegiada. Relatora: Des.ª Beatriz Pinheiro Caires. 1º Grupo de Câmaras Criminais. Publicado em 12/05/2023.
 - Crime / Tema: Roubo · Revisão criminal
 - Resumo: Revisão criminal deferida porque a condenação por roubo contrariou a evidência dos autos: não há prova do dolo de subtrair (puxão na camisa da vítima durante briga entre torcidas). A falta de intimação pessoal do réu da sentença absolutória não gera nulidade quando a defesa teve ciência e contra-arrazoou. Voto vencido (V.V.): a revisão não serve para rediscutir prova.
@@ -62,7 +62,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > V. V.: A revisão criminal, que possibilita a superação da coisa julgada, destina-se à correção de erros judiciários, não se prestando à rediscussão de questões já superadas durante o curso regular da ação penal em duas instâncias.
   > (TJMG, Revisão Criminal n. 1.0000.22.247560-0/000, relatora Desembargadora Beatriz Pinheiro Caires, 1º Grupo de Câmaras Criminais, julgado em 10/5/2023, publicado em 12/5/2023.)
 
-## 85. AgRg no AREsp nº 2045772 / MG (STJ)
+## 95. AgRg no AREsp nº 2045772 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/04/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncias anônimas e uma busca pessoal sem nada encontrado não são fundadas razões para entrar na casa, e a autorização dada por corré (depois absolvida) não valida o ingresso. Provas nulas e réus absolvidos. Determinado o envio de cópias ao MP e à PM para apurar abuso de autoridade (art. 40 do CPP; arts. 22 e 23, II, da Lei 13.869/2019).
@@ -77,7 +77,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > VI - No caso presente, a atuação precipitada da polícia culminou na nulidade das provas colhidas, com a inutilização da apreensão de 533,34g de maconha, comprometendo a regularidade da persecução penal, o que certamente poderia ser evitado com as devidas investigações e diligências. Sob essa perspectiva, com esteio nos elementos fáticos subjacentes ao presente recurso, determina-se, com fundamento no artigo 40 do Código de Processo Penal, o envio de cópia dos presentes autos ao Ministério Público Federal e Estadual, ante a competência definida na ADPF 635 - MC, bem como a Polícia Militar, para apuração de infração aos artigos 22 e 23, II, ambos da Lei n. 13.869/2019, dentre outros possíveis crimes previstos no Código Penal, Código Penal Militar e legislação extravagante, com as imediatas providências cabíveis. Agravo regimental provido, para reconhecer a nulidade das provas obtidas mediante ingresso domiciliar sem mandado, bem como as provas derivadas, e absolver os agravantes das imputações contidas na denúncia (art. 386, VII, do CPP), remetendo-se, com esteio no artigo 40 do Código de Processo Penal, cópia dos presentes autos ao Ministério Público Federal e Estadual, para apuração de eventuais crimes, bem como a Polícia Militar, com a imediata comunicação a este Superior Tribunal de Justiça quanto às providências tomadas no âmbito da instituição de segurança pública.
   > (AgRg no AREsp n. 2.045.772/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
 
-## 86. ApCrim nº 1500466-02.2020.8.26.0621 (TJSP)
+## 96. ApCrim nº 1500466-02.2020.8.26.0621 (TJSP)
 - Decisão colegiada. Relator: Des. Guilherme de Souza Nucci. 16ª Câmara de Direito Criminal. Publicado em 03/04/2023.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima genérica, sem investigação prévia (campana com registro), sem flagrante de venda e sem urgência, não autoriza a entrada na casa. Também há dúvida sobre o consentimento dado pela mãe da moradora. Provas ilícitas e réus absolvidos (art. 386, VII, do CPP).
@@ -86,7 +86,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Apelação. Tráfico de drogas e associação ao tráfico. Pleito objetivando a ilicitude das provas obtidas a partir de denúncia anônima e posterior ingresso em domicílio, por policiais civis, com a consequente absolvição por falta de provas. Possibilidade. Apelantes que teriam guardado, em suas residências, 30 porções de maconha (51,2 g), 10 porções de cocaína (1,5 g) e uma porção menor de maconha (37,85 g), sem autorização e em desacordo com determinação legal e regulamentar. Ilegalidade da atuação policial no caso concreto. Diligência policial iniciada por meio de “denúncia anônima” genérica, não esclarecida quanto à sua origem e existência. Entrada na residência da recorrente que ocorreu sem nenhuma diligência prévia de investigação policial, como o acompanhamento do movimento no imóvel por meio de campanas, com registro documental, ou mesmo o flagrante de uma atividade de mercancia ilícita, não se demonstrando sequer a urgência necessária para a excepcional invasão da residência naquele momento específico por parte dos policiais militares. Dúvidas acerca da existência do suposto consentimento oferecido pela genitora da apelante, quanto à entrada dos policiais no local. Circunstâncias do caso concreto que, em seu conjunto, demonstram a ilicitude da entrada dos policiais no imóvel da recorrente e, por consequência, da apreensão dos entorpecentes. Precedentes do STF e do STJ. Assim, tendo em vista a inadmissibilidade de utilização de tais elementos de prova ilícitos, resta frágil e insuficiente o acervo probatório amealhado para comprovação dos crimes, sendo de rigor a absolvição dos apelantes, nos termos do art. 386, inciso VII, do CPP. Recursos providos.
   > (TJSP, Apelação Criminal n. 1500466-02.2020.8.26.0621, relator Desembargador Guilherme de Souza Nucci, 16ª Câmara de Direito Criminal, julgado em 28/3/2023, publicado em 3/4/2023.)
 
-## 87. AgRg no AREsp nº 2249976 / SP (STJ)
+## 97. AgRg no AREsp nº 2249976 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
 - Crime / Tema: Receptação · Ato infracional (ECA)
 - Resumo: Adolescente que era só carona da moto receptada, sem estar na posse do bem nem haver prova de que a recebeu ou de que agiu em concurso: a conduta é atípica. Mantida a improcedência da representação (ato infracional análogo à receptação).
@@ -98,13 +98,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
 
-## 88. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
+## 98. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
 - Crime / Tema: Tráfico de drogas
 - Resumo: O réu não foi preso em flagrante, os policiais não presenciaram venda e não havia outra prova além da denúncia anônima e dos depoimentos policiais. Depoimento policial só sustenta condenação quando harmônico com as demais provas. Réu absolvido do tráfico (in dubio pro reo).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2167621.pdf
 
-## 89. AgRg no RHC nº 143169 / RJ (STJ)
+## 99. AgRg no RHC nº 143169 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto; redator do acórdão: Min. Ribeiro Dantas. Quinta Turma. Publicado em 02/03/2023.
 - Crime / Tema: Furto · Organização criminosa · Lavagem de dinheiro · Quebra da cadeia de custódia · Prova digital
 - Resumo: Quebra da cadeia de custódia da prova digital: a polícia não documentou a apreensão e a análise dos computadores, sem imagem bit a bit nem hash. É ônus do Estado provar a integridade da prova. São inadmissíveis as provas extraídas e as delas derivadas, e a exigência vale mesmo para fatos anteriores ao Pacote Anticrime.
@@ -122,7 +122,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 9. Agravo regimental parcialmente provido, para prover também em parte o recurso ordinário em habeas corpus e declarar a inadmissibilidade das provas em questão.
   > (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023.)
 
-## 90. HC nº 776885 / MG (STJ)
+## 100. HC nº 776885 / MG (STJ)
 - Decisão monocrática. Relator: Min. Jesuíno Rissato (Des. convocado do TJDFT). Sexta Turma. Publicado em 14/02/2023.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima e "características físicas" do suspeito não configuram fundada suspeita para a busca pessoal (art. 244 do CPP), e o ingresso na casa que se seguiu também não tinha fundadas razões. Provas nulas, inclusive as da casa. Ação penal trancada, com extensão ao corréu (art. 580 do CPP).

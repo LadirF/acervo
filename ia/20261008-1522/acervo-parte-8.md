@@ -1,14 +1,14 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 7 de 12 (decisões 61 a 70)
+# Acervo de Jurisprudência — Cury Advogados — parte 8 de 13 (decisões 71 a 80)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1207/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. AgRg no REsp nº 2173273 / MG (STJ)
+## 71. AgRg no REsp nº 2173273 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
@@ -22,13 +22,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
 
-## 62. Rcl nº 80.133 / PR (STF)
+## 72. Rcl nº 80.133 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
 - Crime / Tema: Prova digital · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf
 
-## 63. AgRg no AREsp nº 2243364 / MG (STJ)
+## 73. AgRg no AREsp nº 2243364 / MG (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
@@ -52,7 +52,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
   > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
 
-## 64. AgRg no RHC nº 189376 / MT (STJ)
+## 74. AgRg no RHC nº 189376 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
 - Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
@@ -65,31 +65,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Agravo regimental desprovido.
   > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
 
-## 65. HC nº 978977 / PE (STJ)
+## 75. HC nº 978977 / PE (STJ)
 - Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
 
-## 66. AgRg no AREsp nº 2697575 / RJ (STJ)
+## 76. AgRg no AREsp nº 2697575 / RJ (STJ)
 - Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
 - Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf
 
-## 67. HC nº 840695 / PB (STJ)
+## 77. HC nº 840695 / PB (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/02/2025.
 - Crime / Tema: Estelionato · Continuidade delitiva · Dosimetria
 - Resumo: Pirâmide financeira: os 41 estelionatos, praticados do mesmo modo e em sequência, configuram crime continuado, e não concurso material. Em vez de somar as penas, aplica-se uma só pena aumentada. Continuidade reconhecida de ofício, com pena final de 3 anos e 4 meses em regime semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
 
-## 68. AREsp nº 2508013 / MG (STJ)
+## 78. AREsp nº 2508013 / MG (STJ)
 - Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 29/01/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A pronúncia não pode se basear só em elementos do inquérito e em testemunhos de "ouvir dizer" (art. 155 do CPP). O in dubio pro societate não supre lacuna de prova. Detectado o vício na própria pronúncia, não cabe sequer submeter o réu a novo Júri. Réu despronunciado de ofício, mesmo depois da condenação.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2508013.pdf
 
-## 69. HC nº 943710 / SC (STJ)
+## 79. HC nº 943710 / SC (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
 - Crime / Tema: Crimes contra o sistema financeiro · RIF · Competência
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
@@ -105,7 +105,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 7. Ordem concedida parcialmente para reconhecer a ilicitude da solicitação direta dos Relatórios de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos deles derivados, cabendo ao Juízo de primeiro grau identificá-los, procedendo ao seu desentranhamento, além de analisar se persiste a justa causa para o trâmite da ação penal na sua ausência.
   > (HC n. 943.710/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
 
-## 70. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
+## 80. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
 - Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
 - Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.

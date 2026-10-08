@@ -1,14 +1,14 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 11 de 12 (decisões 101 a 110)
+# Acervo de Jurisprudência — Cury Advogados — parte 12 de 13 (decisões 111 a 120)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1207/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 101. REsp nº 1871856 / SE (STJ)
+## 111. REsp nº 1871856 / SE (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
@@ -21,7 +21,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
   > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
 
-## 102. AgRg no HC nº 157.627 / PR (STF)
+## 112. AgRg no HC nº 157.627 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
@@ -34,7 +34,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > IV – Agravo regimental provido, para conhecer e conceder a ordem.
   > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
 
-## 103. REsp nº 1795341 / RS (STJ)
+## 113. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -48,7 +48,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 104. Inq nº 3.994 / DF (STF)
+## 114. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -68,7 +68,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 105. AgRg no Inq nº 1093 / DF (STJ)
+## 115. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -86,7 +86,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 106. REsp nº 1574681 / RS (STJ)
+## 116. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -110,7 +110,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 107. APn nº 746 / MT (STJ)
+## 117. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -127,7 +127,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 108. RE nº 603.616 / RO (STF)
+## 118. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -143,7 +143,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 109. HC nº 341790 / PR (STJ)
+## 119. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -159,7 +159,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 110. HC nº 127.483 / PR (STF)
+## 120. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada

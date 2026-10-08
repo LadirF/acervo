@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 3 de 12 (decisões 21 a 30)
+# Acervo de Jurisprudência — Cury Advogados — parte 3 de 13 (decisões 21 a 30)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,13 +8,42 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 21. REsp nº 2279989 / PR (STJ)
+## 21. AgRg no AREsp nº 3203005 / MT (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 17/09/2026.
+- Crime / Tema: Porte ilegal de munição · Fundada suspeita
+- Resumo: Busca veicular ilícita: vidros escuros, região associada ao tráfico e fiscalização de rotina não configuram fundada suspeita. Provas desentranhadas e absolvição (porte de munição).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3203005.pdf
+- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-aresp-3203005.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA VEICULAR SEM FUNDADAS SUSPEITAS. PROVAS ILÍCITAS. ABSOLVIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Parquet federal contra decisão que, no agravo em recurso especial, conheceu do recurso especial da defesa e deu-lhe provimento para reconhecer a ilicitude das provas decorrentes de busca veicular, com a consequente absolvição do acusado da imputação da prática do delito previsto no art. 14, caput, da Lei n. 10.826/2003.
+  > 2. O acórdão recorrido do Tribunal local afastou a nulidade das provas obtidas em contexto de busca veicular, entendendo legitimadas pela combinação de: vidros demasiadamente escuros no veículo; circulação em região periférica associada ao tráfico de entorpecentes; e fiscalização de rotina, tendo havido apreensão de munições. O Agravante sustenta a existência de fundadas suspeitas e afirma que as munições estariam no bolso do réu.
+  > 3. A decisão agravada reformou o acórdão ao concluir inexistirem elementos objetivos, concretos e anteriores à diligência aptos a justificar a busca pessoal/veicular.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em saber as alegações de infração de trânsito (vidros escuros), de localidade suspeita (região periférica comumente associada ao tráfico) e de fiscalização de rotina autorizariam a realização de busca pessoal/veicular sem mandado judicial, à luz dos arts. 240, § 2º, e 244 do CPP.
+  > 5. A questão em discussão consiste, ainda, em saber se a ilicitude da diligência acarreta o desentranhamento dos elementos de convicção e a absolvição, nos termos do art. 386, II, do CPP.
+  > III. Razões de decidir
+  > 6. Busca pessoal, e por analogia busca veicular, sem mandado judicial exige fundada suspeita demonstrada por elementos objetivos, concretos e anteriores à diligência, referíveis à posse de arma proibida, objetos ou papéis que constituam corpo de delito; impressões subjetivas, diligência exploratória, circulação em local reputado como de tráfico ou circunstâncias administrativas desvinculadas da suspeita de prática delitiva não satisfazem o standard legal (CPP, arts. 240, § 2º, e 244).
+  > 7. A existência de película automotiva irregular justifica abordagem e fiscalização administrativa do veículo no exercício do poder de polícia de trânsito, mas não autoriza, por si só, a realização de busca pessoal/veicular de natureza probatória penal sem fundadas suspeitas.
+  > 8. Referência genérica ao tráfego em região periférica ou conhecida pela prática de tráfico de entorpecentes não configura fundada suspeita concreta, sob pena de legitimar abordagens invasivas com motivação exploratória incompatíveis com as garantias do art. 244 do CPP.
+  > 9. Ausentes, na moldura fática estabelecida, elementos objetivos anteriores à busca (v.g., tentativa de fuga, comportamento evasivo, denúncia específica, informação concreta sobre veículo/ocupantes, visualização de objeto ilícito, descarte de material suspeito, odor de entorpecente, nervosismo incomum associado a outros dados), não há amparo para as diligências policiais.
+  > 10. A irregularidade da diligência impõe o desentranhamento das provas obtidas e das delas derivadas, com a absolvição por ausência de provas lícitas suficientes, nos termos do art. 386, II, do CPP.
+  > 11. O Agravante não apresentou elementos capazes de infirmar os fundamentos da decisão agravada, razão pela qual se mantém a reforma do acórdão recorrido.
+  > IV. Dispositivo e tese
+  > 12. Resultado do Julgamento: Agravo regimental desprovido.
+  > Tese de julgamento:
+  > 1. A abordagem administrativa de trânsito não autoriza, por si só, busca pessoal ou veicular, que exige fundada suspeita objetiva, concreta e anterior, referível à posse de corpo de delito.
+  > 2. Circunstâncias genéricas como película escura nos vidros, circulação em região periférica e fiscalização de rotina não constituem justa causa para busca pessoal/veicular de natureza probatória.
+  > (AgRg no AREsp n. 3.203.005/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/8/2026, DJEN de 17/9/2026.)
+
+## 22. REsp nº 2279989 / PR (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A pronúncia não pode se apoiar só em elementos do inquérito e em testemunho indireto (art. 155 do CPP): sem prova judicial de autoria, impõe-se a impronúncia. Restabelecida a sentença de impronúncia (homicídio qualificado).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2279989.pdf
 
-## 22. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
+## 23. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
 - Decisão colegiada. Relator: Des. Fed. Ângelo Roberto Ilha da Silva. 7ª Turma. Publicado em 16/09/2026.
 - Crime / Tema: Quebra de sigilo · RIF · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito de acessar o registro, no sistema SEI-C, do pedido que originou o RIF, para verificar se já havia investigação formal instaurada quando o relatório foi solicitado ao COAF. Isso não dá acesso aos sistemas da acusação nem antecipa juízo sobre a licitude do RIF.
@@ -25,7 +54,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. No caso concreto, em que os elementos constantes dos autos não permitem identificar a data da solicitação que deu origem ao RIF nem aferir se, naquele momento, havia procedimento investigatório formalmente instaurado, mostra-se cabível assegurar à defesa o acesso ao registro da comunicação realizada por meio do Sistema Eletrônico de Intercâmbio – SEI-C. A providência não implica produção de nova prova nem importa antecipação de juízo acerca da validade ou licitude do relatório, destinando-se, nas circunstâncias específicas da hipótese, a viabilizar o controle da regularidade do compartilhamento.
   > (TRF4, HC n. 5027157-97.2026.4.04.0000/PR, relator Desembargador Federal Ângelo Roberto Ilha da Silva, 7ª Turma, julgado em 15/9/2026, publicado em 16/9/2026.)
 
-## 23. RE nº 1.608.434 / ES (STF)
+## 24. RE nº 1.608.434 / ES (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Dias Toffoli. Plenário. Publicado em 15/09/2026.
 - Crime / Tema: Quebra de sigilo · Repercussão geral
 - Resumo: Tema 1.474/STF (repercussão geral reconhecida, mérito pendente). Discute se ordem judicial pode quebrar o sigilo telemático (conteúdo de e-mail e nuvem) para subsidiar fiscalização tributária, fora da investigação criminal (art. 5º, XII, da CF).
@@ -34,7 +63,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Repercussão geral em recurso extraordinário. Direito constitucional e tributário. Fiscalização da Administração Tributária para cobrança de tributo. Quebra de sigilo telemático por ordem judicial. Obtenção de conteúdo armazenado em conta de e-mail ou nuvem vinculada. Presença de matéria constitucional e de repercussão geral.
   > (STF, RE n. 1.608.434 RG/ES, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 24/8/2026, DJe de 15/9/2026.)
 
-## 24. AgRg no AREsp nº 3141827 / DF (STJ)
+## 25. AgRg no AREsp nº 3141827 / DF (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
 - Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
@@ -59,7 +88,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Resultado do Julgamento: Agravo regimental provido para anular o julgamento e determinar a submissão do Agravante a novo julgamento perante o Conselho de Sentença.
   > (AgRg no AREsp n. 3.141.827/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/9/2026, DJEN de 14/9/2026.)
 
-## 25. AgRg no HC nº 1112658 / PR (STJ)
+## 26. AgRg no HC nº 1112658 / PR (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
 - Crime / Tema: Denunciação caluniosa · Perseguição · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
 - Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
@@ -80,25 +109,25 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Resultado do Julgamento: Agravo regimental provido, com confirmação da decisão liminar para substituir a prisão preventiva por internação provisória e demais medidas cautelares diversas da prisão fixadas.
   > (AgRg no HC n. 1.112.658/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/9/2026, DJEN de 11/9/2026.)
 
-## 26. HC nº 276.724 / RS (STF)
+## 27. HC nº 276.724 / RS (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 10/09/2026.
 - Crime / Tema: Cabimento do HC
 - Resumo: A unirrecorribilidade não se aplica ao habeas corpus: a interposição de recurso especial contra o mesmo acórdão não impede o conhecimento do HC. Ordem concedida para o STJ julgar o mérito do HC.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276724.pdf
 
-## 27. REsp nº 2176719 / MG (STJ)
+## 28. REsp nº 2176719 / MG (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
 - Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
 - Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
 
-## 28. HC nº 1127513 / SP (STJ)
+## 29. HC nº 1127513 / SP (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
 - Crime / Tema: Falsidade ideológica · Alucinação de IA
 - Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
 
-## 29. REsp nº 2253784 / PA (STJ)
+## 30. REsp nº 2253784 / PA (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Estupro de vulnerável
 - Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
@@ -110,31 +139,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. As circunstâncias singularíssimas do caso autorizam, excepcionalmente, o reconhecimento da atipicidade material da conduta, mediante distinguishing do Tema Repetitivo n. 918/STJ e da Súmula 593/STJ.
   > 4. Recurso especial provido para cassar o acórdão condenatório e restabelecer a sentença absolutória, em consonância com o parecer ministerial.
   > (REsp n. 2.253.784/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/9/2026, DJEN de 8/9/2026.)
-
-## 30. REsp nº 2059576 / MG (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
-- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
-- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Quantidade de droga, sozinha, só afasta o tráfico privilegiado se for tão expressiva que seja incompatível com o pequeno traficante. Fora disso, precisa de outros elementos concretos (profissionalismo, logística, estrutura de armazenamento).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2059576.pdf
-- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1241.pdf
-- Ementa oficial:
-  > DIREITO PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS. JULGAMENTO CONJUNTO DOS TEMAS REPETITIVOS N. 1241 E N. 1154. ART. 33, § 4º, DA LEI N. 11.343/2006. TRÁFICO PRIVILEGIADO. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO. MODULAÇÃO DA FRAÇÃO DE REDUÇÃO. ART. 42 DA LEI DE DROGAS. BIS IN IDEM. RECURSO ESPECIAL NÃO PROVIDO.
-  > I. Caso em exame
-  > 1. Recurso especial submetido ao rito dos recursos repetitivos, nos termos dos arts. 1.036 e seguintes do Código de Processo Civil.
-  > 2. A controvérsia originalmente afetada ao Tema Repetitivo n. 1241, relativa à possibilidade de utilização da natureza e da quantidade das drogas apreendidas para modulação da fração de redução prevista no art. 33, § 4º, da Lei n. 11.343/2006, foi apreciada conjuntamente com o Tema Repetitivo n. 1154, em razão da interdependência entre as matérias.
-  > 3. No caso concreto, o Tribunal de origem reconheceu a incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 e fixou a fração de redução em 1/6, considerando exclusivamente a quantidade da droga apreendida, sem que esse vetor tivesse sido utilizado na primeira fase da dosimetria.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em definir se a natureza e a quantidade das drogas apreendidas podem ser utilizadas para modular a fração de redução da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que não tenham sido valoradas na primeira fase da dosimetria.
-  > 5. Discute-se, ainda, em que hipóteses a natureza e a quantidade das drogas apreendidas podem fundamentar o afastamento da própria causa especial de diminuição, isoladamente ou em conjunto com outros elementos concretos reveladores da dedicação do agente a atividades criminosas ou de sua integração a organização criminosa.
-  > III. Razões de decidir
-  > 6. O julgamento conjunto dos Temas Repetitivos n. 1241 e n. 1154 permitiu uniformizar a interpretação do art. 33, § 4º, da Lei n. 11.343/2006 quanto ao papel desempenhado pela natureza e pela quantidade das drogas apreendidas tanto na aferição dos requisitos para incidência da causa especial de diminuição quanto na definição da respectiva fração de redução.
-  > 7. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante constitui fundamento idôneo para afastar a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
-  > 8. Fora dessa hipótese excepcional, a natureza e a quantidade das drogas, isoladamente consideradas, não autorizam o afastamento da causa especial de diminuição, exigindo-se sua associação com outros elementos concretos do caso, como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento, aptos a evidenciar, mediante fundamentação específica, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
-  > 9. Reconhecida a incidência da causa especial de diminuição, a natureza e a quantidade das drogas apreendidas podem ser utilizadas para definir a fração de redução da pena, desde que não tenham sido valoradas na primeira fase da dosimetria, em observância à vedação ao bis in idem.
-  > 10. Não configura bis in idem a utilização da natureza e da quantidade das drogas como circunstância judicial negativa para exasperar a pena-base e, simultaneamente, como elemento indicativo da dedicação do agente a atividades criminosas ou de sua integração a organização criminosa para afastar a incidência da minorante. A duplicidade ocorre apenas quando essas mesmas circunstâncias são empregadas, concomitantemente, para majorar a pena-base e para modular a fração de redução da pena na terceira fase da dosimetria.
-  > 11. No caso concreto, a pena-base permaneceu fixada no mínimo legal, inexistindo dupla valoração na utilização da quantidade da droga exclusivamente para modular a fração da causa especial de diminuição, razão pela qual deve ser mantido o redutor no patamar de 1/6.
-  > IV. Dispositivo e tese
-  > 12. Resultado do Julgamento: Recurso não provido.
-  > Tese de julgamento: (Temas Repetitivos n. 1214 e n. 1154): "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa".
-  > (REsp n. 2.059.576/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)

@@ -1,14 +1,14 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 10 de 12 (decisões 91 a 100)
+# Acervo de Jurisprudência — Cury Advogados — parte 11 de 13 (decisões 101 a 110)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1207/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 91. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
+## 101. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
 - Decisão colegiada. Relator: Des. André Carvalho e Silva de Almeida. 1º Grupo de Direito Criminal. Publicado em 03/02/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Revisão criminal
 - Resumo: Revisão deferida contra condenação do Júri manifestamente contrária à prova: não havia testemunha presencial, a vítima não foi ouvida em juízo e as testemunhas nada disseram contra os réus. Absolvição por falta de prova da autoria (art. 386, V, do CPP), estendida ao corréu.
@@ -17,7 +17,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Revisão Criminal – Júri – Decisão manifestamente contrário à prova dos autos – Inexistência de testemunhas presenciais – Vítima não ouvida em juízo – Testemunhas que nada disseram contra os denunciados – Revisão deferida para absolver.
   > (TJSP, Revisão Criminal n. 0019378-10.2021.8.26.0000, relator Desembargador André Carvalho e Silva de Almeida, 1º Grupo de Direito Criminal, julgado em 27/1/2023, publicado em 3/2/2023.)
 
-## 92. HC nº 762932 / SP (STJ)
+## 102. HC nº 762932 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Antecedente por tráfico, sozinho, não autoriza busca domiciliar; admitir isso seria Direito Penal do autor. O réu já estava preso por porte de arma na rua, sozinho, diante de policiais armados e sem defesa: nessas condições, o consentimento para a busca com cães farejadores não é crível nem válido (coação ambiental), e cabe ao Estado prová-lo. Foi uma pescaria probatória (fishing expedition). Réu absolvido do tráfico; mantida a condenação pela arma, apreendida antes e fora da casa.
@@ -45,7 +45,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 19. Ordem concedida para, considerando que não houve fundadas razões, tampouco comprovação de consentimento válido para a realização de buscas por drogas no domicílio do paciente, reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram, e, por conseguinte, absolvê-lo em relação à prática do delito de tráfico de drogas.
   > (HC n. 762.932/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 30/11/2022.)
 
-## 93. AgRg no HC nº 731882 / AM (STJ)
+## 103. AgRg no HC nº 731882 / AM (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Revisão criminal
 - Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
@@ -59,13 +59,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
   > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
 
-## 94. HC nº 221.204 / MG (STF)
+## 104. HC nº 221.204 / MG (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 24/10/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Cabimento do HC
 - Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
 
-## 95. RHC nº 147043 / SP (STJ)
+## 105. RHC nº 147043 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
 - Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
@@ -78,7 +78,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
   > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
 
-## 96. HC nº 653515 / RJ (STJ)
+## 106. HC nº 653515 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
 - Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
@@ -102,7 +102,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
   > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
 
-## 97. HC nº 660930 / SP (STJ)
+## 107. HC nº 660930 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. Vencido, em parte, o relator, que anulava as provas da busca pessoal (motivada, a seu ver, pela cor da pele) e absolvia o paciente.
@@ -122,7 +122,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
   > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
 
-## 98. RE nº 1.301.250 / RJ (STF)
+## 108. RE nº 1.301.250 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
 - Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
 - Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
@@ -134,7 +134,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 2. Repercussão geral reconhecida.
   > (STF, RE n. 1.301.250 RG/RJ, relatora Ministra Rosa Weber, Tribunal Pleno, julgado em 27/5/2021, DJe de 8/6/2021.)
 
-## 99. HC nº 611918 / SP (STJ)
+## 109. HC nº 611918 / SP (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
@@ -146,7 +146,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
   > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
 
-## 100. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 110. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.

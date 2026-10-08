@@ -1,68 +1,14 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 6 de 12 (decisões 51 a 60)
+# Acervo de Jurisprudência — Cury Advogados — parte 7 de 13 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 123 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1207/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1522/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. AgRg no REsp nº 2237192 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/03/2026.
-- Crime / Tema: Manipulação de mercado · Imparcialidade do juiz
-- Resumo: Suspeição de juiz acionista da empresa ligada à investigação (manipulação de mercado): a parcialidade é aferível objetivamente, e o prejuízo decorre dela. Mantida a anulação de todos os atos do magistrado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2237192.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. INCOMPETÊNCIA DO RELATOR. PREVENÇÃO NÃO OBSERVADA. JULGAMENTO DE MÉRITO DO RECURSO. PRECLUSÃO DA ALEGAÇÃO. ART. 71, § 4º, RISTJ. 2. OFENSA AO ART. 563 DO CPP. SUSPEIÇÃO DO MAGISTRADO. ACIONÁRIO DE EMPRESA RELACIONADA COM A INVESTIGAÇÃO. PARCIALIDADE AFERÍVEL OBJETIVAMENTE. PREJUÍZO DEMONOSTRADO. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
-  > 1. Quanto à alegada incompetência deste relator, registro que a distribuição interna do STJ tem natureza relativa, motivo pelo qual eventual prevenção não reconhecida ou reconhecida equivocadamente deve ser suscitada até o início do julgamento, sob pena de preclusão. Com efeito, "o entendimento do STJ é de que a prevenção deve ser suscitada no primeiro momento em que a parte tiver oportunidade, que no caso é a própria distribuição do recurso, ou até o instante que precede o início do seu julgamento". (EDcl no AgRg no AREsp n. 150.035/DF, relator Ministro Humberto Martins, relator para acórdão Ministro Herman Benjamin, Segunda Turma, julgado em 10/11/2015, DJe de 2/2/2017.)
-  > 2. A alegação ministerial consiste em suposta ofensa ao art. 563 do CPP, por considerar que os atos foram anulados sem que se perquirisse a respeito do efetivo prejuízo. Contudo, conforme explicitado na decisão monocrática, a suspeição do magistrado foi verificada em razão de ele possuir 47 participações acionárias da Companhia em que se investigava a divulgação indevida de informações no mercado.
-  > - Nesse contexto, o acórdão recorrido consignou que "a condição que deu causa à mencionada suspeição já existia desde antes da instauração do IPL originário (sendo preexistente portanto ao início das investigações policiais), de modo que atinge todos os atos proferidos pelo Magistrado Dr. VITOR BARBOSA VALPUESTA naquele feito e nos correlacionados, por razões que, como visto acima, são bastante objetivas" (e-STJ fl. 228).
-  > - Como visto, a Corte Regional, ao analisar o caso concreto, considerou que o fato de o juiz ser acionista da IRB BRASIL RESSEGUROS - companhia relacionada à investigação, uma vez que se averiguava a desvalorização de cotações de ações da companhia em virtude de divulgação indevida de informações supostamente inverídicas ao mercado - já revelava o prejuízo, diante da ausência de imparcialidade aferível objetivamente. Dessa forma, não há se falar em ofensa ao art. 563 do CPP.
-  > 3. Agravo regimental a que se nega provimento.
-  > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)
-
-## 52. AgRg no HC nº 1017481 / RN (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 12/03/2026.
-- Crime / Tema: Tráfico de drogas · Prova digital · Fundada suspeita · Cabimento do HC
-- Resumo: O acesso da polícia às conversas do celular do corréu sem autorização judicial é ilícito. Essa prova e as dela derivadas devem ser desentranhadas, cabendo ao juízo verificar se há prova independente que sustente a condenação. A busca pessoal, feita com fundada suspeita, foi considerada válida (art. 244 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1017481.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA PESSOAL E ACESSO A DADOS DE CELULAR SEM AUTORIZAÇÃO JUDICIAL. PROVAS ILÍCITAS. AGRAVO PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão transitado em julgado.
-  > 2. O agravante sustenta a ocorrência de flagrante ilegalidade na busca pessoal realizada sem fundada suspeita e no acesso ao conteúdo do celular do corréu sem autorização judicial, o que teria resultado na sua identificação como autor do crime de tráfico de drogas.
-  > 3. Requer a reconsideração da decisão recorrida para que seja reconhecida a invalidade das provas obtidas ilegalmente, ou, subsidiariamente, a apreciação pela Quinta Turma para concessão da ordem.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 4. Há duas questões em discussão: (i) saber se a busca pessoal foi realizada sem fundada suspeita; e (ii) saber se o acesso ao conteúdo do celular do corréu, sem autorização judicial, configura prova ilícita e se as provas derivadas devem ser desentranhadas dos autos.
-  > III. RAZÕES DE DECIDIR
-  > 5. A busca pessoal foi realizada com base em policiamento ostensivo e fundada suspeita, conforme previsto no art. 244 do Código de Processo Penal, sendo legítima a revista que resultou na apreensão de porções de cocaína com o corréu.
-  > 6. O acesso aos históricos de mensagens e conversas do celular do corréu, realizado diretamente pela polícia sem autorização judicial, configura prova ilícita, conforme entendimento consolidado pelo Superior Tribunal de Justiça.
-  > 7. As provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
-  > 8. Cabe ao juízo de primeira instância verificar a existência de prova independente e suficiente para eventual manutenção da condenação pelo delito de tráfico de drogas.
-  > IV. DISPOSITIVO E TESE
-  > 9. Resultado do Julgamento: Agravo provido para declarar a nulidade das provas obtidas mediante acesso ao conteúdo do celular do corréu sem autorização judicial, bem como de todas as provas delas decorrentes.
-  > Tese de julgamento:
-  > 1. A busca pessoal é legítima quando realizada com base em policiamento ostensivo e fundada suspeita, nos termos do art. 244 do Código de Processo Penal.
-  > 2. É ilícito o acesso as conversas mantidas em aparelho celular diretamente por autoridades policiais sem prévia autorização judicial.
-  > 3. Provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
-  > (AgRg no HC n. 1.017.481/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
-
-## 53. RHC nº 223931 / PE (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
-- Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-223931.pdf
-- Ementa oficial:
-  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. OCORRÊNCIA. RECURSO PROVIDO.
-  > 1. O trancamento da ação penal, somente é possível, na via estreita do habeas corpus ou do seu respectivo recurso ordinário em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de materialidade ou de autoria delitiva.
-  > 2. Limitando-se a peça acusatória a genericamente imputar as condutas de tráfico e associação para o tráfico, sem qualquer descrição concreta da suposta coordenação, da divisão específica de tarefas ou do vínculo estável entre os réus, verifica-se a inobservância dos requisitos previstos no art. 41 do CPP.
-  > 3. A mera referência a registros policiais pretéritos e a apreensões desacompanhadas de indicação precisa de datas, locais e circunstâncias dos fatos não supre a exigência legal de descrição mínima apta a demonstrar a justa causa.
-  > 4. A generalidade da imputação compromete o exercício da ampla defesa e do contraditório, impondo o reconhecimento da inépcia da denúncia, com extensão aos demais denunciados, nos termos do art. 580 do CPP.
-  > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
-  > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
-
-## 54. APn nº 927 / DF (STJ)
+## 61. APn nº 927 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Isabel Gallotti. Corte Especial. Publicado em 10/03/2026.
 - Crime / Tema: Lavagem de dinheiro · Prescrição
 - Resumo: A lavagem é crime autônomo: pode ser julgada antes do crime antecedente (corrupção e organização criminosa), bastando prova da infração antecedente, ainda que prescrita (art. 2º, II e § 1º, da Lei 9.613/1998). Na modalidade "ocultar", é permanente, e a prescrição corre da descoberta dos valores. A majorante do art. 1º, § 4º, só incide se a própria lavagem for praticada por organização criminosa. O dano moral coletivo exige ação própria. Conselheiro do TCE-RJ condenado a 13 anos e a esposa a 3 anos e 8 meses, com absolvições parciais. Vencidos quatro ministros, entre eles o revisor, que absolviam os réus.
@@ -88,7 +34,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 17. Ação penal julgada procedente em parte, porque: (a) absolvida a corré quanto às imputações do conjunto de fatos 1; (b) afastada a continuidade delitiva alegada quanto ao conjunto de fatos 2, beneficiando ambos os réus; (c) absolvidos ambos os réus quanto às imputações do conjunto de fatos 3.
   > (APn n. 927/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 4/2/2026, DJEN de 10/3/2026.)
 
-## 55. AgRg no AREsp nº 2583516 / TO (STJ)
+## 62. AgRg no AREsp nº 2583516 / TO (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
@@ -115,19 +61,94 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
   > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
 
-## 56. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
+## 63. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin (Presidente). Publicado em 02/02/2026.
 - Crime / Tema: Dosimetria
 - Resumo: Devolução do processo ao fluxo regular após pacificação do Tema 150/STF (RE 593818): maus antecedentes não prescrevem em 5 anos como a reincidência, mas o julgador pode deixar de valorá-los se irrelevantes ou muito distantes no tempo.
 - Ver andamento no STF: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7467927
 
-## 57. AREsp nº 3045207 / MT (STJ)
+## 64. AREsp nº 2967413 / RS (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/12/2025.
+- Crime / Tema: Organização criminosa · Quebra da cadeia de custódia · Prova digital
+- Resumo: A cadeia de custódia condiciona a confiabilidade da prova digital. Prints de aplicativo extraídos do celular de um corréu exigem documentação verificável da coleta e preservação, e o ônus de provar integridade e autenticidade é da acusação. O acórdão que só disse que a defesa não provou prejuízo inverteu esse ônus e foi anulado para novo julgamento.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2967413.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL E PENAL. AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA ARMADA (ART. 2º, § 2º, DA LEI 12.850/2013). PREQUESTIONAMENTO. AUSÊNCIA QUANTO AO ART. 7 º DA LEI 12.965/2014. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. PROVA DIGITAL EXTRAÍDA DE CELULAR. CAPTURAS DE TELA DE APLICATIVO DE MENSAGENS. CADEIA DE CUSTÓDIA. ÔNUS DO ESTADO DE DEMONSTRAR A INTEGRIDADE E A AUTENTICIDADE DOS DADOS. NECESSIDADE DE DOCUMENTAÇÃO DO PROCEDIMENTO TÉCNICO DE OBTENÇÃO DA PROVA. ANULAÇÃO DO ACÓRDÃO DE APELAÇÃO PARA NOVO JULGAMENTO, À LUZ DOS PARÂMETROS DA CADEIA DE CUSTÓDIA DA PROVA DIGITAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundado na alínea “a” do art. 105, III, da Constituição, em processo de organização criminosa armada voltada ao tráfico de drogas e emprego de armas de fogo, no qual o agravante foi condenado, com base, entre outros elementos, em dados telemáticos (capturas de tela de aplicativo de mensagens) extraídos do celular de corréu, aparelho entregue espontaneamente por sua mãe e tia após tentativa de homicídio, sendo central a discussão sobre a validade da prova digital produzida, a observância da cadeia de custódia e a suficiência de sua documentação para fins de condenação.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 2. Há três questões em discussão: (i) definir se é possível conhecer da alegada violação ao art. 7º, I, II e III, da Lei 12.965/2014 sem que o tema tenha sido objeto de debate e decisão pelo Tribunal de origem; (ii) estabelecer se as capturas de tela de conversas em aplicativo de mensagens, obtidas de celular apreendido e juntadas aos autos sem descrição e documentação dos procedimentos técnicos de extração e preservação, atendem às exigências de cadeia de custódia previstas no CPP para que sejam consideradas prova digital confiável; e (iii) determinar quais são as consequências processuais da ausência de demonstração, pelo Estado, da integridade e autenticidade da prova digital, notadamente quanto à necessidade de novo julgamento da apelação à luz de parâmetros claros sobre a cadeia de custódia.
+  > III. RAZÕES DE DECIDIR
+  > 3. Reconhece-se que o recurso especial preenche os requisitos gerais de admissibilidade, inclusive quanto à demonstração da relevância da matéria, por se tratar de ação penal abrangida pela presunção do art. 105, § 3º, I, da Constituição da República, incluído pela EC 125/2022.
+  > 4. Afirma-se a impossibilidade de exame da alegada violação ao art. 7º, I, II e III, da Lei 12.965/2014 (Marco Civil da Internet), porque a matéria não foi apreciada pelo acórdão recorrido, tampouco foram opostos embargos de declaração para provocar manifestação da Corte local, incidindo, quanto a esse ponto, os óbices das Súmulas 282 e 356 do STF, aplicáveis inclusive às matérias de ordem pública, que também exigem prequestionamento (AgRg nos EDcl no AREsp n. 1.721.960/SC).
+  > 5. Assenta-se que a cadeia de custódia constitui desdobramento lógico do conceito de corpo de delito (CPP, art. 158), sendo destinada a garantir a correspondência entre os vestígios originalmente arrecadados e o material efetivamente apresentado ao juiz, de modo a afastar dúvidas sobre identidade e integridade da prova, em linha com os arts. 158-A a 158-F do CPP, ainda que sua positivação tenha sido posterior aos fatos.
+  > 6. Exige-se, ao menos, que o processo de coleta, preservação e análise seja documentado de forma compreensível, verificável, auditável e repetível, de modo a viabilizar o controle pelas partes e eventual perícia independente.
+  > 7. Destaca-se que capturas de tela (printscreens) de conversas em aplicativos de mensagens, quando produzidas sem protocolo padronizado, sem descrição do dispositivo, do aplicativo utilizado e da sequência de extração, consistem em recortes visuais descontextualizados, altamente suscetíveis a manipulações (cortes, supressões, inserções) que não deixam rastro imediatamente perceptíveis, razão pela qual tais arquivos, isoladamente, configuram prova intrinsecamente frágil e dependente de documentação adequada para alcançar grau mínimo de confiabilidade.
+  > 8. Atribui-se ao Estado-acusação o ônus de demonstrar positivamente a integridade e a confiabilidade da prova digital que apresenta, não sendo admissível presumir a higidez de elementos obtidos à margem dos protocolos de cadeia de custódia, conforme já assentado por esta Corte (AgRg no RHC n. 143.169/RJ e AgRg no HC n. 828.054/RN), de modo que a ausência de documentação do percurso probatório e de garantias mínimas de “mesmidade” conduz à inadmissibilidade da prova ou, ao menos, à necessidade de reavaliação de sua validade em instância ordinária.
+  > 9. Assinala-se que a falta de documentação precisa sobre a forma de obtenção das capturas de tela, aliada à ausência de descrição das etapas de arrecadação, armazenamento e análise do conteúdo digital, torna inviável à defesa comprovar eventual adulteração, caracterizando verdadeira “prova diabólica”, pois inexiste parâmetro objetivo que permita cotejar o material juntado aos autos com o conteúdo originalmente existente no dispositivo, o que compromete o contraditório substancial e inviabiliza o controle epistêmico da prova.
+  > 10. Reconhece-se que o Tribunal de origem, ao afastar genericamente a alegação de quebra da cadeia de custódia sob o argumento de que a defesa não demonstrou prejuízo nem apontou qual etapa do procedimento teria sido violada, deixou de explicitar, com base nos elementos concretos dos autos, como se deu a coleta e preservação das capturas de tela, quais atos foram praticados pela polícia, que registros existem e em que medida tais registros asseguram a correspondência entre o material apreendido e o exibido em juízo, configurando déficit de fundamentação que impede o controle desta Corte sobre a admissão da prova digital.
+  > IV. DISPOSITIVO E TESE
+  > 11. Agravo conhecido para dar parcial provimento ao recurso especial, a fim de anular o acórdão de apelação e determinar o retorno dos autos ao Tribunal de origem para novo julgamento, diante da insuficiência de motivação quanto à observância da cadeia de custódia da prova digital – elemento decisivo para a condenação por organização criminosa. No novo exame, deverá o Tribunal: (a) descrever, com base no que efetivamente consta dos autos, o procedimento de arrecadação e extração da captura de tela do celular; (b) avaliar, à luz dos arts. 157, § 1º, 158 e 158-A a 158-F do CPP, se foram preservadas a integridade e a autenticidade dos printscreens; e (c) definir, com motivação adequada, a admissibilidade ou não da prova digital e as consequências de eventual imprestabilidade para o conjunto probatório.
+  > Tese de julgamento:
+  > 1. A apreciação de alegada violação ao art. 7º da Lei 12.965/2014, ainda que a matéria seja de ordem pública, exige prévio exame pela instância ordinária, sendo indispensável o prequestionamento, sob pena de incidência das Súmulas 282 e 356/STF.
+  > 2. A cadeia de custódia constitui condição de confiabilidade da prova digital e impõe ao Estado o dever de documentar, de forma minimamente verificável, os procedimentos de coleta, preservação e análise dos dados, notadamente quando se tratar de capturas de tela de aplicativo de mensagens extraídas de aparelho celular apreendido.
+  > 3. É ônus exclusivo da acusação demonstrar a integridade e a autenticidade da prova digital apresentada, não sendo admissível presumir sua higidez quando inexistem registros técnicos e documentação da cadeia de custódia, circunstância que pode conduzir à inadmissibilidade da prova ou à necessidade de novo julgamento em instância ordinária.
+  > 4. A ausência, no acórdão de apelação, de fundamentação específica sobre a forma de obtenção e preservação de capturas de tela utilizadas como prova central em condenação penal enseja a anulação do julgamento e a devolução dos autos ao Tribunal de origem para novo exame, com motivação expressa à luz dos arts. 157, § 1º, 158 e 158-A a 158-F do CPP.
+  > (AREsp n. 2.967.413/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/12/2025, DJEN de 16/12/2025.)
+
+## 65. REsp nº 2166900 / SP (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
+- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
+- Crime / Tema: Execução penal · Tema repetitivo
+- Resumo: Tema 1.347/STJ — A regressão cautelar de regime é provisória e cabe no poder geral de cautela do juízo da execução, sem prévia oitiva do apenado, que o art. 118, § 2º, da LEP exige só na regressão definitiva. Exige fundamentação idônea e vale até a apuração definitiva da falta, com contraditório no procedimento próprio.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2166900.pdf
+- Ementa oficial:
+  > DIREITO PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.347 DO STJ. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. DESNECESSIDADE DE PRÉVIA OITIVA DO APENADO. RECURSO IMPROVIDO. TESE FIXADA.
+  > I. CASO EM EXAME
+  > 1. Recurso especial interposto contra acórdão da Oitava Câmara Criminal do Tribunal de Justiça do Estado de São Paulo que concluiu pela desnecessidade de prévia oitiva do apenado para a regressão cautelar de regime prisional determinada em caráter provisório quando constatado o cometimento de falta grave.
+  > 2. O acórdão recorrido entendeu que a regressão cautelar de regime prisional sem prévia oitiva do apenado determinada não viola o regramento da execução pena.
+  > 3. Afetação como Recurso Especial Repetitivo dos paradigmas REsps n. 2.166.900/SP, 2.153.215/RJ e 2.167.128/RJ, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.347 do STJ, para formação de precedente vinculante (CPC, art. 927, III).
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. A questão em discussão, afetada no tema repetitivo, consiste em: "Definir se é necessária a prévia oitiva da pessoa apenada para que lhe seja imposta a suspensão cautelar (regressão provisória) do regime prisional mais favorável quando constatado o possível cometimento de falta disciplinar grave ou de fato definido como crime doloso."
+  > III. RAZÕES DE DECIDIR
+  > 5. A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, razão pela qual se mostra possível sua decretação sem a necessidade de prévia oitiva do apenado.
+  > 6. A decisão que determina a regressão cautelar deve ser devidamente fundamentada, observando os elementos de interesse do caso, aplicando-se a exigência de prévia oitiva do apenado, prevista no art. 118, § 2º, da Lei de Execução Penal, apenas à regressão definitiva de regime.
+  > 7. A regressão cautelar é válida até a apuração definitiva da falta, devendo ser instaurado o procedimento cabível para apuração do fato, com observância dos princípios do contraditório, da ampla defesa e do devido processo legal.
+  > IV. DISPOSITIVO E TESE
+  > 8. Resultado do Julgamento: Recurso improvido.
+  > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
+  > (REsp n. 2.166.900/SP, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
+
+## 66. REsp nº 2167128 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
+- **Resultado desfavorável à defesa:** Recurso do MP provido (vale pela tese)
+- Crime / Tema: Execução penal · Tema repetitivo
+- Resumo: Tema 1.347/STJ — A regressão cautelar de regime é provisória e cabe no poder geral de cautela do juízo da execução, sem prévia oitiva do apenado, que o art. 118, § 2º, da LEP exige só na regressão definitiva. Exige fundamentação idônea e vale até a apuração definitiva da falta. O TJRJ exigia a oitiva prévia; recurso do MP provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2167128.pdf
+- Ementa oficial:
+  > DIREITO PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.347 DO STJ. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. DESNECESSIDADE DE PRÉVIA OITIVA DO APENADO. RECURSO PROVIDO. TESE FIXADA.
+  > I. CASO EM EXAME
+  > 1. Recurso especial interposto pelo Ministério Público do Estado do Rio de Janeiro contra acórdão da Quinta Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro que concluiu pela necessidade de prévia oitiva do apenado para a regressão cautelar de regime prisional determinada em caráter provisório quando constatado o cometimento de falta grave.
+  > 2. O acórdão recorrido entendeu que a regressão de regime prisional sem prévia oitiva do apenado, ainda que determinada de modo cautelar ou provisório, viola o princípio da legalidade e o devido processo legal, não se encontrando amparada pela Lei de Execução Penal.
+  > 3. Afetação como Recurso Especial Repetitivo dos paradigmas REsps n. 2.166.900/SP, 2.153.215/RJ e 2.167.128/RJ, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.347 do STJ, para formação de precedente vinculante (CPC, art. 927, III).
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. A questão em discussão, afetada no tema repetitivo, consiste em: "Definir se é necessária a prévia oitiva da pessoa apenada para que lhe seja imposta a suspensão cautelar (regressão provisória) do regime prisional mais favorável quando constatado o possível cometimento de falta disciplinar grave ou de fato definido como crime doloso."
+  > III. RAZÕES DE DECIDIR
+  > 5. A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, razão pela qual se mostra possível sua decretação sem a necessidade de prévia oitiva do apenado.
+  > 6. A decisão que determina a regressão cautelar deve ser devidamente fundamentada, observando os elementos de interesse do caso, aplicando-se a exigência de prévia oitiva do apenado, prevista no art. 118, § 2º, da Lei de Execução Penal, apenas à regressão definitiva de regime.
+  > 7. A regressão cautelar é válida até a apuração definitiva da falta, devendo ser instaurado o procedimento cabível para apuração do fato, com observância dos princípios do contraditório, da ampla defesa e do devido processo legal.
+  > IV. DISPOSITIVO E TESE
+  > 8. Resultado do Julgamento: Recurso provido para reformar o acórdão recorrido e afastar a necessidade de prévia oitiva do apenado na regressão cautelar de regime prisional.
+  > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
+  > (REsp n. 2.167.128/RJ, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
+
+## 67. AREsp nº 3045207 / MT (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
 - Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
 - Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
 
-## 58. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+## 68. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
 - Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
@@ -150,7 +171,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
   > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 59. REsp nº 1953602 / SP (STJ)
+## 69. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -170,7 +191,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 60. RHC nº 213637 / BA (STJ)
+## 70. RHC nº 213637 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
