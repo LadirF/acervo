@@ -1,12 +1,12 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 5 de 11 (decisões 41 a 50)
+# Acervo de Jurisprudência — Cury Advogados — parte 5 de 12 (decisões 41 a 50)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 110 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1152/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261008-1207/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
 ## 41. REsp nº 2204349 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Terceira Seção. Publicado em 20/08/2026.
@@ -96,7 +96,24 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
 - Resumo: A preventiva decretada só pelo descumprimento de medida protetiva perde o fundamento quando o próprio MP arquiva o inquérito desse descumprimento por atipicidade (encontro fortuito, sem dolo). Sem fato novo e contemporâneo, a condição de foragido não basta para mantê-la, e as medidas protetivas vigentes já resguardam a vítima. Preventiva revogada, facultadas as cautelares do art. 319 do CPP.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1088218.pdf
 
-## 47. AgRg no AREsp nº 2786040 / GO (STJ)
+## 47. AgRg no RHC nº 235625 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/06/2026.
+- Crime / Tema: Violência doméstica · Quebra da cadeia de custódia · Prova digital
+- Resumo: A cadeia de custódia da prova digital não é formalismo. Não houve laudo de extração, indicação de como os vídeos chegaram à polícia, hash nem registro do percurso, e a defesa só viu uma regravação da tela do sistema: a integridade não está demonstrada. Presunção de idoneidade e fé pública da servidora não suprem a falta, e não se pode exigir da defesa a prova da adulteração (prova diabólica). A questão é objetiva e cabe em HC. Vídeos inadmissíveis, ressalvada perícia nos originais. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-235625.pdf
+- Ementa oficial:
+  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROVA DIGITAL. CADEIA DE CUSTÓDIA. DOCUMENTAÇÃO MÍNIMA. REGULAR ARRECADAÇÃO, PRESERVAÇÃO, EXTRAÇÃO E ARMAZENAMENTO. INADEQUAÇÃO DO HABEAS CORPUS. NÃO OCORRÊNCIA. QUESTÃO OBJETIVAMENTE VERIFICÁVEL A PARTIR DOS AUTOS. AUSÊNCIA DE LAUDO TÉCNICO DE EXTRAÇÃO, DE INDICAÇÃO DO MEIO DE ENTREGA E DE FORMALIZAÇÃO DO PERCURSO DA PROVA DIGITAL. IMPOSSIBILIDADE DE BAIXAR OS ARQUIVOS APÓS A INSERÇÃO NO SISTEMA. DISPONIBILIZAÇÃO DE NOVO LINK A PARTIR DE GRAVAÇÃO DA TELA DO SISTEMA. PRESUNÇÃO DE IDONEIDADE DA PROVA E FÉ PÚBLICA DA SERVIDORA. INSUFICIÊNCIA. INTEGRIDADE, MESMIDADE E AUDITABILIDADE NÃO DEMONSTRADAS. INADMISSIBILIDADE DAS PROVAS DIGITAIS, NO ESTADO ATUAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A controvérsia deduzida no habeas corpus diz respeito à existência, ou não, de documentação mínima apta a demonstrar a regular arrecadação, preservação, extração e armazenamento de elementos de prova digitais, matéria objetivamente verificável a partir da leitura dos autos e que não exige reexame aprofundado da narrativa fática nem incursão valorativa sobre a suficiência do conteúdo dos vídeos para futura condenação.
+  > 2. A cadeia de custódia da prova digital não traduz simples formalismo procedimental, mas instrumento voltado a assegurar a idoneidade epistemológica da prova, a correspondência entre o vestígio originariamente arrecadado e o elemento submetido ao contraditório e à valoração jurisdicional, bem como a sua integridade, mesmidade e auditabilidade.
+  > 3. No caso, não há notícia de: apreensão técnica do equipamento de origem; laudo descrevendo a forma de extração dos arquivos; indicação do meio pelo qual teriam sido entregues à autoridade policial; referência à geração e confrontação de hash; ou formalização adequada do percurso percorrido pela prova digital até sua inserção no sistema policial.
+  > 4. A circunstância de os arquivos, após inseridos no Portal de Vídeos da Polícia Civil, não mais poderem ser baixados, tendo a visualização franqueada à defesa decorrido de nova captação mediante gravação daquilo que aparecia na tela do sistema, reforça a ausência de demonstração objetiva da integridade da prova.
+  > 5. A mera informação de que o link estaria identificado como proveniente de câmera de segurança ou de aparelho celular, o relatório policial descritivo e a invocação de presunção de idoneidade da prova ou de fé pública da servidora não suprem, no caso, a ausência de documentação técnica objetiva e auditável acerca da obtenção, preservação e integridade dos arquivos.
+  > 6. Em se tratando de prova digital, a ausência de documentação técnica pode inviabilizar o próprio acesso aos parâmetros necessários para a identificação de eventual adulteração, não sendo legítimo inverter contra a defesa o ônus de demonstrar precisamente aquilo cuja averiguação se tornou inviável pela própria deficiência da custódia estatal, sob pena de verdadeira prova diabólica.
+  > 7. Mantém-se, assim, a conclusão de que as provas digitais, da forma como juntadas aos autos, são inadmissíveis, com ressalva de eventual perícia, caso ainda existentes os arquivos originais ou fonte primária tecnicamente idônea e viável sua análise.
+  > 8. Agravo regimental não provido.
+  > (AgRg no RHC n. 235.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2026, DJEN de 1/6/2026.)
+
+## 48. AgRg no AREsp nº 2786040 / GO (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/05/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Fundada suspeita
 - Resumo: A afirmação de corréus presos em flagrante de que compraram a droga na casa do acusado, sem confirmação por nenhum outro elemento, não é fundada razão para entrar sem mandado. O Estado não provou o consentimento do morador. Provas nulas e réu absolvido; a busca veicular dos corréus foi considerada válida.
@@ -118,13 +135,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator, que reproduz a decisão monocrática, em que o réu era o agravante]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
   > (AgRg no AREsp n. 2.786.040/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 13/5/2026.)
 
-## 48. AREsp nº 3115023 / RS (STJ)
+## 49. AREsp nº 3115023 / RS (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/04/2026.
 - Crime / Tema: Homicídio · Tribunal do Júri
 - Resumo: A plenitude de defesa prevalece sobre a preclusão do art. 422 do CPP quando há prejuízo concreto. Negar a oitiva dos peritos da defesa e deixar a acusação explorar os pareceres sem contraditório técnico gera assimetria. Oitiva restabelecida e júri anulado (médico e enfermeira acusados da morte de um recém-nascido).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115023.pdf
 
-## 49. AgRg no HC nº 1079684 / MG (STJ)
+## 50. AgRg no HC nº 1079684 / MG (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/04/2026.
 - Crime / Tema: Associação criminosa · Crimes contra a Administração Pública · Lavagem de dinheiro · Quebra de sigilo · Busca e apreensão
 - Resumo: Acesso a dados telemáticos armazenados (dados estáticos) não exige prazo, como a interceptação exige, mas precisa guardar pertinência temática e temporal com os fatos investigados. A investigação de fatos de 2009 a 2015 não autoriza vasculhar dados anteriores ou posteriores, o que seria pescaria probatória. Busca e apreensão mantida, com recorte temporal.
@@ -139,17 +156,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > - Nessa linha de intelecção, embora o acesso aos dados estáticos realmente não demande a prévia fixação de prazo para acesso, como ocorre no acesso aos fluxos de comunicação, é imperativo que os dados acessados, em qualquer tipo de diligência, guardem pertinência temática e contemporaneidade com os fatos investigados. Admitir que a investigação por fatos ocorridos entre 2009 e 2015 viabilize o acesso a provas anteriores a 2009, bem como a documentos posteriores a 2015, considerando que a medida foi decretada 10 anos após a suposta cessação dos fatos, revela acesso indevido a documentos cuja relação com os fatos investigados não se encontra minimamente demonstrada, sendo, portanto, vedada por ser medida meramente especulativa.
   > 3. Agravo regimental a que se dá parcial provimento, para acolher o pedido subsidiário e, de ofício, delimitar as medidas invasivas ao período dos fatos investigados (2009-2015).
   > (AgRg no HC n. 1.079.684/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
-
-## 50. AgRg no REsp nº 2237192 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/03/2026.
-- Crime / Tema: Manipulação de mercado · Imparcialidade do juiz
-- Resumo: Suspeição de juiz acionista da empresa ligada à investigação (manipulação de mercado): a parcialidade é aferível objetivamente, e o prejuízo decorre dela. Mantida a anulação de todos os atos do magistrado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2237192.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. INCOMPETÊNCIA DO RELATOR. PREVENÇÃO NÃO OBSERVADA. JULGAMENTO DE MÉRITO DO RECURSO. PRECLUSÃO DA ALEGAÇÃO. ART. 71, § 4º, RISTJ. 2. OFENSA AO ART. 563 DO CPP. SUSPEIÇÃO DO MAGISTRADO. ACIONÁRIO DE EMPRESA RELACIONADA COM A INVESTIGAÇÃO. PARCIALIDADE AFERÍVEL OBJETIVAMENTE. PREJUÍZO DEMONOSTRADO. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
-  > 1. Quanto à alegada incompetência deste relator, registro que a distribuição interna do STJ tem natureza relativa, motivo pelo qual eventual prevenção não reconhecida ou reconhecida equivocadamente deve ser suscitada até o início do julgamento, sob pena de preclusão. Com efeito, "o entendimento do STJ é de que a prevenção deve ser suscitada no primeiro momento em que a parte tiver oportunidade, que no caso é a própria distribuição do recurso, ou até o instante que precede o início do seu julgamento". (EDcl no AgRg no AREsp n. 150.035/DF, relator Ministro Humberto Martins, relator para acórdão Ministro Herman Benjamin, Segunda Turma, julgado em 10/11/2015, DJe de 2/2/2017.)
-  > 2. A alegação ministerial consiste em suposta ofensa ao art. 563 do CPP, por considerar que os atos foram anulados sem que se perquirisse a respeito do efetivo prejuízo. Contudo, conforme explicitado na decisão monocrática, a suspeição do magistrado foi verificada em razão de ele possuir 47 participações acionárias da Companhia em que se investigava a divulgação indevida de informações no mercado.
-  > - Nesse contexto, o acórdão recorrido consignou que "a condição que deu causa à mencionada suspeição já existia desde antes da instauração do IPL originário (sendo preexistente portanto ao início das investigações policiais), de modo que atinge todos os atos proferidos pelo Magistrado Dr. VITOR BARBOSA VALPUESTA naquele feito e nos correlacionados, por razões que, como visto acima, são bastante objetivas" (e-STJ fl. 228).
-  > - Como visto, a Corte Regional, ao analisar o caso concreto, considerou que o fato de o juiz ser acionista da IRB BRASIL RESSEGUROS - companhia relacionada à investigação, uma vez que se averiguava a desvalorização de cotações de ações da companhia em virtude de divulgação indevida de informações supostamente inverídicas ao mercado - já revelava o prejuízo, diante da ausência de imparcialidade aferível objetivamente. Dessa forma, não há se falar em ofensa ao art. 563 do CPP.
-  > 3. Agravo regimental a que se nega provimento.
-  > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)

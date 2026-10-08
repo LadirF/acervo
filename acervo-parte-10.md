@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 10 de 11 (decisões 91 a 100)
+# Acervo de Jurisprudência — Cury Advogados — parte 10 de 12 (decisões 91 a 100)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 110 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,44 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 91. AgRg no HC nº 731882 / AM (STJ)
+## 91. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
+- Decisão colegiada. Relator: Des. André Carvalho e Silva de Almeida. 1º Grupo de Direito Criminal. Publicado em 03/02/2023.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Revisão criminal
+- Resumo: Revisão deferida contra condenação do Júri manifestamente contrária à prova: não havia testemunha presencial, a vítima não foi ouvida em juízo e as testemunhas nada disseram contra os réus. Absolvição por falta de prova da autoria (art. 386, V, do CPP), estendida ao corréu.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rvcr-0019378-10-2021.pdf
+- Ementa oficial:
+  > Revisão Criminal – Júri – Decisão manifestamente contrário à prova dos autos – Inexistência de testemunhas presenciais – Vítima não ouvida em juízo – Testemunhas que nada disseram contra os denunciados – Revisão deferida para absolver.
+  > (TJSP, Revisão Criminal n. 0019378-10.2021.8.26.0000, relator Desembargador André Carvalho e Silva de Almeida, 1º Grupo de Direito Criminal, julgado em 27/1/2023, publicado em 3/2/2023.)
+
+## 92. HC nº 762932 / SP (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Antecedente por tráfico, sozinho, não autoriza busca domiciliar; admitir isso seria Direito Penal do autor. O réu já estava preso por porte de arma na rua, sozinho, diante de policiais armados e sem defesa: nessas condições, o consentimento para a busca com cães farejadores não é crível nem válido (coação ambiental), e cabe ao Estado prová-lo. Foi uma pescaria probatória (fishing expedition). Réu absolvido do tráfico; mantida a condenação pela arma, apreendida antes e fora da casa.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-762932.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. TRÁFICO DE DROGAS. FLAGRANTE. DOMICÍLIO COMO EXPRESSÃO DO DIREITO À INTIMIDADE. ASILO INVIOLÁVEL. EXCEÇÕES CONSTITUCIONAIS. INTERPRETAÇÃO RESTRITIVA. AUSÊNCIA DE FUNDADAS RAZÕES. AUSÊNCIA DE CONSENTIMENTO VÁLIDO DO MORADOR. COAÇÃO AMBIENTAL/CIRCUNSTANCIAL. VÍCIO NA MANIFESTAÇÃO DE VONTADE. NULIDADE DAS PROVAS OBTIDAS. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. ABSOLVIÇÃO. ORDEM CONCEDIDA.
+  > 1. O art. 5º, XI, da Constituição Federal consagrou o direito fundamental à inviolabilidade do domicílio, ao dispor que a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+  > 2. O Supremo Tribunal Federal definiu, em repercussão geral (Tema 280), que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo – a qualquer hora do dia, inclusive durante o período noturno – quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes, DJe 8/10/2010). No mesmo sentido, neste STJ: REsp n. 1.574.681/RS.
+  > 3. No caso, policiais receberam uma denúncia anônima segundo a qual o acusado estava com uma arma de fogo em via pública, razão por que o abordaram e encontraram a referida arma. Depois disso, decidiram ir até a residência da genitora dele, onde ele disse que residia, mas ela informou que o réu morava com o pai. Então dirigiram-se até tal residência e entraram no imóvel com a suposta autorização do paciente, oportunidade em que soltaram cães farejadores de drogas, sob a justificativa de que o réu tinha um antecedente por tráfico.
+  > 4. Não houve, entretanto, referência a prévia investigação, monitoramento ou campanas no local, a afastar a hipótese de que se tratava de averiguação de informações robustas e atuais acerca da existência de drogas naquele lugar. Da mesma forma, não se fez menção a nenhuma atitude suspeita, externalizada em atos concretos, tampouco movimentação de pessoas típica de comercialização de drogas. A denúncia anônima, aliás, nem sequer tratava da presença de entorpecentes no imóvel, mas sim do porte de arma de fogo em via pública distante do domicílio, a qual já havia sido encontrada e apreendida.
+  > 5. O simples fato de o acusado ter um antecedente por tráfico não autorizava a realização de busca domiciliar, porquanto desacompanhado de outros indícios concretos e robustos de que, naquele momento específico, ele guardava drogas em sua residência. Ora, admitir a validade desse fundamento para, isoladamente, autorizar essa diligência invasiva, implicaria, em última análise, permitir que todo indivíduo que um dia teve algum registro criminal na vida tenha seu lar diuturnamente vasculhado pelas forças policiais, a ensejar, além da inadmissível prevalência do “Direito Penal do autor” sobre o “Direito Penal do fato”, uma espécie de perpetuação da pena restritiva de liberdade, por vezes até antes que ela seja imposta. Isso porque, mesmo depois de cumprida a sanção penal (ou até antes da condenação), todo sentenciado (ou acusado ou investigado) poderia ter sua residência vistoriada, a qualquer momento, para “averiguação” da existência de drogas, como se a anotação criminal lhe despisse para todo o sempre da presunção de inocência e da garantia da inviolabilidade domiciliar, além de lhe impingir uma marca indelével de suspeição.
+  > 6. Por ocasião do julgamento do HC n. 598.051/SP (Rel. Ministro Rogerio Schietti), a Sexta Turma desta Corte Superior de Justiça, à unanimidade, propôs nova e criteriosa abordagem sobre o controle do alegado consentimento do morador para o ingresso em seu domicílio por agentes estatais. Na ocasião, foram apresentadas as seguintes conclusões: a) Na hipótese de suspeita de crime em flagrante, exige-se, em termos de standard probatório para ingresso no domicílio do suspeito sem mandado judicial, a existência de fundadas razões (justa causa), aferidas de modo objetivo e devidamente justificadas, de maneira a indicar que dentro da casa ocorre situação de flagrante delito; b) O tráfico ilícito de entorpecentes, em que pese ser classificado como crime de natureza permanente, nem sempre autoriza a entrada sem mandado no domicílio onde supostamente se encontra a droga. Apenas será permitido o ingresso em situações de urgência, quando se concluir que do atraso decorrente da obtenção de mandado judicial se possa objetiva e concretamente inferir que a prova do crime (ou a própria droga) será destruída ou ocultada; c) O consentimento do morador, para validar o ingresso de agentes estatais em sua casa e a busca e apreensão de objetos relacionados ao crime, precisa ser voluntário e livre de qualquer tipo de constrangimento ou coação; d) A prova da legalidade e da voluntariedade do consentimento para o ingresso na residência do suspeito incumbe, em caso de dúvida, ao Estado, e deve ser feita com declaração assinada pela pessoa que autorizou o ingresso domiciliar, indicando-se, sempre que possível, testemunhas do ato. Em todo caso, a operação deve ser registrada em áudio-vídeo e preservada tal prova enquanto durar o processo; e) A violação a essas regras e condições legais e constitucionais para o ingresso no domicílio alheio resulta na ilicitude das provas obtidas em decorrência da medida, bem como das demais provas que dela decorrerem em relação de causalidade, sem prejuízo de eventual responsabilização penal do(s) agente(s) público(s) que tenha(m) realizado a diligência.
+  > 7. A Quinta Turma desta Corte, no julgamento do HC n. 616.584/RS (Rel. Ministro Ribeiro Dantas, DJe 6/4/2021) perfilou igual entendimento ao adotado no referido HC n. 598.051/SP. Outros precedentes, de ambas as Turmas Criminais, consolidaram tal compreensão.
+  > 8. As regras de experiência e o senso comum, somados às peculiaridades do caso concreto, não conferem verossimilhança à afirmação dos agentes policiais de que o paciente, depois de ser abordado e preso por porte de arma de fogo em via pública distante de sua residência, sabendo ter drogas em casa, haveria livre e espontaneamente franqueado a realização de buscas no imóvel com cães farejadores, os quais fatalmente encontrariam tais substâncias.
+  > 9. Se, de um lado, deve-se, como regra, presumir a veracidade das declarações de qualquer servidor público, não se há de ignorar, por outro lado, que a notoriedade de frequentes eventos de abusos e desvios na condução de diligências policiais permite inferir como pouco crível a versão oficial apresentada no inquérito policial, máxime quando interfere em direitos fundamentais do indivíduo e quando se nota indisfarçável desejo de se criar narrativa que confira plena legalidade à ação estatal. Essa relevante dúvida não pode, dadas as circunstâncias concretas – avaliadas por qualquer pessoa isenta e com base na experiência quotidiana do que ocorre nos centros urbanos –, ser dirimida a favor do Estado, mas a favor do titular do direito atingido (in dubio pro libertas).
+  > 10. Em verdade, caberia aos agentes que atuam em nome do Estado demonstrar, de modo inequívoco, que o consentimento do morador foi livremente prestado, ou que, na espécie, havia em curso na residência uma clara situação de comércio espúrio de droga, a autorizar, pois, o ingresso domiciliar mesmo sem consentimento válido do morador.
+  > 11. Mesmo se ausente coação direta e explícita sobre o acusado, as circunstâncias de ele já haver sido preso em flagrante pelo porte da arma de fogo em via pública e estar detido, sozinho – sem a oportunidade de ser assistido por defesa técnica e sem mínimo esclarecimento sobre seus direitos –, diante de dois policiais armados, poderiam macular a validade de eventual consentimento (caso provado), em virtude da existência de um constrangimento ambiental/circunstancial. Isso porque a prova do consentimento do morador é um requisito necessário, mas não suficiente, por si só, para legitimar a diligência policial, porquanto deve ser assegurado que tal consentimento, além de existente, seja válido, isto é, livre de vícios aptos a afetar a manifestação de vontade.
+  > 12. Em Scheneckloth v. Bustamonte, 412 U.S. 218 (1973), a Suprema Corte dos Estados Unidos estabeleceu algumas orientações sobre o significado do termo “consentimento”. Decidiu-se que as buscas mediante consentimento do morador (ou, como no caso, do ocupante do automóvel onde se realizou a busca) são permitidas, “mas o Estado carrega o ônus de provar ‘que o consentimento foi, de fato, livre e voluntariamente dado’”. O consentimento não é livre quando de alguma forma se percebe uma coação da sua vontade. A Corte indicou que o teste da “totality of circumstances” deve ser aplicado mentalmente, considerando fatores subjetivos, relativos ao próprio suspeito (i.e., se ele é particularmente vulnerável devido à falta de estudos, baixa inteligência, perturbação mental ou intoxicação por drogas ou álcool) e fatores objetivos que sugerem coação (se estava detido, se os policiais estavam com suas armas à vista, ou se lhe disseram ter o direito de realizar a busca, ou exercitaram outras formas de sutil coerção), entre outras hipóteses que poderiam interferir no livre assentimento do suspeito (ISRAEL, Jerold H.; LAFAVE, Wayne R. Criminal procedure. Constitucional limitations. 5. ed. St. Paul: West Publishing, 1993, p. 139-141).
+  > 13. O art. 152 do Código Civil, ao disciplinar a coação como um dos vícios do consentimento nos negócios jurídicos, dispõe que: “No apreciar a coação, ter-se-ão em conta o sexo, a idade, a condição, a saúde, o temperamento do paciente e todas as demais circunstâncias que possam influir na gravidade dela”. Se, no Direito Civil, que envolve, em regra, direitos patrimoniais disponíveis, em uma relação equilibrada entre particulares, todas as circunstâncias que possam influir na liberdade de manifestação da vontade devem ser consideradas, com muito mais razão isso deve ocorrer no Direito Penal (lato sensu), que trata de direitos indisponíveis de um indivíduo diante do poderio do Estado, em relação manifestamente desigual.
+  > 14. É justamente essa disparidade de forças, aliás, somada à ausência de liberdade negocial concreta, que leva ao frequente reconhecimento da invalidade da manifestação de vontade da parte hipossuficiente no âmbito do Direito do Consumidor, mesmo quando externada por escrito e relativa a direitos disponíveis, em virtude da abusividade de cláusulas impostas pelo lado mais forte, nos termos, por exemplo, do art. 51, IV do CDC: "São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que: IV - estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a eqüidade".
+  > 15. Deveras, retomando a hipótese dos autos, uma vez que o acusado já estava preso por porte de arma de fogo em via pública, sozinho, diante de dois policiais armados, sem a opção de ser assistido por defesa técnica e sem mínimo esclarecimento sobre seus direitos, não é crível que estivesse em plenas condições de prestar livre e válido consentimento para que os agentes de segurança estendessem a diligência com uma varredura especulativa auxiliada por cães farejadores em seu domicílio à procura de drogas, a ponto de lhe impor uma provável condenação de 5 a 15 anos de reclusão, além da pena prevista para o crime do art. 14 do Estatuto do Desarmamento, no qual já havia incorrido.
+  > 16. A diligência policial, no caso dos autos, a rigor, configurou verdadeira pescaria probatória (fishing expedition) no domicílio do acusado. Com efeito, uma vez que a arma de fogo mencionada na denúncia anônima já havia sido apreendida com o paciente em via pública (distante da residência, frise-se) e não existia nenhum indício concreto, nem sequer informação apócrifa, quanto à presença de drogas no interior do imóvel, não havia razão legítima para que os agentes de segurança se dirigissem até o local e realizassem varredura meramente especulativa à procura de entorpecentes com cães farejadores. Cabia-lhes, apenas, diante do encontro da arma de fogo em via pública, conduzir o réu à delegacia para a lavratura do auto de prisão em flagrante.
+  > 17. A descoberta a posteriori de uma situação de flagrante decorreu de ingresso ilícito na moradia do acusado, em violação da norma constitucional que consagra direito fundamental à inviolabilidade do domicílio, o que torna imprestável, no caso concreto, a prova ilicitamente obtida e, por conseguinte, todos os atos dela decorrentes.
+  > 18. Porque as instâncias ordinárias, ao condenar o réu pelo crime previsto no art. 14 da Lei n. 10.823/2006, consideraram que a apreensão da arma de fogo ocorreu antes e fora da residência, em contexto fático independente, a condenação por tal delito não é atingida pela declaração de ilicitude das provas colhidas no interior do domicílio, notadamente quando verificado que a validade da busca pessoal que resultou na apreensão da referida arma na cintura do paciente não foi questionada pela defesa.
+  > 19. Ordem concedida para, considerando que não houve fundadas razões, tampouco comprovação de consentimento válido para a realização de buscas por drogas no domicílio do paciente, reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram, e, por conseguinte, absolvê-lo em relação à prática do delito de tráfico de drogas.
+  > (HC n. 762.932/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 30/11/2022.)
+
+## 93. AgRg no HC nº 731882 / AM (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Revisão criminal
 - Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
@@ -22,13 +59,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
   > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
 
-## 92. HC nº 221.204 / MG (STF)
+## 94. HC nº 221.204 / MG (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 24/10/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Cabimento do HC
 - Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
 
-## 93. RHC nº 147043 / SP (STJ)
+## 95. RHC nº 147043 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
 - Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
@@ -41,7 +78,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
   > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
 
-## 94. HC nº 653515 / RJ (STJ)
+## 96. HC nº 653515 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
 - Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
@@ -65,7 +102,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
   > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
 
-## 95. HC nº 660930 / SP (STJ)
+## 97. HC nº 660930 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. Vencido, em parte, o relator, que anulava as provas da busca pessoal (motivada, a seu ver, pela cor da pele) e absolvia o paciente.
@@ -85,7 +122,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
   > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
 
-## 96. RE nº 1.301.250 / RJ (STF)
+## 98. RE nº 1.301.250 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
 - Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
 - Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
@@ -97,7 +134,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Repercussão geral reconhecida.
   > (STF, RE n. 1.301.250 RG/RJ, relatora Ministra Rosa Weber, Tribunal Pleno, julgado em 27/5/2021, DJe de 8/6/2021.)
 
-## 97. HC nº 611918 / SP (STJ)
+## 99. HC nº 611918 / SP (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
@@ -109,7 +146,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
   > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
 
-## 98. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 100. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
@@ -122,29 +159,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 04. Não se prestam à corroboração de delações premiadas elementos genéricos, dissociados dos relatos contidos na denúncia ou incapazes de comprovar a específica realização dolosa das condutas imputadas a cada um dos acusados.
   > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
   > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
-
-## 99. REsp nº 1871856 / SE (STJ)
-- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1871856.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR DESPROVIDA DE MANDADO JUDICIAL. ESTADO DE FLAGRÂNCIA. INEXISTÊNCIA DE INDÍCIOS DA PRÁTICA DELITIVA. DENÚNCIA ANÔNIMA. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. NULIDADE DA PROVA OBTIDA E DAQUELAS DELA DERIVADAS. ABSOLVIÇÃO DO AGENTE. RECURSO PROVIDO.
-  > 1. Nos crimes permanentes, tal como o tráfico de drogas, o estado de flagrância protrai-se no tempo, o que, todavia, não é suficiente, por si só, para justificar busca domiciliar desprovida de mandado judicial, exigindo-se a demonstração de indícios mínimos de que, naquele momento, dentro da residência, ocorra situação de flagrante delito.
-  > 2. A denúncia anônima, desacompanhada de outros elementos indicativos da ocorrência de crime, não legitima o ingresso de policiais no domicílio indicado, inexistindo, nessas situações, justa causa para a medida.
-  > 3. A prova obtida com violação à norma constitucional é imprestável a legitimar os atos dela derivados.
-  > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
-  > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
-
-## 100. AgRg no HC nº 157.627 / PR (STF)
-- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
-- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
-- Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-157627.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM HABEAS CORPUS. CONHECIMENTO. POSSIBILIDADE. APRESENTAÇÃO DE MEMORIAIS ESCRITOS POR RÉUS COLABORADORES E DELATADOS. PRAZO COMUM. INADMISSIBILIDADE. OFENSA ÀS REGRAS DO CONTRADITÓRIO E DA AMPLA DEFESA. NULIDADE. EXISTÊNCIA DE PREJUÍZO. EXEGESE IMEDIATA DOS DIREITOS FUNDAMENTAIS INDEPENDENTEMENTE DA NORMA INFRACONSTITUCIONAL. INTELIGÊNCIA DOS ARTS. 5º, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA DE 1988, E 603, DO CPP. ORDEM CONCEDIDA.
-  > I – Possibilidade de impetração de habeas corpus nos casos em que, configurada flagrante ilegalidade do provimento jurisdicional, descortina-se premente o risco atual ou iminente à liberdade de locomoção, apta, pois, a gerar constrangimento ilegal. Precedentes desta Suprema Corte (HC 87.926/SP, Rel. Min. Cezar Peluso; HC 136.331, Rel. Min. Ricardo Lewandowski).
-  > II - Decisão de primeiro grau de jurisdição que indefere pedido para apresentação de memoriais escritos após o prazo dos réus colaboradores. Prejuízo demonstrado.
-  > III – Memoriais escritos de réus colaboradores, com nítida carga acusatória, deverão preceder aos dos réus delatados, sob pena de nulidade do julgamento. Exegese imediata dos preceitos fundamentais do contraditório e da ampla defesa (art. 5º, LV, da CF/88) que prescindem da previsão expressa de regras infraconstitucionais.
-  > IV – Agravo regimental provido, para conhecer e conceder a ordem.
-  > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)

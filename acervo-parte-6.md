@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 6 de 11 (decisões 51 a 60)
+# Acervo de Jurisprudência — Cury Advogados — parte 6 de 12 (decisões 51 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 110 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 112 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,21 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. AgRg no HC nº 1017481 / RN (STJ)
+## 51. AgRg no REsp nº 2237192 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/03/2026.
+- Crime / Tema: Manipulação de mercado · Imparcialidade do juiz
+- Resumo: Suspeição de juiz acionista da empresa ligada à investigação (manipulação de mercado): a parcialidade é aferível objetivamente, e o prejuízo decorre dela. Mantida a anulação de todos os atos do magistrado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2237192.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. INCOMPETÊNCIA DO RELATOR. PREVENÇÃO NÃO OBSERVADA. JULGAMENTO DE MÉRITO DO RECURSO. PRECLUSÃO DA ALEGAÇÃO. ART. 71, § 4º, RISTJ. 2. OFENSA AO ART. 563 DO CPP. SUSPEIÇÃO DO MAGISTRADO. ACIONÁRIO DE EMPRESA RELACIONADA COM A INVESTIGAÇÃO. PARCIALIDADE AFERÍVEL OBJETIVAMENTE. PREJUÍZO DEMONOSTRADO. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+  > 1. Quanto à alegada incompetência deste relator, registro que a distribuição interna do STJ tem natureza relativa, motivo pelo qual eventual prevenção não reconhecida ou reconhecida equivocadamente deve ser suscitada até o início do julgamento, sob pena de preclusão. Com efeito, "o entendimento do STJ é de que a prevenção deve ser suscitada no primeiro momento em que a parte tiver oportunidade, que no caso é a própria distribuição do recurso, ou até o instante que precede o início do seu julgamento". (EDcl no AgRg no AREsp n. 150.035/DF, relator Ministro Humberto Martins, relator para acórdão Ministro Herman Benjamin, Segunda Turma, julgado em 10/11/2015, DJe de 2/2/2017.)
+  > 2. A alegação ministerial consiste em suposta ofensa ao art. 563 do CPP, por considerar que os atos foram anulados sem que se perquirisse a respeito do efetivo prejuízo. Contudo, conforme explicitado na decisão monocrática, a suspeição do magistrado foi verificada em razão de ele possuir 47 participações acionárias da Companhia em que se investigava a divulgação indevida de informações no mercado.
+  > - Nesse contexto, o acórdão recorrido consignou que "a condição que deu causa à mencionada suspeição já existia desde antes da instauração do IPL originário (sendo preexistente portanto ao início das investigações policiais), de modo que atinge todos os atos proferidos pelo Magistrado Dr. VITOR BARBOSA VALPUESTA naquele feito e nos correlacionados, por razões que, como visto acima, são bastante objetivas" (e-STJ fl. 228).
+  > - Como visto, a Corte Regional, ao analisar o caso concreto, considerou que o fato de o juiz ser acionista da IRB BRASIL RESSEGUROS - companhia relacionada à investigação, uma vez que se averiguava a desvalorização de cotações de ações da companhia em virtude de divulgação indevida de informações supostamente inverídicas ao mercado - já revelava o prejuízo, diante da ausência de imparcialidade aferível objetivamente. Dessa forma, não há se falar em ofensa ao art. 563 do CPP.
+  > 3. Agravo regimental a que se nega provimento.
+  > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)
+
+## 52. AgRg no HC nº 1017481 / RN (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 12/03/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital · Fundada suspeita · Cabimento do HC
 - Resumo: O acesso da polícia às conversas do celular do corréu sem autorização judicial é ilícito. Essa prova e as dela derivadas devem ser desentranhadas, cabendo ao juízo verificar se há prova independente que sustente a condenação. A busca pessoal, feita com fundada suspeita, foi considerada válida (art. 244 do CPP).
@@ -34,7 +48,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
   > (AgRg no HC n. 1.017.481/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
 
-## 52. RHC nº 223931 / PE (STJ)
+## 53. RHC nº 223931 / PE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
 - Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
@@ -48,7 +62,33 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
   > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
 
-## 53. AgRg no AREsp nº 2583516 / TO (STJ)
+## 54. APn nº 927 / DF (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Isabel Gallotti. Corte Especial. Publicado em 10/03/2026.
+- Crime / Tema: Lavagem de dinheiro · Prescrição
+- Resumo: A lavagem é crime autônomo: pode ser julgada antes do crime antecedente (corrupção e organização criminosa), bastando prova da infração antecedente, ainda que prescrita (art. 2º, II e § 1º, da Lei 9.613/1998). Na modalidade "ocultar", é permanente, e a prescrição corre da descoberta dos valores. A majorante do art. 1º, § 4º, só incide se a própria lavagem for praticada por organização criminosa. O dano moral coletivo exige ação própria. Conselheiro do TCE-RJ condenado a 13 anos e a esposa a 3 anos e 8 meses, com absolvições parciais. Vencidos quatro ministros, entre eles o revisor, que absolviam os réus.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apn-927.pdf
+- Ementa oficial:
+  > AÇÃO PENAL ORIGINÁRIA. CONSELHEIRO DO TRIBUNAL DE CONTAS DO RIO DE JANEIRO E ESPOSA. PRERROGATIVA DE FORO. CRIME ANTECEDENTE. APN 897/DF. LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES NO ÂMBITO DE ORGANIZAÇÃO CRIMINOSA EM CONTINUIDADE DELITIVA. AUTONOMIA DO CRIME DE LAVAGEM. PRESCRIÇÃO CONTADA DA DESCOBERTA DOS VALORES. PROVAS DA MATERIALIDADE E AUTORIA DOS CRIMES. PROCEDÊNCIA PARCIAL DA PRETENSÃO PUNITIVA ESTATAL. PERDA DO CARGO. PERDIMENTO DO PRODUTO E PROVEITO DO CRIME. INDENIZAÇÃO POR DANOS COLETIVOS. NECESSIDADE DE APURAÇÃO EM AÇÃO CÍVEL PRÓPRIA.
+  > 1. A Lei de Lavagem de Capitais estabelece que o processo e o julgamento pelo crime de lavagem independem do processo e do julgamento pelas infrações antecedentes (art. 2º, II, Lei 9.613/98). Trata-se de crime autônomo, devendo a denúncia ser "instruída com indícios suficientes da existência da infração penal antecedente, "sendo puníveis os fatos previstos nesta Lei, ainda que desconhecido ou isento de pena o autor, ou extinta a punibilidade da infração penal antecedente” (art. 2º, § 1º, Lei 9.613/98).
+  > 2. O crime de lavagem de bens, direitos ou valores, quando praticado na modalidade típica de “ocultar”, é permanente, protraindo-se sua execução até que os objetos materiais do branqueamento se tornem conhecidos, razão pela qual o início da contagem do prazo prescricional tem por termo inicial o dia da cessação da permanência, nos termos do art. 111, III, do Código Penal. (AP 863, Relator Ministro EDSON FACHIN, Primeira Turma, julgado em 23-5-2017, ACÓRDÃO ELETRÔNICO DJe-191 DIVULG 28-8-2017 PUBLIC 29-8-2017)
+  > 3. Dessa forma, comprovada, de forma indene de dúvida, a prática de crimes de corrupção antecedentes, praticados no âmbito de organização criminosa, a ausência de oferecimento de denúncia em relação aos específicos atos de corrupção passiva já cobertos pela prescrição, não impede o processo e julgamento dos crimes de lavagem praticados no escopo de ocultar os valores.
+  > 4. As operações “Descontrole” e “Quinto do Ouro”, juntamente com as investigações subsequentes após sua deflagração, foram conduzidas para apurar uma organização criminosa envolvida em casos de corrupção ativa e passiva, bem como lavagem de dinheiro relacionada à cobrança de propina em uma grande quantidade de contratos administrativos celebrados com o Estado do Rio de Janeiro. As atividades da ação criminosa desenvolveram-se, ao menos, a partir de 1999 até dezembro de 2016.
+  > 5. Com base em informações e documentos fornecidos por dirigentes de empresas com as quais foram celebrados acordos de colaboração premiada, além de outros elementos apresentados pelo então ex-presidente do TCE-RJ, seu filho e outros agentes envolvidos nos crimes, todos como colaboradores, foi compilado extenso conjunto de evidências demonstrando que essa organização criminosa incluía Conselheiros do Tribunal de Contas. As acusações apresentadas pelos colaboradores foram fartamente comprovadas ao longo da instrução, notadamente pelos documentos juntados aos autos, que incluem formulários de abertura de diversas contas, inclusive na Suíça, documentos de identidade do beneficiário, correspondências, extratos bancários de 1998 a 2016, e detalhes das operações de crédito e débito. São fartas as provas da prática do crime antecedente (organização criminosa/corrupção) e da elaborada tentativa de ocultar os recursos obtidos por meio do mencionado crime.
+  > 6. As preliminares de cerceamento de defesa foram analisadas anteriormente pela Corte Especial, que entendeu pela ausência de necessidade e pertinência das diligências requeridas, seja a oitiva de testemunhas residentes no exterior, seja a realização de perícia contábil de documento particular juntado aos autos.
+  > 7. José Gomes Graciosa assumiu o cargo de Conselheiro do Tribunal de Contas do Estado do Rio de Janeiro em 1997. Foi Vice-Presidente do Tribunal de Contas Estadual entre 1998 e 2000 e Presidente por três mandatos consecutivos, no período de 2001 a 2006. Conforme ficou comprovado nos autos, o acusado ocultou valores recebidos e distribuídos a partir de vantagens indevidas obtidas em função do cargo no Tribunal de Contas. Os recursos nas contas são fruto de corrupção. Além disso, as datas de abertura das contas bancárias e transferências de recursos coincidem com o período em que José Gomes Graciosa era Conselheiro, Vice-Presidente e Presidente do TCE/RJ.
+  > 8. A materialidade da infração antecedente e a contemporaneidade dos valores, cuja origem e licitude os réus não conseguiram demonstrar, foram cabalmente comprovadas a partir do que consta dos autos da presente ação penal por lavagem de dinheiro, bem como dos autos da APn 897, cuja denúncia e respectivos apensos foram juntados aos autos da ação penal em julgamento (em que há persecução criminal do delito antecedente de pertencimento a organização criminosa voltada à prática de corrupção, bem como de crimes de corrupção não prescritos, posteriores à ocultação dos valores objeto da denúncia ora em apreciação). Não há dúvidas de que os valores depositados no exterior decorrem de atos de corrupção praticados por meio de organização criminosa, estando vinculados de forma inequívoca aos atos de lavagem denunciados.
+  > 9. CONJUNTO DE FATOS 1: Após a consumação dos crimes antecedentes de corrupção e pertencimento a organização criminosa, o denunciado José Gomes Graciosa, de forma consciente e voluntária, em duas ocasiões distintas, teve como objetivo ocultar a origem ilícita do dinheiro obtido das propinas. O denunciado ocultou e dissimulou a origem, natureza, disposição, movimentação e propriedade de pelo menos CHF 1.161.327,95 francos suíços, mantendo e movimentando recursos ilícitos nas seguintes contas no exterior: 1) conta n.º 279-C0642036, em nome de José Gomes Graciosa, UBS Switzerland AG, na Confederação Suíça, mantida entre 31/07/1998 e 05/02/2016, e 2) conta n.º 0240-00586304 (master), em nome da offshore LA CAMUS CORP, beneficiário final José Gomes Graciosa, no banco UBS Switzerland AG, na Suíça, mantida entre 04/01/2000 e 05/10/2016 (Lavagem de Ativos: art. 1 º, § 4º, da Lei 9.613/98). A ré Flávia Graciosa deve ser absolvida quanto a esta imputação.
+  > 10. CONJUNTO DE FATOS 2: Em 5 de outubro de 2016, o acusado José Gomes Graciosa, com a ajuda consciente e voluntária de sua esposa Flávia Graciosa, ocultou e dissimulou a origem, natureza, disposição, movimentação e propriedade de CHF 1.147.720,36 (um milhão, cento e quarenta e sete mil, setecentos e vinte francos suíços e trinta e seis centavos). O crime ocorreu tendo como antecedente o delito de pertencimento à organização criminosa voltada à prática de corrupção, integrada pelo denunciado e outros conselheiros do Tribunal de Contas do Rio de Janeiro. A lavagem foi praticada por meio de cinco transferências de valores de origem ilícita das contas: 0240-00586304.01G (CHF), 0240-00586304.17X (JPY), 0240-00586304.18D (GBP), 0240-00586304.60K (USD) e 0240-00586304.70Q (EUR), em nome da offshore LA CAMUS CORP, no banco UBS Switzerland AG, na Confederação Suíça controladas por JOSÉ GOMES GRACIOSA, para a conta IBAN IT10C 02008 05008 000400406198, mantida no banco Unicredit S.P.A., em nome CARITAS INTERNATIONALIS, com o intuito de ocultar a origem criminosa dos valores, esconder o verdadeiro proprietário e dificultar o rastreamento dos recursos (Lavagem de Ativos: art. 1 º, § 4º, da Lei 9.613/98). Condenação de ambos os réus quanto ao conjunto de fatos 2.
+  > 11. CONJUNTO DE FATOS 3: Segundo a denúncia, em 5 de fevereiro de 2016, José Gomes Graciosa, de forma consciente e voluntária, com a ajuda essencial de sua esposa Flávia, ocultou e dissimulou a origem, natureza, disposição, movimentação e propriedade do valor de USD 1.079,26. Utilizando-se de uma transferência bancária, esses valores, provenientes de corrupção passiva, foram transferidos da conta nº 279-C0642036, mantida no UBS Switzerland AG em nome JOSÉ GOMES GRACIOSA, para a conta IBAN PT5000 360314991000299126, no banco Caixa Econômica Montepio Geral, em nome de JOSÉ MATHEUS HOFBAUER GRACIOSA, filho dos réus. Improcedência da denúncia no ponto. Não há evidências de que a transferência do valor de USD 1.079,26, para o próprio filho, tenha tido por objetivo lavar capital, uma vez que a módica soma é compatível com a finalidade, alegada pela defesa, de auxiliar a manutenção do filho em Portugal. Absolvição de ambos os réus quanto ao conjunto de fatos 3.
+  > 12. A instituição bancária suíça forneceu documentos que comprovam que José Gomes Graciosa era o beneficiário final das contas descritas nos conjuntos de fatos 1 e 2, mantendo parte dos valores oriundos dos crimes antecedentes ocultos na Suíça. Também foram enviados registros de contato com Flávia Graciosa, que transmitia orientações sobre as movimentações bancárias e atuava como intermediária de José Gomes Graciosa. Os documentos fornecidos incluem formulários de abertura das contas, documentos de identidade do beneficiário, correspondências, extratos bancários, e detalhes das operações de crédito e débito. Ré Flávia Graciosa condenada apenas pelo conjunto de fatos 2.
+  > 13. Estando a materialidade e autoria dos crimes fartamente demonstradas nos autos, é de rigor a condenação dos réus pela prática dos crimes de lavagem e ocultação de ativos.
+  > 14. Não incide a causa de aumento prevista no art. 1º, § 4º, da Lei 9613/98. Embora as infrações antecedentes tenham sido praticadas por meio de organização criminosa, não o foi a lavagem de capitais. Sendo a lavagem crime autônomo, para incidir a causa especial de aumento em questão, a própria lavagem teria de ter sido praticada por intermédio de organização criminosa, o que foi o caso.
+  > 15. Penas finais: (a) JOSÉ GOMES GRACIOSA: 13 anos de reclusão, em regime inicial fechado, e 347 dias-multa, no patamar de 1 salário mínimo cada, no patamar de 1 salário mínimo cada; (b) FLÁVIA LOPES SEGURA: 3 anos e 8 meses de reclusão, em regime inicial aberto, e 40 dias-multa, no patamar de 1 salário mínimo cada, substituída a pena privativa de liberdade aplicada, no caso da ré, por 2 penas restritivas de direito, nomeadamente: prestação de serviços à comunidade e limitação de fim de semana, nos termos que vierem a ser pormenorizados pelo juízo da execução da pena.
+  > 16. Dano moral coletivo: necessidade de ação própria, no caso concreto.
+  > 17. Ação penal julgada procedente em parte, porque: (a) absolvida a corré quanto às imputações do conjunto de fatos 1; (b) afastada a continuidade delitiva alegada quanto ao conjunto de fatos 2, beneficiando ambos os réus; (c) absolvidos ambos os réus quanto às imputações do conjunto de fatos 3.
+  > (APn n. 927/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 4/2/2026, DJEN de 10/3/2026.)
+
+## 55. AgRg no AREsp nº 2583516 / TO (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
@@ -75,19 +115,19 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
   > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
 
-## 54. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
+## 56. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin (Presidente). Publicado em 02/02/2026.
 - Crime / Tema: Dosimetria
 - Resumo: Devolução do processo ao fluxo regular após pacificação do Tema 150/STF (RE 593818): maus antecedentes não prescrevem em 5 anos como a reincidência, mas o julgador pode deixar de valorá-los se irrelevantes ou muito distantes no tempo.
 - Ver andamento no STF: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7467927
 
-## 55. AREsp nº 3045207 / MT (STJ)
+## 57. AREsp nº 3045207 / MT (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
 - Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
 - Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
 
-## 56. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+## 58. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
 - Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
@@ -110,7 +150,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
   > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 57. REsp nº 1953602 / SP (STJ)
+## 59. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -130,28 +170,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 58. RHC nº 213637 / BA (STJ)
+## 60. RHC nº 213637 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
-
-## 59. AgRg no REsp nº 2173273 / MG (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
-- Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2173273.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. AUSÊNCIA. DENÚNCIA ANÔNIMA. NERVOSISMO. ELEMENTOS SUBJETIVOS INSUFICIENTES. CONSENTIMENTO DO MORADOR. NÃO COMPROVAÇÃO. ILICITUDE DA PROVA. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. O Plenário do Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, com repercussão geral previamente reconhecida (Tema n. 280), assentou que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados" (Rel. Ministro Gilmar Mendes, DJe 10/5/2016).
-  > 2. Consoante entendimento do Supremo Tribunal Federal, a notícia anônima de crime, por si só, não é apta para instaurar inquérito policial; ela pode servir de base válida à investigação e à persecução criminal, desde que haja prévia verificação de sua credibilidade em apurações preliminares, ou seja, desde que haja investigações prévias para verificar a verossimilhança da notitia criminis anônima. Assim, com muito mais razão, não há como se admitir que denúncia anônima seja elemento válido para violar franquias constitucionais (à liberdade, ao domicílio, à intimidade).
-  > 3. No caso concreto, segundo consta dos autos, policiais militares receberam denúncia anônima quanto à comercialização de drogas em determinado endereço. Ao lá chegarem, encontraram o acusado na porta da residência, o qual supostamente demonstrou nervosismo. Abordaram-no e este haveria confessado o armazenamento de drogas, bem como franqueado o acesso dos policiais ao imóvel.
-  > 4. No caso dos autos, não há comprovação do consentimento livre e voluntário para o ingresso em domicílio. Com efeito, soa completamente inverossímil a versão policial, ao narrar que o réu, depois de ser abordado em via pública, haveria livre e espontaneamente confessado ter drogas em casa e franqueado o ingresso no domicílio para uma varredura à procura de substâncias ilícitas. Ora, um mínimo de vivência e de bom senso sugerem a falta de credibilidade de tal versão. Pelas circunstâncias em que ocorreram os fatos –, quantidade de policiais, todos armados etc. –, não se mostra crível a voluntariedade e a liberdade para consentir no ingresso. Ademais, O suposto nervosismo genérico do acusado, isoladamente, não é suficiente para justificar o imediato ingresso em domicílio.
-  > 5. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
-
-## 60. Rcl nº 80.133 / PR (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
-- Crime / Tema: Prova digital · Acesso da defesa às provas
-- Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf

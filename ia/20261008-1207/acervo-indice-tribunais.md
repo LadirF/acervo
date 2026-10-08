@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — índice: TRFs e tribunais estaduais (13 decisões)
 
-Parte do índice do acervo (112 decisões no total, da mais recente para a mais antiga). As instruções para analisar um caso e os demais arquivos de índice estão em https://ladirf.github.io/acervo/acervo.md — leia-o antes e percorra **todos** os arquivos de índice. Cada item indica a parte (acervo-parte-N.md) onde estão a ementa oficial, a referência e o PDF.
+Parte do índice do acervo (112 decisões no total, da mais recente para a mais antiga). As instruções para analisar um caso e os demais arquivos de índice estão em https://ladirf.github.io/acervo/ia/20261008-1207/acervo.md — leia-o antes e percorra **todos** os arquivos de índice. Cada item indica a parte (acervo-parte-N.md) onde estão a ementa oficial, a referência e o PDF.
 
 ## Decisões
 
