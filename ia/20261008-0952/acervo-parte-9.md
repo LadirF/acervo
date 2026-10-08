@@ -1,73 +1,32 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 8 de 10 (decisões 71 a 80)
+# Acervo de Jurisprudência — Cury Advogados — parte 9 de 11 (decisões 81 a 90)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 95 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 105 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261007-1759/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Índice de todas as decisões: https://ladirf.github.io/acervo/ia/20261008-0952/acervo.md — para analisar um caso, siga as instruções no início do índice (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 71. HC nº 219.196 / GO (STF)
-- Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 02/06/2023.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão · Direito ao silêncio · Cabimento do HC
-- Resumo: Confissão informal colhida sem aviso do direito ao silêncio é ilícita, e denúncia anônima, sozinha, não autoriza o ingresso em domicílio (art. 5º, XI e LXIII, da CF). Busca anulada junto com as provas derivadas (art. 157, § 1º, do CPP); ré absolvida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-219196.pdf
-
-## 72. HC nº 166.373 / PR (STF)
-- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Alexandre de Moraes. Plenário. Publicado em 18/05/2023.
-- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
-- Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-166373.pdf
+## 81. AgRg no AREsp nº 2249976 / SP (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
+- Crime / Tema: Receptação
+- Resumo: Adolescente que era só carona da moto receptada, sem estar na posse do bem nem haver prova de que a recebeu ou de que agiu em concurso: a conduta é atípica. Mantida a improcedência da representação (ato infracional análogo à receptação).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2249976.pdf
 - Ementa oficial:
-  > CONSTITUCIONAL E PENAL. ACORDO DE COLABORAÇÃO PREMIADA. DEVIDO PROCESSO LEGAL E CONTRADITÓRIO. RÉU/DELATADO TEM O “DIREITO DE FALAR POR ÚLTIMO”. AMPLA DEFESA E APRESENTAÇÃO DE SUAS ALEGAÇÕES FINAIS APÓS A MANIFESTAÇÃO DO COLABORADOR. ORDEM CONCEDIDA.
-  > 1.O acordo de colaboração premiada é um meio de obtenção de prova (art. 3º da Lei 12.850/2013), e assim como ocorre em outros meios de obtenção de prova, como a interceptação telefônica, o contraditório é diferido e deverá ser realizado durante a ação penal, com amplas possibilidades de demonstrar eventual falsidade, erros ou exageros das declarações prestadas pelo colaborador. Haverá, portanto, total possibilidade de impugnação das afirmações e informações apresentadas pelo colaborador.
-  > 2.O interesse processual do colaborador está direta e intimamente ligado à obtenção da condenação do delatado pelo Ministério Público. O colaborador precisa da condenação baseada em informações eficazes que tenha fornecido na delação e que, concretamente, tenham possibilitado a obtenção de provas para sustentar a sentença condenatória; pois se a colaboração não for eficaz, o delator não fará jus aos benefícios prometidos.
-  > 3.A relação de antagonismo entre as versões da acusação, do colaborador e da defesa não deixa dúvidas sobre quem tem o direito de falar por último. A relação COLABORADOR X DELATADO é de antagonismo, é de contradição, é de contraditório. Trata-se de situação diversa daquela tratada pelo Código de Processo Penal em relação aos corréus.
-  > 4.O delatado tem o direito de falar por último sobre todas as imputações que possam levar à sua condenação. O direito de falar por último está contido no exercício pleno da ampla defesa englobando a possibilidade de refutar todas, absolutamente todas as informações, alegações, depoimentos, insinuações, provas e indícios em geral que possam, direta ou indiretamente, influenciar e fundamentar uma futura condenação penal, entre elas as alegações do delator.
-  > 5.Habeas Corpus deferido, com a fixação da seguinte TESE: “Havendo pedido expresso da defesa no momento processual adequado (art. 403 do CPP e art. 11 da Lei 8.038/90), os réus têm o direito de apresentar suas alegações finais após a manifestação das defesas dos colaboradores, sob pena de nulidade”.
-  > (STF, HC n. 166.373/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 30/11/2022, DJe de 18/5/2023.)
+  > PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. AUSÊNCIA DE ELEMENTOS PROBATÓRIOS DE QUE O ADOLESCENTE TENHA PRATICADO UM DOS VERBOS NUCLEARES DO TIPO NARRADO NA PEÇA DE REPRESENTAÇÃO, OU DE QUE TENHA INTEGRADO CONCURSO DE PESSOAS EM SUA PRÁTICA. MERO CARONA DO VEÍCULO EVENTUALMENTE ABORDADO PELOS POLICIAIS. AGRAVO NÃO PROVIDO.
+  > 1. No caso, além de não ter sido localizado na posse do bem, uma vez que não era o responsável pela condução do veículo, não existem outros elementos probatórios a indicar que o adolescente tenha recebido, em proveito próprio, a motocicleta apreendida pelos policiais.
+  > 2. Nesse contexto, de rigor o reconhecimento da atipicidade da conduta, pois ausentes quaisquer elementos de prova de que o recorrente tenha praticado um dos verbos nucleares do tipo narrado na peça de representação (e-STJ, fls. 1-6), ou integrado concurso de pessoas em sua prática.
+  > 3. Agravo regimental não provido.
+  > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJEN de 13/3/2023.)
 
-## 73. AgRg no REsp nº 2009839 / MG (STJ)
-- Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 16/05/2023.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão
-- Resumo: Mandado de busca e apreensão de menor não autoriza vasculhar a casa: o art. 283, § 2º, do CPP manda respeitar a inviolabilidade do domicílio. O rádio comunicador só foi visto quando os policiais já estavam dentro. O ônus de provar o consentimento voluntário do morador é do Estado. Provas nulas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2009839.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. INVASÃO DE DOMICÍLIO. AUSÊNCIA DE FUNDADAS RAZÕES PARA O INGRESSO. AGRAVO REGIMENTAL DESPROVIDO.
-  > 1. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados"
-  > 2. O Ministro Rogerio Schietti Cruz, ao discorrer acerca da controvérsia objeto desta irresignação no REsp n. 1.574.681/RS, bem destacou que "a ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar írrito o direito à intimidade e à inviolabilidade domiciliar" (SEXTA TURMA, julgado em 20/4/2017, DJe 30/5/2017).
-  > 3. No caso em tela, o ingresso na casa onde foram apreendidas as drogas –16g (dezesseis gramas) de maconha e 1g (um grama) de cocaína – e o rádio comunicador não teve fundadas razões, ao contrário, porquanto a expedição de mandado de busca e apreensão de menor não autoriza o ingresso no domicílio e a realização de varredura no local.
-  > 4. Cumpre consignar, por oportuno, que o art. 283, § 2º, do CPP determina, expressamente, que em cumprimento de mandado de prisão – ou busca e apreensão de menor, como no caso em tela –, "[a] prisão poderá ser efetuada em qualquer dia e a qualquer hora, respeitadas as restrições relativas à inviolabilidade do domicílio", o que demonstra a ilegalidade da presente diligência porquanto os próprios agentes policiais informaram que perceberam a presença do rádio comunicador quando já estavam dentro da residência.
-  > 5. "Segundo a nova orientação jurisprudencial, o ônus de comprovar a higidez dessa autorização, com prova da voluntariedade do consentimento, recai sobre o estado acusador" (HC n. 685.593/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19/10/2021, grifei.)
-  > 6. Agravo regimental desprovido.
-  > (AgRg no REsp n. 2.009.839/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/5/2023, DJe de 16/5/2023.)
+## 82. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
+- Crime / Tema: Tráfico de drogas
+- Resumo: O réu não foi preso em flagrante, os policiais não presenciaram venda e não havia outra prova além da denúncia anônima e dos depoimentos policiais. Depoimento policial só sustenta condenação quando harmônico com as demais provas. Réu absolvido do tráfico (in dubio pro reo).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2167621.pdf
 
-## 74. AgRg no AREsp nº 2045772 / MG (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/04/2023.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Denúncias anônimas e uma busca pessoal sem nada encontrado não são fundadas razões para entrar na casa, e a autorização dada por corré (depois absolvida) não valida o ingresso. Provas nulas e réus absolvidos. Determinado o envio de cópias ao MP e à PM para apurar abuso de autoridade (art. 40 do CPP; arts. 22 e 23, II, da Lei 13.869/2019).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2045772.pdf
-- Ementa oficial:
-  > PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. SÚMULA 284/STF. NÃO INCIDÊNCIA. ILICITUDE DA PROVA EM DECORRÊNCIA DE AVENTADO INGRESSO DOMICILIAR ILEGAL. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS PELA LEGALIDADE. DESNECESSIDADE DE REVOLVIMENTO FACTUAL. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. FUNDADAS RAZÕES. INEXISTÊNCIA. DENÚNCIA ANÔNIMA E AUSÊNCIA DE APREENSÃO NA BUSCA PESSOAL. INVALIDADE DA AUTORIZAÇÃO DE INGRESSO. VIOLAÇÃO DOMICILIAR. ART. 40 DO CPP. ENVIO DE CÓPIAS.
-  > I - Inaplicável a Súmula 284/STF nas hipóteses em que devidamente indicado o dispositivo de lei federal objeto de ofensa e explicitadas as suas razões.
-  > II - A delimitação clara das premissas fáticas autoriza nova valoração e afasta a incidência da Súmula 7/STJ.
-  > III - Consoante entendimento recente desta Corte Superior, "o ingresso em moradia alheia depende, para sua validade e sua regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio" (AgRg no REsp n. 2.041.858/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/2/2023).
-  > IV - No caso, as circunstâncias prévias que ensejaram o ingresso policial na residência - denúncias anônimas, busca pessoal infrutífera, autorização de ingresso concedido por corré (posteriormente absolvida) e posterior apreensão de drogas na residência - não pavimentam situação mitigadora da inviolabilidade domiciliar, ao contrário, os elementos anteriores ao ingresso domiciliar não ensejaram a situação excepcional a legitimar o ingresso no seio domiciliar sem autorização judicial.
-  > V - Certo é que “Há de se convir, no entanto, que só justifica o ingresso policial no domicílio alheio a situação de ocorrência de um crime cuja urgência na sua cessação desautorize o aguardo do momento adequado para, mediante mandado judicial meio ordinário e seguro para o afastamento do direito à inviolabilidade da morada legitimar a entrada em residência ou local de abrigo” (HC n. 705.241/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/12/2021, grifei).
-  > VI - No caso presente, a atuação precipitada da polícia culminou na nulidade das provas colhidas, com a inutilização da apreensão de 533,34g de maconha, comprometendo a regularidade da persecução penal, o que certamente poderia ser evitado com as devidas investigações e diligências. Sob essa perspectiva, com esteio nos elementos fáticos subjacentes ao presente recurso, determina-se, com fundamento no artigo 40 do Código de Processo Penal, o envio de cópia dos presentes autos ao Ministério Público Federal e Estadual, ante a competência definida na ADPF 635 - MC, bem como a Polícia Militar, para apuração de infração aos artigos 22 e 23, II, ambos da Lei n. 13.869/2019, dentre outros possíveis crimes previstos no Código Penal, Código Penal Militar e legislação extravagante, com as imediatas providências cabíveis. Agravo regimental provido, para reconhecer a nulidade das provas obtidas mediante ingresso domiciliar sem mandado, bem como as provas derivadas, e absolver os agravantes das imputações contidas na denúncia (art. 386, VII, do CPP), remetendo-se, com esteio no artigo 40 do Código de Processo Penal, cópia dos presentes autos ao Ministério Público Federal e Estadual, para apuração de eventuais crimes, bem como a Polícia Militar, com a imediata comunicação a este Superior Tribunal de Justiça quanto às providências tomadas no âmbito da instituição de segurança pública.
-  > (AgRg no AREsp n. 2.045.772/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
-
-## 75. ApCrim nº 1500466-02.2020.8.26.0621 (TJSP)
-- Decisão colegiada. Relator: Des. Guilherme de Souza Nucci. 16ª Câmara de Direito Criminal. Publicado em 03/04/2023.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inviolabilidade de domicílio
-- Resumo: Denúncia anônima genérica, sem investigação prévia (campana com registro), sem flagrante de venda e sem urgência, não autoriza a entrada na casa. Também há dúvida sobre o consentimento dado pela mãe da moradora. Provas ilícitas e réus absolvidos (art. 386, VII, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1500466-02-2020.pdf
-- Ementa oficial:
-  > Apelação. Tráfico de drogas e associação ao tráfico. Pleito objetivando a ilicitude das provas obtidas a partir de denúncia anônima e posterior ingresso em domicílio, por policiais civis, com a consequente absolvição por falta de provas. Possibilidade. Apelantes que teriam guardado, em suas residências, 30 porções de maconha (51,2 g), 10 porções de cocaína (1,5 g) e uma porção menor de maconha (37,85 g), sem autorização e em desacordo com determinação legal e regulamentar. Ilegalidade da atuação policial no caso concreto. Diligência policial iniciada por meio de “denúncia anônima” genérica, não esclarecida quanto à sua origem e existência. Entrada na residência da recorrente que ocorreu sem nenhuma diligência prévia de investigação policial, como o acompanhamento do movimento no imóvel por meio de campanas, com registro documental, ou mesmo o flagrante de uma atividade de mercancia ilícita, não se demonstrando sequer a urgência necessária para a excepcional invasão da residência naquele momento específico por parte dos policiais militares. Dúvidas acerca da existência do suposto consentimento oferecido pela genitora da apelante, quanto à entrada dos policiais no local. Circunstâncias do caso concreto que, em seu conjunto, demonstram a ilicitude da entrada dos policiais no imóvel da recorrente e, por consequência, da apreensão dos entorpecentes. Precedentes do STF e do STJ. Assim, tendo em vista a inadmissibilidade de utilização de tais elementos de prova ilícitos, resta frágil e insuficiente o acervo probatório amealhado para comprovação dos crimes, sendo de rigor a absolvição dos apelantes, nos termos do art. 386, inciso VII, do CPP. Recursos providos.
-  > (TJSP, Apelação Criminal n. 1500466-02.2020.8.26.0621, relator Desembargador Guilherme de Souza Nucci, 16ª Câmara de Direito Criminal, julgado em 28/3/2023, publicado em 3/4/2023.)
-
-## 76. AgRg no RHC nº 143169 / RJ (STJ)
+## 83. AgRg no RHC nº 143169 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto; redator do acórdão: Min. Ribeiro Dantas. Quinta Turma. Publicado em 02/03/2023.
 - Crime / Tema: Furto · Organização criminosa · Lavagem de dinheiro · Quebra da cadeia de custódia · Prova digital
 - Resumo: Quebra da cadeia de custódia da prova digital: a polícia não documentou a apreensão e a análise dos computadores, sem imagem bit a bit nem hash. É ônus do Estado provar a integridade da prova. São inadmissíveis as provas extraídas e as delas derivadas, e a exigência vale mesmo para fatos anteriores ao Pacote Anticrime.
@@ -85,7 +44,22 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 9. Agravo regimental parcialmente provido, para prover também em parte o recurso ordinário em habeas corpus e declarar a inadmissibilidade das provas em questão.
   > (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023.)
 
-## 77. HC nº 762932 / SP (STJ)
+## 84. HC nº 776885 / MG (STJ)
+- Decisão monocrática. Relator: Min. Jesuíno Rissato (Des. convocado do TJDFT). Sexta Turma. Publicado em 14/02/2023.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Fundada suspeita · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima e "características físicas" do suspeito não configuram fundada suspeita para a busca pessoal (art. 244 do CPP), e o ingresso na casa que se seguiu também não tinha fundadas razões. Provas nulas, inclusive as da casa. Ação penal trancada, com extensão ao corréu (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-776885.pdf
+
+## 85. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
+- Decisão colegiada. Relator: Des. André Carvalho e Silva de Almeida. 1º Grupo de Direito Criminal. Publicado em 03/02/2023.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Revisão criminal
+- Resumo: Revisão deferida contra condenação do Júri manifestamente contrária à prova: não havia testemunha presencial, a vítima não foi ouvida em juízo e as testemunhas nada disseram contra os réus. Absolvição por falta de prova da autoria (art. 386, V, do CPP), estendida ao corréu.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rvcr-0019378-10-2021.pdf
+- Ementa oficial:
+  > Revisão Criminal – Júri – Decisão manifestamente contrário à prova dos autos – Inexistência de testemunhas presenciais – Vítima não ouvida em juízo – Testemunhas que nada disseram contra os denunciados – Revisão deferida para absolver.
+  > (TJSP, Revisão Criminal n. 0019378-10.2021.8.26.0000, relator Desembargador André Carvalho e Silva de Almeida, 1º Grupo de Direito Criminal, julgado em 27/1/2023, publicado em 3/2/2023.)
+
+## 86. HC nº 762932 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Antecedente por tráfico, sozinho, não autoriza busca domiciliar; admitir isso seria Direito Penal do autor. O réu já estava preso por porte de arma na rua, sozinho, diante de policiais armados e sem defesa: nessas condições, o consentimento para a busca com cães farejadores não é crível nem válido (coação ambiental), e cabe ao Estado prová-lo. Foi uma pescaria probatória (fishing expedition). Réu absolvido do tráfico; mantida a condenação pela arma, apreendida antes e fora da casa.
@@ -113,9 +87,9 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 19. Ordem concedida para, considerando que não houve fundadas razões, tampouco comprovação de consentimento válido para a realização de buscas por drogas no domicílio do paciente, reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram, e, por conseguinte, absolvê-lo em relação à prática do delito de tráfico de drogas.
   > (HC n. 762.932/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 30/11/2022.)
 
-## 78. AgRg no HC nº 731882 / AM (STJ)
+## 87. AgRg no HC nº 731882 / AM (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Revisão criminal
 - Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-731882.pdf
 - Ementa oficial:
@@ -127,7 +101,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
   > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
 
-## 79. RHC nº 147043 / SP (STJ)
+## 88. HC nº 221.204 / MG (STF)
+- Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 24/10/2022.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Cabimento do HC
+- Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
+
+## 89. RHC nº 147043 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
 - Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
@@ -140,7 +120,7 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
   > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
   > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
 
-## 80. HC nº 653515 / RJ (STJ)
+## 90. HC nº 653515 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
 - Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
