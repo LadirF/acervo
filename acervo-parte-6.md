@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 6 de 14 (decisões 51 a 60)
+# Acervo de Jurisprudência — Cury Advogados — parte 6 de 15 (decisões 51 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 137 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 147 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,101 +8,128 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. HC nº 276.144 / MS (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
-- Crime / Tema: Corrupção passiva · Dosimetria
-- Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
+## 51. HC nº 276.724 / RS (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 10/09/2026.
+- Crime / Tema: Cabimento do HC
+- Resumo: A unirrecorribilidade não se aplica ao habeas corpus: a interposição de recurso especial contra o mesmo acórdão não impede o conhecimento do HC. Ordem concedida para o STJ julgar o mérito do HC.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276724.pdf
 
-## 52. AgRg no HC nº 1089462 / MG (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
-- Crime / Tema: Embriaguez ao volante · Excesso de prazo
-- Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089462.pdf
+## 52. REsp nº 2176719 / MG (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
+- Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
+- Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
+
+## 53. HC nº 1127513 / SP (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
+- Crime / Tema: Falsidade ideológica · Alucinação de IA
+- Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
+
+## 54. REsp nº 2253784 / PA (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
+- Crime / Tema: Estupro de vulnerável
+- Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253784.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXCESSO DE PRAZO. TRANCAMENTO DE INQUÉRITO POLICIAL. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
+  > DIREITO PENAL. RECURSO ESPECIAL. ESTUPRO DE VULNERÁVEL. RELACIONAMENTO AMOROSO CONSENTIDO. CIÊNCIA E ANUÊNCIA FAMILIAR. NASCIMENTO DE FILHA. DISTINGUISHING DO TEMA REPETITIVO N. 918/STJ E DA SÚMULA 593/STJ. ATIPICIDADE MATERIAL. RECURSO ESPECIAL PROVIDO. PARECER MINISTERIAL ACOLHIDO.
+  > 1. A tese firmada no Tema Repetitivo n. 918/STJ, reproduzida na Súmula 593/STJ, estabelece que o consentimento da vítima menor de 14 anos, sua experiência sexual anterior ou a existência de relacionamento amoroso com o agente são juridicamente irrelevantes para a configuração do delito previsto no art. 217-A do Código Penal, sem excluir, contudo, a possibilidade de distinguishing em hipóteses absolutamente excepcionais marcadas por circunstâncias fáticas singulares.
+  > 2. A moldura fática delineada pelas instâncias ordinárias revela relacionamento amoroso duradouro entre o recorrente, então com 25 anos de idade, e a vítima, com 12 anos à época dos fatos, mantido com ciência e anuência dos familiares, do qual adveio o nascimento de uma filha, posteriormente reconhecida e assistida material e afetivamente pelo recorrente, inexistindo notícia de violência, coação, exploração, ascendência ou qualquer forma de constrangimento.
+  > 3. As circunstâncias singularíssimas do caso autorizam, excepcionalmente, o reconhecimento da atipicidade material da conduta, mediante distinguishing do Tema Repetitivo n. 918/STJ e da Súmula 593/STJ.
+  > 4. Recurso especial provido para cassar o acórdão condenatório e restabelecer a sentença absolutória, em consonância com o parecer ministerial.
+  > (REsp n. 2.253.784/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/9/2026, DJEN de 8/9/2026.)
+
+## 55. REsp nº 2059576 / MG (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
+- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Quantidade de droga, sozinha, só afasta o tráfico privilegiado se for tão expressiva que seja incompatível com o pequeno traficante. Fora disso, precisa de outros elementos concretos (profissionalismo, logística, estrutura de armazenamento).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2059576.pdf
+- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1241.pdf
+- Ementa oficial:
+  > DIREITO PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS. JULGAMENTO CONJUNTO DOS TEMAS REPETITIVOS N. 1241 E N. 1154. ART. 33, § 4º, DA LEI N. 11.343/2006. TRÁFICO PRIVILEGIADO. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO. MODULAÇÃO DA FRAÇÃO DE REDUÇÃO. ART. 42 DA LEI DE DROGAS. BIS IN IDEM. RECURSO ESPECIAL NÃO PROVIDO.
   > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público Estadual contra decisão monocrática que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para determinar o trancamento de inquérito policial, sem prejuízo de reabertura com surgimento de novas provas.
-  > 2. Trata-se de um único investigado por suposta embriaguez ao volante ocorrida em abril de 2022. Inquérito policial em curso há mais de três anos, sem justificativa plausível para a mora e sem complexidade aparente, com investigado em liberdade. Alegação ministerial de diligências pendentes e de impropriedade do prazo para conclusão do inquérito quando o investigado não está preso.
-  > 3. O Tribunal de origem denegou a ordem no habeas corpus originário. A decisão agravada reconheceu constrangimento ilegal por excesso de prazo e determinou o trancamento do inquérito policial.
+  > 1. Recurso especial submetido ao rito dos recursos repetitivos, nos termos dos arts. 1.036 e seguintes do Código de Processo Civil.
+  > 2. A controvérsia originalmente afetada ao Tema Repetitivo n. 1241, relativa à possibilidade de utilização da natureza e da quantidade das drogas apreendidas para modulação da fração de redução prevista no art. 33, § 4º, da Lei n. 11.343/2006, foi apreciada conjuntamente com o Tema Repetitivo n. 1154, em razão da interdependência entre as matérias.
+  > 3. No caso concreto, o Tribunal de origem reconheceu a incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 e fixou a fração de redução em 1/6, considerando exclusivamente a quantidade da droga apreendida, sem que esse vetor tivesse sido utilizado na primeira fase da dosimetria.
   > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se o excesso de prazo na conclusão de inquérito policial, sem justificativa plausível e sem complexidade, caracteriza constrangimento ilegal apto a ensejar o trancamento, ainda que o investigado esteja solto; e (ii) saber se o agravo regimental trouxe argumentos suficientes para infirmar a decisão que concedeu a ordem de ofício.
+  > 4. A questão em discussão consiste em definir se a natureza e a quantidade das drogas apreendidas podem ser utilizadas para modular a fração de redução da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que não tenham sido valoradas na primeira fase da dosimetria.
+  > 5. Discute-se, ainda, em que hipóteses a natureza e a quantidade das drogas apreendidas podem fundamentar o afastamento da própria causa especial de diminuição, isoladamente ou em conjunto com outros elementos concretos reveladores da dedicação do agente a atividades criminosas ou de sua integração a organização criminosa.
   > III. Razões de decidir
-  > 5. A demora superior a três anos, sem justificativa plausível e em feito sem complexidade, viola o direito fundamental à duração razoável do processo (CF/1988, art. 5º, LXXVIII) e configura constrangimento ilegal, autorizando o trancamento do inquérito policial.
-  > 6. O prazo para conclusão do inquérito é impróprio quando o investigado está solto, porém o excesso desarrazoado e injustificado não se legitima pela simples liberdade do investigado; diligências pendentes não afastam a necessidade de conclusão quando não demonstrada a complexidade ou a imprescindibilidade, sendo possível a concessão da ordem, de ofício, diante de flagrante coação ilegal (CPP, art. 654, § 2º).
-  > 7. O agravo regimental não apresentou argumentos capazes de infirmar a decisão agravada, impondo a manutenção do decisum pelos próprios fundamentos.
-  > IV. Dispositivo
-  > 8. Agravo regimental desprovido.
-  > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)
+  > 6. O julgamento conjunto dos Temas Repetitivos n. 1241 e n. 1154 permitiu uniformizar a interpretação do art. 33, § 4º, da Lei n. 11.343/2006 quanto ao papel desempenhado pela natureza e pela quantidade das drogas apreendidas tanto na aferição dos requisitos para incidência da causa especial de diminuição quanto na definição da respectiva fração de redução.
+  > 7. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante constitui fundamento idôneo para afastar a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+  > 8. Fora dessa hipótese excepcional, a natureza e a quantidade das drogas, isoladamente consideradas, não autorizam o afastamento da causa especial de diminuição, exigindo-se sua associação com outros elementos concretos do caso, como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento, aptos a evidenciar, mediante fundamentação específica, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
+  > 9. Reconhecida a incidência da causa especial de diminuição, a natureza e a quantidade das drogas apreendidas podem ser utilizadas para definir a fração de redução da pena, desde que não tenham sido valoradas na primeira fase da dosimetria, em observância à vedação ao bis in idem.
+  > 10. Não configura bis in idem a utilização da natureza e da quantidade das drogas como circunstância judicial negativa para exasperar a pena-base e, simultaneamente, como elemento indicativo da dedicação do agente a atividades criminosas ou de sua integração a organização criminosa para afastar a incidência da minorante. A duplicidade ocorre apenas quando essas mesmas circunstâncias são empregadas, concomitantemente, para majorar a pena-base e para modular a fração de redução da pena na terceira fase da dosimetria.
+  > 11. No caso concreto, a pena-base permaneceu fixada no mínimo legal, inexistindo dupla valoração na utilização da quantidade da droga exclusivamente para modular a fração da causa especial de diminuição, razão pela qual deve ser mantido o redutor no patamar de 1/6.
+  > IV. Dispositivo e tese
+  > 12. Resultado do Julgamento: Recurso não provido.
+  > Tese de julgamento: (Temas Repetitivos n. 1214 e n. 1154): "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa".
+  > (REsp n. 2.059.576/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 53. HC nº 1124321 / PR (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
-
-## 54. RHC nº 243213 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
-- Crime / Tema: Tráfico de drogas · Quebra de sigilo
-- Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
-
-## 55. HC nº 1121206 / PI (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
-
-## 56. REsp nº 2204349 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Terceira Seção. Publicado em 20/08/2026.
-- Crime / Tema: Associação para o tráfico · Execução penal · Tema repetitivo
-- Resumo: Tema 1.374/STJ — O art. 112, § 3º, V, da LEP (progressão especial para gestante, mãe ou responsável por criança ou pessoa com deficiência) se interpreta de modo restritivo: "organização criminosa" é só a condenação nos termos da Lei 12.850/2013, e não abrange associação criminosa (art. 288 do CP) nem associação para o tráfico (art. 35 da Lei 11.343/2006). Recurso provido para retificar o cálculo de pena.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2204349.pdf
+## 56. REsp nº 1963433 / SP (STJ)
+- Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
+- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Natureza e quantidade da droga são avaliadas juntas e uma única vez na dosimetria, de preferência para modular a fração do tráfico privilegiado. Usá-las para aumentar a pena-base e também para reduzir essa fração é bis in idem.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1963433.pdf
+- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1154.pdf
 - Ementa oficial:
-  > RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PENAL. EXECUÇÃO. PROGRESSÃO DE REGIME ESPECIAL. PRETENSÃO OBSTADA POR SE TRATAR DE REEDUCANDA CONDENADA POR ASSOCIAÇÃO PARA O TRÁFICO. INSTÂNCIAS ORDINÁRIAS AFIRMARAM A VEDAÇÃO DIANTE DO DISPOSTO NO ART. 112, § 3º, V, DA LEI N. 7.210/1984 (LEP). REQUISITOS CUMULATIVOS. MULHER GESTANTE OU MÃE DE CRIANÇAS OU PESSOA COM DEFICIÊNCIA QUE NÃO TENHA INTEGRADO ORGANIZAÇÃO CRIMINOSA. DISPOSIÇÃO LEGAL ESPECÍFICA E CLARA QUE NÃO ADMITE INTERPRETAÇÃO EXTENSIVA EM PREJUÍZO DO RÉU. MATÉRIA CONTROVERTIDA NO ÂMBITO DO SUPERIOR TRIBUNAL DE JUSTIÇA E DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE UNIFORMIZAÇÃO PARA GARANTIA DA SEGURANÇA JURÍDICA. INCISO V DO § 3º DO ART. 112 DA LEP. NORMA PENAL EM BRANCO. COMPLEMENTO NORMATIVO EXISTENTE. ART. 1º, § 1º, DA LEI N. 12.850/2013. INTERPRETAÇÃO EXTENSIVA IN MALAM PARTEM. IMPOSSIBILIDADE. PRINCÍPIOS DA LEGALIDADE, DA TAXATIVIDADE E DO FAVOR REI.
-  > 1. A questão posta no presente apelo nobre cinge-se a definir se o delito de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) equipara-se ou não ao crime de organização criminosa (art. 2º da Lei n. 12.850/2013), de modo a impedir a progressão especial de regime prevista no art. 112, § 3º, da Lei n. 7.210/1984 destinada a apenada gestante, mãe ou responsável por crianças ou pessoas com deficiência.
-  > 2. A redação do art. 112, § 3º, V, da LEP reflete aspecto até então não visível a todos: a literalidade do dispositivo não alcança o sentido dado pela interpretação conferida nos julgados que vedaram a progressão, configurando verdadeira interpretação extensiva do texto legal.
-  > 3. A previsão de "não ter integrado organização criminosa" não implica expressão genérica abrangedora de todas as espécies de grupos criminosos, mas, sim, de norma penal em branco, cuja subsunção perfeita dos fatos ao tipo penal exige uma complementação advinda de lei federal. E esse complemento já existe: art. 1º, § 1º, da Lei n. 12.850/2013.
-  > 4. O conceito de organização criminosa apresentado pelo legislador no art. 1º, § 1º, da Lei n. 12.850/2013, em respeito ao princípio da taxatividade, corolário do postulado da legalidade (estrita), demonstra quais os agrupamentos de pessoas devem ser objeto de alcance da referida lei.
-  > 5. Sobre esse enfoque, a jurisprudência do STJ elenca julgados que apreciaram minuciosamente a questão e concluíram no sentido da impossibilidade de o julgador, violando o princípio da taxatividade da lei penal, conferir interpretação extensiva à organização criminosa, constante do art. 112, § 3º, V, da LEP, com o fim de alcançar todas as formas de ajuntamento de pessoas com o intuito de cometer delitos.
-  > 6. A Sexta Turma do Superior Tribunal de Justiça pronunciou-se, quando do julgamento do HC n. 522.651/SP, capitaneado pelo voto condutor da Ministra Laurita Vaz, no sentido de que o art. 112, § 3º, V, da LEP, já dispõe de complemento normativo, não sendo legítimo que o julgador, em explícita violação do princípio da taxatividade da lei penal, interprete extensivamente o significado de organização criminosa a fim de abranger todas as formas de societas sceleris, como, por exemplo, a associação criminosa ou a associação para o tráfico ilícito de drogas.
-  > 7. Restou assentado que a vedação à interpretação extensiva in malam partem fica ainda mais evidente quando se trata de definir requisito que restringe a aplicação de benefício executório implementado por lei cuja finalidade é aumentar o âmbito de proteção às crianças ou pessoas com deficiência, as quais se encontram em situação de vulnerabilidade em razão de suas genitoras ou responsáveis se encontrarem reclusas em estabelecimentos prisionais.
-  > 8. A Quinta Turma, quando do julgamento do HC n. 679.715/MG (Ministro Reynaldo Soares da Fonseca), concluiu que, se houve por parte do legislador, incoerência legislativa ou se o ordenamento jurídico brasileiro possui mais de uma definição para o que vem a ser organização criminosa, deve-se, de toda sorte, tomar, conforme a orientação do STJ, o termo em sua acepção mais favorável à acusada, em atenção ao princípio do favor rei.
-  > 9. A fundamentação principal do entendimento adotado reside no princípio da legalidade – pilar do Direito Penal Constitucional e do Estado Democrático de Direito. Além disso, sob a ótica da taxatividade estrita, tal preceito obsta a aplicação da analogia in malam partem e veda qualquer interpretação extensiva que resulte prejuízo ao réu, ao sentenciado e ao reeducando.
-  > 10. O Supremo Tribunal Federal tem se pronunciado majoritariamente no mesmo sentido, vedando a interpretação extensiva do referido dispositivo, afirmando que o delito de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) não se equipara ao crime de organização criminosa, nos termos do art. 1º, § 1º, da Lei n. 12.850/2013.
-  > 11. Em observância aos princípios da legalidade e da taxatividade estrita – que vedam a analogia in malam partem e a interpretação extensiva em prejuízo do réu –, o art. 112, § 3º, V, da Lei n. 7.210/1984 limita-se às reeducandas condenadas por integrar organização criminosa (art. 1º, § 1º, da Lei n. 12.850/2013).
-  > 12. Tese de julgamento: Em atenção aos princípios da legalidade, da taxatividade e do favor rei, a interpretação do art. 112, § 3°, V, da LEP deve se dar de modo restritivo. Portanto, organização criminosa é somente a hipótese de condenação nos termos da Lei n. 12.850/2013, não abrangendo apenada que tenha participado de associação criminosa (art. 288 do CP) ou associação para o tráfico (art. 35 da Lei n. 11.343/2006).
-  > 13. Caso dos autos: As instâncias ordinárias obstaram a progressão de regime com fundamento no fato de a condenação pelo crime de associação para o tráfico estar inserida no contexto de organização criminosa do art. 112, § 3º, V, da Lei n. 7.210/1984.
-  > 14. Aplicando-se a tese ora definida, em atenção aos princípios da legalidade, da taxatividade e do favor rei, a interpretação do art. 112, § 3°, V, da LEP deve se dar de modo restritivo, não abrangendo apenadas pelo crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006).
-  > 15. Recurso especial provido para determinar ao Juízo das Execuções Penais que retifique o cálculo de penas da recorrente, abstendo-se de considerar a condenação pelo crime de associação para o tráfico de drogas para fins de análise do requisito contido no art. 112, § 3º, V, da Lei n. 7.210/1984.
-  > (REsp n. 2.204.349/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/8/2026, DJEN de 20/8/2026.)
+  > DIREITO PENAL. RECURSOS ESPECIAIS REPETITIVOS. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. TEMA 1154 E TEMA 1241 DA SISTEMÁTICA DOS RECURSOS REPETITIVOS. NATUREZA E QUANTIDADE DE ENTORPECENTES. DOSIMETRIA DA PENA. FIXAÇÃO DE TESE VINCULANTE. TESES FIXADAS; RECURSOS JULGADOS.
+  > I. Caso em exame
+  > 1. O julgamento conjunto. Julgamento conjunto, na sistemática dos recursos repetitivos, dos temas 1154 e 1241, para fixação de tese sobre: (i) uso da natureza e quantidade de drogas para afastar a minorante do art. 33, § 4º, da Lei 11.343/2006; e (ii) possibilidade de utilizar a quantidade e variedade de drogas apreendidas para definir a fração da minorante do tráfico privilegiado.
+  > 2. Fato relevante. Delimitação do Tema 712 da repercussão geral (STF) como premissa: “as circunstâncias da natureza e da quantidade da droga apreendida devem ser levadas em consideração apenas em uma das fases do cálculo da pena”, quando se trata de valoração negativa na pena-base e, simultaneamente, modulação da fração do redutor.
+  > 3. Casos representativos. Julgamento dos REsp 1963433-SP (tema 1154), REsp 1964296-MG (tema 1154), REsp 1963489-MS (tema 1154), REsp 2059577-MG (tema 1241) e REsp 2059576-MG (tema 1241). No REsp 1963433-SP, apreensão de 294 porções de crack, total aproximado de 249,8 g, com incidência de causa de aumento do art. 40, VI, da Lei 11.343/2006; no REsp 1964296-MG, apreensão de 1,934 kg de cocaína; no REsp 1963489-MS, apreensão de 99 kg de maconha, com incidência de causa de aumento do art. 40, V, da Lei 11.343/2006.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em: (i) saber se a natureza e a quantidade de drogas, isoladamente consideradas, podem servir como fundamento idôneo para afastar a minorante do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006); e (ii) saber se a quantidade e a variedade de drogas podem ser utilizadas para modular a fração de redução da minorante na terceira fase da dosimetria, e em que medida isso se compatibiliza com o Tema 712 da repercussão geral (STF) e com a vedação ao bis in idem.
+  > 5. Há duas questões adicionais em discussão: (i) saber se é possível valorar, preferencialmente, o binômio natureza-quantidade na terceira fase, deslocando-o da primeira fase sem configurar reformatio in pejus; e (ii) saber se é admissível a valoração simultânea do binômio, na primeira fase para exasperar a pena-base e, na terceira fase, para afastar a minorante, sem violação ao princípio do ne bis in idem.
+  > III. Razões de decidir
+  > 6. Firmou-se que natureza e quantidade constituem binômio incindível, devendo ser sempre valorados conjuntamente, vedada a fragmentação em vetores autônomos na dosimetria.
+  > 7. A premissa do Tema 712 (STF) impede a utilização concomitante do binômio natureza-quantidade para exasperar a pena-base e, simultaneamente, para modular a fração do redutor; não alcança, porém, a hipótese de uso para exasperar a pena-base e, ao mesmo tempo, afastar a incidência da minorante do § 4º do art. 33, o que não configura bis in idem por se tratar de fundamentos distintos.
+  > 8. Adota-se critério de especialidade: o binômio natureza-quantidade deve ser valorado preferencialmente na terceira fase para modular a fração do redutor, salvo quando a minorante não incidir, hipótese em que pode incidir na primeira fase para elevar a pena-base.
+  > 9. Não configura reformatio in pejus o deslocamento, em sede recursal de defesa, da valoração do binômio da primeira para a terceira fase, quando o tribunal passa a aplicar a minorante e utiliza a mesma circunstância apenas para modular a fração, sem aumento do quantum final da pena.
+  > 10. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
+  > 11. Aplicações concretas: (i) REsp 1963433-SP: mantida a negativa da minorante e o regime inicial mais gravoso, com causa de aumento do art. 40, VI; (ii) REsp 1964296-MG: afastada a minorante em razão da apreensão de 1,934 kg de cocaína, com fixação do regime inicial fechado; (iii) REsp 1963489-MS: mantida a negativa da minorante ante 99 kg de maconha e causa de aumento do art. 40, V.
+  > IV. Dispositivo e tese
+  > 12. Resultado do Julgamento: Teses fixadas nos temas 1154 e 1241; REsp 1963433-SP desprovido; REsp 1964296-MG provido; REsp 1963489-MS desprovido; REsp 2059577-MG e REsp 2059576-MG julgados nos termos do voto do relator, com fixação das teses.
+  > Tese de julgamento:
+  > 1. A natureza e a quantidade de drogas devem ser valoradas sempre de forma conjunta, como binômio incindível, vedada a aplicação separada em fases distintas da dosimetria.
+  > 2. A natureza e a quantidade de drogas devem ser valoradas preferencialmente na terceira fase da dosimetria para modular a fração da minorante do art. 33, § 4º, da Lei 11.343/2006, salvo quando a minorante não incidir, hipótese em que podem ser aplicadas na primeira fase para elevar a pena-base.
+  > 3. Caso a instância anterior tenha afastado a minorante e valorado o binômio na primeira fase, o tribunal, em recurso da defesa, ao aplicar o redutor, deve deslocar essa valoração para a terceira fase para modular a fração, sem configurar reformatio in pejus.
+  > 4. Não configura bis in idem considerar a natureza e a quantidade de drogas para aumentar a pena-base e, simultaneamente, como elemento fático para afastar a minorante do art. 33, § 4º, da Lei 11.343/2006; somente haverá bis in idem se o binômio for usado para elevar a pena-base e, ao mesmo tempo, para modular a fração da minorante.
+  > 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
+  > (REsp n. 1.963.433/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 57. HC nº 1122510 / BA (STJ)
-- Decisão monocrática (liminar). Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/08/2026.
-- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares · Superação da Súmula 691
-- Resumo: Superação excepcional da Súmula 691/STF — liminar para soltura imediata, paciente mantido preso em flagrante por mais de 72h sem qualquer controle jurisdicional da custódia, sem prejuízo de nova decretação de preventiva pelo Juízo natural, se fundamentada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1122510.pdf
-
-## 58. REsp nº 2261350 / AL (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 12/08/2026.
-- Crime / Tema: Roubo · Organização criminosa · Corrupção de menores · Reconhecimento de pessoa
-- Resumo: Reconhecimento feito pela simples exibição de oito fotos, sem alinhar pessoas parecidas, viola o art. 226 do CPP. A confirmação em juízo não o convalida, porque a memória da vítima já estava contaminada, e em juízo ela admitiu que o assaltante estava de rosto coberto e que reconheceu o réu pelo "biótipo parecido". O TJAL divergiu do Tema 1.258. Sem outras provas independentes, o réu foi absolvido (art. 386, VII, do CPP), com pena de 18 anos e 4 meses afastada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2261350.pdf
-
-## 59. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
-- Decisão colegiada. Relator: Des. Carlos Eduardo Contar. 2ª Câmara Criminal. Publicado em 04/08/2026.
-- Crime / Tema: Extorsão · Quebra da cadeia de custódia · Prova digital
-- Resumo: Absolvição por insuficiência de provas: prints de WhatsApp sem perícia não bastam para condenar. Ausência de integridade do material digital.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0027305-77-2022.pdf
+## 57. REsp nº 2048687 / BA (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 08/09/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Tema repetitivo
+- Resumo: Tema 1.260/STJ — Pronúncia não pode se basear só em elementos do inquérito nem só em testemunho indireto (“ouvir dizer”), ainda que colhido em juízo. Em contextos de intimidação, facções ou silenciamento de testemunhas, o testemunho indireto qualificado pode ter maior relevo, sob controle judicial estrito.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2048687.pdf
 - Ementa oficial:
-  > APELAÇÃO – DIREITO PROCESSUAL PENAL – EXTORSÃO – ABSOLVIÇÃO – PROVA DIGITAL – APONTAMENTO DE SÉRIA DÚVIDA QUANTO À ORIGEM E ELABORAÇÃO – IMPOSSIBILIDADE DE AFERIÇÃO TÉCNICA DE SUA CONFIABILIDADE – ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSITIVA – PROVIMENTO. Ainda que o conjunto de indícios apontem para a possível responsabilidade do acusado, não sendo possível aferir-se tecnicamente a rastreabilidade da prova digital coligida e fundamentadamente impugnada pela defesa, de rigor a absolvição, em homenagem ao princípio do in dubio pro reo. Apelação defensiva a que se dá provimento, a fim de acolher o pleito absolutório.
-  > (TJMS, Apelação Criminal n. 0027305-77.2022.8.12.0001, relator Desembargador Carlos Eduardo Contar, 2ª Câmara Criminal, julgado em 31/7/2026, publicado em 4/8/2026.)
+  > RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PRONÚNCIA. FUNDAMENTAÇÃO EXCLUSIVA EM ELEMENTOS INFORMATIVOS DO INQUÉRITO POLICIAL E TESTEMUNHOS INDIRETOS. INADMISSIBILIDADE. VIOLAÇÃO AO ART. 155 DO CPP. AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. DESPRONÚNCIA. RECURSO ESPECIAL PROVIDO.
+  > 1. Recurso representativo de controvérsia, para atender ao disposto nos arts. 1.036 e seguintes do CPC/2015 e 256 e seguintes do Regimento Interno do Superior Tribunal de Justiça.
+  > 2. Delimitação da controvérsia: definir a) se, nos termos do art. 155 do CPP, a pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial; b) se o testemunho indireto, ainda que colhido em juízo, não constitui, isoladamente, meio de prova idôneo para a pronúncia.
+  > 3. Teses: 1) A pronúncia não pode se basear, exclusivamente, em elementos informativos do inquérito, ressalvadas as exceções contidas na parte final do 155, caput, do CPP (provas cautelares, não repetíveis e antecipadas); 2) O testemunho indireto ou de ouvir dizer é prova lícita e admissível no ordenamento jurídico brasileiro, mas, mesmo se produzido em juízo, não é suficiente, por si só, para atingir o standard probatório exigido para a decisão de pronúncia; 3) Em contextos de intimidação da prova, criminalidade organizada, facções criminosas, silenciamento imposto à vítima ou à testemunha e outras hipóteses objetivamente demonstradas de irrepetibilidade ou dificuldade substancial de produção da prova direta, o testemunho indireto qualificado poderá assumir maior relevo probatório, desde que submetido a controle judicial estrito e não dissociado das garantias do contraditório e da ampla defesa.
+  > 4. A Terceira Seção deste Superior Tribunal de Justiça consolidou a jurisprudência no sentido de que a decisão de pronúncia, para ser válida, não pode se apoiar exclusivamente em elementos de informação colhidos durante a fase investigatória ou em depoimentos indiretos (“ouvir dizer”).
+  > 5. Esse entendimento reflete a necessidade de proteger os direitos fundamentais do acusado, em especial a presunção de inocência e o contraditório, que são elementos essenciais em um Estado Democrático de Direito. A aplicação rigorosa do princípio do contraditório na fase de pronúncia busca evitar que o réu seja submetido a julgamento perante o Tribunal do Júri sem a devida substância probatória, garantindo que apenas aquelas acusações baseadas em provas concretas e devidamente verificadas possam dar prosseguimento ao processo penal.
+  > 6. Caso concreto: O acusado foi pronunciado pelo crime de homicídio qualificado (art. 121, § 2º, incisos I e IV, do CP) e pela conduta de atear fogo nos corpos das vítimas, fundamentada a decisão em depoimentos e elementos extraídos das fases investigatória e judicial. Contudo, nenhum dos depoimentos submetidos ao crivo do contraditório traz elementos concretos que possam apontar o réu como autor do crime, em razão das fragilidades, contradições e da natureza indireta das informações prestadas pelas testemunhas ouvidas em juízo. Dessa forma, tem razão a defesa ao alegar violação dos arts. 155 e 414 do CPP, pela ausência de prova robusta e judicializada que justifique a submissão do réu ao Tribunal do Júri.
+  > 7. Recurso especial provido.
+  > (REsp n. 2.048.687/BA, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/8/2026, DJEN de 8/9/2026.)
 
-## 60. AgRg no AREsp nº 2781519 / GO (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 29/07/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita
-- Resumo: Histórico criminal e estar abaixado em determinado local não são fundada suspeita para busca pessoal (art. 244 do CPP). Faltavam denúncia específica, diligência prévia, fuga ou dispensa de droga. Absolvição mantida por maioria. Vencidos os Ministros Carlos Pires Brandão (voto-vista) e Og Fernandes.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2781519.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO PARA CONDENAÇÃO. BUSCA PESSOAL. VALIDADE DOS FUNDAMENTOS APRESENTADOS PELA CORTE DE ORIGEM. JUSTA CAUSA NÃO RECONHECIDA PELA INSTÂNCIA ORDINÁRIA. AUSÊNCIA DE FUNDADA SUSPEITA. JURISPRUDÊNCIA DO STJ. ABSOLVIÇÃO QUE SE IMPÕE. Agravo regimental improvido.
-  > (AgRg no AREsp n. 2.781.519/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/6/2026, DJEN de 29/7/2026.)
+## 58. HC nº 1095439 / SP (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
+- Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: são necessários elementos concretos de dedicação a atividades criminosas ou de integração a organização criminosa. A quantidade expressiva (86,6 kg de cocaína) só modula a fração, aplicada no mínimo (1/6). Pena reduzida para 5 anos, 2 meses e 15 dias, em regime semiaberto. Ordem concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1095439.pdf
+
+## 59. HC nº 1104105 / SP (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
+- Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
+- Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
+
+## 60. RHC nº 243155 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
+- Crime / Tema: Furto · Execução penal
+- Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
