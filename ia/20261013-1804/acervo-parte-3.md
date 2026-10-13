@@ -1,12 +1,12 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 3 de 17 (decisões 21 a 30)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 162 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 161 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261013-1128/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261013-1804/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
 ## 21. AgRg no AgRg no HC nº 1089351 / BA (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 06/10/2026.
@@ -116,21 +116,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. Agravo regimental improvido.
   > (AgRg no HC n. 1.060.844/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 28. AgRg no HC nº 1103807 / PR (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
-- Crime / Tema: Organização criminosa · Acesso da defesa às provas · Superação da Súmula 691 · Prisão e medidas cautelares
-- Resumo: A defesa tem direito de acesso ao decreto de prisão preventiva, que não pode ser sonegado (Súmula Vinculante 14). A Súmula 691/STF foi superada só nesse ponto, com ordem de ofício para entregar o decreto. O restante do mérito aguarda o TJ.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1103807.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU LIMINAR NA ORIGEM. SÚMULA N. 691 DO STF. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. ACESSO DA DEFESA AO DECRETO PRISIONAL. SÚMULA VINCULANTE N. 14 DO STF. ORDEM CONCEDIDA DE OFÍCIO NA DECISÃO AGRAVADA, NOS LIMITES DO ESTRITAMENTE NECESSÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. Não compete a esta Corte Superior conhecer de habeas corpus impetrado contra decisão de Desembargador que indefere pedido de liminar em writ originário, antes de pronunciamento do órgão colegiado de segundo grau (Súmula n. 691 do STF). A superação do óbice é excepcional e pressupõe flagrante ilegalidade ou teratologia.
-  > 2. O reconhecimento de flagrante ilegalidade quanto a um ponto determinado da impetração não converte o writ em via de exame integral do mérito ainda pendente na origem. A concessão da ordem de ofício é providência excepcional, limitada ao estritamente necessário para fazer cessar a ilegalidade constatada.
-  > 3. A Súmula Vinculante n. 14 do STF assegura ao defensor acesso amplo aos elementos de prova já documentados em procedimento investigatório. A decisão que decreta a prisão preventiva é ato jurisdicional formalizado e fundamento imediato da restrição da liberdade, razão pela qual não pode ser subtraída ao conhecimento da defesa.
-  > 4. No caso concreto, a decisão agravada indeferiu liminarmente o habeas corpus, ante a ausência de pronunciamento do órgão colegiado do Tribunal de origem sobre as teses deduzidas, e concedeu a ordem, de ofício, apenas para determinar a imediata disponibilização do decreto preventivo à defesa. A ilegalidade constatada circunscreveu-se à sonegação desse ato à defesa técnica e foi integralmente sanada pela providência determinada.
-  > 5. Agravo regimental não provido. Recomenda-se ao Tribunal de origem a máxima prioridade no julgamento do mérito do habeas corpus originário.
-  > (AgRg no HC n. 1.103.807/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
-
-## 29. AgRg no PExt no RHC nº 219617 / RS (STJ)
+## 28. AgRg no PExt no RHC nº 219617 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
 - Resumo: Agravo regimental não serve para impugnar acórdão colegiado. De ofício, foi flexibilizada a cautelar que proibia a ré, primária, de visitar o companheiro preso, porque a medida já durava mais de um ano. Ela pode levar o filho de 2 anos para ver o pai, com agendamento e acompanhamento de assistente social (proporcionalidade e vínculos familiares).
@@ -142,7 +128,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. Agravo regimental não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
   > (AgRg no PExt no RHC n. 219.617/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 30. REsp nº 2245812 / MG (STJ)
+## 29. REsp nº 2245812 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital
 - Resumo: Policial que atende ligação no celular do abordado, sem consentimento nem ordem judicial, produz prova ilícita. A apreensão posterior de 54,27 g de cocaína com o adolescente que ligou deriva disso, sem fonte independente nem descoberta inevitável. Condenação anulada.
@@ -155,3 +141,9 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Cabe ao magistrado abstrair a prova daí originada do conjunto probatório, porque alcançada sem observância das regras de Direito que disciplinam a execução do jus puniendi. O vício ocorrido na fase investigativa atinge o desenvolvimento da ação penal, pois não há prova produzida por fonte independente ou cuja descoberta seria inevitável.
   > 5. Recurso especial provido.
   > (REsp n. 2.245.812/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
+
+## 30. HC nº 1134665 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
+- Crime / Tema: Homicídio qualificado · Execução penal
+- Resumo: A lei não exige passagem pelo regime semiaberto para o livramento condicional (art. 83 do CP). Negar o benefício para "observar" o condenado no regime intermediário cria requisito que a lei não prevê. Ordem concedida para o juízo da execução reapreciar o pedido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134665.pdf
