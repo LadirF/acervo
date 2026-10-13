@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 5 de 15 (decisões 41 a 50)
+# Acervo de Jurisprudência — Cury Advogados — parte 5 de 17 (decisões 41 a 50)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 147 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 162 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,127 +8,85 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 41. HC nº 1129639 / SP (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/09/2026.
-- Crime / Tema: Ameaça · Violência doméstica · Prisão e medidas cautelares
-- Resumo: Preventiva por ameaça em violência doméstica (pena máxima inferior a 4 anos): o art. 313, III, do CPP exige descumprimento prévio de medida protetiva, e o réu nem havia sido intimado dela. Prisão substituída por medidas protetivas e cautelares diversas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129639.pdf
+## 41. REsp nº 2256734 / RS (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Reconhecimento fotográfico sem o art. 226 do CPP contamina o reconhecimento pessoal feito depois, porque é prova irrepetível (Tema 1.258/STJ). Condenação apoiada só nesses dois atos, sem prova independente de autoria. Sentença absolutória restabelecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2256734.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO REALIZADO EM DESCONFORMIDADE COM O ART. 226 DO CPP. RECONHECIMENTO PESSOAL POSTERIOR. PROVA IRREPETÍVEL. CONTAMINAÇÃO DA MEMÓRIA DO RECONHECEDOR. TEMA 1.258/STJ. AUSÊNCIA DE PROVAS INDEPENDENTES DE AUTORIA. SENTENÇA ABSOLUTÓRIA RESTABELECIDA. PARECER ACOLHIDO.
+  > 1. Nos termos da tese firmada no Tema 1.258/STJ, o reconhecimento de pessoas constitui prova irrepetível, de modo que o reconhecimento inicialmente falho ou viciado tem potencial para contaminar a memória do reconhecedor e comprometer procedimento posteriormente realizado.
+  > 2. Caso em que a condenação foi amparada exclusivamente em reconhecimento fotográfico realizado em desconformidade com o art. 226 do CPP e em reconhecimento pessoal subsequente, inexistindo elementos probatórios independentes aptos a demonstrar a autoria delitiva.
+  > 3. Recurso especial provido.
+  > (REsp n. 2.256.734/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 42. HC nº 1130315 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/09/2026.
+## 42. HC nº 1120948 / ES (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/10/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
+- Resumo: Pronúncia baseada só em depoimento do inquérito e em testemunhos de "ouvir dizer" é nula, mesmo depois da condenação pelo Júri (art. 155 do CPP; Tema 1.260/STJ). Processo anulado desde a pronúncia e réu impronunciado de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1120948.pdf
+
+## 43. HC nº 276.580 / GO (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 01/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Cabimento do HC
+- Resumo: Reincidência em crime culposo (homicídio culposo de trânsito) não impede o tráfico privilegiado, e quantidade e natureza da droga, sozinhas, não provam dedicação ao crime (art. 33, § 4º, da Lei 11.343/06). HC substitutivo de revisão criminal não conhecido, mas redutor aplicado de ofício na fração de 2/3.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276580.pdf
+
+## 44. HC nº 1.0000.26.509274-2/000 (TJMG)
+- Decisão colegiada. Relator: Des. Alberto Deodato Neto. 1ª Câmara Criminal. Publicado em 30/09/2026.
+- Crime / Tema: Homicídio qualificado · Inépcia da denúncia
+- Resumo: Denúncia inepta: no concurso de agentes, a acusação precisa indicar ao menos uma conduta de cada denunciado e o vínculo dele com o crime (art. 41 do CPP). Ter estado reunido com o atirador e ter o celular encontrado no local não basta. Ação penal trancada quanto ao paciente e mandado de prisão recolhido. Voto vencido (V.V.): o trancamento exige ausência manifesta de justa causa; as alegações dependeriam de dilação probatória.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1-0000-26-509274.pdf
+- Ementa oficial:
+  > HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - TRANCAMENTO DA AÇÃO PENAL - INÉPCIA DA DENÚNCIA - CONSTRANGIMENTO ILEGAL CONFIGURADO - ORDEM CONCEDIDA. O art. 41 do Código de Processo Penal, prevê que a denúncia deve expor o fato criminoso com todas as suas circunstâncias, qualificar o acusado ou fornecer elementos que permitam identificá-lo, classificar juridicamente a conduta e, quando necessário, apresentar o rol de testemunhas.
+  > V.V. Como é cediço, o trancamento do inquérito policial ou da ação penal por meio do Habeas Corpus deve ocorrer em casos excepcionais e somente quando se encontrar manifestadamente ausente justa causa para o seu prosseguimento, seja pela comprovação de existência de alguma excludente de tipicidade, extinção da punibilidade ou inexistência de prova da materialidade do crime ou indícios de sua autoria. Contudo, se as alegações defensivas demandam dilação probatória, inviável a concessão da ordem, especialmente diante da sumária instrução do Habeas Corpus.
+  > (TJMG, Habeas Corpus Criminal n. 1.0000.26.509274-2/000, relator Desembargador Alberto Deodato Neto, 1ª Câmara Criminal, julgado em 29/9/2026, publicado em 30/9/2026.)
+
+## 45. HC nº 1132260 / MS (STJ)
+- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 29/09/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima, sem investigação prévia, monitoramento ou venda presenciada, não autoriza o ingresso no domicílio. O suposto consentimento do morador, abordado por policiais armados, não é crível (coação ambiental), e cabia ao Estado prová-lo. Provas ilícitas e réu absolvido do tráfico (15 g de cocaína).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1132260.pdf
+
+## 46. EDcl no RHC nº 248299 / PA (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/09/2026.
+- Crime / Tema: Usurpação de bem da União · Prisão e medidas cautelares
+- Resumo: A manutenção de medida cautelar diversa da prisão exige demonstração concreta e atual da sua necessidade (art. 282, § 5º, do CPP). Monitoração eletrônica cassada: imposta sem fundamentação específica e mantida por mais de 6 meses sem reavaliação. A ausência de fato novo não basta para mantê-la, e o tribunal não pode suprir a falta de fundamento no julgamento do HC. Demais cautelares mantidas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248299.pdf
+
+## 47. HC nº 997670 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/09/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Confissão informal na rua de que há droga em casa não autoriza, sozinha, o ingresso no domicílio sem indício concreto de que a casa serve ao tráfico. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A abordagem pela guarda municipal foi considerada válida (flagrante aparente, art. 301 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-997670.pdf
+
+## 48. RHC nº 248048 / MG (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
+- Resumo: Preventiva por tráfico revogada: pequena quantidade de droga não justifica a prisão, ainda que a ré responda a outra ação penal por tráfico. Medidas cautelares diversas são suficientes.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248048.pdf
+
+## 49. HC nº 1131734 / PB (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
+- Resumo: Impronúncia de ofício: pronúncia baseada só em testemunhos indiretos (“ouvir dizer”) e em áudio de motorista de aplicativo não juntado aos autos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131734.pdf
+
+## 50. RE nº 1.615.925 / MG (STF)
+- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 25/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
-- Resumo: Busca pessoal em usuário por "comportamento suspeito" genérico, em patrulhamento de rotina, é ilícita (art. 244 do CPP) e contamina o que veio depois: a indicação da casa do vendedor e as apreensões feitas lá (art. 157, § 1º). A ilicitude vale mesmo com a busca feita em terceiro. Paciente e corréu absolvidos de ofício (art. 580 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1130315.pdf
-
-## 43. PET no AREsp nº 2593373 / AM (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2026.
-- Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
-- Resumo: ANPP retroativo (HC 185.913/STF): sem trânsito em julgado, cabe ao MP de primeiro grau avaliar o acordo, e não ao MPF no STJ. Autos remetidos à origem para o MP estadual se manifestar motivadamente sobre o ANPP (art. 28-A do CPP), com direito à revisão do § 14 se houver recusa. O relator não antecipou juízo sobre requisitos nem preclusão.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2593373.pdf
-
-## 44. HC nº 1102439 / SP (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 18/09/2026.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Prisão e medidas cautelares
-- Resumo: A campana feita depois de informação anônima, a venda vista no portão da casa e confirmada pelo comprador abordado, e a droga achada no carro do réu formam fundadas razões para a busca domiciliar sem mandado; nulidade afastada. Mas maus antecedentes, com penas já extintas, e pouca droga (34 g de cocaína), num crime sem violência, não justificam a preventiva, substituída por medidas cautelares (art. 319 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1102439.pdf
-
-## 45. AgRg no AREsp nº 3203005 / MT (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 17/09/2026.
-- Crime / Tema: Porte ilegal de munição · Fundada suspeita
-- Resumo: Busca veicular ilícita: vidros escuros, região associada ao tráfico e fiscalização de rotina não configuram fundada suspeita. Provas desentranhadas e absolvição (porte de munição).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3203005.pdf
-- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-aresp-3203005.pdf
+- Resumo: Andar com a mão na cintura segurando as calças e olhando para o chão é suspeita subjetiva, não fundada suspeita para busca pessoal (art. 244 do CPP). Mantida a absolvição por tráfico; RE do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1615925.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA VEICULAR SEM FUNDADAS SUSPEITAS. PROVAS ILÍCITAS. ABSOLVIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Parquet federal contra decisão que, no agravo em recurso especial, conheceu do recurso especial da defesa e deu-lhe provimento para reconhecer a ilicitude das provas decorrentes de busca veicular, com a consequente absolvição do acusado da imputação da prática do delito previsto no art. 14, caput, da Lei n. 10.826/2003.
-  > 2. O acórdão recorrido do Tribunal local afastou a nulidade das provas obtidas em contexto de busca veicular, entendendo legitimadas pela combinação de: vidros demasiadamente escuros no veículo; circulação em região periférica associada ao tráfico de entorpecentes; e fiscalização de rotina, tendo havido apreensão de munições. O Agravante sustenta a existência de fundadas suspeitas e afirma que as munições estariam no bolso do réu.
-  > 3. A decisão agravada reformou o acórdão ao concluir inexistirem elementos objetivos, concretos e anteriores à diligência aptos a justificar a busca pessoal/veicular.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber as alegações de infração de trânsito (vidros escuros), de localidade suspeita (região periférica comumente associada ao tráfico) e de fiscalização de rotina autorizariam a realização de busca pessoal/veicular sem mandado judicial, à luz dos arts. 240, § 2º, e 244 do CPP.
-  > 5. A questão em discussão consiste, ainda, em saber se a ilicitude da diligência acarreta o desentranhamento dos elementos de convicção e a absolvição, nos termos do art. 386, II, do CPP.
-  > III. Razões de decidir
-  > 6. Busca pessoal, e por analogia busca veicular, sem mandado judicial exige fundada suspeita demonstrada por elementos objetivos, concretos e anteriores à diligência, referíveis à posse de arma proibida, objetos ou papéis que constituam corpo de delito; impressões subjetivas, diligência exploratória, circulação em local reputado como de tráfico ou circunstâncias administrativas desvinculadas da suspeita de prática delitiva não satisfazem o standard legal (CPP, arts. 240, § 2º, e 244).
-  > 7. A existência de película automotiva irregular justifica abordagem e fiscalização administrativa do veículo no exercício do poder de polícia de trânsito, mas não autoriza, por si só, a realização de busca pessoal/veicular de natureza probatória penal sem fundadas suspeitas.
-  > 8. Referência genérica ao tráfego em região periférica ou conhecida pela prática de tráfico de entorpecentes não configura fundada suspeita concreta, sob pena de legitimar abordagens invasivas com motivação exploratória incompatíveis com as garantias do art. 244 do CPP.
-  > 9. Ausentes, na moldura fática estabelecida, elementos objetivos anteriores à busca (v.g., tentativa de fuga, comportamento evasivo, denúncia específica, informação concreta sobre veículo/ocupantes, visualização de objeto ilícito, descarte de material suspeito, odor de entorpecente, nervosismo incomum associado a outros dados), não há amparo para as diligências policiais.
-  > 10. A irregularidade da diligência impõe o desentranhamento das provas obtidas e das delas derivadas, com a absolvição por ausência de provas lícitas suficientes, nos termos do art. 386, II, do CPP.
-  > 11. O Agravante não apresentou elementos capazes de infirmar os fundamentos da decisão agravada, razão pela qual se mantém a reforma do acórdão recorrido.
-  > IV. Dispositivo e tese
-  > 12. Resultado do Julgamento: Agravo regimental desprovido.
-  > Tese de julgamento:
-  > 1. A abordagem administrativa de trânsito não autoriza, por si só, busca pessoal ou veicular, que exige fundada suspeita objetiva, concreta e anterior, referível à posse de corpo de delito.
-  > 2. Circunstâncias genéricas como película escura nos vidros, circulação em região periférica e fiscalização de rotina não constituem justa causa para busca pessoal/veicular de natureza probatória.
-  > (AgRg no AREsp n. 3.203.005/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/8/2026, DJEN de 17/9/2026.)
-
-## 46. REsp nº 2279989 / PR (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/09/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A pronúncia não pode se apoiar só em elementos do inquérito e em testemunho indireto (art. 155 do CPP): sem prova judicial de autoria, impõe-se a impronúncia. Restabelecida a sentença de impronúncia (homicídio qualificado).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2279989.pdf
-
-## 47. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
-- Decisão colegiada. Relator: Des. Fed. Ângelo Roberto Ilha da Silva. 7ª Turma. Publicado em 16/09/2026.
-- Crime / Tema: Quebra de sigilo · RIF · Acesso da defesa às provas
-- Resumo: Súmula Vinculante 14: a defesa tem direito de acessar o registro, no sistema SEI-C, do pedido que originou o RIF, para verificar se já havia investigação formal instaurada quando o relatório foi solicitado ao COAF. Isso não dá acesso aos sistemas da acusação nem antecipa juízo sobre a licitude do RIF.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-5027157.pdf
-- Ementa oficial:
-  > HABEAS CORPUS. INQUÉRITO POLICIAL. SÚMULA VINCULANTE Nº 14. RELATÓRIO DE INTELIGÊNCIA FINANCEIRA.
-  > 1. A Súmula Vinculante nº 14 assegura à defesa amplo acesso aos elementos de prova já documentados no procedimento investigatório e relacionados ao exercício do direito de defesa, não decorrendo dessa garantia, de forma imediata, o direito à utilização dos mesmos sistemas institucionais empregados pelos órgãos de persecução penal ou à reprodução do ambiente tecnológico por meio do qual os dados foram originalmente transmitidos.
-  > 2. No caso concreto, em que os elementos constantes dos autos não permitem identificar a data da solicitação que deu origem ao RIF nem aferir se, naquele momento, havia procedimento investigatório formalmente instaurado, mostra-se cabível assegurar à defesa o acesso ao registro da comunicação realizada por meio do Sistema Eletrônico de Intercâmbio – SEI-C. A providência não implica produção de nova prova nem importa antecipação de juízo acerca da validade ou licitude do relatório, destinando-se, nas circunstâncias específicas da hipótese, a viabilizar o controle da regularidade do compartilhamento.
-  > (TRF4, HC n. 5027157-97.2026.4.04.0000/PR, relator Desembargador Federal Ângelo Roberto Ilha da Silva, 7ª Turma, julgado em 15/9/2026, publicado em 16/9/2026.)
-
-## 48. RE nº 1.608.434 / ES (STF)
-- Decisão colegiada (repercussão geral). Relator: Min. Dias Toffoli. Plenário. Publicado em 15/09/2026.
-- Crime / Tema: Quebra de sigilo · Repercussão geral
-- Resumo: Tema 1.474/STF (repercussão geral reconhecida, mérito pendente). Discute se ordem judicial pode quebrar o sigilo telemático (conteúdo de e-mail e nuvem) para subsidiar fiscalização tributária, fora da investigação criminal (art. 5º, XII, da CF).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1608434.pdf
-- Ementa oficial:
-  > Repercussão geral em recurso extraordinário. Direito constitucional e tributário. Fiscalização da Administração Tributária para cobrança de tributo. Quebra de sigilo telemático por ordem judicial. Obtenção de conteúdo armazenado em conta de e-mail ou nuvem vinculada. Presença de matéria constitucional e de repercussão geral.
-  > (STF, RE n. 1.608.434 RG/ES, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 24/8/2026, DJe de 15/9/2026.)
-
-## 49. AgRg no AREsp nº 3141827 / DF (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
-- Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3141827.pdf
-- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-aresp-3141827.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRIBUNAL DO JÚRI. SISTEMA ACUSATÓRIO. ATUAÇÃO ATIVA DO JUIZ PRESIDENTE EM SESSÃO PLENÁRIA. PRODUÇÃO PROBATÓRIA. IMPARCIALIDADE COMPROMETIDA. NULIDADE. AGRAVO REGIMENTAL PROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto pela Defesa contra decisão monocrática que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
-  > 2. Fato relevante. Alegada nulidade da Sessão Plenária do Tribunal do Júri por indevida interferência do Juiz Presidente na produção da prova, em violação ao sistema acusatório, com atuação ativa na condução das oitivas e no interrogatório do réu, manifestações subjetivas sobre fatos e pleitos defensivos, confrontação de testemunhas e sugestão de prova ao Ministério Público. Pedido de anulação do julgamento e submissão do Agravante a novo julgamento perante o Conselho de Sentença.
-  > 3. As decisões anteriores. Pronúncia e condenação pelo Conselho de Sentença; apelação parcialmente provida para reduzir a pena; recurso especial inadmitido na origem à luz da Súmula 7/STJ; agravo em recurso especial conhecido para conhecer parcialmente do especial e, nessa extensão, negar-lhe provimento.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se a atuação do Juiz Presidente em Sessão Plenária, desbordando dos limites do sistema acusatório — com protagonismo probatório, juízos de valor e condução incisiva do interrogatório do réu — compromete a imparcialidade e a paridade de armas, ensejando nulidade dos atos e do julgamento do júri.
-  > 5. Há três questões em discussão: (i) saber se o óbice da Súmula 7/STJ impede o exame da nulidade quando se realiza revaloração jurídica de elementos incontroversos; (ii) saber se é necessária demonstração específica de prejuízo para reconhecimento da nulidade, à luz do julgamento pelo Conselho de Sentença; e (iii) saber se a nulidade está preclusa ou se pode ser reconhecida quando demonstrado o prejuízo.
-  > III. Razões de decidir
-  > 6. A conclusão adotada decorre de revaloração jurídica de elementos constantes dos autos e incontroversos, não implicando reexame de prova, o que afasta a incidência da Súmula 7/STJ.
-  > 7. À luz do sistema acusatório (CPP, art. 3º) e do procedimento de inquirição (CPP, art. 212), a atuação do magistrado na instrução deve ser residual e complementar, preservando sua imparcialidade; no caso, a condução ativa das oitivas, a sugestão de provas ao Ministério Público, as manifestações subjetivas e o interrogatório incisivo do réu sob o escrutínio dos jurados desbordaram tais limites e comprometeram a imparcialidade e a paridade de armas.
-  > 8. A atuação ativa do Juiz Presidente na produção probatória em desconformidade com a legislação vigente viola o devido processo legal e acarreta a nulidade das provas produzidas em plenário e do julgamento perante o Conselho de Sentença.
-  > 9. No caso concreto, não é mensurável a influência da atuação judicial sobre a íntima convicção dos jurados; o prejuízo ressai da própria violação ao sistema acusatório.
-  > 10. Demonstrado o prejuízo, não incide preclusão sobre a nulidade verificada, sendo cabível a anulação do julgamento para preservar a soberania do júri e a imparcialidade do juízo natural.
-  > IV. Dispositivo e tese
-  > 11. Resultado do Julgamento: Agravo regimental provido para anular o julgamento e determinar a submissão do Agravante a novo julgamento perante o Conselho de Sentença.
-  > (AgRg no AREsp n. 3.141.827/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/9/2026, DJEN de 14/9/2026.)
-
-## 50. AgRg no HC nº 1112658 / PR (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
-- Crime / Tema: Denunciação caluniosa · Perseguição · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
-- Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112658.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA QUE PERDUROU POR MAIS 197 DIAS. INCIDENTE DE INSANIDADE MENTAL. EXCESSO DE PRAZO NA REALIZAÇÃO DA PERÍCIA. AUSÊNCIA DE JUSTIFICATIVA. MORA ESTATAL. CONSTRANGIMENTO ILEGAL. SUPERAÇÃO DA SÚMULA 691/STF. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INTERNAÇÃO PROVISÓRIA E MEDIDAS ACESSORIAS. DEFERIMENTO LIMINAR. SUBMISSÃO AO COLEGIADO. AGRAVO REGIMENTAL PROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental contra decisão monocrática que indeferiu liminar em habeas corpus, por incidência da Súmula 691/STF, em favor de Paciente submetido à prisão preventiva, decretada em 17/01/2026, e cumprida em 19/01/2026, sob fundamento de garantia da ordem pública, em ação penal por condutas praticadas por meio da internet, sem violência física. A Custódia prolongou-se por mais de 197 dias.
-  > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se o excesso de prazo na realização da perícia do incidente de insanidade mental, com suspensão da ação penal e sem contribuição da Defesa, configura constrangimento ilegal apto a autorizar a revogação ou substituição da prisão preventiva por medidas cautelares diversas.
-  > 3. Também se analisa a possibilidade de superação da Súmula 691/STF em habeas corpus contra indeferimento de liminar, diante de flagrante ilegalidade, teratologia ou ausência de fundamentação adequada, com consequente imposição de internação provisória e de outras medidas cautelares (proibição de acesso à internet e de contato com vítimas), mesmo antes da conclusão de exame pericial, com fundamento nos arts. 319, VII, 282 e 3º do Código de Processo Penal.
-  > III. Razões de decidir
-  > 4. A prisão preventiva, medida excepcional, exige prova da materialidade e indícios suficientes de autoria, além de perigo concreto na liberdade (CPP, art. 312). No caso, a prolongada suspensão processual e a ausência de qualquer perspectiva para a perícia do incidente de insanidade, por mora estatal, evidenciam excesso de prazo não atribuível à Defesa, configurando constrangimento ilegal e impondo a substituição da custódia por medidas cautelares menos gravosas.
-  > 5. É possível superar a Súmula 691/STF quando caracterizada flagrante ilegalidade ou ausência de fundamentação idônea na decisão que indeferiu a liminar, especialmente ante excesso de prazo decorrente de deficiência estrutural do aparato pericial estatal, em atenção à razoável duração do processo e à presunção de inocência.
-  > 6. O Código de Processo Penal autoriza a substituição da prisão preventiva por medidas cautelares diversas (CPP, art. 319), e o poder geral de cautela aplicável ao processo penal (CPP, art. 3º c/c art. 282) permite medidas atípicas adequadas e necessárias, devidamente motivadas. A internação provisória do acusado (CPP, art. 319, VII) pode ser imposta antes da conclusão do exame pericial, à vista de elementos concretos indicativos de transtorno mental, cumulando-se com outras cautelares aptas a evitar reiteração delitiva e resguardar as vítimas.
-  > 7. As cautelares fixadas, quais sejam, internação provisória em clínica habilitada, proibição de acesso à internet e de contato com as vítimas, mostram-se adequadas, necessárias e proporcionais ao caso, preservando a ordem pública e as finalidades da prisão preventiva sem os efeitos deletérios da custódia, razão pela qual se confirma a liminar concedida.
-  > IV. Dispositivo
-  > 8. Resultado do Julgamento: Agravo regimental provido, com confirmação da decisão liminar para substituir a prisão preventiva por internação provisória e demais medidas cautelares diversas da prisão fixadas.
-  > (AgRg no HC n. 1.112.658/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/9/2026, DJEN de 11/9/2026.)
+  > DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO EM FACE DE ACÓRDÃO DO STJ. TRÁFICO DE DROGAS. ABSOLVIÇÃO. AUSÊNCIA DE FUNDADAS SUSPEITAS PARA A ABORDAGEM. RECURSO DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Trata-se de recurso extraordinário apresentado pelo MPMG contra acórdão do STJ que deu provimento a recurso especial para absolver o réu da acusação de tráfico de drogas, tendo em vista o reconhecimento da ilegalidade e da ausência de justa causa da abordagem policial que resultou no encontro dos entorpecentes. No recurso, o MPMG aduz que a abordagem e a revista foram justificadas e que o julgado do STJ violou o art. 5º, LVI, e o art. 144, §5º, ambos da Constituição Federal.
+  > II. QUESTÕES EM DISCUSSÃO
+  > 2. Verificar se estão presentes os óbices ao conhecimento e eventual provimento do recurso e se, de fato, o acórdão recorrido violou frontalmente os dispositivos constitucionais invocados.
+  > III. RAZÕES DE DECIDIR
+  > 3. Não há que se confundir, por evidente, justa causa com prova suficiente para a condenação. Menos ainda há que se confundir justa causa com certeza absoluta do crime. Trata-se, porém, de exigir fundadas razões a serem devidamente justificadas a posteriori, objetiva ou descritivamente e para além de mera ou vã suspeita.
+  > 4. O julgado recorrido, relatado pelo e. Ministro Reynaldo Soares da Fonseca, foi bem fundamentado e apontou a ausência de fundadas suspeitas para a revista, tendo a ação policial se pautado por razões subjetivas, mal explicadas. Nesse sentido, da própria sentença que inicialmente absolveu o acusado, se extrai a narrativa do policial de que viu “o indivíduo andando com a mão na cintura, segurando as calças”, “olhando para o chão” e que isso “levantou suspeita”.
+  > 5. A atitude descrita pelo próprio policial, por certo, não configura, objetivamente, uma postura suspeita da prática de crimes e que justifique que alguém seja abordado na rua e revistado. Ao contrário, revela uma vã suspeita, com alto grau de subjetividade, um mero tirocínio, o que esta Corte refuta em defesa das garantias dos direitos fundamentais dos cidadãos.
+  > IV. DISPOSITIVO
+  > 6. Recurso extraordinário ao qual se nega provimento.
+  > (STF, RE n. 1.615.925/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 14/9/2026, DJe de 25/9/2026.)
