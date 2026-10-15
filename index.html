@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex, nofollow">
-<link rel="alternate" type="text/markdown" href="ia/20261013-1804/acervo.md" title="Acervo em texto (para IA)">
+<link rel="alternate" type="text/markdown" href="ia/20261014-2227/acervo.md" title="Acervo em texto (para IA)">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Acervo de Jurisprudência</title>
 <script>
@@ -915,15 +915,272 @@
   }
 .para-ia{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
 </style>
+<style id="design-v2">
+  /* ===== Design v2 (14/10/2026): elementos dos posts do Instagram — dourado e preto da logo,
+     faixa metálica, marca d'água e esfumado. Para voltar ao visual anterior: apagar este bloco
+     <style id="design-v2"> e restaurar o cabeçalho (backup em .claude/backup-design/2026-10-14-antes-v2). ===== */
+  :root {
+    --ouro: #B59729;
+    --ouro-claro: #E2C766;
+    --preto: #111111;
+    --hero-bg: #101010;
+    --hero-ink: #F4F1EA;
+    --hero-muted: #B8B1A3;
+    --metal: linear-gradient(180deg, #7A6418 0%, #E6CF7A 20%, #B59729 42%, #F4E6A6 60%, #9C8124 80%, #6B5713 100%);
+    --metal-h: linear-gradient(90deg, #7A6418 0%, #E6CF7A 20%, #B59729 42%, #F4E6A6 60%, #9C8124 80%, #6B5713 100%);
+    --focus: #9C8124;
+    --focus-ring: rgba(181, 151, 41, 0.22);
+    --ativo-bg: #111111;
+    --ativo-ink: #F4F1EA;
+    --ativo-marca: #D4B64A;
+  }
+
+  :root[data-theme="dark"] {
+    --hero-bg: #0A0B0D;
+    --focus: #D4B64A;
+    --focus-ring: rgba(212, 182, 74, 0.25);
+    --ativo-bg: #D4B64A;
+    --ativo-ink: #111111;
+    --ativo-marca: #111111;
+  }
+
+  body { overflow-x: clip; }
+
+  /* Cabeçalho: faixa preta de ponta a ponta, com faixa dourada metálica e marca d'água */
+  header.page-head {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    align-items: center;
+    margin: -48px calc(50% - 50vw) 0;
+    padding: 64px calc(50vw - 50%) 104px;
+    border-bottom: 0;
+    color: var(--hero-ink);
+    background:
+      radial-gradient(90% 120% at 88% -10%, rgba(181, 151, 41, 0.20), transparent 60%),
+      linear-gradient(180deg, #161616, var(--hero-bg));
+  }
+
+  header.page-head::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 14px;
+    background: var(--metal);
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.45);
+    -webkit-mask-image: linear-gradient(to bottom, #000 60%, transparent);
+            mask-image: linear-gradient(to bottom, #000 60%, transparent);
+  }
+
+  /* Esfumado do preto para o papel (como o painel dos posts, em sentido inverso) */
+  header.page-head::after {
+    content: "";
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 64px;
+    background: linear-gradient(to bottom, rgba(16, 16, 16, 0), var(--paper));
+    z-index: -1;
+  }
+
+  .marca-dagua {
+    position: absolute;
+    right: -3%;
+    top: 46%;
+    z-index: -2;
+    transform: translateY(-50%) rotate(-11deg);
+    font-size: clamp(60px, 9vw, 128px);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+    color: rgba(181, 151, 41, 0.06);
+    pointer-events: none;
+    user-select: none;
+  }
+
+  header.page-head .eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0 0 14px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ouro);
+  }
+
+  header.page-head .eyebrow .ponto {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--ouro);
+    box-shadow: 0 0 0 4px rgba(181, 151, 41, 0.16);
+  }
+
+  header.page-head h1 {
+    margin: 0 0 12px;
+    font-size: clamp(34px, 5.4vw, 50px);
+    font-weight: 700;
+    line-height: 1.06;
+    letter-spacing: -0.015em;
+    color: var(--hero-ink);
+  }
+
+  header.page-head h1 .destaque {
+    background: var(--metal-h);
+    -webkit-background-clip: text;
+            background-clip: text;
+    color: transparent;
+  }
+
+  header.page-head p.sub { color: var(--hero-muted); font-size: 15.5px; }
+
+  header.page-head .brand {
+    width: 52px;
+    height: 52px;
+    border-radius: 13px;
+    box-shadow: 0 0 0 1px rgba(181, 151, 41, 0.55), 0 10px 26px rgba(0, 0, 0, 0.55);
+  }
+
+  header.page-head .tema-toggle {
+    color: var(--hero-ink);
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(181, 151, 41, 0.4);
+    box-shadow: none;
+  }
+
+  header.page-head .tema-toggle:hover { color: var(--ouro-claro); border-color: var(--ouro); }
+
+  /* Painel de busca e filtros: cartão que sobe sobre o cabeçalho, com fio dourado */
+  .controls {
+    position: relative;
+    z-index: 2;
+    margin: -64px 0 8px;
+    padding: 24px 24px 18px;
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 18px;
+    box-shadow: var(--shadow-pop);
+  }
+
+  .controls::before {
+    content: "";
+    position: absolute;
+    left: 22px; right: 22px; top: -1px;
+    height: 3px;
+    border-radius: 0 0 3px 3px;
+    background: var(--metal-h);
+  }
+
+  .search-field input {
+    padding: 14px 16px 14px 44px;
+    font-size: 16.5px;
+    border-radius: 12px;
+    background-color: var(--paper);
+    background-position: 15px center;
+  }
+
+  .filter-row { gap: 16px 24px; }
+  .filter-divider { display: none; }
+  .filter-group .label { color: var(--ouro); letter-spacing: 0.14em; }
+  :root[data-theme="dark"] .filter-group .label { color: #CDB458; }
+
+  /* Fichas, barra segmentada, listas e paginação: ativo em preto com dourado (no escuro, o inverso) */
+  .chips button[data-value="all"] { --chip: var(--ouro); }
+  .chips button[data-value="all"].active { background: var(--ativo-bg); border-color: var(--ativo-bg); color: var(--ativo-ink); }
+  .chips button[data-value="all"].active .dot { background: var(--ativo-marca); }
+
+  .segmented button.active,
+  .lista-trigger.ativo,
+  .paginacao button.active {
+    background: var(--ativo-bg);
+    border-color: var(--ativo-bg);
+    color: var(--ativo-ink);
+    box-shadow: inset 0 -2px 0 var(--ativo-marca);
+  }
+
+  .lista-trigger, .segmented, .paginacao button { border-radius: 10px; }
+
+  .count-line { display: inline-flex; align-items: center; gap: 8px; font-weight: 600; color: var(--ink); }
+  .count-line::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--ouro); }
+
+  /* Cartões das decisões */
+  ul.docket { margin-top: 26px; gap: 16px; }
+
+  li.entry {
+    position: relative;
+    border-left-width: 5px;
+    border-radius: 14px;
+    padding: 22px 24px 20px;
+  }
+
+  li.entry:hover {
+    border-color: rgba(181, 151, 41, 0.55);
+    border-left-color: var(--case-color, var(--rule));
+    box-shadow: var(--shadow-md), 0 0 0 3px rgba(181, 151, 41, 0.10);
+  }
+
+  .tema { font-size: 18.5px; line-height: 1.5; margin-bottom: 12px; }
+
+  .cite { font-size: 14px; font-weight: 700; letter-spacing: 0.01em; }
+  .cite .resultado-tag { font-weight: 700; }
+
+  .meta { font-size: 13.5px; }
+
+  .pdf-link { border-radius: 999px; padding: 6px 15px; }
+
+  /* "Abrir PDF" em destaque (preenchido); os demais botões continuam com contorno */
+  a.pdf-link:not(.info) { background: var(--case-color, var(--stj)); color: var(--on-accent); }
+  a.pdf-link:not(.info):hover { filter: brightness(1.12); }
+
+  .crimes button:hover { color: var(--ink); border-color: var(--ouro); }
+  .crimes button.ativo { color: var(--ink); border-color: var(--ouro); background: color-mix(in srgb, var(--ouro) 14%, transparent); }
+
+  /* Rodapé: faixa preta com fio dourado metálico */
+  footer.site-footer {
+    position: relative;
+    margin: 64px calc(50% - 50vw) -96px;
+    padding: 30px calc(50vw - 50%) 34px;
+    border-top: 0;
+    text-align: center;
+    color: var(--hero-muted);
+    background: var(--hero-bg);
+  }
+
+  footer.site-footer::before {
+    content: "";
+    position: absolute;
+    left: 0; right: 0; top: 0;
+    height: 3px;
+    background: var(--metal-h);
+  }
+
+  footer.site-footer p { margin: 0; letter-spacing: 0.03em; }
+
+  @media (max-width: 560px) {
+    header.page-head { margin-top: -28px; padding: 40px 16px 92px 30px; align-items: flex-start; }
+    header.page-head::before { width: 8px; }
+    header.page-head h1 { font-size: 31px; }
+    header.page-head .eyebrow { font-size: 11px; letter-spacing: 0.2em; }
+    .marca-dagua { font-size: 64px; top: 58%; right: -30%; }
+    .controls { margin-top: -56px; padding: 18px 16px 14px; border-radius: 14px; }
+    .controls::before { left: 14px; right: 14px; }
+    li.entry { padding: 18px 16px 16px; }
+    .tema { font-size: 17px; }
+    footer.site-footer { margin-bottom: -72px; padding: 24px 16px 28px; }
+  }
+</style>
 </head>
 <body>
-<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261013-1804/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
+<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261014-2227/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
 <div class="wrap">
 
   <header class="page-head">
+    <span class="marca-dagua" aria-hidden="true">CURY ADVOGADOS</span>
     <div class="head-text">
-      <h1>Acervo de Jurisprudência</h1>
-      <p class="sub">Decisões catalogadas em Direito — STJ, STF, TRFs e tribunais estaduais.</p>
+      <p class="eyebrow"><span class="ponto" aria-hidden="true"></span>Cury Advogados</p>
+      <h1>Acervo de <span class="destaque">Jurisprudência</span></h1>
+      <p class="sub">Decisões catalogadas em Direito: STJ, STF, TRFs e tribunais estaduais.</p>
     </div>
     <div class="head-acoes">
     <button type="button" class="tema-toggle" id="temaToggle" aria-label="Alternar tema claro/escuro" title="Tema claro/escuro">
