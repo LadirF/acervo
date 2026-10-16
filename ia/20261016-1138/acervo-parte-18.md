@@ -1,14 +1,47 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 18 de 19 (decisões 171 a 180)
+# Acervo de Jurisprudência — Cury Advogados — parte 18 de 20 (decisões 171 a 180)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261016-1110/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261016-1138/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 171. HC nº 653515 / RJ (STJ)
+## 171. AgRg no HC nº 731882 / AM (STJ)
+- Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Revisão criminal
+- Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-731882.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. REVISÃO CRIMINAL. AUSÊNCIA DE PROVAS JUDICIALIZADAS PARA SUSTENTAR A AUTORIA. PRONÚNCIA E CONDENAÇÃO FUNDADAS APENAS EM ELEMENTOS DE INFORMAÇÃO. IMPOSSIBILIDADE. RETROATIVIDADE DE ENTENDIMENTO JURISPRUDENCIAL BENÉFICO. AGRAVO REGIMENTAL PROVIDO.
+  > 1.O recente entendimento adotado pela Sexta Turma do STJ, firmado com observância da atual orientação do Supremo Tribunal Federal, é de que não se pode admitir a pronúncia do réu, dada a sua carga decisória, sem qualquer lastro probatório produzido em juízo, fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial.
+  > 2. Na hipótese, o ora agravante foi pronunciado e condenado por homicídio qualificado, mas o único elemento dos autos que corrobora a tese acusatória acerca da autoria é um depoimento colhido na fase de inquérito. Em juízo, tanto na primeira quanto na segunda etapa do procedimento do Tribunal do Júri, essa testemunha não foi ouvida e nenhum outro depoimento se produziu. Além disso, o acusado, em seu interrogatório, negou as imputações feitas a ele.
+  > 3. No presente caso, deve-se não apenas desconstituir o julgamento pelo Conselho de Sentença como também anular o processo desde a decisão de pronúncia – pois não havia como submeter o ora agravante ao Tribunal do Júri com base em uma declaração colhida no inquérito policial e não corroborada em juízo – e, por conseguinte, impronunciar o acusado.
+  > 4. Ressalto, por fim, que o parágrafo único do art. 414 do Código de Processo Penal preceitua que, enquanto não ocorrer a extinção da punibilidade, poderá ser formulada nova denúncia em desfavor do ora impronunciado se houver prova nova.
+  > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
+  > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
+
+## 172. HC nº 221.204 / MG (STF)
+- Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 24/10/2022.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Cabimento do HC
+- Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
+
+## 173. RHC nº 147043 / SP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
+- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
+- Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-147043.pdf
+- Ementa oficial:
+  > RECURSO EM HABEAS CORPUS. OPERAÇÃO CUSTO BRASIL. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E TRÁFICO DE INFLUÊNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA E NA CONSTRIÇÃO CAUTELAR DE BENS. AJUIZAMENTO DE MANDADO DE SEGURANÇA PELO CORRÉU NA ORIGEM. DETERMINAÇÃO, PELA CORTE REGIONAL, DE LEVANTAMENTO DO BLOQUEIO PATRIMONIAL. DEMORA NA FINALIZAÇAO DAS INVESTIGAÇÕES. TRATAMENTO ISONÔMICO. NECESSIDADE.
+  > 1. Hipótese em que medidas cautelares assecuratórias impostas ao acusado persistem desde 3/6/2016, sendo que o oferecimento da denúncia ocorreu somente em 30/4/2019, e seu recebimento, no dia 7/5/2019. Pedido de desbloqueio de bens pendente de apreciação em primeiro grau. Marcha processual sem previsão de início.
+  > 2. Frente à quadra processual na origem ainda indefinida e dado o lapso temporal sobejamente transcorrido, soa desarrazoado manter por mais tempo as providências cautelares então estabelecidas.
+  > 3. Ante a concessão de segurança, em feito ajuizado pelo corréu na origem, a fim de determinar o levantamento da constrição patrimonial, à vista delonga no trâmite das investigações (mesmo com recebimento da denúncia em data anterior pelo Juízo singular), é de rigor a liberação do patrimônio do recorrente, a fim de assegurar tratamento isonômico entre os acusados.
+  > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
+  > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
+
+## 174. HC nº 653515 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
 - Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
@@ -32,7 +65,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
   > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
 
-## 172. HC nº 660930 / SP (STJ)
+## 175. HC nº 660930 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. Vencido, em parte, o relator, que anulava as provas da busca pessoal (motivada, a seu ver, pela cor da pele) e absolvia o paciente.
@@ -52,7 +85,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
   > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
 
-## 173. RE nº 1.301.250 / RJ (STF)
+## 176. RE nº 1.301.250 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
 - Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
 - Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
@@ -64,7 +97,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 2. Repercussão geral reconhecida.
   > (STF, RE n. 1.301.250 RG/RJ, relatora Ministra Rosa Weber, Tribunal Pleno, julgado em 27/5/2021, DJe de 8/6/2021.)
 
-## 174. HC nº 611918 / SP (STJ)
+## 177. HC nº 611918 / SP (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
@@ -76,7 +109,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
   > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
 
-## 175. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 178. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
@@ -90,7 +123,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
   > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
 
-## 176. REsp nº 1871856 / SE (STJ)
+## 179. REsp nº 1871856 / SE (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
@@ -103,7 +136,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
   > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
 
-## 177. AgRg no HC nº 157.627 / PR (STF)
+## 180. AgRg no HC nº 157.627 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
@@ -115,55 +148,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > III – Memoriais escritos de réus colaboradores, com nítida carga acusatória, deverão preceder aos dos réus delatados, sob pena de nulidade do julgamento. Exegese imediata dos preceitos fundamentais do contraditório e da ampla defesa (art. 5º, LV, da CF/88) que prescindem da previsão expressa de regras infraconstitucionais.
   > IV – Agravo regimental provido, para conhecer e conceder a ordem.
   > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
-
-## 178. REsp nº 1795341 / RS (STJ)
-- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
-- Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
-- Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1795341.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. ART. 305 DO CPM. NULIDADE. INTERCEPTAÇÃO TELEFÔNICA. PROVA EMPRESTADA. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. FALTA DE ACESSO À INTEGRALIDADE DAS CONVERSAS. EVIDENCIADO PELO TRIBUNAL DE ORIGEM A EXISTÊNCIA DE ÁUDIOS DESCONTINUADOS, SEM ORDENAÇÃO, SEQUENCIAL LÓGICA E COM OMISSÃO DE TRECHOS DA DEGRAVAÇÃO. FILTRAGEM ESTABELECIDA SEM A PRESENÇA DO DEFENSOR. NULIDADE RECONHECIDA. PRESCRIÇÃO CONFIGURADA. RECURSOS PROVIDOS. DECRETADA A EXTINÇÃO DA PUNIBILIDADE.
-  > 1. A quebra da cadeia de custódia tem como objetivo garantir a todos os acusados o devido processo legal e os recursos a ele inerentes, como a ampla defesa, o contraditório e principalmente o direito à prova lícita. O instituto abrange todo o caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade (RHC 77.836/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/02/2019, DJe 12/02/2019).
-  > 2. É dever o Estado a disponibilização da integralidade das conversas advindas nos autos de forma emprestada, sendo inadmissível a seleção pelas autoridades de persecução de partes dos áudios interceptados.
-  > 3. A apresentação de parcela do produto extraído dos áudios, cuja filtragem foi estabelecida sem a presença do defensor, acarreta ofensa ao princípio da paridade de armas e ao direito à prova, porquanto a pertinência do acervo probatório não pode ser realizado apenas pela acusação, na medida em que gera vantagem desarrazoada em detrimento da defesa.
-  > 4. Reconhecida a nulidade, inegável a superveniência da prescrição, com fundamento no art. 61 do CPP.
-  > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
-  > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
-
-## 179. Inq nº 3.994 / DF (STF)
-- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
-- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
-- Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-3994.pdf
-- Ementa oficial:
-  > Inquérito. Corrupção passiva e lavagem de dinheiro (art. 317, § 1º, e art. 1º, § 4º, da Lei nº 9.613/98, c/c os arts. 29 e 69 do CP). Denúncia. Parlamentares federais. Suposto envolvimento em esquema de corrupção de agentes públicos relacionado à Diretoria de Abastecimento da Petrobras. Vantagens indevidas. Supostos recebimentos na forma de doações eleitorais oficiais, por intermédio de empresas de fachada e também em espécie. Imputações calcadas em depoimentos de réus colaboradores. Ausência de provas minimamente consistentes de corroboração. Fumus commissi delicti não demonstrado. Inexistência de justa causa para a ação penal. Denúncia rejeitada (art. 395, III, CPP) com relação aos parlamentares federais, com determinação de baixa dos autos ao primeiro grau quanto ao não detentor de prerrogativa de foro.
-  > 1. A justa causa para a ação penal consiste na exigência de suporte probatório mínimo a indicar a legitimidade da imputação e se traduz na existência, no inquérito policial ou nas peças de informação que instruem a denúncia, de elementos sérios e idôneos que demonstrem a materialidade do crime e de indícios razoáveis de autoria (Inq nº 3.719/DF, Segunda Turma, de minha relatoria, DJe de 29/10/14).
-  > 2. Na espécie, encontra-se ausente esse substrato probatório mínimo que autoriza a deflagração da ação penal.
-  > 3. Se os depoimentos do réu colaborador, sem outras provas minimamente consistentes de corroboração, não podem conduzir à condenação, também não podem autorizar a instauração da ação penal, por padecerem da presunção relativa de falta de fidedignidade.
-  > 4. A colaboração premiada, como meio de obtenção de prova, tem aptidão para autorizar a deflagração da investigação preliminar, visando adquirir coisas materiais, traços ou declarações dotadas de força probatória. Essa, em verdade, constitui sua verdadeira vocação probatória.
-  > 5. Todavia, os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear um juízo positivo de admissibilidade da acusação, o qual exige a presença do fumus commissi delicti.
-  > 6. O fumus commissi delicti, que se funda em um juízo de probabilidade de condenação, traduz-se, em nosso ordenamento, na prova da existência do crime e na presença de indícios suficientes de autoria.
-  > 7. Se “nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador” (art. 4º, § 16, da Lei nº 12.850/13), é lícito concluir que essas declarações, por si sós, não autorizam a formulação de um juízo de probabilidade de condenação e, por via de consequência, não permitem um juízo positivo de admissibilidade da acusação.
-  > 8. Como não há prova do conhecimento da suposta origem ilícita dos valores, não subsiste a imputação de corrupção passiva e fenece, por arrastamento, a de lavagem de capitais.
-  > 9. Não obstante, em sua contabilidade paralela, os colaboradores premiados tenham feito anotações pessoais que supostamente traduziriam pagamentos indevidos aos parlamentares federais, uma anotação unilateralmente feita em manuscrito particular não tem o condão de corroborar, por si só, o depoimento do colaborador, ainda que para fins de recebimento da denúncia.
-  > 10. Se o depoimento do colaborador necessita ser corroborado por fontes diversas de prova, evidente que uma anotação particular dele próprio emanada não pode servir, por si só, de instrumento de validação.
-  > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
-  > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
-
-## 180. AgRg no Inq nº 1093 / DF (STJ)
-- Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
-- **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
-- Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
-- Resumo: O delatado não tem legitimidade nem interesse para impugnar o acordo de colaboração, que não atinge terceiros; a colaboração é delatio criminis, não prova. Agravo desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-1093.pdf
-- Ementa oficial:
-  > PROCESSUAL PENAL. INQUÉRITO. COLABORAÇÃO PREMIADA. ART. 4º DA LEI 12.850/13. EXISTÊNCIA, VALIDADE E EFICÁCIA. QUESTIONAMENTO. DELATADO. LEGITIMIDADE E INTERESSE. AUSÊNCIA. NEGÓCIO JURÍDICO PROCESSUAL. EFEITOS. RESTRIÇÃO. NATUREZA JURÍDICA PROCESSUAL. DELATIO CRIMINIS. CONTEÚDO. ELEMENTOS DE CONVICÇÃO. DESTINATÁRIO. ÓRGÃO DA ACUSAÇÃO.
-  > 1. O propósito recursal é determinar se o agravante, citado nas informações prestadas por colaborador, tem interesse e legitimidade para impugnar a existência, validade e eficácia de acordo de colaboração premiada ou se existem razões para o imediato trancamento do presente inquérito por meio da concessão de habeas corpus de ofício.
-  > 2. Como reflexo dos princípios do devido processo legal, da presunção de inocência e da ampla defesa, impõe-se à acusação o ônus de colher, preambularmente, um lastro indiciário mínimo para o exercício da pretensão penal punitiva, o que corresponde ao dever de demonstrar a justa causa, conforme previsto no art. 395, III, do CPP.
-  > 3. A colaboração premiada somou à já existente previsão de qualquer pessoa do povo contribuir com a investigação criminal de crime de ação penal pública incondicionada (arts. 5º, § 3º, e 27 do CPP) a possibilidade de, quando se tratar de coautor ou partícipe, obter benefícios processuais e materiais penais.
-  > 4. Quanto ao aspecto processual, a natureza jurídica da colaboração premiada é de delatio criminis, porquanto é mero recurso à formação da convicção da acusação e não elemento de prova, sendo insuficiente para subsidiar, por si só, a condenação de alguém.
-  > 5. O acordo de colaboração não se confunde com seu conteúdo e as cláusulas de referido acordo não repercutem, nem sequer remotamente, na esfera jurídica de terceiros, razão pela qual não têm esses terceiros interesse jurídico nem legitimidade para sua impugnação.
-  > 6. Na presente hipótese, o agravante questiona a validade de acordo de colaboração, por ter sido firmado por órgão do Ministério Público que não possuiria atribuições e homologado por juiz que não possuiria competência para tratar de fatos que envolvessem autoridade com prerrogativa de foro no STJ. Argumenta, ademais, que a colaboração se referiria a crime diverso daquele envolvido do acordo, o que evidenciaria a ilicitude de seu objeto.
-  > 7. As indagações referentes à atribuição do membro do Parquet ou do juiz que o homologa o acordo não afetam a existência, validade ou veracidade dos elementos de convicção fornecidos ao órgão de acusação, os quais podem ser contraditados no momento processual adequado. Ademais, os crimes objeto do acordo têm íntima relação com aquele supostamente praticado pelo agravante.
-  > 8. Agravo regimental improvido.
-  > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)

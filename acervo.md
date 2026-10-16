@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto para ferramentas de IA)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -23,7 +23,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 **Índice** (todas as decisões com tipo de decisão, data, relator, crime / tema e resumo, divididas por tribunal; numeração única). Leia **todos** os arquivos abaixo para a triagem:
 - Índice STJ e STF (1 de 2) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf.md
-- Índice STJ e STF (2 de 2) (73 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md
+- Índice STJ e STF (2 de 2) (76 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md
 - Índice TRFs e tribunais estaduais (15 decisões): https://ladirf.github.io/acervo/acervo-indice-tribunais.md
 
 **Partes** (ementas oficiais, referências e links de PDF; 10 decisões cada, na mesma numeração do índice):
@@ -45,6 +45,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Parte 16: decisões 151 a 160 — https://ladirf.github.io/acervo/acervo-parte-16.md
 - Parte 17: decisões 161 a 170 — https://ladirf.github.io/acervo/acervo-parte-17.md
 - Parte 18: decisões 171 a 180 — https://ladirf.github.io/acervo/acervo-parte-18.md
-- Parte 19: decisões 181 a 188 — https://ladirf.github.io/acervo/acervo-parte-19.md
+- Parte 19: decisões 181 a 190 — https://ladirf.github.io/acervo/acervo-parte-19.md
+- Parte 20: decisão 191 — https://ladirf.github.io/acervo/acervo-parte-20.md
 
 Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md

@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 19 de 19 (decisões 181 a 188)
+# Acervo de Jurisprudência — Cury Advogados — parte 19 de 20 (decisões 181 a 190)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,59 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 181. REsp nº 1574681 / RS (STJ)
+## 181. REsp nº 1795341 / RS (STJ)
+- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
+- Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
+- Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1795341.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. ART. 305 DO CPM. NULIDADE. INTERCEPTAÇÃO TELEFÔNICA. PROVA EMPRESTADA. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. FALTA DE ACESSO À INTEGRALIDADE DAS CONVERSAS. EVIDENCIADO PELO TRIBUNAL DE ORIGEM A EXISTÊNCIA DE ÁUDIOS DESCONTINUADOS, SEM ORDENAÇÃO, SEQUENCIAL LÓGICA E COM OMISSÃO DE TRECHOS DA DEGRAVAÇÃO. FILTRAGEM ESTABELECIDA SEM A PRESENÇA DO DEFENSOR. NULIDADE RECONHECIDA. PRESCRIÇÃO CONFIGURADA. RECURSOS PROVIDOS. DECRETADA A EXTINÇÃO DA PUNIBILIDADE.
+  > 1. A quebra da cadeia de custódia tem como objetivo garantir a todos os acusados o devido processo legal e os recursos a ele inerentes, como a ampla defesa, o contraditório e principalmente o direito à prova lícita. O instituto abrange todo o caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade (RHC 77.836/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/02/2019, DJe 12/02/2019).
+  > 2. É dever o Estado a disponibilização da integralidade das conversas advindas nos autos de forma emprestada, sendo inadmissível a seleção pelas autoridades de persecução de partes dos áudios interceptados.
+  > 3. A apresentação de parcela do produto extraído dos áudios, cuja filtragem foi estabelecida sem a presença do defensor, acarreta ofensa ao princípio da paridade de armas e ao direito à prova, porquanto a pertinência do acervo probatório não pode ser realizado apenas pela acusação, na medida em que gera vantagem desarrazoada em detrimento da defesa.
+  > 4. Reconhecida a nulidade, inegável a superveniência da prescrição, com fundamento no art. 61 do CPP.
+  > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
+  > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
+
+## 182. Inq nº 3.994 / DF (STF)
+- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
+- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
+- Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-3994.pdf
+- Ementa oficial:
+  > Inquérito. Corrupção passiva e lavagem de dinheiro (art. 317, § 1º, e art. 1º, § 4º, da Lei nº 9.613/98, c/c os arts. 29 e 69 do CP). Denúncia. Parlamentares federais. Suposto envolvimento em esquema de corrupção de agentes públicos relacionado à Diretoria de Abastecimento da Petrobras. Vantagens indevidas. Supostos recebimentos na forma de doações eleitorais oficiais, por intermédio de empresas de fachada e também em espécie. Imputações calcadas em depoimentos de réus colaboradores. Ausência de provas minimamente consistentes de corroboração. Fumus commissi delicti não demonstrado. Inexistência de justa causa para a ação penal. Denúncia rejeitada (art. 395, III, CPP) com relação aos parlamentares federais, com determinação de baixa dos autos ao primeiro grau quanto ao não detentor de prerrogativa de foro.
+  > 1. A justa causa para a ação penal consiste na exigência de suporte probatório mínimo a indicar a legitimidade da imputação e se traduz na existência, no inquérito policial ou nas peças de informação que instruem a denúncia, de elementos sérios e idôneos que demonstrem a materialidade do crime e de indícios razoáveis de autoria (Inq nº 3.719/DF, Segunda Turma, de minha relatoria, DJe de 29/10/14).
+  > 2. Na espécie, encontra-se ausente esse substrato probatório mínimo que autoriza a deflagração da ação penal.
+  > 3. Se os depoimentos do réu colaborador, sem outras provas minimamente consistentes de corroboração, não podem conduzir à condenação, também não podem autorizar a instauração da ação penal, por padecerem da presunção relativa de falta de fidedignidade.
+  > 4. A colaboração premiada, como meio de obtenção de prova, tem aptidão para autorizar a deflagração da investigação preliminar, visando adquirir coisas materiais, traços ou declarações dotadas de força probatória. Essa, em verdade, constitui sua verdadeira vocação probatória.
+  > 5. Todavia, os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear um juízo positivo de admissibilidade da acusação, o qual exige a presença do fumus commissi delicti.
+  > 6. O fumus commissi delicti, que se funda em um juízo de probabilidade de condenação, traduz-se, em nosso ordenamento, na prova da existência do crime e na presença de indícios suficientes de autoria.
+  > 7. Se “nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador” (art. 4º, § 16, da Lei nº 12.850/13), é lícito concluir que essas declarações, por si sós, não autorizam a formulação de um juízo de probabilidade de condenação e, por via de consequência, não permitem um juízo positivo de admissibilidade da acusação.
+  > 8. Como não há prova do conhecimento da suposta origem ilícita dos valores, não subsiste a imputação de corrupção passiva e fenece, por arrastamento, a de lavagem de capitais.
+  > 9. Não obstante, em sua contabilidade paralela, os colaboradores premiados tenham feito anotações pessoais que supostamente traduziriam pagamentos indevidos aos parlamentares federais, uma anotação unilateralmente feita em manuscrito particular não tem o condão de corroborar, por si só, o depoimento do colaborador, ainda que para fins de recebimento da denúncia.
+  > 10. Se o depoimento do colaborador necessita ser corroborado por fontes diversas de prova, evidente que uma anotação particular dele próprio emanada não pode servir, por si só, de instrumento de validação.
+  > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
+  > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
+
+## 183. AgRg no Inq nº 1093 / DF (STJ)
+- Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
+- **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
+- Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
+- Resumo: O delatado não tem legitimidade nem interesse para impugnar o acordo de colaboração, que não atinge terceiros; a colaboração é delatio criminis, não prova. Agravo desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-1093.pdf
+- Ementa oficial:
+  > PROCESSUAL PENAL. INQUÉRITO. COLABORAÇÃO PREMIADA. ART. 4º DA LEI 12.850/13. EXISTÊNCIA, VALIDADE E EFICÁCIA. QUESTIONAMENTO. DELATADO. LEGITIMIDADE E INTERESSE. AUSÊNCIA. NEGÓCIO JURÍDICO PROCESSUAL. EFEITOS. RESTRIÇÃO. NATUREZA JURÍDICA PROCESSUAL. DELATIO CRIMINIS. CONTEÚDO. ELEMENTOS DE CONVICÇÃO. DESTINATÁRIO. ÓRGÃO DA ACUSAÇÃO.
+  > 1. O propósito recursal é determinar se o agravante, citado nas informações prestadas por colaborador, tem interesse e legitimidade para impugnar a existência, validade e eficácia de acordo de colaboração premiada ou se existem razões para o imediato trancamento do presente inquérito por meio da concessão de habeas corpus de ofício.
+  > 2. Como reflexo dos princípios do devido processo legal, da presunção de inocência e da ampla defesa, impõe-se à acusação o ônus de colher, preambularmente, um lastro indiciário mínimo para o exercício da pretensão penal punitiva, o que corresponde ao dever de demonstrar a justa causa, conforme previsto no art. 395, III, do CPP.
+  > 3. A colaboração premiada somou à já existente previsão de qualquer pessoa do povo contribuir com a investigação criminal de crime de ação penal pública incondicionada (arts. 5º, § 3º, e 27 do CPP) a possibilidade de, quando se tratar de coautor ou partícipe, obter benefícios processuais e materiais penais.
+  > 4. Quanto ao aspecto processual, a natureza jurídica da colaboração premiada é de delatio criminis, porquanto é mero recurso à formação da convicção da acusação e não elemento de prova, sendo insuficiente para subsidiar, por si só, a condenação de alguém.
+  > 5. O acordo de colaboração não se confunde com seu conteúdo e as cláusulas de referido acordo não repercutem, nem sequer remotamente, na esfera jurídica de terceiros, razão pela qual não têm esses terceiros interesse jurídico nem legitimidade para sua impugnação.
+  > 6. Na presente hipótese, o agravante questiona a validade de acordo de colaboração, por ter sido firmado por órgão do Ministério Público que não possuiria atribuições e homologado por juiz que não possuiria competência para tratar de fatos que envolvessem autoridade com prerrogativa de foro no STJ. Argumenta, ademais, que a colaboração se referiria a crime diverso daquele envolvido do acordo, o que evidenciaria a ilicitude de seu objeto.
+  > 7. As indagações referentes à atribuição do membro do Parquet ou do juiz que o homologa o acordo não afetam a existência, validade ou veracidade dos elementos de convicção fornecidos ao órgão de acusação, os quais podem ser contraditados no momento processual adequado. Ademais, os crimes objeto do acordo têm íntima relação com aquele supostamente praticado pelo agravante.
+  > 8. Agravo regimental improvido.
+  > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
+
+## 184. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -32,7 +84,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 182. APn nº 746 / MT (STJ)
+## 185. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -49,7 +101,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 183. RE nº 603.616 / RO (STF)
+## 186. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -65,7 +117,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 184. HC nº 341790 / PR (STJ)
+## 187. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -81,7 +133,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 185. HC nº 127.483 / PR (STF)
+## 188. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -103,7 +155,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 186. Inq nº 4.130 QO / PR (STF)
+## 189. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
@@ -132,7 +184,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
 
-## 187. REsp nº 1388440 / ES (STJ)
+## 190. REsp nº 1388440 / ES (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
 - Crime / Tema: Crimes contra as relações de consumo · Prescrição
 - Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.
@@ -145,16 +197,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Transcorrido o prazo prescricional de 4 anos (art. 109, V, c/c 110, § 1º, do CP), desde o recebimento da denúncia até a presente data, considerando-se a inexistência de outro marco interruptivo em face da anulação da sentença condenatória, verifica-se a prescrição da pretensão punitiva do Estado.
   > 5. Recurso parcialmente provido para anular a sentença condenatória e julgar extinta a punibilidade dos recorrentes.
   > (REsp n. 1.388.440/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/3/2015, DJe de 17/3/2015.)
-
-## 188. Inq nº 1.674 / PA (STF)
-- Decisão colegiada. Relator: Min. Ilmar Galvão; redator do acórdão: Min. Sepúlveda Pertence. Plenário. Publicado em 01/08/2003.
-- Crime / Tema: Crimes contra a honra · Imunidade do advogado
-- Resumo: Pelo art. 7º, § 2º, do Estatuto da OAB, a imunidade profissional do advogado cobre injúria e difamação dirigidas ao juiz, desde que pertinentes à causa. Isso superou a jurisprudência do art. 142 do CP; a suspensão cautelar no STF só atingiu o desacato. A imunidade alcança a manifestação à imprensa do Advogado-Geral da União sobre despacho em causa contra a União. Queixa-crime extinta, por maioria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-1674.pdf
-- Ementa oficial:
-  > Crime contra a honra: imunidade profissional do advogado: compreensão da ofensa a Juiz, desde que tenha alguma pertinência à causa.
-  > 1. O artigo 7º, §2º, da L. 8.906/94(Estatuto da Advocacia e da OAB) superou a jurisprudência formada sob o art. 142, C. Penal, que excluía do âmbito da imunidade profissional do advogado a injúria ou a difamação do juiz da causa.
-  > 2. Sob a lei nova, a imunidade do advogado se estende à eventual ofensa irrogada ao juiz, desde que pertinente à causa que defende.
-  > 3. O STF só deferiu a suspensão cautelar, no referido art. 7º §2º, EAOAB, da extensão da imunidade à hipótese de desacato: nem um só voto entendeu plausível a argüição de inconstitucionalidade quanto à injúria ou à difamação.
-  > 4. A imunidade profissional cobre, assim, manifestação pela imprensa do Advogado Geral da União, que teria utilizado expressão depreciativa a despacho judicial em causa contra ela movida.
-  > (STF, Inq n. 1.674/PA, relator Ministro Ilmar Galvão, redator do acórdão Ministro Sepúlveda Pertence, Tribunal Pleno, julgado em 6/9/2001, DJ de 1/8/2003.)

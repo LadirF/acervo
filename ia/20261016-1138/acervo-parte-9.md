@@ -1,14 +1,26 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 9 de 19 (decisões 81 a 90)
+# Acervo de Jurisprudência — Cury Advogados — parte 9 de 20 (decisões 81 a 90)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261016-1110/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261016-1138/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 81. AgRg no AREsp nº 3203005 / MT (STJ)
+## 81. PET no AREsp nº 2593373 / AM (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
+- Resumo: ANPP retroativo (HC 185.913/STF): sem trânsito em julgado, cabe ao MP de primeiro grau avaliar o acordo, e não ao MPF no STJ. Autos remetidos à origem para o MP estadual se manifestar motivadamente sobre o ANPP (art. 28-A do CPP), com direito à revisão do § 14 se houver recusa. O relator não antecipou juízo sobre requisitos nem preclusão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2593373.pdf
+
+## 82. HC nº 1102439 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 18/09/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Prisão e medidas cautelares
+- Resumo: A campana feita depois de informação anônima, a venda vista no portão da casa e confirmada pelo comprador abordado, e a droga achada no carro do réu formam fundadas razões para a busca domiciliar sem mandado; nulidade afastada. Mas maus antecedentes, com penas já extintas, e pouca droga (34 g de cocaína), num crime sem violência, não justificam a preventiva, substituída por medidas cautelares (art. 319 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1102439.pdf
+
+## 83. AgRg no AREsp nº 3203005 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 17/09/2026.
 - Crime / Tema: Porte ilegal de munição · Fundada suspeita
 - Resumo: Busca veicular ilícita: vidros escuros, região associada ao tráfico e fiscalização de rotina não configuram fundada suspeita. Provas desentranhadas e absolvição (porte de munição).
@@ -37,13 +49,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 2. Circunstâncias genéricas como película escura nos vidros, circulação em região periférica e fiscalização de rotina não constituem justa causa para busca pessoal/veicular de natureza probatória.
   > (AgRg no AREsp n. 3.203.005/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/8/2026, DJEN de 17/9/2026.)
 
-## 82. REsp nº 2279989 / PR (STJ)
+## 84. REsp nº 2279989 / PR (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A pronúncia não pode se apoiar só em elementos do inquérito e em testemunho indireto (art. 155 do CPP): sem prova judicial de autoria, impõe-se a impronúncia. Restabelecida a sentença de impronúncia (homicídio qualificado).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2279989.pdf
 
-## 83. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
+## 85. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
 - Decisão colegiada. Relator: Des. Fed. Ângelo Roberto Ilha da Silva. 7ª Turma. Publicado em 16/09/2026.
 - Crime / Tema: Quebra de sigilo · RIF · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito de acessar o registro, no sistema SEI-C, do pedido que originou o RIF, para verificar se já havia investigação formal instaurada quando o relatório foi solicitado ao COAF. Isso não dá acesso aos sistemas da acusação nem antecipa juízo sobre a licitude do RIF.
@@ -54,7 +66,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 2. No caso concreto, em que os elementos constantes dos autos não permitem identificar a data da solicitação que deu origem ao RIF nem aferir se, naquele momento, havia procedimento investigatório formalmente instaurado, mostra-se cabível assegurar à defesa o acesso ao registro da comunicação realizada por meio do Sistema Eletrônico de Intercâmbio – SEI-C. A providência não implica produção de nova prova nem importa antecipação de juízo acerca da validade ou licitude do relatório, destinando-se, nas circunstâncias específicas da hipótese, a viabilizar o controle da regularidade do compartilhamento.
   > (TRF4, HC n. 5027157-97.2026.4.04.0000/PR, relator Desembargador Federal Ângelo Roberto Ilha da Silva, 7ª Turma, julgado em 15/9/2026, publicado em 16/9/2026.)
 
-## 84. RE nº 1.608.434 / ES (STF)
+## 86. RE nº 1.608.434 / ES (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Dias Toffoli. Plenário. Publicado em 15/09/2026.
 - Crime / Tema: Quebra de sigilo · Repercussão geral
 - Resumo: Tema 1.474/STF (repercussão geral reconhecida, mérito pendente). Discute se ordem judicial pode quebrar o sigilo telemático (conteúdo de e-mail e nuvem) para subsidiar fiscalização tributária, fora da investigação criminal (art. 5º, XII, da CF).
@@ -63,7 +75,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Repercussão geral em recurso extraordinário. Direito constitucional e tributário. Fiscalização da Administração Tributária para cobrança de tributo. Quebra de sigilo telemático por ordem judicial. Obtenção de conteúdo armazenado em conta de e-mail ou nuvem vinculada. Presença de matéria constitucional e de repercussão geral.
   > (STF, RE n. 1.608.434 RG/ES, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 24/8/2026, DJe de 15/9/2026.)
 
-## 85. AgRg no AREsp nº 3141827 / DF (STJ)
+## 87. AgRg no AREsp nº 3141827 / DF (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
 - Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
@@ -88,7 +100,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 11. Resultado do Julgamento: Agravo regimental provido para anular o julgamento e determinar a submissão do Agravante a novo julgamento perante o Conselho de Sentença.
   > (AgRg no AREsp n. 3.141.827/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/9/2026, DJEN de 14/9/2026.)
 
-## 86. AgRg no HC nº 1112658 / PR (STJ)
+## 88. AgRg no HC nº 1112658 / PR (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
 - Crime / Tema: Denunciação caluniosa · Perseguição · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
 - Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
@@ -109,41 +121,14 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 8. Resultado do Julgamento: Agravo regimental provido, com confirmação da decisão liminar para substituir a prisão preventiva por internação provisória e demais medidas cautelares diversas da prisão fixadas.
   > (AgRg no HC n. 1.112.658/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/9/2026, DJEN de 11/9/2026.)
 
-## 87. HC nº 276.512 / PB (STF)
+## 89. HC nº 276.512 / PB (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 10/09/2026.
 - Crime / Tema: Estelionato · Dosimetria
 - Resumo: Culpabilidade e personalidade valoradas com juízo conjectural ('aparenta ser um mentiroso compulsivo') e com o próprio modo de execução não elevam a pena-base. Os documentos forjados como meio da fraude também não pesam nas circunstâncias, sob pena de bis in idem. Pena-base no mínimo, e o juízo de origem deve examinar a prescrição (bolsa da CAPES, art. 171, § 3º, do CP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276512.pdf
 
-## 88. HC nº 276.724 / RS (STF)
+## 90. HC nº 276.724 / RS (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 10/09/2026.
 - Crime / Tema: Cabimento do HC
 - Resumo: A unirrecorribilidade não se aplica ao habeas corpus: a interposição de recurso especial contra o mesmo acórdão não impede o conhecimento do HC. Ordem concedida para o STJ julgar o mérito do HC.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276724.pdf
-
-## 89. REsp nº 2176719 / MG (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
-- Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
-- Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
-
-## 90. AgRg no REsp nº 2245002 / RS (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/09/2026.
-- Crime / Tema: Perseguição · Violência doméstica · Dosimetria
-- Resumo: A agravante do art. 61, II, 'f', do CP não incide na perseguição contra a mulher (art. 147-A, § 1º, II) nem na violência psicológica (art. 147-B): a violência contra a mulher já é elementar, e aplicá-la seria bis in idem. Distinção do Tema 1.197/STJ, que vale para a lesão do art. 129, § 9º. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245002.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL. INDEVIDA INCIDÊNCIA DA AGRAVANTE DO ART. 61, II, "F", DO CÓDIGO PENAL NOS CRIMES TIPIFICADOS NOS ARTS. 147-A, II, E 147-B, AMBOS DO CP. BIS IN IDEM CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão monocrática que, com fundamento na Súmula n. 568 do STJ, negou provimento ao recurso especial, mantendo a decisão que afastou a incidência da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher.
-  > 2. A decisão monocrática considerou que a aplicação da referida agravante nos crimes de perseguição contra mulher e violência psicológica contra a mulher configuraria bis in idem, uma vez que a violência contra a mulher já integra os elementos do tipo penal.
-  > II. Questão em discussão
-  > 3. A questão em discussão consiste em saber se a incidência concomitante da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição qualificada, contra mulher, e violência psicológica contra a mulher configura bis in idem, considerando que a violência contra a mulher já integra os elementos do tipo penal.
-  > III. Razões de decidir
-  > 4. A jurisprudência do STJ admite a incidência da agravante prevista no art. 61, II, "f", do Código Penal apenas nas hipóteses em que a violência contra a mulher não integra os elementos do tipo penal.
-  > 5. Nos crimes de perseguição contra mulher e violência psicológica contra a mulher, previstos nos arts. 147-A, § 1º, II, e 147-B do Código Penal, a violência contra a mulher já integra os elementos do tipo penal, sendo indevida a aplicação concomitante da agravante do art. 61, II, "f", do Código Penal, sob pena de indevido bis in idem e violação ao princípio da especialidade.
-  > IV. Dispositivo e tese
-  > 6. Resultado do Julgamento: Agravo regimental desprovido.
-  > Tese de julgamento:
-  > 1. Não incide a agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher, pois, sob o princípio da especialidade, a violência contra a mulher já integra os elementos do tipo penal, esta incidência configura indevido bis in idem.
-  > (AgRg no REsp n. 2.245.002/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2026, DJEN de 9/9/2026.)

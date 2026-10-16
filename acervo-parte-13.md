@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 13 de 19 (decisões 121 a 130)
+# Acervo de Jurisprudência — Cury Advogados — parte 13 de 20 (decisões 121 a 130)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,54 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 121. AgRg no REsp nº 2237192 / RJ (STJ)
+## 121. AREsp nº 3115023 / RS (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/04/2026.
+- Crime / Tema: Homicídio · Tribunal do Júri
+- Resumo: A plenitude de defesa prevalece sobre a preclusão do art. 422 do CPP quando há prejuízo concreto. Negar a oitiva dos peritos da defesa e deixar a acusação explorar os pareceres sem contraditório técnico gera assimetria. Oitiva restabelecida e júri anulado (médico e enfermeira acusados da morte de um recém-nascido).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115023.pdf
+
+## 122. AgRg no HC nº 1079684 / MG (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/04/2026.
+- Crime / Tema: Associação criminosa · Crimes contra a Administração Pública · Lavagem de dinheiro · Quebra de sigilo · Busca e apreensão
+- Resumo: Acesso a dados telemáticos armazenados (dados estáticos) não exige prazo, como a interceptação exige, mas precisa guardar pertinência temática e temporal com os fatos investigados. A investigação de fatos de 2009 a 2015 não autoriza vasculhar dados anteriores ou posteriores, o que seria pescaria probatória. Busca e apreensão mantida, com recorte temporal.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1079684.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. BUSCA E APREENSÃO. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE PESCARIA PROBATÓRIA. 2. DADOS TELEMÁTICOS ARMAZENADOS (DADOS ESTÁTICOS). LIMITAÇÃO DE PRAZO. DESNECESSIDADE. DELIMITAÇÃO FÁTICA E TEMPORAL. IMPRESCINDIBILIDADE. 3. AGRAVO REGIMENTAL A QUE SE DÁ PARCIAL PROVIMENTO.
+  > 1. O acórdão impugnado foi explícito ao afirmar que a providência cautelar decorre de investigação de suposta atuação estruturada criminosa, relacionada a elementos anteriormente reunidos, notadamente dados extraídos de notebook entregue por colaborador. Também consignou que a medida se insere em apuração complexa, envolvendo múltiplos investigados e empresas, voltada à elucidação de possível associação criminosa, delitos contra a Administração Pública e subsequente lavagem de capitais.
+  > - Portanto, não se trata, aqui, de medida cautelar inaugurada de modo arbitrário ou desvinculada de elementos concretos. Ao contrário, o quadro descrito no ato coator revela investigação em curso, com elementos indiciários previamente colhidos e finalidade probatória associada aos fatos já delimitados no procedimento. Nessas condições, não se pode concluir, de plano, que a diligência tenha sido utilizada como mecanismo indiferenciado de prospecção criminal. Nesse contexto, reitero que não se evidencia ilegalidade manifesta.
+  > - A alegação no sentido de que teria havido "confissão" de pesca probatória na própria representação ministerial não encontra respaldo nas passagens decisórias transcritas nem em elemento objetivo apto a demonstrar, de modo inequívoco, que a medida foi decretada para fins genéricos desvinculados dos fatos investigados. Ao revés, as instâncias ordinárias indicaram a natureza probatória instrumental da cautelar, inserida em apuração complexa e apoiada em indícios. Nessa medida, permanece hígida a razão decisória.
+  > 2. Quanto ao pedido subsidiário, referente à ausência de recorte temporal das medidas invasivas, a jurisprudência desta Corte Superior firmou compreensão no sentido de que a Lei n. 12.965/2014 não exige, para a obtenção judicial de dados já armazenados, a mesma limitação temporal prevista para registros de aplicações e fluxos comunicacionais. A exigência do art. 22, inciso III, do Marco Civil da Internet dirige-se aos registros, e não se projeta automaticamente sobre hipóteses de extração e análise de dados telemáticos previamente armazenados em dispositivos apreendidos para fins de investigação criminal.
+  > - Contudo, ao realizar uma análise mais detalhada dos julgados desta Corte, constato que a conclusão se refere à desnecessidade de se fixar o lapso de captação equivalente ao fixado para fluxos de comunicação, como ocorre, por exemplo, no art. 8º-A, § 3º, da Lei n. 9.296/1996, que define o prazo de 15 dias, renovável, para a captação ambiental. De fato, não há necessidade de fixar prazo para a captação de dados estáticos, o que não afasta a exigência de limitação temporal do acesso aos dados armazenados, sob pena de, conforme destacado pela defesa, franquear-se verdadeira pescaria probatória. Oportuno anotar que, no RHC 166.662/MG, "o acesso aos dados telemáticos armazenados foi delimitado ao período de 2018 a 2021".
+  > - Nessa linha de intelecção, embora o acesso aos dados estáticos realmente não demande a prévia fixação de prazo para acesso, como ocorre no acesso aos fluxos de comunicação, é imperativo que os dados acessados, em qualquer tipo de diligência, guardem pertinência temática e contemporaneidade com os fatos investigados. Admitir que a investigação por fatos ocorridos entre 2009 e 2015 viabilize o acesso a provas anteriores a 2009, bem como a documentos posteriores a 2015, considerando que a medida foi decretada 10 anos após a suposta cessação dos fatos, revela acesso indevido a documentos cuja relação com os fatos investigados não se encontra minimamente demonstrada, sendo, portanto, vedada por ser medida meramente especulativa.
+  > 3. Agravo regimental a que se dá parcial provimento, para acolher o pedido subsidiário e, de ofício, delimitar as medidas invasivas ao período dos fatos investigados (2009-2015).
+  > (AgRg no HC n. 1.079.684/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
+
+## 123. HC nº 1048611 / RS (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 17/03/2026.
+- Crime / Tema: Execução penal
+- Resumo: A remição pelo trabalho pode ser comprovada por prova testemunhal idônea, mesmo de outros presos, sobretudo quando o Estado falhou em registrar o trabalho (art. 126 da LEP). Proibir de antemão essa prova é ilegal. Ordem concedida para o juízo da execução reanalisar a remição.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1048611.pdf
+- Ementa oficial:
+  > DIREITO PENAL. EXECUÇÃO. HABEAS CORPUS. REMIÇÃO DE PENA PELO TRABALHO. PROVA TESTEMUNHAL. ORDEM CONCEDIDA.
+  > I. CASO EM EXAME
+  > 1. Habeas corpus impetrado contra decisão do Tribunal de Justiça do Rio Grande do Sul que negou provimento ao agravo em execução, mantendo decisão que indeferiu a produção de prova testemunhal e a remição pelo trabalho na função de "paneleiro".
+  > 2. O paciente alegou ter exercido a função de paneleiro no período de 15/9/2024 a 28/1/2025, na Penitenciária Estadual de Charqueadas, e requereu a remição de pena com base em prova testemunhal, diante da ausência de registro formal do trabalho pela administração prisional.
+  > 3. O Tribunal local considerou a prova testemunhal inidônea, por se tratar de depoimentos de outros apenados, que teriam interesse indireto na concessão do benefício.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. A questão em discussão consiste em saber se a prova testemunhal pode ser considerada idônea para comprovar o trabalho realizado pelo apenado, para fins de remição de pena, nos termos do art. 126 da Lei de Execução Penal.
+  > III. RAZÕES DE DECIDIR
+  > 5. A Lei de Execução Penal não há impedimento à produção da prova testemunhal como comprovação do trabalho para fins de remição de pena, sendo possível a utilização de outros meios probatórios, como a prova testemunhal.
+  > 6. A jurisprudência do Tribunal Superior admite a produção de prova testemunhal para fins de remição pelo trabalho, desde que idônea e devidamente fundamentada.
+  > 7. A proibição prévia da produção de prova testemunhal para comprovação de trabalho interno é indevida, especialmente quando há alegação de falha estatal na fiscalização e registro do trabalho realizado.
+  > 8. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal.
+  > IV. DISPOSITIVO E TESE
+  > 9. Ordem concedida para reconhecer a idoneidade da prova testemunhal e determinar a reanálise do pedido de remição pelo Juízo da execução.
+  > Tese de julgamento:
+  > 1. A remição pelo trabalho pode ser comprovada por meio de prova testemunhal, desde que idônea e devidamente fundamentada.
+  > 2. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal para fins de remição pelo trabalho.
+  > (HC n. 1.048.611/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026.)
+
+## 124. AgRg no REsp nº 2237192 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/03/2026.
 - Crime / Tema: Manipulação de mercado · Imparcialidade do juiz
 - Resumo: Suspeição de juiz acionista da empresa ligada à investigação (manipulação de mercado): a parcialidade é aferível objetivamente, e o prejuízo decorre dela. Mantida a anulação de todos os atos do magistrado.
@@ -22,7 +69,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Agravo regimental a que se nega provimento.
   > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)
 
-## 122. AgRg no HC nº 1017481 / RN (STJ)
+## 125. AgRg no HC nº 1017481 / RN (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 12/03/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital · Fundada suspeita · Cabimento do HC
 - Resumo: O acesso da polícia às conversas do celular do corréu sem autorização judicial é ilícito. Essa prova e as dela derivadas devem ser desentranhadas, cabendo ao juízo verificar se há prova independente que sustente a condenação. A busca pessoal, feita com fundada suspeita, foi considerada válida (art. 244 do CPP).
@@ -48,7 +95,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
   > (AgRg no HC n. 1.017.481/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
 
-## 123. RHC nº 223931 / PE (STJ)
+## 126. RHC nº 223931 / PE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
 - Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
@@ -62,7 +109,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
   > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
 
-## 124. APn nº 927 / DF (STJ)
+## 127. APn nº 927 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Isabel Gallotti. Corte Especial. Publicado em 10/03/2026.
 - Crime / Tema: Lavagem de dinheiro · Prescrição
 - Resumo: A lavagem é crime autônomo: pode ser julgada antes do crime antecedente (corrupção e organização criminosa), bastando prova da infração antecedente, ainda que prescrita (art. 2º, II e § 1º, da Lei 9.613/1998). Na modalidade "ocultar", é permanente, e a prescrição corre da descoberta dos valores. A majorante do art. 1º, § 4º, só incide se a própria lavagem for praticada por organização criminosa. O dano moral coletivo exige ação própria. Conselheiro do TCE-RJ condenado a 13 anos e a esposa a 3 anos e 8 meses, com absolvições parciais. Vencidos quatro ministros, entre eles o revisor, que absolviam os réus.
@@ -88,7 +135,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 17. Ação penal julgada procedente em parte, porque: (a) absolvida a corré quanto às imputações do conjunto de fatos 1; (b) afastada a continuidade delitiva alegada quanto ao conjunto de fatos 2, beneficiando ambos os réus; (c) absolvidos ambos os réus quanto às imputações do conjunto de fatos 3.
   > (APn n. 927/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 4/2/2026, DJEN de 10/3/2026.)
 
-## 125. AgRg no AREsp nº 2583516 / TO (STJ)
+## 128. AgRg no AREsp nº 2583516 / TO (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
@@ -115,13 +162,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
   > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
 
-## 126. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
+## 129. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin (Presidente). Publicado em 02/02/2026.
 - Crime / Tema: Dosimetria
 - Resumo: Devolução do processo ao fluxo regular após pacificação do Tema 150/STF (RE 593818): maus antecedentes não prescrevem em 5 anos como a reincidência, mas o julgador pode deixar de valorá-los se irrelevantes ou muito distantes no tempo.
 - Ver andamento no STF: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7467927
 
-## 127. AREsp nº 2967413 / RS (STJ)
+## 130. AREsp nº 2967413 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/12/2025.
 - Crime / Tema: Organização criminosa · Quebra da cadeia de custódia · Prova digital
 - Resumo: A cadeia de custódia condiciona a confiabilidade da prova digital. Prints de aplicativo extraídos do celular de um corréu exigem documentação verificável da coleta e preservação, e o ônus de provar integridade e autenticidade é da acusação. O acórdão que só disse que a defesa não provou prejuízo inverteu esse ônus e foi anulado para novo julgamento.
@@ -149,76 +196,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. É ônus exclusivo da acusação demonstrar a integridade e a autenticidade da prova digital apresentada, não sendo admissível presumir sua higidez quando inexistem registros técnicos e documentação da cadeia de custódia, circunstância que pode conduzir à inadmissibilidade da prova ou à necessidade de novo julgamento em instância ordinária.
   > 4. A ausência, no acórdão de apelação, de fundamentação específica sobre a forma de obtenção e preservação de capturas de tela utilizadas como prova central em condenação penal enseja a anulação do julgamento e a devolução dos autos ao Tribunal de origem para novo exame, com motivação expressa à luz dos arts. 157, § 1º, 158 e 158-A a 158-F do CPP.
   > (AREsp n. 2.967.413/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/12/2025, DJEN de 16/12/2025.)
-
-## 128. REsp nº 2166900 / SP (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
-- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
-- Crime / Tema: Execução penal · Tema repetitivo
-- Resumo: Tema 1.347/STJ — A regressão cautelar de regime é provisória e cabe no poder geral de cautela do juízo da execução, sem prévia oitiva do apenado, que o art. 118, § 2º, da LEP exige só na regressão definitiva. Exige fundamentação idônea e vale até a apuração definitiva da falta, com contraditório no procedimento próprio.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2166900.pdf
-- Ementa oficial:
-  > DIREITO PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.347 DO STJ. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. DESNECESSIDADE DE PRÉVIA OITIVA DO APENADO. RECURSO IMPROVIDO. TESE FIXADA.
-  > I. CASO EM EXAME
-  > 1. Recurso especial interposto contra acórdão da Oitava Câmara Criminal do Tribunal de Justiça do Estado de São Paulo que concluiu pela desnecessidade de prévia oitiva do apenado para a regressão cautelar de regime prisional determinada em caráter provisório quando constatado o cometimento de falta grave.
-  > 2. O acórdão recorrido entendeu que a regressão cautelar de regime prisional sem prévia oitiva do apenado determinada não viola o regramento da execução pena.
-  > 3. Afetação como Recurso Especial Repetitivo dos paradigmas REsps n. 2.166.900/SP, 2.153.215/RJ e 2.167.128/RJ, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.347 do STJ, para formação de precedente vinculante (CPC, art. 927, III).
-  > II. QUESTÃO EM DISCUSSÃO
-  > 4. A questão em discussão, afetada no tema repetitivo, consiste em: "Definir se é necessária a prévia oitiva da pessoa apenada para que lhe seja imposta a suspensão cautelar (regressão provisória) do regime prisional mais favorável quando constatado o possível cometimento de falta disciplinar grave ou de fato definido como crime doloso."
-  > III. RAZÕES DE DECIDIR
-  > 5. A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, razão pela qual se mostra possível sua decretação sem a necessidade de prévia oitiva do apenado.
-  > 6. A decisão que determina a regressão cautelar deve ser devidamente fundamentada, observando os elementos de interesse do caso, aplicando-se a exigência de prévia oitiva do apenado, prevista no art. 118, § 2º, da Lei de Execução Penal, apenas à regressão definitiva de regime.
-  > 7. A regressão cautelar é válida até a apuração definitiva da falta, devendo ser instaurado o procedimento cabível para apuração do fato, com observância dos princípios do contraditório, da ampla defesa e do devido processo legal.
-  > IV. DISPOSITIVO E TESE
-  > 8. Resultado do Julgamento: Recurso improvido.
-  > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
-  > (REsp n. 2.166.900/SP, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
-
-## 129. REsp nº 2167128 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
-- **Resultado desfavorável à defesa:** Recurso do MP provido (vale pela tese)
-- Crime / Tema: Execução penal · Tema repetitivo
-- Resumo: Tema 1.347/STJ — A regressão cautelar de regime é provisória e cabe no poder geral de cautela do juízo da execução, sem prévia oitiva do apenado, que o art. 118, § 2º, da LEP exige só na regressão definitiva. Exige fundamentação idônea e vale até a apuração definitiva da falta. O TJRJ exigia a oitiva prévia; recurso do MP provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2167128.pdf
-- Ementa oficial:
-  > DIREITO PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.347 DO STJ. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. DESNECESSIDADE DE PRÉVIA OITIVA DO APENADO. RECURSO PROVIDO. TESE FIXADA.
-  > I. CASO EM EXAME
-  > 1. Recurso especial interposto pelo Ministério Público do Estado do Rio de Janeiro contra acórdão da Quinta Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro que concluiu pela necessidade de prévia oitiva do apenado para a regressão cautelar de regime prisional determinada em caráter provisório quando constatado o cometimento de falta grave.
-  > 2. O acórdão recorrido entendeu que a regressão de regime prisional sem prévia oitiva do apenado, ainda que determinada de modo cautelar ou provisório, viola o princípio da legalidade e o devido processo legal, não se encontrando amparada pela Lei de Execução Penal.
-  > 3. Afetação como Recurso Especial Repetitivo dos paradigmas REsps n. 2.166.900/SP, 2.153.215/RJ e 2.167.128/RJ, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.347 do STJ, para formação de precedente vinculante (CPC, art. 927, III).
-  > II. QUESTÃO EM DISCUSSÃO
-  > 4. A questão em discussão, afetada no tema repetitivo, consiste em: "Definir se é necessária a prévia oitiva da pessoa apenada para que lhe seja imposta a suspensão cautelar (regressão provisória) do regime prisional mais favorável quando constatado o possível cometimento de falta disciplinar grave ou de fato definido como crime doloso."
-  > III. RAZÕES DE DECIDIR
-  > 5. A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, razão pela qual se mostra possível sua decretação sem a necessidade de prévia oitiva do apenado.
-  > 6. A decisão que determina a regressão cautelar deve ser devidamente fundamentada, observando os elementos de interesse do caso, aplicando-se a exigência de prévia oitiva do apenado, prevista no art. 118, § 2º, da Lei de Execução Penal, apenas à regressão definitiva de regime.
-  > 7. A regressão cautelar é válida até a apuração definitiva da falta, devendo ser instaurado o procedimento cabível para apuração do fato, com observância dos princípios do contraditório, da ampla defesa e do devido processo legal.
-  > IV. DISPOSITIVO E TESE
-  > 8. Resultado do Julgamento: Recurso provido para reformar o acórdão recorrido e afastar a necessidade de prévia oitiva do apenado na regressão cautelar de regime prisional.
-  > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
-  > (REsp n. 2.167.128/RJ, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
-
-## 130. AgRg no HC nº 1004144 / SP (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 30/10/2025.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: Quantidade e natureza da droga, falta de prova de trabalho lícito e apreensão em ponto de tráfico não afastam, cada uma sozinha, o tráfico privilegiado. Usar a quantidade para elevar a pena-base e para negar a minorante é bis in idem. Ordem de ofício mantida; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1004144.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu, de ofício, habeas corpus para aplicar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionando as penas do agravado para 1 ano e 8 meses de reclusão, além de 166 dias-multa, fixando o regime inicial aberto e substituindo a pena privativa de liberdade por duas restritivas de direitos.
-  > 2. O agravado foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. Em segunda instância, o Tribunal negou provimento ao apelo defensivo. Após o trânsito em julgado, revisão criminal foi indeferida liminarmente.
-  > 3. A decisão agravada considerou que a quantidade e a natureza das drogas apreendidas não extrapolam o tipo penal, não justificando o afastamento da minorante do art. 33, § 4º, da Lei nº 11.343/2006.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se a quantidade e a natureza das drogas apreendidas justificam o afastamento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006; e (ii) saber se a ausência de comprovação de ocupação lícita e a apreensão em local conhecido como ponto de tráfico são elementos suficientes para caracterizar a dedicação habitual do agravado à atividade criminosa.
-  > III. Razões de decidir
-  > 5. A quantidade e a natureza das drogas apreendidas não extrapolam o tipo penal, sendo insuficientes para justificar o afastamento da minorante do art. 33, § 4º, da Lei nº 11.343/2006.
-  > 6. A ausência de comprovação de ocupação lícita não permite presumir a dedicação do agravado à atividade criminosa, conforme precedentes do Superior Tribunal de Justiça.
-  > 7. A apreensão em local conhecido como ponto de tráfico, isoladamente, não constitui elemento suficiente para caracterizar a dedicação habitual do agravado à atividade ilícita, sendo necessária a demonstração de outros elementos fático-probatórios.
-  > 8. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e, concomitantemente, para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006, configura indevido bis in idem.
-  > IV. Dispositivo e tese
-  > 9. Resultado do Julgamento: Agravo regimental não provido.
-  > Tese de julgamento:
-  > 1. A quantidade e a natureza das drogas apreendidas não justificam, por si só, o afastamento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006.
-  > 2. A ausência de comprovação de ocupação lícita não permite presumir a dedicação do agente à atividade criminosa.
-  > 3. A apreensão em local conhecido como ponto de tráfico não constitui, isoladamente, elemento suficiente para caracterizar a dedicação habitual à atividade ilícita.
-  > 4. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006 configura indevido bis in idem.
-  > (AgRg no HC n. 1.004.144/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2025, DJEN de 30/10/2025.)

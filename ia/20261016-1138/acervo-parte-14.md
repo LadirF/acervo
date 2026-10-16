@@ -1,20 +1,93 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 14 de 19 (decisões 131 a 140)
+# Acervo de Jurisprudência — Cury Advogados — parte 14 de 20 (decisões 131 a 140)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261016-1110/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261016-1138/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 131. AREsp nº 3045207 / MT (STJ)
+## 131. REsp nº 2166900 / SP (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
+- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
+- Crime / Tema: Execução penal · Tema repetitivo
+- Resumo: Tema 1.347/STJ — A regressão cautelar de regime é provisória e cabe no poder geral de cautela do juízo da execução, sem prévia oitiva do apenado, que o art. 118, § 2º, da LEP exige só na regressão definitiva. Exige fundamentação idônea e vale até a apuração definitiva da falta, com contraditório no procedimento próprio.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2166900.pdf
+- Ementa oficial:
+  > DIREITO PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.347 DO STJ. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. DESNECESSIDADE DE PRÉVIA OITIVA DO APENADO. RECURSO IMPROVIDO. TESE FIXADA.
+  > I. CASO EM EXAME
+  > 1. Recurso especial interposto contra acórdão da Oitava Câmara Criminal do Tribunal de Justiça do Estado de São Paulo que concluiu pela desnecessidade de prévia oitiva do apenado para a regressão cautelar de regime prisional determinada em caráter provisório quando constatado o cometimento de falta grave.
+  > 2. O acórdão recorrido entendeu que a regressão cautelar de regime prisional sem prévia oitiva do apenado determinada não viola o regramento da execução pena.
+  > 3. Afetação como Recurso Especial Repetitivo dos paradigmas REsps n. 2.166.900/SP, 2.153.215/RJ e 2.167.128/RJ, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.347 do STJ, para formação de precedente vinculante (CPC, art. 927, III).
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. A questão em discussão, afetada no tema repetitivo, consiste em: "Definir se é necessária a prévia oitiva da pessoa apenada para que lhe seja imposta a suspensão cautelar (regressão provisória) do regime prisional mais favorável quando constatado o possível cometimento de falta disciplinar grave ou de fato definido como crime doloso."
+  > III. RAZÕES DE DECIDIR
+  > 5. A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, razão pela qual se mostra possível sua decretação sem a necessidade de prévia oitiva do apenado.
+  > 6. A decisão que determina a regressão cautelar deve ser devidamente fundamentada, observando os elementos de interesse do caso, aplicando-se a exigência de prévia oitiva do apenado, prevista no art. 118, § 2º, da Lei de Execução Penal, apenas à regressão definitiva de regime.
+  > 7. A regressão cautelar é válida até a apuração definitiva da falta, devendo ser instaurado o procedimento cabível para apuração do fato, com observância dos princípios do contraditório, da ampla defesa e do devido processo legal.
+  > IV. DISPOSITIVO E TESE
+  > 8. Resultado do Julgamento: Recurso improvido.
+  > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
+  > (REsp n. 2.166.900/SP, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
+
+## 132. REsp nº 2167128 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
+- **Resultado desfavorável à defesa:** Recurso do MP provido (vale pela tese)
+- Crime / Tema: Execução penal · Tema repetitivo
+- Resumo: Tema 1.347/STJ — A regressão cautelar de regime é provisória e cabe no poder geral de cautela do juízo da execução, sem prévia oitiva do apenado, que o art. 118, § 2º, da LEP exige só na regressão definitiva. Exige fundamentação idônea e vale até a apuração definitiva da falta. O TJRJ exigia a oitiva prévia; recurso do MP provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2167128.pdf
+- Ementa oficial:
+  > DIREITO PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.347 DO STJ. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. DESNECESSIDADE DE PRÉVIA OITIVA DO APENADO. RECURSO PROVIDO. TESE FIXADA.
+  > I. CASO EM EXAME
+  > 1. Recurso especial interposto pelo Ministério Público do Estado do Rio de Janeiro contra acórdão da Quinta Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro que concluiu pela necessidade de prévia oitiva do apenado para a regressão cautelar de regime prisional determinada em caráter provisório quando constatado o cometimento de falta grave.
+  > 2. O acórdão recorrido entendeu que a regressão de regime prisional sem prévia oitiva do apenado, ainda que determinada de modo cautelar ou provisório, viola o princípio da legalidade e o devido processo legal, não se encontrando amparada pela Lei de Execução Penal.
+  > 3. Afetação como Recurso Especial Repetitivo dos paradigmas REsps n. 2.166.900/SP, 2.153.215/RJ e 2.167.128/RJ, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.347 do STJ, para formação de precedente vinculante (CPC, art. 927, III).
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. A questão em discussão, afetada no tema repetitivo, consiste em: "Definir se é necessária a prévia oitiva da pessoa apenada para que lhe seja imposta a suspensão cautelar (regressão provisória) do regime prisional mais favorável quando constatado o possível cometimento de falta disciplinar grave ou de fato definido como crime doloso."
+  > III. RAZÕES DE DECIDIR
+  > 5. A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, razão pela qual se mostra possível sua decretação sem a necessidade de prévia oitiva do apenado.
+  > 6. A decisão que determina a regressão cautelar deve ser devidamente fundamentada, observando os elementos de interesse do caso, aplicando-se a exigência de prévia oitiva do apenado, prevista no art. 118, § 2º, da Lei de Execução Penal, apenas à regressão definitiva de regime.
+  > 7. A regressão cautelar é válida até a apuração definitiva da falta, devendo ser instaurado o procedimento cabível para apuração do fato, com observância dos princípios do contraditório, da ampla defesa e do devido processo legal.
+  > IV. DISPOSITIVO E TESE
+  > 8. Resultado do Julgamento: Recurso provido para reformar o acórdão recorrido e afastar a necessidade de prévia oitiva do apenado na regressão cautelar de regime prisional.
+  > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
+  > (REsp n. 2.167.128/RJ, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
+
+## 133. AgRg no HC nº 1004144 / SP (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 30/10/2025.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Quantidade e natureza da droga, falta de prova de trabalho lícito e apreensão em ponto de tráfico não afastam, cada uma sozinha, o tráfico privilegiado. Usar a quantidade para elevar a pena-base e para negar a minorante é bis in idem. Ordem de ofício mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1004144.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu, de ofício, habeas corpus para aplicar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionando as penas do agravado para 1 ano e 8 meses de reclusão, além de 166 dias-multa, fixando o regime inicial aberto e substituindo a pena privativa de liberdade por duas restritivas de direitos.
+  > 2. O agravado foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. Em segunda instância, o Tribunal negou provimento ao apelo defensivo. Após o trânsito em julgado, revisão criminal foi indeferida liminarmente.
+  > 3. A decisão agravada considerou que a quantidade e a natureza das drogas apreendidas não extrapolam o tipo penal, não justificando o afastamento da minorante do art. 33, § 4º, da Lei nº 11.343/2006.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se a quantidade e a natureza das drogas apreendidas justificam o afastamento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006; e (ii) saber se a ausência de comprovação de ocupação lícita e a apreensão em local conhecido como ponto de tráfico são elementos suficientes para caracterizar a dedicação habitual do agravado à atividade criminosa.
+  > III. Razões de decidir
+  > 5. A quantidade e a natureza das drogas apreendidas não extrapolam o tipo penal, sendo insuficientes para justificar o afastamento da minorante do art. 33, § 4º, da Lei nº 11.343/2006.
+  > 6. A ausência de comprovação de ocupação lícita não permite presumir a dedicação do agravado à atividade criminosa, conforme precedentes do Superior Tribunal de Justiça.
+  > 7. A apreensão em local conhecido como ponto de tráfico, isoladamente, não constitui elemento suficiente para caracterizar a dedicação habitual do agravado à atividade ilícita, sendo necessária a demonstração de outros elementos fático-probatórios.
+  > 8. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e, concomitantemente, para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006, configura indevido bis in idem.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Agravo regimental não provido.
+  > Tese de julgamento:
+  > 1. A quantidade e a natureza das drogas apreendidas não justificam, por si só, o afastamento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+  > 2. A ausência de comprovação de ocupação lícita não permite presumir a dedicação do agente à atividade criminosa.
+  > 3. A apreensão em local conhecido como ponto de tráfico não constitui, isoladamente, elemento suficiente para caracterizar a dedicação habitual à atividade ilícita.
+  > 4. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006 configura indevido bis in idem.
+  > (AgRg no HC n. 1.004.144/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2025, DJEN de 30/10/2025.)
+
+## 134. AREsp nº 3045207 / MT (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
 - Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
 - Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
 
-## 132. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+## 135. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
 - Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
@@ -37,7 +110,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
   > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 133. REsp nº 1953602 / SP (STJ)
+## 136. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -57,13 +130,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 134. RHC nº 213637 / BA (STJ)
+## 137. RHC nº 213637 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
 
-## 135. AgRg no REsp nº 2173273 / MG (STJ)
+## 138. AgRg no REsp nº 2173273 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
@@ -77,13 +150,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
 
-## 136. Rcl nº 80.133 / PR (STF)
+## 139. Rcl nº 80.133 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
 - Crime / Tema: Prova digital · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf
 
-## 137. AgRg no AREsp nº 2243364 / MG (STJ)
+## 140. AgRg no AREsp nº 2243364 / MG (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
@@ -106,28 +179,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 2. A aplicação da minorante do tráfico privilegiado é excepcionalmente justificada pela ínfima quantidade de droga e ausência de intuito lucrativo, mesmo diante dos maus antecedentes não específicos.
   > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
   > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
-
-## 138. AgRg no RHC nº 189376 / MT (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
-- Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-189376.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. FALSIFICAÇÃO DO SINAL EMPREGADO NO CONTRASTE DE METAL PRECIOSO OU NA FISCALIZAÇÃO ALFANDEGÁRIA, OU PARA OUTROS FINS. LAVAGEM DE DINHEIRO. COMPETÊNCIA PARA AUTORIZAÇÃO DE QUEBRA DE SIGILO DE DADOS DE CELULAR. NÃO APLICAÇÃO DA TEORIA DO JUÍZO APARENTE. FATOS CONEXOS À OPERAÇAO QUE TRAMITA NA JUSTIÇA FEDERAL. NÃO DEMONSTRÇÃO DE URGÊNCIA QUE AUTORIZARIA A ATUAÇÃO DA JUSTIÇA ESTADUAL. AGRAVO DO MINISTÉRIO PÚBLICO FEDERAL – MPF DESPROVIDO.
-  > 1. De rigor o afastamento da aparente competência da Justiça Estadual para autorização da quebra de sigilo de dados, uma vez que a ação policial que culminou na apreensão do celular teve origem em pedido formulado pela Polícia Federal, que, em razão de decisões proferidas pela Justiça Federal de Cuiabá, no âmbito da operação Catrapo, vinha monitorando o corréu, o que denota ser crível, desde o início, que os fatos investigados eram conexos e estavam compreendidos na competência da Justiça Federal.
-  > 2. Não restando minimamente esclarecido como a competência poderia recair sobre a Justiça Estadual, deve ser afastada a possibilidade de aplicação da teoria do Juízo aparente.
-  > 3. Não demonstrada urgência que validaria a atuação imediata do Juízo Estadual, mormente em se considerando não haver risco efetivo e iminente de perecimento das provas, uma vez que o celular apreendido se encontrava sob custódia da Justiça, a extração de dados do celular apreendido por ele determinada deve ser declarada nula.
-  > 4. Agravo regimental desprovido.
-  > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
-
-## 139. HC nº 978977 / PE (STJ)
-- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
-
-## 140. AgRg no AREsp nº 2697575 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
-- Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf

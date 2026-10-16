@@ -1,20 +1,47 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 10 de 19 (decisões 91 a 100)
+# Acervo de Jurisprudência — Cury Advogados — parte 10 de 20 (decisões 91 a 100)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
 Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
 
-Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261016-1110/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
+Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia/20261016-1138/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 91. HC nº 1127513 / SP (STJ)
+## 91. REsp nº 2176719 / MG (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
+- Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
+- Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
+
+## 92. AgRg no REsp nº 2245002 / RS (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/09/2026.
+- Crime / Tema: Perseguição · Violência doméstica · Dosimetria
+- Resumo: A agravante do art. 61, II, 'f', do CP não incide na perseguição contra a mulher (art. 147-A, § 1º, II) nem na violência psicológica (art. 147-B): a violência contra a mulher já é elementar, e aplicá-la seria bis in idem. Distinção do Tema 1.197/STJ, que vale para a lesão do art. 129, § 9º. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245002.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO REGIMENTAL. INDEVIDA INCIDÊNCIA DA AGRAVANTE DO ART. 61, II, "F", DO CÓDIGO PENAL NOS CRIMES TIPIFICADOS NOS ARTS. 147-A, II, E 147-B, AMBOS DO CP. BIS IN IDEM CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão monocrática que, com fundamento na Súmula n. 568 do STJ, negou provimento ao recurso especial, mantendo a decisão que afastou a incidência da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher.
+  > 2. A decisão monocrática considerou que a aplicação da referida agravante nos crimes de perseguição contra mulher e violência psicológica contra a mulher configuraria bis in idem, uma vez que a violência contra a mulher já integra os elementos do tipo penal.
+  > II. Questão em discussão
+  > 3. A questão em discussão consiste em saber se a incidência concomitante da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição qualificada, contra mulher, e violência psicológica contra a mulher configura bis in idem, considerando que a violência contra a mulher já integra os elementos do tipo penal.
+  > III. Razões de decidir
+  > 4. A jurisprudência do STJ admite a incidência da agravante prevista no art. 61, II, "f", do Código Penal apenas nas hipóteses em que a violência contra a mulher não integra os elementos do tipo penal.
+  > 5. Nos crimes de perseguição contra mulher e violência psicológica contra a mulher, previstos nos arts. 147-A, § 1º, II, e 147-B do Código Penal, a violência contra a mulher já integra os elementos do tipo penal, sendo indevida a aplicação concomitante da agravante do art. 61, II, "f", do Código Penal, sob pena de indevido bis in idem e violação ao princípio da especialidade.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental desprovido.
+  > Tese de julgamento:
+  > 1. Não incide a agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher, pois, sob o princípio da especialidade, a violência contra a mulher já integra os elementos do tipo penal, esta incidência configura indevido bis in idem.
+  > (AgRg no REsp n. 2.245.002/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2026, DJEN de 9/9/2026.)
+
+## 93. HC nº 1127513 / SP (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
 - Crime / Tema: Falsidade ideológica · Alucinação de IA
 - Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
 
-## 92. REsp nº 2253784 / PA (STJ)
+## 94. REsp nº 2253784 / PA (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Estupro de vulnerável
 - Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
@@ -27,7 +54,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 4. Recurso especial provido para cassar o acórdão condenatório e restabelecer a sentença absolutória, em consonância com o parecer ministerial.
   > (REsp n. 2.253.784/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/9/2026, DJEN de 8/9/2026.)
 
-## 93. REsp nº 2059576 / MG (STJ)
+## 95. REsp nº 2059576 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
@@ -55,7 +82,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > Tese de julgamento: (Temas Repetitivos n. 1214 e n. 1154): "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa".
   > (REsp n. 2.059.576/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 94. REsp nº 1963433 / SP (STJ)
+## 96. REsp nº 1963433 / SP (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
@@ -88,7 +115,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
   > (REsp n. 1.963.433/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 95. REsp nº 2048687 / BA (STJ)
+## 97. REsp nº 2048687 / BA (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 08/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Tema repetitivo
 - Resumo: Tema 1.260/STJ — Pronúncia não pode se basear só em elementos do inquérito nem só em testemunho indireto (“ouvir dizer”), ainda que colhido em juízo. Em contextos de intimidação, facções ou silenciamento de testemunhas, o testemunho indireto qualificado pode ter maior relevo, sob controle judicial estrito.
@@ -104,47 +131,20 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ia
   > 7. Recurso especial provido.
   > (REsp n. 2.048.687/BA, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/8/2026, DJEN de 8/9/2026.)
 
-## 96. HC nº 1095439 / SP (STJ)
+## 98. HC nº 1095439 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: são necessários elementos concretos de dedicação a atividades criminosas ou de integração a organização criminosa. A quantidade expressiva (86,6 kg de cocaína) só modula a fração, aplicada no mínimo (1/6). Pena reduzida para 5 anos, 2 meses e 15 dias, em regime semiaberto. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1095439.pdf
 
-## 97. HC nº 1104105 / SP (STJ)
+## 99. HC nº 1104105 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
 - Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
 
-## 98. RHC nº 243155 / SP (STJ)
+## 100. RHC nº 243155 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
-
-## 99. HC nº 276.144 / MS (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
-- Crime / Tema: Corrupção passiva · Dosimetria
-- Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
-
-## 100. AgRg no HC nº 1089462 / MG (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
-- Crime / Tema: Embriaguez ao volante · Excesso de prazo
-- Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089462.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXCESSO DE PRAZO. TRANCAMENTO DE INQUÉRITO POLICIAL. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público Estadual contra decisão monocrática que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para determinar o trancamento de inquérito policial, sem prejuízo de reabertura com surgimento de novas provas.
-  > 2. Trata-se de um único investigado por suposta embriaguez ao volante ocorrida em abril de 2022. Inquérito policial em curso há mais de três anos, sem justificativa plausível para a mora e sem complexidade aparente, com investigado em liberdade. Alegação ministerial de diligências pendentes e de impropriedade do prazo para conclusão do inquérito quando o investigado não está preso.
-  > 3. O Tribunal de origem denegou a ordem no habeas corpus originário. A decisão agravada reconheceu constrangimento ilegal por excesso de prazo e determinou o trancamento do inquérito policial.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se o excesso de prazo na conclusão de inquérito policial, sem justificativa plausível e sem complexidade, caracteriza constrangimento ilegal apto a ensejar o trancamento, ainda que o investigado esteja solto; e (ii) saber se o agravo regimental trouxe argumentos suficientes para infirmar a decisão que concedeu a ordem de ofício.
-  > III. Razões de decidir
-  > 5. A demora superior a três anos, sem justificativa plausível e em feito sem complexidade, viola o direito fundamental à duração razoável do processo (CF/1988, art. 5º, LXXVIII) e configura constrangimento ilegal, autorizando o trancamento do inquérito policial.
-  > 6. O prazo para conclusão do inquérito é impróprio quando o investigado está solto, porém o excesso desarrazoado e injustificado não se legitima pela simples liberdade do investigado; diligências pendentes não afastam a necessidade de conclusão quando não demonstrada a complexidade ou a imprescindibilidade, sendo possível a concessão da ordem, de ofício, diante de flagrante coação ilegal (CPP, art. 654, § 2º).
-  > 7. O agravo regimental não apresentou argumentos capazes de infirmar a decisão agravada, impondo a manutenção do decisum pelos próprios fundamentos.
-  > IV. Dispositivo
-  > 8. Agravo regimental desprovido.
-  > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)

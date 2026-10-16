@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 6 de 19 (decisões 51 a 60)
+# Acervo de Jurisprudência — Cury Advogados — parte 6 de 20 (decisões 51 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,13 +8,27 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. HC nº 1134665 / SP (STJ)
+## 51. REsp nº 2245812 / MG (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
+- Crime / Tema: Tráfico de drogas · Prova digital
+- Resumo: Policial que atende ligação no celular do abordado, sem consentimento nem ordem judicial, produz prova ilícita. A apreensão posterior de 54,27 g de cocaína com o adolescente que ligou deriva disso, sem fonte independente nem descoberta inevitável. Condenação anulada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245812.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. CONDENAÇÃO. NULIDADE. ACESSO À COMUNICAÇÃO TELEFÔNICA DO RÉU DURANTE ABORDAGEM. SUBSEQUENTE APREENSÃO DE ADOLESCENTE PORTANDO ENTORPECENTES. APREENSÃO DE 54,27 G DE COCAÍNA. ILEGALIDADE RECONHECIDA. CONDENAÇÃO ANULADA.
+  > 1. Hipótese em que a prisão do recorrente somente ocorreu em razão de os policiais terem acessado o conteúdo de comunicação telefônica em seu aparelho celular no exato momento da abordagem, sem consentimento livre ou autorização judicial, descobrindo o seu envolvimento no delito objeto do flagrante.
+  > 2. As provas confirmando o envolvimento do réu somente aconteceram em razão de os policiais terem atendido ilegalmente a ligação telefônica no momento de abordagem em que nada ilícito havia sido localizado. Caso não tivessem efetuado o acesso ao celular do recorrente naquele exato momento, não teria havido apreensão posterior de 54,27 g de cocaína em poder do adolescente interlocutor da chamada.
+  > 3. Não tendo a autoridade policial permissão do titular da linha telefônica ou mesmo da Justiça para ler mensagens nem para atender o telefone móvel da pessoa sob investigação ou travar conversa por meio do aparelho com qualquer interlocutor, a prova obtida dessa maneira é ilícita.
+  > 4. Cabe ao magistrado abstrair a prova daí originada do conjunto probatório, porque alcançada sem observância das regras de Direito que disciplinam a execução do jus puniendi. O vício ocorrido na fase investigativa atinge o desenvolvimento da ação penal, pois não há prova produzida por fonte independente ou cuja descoberta seria inevitável.
+  > 5. Recurso especial provido.
+  > (REsp n. 2.245.812/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
+
+## 52. HC nº 1134665 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Homicídio qualificado · Execução penal
 - Resumo: A lei não exige passagem pelo regime semiaberto para o livramento condicional (art. 83 do CP). Negar o benefício para "observar" o condenado no regime intermediário cria requisito que a lei não prevê. Ordem concedida para o juízo da execução reapreciar o pedido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134665.pdf
 
-## 52. AgRg no HC nº 1109944 / RJ (STJ)
+## 53. AgRg no HC nº 1109944 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Mudar de rota ao avistar a viatura, em patrulhamento de rotina, não é fundada suspeita para busca pessoal (art. 244 do CPP), e o flagrante descoberto depois não convalida a revista. Prova ilícita (radiotransmissor) e absolvição do "olheiro" (art. 37 da Lei 11.343/2006) mantida; agravo do MP desprovido.
@@ -41,7 +55,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Reconhecida a ilicitude da busca, as provas apreendidas e as derivadas devem ser desentranhadas, impondo-se a absolvição (CPP, art. 386, VII).
   > (AgRg no HC n. 1.109.944/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 53. AgRg no HC nº 956700 / SP (STJ)
+## 54. AgRg no HC nº 956700 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Guarda municipal pode fazer policiamento ostensivo, mas não atividade de polícia judiciária (Tema 656/STF). Ver o réu entregar uma sacola à corré, que morava numa barraca, não é flagrante que autorize os guardas a entrar ali. Provas ilícitas e absolvição de ambos (art. 386, II, do CPP) mantidas; agravo do MP desprovido.
@@ -62,7 +76,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: "As guardas municipais não possuem atribuições de polícia judiciária, sendo-lhes vedada a entrada em domicílios fora dos limites do flagrante delito."
   > (AgRg no HC n. 956.700/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 54. AgRg no AgRg no HC nº 1071161 / SP (STJ)
+## 55. AgRg no AgRg no HC nº 1071161 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
 - Resumo: Tempo de prisão, medidas patrimoniais e suspensão das empresas esvaziaram o risco de reiteração. Sem fundamento atual (art. 312 do CPP), a preventiva dá lugar a cautelares alternativas, numa organização criminosa de adulteração de combustíveis; agravo do MP desprovido.
@@ -84,7 +98,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 1. O decurso do tempo e a desarticulação das atividades ilícitas atribuídas à organização criminosa esvaziam o periculum libertatis e autorizam a substituição da prisão preventiva por medidas cautelares alternativas.
   > (AgRg no AgRg no HC n. 1.071.161/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 55. AgRg no HC nº 1118236 / CE (STJ)
+## 56. AgRg no HC nº 1118236 / CE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Homicídio qualificado · Corrupção de menores · Dosimetria
 - Resumo: Condenações anteriores não usadas para a reincidência só valem como antecedentes, não para desabonar a personalidade (Tema 1.077/STJ). Usar nas circunstâncias o mesmo contexto da qualificadora é bis in idem. O HC corrige a dosimetria mesmo após o trânsito em julgado, e a liminar concedida antes do parecer do MPF não gera nulidade; agravo do MPF desprovido.
@@ -100,7 +114,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Agravo regimental improvido.
   > (AgRg no HC n. 1.118.236/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 56. AgRg no HC nº 1121320 / SP (STJ)
+## 57. AgRg no HC nº 1121320 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: a dedicação a atividades criminosas não se presume e exige elementos concretos. Regime mais gravoso e negativa de substituição por restritivas também exigem fundamentação concreta, não bastando a natureza do crime ou a quantidade. Sentença restabelecida, com a fração de 1/2; agravos do MPSP e do MPF desprovidos.
@@ -115,7 +129,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental improvido.
   > (AgRg no HC n. 1.121.320/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 57. AgRg no AgRg no HC nº 1042570 / SP (STJ)
+## 58. AgRg no AgRg no HC nº 1042570 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: Mãe de criança menor de 12 anos tem direito à prisão domiciliar, mesmo no regime semiaberto, sem precisar provar que os cuidados maternos são imprescindíveis, salvo situação excepcional. Tráfico sem violência e sem faltas disciplinares. Domiciliar com monitoramento mantida; agravo do MP desprovido.
@@ -128,7 +142,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no AgRg no HC n. 1.042.570/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 58. AgRg no HC nº 1108896 / SP (STJ)
+## 59. AgRg no HC nº 1108896 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Confissão espontânea · Dosimetria
 - Resumo: Confissão informal aos policiais, usada para condenar, gera a atenuante do art. 65, III, d, do CP. Ela se compensa integralmente com a reincidência, salvo multirreincidência. HC de ofício corrige a dosimetria; agravo do MP desprovido.
@@ -154,7 +168,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. É possível conceder habeas corpus de ofício para corrigir flagrante ilegalidade na dosimetria da pena, mesmo quando o writ não é conhecido por ser incabível como sucedâneo recursal.
   > (AgRg no HC n. 1.108.896/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 59. AgRg no HC nº 1123541 / PR (STJ)
+## 60. AgRg no HC nº 1123541 / PR (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Estelionato · Prisão e medidas cautelares · Cabimento do HC
 - Resumo: Não há supressão de instância quando o HC no tribunal de origem ataca diretamente o decreto de preventiva: não se exige pedido prévio de revogação ao juiz que o decretou. Ordem de ofício para o TJPR examinar as teses da defesa, mas o STJ não revoga a prisão sem ilegalidade teratológica.
@@ -168,16 +182,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Correção de erro material para precisar a identificação dos processos e o alcance da ordem concedida, sem modificação da conclusão anteriormente adotada.
   > 6. Agravo regimental desprovido.
   > (AgRg no HC n. 1.123.541/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 60. REsp nº 2232648 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: No recurso exclusivo da defesa, o novo júri não pode alcançar fatos já desclassificados ou com punibilidade extinta. Seria reformatio in pejus indireta (art. 617 do CPP), e a soberania dos veredictos não autoriza repetir o julgamento inteiro. Novo júri limitado ao homicídio tentado remanescente.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2232648.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. PROCESSUAL PENAL. TRIBUNAL DO JÚRI. VIOLAÇÃO DO ART. 617 DO CPP. REFORMATIO IN PEJUS INDIRETA. VERIFICAÇÃO. OCORRÊNCIA. PREVALÊNCIA DA COISA JULGADA PARCIAL EM RECURSO EXCLUSIVO DA DEFESA. LIMITAÇÃO DO NOVO JULGAMENTO QUE SE IMPÕE.
-  > 1. A vedação da reformatio in pejus impede o agravamento da situação do acusado quando o novo julgamento decorre de recurso exclusivo da defesa. A preservação da coisa julgada parcial e das causas de extinção da punibilidade é compatível com a lógica do sistema recursal e com a segurança jurídica. A soberania dos veredictos não autoriza repetir integralmente o julgamento para alcançar pontos já firmados por desclassificação e prescrição, ausente insurgência da acusação.
-  > 2. O acórdão recorrido determinou novo julgamento integral, abrangendo fatos já desclassificados e com punibilidade extinta, sem recurso ministerial, o que agrava a situação do réu e viola a vedação de reformatio in pejus. O parecer ministerial confirmou essa compreensão e apontou a necessidade de restringir o novo júri aos fatos remanescentes sem coisa julgada e sem extinção da punibilidade.
-  > 3. Limitação do novo julgamento ao crime de homicídio tentado remanescente, com resguardo da coisa julgada parcial e das decisões extintivas da punibilidade que se impõe.
-  > 4. Recurso especial provido nos termos do dispositivo.
-  > (REsp n. 2.232.648/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
