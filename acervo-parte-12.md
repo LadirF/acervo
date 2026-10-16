@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 12 de 17 (decisões 111 a 120)
+# Acervo de Jurisprudência — Cury Advogados — parte 12 de 19 (decisões 111 a 120)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 161 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 188 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,114 +8,189 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 111. AgRg no AREsp nº 2243364 / MG (STJ)
-- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2243364.pdf
+## 111. AgRg no AREsp nº 2985235 / MT (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/06/2026.
+- Crime / Tema: Associação criminosa · Quebra da cadeia de custódia · Prova digital
+- Resumo: Relatórios técnicos sobre os celulares não bastam quando o acórdão não responde às impugnações da defesa sobre quem extraiu os dados, por qual método, em que data, se a extração foi integral e se a análise partiu dos aparelhos ou de um HD externo. Cabe ao Estado provar integridade, autenticidade e rastreabilidade da prova digital. Acórdão anulado para novo julgamento (Operação Capistrum).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2985235.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO DE INADMISSIBILIDADE. AGRAVO NÃO PROVIDO. TRÁFICO PRIVILEGIADO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PROVA DIGITAL EXTRAÍDA DE CELULARES. OPERAÇÃO CAPISTRUM. CADEIA DE CUSTÓDIA. TRIBUNAL DE ORIGEM QUE AFIRMA TER HAVIDO DOCUMENTAÇÃO DA ARRECADAÇÃO, ARMAZENAMENTO E ANÁLISE DOS ELETRÔNICOS. AUSÊNCIA DE ENFRENTAMENTO DOS PONTOS ESPECÍFICOS IMPUGNADOS PELA DEFESA. RESPONSÁVEL PELA EXTRAÇÃO, MÉTODO, DATA, INTEGRALIDADE DO CONTEÚDO TRANSFERIDO E ORIGEM DA ANÁLISE. ÔNUS DO ESTADO DE DEMONSTRAR A CONFIABILIDADE DA PROVA DIGITAL. DÉFICIT DE FUNDAMENTAÇÃO. ANULAÇÃO DO ACÓRDÃO RECORRIDO PARA NOVO JULGAMENTO. AGRAVO REGIMENTAL IMPROVIDO.
   > I. Caso em exame
-  > 1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial em virtude do óbice da Súmula n. 182/STJ. A parte agravante alega ter impugnado a Súmula n. 83/STJ.
+  > 1. Agravo regimental interposto contra decisão que conheceu agravo para dar parcial provimento ao recurso especial, anulando o acórdão recorrido e determinando o retorno dos autos ao Tribunal de origem para novo julgamento quanto à admissibilidade de prova digital extraída de celulares apreendidos na Operação Capistrum, à luz dos parâmetros da cadeia de custódia.
+  > 2. Fato relevante. A defesa alegou inadmissibilidade dos dados dos Relatórios Técnicos n. 005/2022 e 009/2023 por ausência de indicação do responsável pela extração, do método empregado, da data do procedimento, da integralidade do conteúdo transferido e da origem da análise (aparelhos ou HD externo), sustentando contaminação das provas derivadas. O acórdão de origem afastou a nulidade, atribuindo à defesa o ônus de demonstrar adulteração ou prejuízo e referindo genericamente a integridade do material.
+  > 3. Decisão anterior. A decisão agravada concluiu haver déficit de fundamentação sobre a cadeia de custódia da prova digital, afirmando ser ônus do Estado demonstrar a integridade e autenticidade dos vestígios e determinando a anulação do acórdão de apelação para novo julgamento à luz dos arts. 157, § 1º, 158 e 158-A a 158-F do CPP.
   > II. Questão em discussão
-  > 2. A discussão consiste em saber se a conduta de oferecer droga gratuitamente a pessoa reclusa em estabelecimento prisional pode ser desclassificada para o tipo penal do art. 33, § 2º, da Lei n. 11.343/2006 ou se deve ser enquadrada no caput do mesmo artigo.
-  > 3. Outro ponto diz respeito à possibilidade de concessão de habeas corpus de ofício para reconhecer a minorante do tráfico privilegiado, considerando a quantidade ínfima de droga e os maus antecedentes do acusado.
+  > 4. Há duas questões em discussão: (i) definir se a decisão agravada deve ser reconsiderada diante das alegações de incidência das Súmulas 182/STJ e 7/STJ e da orientação jurisprudencial segundo a qual a quebra da cadeia de custódia, sem elementos de adulteração, manipulação ou prejuízo concreto, não conduz automaticamente à nulidade da prova; e (ii) estabelecer se o acórdão recorrido enfrentou adequadamente a alegação defensiva de quebra da cadeia de custódia da prova digital, especialmente quanto à ausência de indicação do responsável pela extração, do método utilizado, da data do procedimento, da integralidade do conteúdo transferido e da origem da análise.
   > III. Razões de decidir
-  > 4. A conduta de oferecer droga gratuitamente amolda-se ao caput do art. 33 da Lei n. 11.343/2006, não se enquadrando nos núcleos verbais do § 2º, que exigem induzir, instigar ou auxiliar ao uso indevido de droga.
-  > 5. A ínfima quantidade de droga apreendida e a ausência de intuito lucrativo justificam a aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, mesmo diante de maus antecedentes não específicos.
-  > 6. A pena foi redimensionada para 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direito, considerando a confissão do acusado e a interpretação sistemática dos arts. 33, § 3º, e 67 do Código Penal.
-  > IV. Dispositivo e tese
-  > 7. Agravo regimental não provido e ordem de habeas corpus concedida de ofício.
+  > 5. A parte agravante não apresenta argumentos suficientes para alterar a decisão agravada.
+  > 6. O Tribunal de origem afirma que a Polícia Civil e o Ministério Público Estadual documentaram os atos praticados na arrecadação, armazenamento e análise dos eletrônicos apreendidos, com a apresentação de garantias de que o conteúdo permaneceu íntegro enquanto esteve sob custódia policial.
+  > 7. O acórdão recorrido registra que os relatórios técnicos indicam os lacres em que acondicionados os celulares, o modelo, o número de série e o IMEI dos aparelhos, o chip e a operadora utilizada, os dados cadastrais de seus proprietários, bem como informações relativas a aplicativos, contas de usuário, chamadas, contatos telefônicos, localizações, mensagens e mídias.
+  > 8. O Tribunal de origem também assenta que a defesa não nega a autenticidade dos elementos informativos encontrados nos smartphones, não aponta qual informação teria sido manipulada e não demonstra inconsistência das fontes, adulteração ou falta de cautela no manuseio dos registros.
+  > 9. Apesar dessas afirmações, o acórdão recorrido não enfrenta o ponto decisivo suscitado pela defesa: a ausência de indicação do responsável pela extração, do método empregado, da data do procedimento, da integralidade do conteúdo transferido e da origem da análise, isto é, se realizada diretamente a partir dos aparelhos apreendidos ou de HD externo.
+  > 10. A controvérsia não se limita à existência de relatórios técnicos ou à presença de dados extraídos dos aparelhos, mas envolve saber se esses relatórios permitem reconstruir o percurso pelo qual a prova digital foi obtida, preservada e analisada.
+  > 11. O Estado tem o ônus de demonstrar a confiabilidade da fonte probatória, não sendo admissível presumir que o conteúdo analisado corresponde ao conteúdo apreendido, que a extração foi completa, que o método empregado era idôneo ou que o material examinado teve origem nos próprios aparelhos.
+  > 12. A transferência ao acusado do ônus de demonstrar o efetivo comprometimento da cadeia de custódia converte em presunção aquilo que deve ser demonstrado pelo Estado.
+  > 13. O déficit de fundamentação impede o controle da instância superior sobre a admissibilidade da prova digital, pois permanece sem resposta a questão sobre a correspondência entre o conteúdo apreendido e aquele posteriormente utilizado no processo.
+  > 14. O Tribunal de origem deve realizar novo julgamento, explicitando, a partir do que consta dos autos, o procedimento de arrecadação e extração dos dados, a preservação da integridade e da autenticidade dos vestígios digitais e as consequências de eventual imprestabilidade para o conjunto probatório.
+  > IV. Dispositivo e tese 15. . Resultado do Julgamento: Agravo regimental improvido, mantida a anulação do acórdão recorrido para novo julgamento pelo Tribunal de origem quanto à admissibilidade da prova digital, observados os parâmetros da cadeia de custódia.
   > Tese de julgamento:
-  > 1. A conduta de oferecer droga gratuitamente a pessoa reclusa amolda-se ao caput do art. 33 da Lei n. 11.343/2006.
-  > 2. A aplicação da minorante do tráfico privilegiado é excepcionalmente justificada pela ínfima quantidade de droga e ausência de intuito lucrativo, mesmo diante dos maus antecedentes não específicos.
-  > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
-  > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
+  > 1. A existência de relatórios técnicos sobre aparelhos celulares apreendidos não basta, por si só, para demonstrar a confiabilidade da prova digital quando não enfrentadas as impugnações específicas sobre extração, método, data, integralidade e origem da análise.
+  > 2. O Estado-acusação tem o ônus de demonstrar a integridade, a autenticidade e a rastreabilidade da prova digital que apresenta.
+  > 3. O acórdão que afasta a alegação de quebra da cadeia de custódia sem examinar se os autos permitem reconstruir o percurso de obtenção, preservação e análise da prova digital apresenta déficit de fundamentação.
+  > 4. A insuficiência de fundamentação quanto à cadeia de custódia da prova digital impõe a anulação do acórdão recorrido para novo julgamento pela instância de origem.
+  > (AgRg no AREsp n. 2.985.235/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 16/6/2026.)
 
-## 112. AgRg no RHC nº 189376 / MT (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
-- Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-189376.pdf
+## 112. EDcl no AgRg no HC nº 1060880 / AM (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 15/06/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima sobre furto pretérito e "diligências preliminares" genéricas, sem monitoramento nem movimentação típica, não são fundadas razões para entrar no domicílio. O consentimento do morador precisa de registro escrito ou audiovisual. Provas ilícitas e absolvição mantidas; embargos do MP rejeitados.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1060880.pdf
 - Ementa oficial:
-  > AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. FALSIFICAÇÃO DO SINAL EMPREGADO NO CONTRASTE DE METAL PRECIOSO OU NA FISCALIZAÇÃO ALFANDEGÁRIA, OU PARA OUTROS FINS. LAVAGEM DE DINHEIRO. COMPETÊNCIA PARA AUTORIZAÇÃO DE QUEBRA DE SIGILO DE DADOS DE CELULAR. NÃO APLICAÇÃO DA TEORIA DO JUÍZO APARENTE. FATOS CONEXOS À OPERAÇAO QUE TRAMITA NA JUSTIÇA FEDERAL. NÃO DEMONSTRÇÃO DE URGÊNCIA QUE AUTORIZARIA A ATUAÇÃO DA JUSTIÇA ESTADUAL. AGRAVO DO MINISTÉRIO PÚBLICO FEDERAL – MPF DESPROVIDO.
-  > 1. De rigor o afastamento da aparente competência da Justiça Estadual para autorização da quebra de sigilo de dados, uma vez que a ação policial que culminou na apreensão do celular teve origem em pedido formulado pela Polícia Federal, que, em razão de decisões proferidas pela Justiça Federal de Cuiabá, no âmbito da operação Catrapo, vinha monitorando o corréu, o que denota ser crível, desde o início, que os fatos investigados eram conexos e estavam compreendidos na competência da Justiça Federal.
-  > 2. Não restando minimamente esclarecido como a competência poderia recair sobre a Justiça Estadual, deve ser afastada a possibilidade de aplicação da teoria do Juízo aparente.
-  > 3. Não demonstrada urgência que validaria a atuação imediata do Juízo Estadual, mormente em se considerando não haver risco efetivo e iminente de perecimento das provas, uma vez que o celular apreendido se encontrava sob custódia da Justiça, a extração de dados do celular apreendido por ele determinada deve ser declarada nula.
-  > 4. Agravo regimental desprovido.
-  > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+  > DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INGRESSO DOMICILIAR SEM MANDADO. FUNDADAS RAZÕES NÃO DEMONSTRADAS. CONSENTIMENTO NÃO COMPROVADO. PROVAS ILÍCITAS. ABSOLVIÇÃO MANTIDA. EMBARGOS REJEITADOS.
+  > I. Caso em exame
+  > 1. Embargos de declaração opostos pelo órgão ministerial contra acórdão que negou provimento a agravo regimental e manteve decisão monocrática que, de ofício, concedeu habeas corpus para reconhecer a ilicitude do ingresso policial em domicílio, declarar inadmissíveis as provas e absolver o paciente com fundamento no art. 386, VII, do Código de Processo Penal.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se o acórdão impugnado incorreu em omissão, contradição, ambiguidade ou obscuridade quanto: (i) à existência de fundadas razões para o ingresso domiciliar sem mandado; (ii) ao consentimento válido do morador; (iii) à ilicitude das provas e à absolvição por ausência de prova válida e independente; e (iv) ao prequestionamento dos dispositivos constitucionais invocados.
+  > III. Razões de decidir
+  > 3. Embargos de declaração possuem função integrativa restrita a sanar omissão, contradição, ambiguidade ou obscuridade, não se prestando à rediscussão do mérito.
+  > 4. O acórdão enfrentou de modo suficiente os pontos controvertidos: validade do ingresso sem mandado, alegado consentimento do morador, ilicitude das provas e inexistência de elementos autônomos aptos a sustentar a condenação por tráfico de drogas.
+  > 5. A inviolabilidade domiciliar foi aplicada à luz do art. 5º, XI, da Constituição e da tese firmada no RE 603.616/RO, exigindo “fundadas razões” objetivas e verificáveis para legitimar ingresso sem mandado; as referências a “diligências preliminares” genéricas, origem em denúncia anônima sobre furto pretérito, e ausência de medidas prévias concretas (monitoramento do imóvel, observação de movimentação típica ou outras diligências) não configuram tal exigência.
+  > 6. A autorização do morador não se apresentou comprovada de forma idônea, ausente registro escrito ou audiovisual do consentimento, conforme orientação desta Corte, impondo o reconhecimento da ilegalidade da busca e a inadmissibilidade das provas dela decorrentes.
+  > 7. Denúncia anônima desacompanhada de elementos verificáveis não legitima mitigação da inviolabilidade domiciliar, conforme jurisprudência consolidada.
+  > 8. Inexistentes omissão, contradição, ambiguidade ou obscuridade, descabe atribuir efeitos modificativos ao julgado por meio do recurso aclaratório.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Embargos de declaração rejeitados.
+  > Tese de julgamento:
+  > 1. Embargos de declaração não se prestam à rediscussão do mérito na ausência de omissão, contradição, ambiguidade ou obscuridade.
+  > 2. A entrada em domicílio sem mandado exige fundadas razões objetivas e verificáveis; denúncia anônima isolada e diligências genéricas não legitimam o ingresso.
+  > 3. O consentimento do morador deve ser comprovado de forma idônea; ausente comprovação, a busca é ilegal e as provas decorrentes são inadmissíveis.
+  > 4. A absolvição é devida quando inexistem provas válidas e independentes aptas a sustentar a condenação (CPP, art. 386, VII).
+  > (EDcl no AgRg no HC n. 1.060.880/AM, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 15/6/2026.)
 
-## 113. HC nº 978977 / PE (STJ)
-- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
-
-## 114. AgRg no AREsp nº 2697575 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
-- Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf
-
-## 115. HC nº 840695 / PB (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/02/2025.
-- Crime / Tema: Estelionato · Continuidade delitiva · Dosimetria
-- Resumo: Pirâmide financeira: os 41 estelionatos, praticados do mesmo modo e em sequência, configuram crime continuado, e não concurso material. Em vez de somar as penas, aplica-se uma só pena aumentada. Continuidade reconhecida de ofício, com pena final de 3 anos e 4 meses em regime semiaberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
-
-## 116. AREsp nº 2508013 / MG (STJ)
-- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 29/01/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A pronúncia não pode se basear só em elementos do inquérito e em testemunhos de "ouvir dizer" (art. 155 do CPP). O in dubio pro societate não supre lacuna de prova. Detectado o vício na própria pronúncia, não cabe sequer submeter o réu a novo Júri. Réu despronunciado de ofício, mesmo depois da condenação.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2508013.pdf
-
-## 117. HC nº 943710 / SC (STJ)
-- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
-- Crime / Tema: Crimes contra o sistema financeiro · RIF · Competência
-- Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-943710.pdf
+## 113. AgRg no HC nº 1050683 / SP (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 10/06/2026.
+- Crime / Tema: Tráfico de drogas · Prova digital
+- Resumo: Sem apreensão de droga e sem laudo toxicológico definitivo, não há materialidade do tráfico (EREsp 1.544.057/RJ). Mensagens extraídas do celular e depoimentos policiais não suprem a falta. Absolvição mantida, com extensão ao corréu; agravo do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1050683.pdf
 - Ementa oficial:
-  > HABEAS CORPUS. DIREITO PROCESSUAL PENAL. OPERAÇÃO OURANÓS. DEFLAGRAÇÃO DA INVESTIGAÇÃO. DENÚNCIA ANÔNIMA VERBAL SEGUIDA DE INVESTIGAÇÕES PRELIMINARES. PLAUSIBILIDADE VERIFICADA. CABIMENTO DA INSTAURAÇÃO, INCLUSIVE EX OFFICIO. NÃO DEMONSTRAÇÃO DE PREJUÍZO. SOLICITAÇÃO DIRETA DE RELATÓRIOS DE INTELIGÊNCIA FINANCEIRA. INADMISSIBILIDADE. PRECEDENTES DA SEXTA TURMA DO STJ. DETERMINAÇÃO DE DESENTRANHAMENTO DOS RELATÓRIOS E ELEMENTOS DERIVADOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. IMPUTAÇÃO DE CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. DETERMINAÇÃO EXPRESSA DO ART. 26 DA LEI N. 7.942/1986. INSTRUÇÃO PENDENTE. NÃO CABIMENTO DE ANÁLISE DO MÉRITO EM SEDE DE HABEAS CORPUS. ACESSO DA DEFESA AOS ELEMENTOS DE PROVA. PERDA DE OBJETO. DESENTRANHAMENTO DOS RIFS. ACESSO AOS ELEMENTOS DE INQUÉRITO ATESTADO PELA ORIGEM. ORDEM PARCIALMENTE CONCEDIDA.
-  > 1. Habeas corpus impetrado contra decisão do TRF4 nos autos do HC 5002640-96.2024.4.04.0000/SC, relativo a processo em curso na Seção Judiciária de Santa Catarina, alegando constrangimento ilegal por parte do tribunal.
-  > 2. O impetrante alega: (i) constrangimento ilegal por falta de acesso aos elementos de prova existentes (Súmula Vinculante n. 14/STF); (ii) ilegalidade na requisição direta de RIFs ao COAF pela autoridade policial; (iii) ilegalidade de tal proceder como medida inaugural da investigação, baseada em denúncia anônima verbal não levada a termo e relatório que não teria apontado elementos mínimos de prática delitiva, a configurar fishing expedition, e (iv) incompetência da Justiça Federal.
-  > 3. A jurisprudência desta Corte admite a deflagração da investigação criminal a partir de notícia anônima, desde que verificada a sua plausibilidade, mediante realização de diligências complementares antes da instauração do inquérito. Investigação preliminar verificada na espécie. Possibilidade de instauração, inclusive ex officio. Prejuízo não demonstrado.
-  > 4. O atual entendimento desta Sexta Turma - que leva em consideração, inclusive, a evolução do tema perante a Suprema Corte - não admite a solicitação direta de Relatório de Inteligência Financeira pela autoridade policial sem autorização judicial (RHC n. 203.578/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 05/11/2024, DJe de 07/11/2024). Devem os relatórios e os elementos deles derivados ser desentranhados dos autos.
-  > 5. A competência da Justiça Federal decorre de disposição expressa traçado no art. 26 da Lei n. 7.492/1986, descabendo na etapa processual em que se encontra o feito - não ultimada a instrução - a análise do mérito das imputações e eventual desclassificação, incompatíveis, ademais, com a estreiteza da via eleita. Deve, ainda, ser considerada a independência entre as instâncias administrativa e criminal, não prejudicando tal conclusão eventual posicionamento da Comissão de Valores Mobiliários em procedimentos administrativos diversos (AgRg no CC n. 189.304/RJ, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 13/12/2023, DJe de 18/12/2023).
-  > 6. A Súmula Vinculante n. 14 do Supremo Tribunal Federal estabelece ser direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa. Na espécie, houve a perda do objeto do pleito quanto aos RIFs, bem como se constatou na origem, com o recebimento da denúncia, determinação expressa de redução do sigilo do inquérito policial para o nível mais baixo (sigilo 1), o que possibilitou o amplo acesso às defesas dos réus. Nada a prover, no ponto.
-  > 7. Ordem concedida parcialmente para reconhecer a ilicitude da solicitação direta dos Relatórios de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos deles derivados, cabendo ao Juízo de primeiro grau identificá-los, procedendo ao seu desentranhamento, além de analisar se persiste a justa causa para o trâmite da ação penal na sua ausência.
-  > (HC n. 943.710/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MATERIALIDADE NÃO COMPROVADA SEM APREENSÃO E LAUDO TOXICOLÓGICO DEFINITIVO. ABSOLVIÇÃO MANTIDA. AGRAVO IMPROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto pelo órgão acusador contra decisão monocrática que concedeu a ordem, de ofício, para absolver o agravante do delito previsto no art. 33, caput, da Lei 11.343/06, com extensão ao corréu.
+  > 2. Fato relevante. Conjunto probatório formado por extração de dados de aparelho celular e depoimentos policiais sobre tratativas de venda de entorpecentes; inexistência de apreensão de drogas e de laudo toxicológico definitivo.
+  > 3. As alegações recursais. Sustentação de que a materialidade poderia ser demonstrada por outros meios de prova, com referência a precedente do Supremo; invocação da correlação e da emendatio libelli (CPP, art. 383); e defesa da validade da busca domiciliar por decisão judicial fundamentada.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em saber se a materialidade do crime de tráfico de drogas, na hipótese de inexistência de apreensão de entorpecentes, exige a realização de laudo toxicológico definitivo, ou se pode ser suprida por elementos como mensagens extraídas de aparelho celular e depoimentos policiais.
+  > 5. Há questões acessórias em discussão: (i) saber se houve observância ao princípio da correlação e possibilidade de emendatio libelli (CPP, art. 383); e (ii) saber se a busca domiciliar foi válida, ante decisão judicial fundamentada e diligências prévias.
+  > III. Razões de decidir
+  > 6. A Terceira Seção do Superior Tribunal de Justiça, no EREsp 1.544.057/RJ, firmou entendimento de que o laudo toxicológico definitivo é imprescindível para comprovar a materialidade do delito de tráfico de entorpecentes, impondo a absolvição na sua ausência.
+  > 7. No caso concreto, não houve apreensão de drogas nem a confecção de laudo toxicológico definitivo, sendo insuficientes, para a comprovação da materialidade do art. 33, caput, da Lei 11.343/2006, os dados extraídos de aparelho celular e os depoimentos policiais.
+  > 8. Reconhecida a ausência de materialidade, impõe-se a absolvição, restando prejudicada a análise das demais alegações relativas à correlação, emendatio libelli e validade da busca domiciliar.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Agravo regimental improvido.
+  > Tese de julgamento:
+  > 1. A materialidade do crime de tráfico de drogas exige apreensão do entorpecente e a confecção do respectivo laudo toxicológico.
+  > 2. Mensagens extraídas de aparelho celular e depoimentos policiais, desacompanhados de apreensão e laudo pericial, não comprovam a materialidade do delito previsto no art. 33, caput, da Lei 11.343/2006.
+  > 3. Reconhecida a ausência de materialidade, deve ser mantida a absolvição, ficando prejudicadas questões acessórias.
+  > (AgRg no HC n. 1.050.683/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/6/2026, DJEN de 10/6/2026.)
 
-## 118. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
-- Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
-- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
-- Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0000-24-303113.pdf
+## 114. HC nº 1088218 / SP (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 03/06/2026.
+- Crime / Tema: Violência doméstica · Perseguição · Ameaça · Prisão e medidas cautelares
+- Resumo: A preventiva decretada só pelo descumprimento de medida protetiva perde o fundamento quando o próprio MP arquiva o inquérito desse descumprimento por atipicidade (encontro fortuito, sem dolo). Sem fato novo e contemporâneo, a condição de foragido não basta para mantê-la, e as medidas protetivas vigentes já resguardam a vítima. Preventiva revogada, facultadas as cautelares do art. 319 do CPP.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1088218.pdf
+
+## 115. AgRg no RHC nº 235625 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/06/2026.
+- Crime / Tema: Violência doméstica · Quebra da cadeia de custódia · Prova digital
+- Resumo: A cadeia de custódia da prova digital não é formalismo. Não houve laudo de extração, indicação de como os vídeos chegaram à polícia, hash nem registro do percurso, e a defesa só viu uma regravação da tela do sistema: a integridade não está demonstrada. Presunção de idoneidade e fé pública da servidora não suprem a falta, e não se pode exigir da defesa a prova da adulteração (prova diabólica). A questão é objetiva e cabe em HC. Vídeos inadmissíveis, ressalvada perícia nos originais. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-235625.pdf
 - Ementa oficial:
-  > APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS -- DESCLASSIFICAÇÃO PARA PORTE PARA USO PRÓPRIO - NECESSIDADE - DESTINAÇÃO MERCANTIL DO ENTORPECENTE NÃO DEMONSTRADA - QUANTIDADE INFERIOR A 40G - PRESUNÇÃO DE PORTE DE DROGAS PARA CONSUMO PRÓPRIO - ART. 28 DA LEI Nº 11.343/06 - INCONSTITUCIONALIDADE DECRETADA - DECISÃO DO SUPREMO TRIBUNAL FEDERAL NO RE Nº 635.659 - TEMA 506 - ATIPICIDADE DA CONDUTA RECONHECIDA - REMESSA AO JUIZADO ESPECIAL PARA APLICAÇÃO DAS SANÇÕES CABÍVEIS, NOS TERMOS DA DECISÃO PROFERIDA PELO STF NO JULGAMENTO DO RE Nº 635.659 - RECURSO DEFENSIVO PROVIDO.
-  > - Certa a posse, mas incerta a finalidade, não há como manter a condenação do recorrente pelo crime de tráfico de drogas.
-  > - É imprescindível para a configuração do crime de tráfico ilícito de entorpecentes prova da destinação comercial da substância, sendo necessária a desclassificação para o delito previsto no art. 28 da Lei 11.343/2006, quando não comprovado o dolo específico de mercancia.
-  > - Diante do julgamento do STF no RE nº 635.659, que, por maioria e nos termos do voto do Relator, apreciando o declarou a inconstitucionalidade, sem redução de texto, do art. 28 da Lei 11.343/2006, quando o usuário portar menos de 40g de maconha, de modo a afastar do referido dispositivo todo e qualquer efeito de natureza penal, deve ser reconhecida a atipicidade da conduta, com a consequente absolvição do apelante, devendo os autos serem remetidos ao Juizado Especial Criminal da comarca de origem, para aplicação das sanções administrativas cabíveis.
-  > (TJMG, Apelação Criminal n. 1.0000.24.303113-5/001, relator Desembargador Jaubert Carneiro Jaques, 6ª Câmara Criminal, julgado em 22/10/2024, publicado em 23/10/2024.)
+  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROVA DIGITAL. CADEIA DE CUSTÓDIA. DOCUMENTAÇÃO MÍNIMA. REGULAR ARRECADAÇÃO, PRESERVAÇÃO, EXTRAÇÃO E ARMAZENAMENTO. INADEQUAÇÃO DO HABEAS CORPUS. NÃO OCORRÊNCIA. QUESTÃO OBJETIVAMENTE VERIFICÁVEL A PARTIR DOS AUTOS. AUSÊNCIA DE LAUDO TÉCNICO DE EXTRAÇÃO, DE INDICAÇÃO DO MEIO DE ENTREGA E DE FORMALIZAÇÃO DO PERCURSO DA PROVA DIGITAL. IMPOSSIBILIDADE DE BAIXAR OS ARQUIVOS APÓS A INSERÇÃO NO SISTEMA. DISPONIBILIZAÇÃO DE NOVO LINK A PARTIR DE GRAVAÇÃO DA TELA DO SISTEMA. PRESUNÇÃO DE IDONEIDADE DA PROVA E FÉ PÚBLICA DA SERVIDORA. INSUFICIÊNCIA. INTEGRIDADE, MESMIDADE E AUDITABILIDADE NÃO DEMONSTRADAS. INADMISSIBILIDADE DAS PROVAS DIGITAIS, NO ESTADO ATUAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A controvérsia deduzida no habeas corpus diz respeito à existência, ou não, de documentação mínima apta a demonstrar a regular arrecadação, preservação, extração e armazenamento de elementos de prova digitais, matéria objetivamente verificável a partir da leitura dos autos e que não exige reexame aprofundado da narrativa fática nem incursão valorativa sobre a suficiência do conteúdo dos vídeos para futura condenação.
+  > 2. A cadeia de custódia da prova digital não traduz simples formalismo procedimental, mas instrumento voltado a assegurar a idoneidade epistemológica da prova, a correspondência entre o vestígio originariamente arrecadado e o elemento submetido ao contraditório e à valoração jurisdicional, bem como a sua integridade, mesmidade e auditabilidade.
+  > 3. No caso, não há notícia de: apreensão técnica do equipamento de origem; laudo descrevendo a forma de extração dos arquivos; indicação do meio pelo qual teriam sido entregues à autoridade policial; referência à geração e confrontação de hash; ou formalização adequada do percurso percorrido pela prova digital até sua inserção no sistema policial.
+  > 4. A circunstância de os arquivos, após inseridos no Portal de Vídeos da Polícia Civil, não mais poderem ser baixados, tendo a visualização franqueada à defesa decorrido de nova captação mediante gravação daquilo que aparecia na tela do sistema, reforça a ausência de demonstração objetiva da integridade da prova.
+  > 5. A mera informação de que o link estaria identificado como proveniente de câmera de segurança ou de aparelho celular, o relatório policial descritivo e a invocação de presunção de idoneidade da prova ou de fé pública da servidora não suprem, no caso, a ausência de documentação técnica objetiva e auditável acerca da obtenção, preservação e integridade dos arquivos.
+  > 6. Em se tratando de prova digital, a ausência de documentação técnica pode inviabilizar o próprio acesso aos parâmetros necessários para a identificação de eventual adulteração, não sendo legítimo inverter contra a defesa o ônus de demonstrar precisamente aquilo cuja averiguação se tornou inviável pela própria deficiência da custódia estatal, sob pena de verdadeira prova diabólica.
+  > 7. Mantém-se, assim, a conclusão de que as provas digitais, da forma como juntadas aos autos, são inadmissíveis, com ressalva de eventual perícia, caso ainda existentes os arquivos originais ou fonte primária tecnicamente idônea e viável sua análise.
+  > 8. Agravo regimental não provido.
+  > (AgRg no RHC n. 235.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2026, DJEN de 1/6/2026.)
 
-## 119. HC nº 902195 / RS (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 13/08/2024.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Quebra da cadeia de custódia · Prova digital · Pronúncia
-- Resumo: A cadeia de custódia vale também para fatos anteriores ao Pacote Anticrime, porque decorre do conceito de corpo de delito (art. 158 do CPP). A perícia não conseguiu acessar o celular da vítima, e a defesa não pode verificar a integridade nem o contexto das mensagens extraídas dele: essas provas são inadmissíveis e devem ser desentranhadas (art. 157 do CPP). A tese de ilicitude, mesmo levantada só na fase do art. 422, deve ser conhecida. Determinada nova decisão de pronúncia; preventiva mantida. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-902195.pdf
-
-## 120. AgRg no HC nº 828054 / RN (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/04/2024.
-- Crime / Tema: Tráfico de drogas · Quebra da cadeia de custódia · Prova digital
-- Resumo: Extração de dados de celular sem metodologia que garanta a integridade (hash, software certificado; só prints de tela): a quebra da cadeia de custódia torna a prova digital inadmissível, e o ônus é do Estado. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-828054.pdf
-- Pedido de extensão: https://ladirf.github.io/acervo/pdfs/ext-hc-828054.pdf
+## 116. EDcl no AgRg no AREsp nº 2410587 / AP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 18/05/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Embargos acolhidos para suprir omissão sobre ilegalidade flagrante: reconhecimento por foto na delegacia sem o art. 226 do CPP, confirmado só pela vítima em juízo e sem outra prova independente (Tema 1.258/STJ). HC de ofício: réu absolvido do roubo, com extensão aos corréus (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2410587.pdf
 - Ementa oficial:
-  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE CELULAR. EXTRAÇÃO DE DADOS. CAPTURA DE TELAS. QUEBRA DA CADEIA DE CUSTÓDIA. INADMISSIBILIDADE DA PROVA DIGITAL. AGRAVO REGIMENTAL PROVIDO.
-  > 1. O instituto da cadeia de custódia visa a garantir que o tratamento dos elementos probatórios, desde sua arrecadação até a análise pela autoridade judicial, seja idôneo e livre de qualquer interferência que possa macular a confiabilidade da prova.
-  > 2. Diante da volatilidade dos dados telemáticos e da maior suscetibilidade a alterações, imprescindível se faz a adoção de mecanismos que assegurem a preservação integral dos vestígios probatórios, de forma que seja possível a constatação de eventuais alterações, intencionais ou não, dos elementos inicialmente coletados, demonstrando-se a higidez do caminho percorrido pelo material.
-  > 3. A auditabilidade, a repetibilidade, a reprodutibilidade e a justificabilidade são quatro aspectos essenciais das evidências digitais, os quais buscam ser garantidos pela utilização de metodologias e procedimentos certificados, como, e.g., os recomendados pela ABNT.
-  > 4. A observação do princípio da mesmidade visa a assegurar a confiabilidade da prova, a fim de que seja possível se verificar a correspondência entre aquilo que foi colhido e o que resultou de todo o processo de extração da prova de seu substrato digital. Uma forma de se garantir a mesmidade dos elementos digitais é a utilização da técnica de algoritmo hash, a qual deve vir acompanhada da utilização de um software confiável, auditável e amplamente certificado, que possibilite o acesso, a interpretação e a extração dos dados do arquivo digital.
-  > 5. De relevo trazer à baila o entendimento majoritário desta Quinta Turma no sentido de que “é ônus do Estado comprovar a integridade e confiabilidade das fontes de prova por ele apresentadas. É incabível, aqui, simplesmente presumir a veracidade das alegações estatais, quando descumpridos os procedimentos referentes à cadeia de custódia" (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, DJe de 2/3/2023).
-  > 6. Neste caso, não houve a adoção de procedimentos que assegurassem a idoneidade e a integridade dos elementos obtidos pela extração dos dados do celular apreendido. Logo, evidentes o prejuízo causado pela quebra da cadeia de custódia e a imprestabilidade da prova digital.
-  > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
-  > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
+  > EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO REALIZADO NA FASE INQUISITORIAL. DESCUMPRIMENTO DAS REGRAS DE RECONHECIMENTO PESSOAL. TEMA REPETITIVO 1.258/STJ. OMISSÃO QUANTO À ANÁLISE DA ILEGALIDADE FLAGRANTE. CONTROLE DE LEGALIDADE. IMPUGNAÇÃO ESPECÍFICA E SÚMULAS 182 E 7/STJ. INSUFICIÊNCIA PROBATÓRIA. PROVA DERIVADA CONTAMINADA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. EFEITO EXTENSIVO AOS CORRÉUS. ABSOLVIÇÃO.
+  > Embargos de declaração acolhidos. Ordem concedida de ofício com extensão aos demais réus.
+  > (EDcl no AgRg no AREsp n. 2.410.587/AP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/5/2026, DJEN de 18/5/2026.)
+
+## 117. AgRg no AREsp nº 2786040 / GO (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/05/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Fundada suspeita
+- Resumo: A afirmação de corréus presos em flagrante de que compraram a droga na casa do acusado, sem confirmação por nenhum outro elemento, não é fundada razão para entrar sem mandado. O Estado não provou o consentimento do morador. Provas nulas e réu absolvido; a busca veicular dos corréus foi considerada válida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2786040.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA DOMICILIAR. ILICITUDE DAS PROVAS. ABSOLVIÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que reconheceu a ilicitude do ingresso dos policiais no domicílio do agravado, anulou as provas obtidas a partir da busca domiciliar considerada ilícita e absolveu o agravado das imputações contra ele formuladas, nos termos do art. 386, II, do Código de Processo Penal.
+  > 2. O agravante sustenta que havia fundadas razões para o ingresso no domicílio do agravado, com base em informações fornecidas pelos corréus, que haviam sido presos em flagrante momentos antes, e que indicaram o agravado como fornecedor das drogas.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 3. A questão em discussão consiste em saber se o ingresso dos policiais no domicílio do agravado, sem mandado judicial, foi amparado por fundadas razões que justificassem a medida, considerando as informações fornecidas pelos corréus e os elementos encontrados na busca veicular.
+  > III. RAZÕES DE DECIDIR
+  > 4. A decisão agravada foi mantida, pois o ingresso no domicílio do agravado não foi precedido de mandado judicial nem de justa causa comprovada, sendo necessário o consentimento do morador, que não foi demonstrado.
+  > 5. A ilicitude das provas obtidas mediante ingresso domiciliar sem mandado judicial foi reconhecida, uma vez que não havia elementos probatórios independentes que justificassem a medida.
+  > 6. Na ausência de justa causa para o ingresso no domicílio e na inexistência de provas válidas obtidas de forma lícita, as provas derivadas da busca domiciliar foram consideradas ilícitas, sendo aplicável a Teoria dos Frutos da Árvore Envenenada.
+  > 7. A absolvição do agravado foi determinada, considerando que os únicos elementos de prova quanto à materialidade delitiva eram decorrentes da busca domiciliar ilícita.
+  > IV. DISPOSITIVO E TESE
+  > 8. Resultado do Julgamento: Agravo regimental não provido.
+  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator, que reproduz a decisão monocrática, em que o réu era o agravante]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
+  > (AgRg no AREsp n. 2.786.040/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 13/5/2026.)
+
+## 118. AREsp nº 3115023 / RS (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/04/2026.
+- Crime / Tema: Homicídio · Tribunal do Júri
+- Resumo: A plenitude de defesa prevalece sobre a preclusão do art. 422 do CPP quando há prejuízo concreto. Negar a oitiva dos peritos da defesa e deixar a acusação explorar os pareceres sem contraditório técnico gera assimetria. Oitiva restabelecida e júri anulado (médico e enfermeira acusados da morte de um recém-nascido).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115023.pdf
+
+## 119. AgRg no HC nº 1079684 / MG (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/04/2026.
+- Crime / Tema: Associação criminosa · Crimes contra a Administração Pública · Lavagem de dinheiro · Quebra de sigilo · Busca e apreensão
+- Resumo: Acesso a dados telemáticos armazenados (dados estáticos) não exige prazo, como a interceptação exige, mas precisa guardar pertinência temática e temporal com os fatos investigados. A investigação de fatos de 2009 a 2015 não autoriza vasculhar dados anteriores ou posteriores, o que seria pescaria probatória. Busca e apreensão mantida, com recorte temporal.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1079684.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. BUSCA E APREENSÃO. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE PESCARIA PROBATÓRIA. 2. DADOS TELEMÁTICOS ARMAZENADOS (DADOS ESTÁTICOS). LIMITAÇÃO DE PRAZO. DESNECESSIDADE. DELIMITAÇÃO FÁTICA E TEMPORAL. IMPRESCINDIBILIDADE. 3. AGRAVO REGIMENTAL A QUE SE DÁ PARCIAL PROVIMENTO.
+  > 1. O acórdão impugnado foi explícito ao afirmar que a providência cautelar decorre de investigação de suposta atuação estruturada criminosa, relacionada a elementos anteriormente reunidos, notadamente dados extraídos de notebook entregue por colaborador. Também consignou que a medida se insere em apuração complexa, envolvendo múltiplos investigados e empresas, voltada à elucidação de possível associação criminosa, delitos contra a Administração Pública e subsequente lavagem de capitais.
+  > - Portanto, não se trata, aqui, de medida cautelar inaugurada de modo arbitrário ou desvinculada de elementos concretos. Ao contrário, o quadro descrito no ato coator revela investigação em curso, com elementos indiciários previamente colhidos e finalidade probatória associada aos fatos já delimitados no procedimento. Nessas condições, não se pode concluir, de plano, que a diligência tenha sido utilizada como mecanismo indiferenciado de prospecção criminal. Nesse contexto, reitero que não se evidencia ilegalidade manifesta.
+  > - A alegação no sentido de que teria havido "confissão" de pesca probatória na própria representação ministerial não encontra respaldo nas passagens decisórias transcritas nem em elemento objetivo apto a demonstrar, de modo inequívoco, que a medida foi decretada para fins genéricos desvinculados dos fatos investigados. Ao revés, as instâncias ordinárias indicaram a natureza probatória instrumental da cautelar, inserida em apuração complexa e apoiada em indícios. Nessa medida, permanece hígida a razão decisória.
+  > 2. Quanto ao pedido subsidiário, referente à ausência de recorte temporal das medidas invasivas, a jurisprudência desta Corte Superior firmou compreensão no sentido de que a Lei n. 12.965/2014 não exige, para a obtenção judicial de dados já armazenados, a mesma limitação temporal prevista para registros de aplicações e fluxos comunicacionais. A exigência do art. 22, inciso III, do Marco Civil da Internet dirige-se aos registros, e não se projeta automaticamente sobre hipóteses de extração e análise de dados telemáticos previamente armazenados em dispositivos apreendidos para fins de investigação criminal.
+  > - Contudo, ao realizar uma análise mais detalhada dos julgados desta Corte, constato que a conclusão se refere à desnecessidade de se fixar o lapso de captação equivalente ao fixado para fluxos de comunicação, como ocorre, por exemplo, no art. 8º-A, § 3º, da Lei n. 9.296/1996, que define o prazo de 15 dias, renovável, para a captação ambiental. De fato, não há necessidade de fixar prazo para a captação de dados estáticos, o que não afasta a exigência de limitação temporal do acesso aos dados armazenados, sob pena de, conforme destacado pela defesa, franquear-se verdadeira pescaria probatória. Oportuno anotar que, no RHC 166.662/MG, "o acesso aos dados telemáticos armazenados foi delimitado ao período de 2018 a 2021".
+  > - Nessa linha de intelecção, embora o acesso aos dados estáticos realmente não demande a prévia fixação de prazo para acesso, como ocorre no acesso aos fluxos de comunicação, é imperativo que os dados acessados, em qualquer tipo de diligência, guardem pertinência temática e contemporaneidade com os fatos investigados. Admitir que a investigação por fatos ocorridos entre 2009 e 2015 viabilize o acesso a provas anteriores a 2009, bem como a documentos posteriores a 2015, considerando que a medida foi decretada 10 anos após a suposta cessação dos fatos, revela acesso indevido a documentos cuja relação com os fatos investigados não se encontra minimamente demonstrada, sendo, portanto, vedada por ser medida meramente especulativa.
+  > 3. Agravo regimental a que se dá parcial provimento, para acolher o pedido subsidiário e, de ofício, delimitar as medidas invasivas ao período dos fatos investigados (2009-2015).
+  > (AgRg no HC n. 1.079.684/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
+
+## 120. HC nº 1048611 / RS (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 17/03/2026.
+- Crime / Tema: Execução penal
+- Resumo: A remição pelo trabalho pode ser comprovada por prova testemunhal idônea, mesmo de outros presos, sobretudo quando o Estado falhou em registrar o trabalho (art. 126 da LEP). Proibir de antemão essa prova é ilegal. Ordem concedida para o juízo da execução reanalisar a remição.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1048611.pdf
+- Ementa oficial:
+  > DIREITO PENAL. EXECUÇÃO. HABEAS CORPUS. REMIÇÃO DE PENA PELO TRABALHO. PROVA TESTEMUNHAL. ORDEM CONCEDIDA.
+  > I. CASO EM EXAME
+  > 1. Habeas corpus impetrado contra decisão do Tribunal de Justiça do Rio Grande do Sul que negou provimento ao agravo em execução, mantendo decisão que indeferiu a produção de prova testemunhal e a remição pelo trabalho na função de "paneleiro".
+  > 2. O paciente alegou ter exercido a função de paneleiro no período de 15/9/2024 a 28/1/2025, na Penitenciária Estadual de Charqueadas, e requereu a remição de pena com base em prova testemunhal, diante da ausência de registro formal do trabalho pela administração prisional.
+  > 3. O Tribunal local considerou a prova testemunhal inidônea, por se tratar de depoimentos de outros apenados, que teriam interesse indireto na concessão do benefício.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. A questão em discussão consiste em saber se a prova testemunhal pode ser considerada idônea para comprovar o trabalho realizado pelo apenado, para fins de remição de pena, nos termos do art. 126 da Lei de Execução Penal.
+  > III. RAZÕES DE DECIDIR
+  > 5. A Lei de Execução Penal não há impedimento à produção da prova testemunhal como comprovação do trabalho para fins de remição de pena, sendo possível a utilização de outros meios probatórios, como a prova testemunhal.
+  > 6. A jurisprudência do Tribunal Superior admite a produção de prova testemunhal para fins de remição pelo trabalho, desde que idônea e devidamente fundamentada.
+  > 7. A proibição prévia da produção de prova testemunhal para comprovação de trabalho interno é indevida, especialmente quando há alegação de falha estatal na fiscalização e registro do trabalho realizado.
+  > 8. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal.
+  > IV. DISPOSITIVO E TESE
+  > 9. Ordem concedida para reconhecer a idoneidade da prova testemunhal e determinar a reanálise do pedido de remição pelo Juízo da execução.
+  > Tese de julgamento:
+  > 1. A remição pelo trabalho pode ser comprovada por meio de prova testemunhal, desde que idônea e devidamente fundamentada.
+  > 2. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal para fins de remição pelo trabalho.
+  > (HC n. 1.048.611/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026.)
