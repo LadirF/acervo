@@ -4,7 +4,7 @@
 
 - [Início](https://ladirf.github.io/acervo/acervo.md): instruções para analisar um caso e lista dos arquivos; comece por aqui.
 - [Índice STJ e STF (1 de 2)](https://ladirf.github.io/acervo/acervo-indice-stj-stf.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
-- [Índice STJ e STF (2 de 2)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md): 76 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice STJ e STF (2 de 2)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md): 78 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice TRFs e tribunais estaduais](https://ladirf.github.io/acervo/acervo-indice-tribunais.md): 15 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Parte 1](https://ladirf.github.io/acervo/acervo-parte-1.md): ementas oficiais, referências e PDFs das decisões 1 a 10.
 - [Parte 2](https://ladirf.github.io/acervo/acervo-parte-2.md): ementas oficiais, referências e PDFs das decisões 11 a 20.
@@ -25,6 +25,6 @@
 - [Parte 17](https://ladirf.github.io/acervo/acervo-parte-17.md): ementas oficiais, referências e PDFs das decisões 161 a 170.
 - [Parte 18](https://ladirf.github.io/acervo/acervo-parte-18.md): ementas oficiais, referências e PDFs das decisões 171 a 180.
 - [Parte 19](https://ladirf.github.io/acervo/acervo-parte-19.md): ementas oficiais, referências e PDFs das decisões 181 a 190.
-- [Parte 20](https://ladirf.github.io/acervo/acervo-parte-20.md): ementas oficiais, referências e PDFs das decisões 191 a 191.
+- [Parte 20](https://ladirf.github.io/acervo/acervo-parte-20.md): ementas oficiais, referências e PDFs das decisões 191 a 193.
 - [Arquivo único](https://ladirf.github.io/acervo/acervo-completo.md): tudo junto (grande; para enviar a projetos).
 - [Página do acervo](https://ladirf.github.io/acervo/): busca e filtros (interface para pessoas).

@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 5 de 20 (decisões 41 a 50)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 191 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 193 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,28 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 41. AgRg no HC nº 1117308 / GO (STJ)
+## 41. AgRg no HC nº 1104246 / SP (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
+- Resumo: Com denúncia restrita a 8,28 g de cocaína (a parte da maconha foi arquivada), réu primário e crime sem violência, a preventiva não se sustenta. Medidas cautelares do art. 319, I e IV, do CPP são suficientes. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104246.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. DELIMITAÇÃO ACUSATÓRIA À PEQUENA QUANTIDADE DE DROGAS. PRIMARIEDADE. MEDIDAS CAUTELARES ALTERNATIVAS SUFICIENTES. ORDEM CONCEDIDA E MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. CASO EM EXAME:
+  > 1. Agravo regimental interposto pelo órgão ministerial estadual contra decisão monocrática que concedeu a ordem em habeas corpus para substituir a prisão preventiva do paciente por medidas cautelares previstas no art. 319, incisos I e IV, do Código de Processo Penal.
+  > 2. Prisão em flagrante e posterior decretação da prisão preventiva por suposta prática do art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 541,93 g de maconha e 18 porções de cocaína (8,28 g). Posteriormente, denúncia ofertada apenas pela posse das 18 porções de cocaína (8.28 g) e arquivamento do inquérito quanto às porções de maconha. Paciente primário. Crime sem violência ou grave ameaça.
+  > 3. Tribunal de origem denegou a ordem. Nesta Corte, decisão monocrática concedeu o habeas corpus e aplicou medidas cautelares alternativas do art. 319, I e IV, do CPP, contra a qual se volta o agravante.
+  > II. QUESTÃO EM DISCUSSÃO:
+  > 4. Há duas questões em discussão: (i) se diante da denúncia restrita à posse de 18 porções de cocaína (8,28 g), da primariedade e da inexistência de violência ou grave ameaça, estão presentes fundamentos concretos e contemporâneos do art. 312 do CPP aptos a justificar a manutenção da prisão preventiva; e (ii) se medidas cautelares diversas da prisão, nos termos do art. 319 do CPP, mostram-se suficientes e proporcionais para resguardar a ordem pública no caso concreto.
+  > III. RAZÕES DE DECIDIR:
+  > 5. A prisão preventiva, como ultima ratio, exige fundamentação concreta e atual do periculum libertatis, nos termos do art. 312 do CPP, não se bastando na gravidade em abstrato do delito ou em elementos que não integrem o objeto efetivo da acusação.
+  > 6. A delimitação acusatória às 18 porções de cocaína (8,28 g), aliada à primariedade e à ausência de violência ou grave ameaça, não revela, por si, indispensabilidade da custódia cautelar, sendo adequada a substituição por medidas alternativas menos gravosas previstas no art. 319, incisos I e IV, do CPP, as quais se mostram-se suficientes para resguardar a ordem pública e a eficácia do processo.
+  > 7. O agravante não apresentou elementos contemporâneos que evidenciem risco atual específico ou descumprimento das cautelares impostas, razão pela qual mantém-se a decisão agravada.
+  > IV. DISPOSITIVO:
+  > 8. Agravo regimental não provido.
+  > (AgRg no HC n. 1.104.246/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
+
+## 42. AgRg no HC nº 1117308 / GO (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Estupro de vulnerável · Dosimetria · Continuidade delitiva · Cabimento do HC
 - Resumo: Culpabilidade e motivo valorados com elementos genéricos do tipo não elevam a pena-base; já abuso de confiança e dano psíquico à vítima de tenra idade elevam. Fração de 1/3 pela continuidade mantida (Súmula 659/STJ). Teses não examinadas na origem esbarram em supressão de instância e reiteração. Pena redimensionada.
@@ -33,13 +54,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para redimensionar a pena para 10 anos e 10 meses de reclusão, preservado o regime inicial, mantendo-se o não conhecimento dos demais pontos por supressão de instância e reiteração de pedidos.
   > (AgRg no HC n. 1.117.308/GO, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
 
-## 42. Rp nº 1001943-80.2026.8.26.0048 (TJSP)
+## 43. Rp nº 1001943-80.2026.8.26.0048 (TJSP)
 - Sentença. Juiz de Direito: Leonardo Marzola Colombini. 3ª Vara Criminal de Atibaia. Publicado em 07/10/2026.
 - Crime / Tema: Crimes contra a honra · Prova digital
 - Resumo: Crimes contra a honra exigem dolo específico de ofender. Postagens sarcásticas criticando a nomeação e o salário de servidora comissionada (animus criticandi, com dados do Portal da Transparência) e excessos de linguagem em mensagens privadas, no calor de desavenças antigas, não são crime: a reparação é na esfera cível. Prova digital por ata notarial com hash e blockchain validada. Querelada absolvida (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rp-1001943-80-2026.pdf
 
-## 43. AgRg no AgRg no HC nº 1089351 / BA (STJ)
+## 44. AgRg no AgRg no HC nº 1089351 / BA (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: A pronúncia não pode se apoiar só em elementos do inquérito não confirmados em juízo (art. 155 do CPP), e o in dubio pro societate não supre a falta de indícios suficientes de autoria (art. 413). Impronúncia restabelecida por HC de ofício; agravo do MP desprovido.
@@ -65,7 +86,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Ausentes indícios suficientes de autoria confirmados em juízo, deve ser proferida a impronúncia, nos termos do art. 414 do CPP.
   > (AgRg no AgRg no HC n. 1.089.351/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 44. AgRg no AREsp nº 2854199 / TO (STJ)
+## 45. AgRg no AREsp nº 2854199 / TO (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Estupro de vulnerável
 - Resumo: O erro de tipo quanto à idade da vítima exclui o dolo do estupro de vulnerável. A irrelevância do consentimento (Súmula 593 e Tema 918/STJ) não impede discutir se o agente sabia que ela tinha menos de 14 anos. A absolvição do TJTO, baseada em mentira sobre a idade e aparente maturidade, não se revê em REsp (Súmula 7); agravo do MP desprovido.
@@ -79,7 +100,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental improvido.
   > (AgRg no AREsp n. 2.854.199/TO, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 45. AgRg no HC nº 1118254 / SP (STJ)
+## 46. AgRg no HC nº 1118254 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Mãe de filhos menores de 12 anos tem direito à domiciliar no lugar da preventiva (arts. 318, V, e 318-A do CPP). O cuidado materno é presumido, e o tráfico interestadual sem violência não é situação excepcionalíssima. Substituição condicionada à indicação de endereço no Brasil; agravo do MP desprovido.
@@ -95,7 +116,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Agravo regimental não provido
   > (AgRg no HC n. 1.118.254/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 46. AgRg no AgRg no HC nº 1099318 / RS (STJ)
+## 47. AgRg no AgRg no HC nº 1099318 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: O monitoramento eletrônico no regime aberto ou domiciliar é possível (arts. 115, 116 e 146-B, IV, da LEP), mas exige motivação concreta e proporcional. A referência genérica à situação do sistema prisional não basta para impô-lo contra a decisão individualizada do juízo da execução; agravo do MPF desprovido.
@@ -108,7 +129,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental improvido.
   > (AgRg no AgRg no HC n. 1.099.318/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 47. AgRg no HC nº 1055445 / SP (STJ)
+## 48. AgRg no HC nº 1055445 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Para negar a progressão (art. 112 da LEP), o juiz precisa apontar fato concreto da execução que mostre falta de aptidão subjetiva; gravidade do crime e pena longa não servem. O juízo repetiu, agora para negar o benefício, os fundamentos que o STJ já tinha rejeitado para exigir exame criminológico (HC 1.034.654/SP). Constrangimento ilegal; agravo do MP desprovido.
@@ -122,7 +143,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental não provido.
   > (AgRg no HC n. 1.055.445/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 48. AgRg no HC nº 1056515 / SP (STJ)
+## 49. AgRg no HC nº 1056515 / SP (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Estupro de vulnerável · Dosimetria · Cabimento do HC
 - Resumo: HC não substitui revisão criminal. Mas regime fechado fixado só pela gravidade abstrata do crime viola as Súmulas 440/STJ e 718 e 719/STF. Réus primários, com pena-base no mínimo: regime semiaberto concedido de ofício (art. 33, § 2º, b, do CP).
@@ -135,7 +156,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental improvido. Ordem concedida de ofício para alterar o regime de cumprimento de pena para o semiaberto.
   > (AgRg no HC n. 1.056.515/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 49. AgRg no HC nº 1060844 / SP (STJ)
+## 50. AgRg no HC nº 1060844 / SP (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Cabe remição pela aprovação no ENCCEJA mesmo se o preso já tinha o certificado do mesmo nível ao entrar no sistema: a aprovação é esforço educacional autônomo (Tema 1.357/STJ). Ordem de ofício mantida; agravo do MPF desprovido.
@@ -146,15 +167,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. No julgamento do Tema Repetitivo n. 1.357, a Terceira Seção do STJ, entre outros entendimentos, firmou a tese no sentido de que "[é] cabível a remição da pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), ainda que o sentenciado já possuísse, ao ingressar no sistema prisional, certificação de conclusão do mesmo nível de ensino avaliado, pois a aprovação no exame durante o cumprimento da pena configura esforço educacional autônomo apto a justificar a remição".
   > 3. Agravo regimental improvido.
   > (AgRg no HC n. 1.060.844/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
-
-## 50. AgRg no PExt no RHC nº 219617 / RS (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Agravo regimental não serve para impugnar acórdão colegiado. De ofício, foi flexibilizada a cautelar que proibia a ré, primária, de visitar o companheiro preso, porque a medida já durava mais de um ano. Ela pode levar o filho de 2 anos para ver o pai, com agendamento e acompanhamento de assistente social (proporcionalidade e vínculos familiares).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-219617.pdf
-- Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM RECURSO EM HABEAS CORPUS. INADEQUAÇÃO RECURSAL. AUSÊNCIA DE PREVISÃO LEGAL E REGIMENTAL PARA IMPUGNAR ACÓRDÃO COLEGIADO. DIREITO DE VISITA. PRESERVAÇÃO DE VÍNCULOS FAMILIARES. PRINCÍPIO DA PROPORCIONALIDADE. FLEXIBILIZAÇÃO DE MEDIDA CAUTELAR, COM CONDIÇÕES.
-  > 1. O agravo regimental não é meio idôneo para impugnar acórdão proferido por órgão colegiado, ante a falta de previsão legal e regimental, consoante a jurisprudência desta Corte.
-  > 2. É possível a concessão de ordem de ofício, considerados o direito de visita e a preservação dos vínculos familiares da recorrente com o companheiro recolhido ao estabelecimento prisional, em especial para viabilizar o convívio do filho menor, observados critérios de necessidade e proporcionalidade.
-  > 3. Agravo regimental não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
-  > (AgRg no PExt no RHC n. 219.617/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
