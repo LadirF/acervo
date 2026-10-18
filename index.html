@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex, nofollow">
-<link rel="alternate" type="text/markdown" href="ia/20261018-1449/acervo.md" title="Acervo em texto (para IA)">
+<link rel="alternate" type="text/markdown" href="ia/20261018-1458/acervo.md" title="Acervo em texto (para IA)">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#101010">
 <title>Acervo de Jurisprudência</title>
@@ -1181,7 +1181,7 @@
 </style>
 </head>
 <body>
-<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261018-1449/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
+<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261018-1458/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
 <a class="pular" href="#docket">Pular para as decisões</a>
 <div class="wrap">
 
@@ -4406,6 +4406,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     // "Limpar filtros" só aparece com algum filtro ou busca ativa
     document.getElementById('limparFiltros').hidden = !(term !== '' ||
       state.tribunal !== 'all' || state.decisao !== 'all' || state.relator !== 'all' || state.crime !== 'all');
+    gravarEndereco();
   }
 
   // Botões: ‹ Anterior · 1 … 4 5 6 … 9 · Próxima › (primeira, última e a
@@ -5005,7 +5006,60 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
   viewer.addEventListener('click', function (e) { if (e.target === viewer) fecharVisualizador(); });
   viewer.addEventListener('close', limparVisualizador);
 
-  apply();
+  // Filtros no endereço (18/10/2026): ?q=…&tribunal=…&decisao=…&relator=…&crime=…&pagina=…
+  // Permite mandar um link que já abre filtrado (ex.: ?crime=Infanticídio). Usa
+  // replaceState (não enche o histórico) e mantém parâmetros desconhecidos (ex.: ?v=).
+  var CHAVES_URL = { q: 'search', tribunal: 'tribunal', decisao: 'decisao', relator: 'relator', crime: 'crime' };
+  var lendoEndereco = false;
+
+  function gravarEndereco() {
+    if (lendoEndereco) return;
+    try {
+      var p = new URLSearchParams(location.search);
+      Object.keys(CHAVES_URL).forEach(function (k) {
+        var v = String(state[CHAVES_URL[k]] || '').trim();
+        if (v && v !== 'all') p.set(k, v); else p.delete(k);
+      });
+      if (pagina > 1) p.set('pagina', String(pagina)); else p.delete('pagina');
+      var qs = p.toString();
+      var novo = location.pathname + (qs ? '?' + qs : '') + location.hash;
+      if (novo !== location.pathname + location.search + location.hash) history.replaceState(null, '', novo);
+    } catch (e) { /* ex.: arquivo aberto do disco em navegador que bloqueia */ }
+  }
+
+  function lerEndereco() {
+    var p;
+    try { p = new URLSearchParams(location.search); } catch (e) { apply(); return; }
+    lendoEndereco = true;
+    var q = p.get('q');
+    if (q) { searchInput.value = q; state.search = q; }
+    groups.forEach(function (group) {
+      var key = group.getAttribute('data-filter-group');
+      var v = p.get(key);
+      if (!v) return;
+      var btn = Array.prototype.filter.call(group.querySelectorAll('button'), function (b) { return b.getAttribute('data-value') === v; })[0];
+      if (!btn) return;
+      group.querySelectorAll('button').forEach(function (b) {
+        var on = b === btn;
+        b.classList.toggle('active', on);
+        b.setAttribute('aria-pressed', String(on));
+      });
+      state[key] = v;
+    });
+    ['relator', 'crime'].forEach(function (k) {
+      var v = p.get(k);
+      if (!v || !listas[k]) return;
+      var atributo = listas[k].bloco.getAttribute('data-atributo');
+      var existe = entries.some(function (li) { return (li.getAttribute(atributo) || '').split('|').indexOf(v) !== -1; });
+      if (existe) listas[k].escolher(v, false);
+    });
+    lendoEndereco = false;
+    var n = parseInt(p.get('pagina'), 10);
+    apply();
+    if (n > 1) { pagina = n; apply(true); }
+  }
+
+  lerEndereco();
 })();
 </script>
 
