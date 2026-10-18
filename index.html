@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex, nofollow">
-<link rel="alternate" type="text/markdown" href="ia/20261016-1452/acervo.md" title="Acervo em texto (para IA)">
+<link rel="alternate" type="text/markdown" href="ia/20261018-1449/acervo.md" title="Acervo em texto (para IA)">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101010">
 <title>Acervo de Jurisprudência</title>
 <script>
   // Aplica o tema salvo antes de desenhar a página (evita piscar).
@@ -916,6 +917,11 @@
     dialog.viewer[open] { animation: none; }
     li.entry:hover, .chips button:hover, .pdf-link:hover, .paginacao button:hover, .limpar-filtros:hover { transform: none !important; }
   }
+  /* Acessibilidade (auditoria de 18/10/2026, Web Interface Guidelines): atalho "Pular para as decisões",
+     visível só ao receber o foco pelo teclado; o leitor de PDF não arrasta a página ao rolar */
+  .pular { position: absolute; left: 12px; top: -60px; z-index: 50; padding: 8px 14px; font-size: 14px; font-weight: 600; color: var(--on-accent); background: var(--ink); border-radius: 8px; text-decoration: none; }
+  .pular:focus { top: 12px; }
+  .viewer-body { overscroll-behavior: contain; }
 .para-ia{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
 </style>
 <style id="design-v2">
@@ -1175,7 +1181,8 @@
 </style>
 </head>
 <body>
-<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261016-1452/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
+<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261018-1449/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
+<a class="pular" href="#docket">Pular para as decisões</a>
 <div class="wrap">
 
   <header class="page-head">
@@ -1196,7 +1203,7 @@
 
   <div class="controls">
     <div class="search-field">
-      <input type="text" id="searchInput" placeholder="Buscar por tema, relator, número do processo…" autocomplete="off">
+      <input type="text" id="searchInput" aria-label="Buscar decisões" enterkeyhint="search" placeholder="Buscar por tema, relator, número do processo…" autocomplete="off">
     </div>
     <div class="filter-row">
       <div class="filter-group" data-filter-group="tribunal" role="group" aria-label="Filtrar por tribunal">
@@ -1248,7 +1255,7 @@
       </div>
     </div>
     <div class="count-row">
-      <p class="count-line" id="countLine">199 decisões</p>
+      <p class="count-line" id="countLine" aria-live="polite">199 decisões</p>
       <button type="button" class="limpar-filtros" id="limparFiltros" hidden>✕ Limpar filtros</button>
     </div>
   </div>

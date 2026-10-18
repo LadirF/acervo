@@ -22,30 +22,30 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 ## Onde estão o índice e as ementas
 
 **Índice** (todas as decisões com tipo de decisão, data, relator, crime / tema e resumo, divididas por tribunal; numeração única). Leia **todos** os arquivos abaixo para a triagem:
-- Índice STJ e STF (1 de 2) (100 decisões): https://ladirf.github.io/acervo/ia/20261016-1452/acervo-indice-stj-stf.md
-- Índice STJ e STF (2 de 2) (84 decisões): https://ladirf.github.io/acervo/ia/20261016-1452/acervo-indice-stj-stf-2.md
-- Índice TRFs e tribunais estaduais (15 decisões): https://ladirf.github.io/acervo/ia/20261016-1452/acervo-indice-tribunais.md
+- Índice STJ e STF (1 de 2) (100 decisões): https://ladirf.github.io/acervo/ia/20261018-1449/acervo-indice-stj-stf.md
+- Índice STJ e STF (2 de 2) (84 decisões): https://ladirf.github.io/acervo/ia/20261018-1449/acervo-indice-stj-stf-2.md
+- Índice TRFs e tribunais estaduais (15 decisões): https://ladirf.github.io/acervo/ia/20261018-1449/acervo-indice-tribunais.md
 
 **Partes** (ementas oficiais, referências e links de PDF; 10 decisões cada, na mesma numeração do índice):
-- Parte 1: decisões 1 a 10 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-1.md
-- Parte 2: decisões 11 a 20 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-2.md
-- Parte 3: decisões 21 a 30 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-3.md
-- Parte 4: decisões 31 a 40 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-4.md
-- Parte 5: decisões 41 a 50 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-5.md
-- Parte 6: decisões 51 a 60 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-6.md
-- Parte 7: decisões 61 a 70 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-7.md
-- Parte 8: decisões 71 a 80 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-8.md
-- Parte 9: decisões 81 a 90 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-9.md
-- Parte 10: decisões 91 a 100 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-10.md
-- Parte 11: decisões 101 a 110 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-11.md
-- Parte 12: decisões 111 a 120 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-12.md
-- Parte 13: decisões 121 a 130 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-13.md
-- Parte 14: decisões 131 a 140 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-14.md
-- Parte 15: decisões 141 a 150 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-15.md
-- Parte 16: decisões 151 a 160 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-16.md
-- Parte 17: decisões 161 a 170 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-17.md
-- Parte 18: decisões 171 a 180 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-18.md
-- Parte 19: decisões 181 a 190 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-19.md
-- Parte 20: decisões 191 a 199 — https://ladirf.github.io/acervo/ia/20261016-1452/acervo-parte-20.md
+- Parte 1: decisões 1 a 10 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-1.md
+- Parte 2: decisões 11 a 20 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-2.md
+- Parte 3: decisões 21 a 30 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-3.md
+- Parte 4: decisões 31 a 40 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-4.md
+- Parte 5: decisões 41 a 50 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-5.md
+- Parte 6: decisões 51 a 60 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-6.md
+- Parte 7: decisões 61 a 70 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-7.md
+- Parte 8: decisões 71 a 80 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-8.md
+- Parte 9: decisões 81 a 90 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-9.md
+- Parte 10: decisões 91 a 100 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-10.md
+- Parte 11: decisões 101 a 110 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-11.md
+- Parte 12: decisões 111 a 120 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-12.md
+- Parte 13: decisões 121 a 130 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-13.md
+- Parte 14: decisões 131 a 140 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-14.md
+- Parte 15: decisões 141 a 150 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-15.md
+- Parte 16: decisões 151 a 160 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-16.md
+- Parte 17: decisões 161 a 170 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-17.md
+- Parte 18: decisões 171 a 180 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-18.md
+- Parte 19: decisões 181 a 190 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-19.md
+- Parte 20: decisões 191 a 199 — https://ladirf.github.io/acervo/ia/20261018-1449/acervo-parte-20.md
 
 Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md
