@@ -1673,6 +1673,101 @@
     .controls.filtros-abertos #painelFiltros { animation: filtros-v3 .22s var(--ease); }
   }
 
+  /* --- Estado vazio com sugestões --- */
+  .empty-state.show { padding: 44px 16px 10px; font-size: 15.5px; color: var(--ink); }
+
+  .empty-state::before {
+    content: "";
+    display: block;
+    width: 44px;
+    height: 44px;
+    margin: 0 auto 14px;
+    background: var(--ouro-texto);
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='m20 20-3.5-3.5M9 9l4 4M13 9l-4 4'/%3E%3C/svg%3E") center / contain no-repeat;
+            mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='m20 20-3.5-3.5M9 9l4 4M13 9l-4 4'/%3E%3C/svg%3E") center / contain no-repeat;
+  }
+
+  .vazio-sugestoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    padding: 4px 16px 28px;
+    text-align: center;
+  }
+
+  .vazio-sugestoes[hidden] { display: none; }
+  .vazio-dica { margin: 0; font-size: 14px; color: var(--ink-muted); }
+  .vazio-fichas { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 6px; }
+  .vazio-rotulo { font-size: 13px; color: var(--ink-muted); }
+  .vazio-acoes { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+
+  .vazio-acao {
+    min-height: 36px;
+    padding: 0 16px;
+    font: inherit;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--ink);
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    box-shadow: var(--shadow-sm);
+    cursor: pointer;
+  }
+
+  .vazio-acao:hover { border-color: var(--rule-strong); }
+  .vazio-acao.principal { margin-left: 4px; color: var(--ativo-ink); background: var(--ativo-bg); border-color: var(--ativo-bg); box-shadow: inset 0 -2px 0 var(--ativo-marca); }
+
+  /* --- "Voltar ao topo": botão preto com dourado, depois de rolar uma tela --- */
+  .topo-v3 {
+    position: fixed;
+    right: 16px;
+    bottom: calc(18px + env(safe-area-inset-bottom, 0px));
+    z-index: 55;
+    display: grid;
+    place-items: center;
+    width: 46px;
+    height: 46px;
+    padding: 0;
+    color: var(--ouro-claro);
+    background: var(--hero-bg);
+    border: 1px solid rgba(181, 151, 41, 0.55);
+    border-radius: 50%;
+    box-shadow: var(--shadow-pop);
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: opacity .2s var(--ease), transform .2s var(--ease), visibility 0s linear .2s;
+  }
+
+  .topo-v3::before {
+    content: "";
+    width: 18px;
+    height: 18px;
+    background: currentColor;
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 19V5M6 11l6-6 6 6'/%3E%3C/svg%3E") center / contain no-repeat;
+            mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 19V5M6 11l6-6 6 6'/%3E%3C/svg%3E") center / contain no-repeat;
+  }
+
+  .topo-v3.visivel { opacity: 1; visibility: visible; transform: none; transition: opacity .2s var(--ease), transform .2s var(--ease); }
+  .topo-v3:hover { color: #FFFFFF; border-color: var(--ouro); }
+  .topo-v3:focus-visible { outline: 2px solid var(--ouro-claro); outline-offset: 2px; }
+  .topo-v3[hidden] { display: none; }
+
+  @media (max-width: 560px) {
+    .aviso-v3 { bottom: calc(76px + env(safe-area-inset-bottom, 0px)); }
+  }
+
+  /* --- Transições: os cartões entram suavemente quando a lista muda --- */
+  @keyframes entrar-v3 {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: none; }
+  }
+
+  li.entry { animation: entrar-v3 .3s var(--ease) backwards; }
+
   /* --- Leitor de PDF v3: barra com zoom e página; a pinça amplia só o documento --- */
   .viewer-head, .viewer-ferramentas, .viewer-busca { position: relative; z-index: 2; }
   .viewer-body { position: relative; z-index: 1; touch-action: pan-x pan-y; }
@@ -1834,9 +1929,10 @@
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .controls.filtros-abertos #painelFiltros { animation: none; }
+    .controls.filtros-abertos #painelFiltros, li.entry { animation: none; }
     li.entry.em-destaque { animation: none; box-shadow: 0 0 0 3px var(--ouro), var(--shadow-md); }
     .aviso-v3 { transform: translate(-50%, 0); }
+    .topo-v3, .topo-v3.visivel { transform: none; }
   }
 </style>
 </head>
@@ -5007,6 +5103,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
   <nav class="paginacao" id="paginacao" aria-label="Páginas de decisões" hidden></nav>
 
   <p class="empty-state" id="emptyState">Nenhuma decisão corresponde à busca ou aos filtros aplicados.</p>
+  <div class="vazio-sugestoes" id="vazioSugestoes" hidden></div>
 
   <footer class="site-footer">
     <p>© 2026 Cury Advogados. Compilado por Ladir Ferreira.</p>
@@ -5015,6 +5112,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
 </div>
 
 <div class="aviso-v3" id="avisoV3" role="status" aria-live="polite"></div>
+<button type="button" class="topo-v3" id="voltarTopo" aria-label="Voltar ao topo" title="Voltar ao topo" hidden></button>
 
 <dialog class="viewer" id="pdfViewer" aria-labelledby="viewerTitle">
   <div class="viewer-head">
@@ -6756,6 +6854,108 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       li.focus({ preventScroll: true });
     });
     setTimeout(function () { li.classList.remove('em-destaque'); }, 4500);
+  }
+
+  // ---- Estado vazio com sugestões: quantas a busca acharia sem os filtros, ----
+  // ---- fichas para tirar cada filtro, apagar a busca ou limpar tudo        ----
+  var vazioSugestoes = document.getElementById('vazioSugestoes');
+  var linhaContagem = document.getElementById('countLine');
+
+  function focarContagem() {
+    if (!linhaContagem) return;
+    linhaContagem.setAttribute('tabindex', '-1');
+    linhaContagem.focus({ preventScroll: true });
+  }
+
+  function botaoSugestao(classe, texto, rotulo, acao) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = classe;
+    b.textContent = texto;
+    if (rotulo) b.setAttribute('aria-label', rotulo);
+    b.addEventListener('click', function () { acao(); focarContagem(); });
+    return b;
+  }
+
+  // Tira os filtros e mantém a busca digitada
+  function soLimparFiltros() {
+    var q = A.state.search;
+    A.limpar();
+    if (campoBusca) {
+      campoBusca.value = q;
+      campoBusca.dispatchEvent(new Event('input', { bubbles: true }));
+    }
+  }
+
+  if (vazioSugestoes) {
+    aoAplicar.push(function (info) {
+      var vazio = info.visiveis.length === 0;
+      vazioSugestoes.hidden = !vazio;
+      vazioSugestoes.innerHTML = '';
+      if (!vazio) return;
+      var temBusca = A.state.search.trim() !== '';
+      var ligados = filtrosLigados();
+      if (soSalvas) ligados.push({ rotulo: 'Só salvas', remover: function () { soSalvas = false; A.aplicar(); } });
+      if (temBusca && ligados.length) {
+        var n = 0;
+        A.entries.forEach(function (li) { if (casou.get(li)) n++; });
+        if (n) {
+          var dica = document.createElement('p');
+          dica.className = 'vazio-dica';
+          dica.textContent = 'Sem os filtros, a busca acha ' + (n === 1 ? '1 decisão.' : n + ' decisões.');
+          dica.appendChild(document.createTextNode(' '));
+          dica.appendChild(botaoSugestao('vazio-acao principal', n === 1 ? 'Ver a decisão' : 'Ver as ' + n, null, soLimparFiltros));
+          vazioSugestoes.appendChild(dica);
+        }
+      }
+      if (ligados.length) {
+        var fichas = document.createElement('div');
+        fichas.className = 'vazio-fichas';
+        var rot = document.createElement('span');
+        rot.className = 'vazio-rotulo';
+        rot.textContent = ligados.length === 1 ? 'Filtro ligado:' : 'Filtros ligados:';
+        fichas.appendChild(rot);
+        ligados.forEach(function (f) {
+          fichas.appendChild(botaoSugestao('ficha-ativa', f.rotulo, 'Remover filtro: ' + f.rotulo, f.remover));
+        });
+        vazioSugestoes.appendChild(fichas);
+      }
+      if (temBusca && termosDaBusca().length > 1) {
+        var menos = document.createElement('p');
+        menos.className = 'vazio-dica';
+        menos.textContent = 'Com várias palavras, a decisão precisa ter todas. Tente com menos palavras.';
+        vazioSugestoes.appendChild(menos);
+      }
+      var acoes = document.createElement('div');
+      acoes.className = 'vazio-acoes';
+      if (temBusca && campoBusca) acoes.appendChild(botaoSugestao('vazio-acao', 'Apagar a busca', null, function () {
+        campoBusca.value = '';
+        campoBusca.dispatchEvent(new Event('input', { bubbles: true }));
+      }));
+      if (ligados.length) acoes.appendChild(botaoSugestao('vazio-acao', temBusca ? 'Limpar tudo' : 'Limpar filtros', null, function () { A.limpar(); }));
+      vazioSugestoes.appendChild(acoes);
+    });
+  }
+
+  // ---- Botão "Voltar ao topo", depois de rolar mais de uma tela ----
+  var voltarTopo = document.getElementById('voltarTopo');
+  if (voltarTopo) {
+    voltarTopo.hidden = false;
+    var quadroTopo = 0;
+    var marcarTopo = function () {
+      quadroTopo = 0;
+      voltarTopo.classList.toggle('visivel', window.scrollY > window.innerHeight * 1.2);
+    };
+    window.addEventListener('scroll', function () {
+      if (!quadroTopo) quadroTopo = requestAnimationFrame(marcarTopo);
+    }, { passive: true });
+    voltarTopo.addEventListener('click', function (e) {
+      var calmo = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: calmo ? 'auto' : 'smooth' });
+      // Pelo teclado, o foco vai para a busca; no toque, não abre o teclado do celular
+      if (e.detail === 0 && campoBusca) campoBusca.focus({ preventScroll: true });
+    });
+    marcarTopo();
   }
 
   // ---- Leitor de PDF v3: zoom (botões, teclado e pinça) e indicador de página ----
