@@ -1275,6 +1275,16 @@
 
   li.entry:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
 
+  /* "Copiar referência": mesmo desenho de "Copiar ementa", com ícone de aspas */
+  .pdf-link.ref-v3 { font-weight: 500; }
+
+  .pdf-link.ref-v3::before {
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M10 7H6a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h2v1a3 3 0 0 1-3 3M20 7h-4a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h2v1a3 3 0 0 1-3 3'/%3E%3C/svg%3E");
+            mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M10 7H6a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h2v1a3 3 0 0 1-3 3M20 7h-4a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h2v1a3 3 0 0 1-3 3'/%3E%3C/svg%3E");
+  }
+
+  .pdf-link.ref-v3.copiado { background: var(--case-color, var(--stj)); color: var(--on-accent); }
+
   /* Ações novas do cartão (link, salvar): à direita da linha de botões */
   .acoes-v3 { display: inline-flex; align-items: center; gap: 4px; margin: 14px 0 0 auto; }
 
@@ -6312,6 +6322,37 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
         if (!err || err.name !== 'AbortError') copiar();
       });
     } else copiar();
+  });
+
+  // ---- Copiar referência: só a última linha da ementa, entre parênteses ----
+  // Ex.: "(AgRg no RHC n. 210.983/DF, relator Ministro Og Fernandes, …, DJEN de
+  // 16/10/2026.)". O botão fica logo depois de "Copiar ementa" e não usa a classe
+  // .copiar (que é a do botão da ementa no script principal).
+  function referenciaDe(li) {
+    var linhas = ementaDe(li).split('\n').map(function (s) { return s.trim(); }).filter(Boolean);
+    var ultima = linhas[linhas.length - 1] || '';
+    return /^\(.*\)$/.test(ultima) ? ultima : '';
+  }
+
+  dados.forEach(function (d, li) {
+    var copiar = li.querySelector(':scope > .pdf-link.copiar');
+    if (!copiar || !referenciaDe(li)) return;
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'pdf-link ref-v3';
+    b.textContent = 'Copiar referência';
+    copiar.after(b);
+  });
+
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('.ref-v3');
+    if (!b) return;
+    var ref = referenciaDe(b.closest('li.entry'));
+    if (!ref) return;
+    A.copiarTexto(ref).then(
+      function () { A.avisoBotao(b, 'Referência copiada ✓', true); },
+      function () { A.avisoBotao(b, 'Não foi possível copiar', false); }
+    );
   });
 
   // Ao abrir com ?id=…: vai à página da decisão, rola até ela e a destaca. Se os
