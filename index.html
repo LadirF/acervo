@@ -1369,6 +1369,43 @@
   .trecho-v3 mark { padding: 0 1px; color: var(--ink); background: rgba(226, 199, 102, 0.6); border-radius: 2px; }
   :root[data-theme="dark"] .trecho-v3 mark { background: rgba(212, 182, 74, 0.4); }
 
+  /* --- Temas frequentes e quantidades nas fichas --- */
+  .temas-frequentes { align-items: center; gap: 6px; margin: 0; }
+
+  .temas-rotulo {
+    margin-right: 4px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ouro-texto);
+  }
+
+  .temas-frequentes button { padding: 3px 10px; font-size: 12.5px; color: var(--ink); background: var(--paper); }
+  .temas-frequentes button::before { content: none; }
+  .temas-frequentes button[aria-pressed="true"] { border-color: var(--ouro); background: color-mix(in srgb, var(--ouro) 16%, var(--paper)); }
+
+  .qtd-v3 { margin-left: 6px; font-size: 0.86em; font-weight: 600; color: var(--ink-muted); font-variant-numeric: tabular-nums; }
+  .chips button .qtd-v3 { margin-left: 0; }
+  .chips button.active .qtd-v3 { color: inherit; opacity: 0.8; }
+  .chips button.sem-resultado:not(.active) { opacity: 0.55; }
+
+  @media (max-width: 640px) {
+    .temas-frequentes {
+      flex-wrap: nowrap;
+      margin: 0 -14px;
+      padding: 2px 14px;
+      overflow-x: auto;
+      overscroll-behavior-x: contain;
+      scrollbar-width: none;
+      -webkit-mask-image: linear-gradient(to right, transparent, #000 14px, #000 calc(100% - 26px), transparent);
+              mask-image: linear-gradient(to right, transparent, #000 14px, #000 calc(100% - 26px), transparent);
+    }
+    .temas-frequentes::-webkit-scrollbar { display: none; }
+    .temas-frequentes button, .temas-rotulo { flex: none; white-space: nowrap; }
+    .temas-frequentes button { min-height: 34px; }
+  }
+
   /* --- Filtros recolhíveis no celular: botão "Filtros (N)" e fichas dos filtros ativos --- */
   .painel-barra { display: none; }
 
@@ -1518,6 +1555,9 @@
       <input type="text" id="searchInput" aria-label="Buscar decisões" enterkeyhint="search" placeholder="Buscar por tema, relator, número do processo…" autocomplete="off">
       <button type="button" class="busca-limpar" id="buscaLimpar" aria-label="Apagar a busca" title="Apagar a busca" hidden>✕</button>
       <kbd class="busca-atalho" aria-hidden="true" title="Atalho: tecla /">/</kbd>
+    </div>
+    <div class="temas-frequentes crimes" id="temasFrequentes" role="group" aria-labelledby="temasRotulo">
+      <span class="temas-rotulo" id="temasRotulo">Temas frequentes</span>
     </div>
     <div class="painel-barra">
       <button type="button" class="filtros-toggle" id="filtrosToggle" aria-expanded="false" aria-controls="painelFiltros">Filtros<span class="filtros-qtd" id="filtrosQtd" hidden></span></button>
@@ -5640,8 +5680,15 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
   }
 
   var pontos = new Map(); // decisão -> pontuação na busca atual (usada pela Relevância)
+  var casou = new Map();  // decisão -> passou ou não na busca atual (usado pelas contagens)
 
   G.busca = function (li) {
+    var r = casaBusca(li);
+    casou.set(li, r);
+    return r;
+  };
+
+  function casaBusca(li) {
     var termos = termosDaBusca();
     var d = dados.get(li);
     if (!d) return true;
@@ -5659,7 +5706,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     }
     pontos.set(li, soma);
     return true;
-  };
+  }
 
   // Destaque dos termos no cartão (resumo, número, linha do relator e fichas), sem
   // mexer no HTML das decisões: usa a CSS Custom Highlight API quando existe.
@@ -6023,6 +6070,77 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       if (periodo) p.set('periodo', periodo); else p.delete('periodo');
     });
   }
+
+  // ---- Temas frequentes: atalhos para o filtro Crime / Tema ----
+  // As fichas ficam num bloco com a classe .crimes, como as palavras-chave dos
+  // cartões: o clique (liga e desliga o filtro) e o destaque do tema escolhido
+  // vêm do script principal. A quantidade é a do acervo inteiro.
+  function rotuloComQtd(nome, n) {
+    return nome + ', ' + n + (n === 1 ? ' decisão' : ' decisões');
+  }
+
+  var temasFrequentes = document.getElementById('temasFrequentes');
+  if (temasFrequentes) {
+    var porTema = {};
+    A.entries.forEach(function (li) {
+      (li.getAttribute('data-crimes') || '').split('|').forEach(function (c) {
+        if (c) porTema[c] = (porTema[c] || 0) + 1;
+      });
+    });
+    Object.keys(porTema)
+      .sort(function (a, b) { return porTema[b] - porTema[a] || a.localeCompare(b, 'pt'); })
+      .slice(0, 7)
+      .forEach(function (c) {
+        var b = document.createElement('button');
+        b.type = 'button';
+        b.setAttribute('data-crime', c);
+        b.setAttribute('aria-label', rotuloComQtd(c, porTema[c]));
+        b.title = 'Filtrar por ' + c;
+        b.appendChild(document.createTextNode(c));
+        var q = document.createElement('span');
+        q.className = 'qtd-v3';
+        q.setAttribute('aria-hidden', 'true');
+        q.textContent = porTema[c];
+        b.appendChild(q);
+        temasFrequentes.appendChild(b);
+      });
+    aoAplicar.push(function () {
+      temasFrequentes.querySelectorAll('button[data-crime]').forEach(function (b) {
+        b.setAttribute('aria-pressed', String(b.getAttribute('data-crime') === A.state.crime));
+      });
+    });
+  }
+
+  // ---- Quantidade em cada ficha de Tribunal, de acordo com os outros filtros e a busca ----
+  var qtdTribunal = {};
+  document.querySelectorAll('[data-filter-group="tribunal"] button[data-value]').forEach(function (b) {
+    var q = document.createElement('span');
+    q.className = 'qtd-v3';
+    q.setAttribute('aria-hidden', 'true');
+    b.appendChild(q);
+    qtdTribunal[b.getAttribute('data-value')] = q;
+  });
+
+  aoAplicar.push(function () {
+    var s = A.state, cont = { all: 0 };
+    var comBusca = s.search.trim() !== '';
+    A.entries.forEach(function (li) {
+      if (s.decisao !== 'all' && li.getAttribute('data-decisao') !== s.decisao) return;
+      if (s.relator !== 'all' && li.getAttribute('data-relator') !== s.relator) return;
+      if (s.crime !== 'all' && (li.getAttribute('data-crimes') || '').split('|').indexOf(s.crime) === -1) return;
+      if (comBusca && casou.get(li) === false) return;
+      if (!G.filtro(li)) return;
+      var g = A.grupoTribunal(li.getAttribute('data-tribunal'));
+      cont[g] = (cont[g] || 0) + 1;
+      cont.all++;
+    });
+    Object.keys(qtdTribunal).forEach(function (v) {
+      var n = cont[v] || 0, q = qtdTribunal[v];
+      q.textContent = n;
+      q.parentNode.classList.toggle('sem-resultado', n === 0);
+      q.parentNode.setAttribute('aria-label', rotuloComQtd(rotuloBotao('tribunal', v), n));
+    });
+  });
 
   // Primeira atualização com os recursos v3 (mantém a página lida do endereço).
   aoAplicar.push(gravarEnderecoV3);
