@@ -1184,6 +1184,86 @@
      o tema claro como padrão e a cor do tribunal na borda dos cartões. Acrescenta o visual
      dos recursos v3 (bloco <script id="recursos-v3">). Para voltar ao design v2: apagar
      este bloco, o script recursos-v3 e a marcação listada no PORTAR.md. ===== */
+
+  /* --- Base: dourado de texto com contraste AA no tema claro (o --ouro fica nos detalhes) --- */
+  :root {
+    --ouro-texto: #806616;
+    --toque: 40px;
+  }
+
+  :root[data-theme="dark"] { --ouro-texto: #CDB458; }
+
+  .filter-group .label,
+  :root[data-theme="dark"] .filter-group .label { color: var(--ouro-texto); }
+
+  select:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+  /* --- Painel de busca e filtros --- */
+  .controls { gap: 16px; }
+  .search-field { position: relative; }
+
+  .count-row {
+    justify-content: space-between;
+    gap: 10px 14px;
+    margin-top: 2px;
+    padding-top: 14px;
+    border-top: 1px solid var(--rule);
+  }
+
+  .count-line, .limpar-filtros { margin-top: 0; }
+
+  /* --- Cartões: ações numa linha alinhada (os parágrafos ocupam a largura toda) --- */
+  li.entry {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap: 8px;
+  }
+
+  li.entry > p { flex: 0 0 100%; min-width: 0; }
+  li.entry > .tema { margin: 0 0 12px; }
+  li.entry > .cite { margin: 0 0 6px; }
+  li.entry > .meta { margin: 0; }
+  li.entry > .crimes { margin: 10px 0 0; }
+
+  li.entry > .pdf-link { margin: 14px 0 0; min-height: 36px; }
+  li.entry > .pdf-link.info, li.entry > .pdf-link.copiar { margin-left: 0; }
+
+  li.entry:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+
+  /* Toque (celular): sem o "pulo" do hover preso depois de tocar */
+  @media (hover: none) {
+    li.entry:hover { transform: none; box-shadow: var(--shadow-sm); border-color: var(--rule); border-left-color: var(--case-color, var(--rule)); }
+    .chips button:hover, .lista-trigger:hover, .pdf-link:hover, .paginacao button:hover,
+    .limpar-filtros:hover, .tema-toggle:hover { transform: none; }
+  }
+
+  /* Áreas de toque maiores em telas de toque */
+  @media (pointer: coarse) {
+    .chips button { min-height: var(--toque); padding: 7px 14px; }
+    .segmented button { min-height: 36px; }
+    .lista-trigger { min-height: 42px; }
+    .lista-clear { min-width: 42px; min-height: 42px; }
+    .lista-opcoes li { min-height: 44px; }
+    .paginacao button { min-height: 42px; min-width: 42px; }
+    .limpar-filtros { min-height: 36px; }
+    .crimes button { min-height: 28px; padding: 2px 10px; font-size: 12px; text-align: left; }
+    li.entry > .pdf-link { min-height: 40px; padding: 7px 15px; font-size: 14px; }
+    .tema-toggle { width: var(--toque); height: var(--toque); }
+  }
+
+  /* --- Celular: cabeçalho mais baixo, para a primeira decisão aparecer logo --- */
+  @media (max-width: 560px) {
+    header.page-head { padding: 24px 16px 74px 26px; }
+    header.page-head .head-acoes { position: absolute; top: 24px; right: 16px; gap: 10px; }
+    header.page-head .eyebrow { min-height: 42px; margin-bottom: 10px; padding-right: 100px; }
+    header.page-head h1 { font-size: clamp(25px, 7vw, 29px); margin-bottom: 8px; }
+    header.page-head p.sub { font-size: 14px; line-height: 1.45; }
+    header.page-head .brand { width: 42px; height: 42px; border-radius: 11px; margin-top: 0; }
+    .controls { gap: 14px; padding: 16px 14px 14px; }
+    .count-row { padding-top: 12px; }
+    ul.docket { margin-top: 20px; gap: 14px; }
+  }
 </style>
 </head>
 <body>
