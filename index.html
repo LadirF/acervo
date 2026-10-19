@@ -1252,6 +1252,75 @@
     .tema-toggle { width: var(--toque); height: var(--toque); }
   }
 
+  /* --- Busca: botão apagar, dica "/" (só com mouse), destaque dos termos e trecho da ementa --- */
+  .search-field.tem-texto input { padding-right: 52px; }
+
+  .busca-limpar {
+    position: absolute;
+    top: 50%;
+    right: 8px;
+    display: inline-grid;
+    place-items: center;
+    width: 38px;
+    height: 38px;
+    padding: 0;
+    font: inherit;
+    font-size: 14px;
+    line-height: 1;
+    color: var(--ink-muted);
+    background: transparent;
+    border: 0;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+
+  .busca-limpar:hover { color: var(--ink); background: var(--paper-raised); }
+  .busca-limpar[hidden] { display: none; }
+  .busca-limpar:focus-visible { outline: 2px solid var(--focus); outline-offset: 0; }
+
+  .busca-atalho {
+    position: absolute;
+    top: 50%;
+    right: 14px;
+    display: none;
+    min-width: 24px;
+    padding: 1px 7px;
+    font: 600 12px/1.5 var(--fonte);
+    text-align: center;
+    color: var(--ink-muted);
+    background: var(--paper-raised);
+    border: 1px solid var(--rule-strong);
+    border-bottom-width: 2px;
+    border-radius: 6px;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    .search-field input { padding-right: 52px; }
+    .search-field input:placeholder-shown:not(:focus) ~ .busca-atalho { display: block; }
+  }
+
+  ::highlight(busca-v3) { background-color: rgba(226, 199, 102, 0.6); }
+  :root[data-theme="dark"] ::highlight(busca-v3) { background-color: rgba(212, 182, 74, 0.4); }
+
+  .trecho-v3 {
+    margin: 12px 0 0;
+    padding: 8px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--ink-muted);
+    background: color-mix(in srgb, var(--ouro) 7%, transparent);
+    border-left: 2px solid var(--ouro);
+    border-radius: 0 8px 8px 0;
+    overflow-wrap: anywhere;
+  }
+
+  .trecho-v3 .trecho-rotulo { font-weight: 700; color: var(--ouro-texto); }
+  .trecho-v3 mark { padding: 0 1px; color: var(--ink); background: rgba(226, 199, 102, 0.6); border-radius: 2px; }
+  :root[data-theme="dark"] .trecho-v3 mark { background: rgba(212, 182, 74, 0.4); }
+
   /* --- Filtros recolhíveis no celular: botão "Filtros (N)" e fichas dos filtros ativos --- */
   .painel-barra { display: none; }
 
@@ -1388,6 +1457,8 @@
   <div class="controls">
     <div class="search-field">
       <input type="text" id="searchInput" aria-label="Buscar decisões" enterkeyhint="search" placeholder="Buscar por tema, relator, número do processo…" autocomplete="off">
+      <button type="button" class="busca-limpar" id="buscaLimpar" aria-label="Apagar a busca" title="Apagar a busca" hidden>✕</button>
+      <kbd class="busca-atalho" aria-hidden="true" title="Atalho: tecla /">/</kbd>
     </div>
     <div class="painel-barra">
       <button type="button" class="filtros-toggle" id="filtrosToggle" aria-expanded="false" aria-controls="painelFiltros">Filtros<span class="filtros-qtd" id="filtrosQtd" hidden></span></button>
@@ -5371,6 +5442,351 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       });
     });
   }
+
+  // ---- Texto "dobrado" para comparar ----
+  // Minúsculas, sem acento, espaços simples e sem o ponto entre algarismos
+  // (210.983 = 210983). Com `mapa`, guarda para cada caractere dobrado a
+  // posição dele no texto original (serve para destacar o trecho certo).
+  var MARCAS = /[\u0300-\u036f]/g;
+  var ESPACOS = /\s{2,}|[\t\n\r\f\v\u00a0\u1680\u2000-\u200a\u2028\u2029\u202f\u205f\u3000\ufeff]/g; // só o que precisa virar um espaço simples
+  var dobraDoChar = {}; // memória: á -> a, Ç -> c, º -> o…
+
+  function ehDigito(c) { return c >= '0' && c <= '9'; }
+  function ehLetraOuDigito(c) { return (c >= 'a' && c <= 'z') || ehDigito(c) || c > '\u007f'; }
+
+  function dobrarChar(c) {
+    var d = dobraDoChar[c];
+    if (d === undefined) {
+      d = c.normalize('NFKD').replace(MARCAS, '').toLowerCase();
+      if (d && d.trim() === '') d = ' ';
+      dobraDoChar[c] = d;
+    }
+    return d;
+  }
+
+  function dobrar(s, mapa) {
+    // Sem mapa (texto pesquisável): o mesmo resultado, feito de uma vez pelo navegador
+    if (!mapa) {
+      return s.normalize('NFKD').replace(MARCAS, '').toLowerCase()
+        .replace(/(\d)\.(?=\d)/g, '$1').replace(ESPACOS, ' ').trim();
+    }
+    var out = '';
+    var ultimo = ' ';
+    for (var i = 0; i < s.length; i++) {
+      var code = s.charCodeAt(i);
+      var d;
+      if (code < 128) {
+        if (code >= 65 && code <= 90) d = String.fromCharCode(code + 32);
+        else if (code === 32 || (code >= 9 && code <= 13)) d = ' ';
+        else if (code === 46 && ehDigito(ultimo) && ehDigito(s.charAt(i + 1))) d = '';
+        else d = s.charAt(i);
+      } else {
+        d = dobrarChar(s.charAt(i));
+      }
+      for (var k = 0; k < d.length; k++) {
+        var ch = d.charAt(k);
+        if (ch === ' ' && ultimo === ' ') continue;
+        out += ch;
+        if (mapa) mapa.push(i);
+        ultimo = ch;
+      }
+    }
+    if (out.charAt(out.length - 1) === ' ') {
+      out = out.slice(0, -1);
+      if (mapa) mapa.pop();
+    }
+    return out;
+  }
+
+  // ---- Busca: sem acento, palavras em qualquer ordem, "frase entre aspas", ementa ----
+  // O texto pesquisável de cada decisão é preparado uma única vez, aqui, ao abrir a
+  // página; a cada tecla a busca só compara. Campos, do mais forte para o mais
+  // fraco na Relevância: número do recurso, resumo, crimes, palavras-chave, linha
+  // do relator e ementa oficial.
+  var PESOS = [8, 6, 5, 4, 3, 1];
+  var C_CITE = 0, C_TEMA = 1, C_CRIMES = 2, C_CHAVES = 3, C_META = 4, C_EMENTA = 5;
+  var dados = new Map();
+
+  function textoEmPartes(el) {
+    return el ? Array.prototype.map.call(el.childNodes, function (n) { return n.textContent; }).join(' ') : '';
+  }
+
+  function ementaDe(li) {
+    var tpl = li.querySelector('template.ementa');
+    return tpl ? (tpl.content ? tpl.content.textContent : tpl.textContent).trim() : '';
+  }
+
+  A.entries.forEach(function (li, i) {
+    dados.set(li, {
+      ordem: i,
+      campos: [
+        dobrar(textoEmPartes(li.querySelector('.cite'))),
+        dobrar(textoEmPartes(li.querySelector('.tema'))),
+        dobrar((li.getAttribute('data-crimes') || '').split('|').join(' · ')),
+        dobrar(li.getAttribute('data-search') || ''),
+        dobrar(textoEmPartes(li.querySelector('p.meta'))),
+        dobrar(ementaDe(li))
+      ]
+    });
+  });
+
+  // Termos da busca: separados por espaço; "entre aspas" vale como frase. Letra
+  // solta e palavras de ligação ("de", "em", "para") só contam dentro das aspas.
+  // Termo que começa com algarismo não pode vir colado a outro algarismo antes
+  // ("33" não acha "2033").
+  var PONTAS = /^[.,;:!?()[\]{}'"\u00ab\u00bb\u201c\u201d\u2018\u2019\u2013\u2014\/-]+|[.,;:!?()[\]{}'"\u00ab\u00bb\u201c\u201d\u2018\u2019\u2013\u2014\/-]+$/g;
+  var LIGACAO = ' o os as de da do das dos em no na nos nas um uma uns umas por para pra com que se ao aos ou pelo pela pelos pelas e ';
+
+  function lerBusca(texto) {
+    var termos = [];
+    var re = /"([^"]*)"?|(\S+)/g, m;
+    texto = String(texto || '').replace(/[\u201c\u201d\u00ab\u00bb]/g, '"');
+    while ((m = re.exec(texto))) {
+      var frase = m[1] !== undefined;
+      var t = frase ? dobrar(m[1]) : dobrar(m[2].replace(/"/g, '')).replace(PONTAS, '');
+      if (!t) continue;
+      if (!frase && ((t.length === 1 && !ehDigito(t)) || LIGACAO.indexOf(' ' + t + ' ') !== -1)) continue;
+      termos.push({ t: t, frase: frase, numero: ehDigito(t.charAt(0)) });
+    }
+    return termos;
+  }
+
+  var buscaLida = { texto: null, termos: [] };
+  function termosDaBusca() {
+    if (A.state.search !== buscaLida.texto) {
+      buscaLida.texto = A.state.search;
+      buscaLida.termos = lerBusca(A.state.search);
+    }
+    return buscaLida.termos;
+  }
+
+  function achar(campo, t, desde) {
+    var i = campo.indexOf(t.t, desde || 0);
+    if (t.numero) while (i > 0 && ehDigito(campo.charAt(i - 1))) i = campo.indexOf(t.t, i + 1);
+    return i;
+  }
+
+  var pontos = new Map(); // decisão -> pontuação na busca atual (usada pela Relevância)
+
+  G.busca = function (li) {
+    var termos = termosDaBusca();
+    var d = dados.get(li);
+    if (!d) return true;
+    var soma = 0;
+    for (var k = 0; k < termos.length; k++) {
+      var t = termos[k], achou = false;
+      for (var c = 0; c < d.campos.length; c++) {
+        var i = achar(d.campos[c], t);
+        if (i === -1) continue;
+        achou = true;
+        var inicio = i === 0 || !ehLetraOuDigito(d.campos[c].charAt(i - 1));
+        soma += PESOS[c] * (inicio ? 1.5 : 1) * (t.frase ? 1.5 : 1);
+      }
+      if (!achou) return false;
+    }
+    pontos.set(li, soma);
+    return true;
+  };
+
+  // Destaque dos termos no cartão (resumo, número, linha do relator e fichas), sem
+  // mexer no HTML das decisões: usa a CSS Custom Highlight API quando existe.
+  var temDestaque = !!(window.CSS && CSS.highlights && typeof window.Highlight === 'function');
+  var dobradosDoNo = new WeakMap();
+
+  function dobradoDoNo(no) {
+    var x = dobradosDoNo.get(no);
+    if (!x || x.valor !== no.nodeValue) {
+      var m = [];
+      x = { valor: no.nodeValue, t: dobrar(no.nodeValue, m), m: m };
+      dobradosDoNo.set(no, x);
+    }
+    return x;
+  }
+
+  function ocorrencias(texto, t) {
+    var lista = [], i = achar(texto, t);
+    while (i !== -1) {
+      lista.push(i);
+      i = achar(texto, t, i + t.t.length);
+    }
+    return lista;
+  }
+
+  function destacarCartoes(mostradas, termos) {
+    if (!temDestaque) return;
+    if (!termos.length) { CSS.highlights.delete('busca-v3'); return; }
+    var h = new Highlight();
+    mostradas.forEach(function (li) {
+      li.querySelectorAll('.tema, .cite, p.meta, .crimes button').forEach(function (el) {
+        var w = document.createTreeWalker(el, NodeFilter.SHOW_TEXT), no;
+        while ((no = w.nextNode())) {
+          var x = dobradoDoNo(no);
+          termos.forEach(function (t) {
+            ocorrencias(x.t, t).forEach(function (a) {
+              var r = document.createRange();
+              r.setStart(no, x.m[a]);
+              r.setEnd(no, x.m[a + t.t.length - 1] + 1);
+              h.add(r);
+            });
+          });
+        }
+      });
+    });
+    CSS.highlights.set('busca-v3', h);
+  }
+
+  // Trecho da ementa: quando algum termo não aparece no cartão e só está na
+  // ementa, mostra a passagem em volta da primeira ocorrência, com os termos marcados.
+  var comTrecho = new Set();
+
+  function intervalosNaEmenta(d, termos, de, ate) {
+    var lista = [];
+    termos.forEach(function (t) {
+      ocorrencias(d.ementaDob, t).forEach(function (a) {
+        var ini = d.ementaMapa[a], fim = d.ementaMapa[a + t.t.length - 1] + 1;
+        if (ini >= de && fim <= ate) lista.push([ini, fim]);
+      });
+    });
+    lista.sort(function (x, y) { return x[0] - y[0]; });
+    var juntos = [];
+    lista.forEach(function (x) {
+      var ult = juntos[juntos.length - 1];
+      if (ult && x[0] <= ult[1]) ult[1] = Math.max(ult[1], x[1]); else juntos.push([x[0], x[1]]);
+    });
+    return juntos;
+  }
+
+  function montarTrecho(li, d, termos, alvo) {
+    if (!d.ementaMapa) {
+      d.ementaTexto = ementaDe(li);
+      d.ementaMapa = [];
+      d.ementaDob = dobrar(d.ementaTexto, d.ementaMapa);
+    }
+    var a = achar(d.ementaDob, alvo);
+    if (a === -1) return null;
+    var orig = d.ementaTexto;
+    var ini = d.ementaMapa[a], fim = d.ementaMapa[a + alvo.t.length - 1] + 1;
+    var curto = !!(window.matchMedia && window.matchMedia('(max-width: 560px)').matches); // celular: trecho menor
+    var de = Math.max(0, ini - (curto ? 60 : 90)), ate = Math.min(orig.length, fim + (curto ? 110 : 170));
+    if (de > 0) { var esp = orig.lastIndexOf(' ', de); de = esp > de - 30 && esp !== -1 ? esp + 1 : de; }
+    if (ate < orig.length) { var esp2 = orig.indexOf(' ', ate); ate = esp2 !== -1 && esp2 < ate + 30 ? esp2 : ate; }
+    var p = document.createElement('p');
+    p.className = 'trecho-v3';
+    var rotulo = document.createElement('span');
+    rotulo.className = 'trecho-rotulo';
+    rotulo.textContent = 'Na ementa:';
+    p.appendChild(rotulo);
+    p.appendChild(document.createTextNode(' ' + (de > 0 ? '…' : '')));
+    var pos = de;
+    intervalosNaEmenta(d, termos, de, ate).forEach(function (x) {
+      if (x[0] > pos) p.appendChild(document.createTextNode(orig.slice(pos, x[0]).replace(/\s+/g, ' ')));
+      var mk = document.createElement('mark');
+      mk.textContent = orig.slice(x[0], x[1]);
+      p.appendChild(mk);
+      pos = x[1];
+    });
+    p.appendChild(document.createTextNode(orig.slice(pos, ate).replace(/\s+/g, ' ') + (ate < orig.length ? '…' : '')));
+    return p;
+  }
+
+  function atualizarTrechos(mostradas, termos) {
+    var agora = new Set();
+    if (termos.length) {
+      mostradas.forEach(function (li) {
+        var d = dados.get(li);
+        if (!d || !d.campos[C_EMENTA]) return;
+        var alvo = null;
+        for (var k = 0; k < termos.length && !alvo; k++) {
+          var t = termos[k];
+          var noCartao = achar(d.campos[C_CITE], t) !== -1 || achar(d.campos[C_TEMA], t) !== -1 ||
+            achar(d.campos[C_CRIMES], t) !== -1 || achar(d.campos[C_META], t) !== -1;
+          if (!noCartao && achar(d.campos[C_EMENTA], t) !== -1) alvo = t;
+        }
+        if (!alvo) return;
+        var chave = buscaLida.texto;
+        var velho = li.querySelector(':scope > .trecho-v3');
+        if (velho && velho._busca === chave) { agora.add(li); return; }
+        var novo = montarTrecho(li, d, termos, alvo);
+        if (!novo) return;
+        novo._busca = chave;
+        if (velho) velho.replaceWith(novo);
+        else {
+          var antes = li.querySelector(':scope > .crimes') || li.querySelector(':scope > p.meta');
+          if (antes) antes.after(novo); else li.appendChild(novo);
+        }
+        agora.add(li);
+      });
+    }
+    comTrecho.forEach(function (li) {
+      if (!agora.has(li)) {
+        var t = li.querySelector(':scope > .trecho-v3');
+        if (t) t.remove();
+      }
+    });
+    comTrecho = agora;
+  }
+
+  aoAplicar.push(function (info) {
+    var termos = termosDaBusca();
+    atualizarTrechos(info.mostradas, termos);
+    destacarCartoes(info.mostradas, termos);
+  });
+
+  // Botão ✕ para apagar a busca, dica "/" no computador e atalho "/" (que não
+  // dispara quando o foco já está num campo de texto).
+  var campoBusca = document.getElementById('searchInput');
+  var buscaLimpar = document.getElementById('buscaLimpar');
+  var caixaBusca = campoBusca ? campoBusca.parentNode : null;
+
+  function marcarCampoBusca() {
+    var tem = !!(campoBusca && campoBusca.value);
+    if (buscaLimpar) buscaLimpar.hidden = !tem;
+    if (caixaBusca) caixaBusca.classList.toggle('tem-texto', tem);
+  }
+
+  if (campoBusca) {
+    campoBusca.setAttribute('aria-keyshortcuts', '/');
+    campoBusca.addEventListener('input', marcarCampoBusca);
+    aoAplicar.push(marcarCampoBusca);
+    if (buscaLimpar) buscaLimpar.addEventListener('click', function () {
+      campoBusca.value = '';
+      campoBusca.dispatchEvent(new Event('input', { bubbles: true }));
+      campoBusca.focus();
+    });
+
+    // No celular, um exemplo mais curto cabe inteiro no campo
+    var exemploLongo = campoBusca.getAttribute('placeholder');
+    var telaEstreita = window.matchMedia ? window.matchMedia('(max-width: 560px)') : null;
+    var ajustarExemplo = function () {
+      campoBusca.setAttribute('placeholder', telaEstreita && telaEstreita.matches ? 'Buscar tema, relator, número…' : exemploLongo);
+    };
+    ajustarExemplo();
+    if (telaEstreita) {
+      if (telaEstreita.addEventListener) telaEstreita.addEventListener('change', ajustarExemplo);
+      else if (telaEstreita.addListener) telaEstreita.addListener(ajustarExemplo);
+    }
+  }
+
+  function ehCampoDeTexto(el) {
+    if (!el || el === document.body) return false;
+    if (el.isContentEditable) return true;
+    var tag = el.tagName;
+    if (tag === 'TEXTAREA' || tag === 'SELECT') return true;
+    if (tag !== 'INPUT') return false;
+    var tipo = (el.getAttribute('type') || 'text').toLowerCase();
+    return ['button', 'checkbox', 'radio', 'submit', 'reset', 'range', 'color', 'file', 'image'].indexOf(tipo) === -1;
+  }
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key !== '/' || !campoBusca || e.defaultPrevented) return;
+    if (e.metaKey || e.ctrlKey !== e.altKey) return; // aceita AltGr (Ctrl+Alt), recusa Ctrl ou Cmd sozinhos
+    if (ehCampoDeTexto(e.target) || ehCampoDeTexto(document.activeElement)) return;
+    var leitorAberto = document.getElementById('pdfViewer');
+    if (leitorAberto && leitorAberto.open) return;
+    e.preventDefault();
+    campoBusca.focus();
+    campoBusca.select();
+  });
 
   // Primeira atualização com os recursos v3 (mantém a página lida do endereço).
   A.aplicar(true);
