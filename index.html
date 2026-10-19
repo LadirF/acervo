@@ -1673,6 +1673,79 @@
     .controls.filtros-abertos #painelFiltros { animation: filtros-v3 .22s var(--ease); }
   }
 
+  /* --- Leitor de PDF v3: barra com zoom e página; a pinça amplia só o documento --- */
+  .viewer-head, .viewer-ferramentas, .viewer-busca { position: relative; z-index: 2; }
+  .viewer-body { position: relative; z-index: 1; touch-action: pan-x pan-y; }
+  .viewer-body:focus-visible { outline: 2px solid var(--focus); outline-offset: -2px; }
+
+  .viewer-ferramentas {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    background: var(--paper-raised);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .viewer-ferramentas[hidden] { display: none; }
+
+  .vf-grupo {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    padding: 2px;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+  }
+
+  .vf-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    min-width: 36px;
+    height: 32px;
+    padding: 0 10px;
+    font: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--ink);
+    background: transparent;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  .vf-btn:hover:not(:disabled) { background: var(--paper-raised); box-shadow: var(--shadow-sm); }
+  .vf-btn:disabled { opacity: 0.4; cursor: default; }
+  .vf-btn:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+
+  .vf-menos::before, .vf-mais::before {
+    content: "";
+    width: 16px;
+    height: 16px;
+    background: currentColor;
+    -webkit-mask: var(--icone) center / contain no-repeat;
+            mask: var(--icone) center / contain no-repeat;
+  }
+
+  .vf-menos { --icone: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.4' stroke-linecap='round'%3E%3Cpath d='M5 12h14'/%3E%3C/svg%3E"); }
+  .vf-mais { --icone: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.4' stroke-linecap='round'%3E%3Cpath d='M12 5v14M5 12h14'/%3E%3C/svg%3E"); }
+  .vf-zoom { min-width: 60px; font-variant-numeric: tabular-nums; }
+
+  .vf-pagina {
+    margin: 0 0 0 auto;
+    font-size: 13px;
+    color: var(--ink-muted);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  @media (pointer: coarse) {
+    .vf-btn { min-width: 42px; height: 40px; }
+  }
+
   /* --- Celular: cabeçalho mais baixo, para a primeira decisão aparecer logo --- */
   @media (max-width: 560px) {
     header.page-head { padding: 24px 16px 74px 26px; }
@@ -4889,6 +4962,14 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     <a class="viewer-btn primary" id="viewerDownload" href="#" download>Baixar PDF</a>
     <button type="button" class="viewer-btn close" id="viewerClose" aria-label="Fechar">✕</button>
   </div>
+  <div class="viewer-ferramentas" id="viewerFerramentas" role="toolbar" aria-label="Ferramentas do documento" hidden>
+    <div class="vf-grupo" role="group" aria-label="Zoom">
+      <button type="button" class="vf-btn vf-menos" id="zoomMenos" aria-label="Diminuir o zoom" title="Diminuir o zoom (tecla -)"></button>
+      <button type="button" class="vf-btn vf-zoom" id="zoomValor" title="Ajustar à largura (tecla 0)">100%</button>
+      <button type="button" class="vf-btn vf-mais" id="zoomMais" aria-label="Aumentar o zoom" title="Aumentar o zoom (tecla +)"></button>
+    </div>
+    <p class="vf-pagina" id="vfPagina"></p>
+  </div>
   <div class="viewer-body" id="viewerBody" aria-label="Documento PDF"></div>
 </dialog>
 
@@ -6604,6 +6685,354 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       li.focus({ preventScroll: true });
     });
     setTimeout(function () { li.classList.remove('em-destaque'); }, 4500);
+  }
+
+  // ---- Leitor de PDF v3: zoom (botões, teclado e pinça) e indicador de página ----
+  // O arquivo chega pelo caminho de sempre: o clique em "Abrir PDF" usa obterPdf()
+  // (PDF embutido no HTML do Drive ou pdfs/ID.pdf no site) e o script principal
+  // chama mostrarPdf(bytes, nome), que passa para cá pelo gancho. O PDF.js vem de
+  // carregarPdfjs(), o mesmo carregamento da página. Como antes, só as páginas
+  // perto da área visível são desenhadas; ao mudar o zoom, o desenho antigo fica
+  // (esticado) até o novo ficar pronto.
+  var leitorDialog = document.getElementById('pdfViewer');
+  var leitorCorpo = document.getElementById('viewerBody');
+  var leitorArquivo = document.getElementById('viewerFile');
+  var leitorFerramentas = document.getElementById('viewerFerramentas');
+  var zoomMenos = document.getElementById('zoomMenos');
+  var zoomValor = document.getElementById('zoomValor');
+  var zoomMais = document.getElementById('zoomMais');
+  var vfPagina = document.getElementById('vfPagina');
+  var aoTextoDaPagina = []; // function (folha): a camada de texto da página ficou pronta
+  var aoFecharPdf = [];     // function (): o documento foi fechado
+
+  if (leitorDialog && leitorCorpo && leitorFerramentas && zoomMenos && zoomValor && zoomMais && vfPagina) {
+    var L = { token: 0, doc: null, lib: null, base: 0, zoom: 1, folhas: [], quadro: 0, textos: null };
+    var ZOOMS = [0.5, 0.75, 1, 1.25, 1.5, 2, 2.5, 3, 4];
+    var LIMITE_PIXELS = 12000000; // por página; o Safari do iPhone recusa canvas muito grandes
+
+    leitorFerramentas.hidden = false;
+    leitorCorpo.tabIndex = 0; // rolagem pelo teclado
+
+    var zoomMaximo = function () { return leitorCorpo.clientWidth < 700 ? 4 : 3; };
+
+    var statusLeitor = function (msg) {
+      leitorCorpo.innerHTML = '';
+      var p = document.createElement('p');
+      p.className = 'viewer-status';
+      p.textContent = msg;
+      leitorCorpo.appendChild(p);
+    };
+
+    // iPhone: zerar o tamanho libera a memória do canvas na hora
+    var zerarCanvas = function (c) { c.width = 0; c.height = 0; };
+
+    var liberar = function (f) {
+      if (!f._ativa && !f.firstChild) return;
+      f._ativa = false;
+      f._ger++;
+      if (f._tarefa) { f._tarefa.cancel(); f._tarefa = null; }
+      Array.prototype.forEach.call(f.querySelectorAll('canvas'), zerarCanvas);
+      f.innerHTML = '';
+      f._textoPronto = false;
+      f._divs = f._strs = null;
+    };
+
+    // Marca a folha para ser desenhada de novo (novo zoom ou nova largura),
+    // sem apagar o desenho atual, que fica esticado até o novo ficar pronto
+    var redesenharDepois = function (f) {
+      if (!f._ativa && !f._tarefa) return;
+      f._ativa = false;
+      f._ger++;
+      if (f._tarefa) { f._tarefa.cancel(); f._tarefa = null; }
+    };
+
+    var fecharDoc = function () {
+      L.token++;
+      L.folhas.forEach(liberar);
+      L.folhas = [];
+      if (L.doc) { L.doc.destroy(); L.doc = null; }
+      L.textos = null;
+      aoFecharPdf.forEach(function (f) { f(); });
+    };
+
+    var larguraBase = function () {
+      return Math.min(leitorCorpo.clientWidth - (leitorCorpo.clientWidth < 600 ? 16 : 40), 920);
+    };
+
+    // Tamanho de cada folha: largura ajustada ao leitor vezes o zoom
+    var medir = function () {
+      var w = L.base * L.zoom;
+      L.folhas.forEach(function (f) {
+        f.style.width = w + 'px';
+        f.style.height = (w * f._prop) + 'px';
+        if (f._escala1) f.style.setProperty('--scale-factor', f._escala1 * L.zoom);
+      });
+    };
+
+    var folhaEm = function (y) {
+      for (var i = 0; i < L.folhas.length; i++) {
+        var f = L.folhas[i];
+        if (y < f.offsetTop + f.offsetHeight + 14) return f;
+      }
+      return L.folhas[L.folhas.length - 1] || null;
+    };
+
+    var desenhar = function (f) {
+      if (f._ativa) return;
+      f._ativa = true;
+      var ger = ++f._ger, token = L.token, lib = L.lib;
+      L.doc.getPage(f._n).then(function (page) {
+        if (token !== L.token || ger !== f._ger) return;
+        var v1 = page.getViewport({ scale: 1 });
+        f._prop = v1.height / v1.width;
+        f._escala1 = L.base / v1.width;
+        var vp = page.getViewport({ scale: f._escala1 * L.zoom });
+        f.style.width = vp.width + 'px';
+        f.style.height = vp.height + 'px';
+        f.style.setProperty('--scale-factor', vp.scale);
+        var dpr = Math.min(window.devicePixelRatio || 1, Math.sqrt(LIMITE_PIXELS / (vp.width * vp.height)));
+        var canvas = document.createElement('canvas');
+        canvas.width = Math.floor(vp.width * dpr);
+        canvas.height = Math.floor(vp.height * dpr);
+        var texto = document.createElement('div');
+        texto.className = 'textLayer';
+        var antigos = Array.prototype.slice.call(f.children);
+        if (!antigos.length) { f.appendChild(canvas); f.appendChild(texto); }
+        f._tarefa = page.render({
+          canvasContext: canvas.getContext('2d'),
+          viewport: vp,
+          transform: dpr !== 1 ? [dpr, 0, 0, dpr, 0, 0] : null
+        });
+        return f._tarefa.promise.then(function () {
+          if (token !== L.token || ger !== f._ger) { zerarCanvas(canvas); return; }
+          f._tarefa = null;
+          if (antigos.length) {
+            antigos.forEach(function (el) { if (el.tagName === 'CANVAS') zerarCanvas(el); el.remove(); });
+            f.appendChild(canvas);
+            f.appendChild(texto);
+          }
+          f._divs = [];
+          f._strs = [];
+          f._textoPronto = false;
+          var conteudo = L.textos && L.textos[f._n - 1] ? L.textos[f._n - 1].conteudo : page.streamTextContent();
+          return lib.renderTextLayer({ textContentSource: conteudo, container: texto, viewport: vp, textDivs: f._divs, textContentItemsStr: f._strs }).promise.then(function () {
+            if (token !== L.token || ger !== f._ger) return;
+            f._textoPronto = true;
+            aoTextoDaPagina.forEach(function (fn) { fn(f); });
+          });
+        });
+      }).catch(function () {
+        if (f._ger === ger) f._ativa = false; // desenho cancelado: pode tentar de novo
+      });
+    };
+
+    // Desenha as folhas perto da área visível (menos margem com zoom alto, para
+    // poupar memória) e libera as distantes; atualiza "Página X de N".
+    var atualizarLeitor = function () {
+      if (!L.doc || !L.folhas.length) return;
+      var topo = leitorCorpo.scrollTop, h = leitorCorpo.clientHeight;
+      var margem = h * (L.zoom > 1.5 ? 0.6 : 1.5);
+      L.folhas.forEach(function (f) {
+        var a = f.offsetTop, b = a + f.offsetHeight;
+        if (b > topo - margem && a < topo + h + margem) desenhar(f); else liberar(f);
+      });
+      var atual = folhaEm(topo + h / 2);
+      vfPagina.textContent = atual ? 'Página ' + atual._n + ' de ' + L.folhas.length : '';
+    };
+
+    var mostrarZoom = function () {
+      var pct = Math.round(L.zoom * 100) + '%';
+      zoomValor.textContent = pct;
+      zoomValor.setAttribute('aria-label', 'Zoom ' + pct + '. Ajustar à largura');
+      zoomMenos.disabled = !L.doc || L.zoom <= ZOOMS[0] + 0.001;
+      zoomMais.disabled = !L.doc || L.zoom >= zoomMaximo() - 0.001;
+      zoomValor.disabled = !L.doc;
+    };
+
+    // Muda o zoom mantendo parado o ponto do documento que estava sob `de`
+    // (posição dentro do leitor); com `para`, esse ponto termina sob `para`.
+    var ajustarZoom = function (novo, de, para) {
+      if (!L.doc || !L.folhas.length) return;
+      novo = Math.max(ZOOMS[0], Math.min(zoomMaximo(), novo));
+      if (Math.abs(novo - L.zoom) < 0.001) return;
+      de = de || { x: leitorCorpo.clientWidth / 2, y: leitorCorpo.clientHeight / 2 };
+      para = para || de;
+      var px = leitorCorpo.scrollLeft + de.x, py = leitorCorpo.scrollTop + de.y;
+      var f = folhaEm(py);
+      var rx = (px - f.offsetLeft) / f.offsetWidth, ry = (py - f.offsetTop) / f.offsetHeight;
+      L.zoom = novo;
+      L.folhas.forEach(redesenharDepois);
+      medir();
+      leitorCorpo.scrollLeft = f.offsetLeft + rx * f.offsetWidth - para.x;
+      leitorCorpo.scrollTop = f.offsetTop + ry * f.offsetHeight - para.y;
+      mostrarZoom();
+      atualizarLeitor();
+    };
+
+    var passoZoom = function (dir) {
+      var z = L.zoom, max = zoomMaximo();
+      var lista = ZOOMS.filter(function (x) { return x <= max + 0.001; });
+      var prox = dir > 0
+        ? lista.filter(function (x) { return x > z + 0.001; })[0]
+        : lista.filter(function (x) { return x < z - 0.001; }).pop();
+      if (prox) ajustarZoom(prox);
+    };
+
+    G.mostrarPdf = function (bytes, nome) {
+      fecharDoc();
+      var token = L.token;
+      L.zoom = 1;
+      mostrarZoom();
+      vfPagina.textContent = '';
+      leitorCorpo.scrollLeft = 0;
+      statusLeitor('Carregando…');
+      var lib;
+      try { lib = A.carregarPdfjs(); } catch (err) { lib = null; }
+      if (!lib) { statusLeitor('Não foi possível exibir o PDF aqui. Use “Baixar PDF”.'); return; }
+      L.lib = lib;
+      lib.getDocument({ data: bytes.slice(), isEvalSupported: false }).promise.then(function (doc) {
+        if (token !== L.token) { doc.destroy(); return; }
+        L.doc = doc;
+        if (leitorArquivo) leitorArquivo.textContent = nome + ' · ' + doc.numPages + (doc.numPages === 1 ? ' página' : ' páginas');
+        return doc.getPage(1).then(function (p1) {
+          if (token !== L.token) return;
+          leitorCorpo.innerHTML = '';
+          L.base = larguraBase();
+          var v = p1.getViewport({ scale: 1 });
+          for (var n = 1; n <= doc.numPages; n++) {
+            var f = document.createElement('div');
+            f.className = 'pdf-page';
+            f._n = n;
+            f._prop = v.height / v.width;
+            f._ger = 0;
+            leitorCorpo.appendChild(f);
+            L.folhas.push(f);
+          }
+          medir();
+          mostrarZoom();
+          atualizarLeitor();
+        });
+      }).catch(function () {
+        if (token === L.token) statusLeitor('Não foi possível exibir o PDF aqui. Use “Baixar PDF”.');
+      });
+    };
+
+    zoomMenos.addEventListener('click', function () { passoZoom(-1); });
+    zoomMais.addEventListener('click', function () { passoZoom(1); });
+    zoomValor.addEventListener('click', function () { ajustarZoom(1); });
+
+    leitorCorpo.addEventListener('scroll', function () {
+      if (L.quadro) return;
+      L.quadro = requestAnimationFrame(function () { L.quadro = 0; atualizarLeitor(); });
+    }, { passive: true });
+
+    // Celular girado ou janela redimensionada: refaz a largura ajustada,
+    // mantendo a página que estava no topo.
+    window.addEventListener('resize', function () {
+      if (!L.doc || !leitorDialog.open) return;
+      clearTimeout(L.tempoTela);
+      L.tempoTela = setTimeout(function () {
+        var nova = larguraBase();
+        if (Math.abs(nova - L.base) < 1) { atualizarLeitor(); return; }
+        var f = folhaEm(leitorCorpo.scrollTop);
+        var ry = (leitorCorpo.scrollTop - f.offsetTop) / f.offsetHeight;
+        var fator = nova / L.base;
+        L.base = nova;
+        L.folhas.forEach(function (x) {
+          if (x._escala1) x._escala1 *= fator;
+          redesenharDepois(x);
+        });
+        medir();
+        leitorCorpo.scrollTop = f.offsetTop + ry * f.offsetHeight;
+        mostrarZoom();
+        atualizarLeitor();
+      }, 150);
+    });
+
+    // Teclado: + e - mudam o zoom, 0 ajusta à largura (fora dos campos de texto)
+    leitorDialog.addEventListener('keydown', function (e) {
+      if (e.ctrlKey || e.metaKey || e.altKey || ehCampoDeTexto(e.target)) return;
+      if (e.key === '+' || e.key === '=') { e.preventDefault(); passoZoom(1); }
+      else if (e.key === '-' || e.key === '_') { e.preventDefault(); passoZoom(-1); }
+      else if (e.key === '0') { e.preventDefault(); ajustarZoom(1); }
+    });
+
+    // Pinça: durante o gesto a imagem é ampliada na hora (transform); ao soltar,
+    // as páginas são redesenhadas nítidas no novo zoom, com o mesmo ponto sob os dedos.
+    var pinca = null;
+    var comecarPinca = function (x, y) {
+      var caixa = leitorCorpo.getBoundingClientRect();
+      pinca = { z0: L.zoom, x0: x - caixa.left, y0: y - caixa.top, x: x - caixa.left, y: y - caixa.top, s: 1, caixa: caixa };
+      leitorCorpo.style.transformOrigin = pinca.x0 + 'px ' + pinca.y0 + 'px';
+    };
+    var moverPinca = function (escala, x, y) {
+      var z = Math.max(ZOOMS[0], Math.min(zoomMaximo(), pinca.z0 * escala));
+      pinca.s = z / pinca.z0;
+      pinca.x = x - pinca.caixa.left;
+      pinca.y = y - pinca.caixa.top;
+      leitorCorpo.style.transform = 'translate(' + (pinca.x - pinca.x0) + 'px, ' + (pinca.y - pinca.y0) + 'px) scale(' + pinca.s + ')';
+    };
+    var terminarPinca = function () {
+      if (!pinca) return;
+      var p = pinca;
+      pinca = null;
+      leitorCorpo.style.transform = '';
+      leitorCorpo.style.transformOrigin = '';
+      if (Math.abs(p.s - 1) > 0.02) ajustarZoom(p.z0 * p.s, { x: p.x0, y: p.y0 }, { x: p.x, y: p.y });
+    };
+    var distancia = function (t) { return Math.sqrt(Math.pow(t[0].clientX - t[1].clientX, 2) + Math.pow(t[0].clientY - t[1].clientY, 2)); };
+
+    leitorCorpo.addEventListener('touchstart', function (e) {
+      if (e.touches.length !== 2 || !L.doc) return;
+      comecarPinca((e.touches[0].clientX + e.touches[1].clientX) / 2, (e.touches[0].clientY + e.touches[1].clientY) / 2);
+      pinca.d0 = distancia(e.touches);
+    }, { passive: true });
+    leitorCorpo.addEventListener('touchmove', function (e) {
+      if (!pinca || e.touches.length !== 2 || !pinca.d0) return;
+      e.preventDefault();
+      moverPinca(distancia(e.touches) / pinca.d0, (e.touches[0].clientX + e.touches[1].clientX) / 2, (e.touches[0].clientY + e.touches[1].clientY) / 2);
+    }, { passive: false });
+    leitorCorpo.addEventListener('touchend', function (e) { if (e.touches.length < 2) terminarPinca(); });
+    leitorCorpo.addEventListener('touchcancel', terminarPinca);
+
+    // Safari: a pinça não amplia a página inteira; no Mac (trackpad, sem toque) vira zoom do PDF
+    var semToque = !navigator.maxTouchPoints;
+    leitorCorpo.addEventListener('gesturestart', function (e) {
+      e.preventDefault();
+      if (semToque && L.doc && !pinca) comecarPinca(e.clientX, e.clientY);
+    });
+    leitorCorpo.addEventListener('gesturechange', function (e) {
+      e.preventDefault();
+      if (semToque && pinca) moverPinca(e.scale, e.clientX, e.clientY);
+    });
+    leitorCorpo.addEventListener('gestureend', function (e) {
+      e.preventDefault();
+      if (semToque) terminarPinca();
+    });
+
+    // Ctrl + roda do mouse ou pinça no trackpad (Chrome, Edge, Firefox): zoom do PDF
+    leitorCorpo.addEventListener('wheel', function (e) {
+      if (!e.ctrlKey || !L.doc) return;
+      e.preventDefault();
+      if (!pinca) { comecarPinca(e.clientX, e.clientY); pinca.acumulado = 1; }
+      pinca.acumulado *= Math.exp(-e.deltaY / 250);
+      moverPinca(pinca.acumulado, pinca.x0 + pinca.caixa.left, pinca.y0 + pinca.caixa.top);
+      clearTimeout(L.tempoRoda);
+      L.tempoRoda = setTimeout(terminarPinca, 180);
+    }, { passive: false });
+
+    // Fechou (✕, Esc ou clique fora): para os desenhos e libera a memória. O
+    // evento pode chegar atrasado, depois de reabrir; aí não faz nada.
+    leitorDialog.addEventListener('close', function () {
+      if (leitorDialog.open) return;
+      pinca = null;
+      leitorCorpo.style.transform = '';
+      fecharDoc();
+      mostrarZoom();
+      vfPagina.textContent = '';
+    });
+
+    mostrarZoom();
   }
 
   // Primeira atualização com os recursos v3 (mantém a página lida do endereço).
