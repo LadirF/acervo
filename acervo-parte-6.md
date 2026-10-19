@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 6 de 20 (decisões 51 a 60)
+# Acervo de Jurisprudência — Cury Advogados — parte 6 de 22 (decisões 51 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 199 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 219 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,154 +8,181 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. AgRg no PExt no RHC nº 219617 / RS (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Agravo regimental não serve para impugnar acórdão colegiado. De ofício, foi flexibilizada a cautelar que proibia a ré, primária, de visitar o companheiro preso, porque a medida já durava mais de um ano. Ela pode levar o filho de 2 anos para ver o pai, com agendamento e acompanhamento de assistente social (proporcionalidade e vínculos familiares).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-219617.pdf
+## 51. HC nº 1109575 / MS (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/10/2026.
+- Crime / Tema: Organização criminosa · Corrupção ativa · Prisão e medidas cautelares
+- Resumo: As cautelas devem ser progressivas (art. 282, §§ 4º e 6º, do CPP). Diante de fatos novos (denúncia rejeitada em outro processo e suspensão da OAB negada), ré primária, crime sem violência e instrução demorada, a domiciliar foi substituída por medidas do art. 319 do CPP.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109575.pdf
 - Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM RECURSO EM HABEAS CORPUS. INADEQUAÇÃO RECURSAL. AUSÊNCIA DE PREVISÃO LEGAL E REGIMENTAL PARA IMPUGNAR ACÓRDÃO COLEGIADO. DIREITO DE VISITA. PRESERVAÇÃO DE VÍNCULOS FAMILIARES. PRINCÍPIO DA PROPORCIONALIDADE. FLEXIBILIZAÇÃO DE MEDIDA CAUTELAR, COM CONDIÇÕES.
-  > 1. O agravo regimental não é meio idôneo para impugnar acórdão proferido por órgão colegiado, ante a falta de previsão legal e regimental, consoante a jurisprudência desta Corte.
-  > 2. É possível a concessão de ordem de ofício, considerados o direito de visita e a preservação dos vínculos familiares da recorrente com o companheiro recolhido ao estabelecimento prisional, em especial para viabilizar o convívio do filho menor, observados critérios de necessidade e proporcionalidade.
-  > 3. Agravo regimental não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
-  > (AgRg no PExt no RHC n. 219.617/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
+  > PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO ATIVA. PRISÃO CAUTELAR SUBSTITUÍDA POR PRISÃO DOMICILIAR PELO TRIBUNAL DE JUSTIÇA. PROGRESSIVIDADE DAS CAUTELAS (ART. 282, §§ 4º E 6º, DO CPP). ADEQUAÇÃO E SUFICIÊNCIA DAS MEDIDAS DO ART. 319 DO CPP. FATOS SUPERVENIENTES. DELITOS SEM VIOLÊNCIA OU GRAVE AMEAÇA. PRIMARIEDADE, BONS ANTECEDENTES E DEMORA NA INSTRUÇÃO. DEMAIS ALEGAÇÕES. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO NA VIA ESTREITA DO HABEAS CORPUS.
+  > 1. A paciente teve a prisão preventiva decretada, em 21/10/2025, no bojo da Operação Blindagem do GAECO, que apura organização criminosa vinculada ao PCC, e, em 19/12/2025, o Tribunal de Justiça substituiu por prisão domiciliar com monitoramento eletrônico.
+  > 2. À luz dos fatos supervenientes apresentados pela defesa – rejeição da denúncia pelo Juízo da 4ª Vara de Entorpecentes do Distrito Federal na Ação Penal n. 0727498-84.2025.8.07.0001 e improcedência da suspensão preventiva da paciente no Tribunal de Ética e Disciplina da Ordem dos Advogados do Brasil, Seção de Mato Grosso do Sul –, somados à primariedade, aos bons antecedentes e à demora na instrução, revela-se adequada a substituição da prisão domiciliar por medidas cautelares menos gravosas, nos termos do art. 319 do Código de Processo Penal e do preceito de progressividade das cautelas do art. 282, §§ 4º e 6º, do Código de Processo Penal.
+  > 3. A gravidade em abstrato dos delitos, por si, não demonstra periculosidade elevada nem abalo da ordem pública aptos a justificar a segregação provisória, sendo suficientes medidas cautelares alternativas.
+  > 4. A pretensão defensiva quanto à inexistência de interceptações diretamente vinculadas à paciente, à interpretação de diálogos de terceiros sobre a alcunha “dona” e à alegada incapacidade física e cognitiva exige revolvimento do conjunto fático-probatório, incompatível com a cognição sumária e a via estreita do habeas corpus.
+  > 5. Ordem concedida nos termos do dispositivo.
+  > (HC n. 1.109.575/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
 
-## 52. REsp nº 2245812 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
-- Crime / Tema: Tráfico de drogas · Prova digital
-- Resumo: Policial que atende ligação no celular do abordado, sem consentimento nem ordem judicial, produz prova ilícita. A apreensão posterior de 54,27 g de cocaína com o adolescente que ligou deriva disso, sem fonte independente nem descoberta inevitável. Condenação anulada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245812.pdf
+## 52. HC nº 1128832 / CE (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 13/10/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Resumo: Errar a alínea do art. 593, III, do CPP no termo da apelação contra o Júri é mera irregularidade se as razões delimitam os pedidos. Recusar-se a julgar a apelação por isso é negativa de prestação jurisdicional. Ordem de ofício para o TJ julgar.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128832.pdf
 - Ementa oficial:
-  > RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. CONDENAÇÃO. NULIDADE. ACESSO À COMUNICAÇÃO TELEFÔNICA DO RÉU DURANTE ABORDAGEM. SUBSEQUENTE APREENSÃO DE ADOLESCENTE PORTANDO ENTORPECENTES. APREENSÃO DE 54,27 G DE COCAÍNA. ILEGALIDADE RECONHECIDA. CONDENAÇÃO ANULADA.
-  > 1. Hipótese em que a prisão do recorrente somente ocorreu em razão de os policiais terem acessado o conteúdo de comunicação telefônica em seu aparelho celular no exato momento da abordagem, sem consentimento livre ou autorização judicial, descobrindo o seu envolvimento no delito objeto do flagrante.
-  > 2. As provas confirmando o envolvimento do réu somente aconteceram em razão de os policiais terem atendido ilegalmente a ligação telefônica no momento de abordagem em que nada ilícito havia sido localizado. Caso não tivessem efetuado o acesso ao celular do recorrente naquele exato momento, não teria havido apreensão posterior de 54,27 g de cocaína em poder do adolescente interlocutor da chamada.
-  > 3. Não tendo a autoridade policial permissão do titular da linha telefônica ou mesmo da Justiça para ler mensagens nem para atender o telefone móvel da pessoa sob investigação ou travar conversa por meio do aparelho com qualquer interlocutor, a prova obtida dessa maneira é ilícita.
-  > 4. Cabe ao magistrado abstrair a prova daí originada do conjunto probatório, porque alcançada sem observância das regras de Direito que disciplinam a execução do jus puniendi. O vício ocorrido na fase investigativa atinge o desenvolvimento da ação penal, pois não há prova produzida por fonte independente ou cuja descoberta seria inevitável.
-  > 5. Recurso especial provido.
-  > (REsp n. 2.245.812/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
+  > DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRIBUNAL DO JÚRI. APELAÇÃO CRIMINAL. INDICAÇÃO EQUIVOCADA DO DISPOSITIVO LEGAL NO TERMO DE INTERPOSIÇÃO. DELIMITAÇÃO DOS PEDIDOS NAS RAZÕES RECURSAIS. MERA IRREGULARIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO.
+  > 1. O Superior Tribunal de Justiça não conhece de habeas corpus utilizado como sucedâneo de recurso próprio, ressalvada a possibilidade de concessão da ordem de ofício diante de flagrante ilegalidade.
+  > 2. A falta ou a indicação incorreta das alíneas do art. 593, III, do CPP constitui mera irregularidade quando as razões recursais apresentam os fundamentos do recurso e delimitam adequadamente as pretensões da defesa.
+  > 3. A recusa de apreciação da apelação criminal, nas circunstâncias em que o vício formal não impede a identificação dos fundamentos e pedidos recursais, configura indevida negativa de prestação jurisdicional.
+  > 4. Impetração não conhecida. Ordem concedida de ofício.
+  > (HC n. 1.128.832/CE, relator Ministro Og Fernandes, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
 
-## 53. HC nº 1134665 / SP (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
-- Crime / Tema: Homicídio qualificado · Execução penal
-- Resumo: A lei não exige passagem pelo regime semiaberto para o livramento condicional (art. 83 do CP). Negar o benefício para "observar" o condenado no regime intermediário cria requisito que a lei não prevê. Ordem concedida para o juízo da execução reapreciar o pedido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134665.pdf
+## 53. RHC nº 248906 / BA (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/10/2026.
+- Crime / Tema: Tráfico de drogas · Dosimetria
+- Resumo: A detração do art. 387, § 2º, do CPP tem de ser feita já na sentença para fixar o regime inicial; não pode ser deixada para a Vara de Execuções. Descontada a prisão provisória, a pena de 9 anos caía abaixo de 8, e o tribunal se recusou a examinar isso. Autos devolvidos ao TJBA para refazer o regime, com reflexo na preventiva.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248906.pdf
 
-## 54. REsp nº 2291906 / SP (STJ)
-- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Contrabando · Dosimetria
-- Resumo: Contrabando cometido em abril de 2014, antes da Lei 13.008/2014 (que criou o art. 334-A, com pena de 2 a 5 anos), segue a pena do antigo art. 334 do CP (1 a 4 anos): a lei mais grave não retroage. Pena reduzida de 2 para 1 ano; sursis processual negado por condenação anterior.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2291906.pdf
+## 54. ARE nº 1.600.294 / RJ (STF)
+- Decisão colegiada (repercussão geral). Relator: Ministro Presidente. Plenário. Publicado em 08/10/2026.
+- Crime / Tema: Estupro de vulnerável · Repercussão geral
+- Resumo: Tema 1.485/STF (repercussão geral reconhecida, mérito pendente). Vai decidir se é constitucional absolver por estupro de vulnerável (art. 217-A do CP), contra vítima menor de 14 anos, por erro de tipo baseado no consentimento ou comportamento da vítima e na declaração do réu de que desconhecia a idade, e qual o padrão de prova para reconhecer esse erro.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1600294.pdf
+- Ementa oficial:
+  > EMENTA SOBRE REPERCUSSÃO GERAL: DIREITO CONSTITUCIONAL E PENAL. CRIME DE ESTUPRO DE VULNERÁVEL CONTRA MENOR DE 14 ANOS. ERRO DE TIPO INVENCÍVEL FUNDAMENTADO NO CONSENTIMENTO DA VÍTIMA E NA DECLARAÇÃO UNILATERAL DO OFENSOR SOBRE O DESCONHECIMENTO DA IDADE REAL DA OFENDIDA. PRESUNÇÃO DA VIOLÊNCIA. PRINCÍPIO DA PROTEÇÃO INTEGRAL DA CRIANÇA E DO ADOLESCENTE. TRATADOS INTERNACIONAIS SOBRE DIREITOS HUMANOS. QUESTÃO RELEVANTE DO PONTO DE VISTA SOCIAL E JURÍDICO. REPERCUSSÃO GERAL RECONHECIDA.
+  > I. CASO EM EXAME
+  > 1. Recurso extraordinário em que se discute a possibilidade de afastamento da condenação penal por crime de estupro de vulnerável contra vítima menor de 14 anos mediante o reconhecimento de erro de tipo fundamentado no consentimento da ofendida e no desconhecimento do ofensor acerca da real dela.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 2. A questão em discussão consiste em analisar se, no crime previsto no art. 217-A do Código Penal praticado contra vítima menor de 14 anos, a absolvição por erro de tipo fundamentado no consentimento e comportamento da vítima e no desconhecimento do ofensor acerca da idade real da ofendida viola os arts. 1º, III, 1º, III, 5º, LIV e LV, 93, IX e 227, da Constituição Federal.
+  > III. RAZÕES DE DECIDIR
+  > 3. Constitui questão constitucional relevante decidir, nos termos dos princípios mencionados, se é constitucional admitir absolvição pelo crime de estupro de vulnerável praticado contra vítima menor de 14 anos mediante mecanismo dogmático fundamentado no consentimento da vítima e na declaração do ofensor de desconhecimento acerca da idade real da ofendida, à luz do princípio da proteção integral da criança e do adolescente e dos deveres de prevenção, punição e erradicação da violência sexual contra crianças e adolescentes.
+  > IV. DISPOSITIVO E TESE
+  > 4. Repercussão geral reconhecida para as seguintes questões constitucionais: (i) a possibilidade de afastamento da condenação penal no crime previsto no art. 217-A do Código Penal mediante o reconhecimento de erro de tipo invencível fundamentado no consentimento da vítima e na declaração do ofensor de desconhecimento da idade real da ofendida; (ii) o padrão probatório exigido para o reconhecimento de erro de tipo sobre a idade da vítima no crime de estupro de vulnerável.
+  > (STF, ARE n. 1.600.294 RG/RJ, relator Ministro Presidente, Tribunal Pleno, julgado em 25/9/2026, DJe de 8/10/2026.)
 
-## 55. AgRg no HC nº 1109944 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
+## 55. AgRg no RHC nº 218928 / GO (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas; redator do acórdão: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 08/10/2026.
+- Crime / Tema: Tráfico de drogas · Corrupção de menores · Fundada suspeita · Inviolabilidade de domicílio · Justa causa
+- Resumo: Ficar numa praça não é fundada suspeita para revistar adolescente (art. 244 do CPP). As provas derivadas, inclusive as do ingresso na casa do réu, sem fundadas razões e sem consentimento documentado, são ilícitas. O tráfico ser crime permanente não basta. Sem justa causa restante, ação penal trancada. Vencidos a relatora e o Min. Messod Azulay Neto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-218928.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. BUSCA PESSOAL SEM FUNDADA SUSPEITA. INGRESSO DOMICILIAR SEM MANDADO E SEM CONSENTIMENTO VÁLIDO. PROVAS ILÍCITAS E DERIVADAS. TRANCAMENTO DA AÇÃO PENAL. AGRAVO PROVIDO; RECURSO ORDINÁRIO PROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus.
+  > 2. Fato relevante. Denúncia pela suposta prática dos crimes do art. 244-B da Lei n. 8.069/1990 e do art. 33, caput, da Lei n. 11.343/2006, após abordagem de adolescente em praça pública, apreensão de drogas em sua posse, indicação de endereço e ingresso em residência do Recorrente, onde foram apreendidas balança de precisão e porções de cocaína.
+  > 3. As decisões anteriores. Prisão em flagrante convertida em prisão preventiva, posteriormente substituída por medida cautelar de recolhimento domiciliar noturno com monitoração eletrônica (CPP, art. 319, V). Parecer do Ministério Público Federal pelo provimento do recurso. Voto divergente para reconhecer nulidade das buscas e determinar o trancamento da ação penal.
+  > II. Questão em discussão
+  > 2. Há três questões em discussão: (i) saber se a abordagem e a busca pessoal realizadas contra o adolescente são ilegais por ausência de fundada suspeita (CPP, art. 244), aferível de plano a partir das premissas fáticas fixadas na origem; (ii) saber se o ingresso domiciliar sem mandado é ilícito por ausência de fundadas razões prévias e de consentimento válido, bem como se as provas obtidas no domicílio estão contaminadas pela prova ilícita precedente (CF/1988, art. 5º, LVI; CPP, art. 157, § 1º); e (iii) saber se é cabível o trancamento da ação penal, por habeas corpus, diante da nulidade das provas e da ausência de justa causa remanescente, sem revolvimento do conjunto fático-probatório.
+  > III. Razões de decidir
+  > 4. A busca pessoal sem mandado exige fundada suspeita concreta e objetivamente demonstrável de posse de corpo de delito (CPP, art. 244). A abordagem do adolescente baseou-se apenas em sua permanência em praça pública, sem elementos objetivos mínimos, o que torna ilícita a revista e o resultado probatório dela decorrente, conclusão possível na via do habeas corpus por qualificação jurídica das premissas fáticas já fixadas.
+  > 5. As provas subsequentes derivam diretamente da busca pessoal ilegal, incidindo a teoria dos frutos da árvore envenenada (CF/1988, art. 5º, LVI; CPP, art. 157, § 1º), com necessidade de desentranhamento dos elementos probatórios obtidos por derivação.
+  > 6. O ingresso domiciliar sem mandado demanda fundadas razões prévias e objetivas de flagrante delito, aferidas antes da diligência, e eventual consentimento deve ser voluntário e documentado, com ônus do Estado de comprovar sua higidez; inexistentes elementos independentes e documentação do consentimento, é nulo o ingresso.
+  > 7. A natureza permanente do tráfico não autoriza, por si só, o ingresso domiciliar sem mandado; exige-se demonstração de circunstâncias concretas que indiquem flagrante no momento e local do ingresso, o que não ocorreu.
+  > 8. A nulidade das buscas e a inadmissibilidade das provas ilícitas e derivadas suprimem a justa causa, configurando constrangimento ilegal sanável por habeas corpus, sendo cabível o trancamento imediato da ação penal.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental provido para dar provimento ao recurso ordinário em habeas corpus, declarar a nulidade da abordagem e da busca pessoal contra o adolescente, reconhecer a ilicitude das provas derivadas, inclusive as obtidas no ingresso domiciliar, determinar o desentranhamento e decretar o trancamento da ação penal.
+  > Tese de julgamento:
+  > 1. A busca pessoal sem mandado exige fundada suspeita concreta e objetivamente demonstrável, não se legitimando por percepções subjetivas.
+  > 2. O ingresso domiciliar sem mandado somente é válido quando amparado em fundadas razões prévias de flagrante e em consentimento voluntário e documentado, cujo ônus probatório incumbe ao Estado.
+  > 3. São inadmissíveis as provas obtidas por busca pessoal ilegal e as delas derivadas, devendo ser desentranhadas dos autos.
+  > 4. Removidas as provas ilícitas e derivadas, ausente justa causa, impõe-se o trancamento da ação penal.
+  > (AgRg no RHC n. 218.928/GO, relatora Ministra Maria Marluce Caldas, relator para acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/9/2026, DJEN de 8/10/2026.)
+
+## 56. AgRg no REsp nº 2271906 / RS (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
-- Resumo: Mudar de rota ao avistar a viatura, em patrulhamento de rotina, não é fundada suspeita para busca pessoal (art. 244 do CPP), e o flagrante descoberto depois não convalida a revista. Prova ilícita (radiotransmissor) e absolvição do "olheiro" (art. 37 da Lei 11.343/2006) mantida; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109944.pdf
+- Resumo: Denúncia anônima com descrição que bate com o abordado, somada à mera presença em ponto de venda de drogas, sem elemento objetivo verificável na hora, não é fundada suspeita (arts. 240, § 2º, e 244 do CPP). Provas nulas e absolvição mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2271906.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 37 DA LEI N. 11.343/2006. OLHEIRO. COLABORAÇÃO COM GRUPO CRIMINOSO VOLTADO AO TRÁFICO DE DROGAS. BUSCA PESSOAL SEM FUNDADA SUSPEITA. PROVAS ILÍCITAS. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BUSCA PESSOAL FUNDADA EXCLUSIVAMENTE EM DENÚNCIA ANÔNIMA. AUSÊNCIA DE FUNDADA SUSPEITA. NULIDADE DAS PROVAS. ABSOLVIÇÃO MANTIDA. AGRAVO DESPROVIDO.
   > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto por órgão ministerial estadual contra decisão que concedeu ordem de habeas corpus para absolver acusado do art. 37 da Lei n. 11.343/2006, em razão da ilicitude das provas obtidas em busca pessoal realizada sem fundada suspeita.
-  > 2. Fato relevante. Abordagem em patrulhamento de rotina justificada pelas instâncias ordinárias exclusivamente pela alteração de rota ao avistar guarnição, seguida de revista que resultou na apreensão de radiotransmissor, sem prévia indicação concreta de posse de objetos ilícitos ou prática criminosa.
-  > 3. Pleito recursal. O agravante sustenta a legitimidade da busca pessoal à luz do art. 244 do CPP e requer a reconsideração da decisão ou submissão ao colegiado.
+  > 1. O recurso. Agravo regimental interposto pelo Ministério Público estadual contra decisão que deu provimento ao recurso especial defensivo, reconheceu a nulidade das provas colhidas em busca pessoal e absolveu o acusado.
+  > 2. Fato relevante. Denúncia anônima sobre comércio de drogas nas redondezas de escola motivou diligência policial e abordagem do agravado, cuja descrição correspondia às informações recebidas; na busca pessoal, foram apreendidas porções de maconha e crack, além de balança de precisão.
+  > 3. As decisões anteriores. Instâncias ordinárias consignaram ausência de justificativa objetiva para a abordagem, realizada apenas pela presença do agravado em local apontado como ponto de venda de entorpecentes; a decisão agravada concluiu pela nulidade da diligência e das provas dela derivadas e pela absolvição por falta de provas válidas.
   > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se a mera mudança de direção ao avistar guarnição policial, em contexto de patrulhamento de rotina, configura fundada suspeita, nos termos do art. 244 do CPP, apta a legitimar a busca pessoal e, por consequência, a validade das provas obtidas.
-  > 5. A questão em discussão consiste em saber se a posterior constatação de situação de flagrância pode convalidar busca pessoal realizada sem demonstração prévia de justa causa baseada em elementos objetivos.
+  > 4. A questão em discussão consiste em saber se a denúncia anônima, ainda que qualificada, aliada à mera presença do abordado em local apontado como ponto de venda de drogas, sem elementos objetivos imediatamente verificáveis, configura fundada suspeita apta a autorizar busca pessoal (CPP, arts. 240, § 2º, e 244).
+  > 5. A questão em discussão consiste em saber se, reconhecida a ilicitude da busca pessoal, as provas dela derivadas devem ser excluídas e se a absolvição é medida impositiva por ausência de provas remanescentes válidas (CPP, art. 157, caput e § 1º).
   > III. Razões de decidir
-  > 6. A busca pessoal sem mandado exige fundada suspeita prévia, objetiva e verificável de posse de arma proibida ou de objetos ou papéis que constituam corpo de delito (CPP, art. 244); a alteração de rota, isoladamente, não satisfaz esse padrão.
-  > 7. A apreensão do radiotransmissor, fruto da própria diligência invasiva, não pode servir para convalidar a medida a posteriori, sob pena de inversão do standard probatório exigido.
-  > 8. Reconhecida a ausência de fundadas razões para a revista, as provas obtidas e as dela derivadas são ilícitas, impondo-se a absolvição com fundamento no art. 386, VII, do CPP.
+  > 6. A busca pessoal exige fundada suspeita, nos termos do § 2º do art. 240 do Código de Processo Penal, não sendo suficiente a denúncia anônima desacompanhada de elementos objetivos imediatamente constatáveis para legitimar medida invasiva.
+  > 7. A mera presença do abordado em local conhecido pelo tráfico de drogas e a compatibilidade de características com as informações recebidas configuram juízo subjetivo, insuficiente para autorizar a revista sem indicação concreta de corpo de delito ou de posse de arma proibida.
+  > 8. Reconhecida a ilicitude da busca pessoal, aplicam-se as regras de exclusão probatória e de contaminação dos elementos dela derivados (CPP, art. 157, caput e § 1º), o que invalida as apreensões e demais elementos informativos subsequentes.
+  > 9. Inexistindo provas válidas suficientes, impõe-se manter a absolvição, não sendo os argumentos de eficiência administrativa ou de segurança pública aptos a dispensar as garantias legais para a realização de busca pessoal.
   > IV. Dispositivo e tese
-  > 9. Resultado do Julgamento: Agravo regimental improvido.
+  > 10. Resultado do Julgamento: Agravo regimental desprovido.
+  > (AgRg no REsp n. 2.271.906/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
+
+## 57. AgRg no HC nº 1104246 / SP (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
+- Resumo: Com denúncia restrita a 8,28 g de cocaína (a parte da maconha foi arquivada), réu primário e crime sem violência, a preventiva não se sustenta. Medidas cautelares do art. 319, I e IV, do CPP são suficientes. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104246.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. DELIMITAÇÃO ACUSATÓRIA À PEQUENA QUANTIDADE DE DROGAS. PRIMARIEDADE. MEDIDAS CAUTELARES ALTERNATIVAS SUFICIENTES. ORDEM CONCEDIDA E MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. CASO EM EXAME:
+  > 1. Agravo regimental interposto pelo órgão ministerial estadual contra decisão monocrática que concedeu a ordem em habeas corpus para substituir a prisão preventiva do paciente por medidas cautelares previstas no art. 319, incisos I e IV, do Código de Processo Penal.
+  > 2. Prisão em flagrante e posterior decretação da prisão preventiva por suposta prática do art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 541,93 g de maconha e 18 porções de cocaína (8,28 g). Posteriormente, denúncia ofertada apenas pela posse das 18 porções de cocaína (8.28 g) e arquivamento do inquérito quanto às porções de maconha. Paciente primário. Crime sem violência ou grave ameaça.
+  > 3. Tribunal de origem denegou a ordem. Nesta Corte, decisão monocrática concedeu o habeas corpus e aplicou medidas cautelares alternativas do art. 319, I e IV, do CPP, contra a qual se volta o agravante.
+  > II. QUESTÃO EM DISCUSSÃO:
+  > 4. Há duas questões em discussão: (i) se diante da denúncia restrita à posse de 18 porções de cocaína (8,28 g), da primariedade e da inexistência de violência ou grave ameaça, estão presentes fundamentos concretos e contemporâneos do art. 312 do CPP aptos a justificar a manutenção da prisão preventiva; e (ii) se medidas cautelares diversas da prisão, nos termos do art. 319 do CPP, mostram-se suficientes e proporcionais para resguardar a ordem pública no caso concreto.
+  > III. RAZÕES DE DECIDIR:
+  > 5. A prisão preventiva, como ultima ratio, exige fundamentação concreta e atual do periculum libertatis, nos termos do art. 312 do CPP, não se bastando na gravidade em abstrato do delito ou em elementos que não integrem o objeto efetivo da acusação.
+  > 6. A delimitação acusatória às 18 porções de cocaína (8,28 g), aliada à primariedade e à ausência de violência ou grave ameaça, não revela, por si, indispensabilidade da custódia cautelar, sendo adequada a substituição por medidas alternativas menos gravosas previstas no art. 319, incisos I e IV, do CPP, as quais se mostram-se suficientes para resguardar a ordem pública e a eficácia do processo.
+  > 7. O agravante não apresentou elementos contemporâneos que evidenciem risco atual específico ou descumprimento das cautelares impostas, razão pela qual mantém-se a decisão agravada.
+  > IV. DISPOSITIVO:
+  > 8. Agravo regimental não provido.
+  > (AgRg no HC n. 1.104.246/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
+
+## 58. AgRg no HC nº 1117308 / GO (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Estupro de vulnerável · Dosimetria · Continuidade delitiva · Cabimento do HC
+- Resumo: Culpabilidade e motivo valorados com elementos genéricos do tipo não elevam a pena-base; já abuso de confiança e dano psíquico à vítima de tenra idade elevam. Fração de 1/3 pela continuidade mantida (Súmula 659/STJ). Teses não examinadas na origem esbarram em supressão de instância e reiteração. Pena redimensionada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1117308.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE WRIT. DOSIMETRIA. CONTINUIDADE DELITIVA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+  > I. Caso em exame
+  > 1. O agravo regimental. Agravo regimental interposto contra decisão que não conheceu do habeas corpus e manteve o indeferimento da liminar, sob os fundamentos de supressão de instância e reiteração de pedidos em writs anteriores.
+  > 2. Fatos relevantes. A Agravante sustenta: (i) nulidade decorrente do encerramento da instrução sem o interrogatório do réu, realizado tardiamente por videoconferência e por magistrado diverso; (ii) ilicitude do relatório do CREAS por quebra de sigilo profissional (CF, art. 5º, LVI; CPP, arts. 157 e 207); (iii) absolvição por insuficiência probatória (CPP, art. 386, VII), diante de laudo oficial reputado exculpatório; e (iv) redução da fração de continuidade delitiva ao mínimo de 1/6, em consonância com a Súmula 659/STJ e o Tema Repetitivo 1.202/STJ. A decisão agravada apontou reiteração de pedidos e supressão de instância quanto às teses não apreciadas nas instâncias ordinárias.
+  > 3. Decisões anteriores. O Tribunal de origem, em revisão criminal, apreciou a natureza jurídica do relatório do CREAS (elemento informativo não submetido às exigências do art. 159 do CPP), sem enfrentar a tese de ilicitude por quebra de sigilo profissional. Identificou-se, ainda, violação ao princípio da unirrecorribilidade por reiteração de habeas corpus com identidade de partes, pedido e causa de pedir, e registro de que a discussão sobre interrogatório tardio não foi previamente submetida nem decidida pelas instâncias ordinárias.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em: (i) saber se o conhecimento das teses relativas ao interrogatório tardio e à licitude do relatório do CREAS é obstado por supressão de instância, por ausência de prévio enfrentamento pelas instâncias ordinárias; (ii) saber se a reiteração de writ afronta ao princípio da unirrecorribilidade, impedindo o conhecimento do habeas corpus; e (iii) saber se a dosimetria deve ser corrigida (pena-base, circunstâncias judiciais e fração de continuidade delitiva), com eventual redimensionamento da pena.
+  > III. Razões de decidir
+  > 5. Configura-se supressão de instância quanto às teses não previamente apreciadas pelas instâncias ordinárias (interrogatório tardio e licitude do relatório do CREAS), inviabilizando conhecimento originário nesta Corte (CF/1988, art. 105).
+  > 6. Constatada a identidade de partes, pedido e causa de pedir com habeas corpus anteriormente distribuído, incide o princípio da unirrecorribilidade, obstando o processamento de reiteração de writ e de seus recursos nesta Corte.
+  > 7. Verifica-se erro material na dosimetria originária; a pena-base não estava no mínimo legal. A valoração negativa de culpabilidade e motivo baseada em elementos genéricos do tipo penal é indevida e não autoriza exasperação.
+  > 8. As circunstâncias e consequências do crime, concretamente fundamentadas no abuso de confiança e na tenra idade da vítima com danos psíquicos e emocionais, extrapolam as elementares do tipo e legitimam exasperação da pena-base.
+  > 9. Mantém-se a fração de 1/3 pela continuidade delitiva, inexistindo flagrante ilegalidade, à luz do critério objetivo de gradação consolidado (Súmula 659/STJ; Tema Repetitivo 1.202/ STJ), sendo possível, em hipóteses de longa duração e recorrência, fração superior.
+  > 10. O pedido de absolvição por insuficiência probatória não comporta exame em habeas corpus quando demanda revolvimento do conjunto fático-probatório, além de se identificar reiteração da causa de pedir em writ anterior.
+  > 11. Redimensiona-se a pena, mantendo duas circunstâncias desfavoráveis (circunstâncias e consequências), fixando a pena-base em 8 anos, 1 mês e 15 dias, e, com a continuidade delitiva na fração de 1/3, a pena definitiva em 10 anos e 10 meses de reclusão, preservado o regime inicial.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para redimensionar a pena para 10 anos e 10 meses de reclusão, preservado o regime inicial, mantendo-se o não conhecimento dos demais pontos por supressão de instância e reiteração de pedidos.
+  > (AgRg no HC n. 1.117.308/GO, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
+
+## 59. Rp nº 1001943-80.2026.8.26.0048 (TJSP)
+- Sentença. Juiz de Direito: Leonardo Marzola Colombini. 3ª Vara Criminal de Atibaia. Publicado em 07/10/2026.
+- Crime / Tema: Crimes contra a honra · Prova digital
+- Resumo: Crimes contra a honra exigem dolo específico de ofender. Postagens sarcásticas criticando a nomeação e o salário de servidora comissionada (animus criticandi, com dados do Portal da Transparência) e excessos de linguagem em mensagens privadas, no calor de desavenças antigas, não são crime: a reparação é na esfera cível. Prova digital por ata notarial com hash e blockchain validada. Querelada absolvida (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rp-1001943-80-2026.pdf
+
+## 60. AgRg no AgRg no HC nº 1089351 / BA (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 06/10/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
+- Resumo: A pronúncia não pode se apoiar só em elementos do inquérito não confirmados em juízo (art. 155 do CPP), e o in dubio pro societate não supre a falta de indícios suficientes de autoria (art. 413). Impronúncia restabelecida por HC de ofício; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089351.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRIBUNAL DO JÚRI. PRONÚNCIA. INDÍCIOS NÃO CORROBORADOS EM JUÍZO. IN DUBIO PRO SOCIETATE. INAPLICABILIDADE PARA SUPRIR LACUNA PROBATÓRIA. AGRAVO DESPROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto pelo Ministério Público estadual contra decisão monocrática que reconsiderou o não conhecimento do habeas corpus, concedeu a ordem de ofício para cassar acórdão da Corte local que mantivera a pronúncia e restabeleceu a sentença de impronúncia do acusado.
+  > 2. Fato relevante. Materialidade do crime de homicídio tentado demonstrada por laudo de lesões corporais. Indícios de autoria apoiados em declarações colhidas na fase policial, não confirmadas em juízo.
+  > 3. As decisões anteriores. Tribunal local manteve a pronúncia com base em elementos informativos do inquérito e referência ao in dubio pro societate. Decisão agravada reconsiderou para conceder a ordem, de ofício, restabelecendo a impronúncia por ausência de indícios suficientes de autoria confirmados em juízo.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em saber se a decisão de pronúncia pode se apoiar exclusivamente em elementos informativos colhidos na investigação, não corroborados sob o crivo do contraditório judicial (CPP, art. 155), e se o princípio do in dubio pro societate pode suprir a ausência de indícios suficientes de autoria exigidos pelo art. 413 do CPP.
+  > III. Razões de decidir
+  > 5. A pronúncia exige a presença cumulativa de materialidade e indícios suficientes de autoria ou participação (CPP, art. 413), não se admitindo fundamentação exclusiva em elementos informativos do inquérito desprovidos de confirmação judicial (CPP, art. 155).
+  > 6. O princípio do in dubio pro societate não se presta a suprir lacuna probatória quanto à materialidade ou aos indícios de autoria, devendo a submissão ao Tribunal do Júri apoiar-se em suporte mínimo de provas produzidas sob contraditório. Precedente: STJ, REsp 2.091.647/DF.
+  > 7. No caso concreto, embora presente a materialidade, os indícios de autoria não foram confirmados em juízo: vítima não confirmou a atribuição e recusou reconhecimento; testemunhas não foram ouvidas em audiência; inexistem outras provas idôneas sob contraditório. Impõe-se a impronúncia (CPP, art. 414).
+  > 8. A preservação da competência do Tribunal do Júri não autoriza o envio do feito a julgamento popular sem o suporte probatório mínimo exigido na judicium accusationis, em respeito às garantias do processo penal.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Agravo regimental desprovido, com manutenção da decisão que concedeu a ordem, de ofício, para cassar o acórdão da Corte local e restabelecer a sentença de impronúncia.
   > Tese de julgamento:
-  > 1. A busca pessoal sem mandado requer fundada suspeita prévia, objetiva e verificável (CPP, art. 244).
-  > 2. A mera mudança de direção ao avistar guarnição policial não configura, isoladamente, justa causa para a medida invasiva.
-  > 3. A constatação posterior de situação de flagrância não convalida busca pessoal realizada sem fundada suspeita.
-  > 4. Reconhecida a ilicitude da busca, as provas apreendidas e as derivadas devem ser desentranhadas, impondo-se a absolvição (CPP, art. 386, VII).
-  > (AgRg no HC n. 1.109.944/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 56. AgRg no HC nº 956700 / SP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Guarda municipal pode fazer policiamento ostensivo, mas não atividade de polícia judiciária (Tema 656/STF). Ver o réu entregar uma sacola à corré, que morava numa barraca, não é flagrante que autorize os guardas a entrar ali. Provas ilícitas e absolvição de ambos (art. 386, II, do CPP) mantidas; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-956700.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. AUSÊNCIA DE JUSTA CAUSA. PROVA ILÍCITA. AGRAVO IMPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão que declarou a nulidade de busca domiciliar realizada por guardas municipais e das provas obtidas, absolvendo o agravado e a corré nos autos da Ação Penal nº 1517320-81.2023.8.26.0228, nos termos do art. 386, II, do CPP.
-  > 2. O agravante sustenta a validade da busca domiciliar, alegando que os guardas municipais, em patrulhamento, observaram o agravado entregando uma sacola à corré, justificando fundadas razões para a entrada no local.
-  > II. Questão em discussão
-  > 3. A questão em discussão consiste em saber se a atuação das guardas municipais, ao realizarem busca domiciliar sem flagrante delito, configura desrespeito às suas atribuições constitucionais e gera nulidade das provas obtidas.
-  > III. Razões de decidir
-  > 4. O Supremo Tribunal Federal, no RExt n. 608.588 (tema 656), firmou o entendimento de que as guardas municipais são parte integrante dos órgãos de segurança pública, podendo atuar no policiamento ostensivo e comunitário, vedada a atividade de polícia judiciária.
-  > 5. A mera visualização de uma entrega de uma sacola à corré, que, por sua vez, estava dentro de uma barraca por ela habitada, não pode ser confundida com situação de flagrância, apta a autorizar a violação de domicílio por guardas municipais.
-  > 6. A declaração de invalidade da busca domiciliar torna ilícitas as provas dela decorrentes, devendo ser mantida a absolvição do agravante e corré pela falta de comprovação da materialidade delitiva do tráfico de drogas.
-  > IV. Dispositivo e tese
-  > 7. Agravo improvido.
-  > Tese de julgamento: "As guardas municipais não possuem atribuições de polícia judiciária, sendo-lhes vedada a entrada em domicílios fora dos limites do flagrante delito."
-  > (AgRg no HC n. 956.700/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 57. AgRg no AgRg no HC nº 1071161 / SP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Tempo de prisão, medidas patrimoniais e suspensão das empresas esvaziaram o risco de reiteração. Sem fundamento atual (art. 312 do CPP), a preventiva dá lugar a cautelares alternativas, numa organização criminosa de adulteração de combustíveis; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1071161.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. ADULTERAÇÃO DE COMBUSTÍVEIS. ESVAZIAMENTO DO PERICULUM LIBERTATIS. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. SUFICIÊNCIA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO IMPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto pelo órgão acusatório contra decisão monocrática que concedeu ordem de habeas corpus de ofício, determinando a substituição da prisão preventiva por medidas cautelares alternativas.
-  > 2. Fato relevante. Prisão preventiva decretada em 1/7/2025; adoção de medidas cautelares patrimoniais e suspensão das atividades das pessoas jurídicas envolvidas; desarticulação aparente da organização criminosa dedicada à adulteração de combustíveis, corrupção de agentes públicos e lavagem de capitais.
-  > 3. Pretensão recursal. Restabelecimento da prisão preventiva sob alegação de necessidade para resguardar a ordem pública, a fim evitar reiteração delitiva, considerando a gravidade concreta dos fatos.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se subsistem, no cenário atual, fundamentos concretos do art. 312 do CPP para manter a prisão preventiva do agravado, especialmente quanto ao risco de reiteração delitiva.
-  > III. Razões de decidir
-  > 5. O decurso do tempo, aliado à adoção de medidas cautelares patrimoniais e à suspensão das atividades das pessoas jurídicas envolvidas na empreitada criminosa, indica mitigação dos riscos e esvaziamento do periculum libertatis, revelando desarticulação e neutralização das atividades ilícitas, o que afasta a necessidade da custódia para evitar reiteração delitiva.
-  > 6. A prisão preventiva tem caráter excepcional e subsidiário, devendo ser adotada como ultima ratio; na presença de medidas cautelares alternativas suficientes e adequadas (art. 282, § 6º, e art. 319 do CPP), impõe-se a substituição da custódia, sem prejuízo de nova decretação diante de eventual descumprimento (art. 282, § 4º, do CPP).
-  > IV. Dispositivo e tese
-  > 7. Resultado do Julgamento: Agravo regimental do Ministério Público improvido.
-  > Tese de julgamento:
-  > 1. O decurso do tempo e a desarticulação das atividades ilícitas atribuídas à organização criminosa esvaziam o periculum libertatis e autorizam a substituição da prisão preventiva por medidas cautelares alternativas.
-  > (AgRg no AgRg no HC n. 1.071.161/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 58. AgRg no HC nº 1118236 / CE (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Homicídio qualificado · Corrupção de menores · Dosimetria
-- Resumo: Condenações anteriores não usadas para a reincidência só valem como antecedentes, não para desabonar a personalidade (Tema 1.077/STJ). Usar nas circunstâncias o mesmo contexto da qualificadora é bis in idem. O HC corrige a dosimetria mesmo após o trânsito em julgado, e a liminar concedida antes do parecer do MPF não gera nulidade; agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1118236.pdf
-- Ementa oficial:
-  > DIREITO PENAL E DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. DOSIMETRIA. CONDENAÇÃO TRANSITADA EM JULGADO. UTILIZAÇÃO INDEVIDA DO WRIT PARA AMPLA REVISÃO DA CONDENAÇÃO. ILEGALIDADES MANIFESTAS. PRELIMINAR DE NULIDADE. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL. NULIDADE NÃO CONFIGURADA. PERSONALIDADE. CONDENAÇÕES ANTERIORES. FUNDAMENTO INIDÔNEO. TEMA REPETITIVO N. 1.077/STJ. FUNDAMENTAÇÃO REMANESCENTE INSUFICIENTE. CIRCUNSTÂNCIAS DO CRIME. REUTILIZAÇÃO DO MESMO CONTEXTO FÁTICO EMPREGADO NA QUALIFICADORA. BIS IN IDEM. DECISÃO AGRAVADA MANTIDA.
-  > 1. Não há nulidade na concessão liminar da ordem antes da manifestação do Ministério Público Federal quando a controvérsia estiver amparada por jurisprudência consolidada e evidenciada ilegalidade manifesta, sobretudo se a posterior ciência do Parquet e a interposição de agravo regimental assegurarem a submissão da matéria ao órgão colegiado, sem demonstração de prejuízo concreto.
-  > 2. Embora o habeas corpus não se preste à ampla revisão de condenação transitada em julgado, admite-se a intervenção excepcional desta Corte Superior para corrigir ilegalidade manifesta na dosimetria da pena.
-  > 3. Nos termos do Tema Repetitivo n. 1.077/STJ, condenações transitadas em julgado não utilizadas para caracterizar a reincidência somente podem ser valoradas como antecedentes criminais, vedado seu emprego para desabonar a personalidade do agente. As referências remanescentes ao autoritarismo, ao machismo, ao sentimento de posse e à existência de medidas protetivas, tais como empregadas no caso, não tornam idônea a fundamentação dessa circunstância judicial.
-  > 4. Configura bis in idem a valoração negativa das circunstâncias do crime com fundamento na restrição da liberdade, no transporte da vítima e na angústia experimentada durante a execução delitiva quando o mesmo contexto fático integrou o mecanismo executivo empregado para dificultar a defesa da ofendida, posteriormente valorado na segunda fase da dosimetria.
-  > 5. A referência, no agravo regimental, a terror psicológico, chantagens e ameaças não afasta a duplicidade quando esses elementos apenas descrevem, sob outra perspectiva, a mesma base fática considerada pelas instâncias ordinárias.
-  > 6. A alegação genérica de proporcionalidade da reprimenda e de discricionariedade motivada não afasta as ilegalidades concretamente identificadas na dosimetria.
-  > 7. Agravo regimental improvido.
-  > (AgRg no HC n. 1.118.236/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 59. AgRg no HC nº 1121320 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: a dedicação a atividades criminosas não se presume e exige elementos concretos. Regime mais gravoso e negativa de substituição por restritivas também exigem fundamentação concreta, não bastando a natureza do crime ou a quantidade. Sentença restabelecida, com a fração de 1/2; agravos do MPSP e do MPF desprovidos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121320.pdf
-- Agravo do MPF: https://ladirf.github.io/acervo/pdfs/mpf-hc-1121320.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM HABEAS CORPUS. ORDEM CONCEDIDA LIMINARMENTE. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. REGIME INICIAL. SUBSTITUIÇÃO DA PENA. CONSTRANGIMENTO ILEGAL. FUNDAMENTAÇÃO INSUFICIENTE. QUANTIDADE DE DROGA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PRESUNÇÃO. JURISPRUDÊNCIA.
-  > 1. A aplicação da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 pressupõe a ausência de dedicação a atividades criminosas, vedada a conclusão por presunção, devendo apoiar-se em elementos concretos do caso.
-  > 2. A quantidade de droga apreendida, isoladamente, não autoriza o afastamento do tráfico privilegiado, exigindo-se motivação específica que demonstre a inserção estável do agente na prática delitiva; hipótese em que se manteve a fração de 1/2 da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, conforme a sentença restabelecida.
-  > 3. O regime inicial mais gravoso reclama fundamentação concreta, relacionada às circunstâncias judiciais e à gravidade efetiva da conduta, não bastando remissão genérica à natureza do crime ou à quantidade de entorpecente.
-  > 4. A negativa de substituição da pena privativa de liberdade por restritivas de direitos exige motivação idônea quanto à inadequação da medida ao caso, considerada a pena aplicada, as circunstâncias judiciais e as diretrizes legais.
-  > 5. Agravo regimental improvido.
-  > (AgRg no HC n. 1.121.320/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 60. AgRg no AgRg no HC nº 1042570 / SP (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Tráfico de drogas · Execução penal
-- Resumo: Mãe de criança menor de 12 anos tem direito à prisão domiciliar, mesmo no regime semiaberto, sem precisar provar que os cuidados maternos são imprescindíveis, salvo situação excepcional. Tráfico sem violência e sem faltas disciplinares. Domiciliar com monitoramento mantida; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1042570.pdf
-- Ementa oficial:
-  > PROCESSO PENAL. AGRAVO REGIMENTAL MINISTERIAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. MÃE DE CRIANÇA MENOR DE 12 ANOS. PRESUNÇÃO DA NECESSIDADE DE CUIDADOS MATERNOS. AUSÊNCIA DE SITUAÇÃO EXCEPCIONAL CONTRAINDICATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. O habeas corpus não foi conhecido por se tratar de substitutivo de recurso próprio. Diante de flagrante constrangimento ilegal, a ordem foi concedida de ofício para substituir o encarceramento por prisão domiciliar, com monitoramento eletrônico, se possível.
-  > 2. A concessão da prisão domiciliar foi amparada na condição da agravada como mãe de criança menor de 12 anos, na natureza do delito (tráfico de entorpecentes) sem violência ou grave ameaça, e na inexistência de faltas disciplinares ou registros negativos.
-  > 3. "A jurisprudência do STJ admite a concessão de prisão domiciliar a mães de crianças menores de 12 anos, mesmo em regime semiaberto, sem necessidade de comprovação da imprescindibilidade dos cuidados maternos, desde que não haja situação excepcional que contraindique a medida." (AgRg no AgRg no HC n. 949.232/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
-  > 4. Agravo regimental não provido.
-  > (AgRg no AgRg no HC n. 1.042.570/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
+  > 1. A decisão de pronúncia deve se fundamentar em provas produzidas sob contraditório judicial, não se admitindo apoio exclusivo em elementos informativos do inquérito (CPP, art. 155).
+  > 2. O princípio do in dubio pro societate não supre a ausência de indícios suficientes de autoria exigidos pelo art. 413 do CPP para a pronúncia.
+  > 3. Ausentes indícios suficientes de autoria confirmados em juízo, deve ser proferida a impronúncia, nos termos do art. 414 do CPP.
+  > (AgRg no AgRg no HC n. 1.089.351/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
