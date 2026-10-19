@@ -1317,6 +1317,103 @@
   .acao-link { --icone: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7'/%3E%3Cpath d='M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7'/%3E%3C/svg%3E"); }
   .acao-link.compartilhar { --icone: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 3v12M8 7l4-4 4 4'/%3E%3Cpath d='M7 10H6a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-9a1 1 0 0 0-1-1h-1'/%3E%3C/svg%3E"); }
 
+  .acao-salvar { --icone: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linejoin='round'%3E%3Cpath d='M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4-6.5 4v-16a1 1 0 0 1 1-1z'/%3E%3C/svg%3E"); }
+  .acao-salvar[aria-pressed="true"] {
+    --icone: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='black' stroke='black' stroke-width='2' stroke-linejoin='round'%3E%3Cpath d='M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4-6.5 4v-16a1 1 0 0 1 1-1z'/%3E%3C/svg%3E");
+    color: var(--ouro-texto);
+  }
+
+  /* Decisão salva: fita dourada no alto do cartão */
+  li.entry.salva::after {
+    content: "";
+    position: absolute;
+    top: -1px;
+    right: 26px;
+    width: 13px;
+    height: 18px;
+    background: var(--metal);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 74%, 0 100%);
+            clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 74%, 0 100%);
+    pointer-events: none;
+  }
+
+  /* "Só salvas (N)" e a barra da lista salva */
+  .salvas-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    min-height: 34px;
+    padding: 0 8px 0 12px;
+    font: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--ink);
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    box-shadow: var(--shadow-sm);
+    cursor: pointer;
+  }
+
+  .salvas-toggle::before {
+    content: "";
+    width: 13px;
+    height: 15px;
+    color: var(--ouro-texto);
+    background: currentColor;
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='black'%3E%3Cpath d='M6.5 2.5h11a1.5 1.5 0 0 1 1.5 1.5v18l-7-4.3L5 22V4a1.5 1.5 0 0 1 1.5-1.5z'/%3E%3C/svg%3E") center / contain no-repeat;
+            mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='black'%3E%3Cpath d='M6.5 2.5h11a1.5 1.5 0 0 1 1.5 1.5v18l-7-4.3L5 22V4a1.5 1.5 0 0 1 1.5-1.5z'/%3E%3C/svg%3E") center / contain no-repeat;
+  }
+
+  .salvas-toggle:hover { border-color: var(--rule-strong); }
+  .salvas-toggle[hidden] { display: none; }
+  .salvas-toggle[aria-pressed="true"] { color: var(--ativo-ink); background: var(--ativo-bg); border-color: var(--ativo-bg); box-shadow: inset 0 -2px 0 var(--ativo-marca); }
+  .salvas-toggle[aria-pressed="true"]::before { color: var(--ativo-marca); }
+
+  .salvas-qtd {
+    display: inline-grid;
+    place-items: center;
+    min-width: 20px;
+    height: 20px;
+    padding: 0 6px;
+    font-size: 11.5px;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--ouro) 20%, transparent);
+  }
+
+  .salvas-barra {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px 10px;
+    margin: 16px 0 0;
+    padding: 10px 12px 10px 16px;
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--ouro);
+    border-radius: 12px;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .salvas-barra[hidden] { display: none; }
+  .salvas-texto { flex: 1 1 220px; margin: 0; font-size: 14px; color: var(--ink); }
+
+  .salvas-acao {
+    min-height: 34px;
+    padding: 0 14px;
+    font: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--ink);
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    cursor: pointer;
+  }
+
+  .salvas-acao:hover { border-color: var(--rule-strong); }
+  .salvas-acao[hidden] { display: none; }
+
   /* Cartão aberto por link direto (?id=): anel dourado que some sozinho */
   li.entry.em-destaque { animation: destaque-v3 4.5s var(--ease); }
   li.entry.em-destaque:focus { outline: none; }
@@ -1373,6 +1470,7 @@
     .campo-v3 { min-height: var(--toque); }
     .periodo-filter .campo-v3 { min-height: 42px; }
     .acao-v3 { width: 42px; height: 42px; }
+    .salvas-toggle, .salvas-acao { min-height: var(--toque); }
   }
 
   /* --- Busca: botão apagar, dica "/" (só com mouse), destaque dos termos e trecho da ementa --- */
@@ -1698,6 +1796,7 @@
     <div class="count-row">
       <p class="count-line" id="countLine" aria-live="polite">199 decisões</p>
       <div class="resultados-acoes" id="resultadosAcoes">
+        <button type="button" class="salvas-toggle" id="salvasToggle" aria-pressed="false" hidden>Só salvas<span class="salvas-qtd" id="salvasQtd">0</span></button>
         <label class="ordem-rotulo" for="ordemSelect">Ordenar</label>
         <select class="campo-v3" id="ordemSelect">
           <option value="recentes">Mais recentes</option>
@@ -1707,6 +1806,12 @@
       </div>
       <button type="button" class="limpar-filtros" id="limparFiltros" hidden>✕ Limpar filtros</button>
     </div>
+  </div>
+
+  <div class="salvas-barra" id="salvasBarra" hidden>
+    <p class="salvas-texto" id="salvasTexto"></p>
+    <button type="button" class="salvas-acao" id="salvasCopiar">Copiar lista</button>
+    <button type="button" class="salvas-acao" id="salvasEsvaziar">Esvaziar lista</button>
   </div>
 
   <ul class="docket" id="docket">
@@ -6354,6 +6459,123 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       function () { A.avisoBotao(b, 'Não foi possível copiar', false); }
     );
   });
+
+  // ---- Decisões salvas ("lista para este caso"), guardadas neste navegador ----
+  // Marcador em cada cartão; "Só salvas (N)" filtra a lista; "Copiar lista" leva
+  // resumo, referência e link de cada uma; "Esvaziar lista" apaga tudo. Sem
+  // armazenamento (ex.: navegação privada bloqueada), vale só nesta visita.
+  var CHAVE_SALVAS = 'acervo-salvas';
+  var salvasToggle = document.getElementById('salvasToggle');
+  var salvasQtd = document.getElementById('salvasQtd');
+  var salvasBarra = document.getElementById('salvasBarra');
+  var salvasTexto = document.getElementById('salvasTexto');
+  var salvasCopiar = document.getElementById('salvasCopiar');
+  var salvasEsvaziar = document.getElementById('salvasEsvaziar');
+  var soSalvas = false;
+  var avisouSemGuardar = false;
+
+  function lerSalvas() {
+    try {
+      var v = JSON.parse(localStorage.getItem(CHAVE_SALVAS) || '[]');
+      return Array.isArray(v) ? v.filter(function (x) { return typeof x === 'string'; }) : [];
+    } catch (e) { return []; }
+  }
+
+  function gravarSalvas() {
+    try { localStorage.setItem(CHAVE_SALVAS, JSON.stringify(salvas)); return true; } catch (e) { return false; }
+  }
+
+  var salvas = lerSalvas();
+
+  function ehSalva(li) { return salvas.indexOf(dados.get(li).id) !== -1; }
+  function quantasSalvas() { return salvas.filter(function (id) { return porId[id]; }).length; }
+
+  function mostrarSalvas() {
+    var n = quantasSalvas();
+    dados.forEach(function (d, li) {
+      var b = li.querySelector('.acao-salvar');
+      if (b) b.setAttribute('aria-pressed', String(salvas.indexOf(d.id) !== -1));
+      li.classList.toggle('salva', salvas.indexOf(d.id) !== -1);
+    });
+    salvasToggle.hidden = !n && !soSalvas;
+    salvasToggle.setAttribute('aria-pressed', String(soSalvas));
+    salvasToggle.setAttribute('aria-label', 'Só salvas, ' + n + (n === 1 ? ' decisão' : ' decisões'));
+    salvasQtd.textContent = n;
+    salvasBarra.hidden = !soSalvas;
+    salvasTexto.textContent = n
+      ? (n === 1 ? '1 decisão salva' : n + ' decisões salvas') + ' neste navegador.'
+      : 'Nenhuma decisão salva neste navegador. Use o marcador no canto de cada decisão.';
+    salvasCopiar.hidden = salvasEsvaziar.hidden = !n;
+  }
+
+  // Texto da lista: resumo, referência (ou a linha do relator, quando não há
+  // ementa) e link de cada decisão, na ordem mostrada.
+  function textoDaLista(lista) {
+    return lista.map(function (li, i) {
+      var tema = li.querySelector('.tema'), meta = li.querySelector('p.meta');
+      return [
+        (i + 1) + '. ' + tituloDe(li),
+        tema ? tema.textContent.trim() : '',
+        referenciaDe(li) || (meta ? meta.textContent.trim() : ''),
+        linkDe(li)
+      ].filter(Boolean).join('\n');
+    }).join('\n\n');
+  }
+
+  if (salvasToggle && salvasQtd && salvasBarra && salvasTexto && salvasCopiar && salvasEsvaziar) {
+    dados.forEach(function (d, li) {
+      var b = botaoIcone('acao-salvar', 'Salvar: ' + tituloDe(li));
+      b.title = 'Salvar decisão';
+      b.setAttribute('aria-pressed', 'false');
+      acoesDe(li).appendChild(b);
+    });
+
+    document.addEventListener('click', function (e) {
+      var b = e.target.closest('.acao-salvar');
+      if (!b) return;
+      var id = dados.get(b.closest('li.entry')).id;
+      var i = salvas.indexOf(id);
+      if (i === -1) salvas.push(id); else salvas.splice(i, 1);
+      if (!gravarSalvas() && !avisouSemGuardar) {
+        avisouSemGuardar = true;
+        avisar('Este navegador não guarda a lista: ela vale só nesta visita');
+      } else avisar(i === -1 ? 'Decisão salva' : 'Removida das salvas');
+      if (soSalvas) A.aplicar(true); else mostrarSalvas();
+    });
+
+    salvasToggle.addEventListener('click', function () {
+      soSalvas = !soSalvas;
+      A.aplicar();
+    });
+    salvasCopiar.addEventListener('click', function () {
+      var lista = (ultimaLista ? ultimaLista.visiveis : []).filter(ehSalva);
+      if (!lista.length) return;
+      A.copiarTexto(textoDaLista(lista)).then(
+        function () { avisar(lista.length === 1 ? 'Lista copiada: 1 decisão' : 'Lista copiada: ' + lista.length + ' decisões'); },
+        function () { avisar('Não foi possível copiar a lista'); }
+      );
+    });
+    salvasEsvaziar.addEventListener('click', function () {
+      var n = quantasSalvas();
+      if (!n || !window.confirm(n === 1 ? 'Remover a decisão salva neste navegador?' : 'Remover as ' + n + ' decisões salvas neste navegador?')) return;
+      salvas = [];
+      gravarSalvas();
+      soSalvas = false;
+      A.aplicar();
+      avisar('Lista esvaziada');
+      salvasToggle.focus();
+    });
+    filtros.push(function (li) { return !soSalvas || ehSalva(li); });
+    ativos.push(function () { return soSalvas; });
+    aoLimpar.push(function () { soSalvas = false; });
+    aoAplicar.push(mostrarSalvas);
+    // Outra aba do mesmo navegador mudou a lista
+    window.addEventListener('storage', function (e) {
+      if (e.key !== CHAVE_SALVAS) return;
+      salvas = lerSalvas();
+      A.aplicar(true);
+    });
+  }
 
   // Ao abrir com ?id=…: vai à página da decisão, rola até ela e a destaca. Se os
   // filtros do endereço a escondem, limpa os filtros. O id sai do endereço depois.
