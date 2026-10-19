@@ -1179,6 +1179,12 @@
     footer.site-footer { margin-bottom: -72px; padding: 24px 16px 28px; }
   }
 </style>
+<style id="design-v3">
+  /* ===== Design v3 (19/10/2026): mantém o cabeçalho preto e dourado, a Century Gothic,
+     o tema claro como padrão e a cor do tribunal na borda dos cartões. Acrescenta o visual
+     dos recursos v3 (bloco <script id="recursos-v3">). Para voltar ao design v2: apagar
+     este bloco, o script recursos-v3 e a marcação listada no PORTAR.md. ===== */
+</style>
 </head>
 <body>
 <p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261018-1458/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
@@ -4346,6 +4352,11 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
 
   var state = { search: '', tribunal: 'all', decisao: 'all', relator: 'all', crime: 'all' };
 
+  // v3 (19/10/2026): ganchos preenchidos pelo bloco <script id="recursos-v3">
+  // (busca sem acento, período, salvas, ordem, leitor de PDF com zoom e busca).
+  // Sem esse bloco ficam vazios e a página funciona como antes.
+  var ganchos = {};
+
   function normalize(str) {
     return str.toLowerCase();
   }
@@ -4380,15 +4391,16 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     var term = normalize(state.search.trim());
     entries.forEach(function (li) {
       var texto = (li.getAttribute('data-search') || '') + ' ' + normalize(li.getAttribute('data-crimes') || '');
-      var matchesSearch = term === '' || texto.indexOf(term) !== -1;
+      var matchesSearch = term === '' || (ganchos.busca ? ganchos.busca(li) : texto.indexOf(term) !== -1);
       var matchesTribunal = state.tribunal === 'all' || grupoTribunal(li.getAttribute('data-tribunal')) === state.tribunal;
       var matchesDecisao = state.decisao === 'all' || li.getAttribute('data-decisao') === state.decisao;
       var matchesRelator = state.relator === 'all' || li.getAttribute('data-relator') === state.relator;
       var matchesCrime = state.crime === 'all' || crimesDe(li).indexOf(state.crime) !== -1;
-      var filtros = matchesTribunal && matchesDecisao && matchesRelator && matchesCrime;
+      var filtros = matchesTribunal && matchesDecisao && matchesRelator && matchesCrime && (!ganchos.filtro || ganchos.filtro(li));
       if (filtros) total++;
       if (matchesSearch && filtros) visiveis.push(li);
     });
+    if (ganchos.ordenar) visiveis = ganchos.ordenar(visiveis);
     var visible = visiveis.length;
     var paginas = Math.max(1, Math.ceil(visible / POR_PAGINA));
     if (pagina > paginas) pagina = paginas;
@@ -4405,8 +4417,10 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     montarPaginacao(paginas);
     // "Limpar filtros" só aparece com algum filtro ou busca ativa
     document.getElementById('limparFiltros').hidden = !(term !== '' ||
-      state.tribunal !== 'all' || state.decisao !== 'all' || state.relator !== 'all' || state.crime !== 'all');
+      state.tribunal !== 'all' || state.decisao !== 'all' || state.relator !== 'all' || state.crime !== 'all' ||
+      (ganchos.filtroAtivo ? ganchos.filtroAtivo() : false));
     gravarEndereco();
+    if (ganchos.depois) ganchos.depois({ visiveis: visiveis, mostradas: visiveis.slice(inicio, inicio + POR_PAGINA), total: total, pagina: pagina, paginas: paginas });
   }
 
   // Botões: ‹ Anterior · 1 … 4 5 6 … 9 · Próxima › (primeira, última e a
@@ -4703,6 +4717,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
   // Não age quando o leitor de PDF ou uma janelinha de filtro está aberta
   // (nesses casos o Esc só fecha a janela).
   function limparFiltros() {
+    if (ganchos.limpar) ganchos.limpar();
     state.search = '';
     searchInput.value = '';
     groups.forEach(function (group) {
@@ -4791,6 +4806,9 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
   }
 
   function mostrarPdf(bytes, nome) {
+    // v3: leitor novo (zoom, busca no documento). Recebe os mesmos bytes de
+    // obterPdf(); se o bloco recursos-v3 não existir, segue o desenho abaixo.
+    if (ganchos.mostrarPdf) { ganchos.mostrarPdf(bytes, nome); return; }
     var token = ++renderToken;
     if (observador) {
       viewerBody.removeEventListener('scroll', observador);
@@ -5059,7 +5077,58 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     if (n > 1) { pagina = n; apply(true); }
   }
 
+  // v3: acesso do bloco recursos-v3 ao estado e às funções desta página
+  window.acervo = {
+    state: state,
+    entries: entries,
+    listas: listas,
+    ganchos: ganchos,
+    aplicar: apply,
+    limpar: limparFiltros,
+    irParaPagina: function (n) { pagina = n; apply(true); },
+    grupoTribunal: grupoTribunal,
+    copiarTexto: copiarTexto,
+    avisoBotao: avisoBotao,
+    carregarPdfjs: carregarPdfjs,
+    obterPdf: obterPdf,
+    porPagina: POR_PAGINA
+  };
+
   lerEndereco();
+})();
+</script>
+<script id="recursos-v3">
+/* ===== Recursos v3 (19/10/2026): busca sem acento e na ementa, ordem, período, temas
+   frequentes, link direto, referência, decisões salvas e leitor de PDF com zoom e busca.
+   Usa os ganchos do script principal (window.acervo). Para voltar ao comportamento
+   anterior: apagar este bloco e o <style id="design-v3">. ===== */
+(function () {
+  var A = window.acervo;
+  if (!A || !A.ganchos) return;
+  var G = A.ganchos;
+
+  // Cada recurso registra aqui o que faz em cada gancho do script principal.
+  var filtros = [];   // function (li): false quando o recurso esconde a decisão
+  var ativos = [];    // function (): true quando o recurso tem um filtro ligado
+  var aoLimpar = [];  // function (): zera o filtro do recurso (Esc e "Limpar filtros")
+  var aoAplicar = []; // function (info): roda depois de cada atualização da lista
+
+  G.filtro = function (li) {
+    for (var i = 0; i < filtros.length; i++) if (!filtros[i](li)) return false;
+    return true;
+  };
+  G.filtroAtivo = function () {
+    return ativos.some(function (f) { return f(); });
+  };
+  G.limpar = function () {
+    aoLimpar.forEach(function (f) { f(); });
+  };
+  G.depois = function (info) {
+    aoAplicar.forEach(function (f) { f(info); });
+  };
+
+  // Primeira atualização com os recursos v3 (mantém a página lida do endereço).
+  A.aplicar(true);
 })();
 </script>
 
