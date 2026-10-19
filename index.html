@@ -1211,6 +1211,36 @@
   }
 
   .count-line, .limpar-filtros { margin-top: 0; }
+  .count-line { margin-right: auto; }
+
+  .resultados-acoes { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .ordem-rotulo { font-size: 13px; color: var(--ink-muted); }
+
+  /* Seletores nativos (Ordenar, Período): no iPhone abrem a roda de opções do sistema */
+  .campo-v3 {
+    -webkit-appearance: none;
+            appearance: none;
+    min-height: 34px;
+    max-width: 100%;
+    padding: 5px 34px 5px 12px;
+    font: inherit;
+    font-size: 13.5px;
+    color: var(--ink);
+    background: var(--paper-raised) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236B6560' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") no-repeat right 11px center / 13px;
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    box-shadow: var(--shadow-sm);
+    cursor: pointer;
+    transition: border-color .18s var(--ease), box-shadow .18s var(--ease);
+  }
+
+  :root[data-theme="dark"] .campo-v3 {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23A39C92' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  }
+
+  .campo-v3:hover { border-color: var(--rule-strong); }
+  .campo-v3:focus-visible { outline: none; border-color: var(--focus); box-shadow: 0 0 0 3px var(--focus-ring); }
+  .campo-v3 option { color: var(--ink); background: var(--paper-raised); }
 
   /* --- Cartões: ações numa linha alinhada (os parágrafos ocupam a largura toda) --- */
   li.entry {
@@ -1250,6 +1280,9 @@
     .crimes button { min-height: 28px; padding: 2px 10px; font-size: 12px; text-align: left; }
     li.entry > .pdf-link { min-height: 40px; padding: 7px 15px; font-size: 14px; }
     .tema-toggle { width: var(--toque); height: var(--toque); }
+    /* 16 px: com menos que isso o iPhone amplia a página ao tocar no campo */
+    .lista-busca, .campo-v3 { font-size: 16px; }
+    .campo-v3 { min-height: var(--toque); }
   }
 
   /* --- Busca: botão apagar, dica "/" (só com mouse), destaque dos termos e trecho da ementa --- */
@@ -1426,6 +1459,17 @@
     .controls { gap: 14px; padding: 16px 14px 14px; }
     .count-row { padding-top: 12px; }
     ul.docket { margin-top: 20px; gap: 14px; }
+    /* "Ordenar" vira um ícone dentro do seletor (o rótulo continua para leitores de tela) */
+    .ordem-rotulo { position: absolute; width: 1px; height: 1px; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+    #ordemSelect {
+      padding-left: 34px;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236B6560' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M7 4v16M3 16l4 4 4-4M17 20V4M13 8l4-4 4 4'/%3E%3C/svg%3E"), url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236B6560' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+      background-position: left 11px center, right 11px center;
+      background-size: 15px, 13px;
+    }
+    :root[data-theme="dark"] #ordemSelect {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23A39C92' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M7 4v16M3 16l4 4 4-4M17 20V4M13 8l4-4 4 4'/%3E%3C/svg%3E"), url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23A39C92' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    }
   }
 
   @media (prefers-reduced-motion: reduce) {
@@ -1515,6 +1559,14 @@
     </div>
     <div class="count-row">
       <p class="count-line" id="countLine" aria-live="polite">199 decisões</p>
+      <div class="resultados-acoes" id="resultadosAcoes">
+        <label class="ordem-rotulo" for="ordemSelect">Ordenar</label>
+        <select class="campo-v3" id="ordemSelect">
+          <option value="recentes">Mais recentes</option>
+          <option value="antigas">Mais antigas</option>
+          <option value="relevancia">Relevância</option>
+        </select>
+      </div>
       <button type="button" class="limpar-filtros" id="limparFiltros" hidden>✕ Limpar filtros</button>
     </div>
   </div>
@@ -5788,7 +5840,92 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     campoBusca.select();
   });
 
+  // ---- Endereço: parâmetros dos recursos v3 (ordem, período), ao lado dos do script principal ----
+  var noEndereco = []; // function (URLSearchParams): grava ou apaga o parâmetro do recurso
+  var lidoDoEndereco = (function () {
+    try { return new URLSearchParams(location.search); } catch (e) { return null; }
+  })();
+
+  function gravarEnderecoV3() {
+    try {
+      var p = new URLSearchParams(location.search);
+      noEndereco.forEach(function (f) { f(p); });
+      var qs = p.toString();
+      var novo = location.pathname + (qs ? '?' + qs : '') + location.hash;
+      if (novo !== location.pathname + location.search + location.hash) history.replaceState(null, '', novo);
+    } catch (e) { /* ex.: arquivo aberto do disco em navegador que bloqueia */ }
+  }
+
+  // ---- Ordem: Mais recentes (padrão), Mais antigas e Relevância ----
+  // Com busca e sem escolha manual, a ordem passa sozinha para Relevância e volta
+  // a Mais recentes quando a busca é apagada. Se a pessoa escolheu a ordem no
+  // seletor, a escolha fica (também no endereço: ?ordem=antigas). Esc e "Limpar
+  // filtros" não mudam a ordem escolhida.
+  var ordemSelect = document.getElementById('ordemSelect');
+  var ORDENS = ['recentes', 'antigas', 'relevancia'];
+  var ordemEscolhida = null; // null = automática
+
+  // Data de publicação (AAAAMMDD), tirada da linha "Publicado em DD/MM/AAAA"
+  dados.forEach(function (d, li) {
+    var meta = li.querySelector('p.meta');
+    var m = meta && /Publicado em (\d{2})\/(\d{2})\/(\d{4})/.exec(meta.textContent);
+    d.data = m ? Number(m[3] + m[2] + m[1]) : 0;
+  });
+
+  function ordemAtual() {
+    if (termosDaBusca().length) return ordemEscolhida || 'relevancia';
+    return ordemEscolhida && ordemEscolhida !== 'relevancia' ? ordemEscolhida : 'recentes';
+  }
+
+  G.ordenar = function (lista) {
+    var ordem = ordemAtual();
+    return lista.slice().sort(function (a, b) {
+      var da = dados.get(a), db = dados.get(b);
+      if (!da || !db) return 0;
+      if (ordem === 'relevancia') {
+        var dif = (pontos.get(b) || 0) - (pontos.get(a) || 0);
+        if (dif) return dif;
+      }
+      if (da.data !== db.data) return ordem === 'antigas' ? da.data - db.data : db.data - da.data;
+      return da.ordem - db.ordem;
+    });
+  };
+
+  // Põe os cartões da página na ordem certa também no documento (leitor de tela e
+  // Tab seguem essa ordem). Só mexe quando a ordem mudou.
+  function ordenarNaPagina(mostradas) {
+    for (var i = 1; i < mostradas.length; i++) {
+      if (!(mostradas[i - 1].compareDocumentPosition(mostradas[i]) & Node.DOCUMENT_POSITION_FOLLOWING)) break;
+    }
+    if (i >= mostradas.length) return;
+    var foco = document.activeElement;
+    var lista = mostradas[0].parentNode;
+    mostradas.forEach(function (li) { lista.appendChild(li); });
+    if (foco && foco !== document.activeElement && lista.contains(foco)) foco.focus({ preventScroll: true });
+  }
+
+  if (ordemSelect) {
+    var pedida = lidoDoEndereco && lidoDoEndereco.get('ordem');
+    if (ORDENS.indexOf(pedida) !== -1) ordemEscolhida = pedida;
+    ordemSelect.addEventListener('change', function () {
+      ordemEscolhida = ordemSelect.value;
+      A.aplicar();
+    });
+    aoAplicar.push(function (info) {
+      var comBusca = termosDaBusca().length > 0;
+      var rel = ordemSelect.querySelector('option[value="relevancia"]');
+      rel.disabled = !comBusca;
+      rel.textContent = comBusca ? 'Relevância' : 'Relevância (com busca)';
+      ordemSelect.value = ordemAtual();
+      ordenarNaPagina(info.mostradas);
+    });
+    noEndereco.push(function (p) {
+      if (ordemEscolhida) p.set('ordem', ordemEscolhida); else p.delete('ordem');
+    });
+  }
+
   // Primeira atualização com os recursos v3 (mantém a página lida do endereço).
+  aoAplicar.push(gravarEnderecoV3);
   A.aplicar(true);
 })();
 </script>
