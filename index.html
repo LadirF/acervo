@@ -1275,6 +1275,70 @@
 
   li.entry:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
 
+  /* Ações novas do cartão (link, salvar): à direita da linha de botões */
+  .acoes-v3 { display: inline-flex; align-items: center; gap: 4px; margin: 14px 0 0 auto; }
+
+  .acao-v3 {
+    display: inline-grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    color: var(--ink-muted);
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: color .18s var(--ease), background-color .18s var(--ease), border-color .18s var(--ease);
+  }
+
+  .acao-v3::before {
+    content: "";
+    width: 18px;
+    height: 18px;
+    background: currentColor;
+    -webkit-mask: var(--icone) center / contain no-repeat;
+            mask: var(--icone) center / contain no-repeat;
+  }
+
+  .acao-v3:hover { color: var(--ink); background: var(--paper); border-color: var(--rule); }
+  .acao-v3:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+
+  .acao-link { --icone: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7'/%3E%3Cpath d='M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7'/%3E%3C/svg%3E"); }
+  .acao-link.compartilhar { --icone: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 3v12M8 7l4-4 4 4'/%3E%3Cpath d='M7 10H6a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-9a1 1 0 0 0-1-1h-1'/%3E%3C/svg%3E"); }
+
+  /* Cartão aberto por link direto (?id=): anel dourado que some sozinho */
+  li.entry.em-destaque { animation: destaque-v3 4.5s var(--ease); }
+  li.entry.em-destaque:focus { outline: none; }
+
+  @keyframes destaque-v3 {
+    0%, 70% { box-shadow: 0 0 0 3px var(--ouro), var(--shadow-md); }
+    100%    { box-shadow: var(--shadow-sm); }
+  }
+
+  /* Aviso curto ("Link copiado") */
+  .aviso-v3 {
+    position: fixed;
+    left: 50%;
+    bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+    z-index: 60;
+    max-width: calc(100vw - 32px);
+    padding: 10px 18px;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--hero-ink);
+    background: var(--hero-bg);
+    border: 1px solid rgba(181, 151, 41, 0.55);
+    border-radius: 999px;
+    box-shadow: var(--shadow-pop);
+    opacity: 0;
+    transform: translate(-50%, 12px);
+    pointer-events: none;
+    transition: opacity .2s var(--ease), transform .2s var(--ease);
+  }
+
+  .aviso-v3.visivel { opacity: 1; transform: translate(-50%, 0); }
+
   /* Toque (celular): sem o "pulo" do hover preso depois de tocar */
   @media (hover: none) {
     li.entry:hover { transform: none; box-shadow: var(--shadow-sm); border-color: var(--rule); border-left-color: var(--case-color, var(--rule)); }
@@ -1298,6 +1362,7 @@
     .lista-busca, .campo-v3, .periodo-filter .campo-v3 { font-size: 16px; }
     .campo-v3 { min-height: var(--toque); }
     .periodo-filter .campo-v3 { min-height: 42px; }
+    .acao-v3 { width: 42px; height: 42px; }
   }
 
   /* --- Busca: botão apagar, dica "/" (só com mouse), destaque dos termos e trecho da ementa --- */
@@ -1526,6 +1591,8 @@
 
   @media (prefers-reduced-motion: reduce) {
     .controls.filtros-abertos #painelFiltros { animation: none; }
+    li.entry.em-destaque { animation: none; box-shadow: 0 0 0 3px var(--ouro), var(--shadow-md); }
+    .aviso-v3 { transform: translate(-50%, 0); }
   }
 </style>
 </head>
@@ -4696,6 +4763,8 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
 
 </div>
 
+<div class="aviso-v3" id="avisoV3" role="status" aria-live="polite"></div>
+
 <dialog class="viewer" id="pdfViewer" aria-labelledby="viewerTitle">
   <div class="viewer-head">
     <div class="viewer-title">
@@ -6142,9 +6211,144 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     });
   });
 
+  // ---- Aviso curto (role="status"), para os botões só com ícone ----
+  var aviso = document.getElementById('avisoV3');
+  function avisar(msg) {
+    if (!aviso) return;
+    clearTimeout(aviso._tempo);
+    aviso.textContent = '';
+    aviso.classList.remove('visivel');
+    void aviso.offsetWidth; // reinicia a animação e o anúncio
+    aviso.textContent = msg;
+    aviso.classList.add('visivel');
+    aviso._tempo = setTimeout(function () { aviso.classList.remove('visivel'); }, 2600);
+  }
+
+  // ---- Identificação de cada decisão (link direto e lista de salvas) ----
+  // ID = data-pdf do botão "Abrir PDF" (ex.: pdf-hc-1109495). Sem PDF, vem do
+  // tribunal e do número do recurso (ex.: stf-are-1585074-sp).
+  var porId = {};
+  dados.forEach(function (d, li) {
+    var a = li.querySelector('a.pdf-link[data-pdf]:not(.info)');
+    var id = a ? a.getAttribute('data-pdf') : '';
+    if (!id) {
+      var cite = li.querySelector('.cite');
+      var numero = cite ? Array.prototype.filter.call(cite.childNodes, function (n) { return n.nodeType === 3; })
+        .map(function (n) { return n.textContent; }).join(' ').split(/\s[^\s\w\/.]\s/)[0] : '';
+      id = (li.getAttribute('data-tribunal') || 'decisao') + '-' +
+        dobrar(numero).replace(/(^|\s)n[o.]?(?=\s)/g, ' ').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    }
+    var base = id, n = 2;
+    while (porId[id]) id = base + '-' + n++;
+    porId[id] = li;
+    d.id = id;
+  });
+
+  // Partes da linha do recurso: "STJ", "AgRg no RHC nº 210983 / DF", "Recurso desprovido"
+  function citacaoDe(li) {
+    var cite = li.querySelector('.cite');
+    if (!cite) return { sigla: '', recurso: '', resultado: '' };
+    var tag = cite.querySelector('.tribunal-tag'), res = cite.querySelector('.resultado-tag');
+    var recurso = Array.prototype.filter.call(cite.childNodes, function (n) { return n.nodeType === 3; })
+      .map(function (n) { return n.textContent; }).join(' ').replace(/\s+/g, ' ').trim();
+    return { sigla: tag ? tag.textContent.trim() : '', recurso: recurso, resultado: res ? res.textContent.trim() : '' };
+  }
+
+  function tituloDe(li) {
+    var c = citacaoDe(li);
+    return [c.sigla, c.recurso, c.resultado].filter(Boolean).join(' · ');
+  }
+
+  // ---- Ações novas em cada cartão, à direita da linha de botões ----
+  // Criadas aqui (como as palavras-chave do script principal); o HTML das
+  // decisões não muda. Os botões existentes continuam onde estão.
+  function acoesDe(li) {
+    var caixa = li.querySelector(':scope > .acoes-v3');
+    if (!caixa) {
+      caixa = document.createElement('span');
+      caixa.className = 'acoes-v3';
+      li.appendChild(caixa);
+    }
+    return caixa;
+  }
+
+  function botaoIcone(classe, rotulo) {
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'acao-v3 ' + classe;
+    b.setAttribute('aria-label', rotulo);
+    b.title = rotulo;
+    return b;
+  }
+
+  // ---- Link direto para uma decisão: ?id=pdf-hc-1109495 ----
+  // Fora do site publicado (HTML aberto do computador ou dentro do claude.ai), o
+  // link copiado aponta para o endereço público abaixo.
+  var ENDERECO_PUBLICO = 'https://ladirf.github.io/acervo/';
+  var noSite = /^https?:$/.test(location.protocol) && !(window.claude && typeof window.claude.use === 'function');
+  var compartilha = !!(navigator.share && window.matchMedia && window.matchMedia('(pointer: coarse)').matches);
+
+  function linkDe(li) {
+    var d = dados.get(li);
+    return (noSite ? location.origin + location.pathname : ENDERECO_PUBLICO) + '?id=' + encodeURIComponent(d.id);
+  }
+
+  dados.forEach(function (d, li) {
+    var b = botaoIcone('acao-link' + (compartilha ? ' compartilhar' : ''), (compartilha ? 'Compartilhar: ' : 'Copiar link: ') + tituloDe(li));
+    b.title = compartilha ? 'Compartilhar' : 'Copiar link';
+    acoesDe(li).appendChild(b);
+  });
+
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('.acao-link');
+    if (!b) return;
+    var li = b.closest('li.entry');
+    var url = linkDe(li);
+    function copiar() {
+      A.copiarTexto(url).then(function () { avisar('Link copiado'); }, function () { avisar('Não foi possível copiar o link'); });
+    }
+    if (compartilha) {
+      navigator.share({ title: tituloDe(li), text: tituloDe(li), url: url }).catch(function (err) {
+        if (!err || err.name !== 'AbortError') copiar();
+      });
+    } else copiar();
+  });
+
+  // Ao abrir com ?id=…: vai à página da decisão, rola até ela e a destaca. Se os
+  // filtros do endereço a escondem, limpa os filtros. O id sai do endereço depois.
+  var ultimaLista = null;
+  aoAplicar.push(function (info) { ultimaLista = info; });
+
+  function abrirDecisao(id) {
+    try {
+      var p = new URLSearchParams(location.search);
+      p.delete('id');
+      var qs = p.toString();
+      history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
+    } catch (e) {}
+    var li = porId[id];
+    if (!li) { avisar('Decisão não encontrada no acervo'); return; }
+    if (!ultimaLista || ultimaLista.visiveis.indexOf(li) === -1) A.limpar();
+    var pos = ultimaLista ? ultimaLista.visiveis.indexOf(li) : -1;
+    if (pos === -1) return;
+    var pag = Math.floor(pos / A.porPagina) + 1;
+    if (pag !== ultimaLista.pagina) A.irParaPagina(pag);
+    li.setAttribute('tabindex', '-1');
+    li.classList.add('em-destaque');
+    var calmo = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    requestAnimationFrame(function () {
+      li.scrollIntoView({ block: 'center', behavior: calmo ? 'auto' : 'smooth' });
+      li.focus({ preventScroll: true });
+    });
+    setTimeout(function () { li.classList.remove('em-destaque'); }, 4500);
+  }
+
   // Primeira atualização com os recursos v3 (mantém a página lida do endereço).
   aoAplicar.push(gravarEnderecoV3);
   A.aplicar(true);
+
+  var idPedido = lidoDoEndereco && lidoDoEndereco.get('id');
+  if (idPedido) abrirDecisao(idPedido);
 })();
 </script>
 
