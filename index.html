@@ -1238,6 +1238,20 @@
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23A39C92' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
   }
 
+  .periodo-filter .campo-v3 { min-width: 170px; min-height: 34px; font-size: 14px; }
+  .campo-v3.ativo {
+    font-weight: 600;
+    color: var(--ativo-ink);
+    background-color: var(--ativo-bg);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23F4F1EA' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    border-color: var(--ativo-bg);
+    box-shadow: inset 0 -2px 0 var(--ativo-marca);
+  }
+
+  :root[data-theme="dark"] .campo-v3.ativo {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23111111' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  }
+
   .campo-v3:hover { border-color: var(--rule-strong); }
   .campo-v3:focus-visible { outline: none; border-color: var(--focus); box-shadow: 0 0 0 3px var(--focus-ring); }
   .campo-v3 option { color: var(--ink); background: var(--paper-raised); }
@@ -1281,8 +1295,9 @@
     li.entry > .pdf-link { min-height: 40px; padding: 7px 15px; font-size: 14px; }
     .tema-toggle { width: var(--toque); height: var(--toque); }
     /* 16 px: com menos que isso o iPhone amplia a página ao tocar no campo */
-    .lista-busca, .campo-v3 { font-size: 16px; }
+    .lista-busca, .campo-v3, .periodo-filter .campo-v3 { font-size: 16px; }
     .campo-v3 { min-height: var(--toque); }
+    .periodo-filter .campo-v3 { min-height: 42px; }
   }
 
   /* --- Busca: botão apagar, dica "/" (só com mouse), destaque dos termos e trecho da ementa --- */
@@ -1555,6 +1570,12 @@
           <input type="text" class="lista-busca" autocomplete="off" aria-label="Filtrar lista de crimes e temas">
           <ul class="lista-opcoes" role="listbox" aria-label="Crimes e temas"></ul>
         </div>
+      </div>
+      <div class="filter-group periodo-filter">
+        <label class="label" for="periodoSelect">Período</label>
+        <select class="campo-v3" id="periodoSelect">
+          <option value="">Qualquer data</option>
+        </select>
       </div>
     </div>
     <div class="count-row">
@@ -5921,6 +5942,85 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     });
     noEndereco.push(function (p) {
       if (ordemEscolhida) p.set('ordem', ordemEscolhida); else p.delete('ordem');
+    });
+  }
+
+  // ---- Período: Qualquer data, Últimos 12 meses, os quatro anos mais recentes e "Até AAAA" ----
+  // Montado a partir da data de publicação, com a quantidade de decisões de cada
+  // opção. No endereço: ?periodo=12m, ?periodo=2025 ou ?periodo=ate-2022.
+  var periodoSelect = document.getElementById('periodoSelect');
+  var periodo = '';
+
+  var hoje = new Date();
+  var desde12m = (hoje.getFullYear() - 1) * 10000 + (hoje.getMonth() + 1) * 100 + hoje.getDate();
+
+  function anoDe(d) { return Math.floor(d.data / 10000); }
+
+  function casaPeriodo(d, valor) {
+    if (!valor) return true;
+    if (valor === '12m') return d.data >= desde12m;
+    if (valor.indexOf('ate-') === 0) return anoDe(d) <= Number(valor.slice(4));
+    return anoDe(d) === Number(valor);
+  }
+
+  function rotuloPeriodo(valor) {
+    if (valor === '12m') return 'últimos 12 meses';
+    if (valor.indexOf('ate-') === 0) return 'até ' + valor.slice(4);
+    return valor;
+  }
+
+  function contarPeriodo(valor) {
+    var n = 0;
+    dados.forEach(function (d) { if (d.data && casaPeriodo(d, valor)) n++; });
+    return n;
+  }
+
+  function opcaoPeriodo(valor, texto) {
+    var o = document.createElement('option');
+    o.value = valor;
+    o.textContent = texto + ' (' + contarPeriodo(valor) + ')';
+    periodoSelect.appendChild(o);
+    return o;
+  }
+
+  function mudarPeriodo(valor) {
+    periodo = valor;
+    periodoSelect.value = valor;
+    periodoSelect.classList.toggle('ativo', !!valor);
+  }
+
+  if (periodoSelect) {
+    var anos = [];
+    dados.forEach(function (d) { var a = anoDe(d); if (a && anos.indexOf(a) === -1) anos.push(a); });
+    anos.sort(function (a, b) { return b - a; });
+    opcaoPeriodo('12m', 'Últimos 12 meses');
+    anos.slice(0, 4).forEach(function (a) { opcaoPeriodo(String(a), String(a)); });
+    if (anos.length > 4) opcaoPeriodo('ate-' + anos[4], 'Até ' + anos[4]);
+
+    // Valor pedido pelo endereço; um ano fora da lista ganha a sua própria opção
+    var pedido = lidoDoEndereco && lidoDoEndereco.get('periodo');
+    if (pedido && /^(12m|\d{4}|ate-\d{4})$/.test(pedido)) {
+      if (!periodoSelect.querySelector('option[value="' + pedido + '"]')) {
+        opcaoPeriodo(pedido, pedido.indexOf('ate-') === 0 ? 'Até ' + pedido.slice(4) : pedido);
+      }
+      mudarPeriodo(pedido);
+    }
+
+    periodoSelect.addEventListener('change', function () {
+      mudarPeriodo(periodoSelect.value);
+      A.aplicar();
+    });
+    filtros.push(function (li) {
+      var d = dados.get(li);
+      return !periodo || !d || casaPeriodo(d, periodo);
+    });
+    ativos.push(function () { return !!periodo; });
+    aoLimpar.push(function () { mudarPeriodo(''); });
+    fichasExtras.push(function () {
+      return periodo ? { rotulo: 'Período: ' + rotuloPeriodo(periodo), remover: function () { mudarPeriodo(''); A.aplicar(); } } : null;
+    });
+    noEndereco.push(function (p) {
+      if (periodo) p.set('periodo', periodo); else p.delete('periodo');
     });
   }
 
