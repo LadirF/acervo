@@ -1182,7 +1182,7 @@
 <style id="design-v3">
   /* ===== Design v3 (19/10/2026): mantém o cabeçalho preto e dourado, a Century Gothic,
      o tema claro como padrão e a cor do tribunal na borda dos cartões. Acrescenta o visual
-     dos recursos v3 (bloco <script id="recursos-v3">). Para voltar ao design v2: apagar
+     dos recursos v3 (bloco de script "recursos-v3"). Para voltar ao design v2: apagar
      este bloco, o script recursos-v3 e a marcação listada no PORTAR.md. ===== */
 
   /* --- Base: dourado de texto com contraste AA no tema claro (o --ouro fica nos detalhes) --- */
@@ -1763,13 +1763,14 @@
     .aviso-v3 { bottom: calc(76px + env(safe-area-inset-bottom, 0px)); }
   }
 
-  /* --- Transições: os cartões entram suavemente quando a lista muda --- */
+  /* --- Transições: os cartões que entram na lista (busca, filtro, página) deslizam de leve.
+     A classe vem do recursos-v3 e não vale na carga da página (199 animações ao abrir pesavam). --- */
   @keyframes entrar-v3 {
     from { opacity: 0; transform: translateY(6px); }
     to   { opacity: 1; transform: none; }
   }
 
-  li.entry { animation: entrar-v3 .3s var(--ease) backwards; }
+  li.entry.entrando { animation: entrar-v3 .3s var(--ease) backwards; }
 
   /* --- Leitor de PDF v3: barra com zoom e página; a pinça amplia só o documento --- */
   .viewer-head, .viewer-ferramentas, .viewer-busca { position: relative; z-index: 2; }
@@ -1932,7 +1933,7 @@
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .controls.filtros-abertos #painelFiltros, li.entry { animation: none; }
+    .controls.filtros-abertos #painelFiltros, li.entry.entrando { animation: none; }
     li.entry.em-destaque { animation: none; box-shadow: 0 0 0 3px var(--ouro), var(--shadow-md); }
     .aviso-v3 { transform: translate(-50%, 0); }
     .topo-v3, .topo-v3.visivel { transform: none; }
@@ -5155,7 +5156,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
 
   var state = { search: '', tribunal: 'all', decisao: 'all', relator: 'all', crime: 'all' };
 
-  // v3 (19/10/2026): ganchos preenchidos pelo bloco <script id="recursos-v3">
+  // v3 (19/10/2026): ganchos preenchidos pelo bloco de script "recursos-v3"
   // (busca sem acento, período, salvas, ordem, leitor de PDF com zoom e busca).
   // Sem esse bloco ficam vazios e a página funciona como antes.
   var ganchos = {};
@@ -5904,7 +5905,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
 /* ===== Recursos v3 (19/10/2026): busca sem acento e na ementa, ordem, período, temas
    frequentes, link direto, referência, decisões salvas e leitor de PDF com zoom e busca.
    Usa os ganchos do script principal (window.acervo). Para voltar ao comportamento
-   anterior: apagar este bloco e o <style id="design-v3">. ===== */
+   anterior: apagar este bloco e o bloco de estilo "design-v3". ===== */
 (function () {
   var A = window.acervo;
   if (!A || !A.ganchos) return;
@@ -6069,6 +6070,10 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
   A.entries.forEach(function (li, i) {
     dados.set(li, {
       ordem: i,
+      grupo: A.grupoTribunal(li.getAttribute('data-tribunal') || ''),
+      decisao: li.getAttribute('data-decisao'),
+      relator: li.getAttribute('data-relator'),
+      crimes: (li.getAttribute('data-crimes') || '').split('|'),
       campos: [
         dobrar(textoEmPartes(li.querySelector('.cite'))),
         dobrar(textoEmPartes(li.querySelector('.tema'))),
@@ -6561,14 +6566,13 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
   aoAplicar.push(function () {
     var s = A.state, cont = { all: 0 };
     var comBusca = s.search.trim() !== '';
-    A.entries.forEach(function (li) {
-      if (s.decisao !== 'all' && li.getAttribute('data-decisao') !== s.decisao) return;
-      if (s.relator !== 'all' && li.getAttribute('data-relator') !== s.relator) return;
-      if (s.crime !== 'all' && (li.getAttribute('data-crimes') || '').split('|').indexOf(s.crime) === -1) return;
+    dados.forEach(function (d, li) {
+      if (s.decisao !== 'all' && d.decisao !== s.decisao) return;
+      if (s.relator !== 'all' && d.relator !== s.relator) return;
+      if (s.crime !== 'all' && d.crimes.indexOf(s.crime) === -1) return;
       if (comBusca && casou.get(li) === false) return;
       if (!G.filtro(li)) return;
-      var g = A.grupoTribunal(li.getAttribute('data-tribunal'));
-      cont[g] = (cont[g] || 0) + 1;
+      cont[d.grupo] = (cont[d.grupo] || 0) + 1;
       cont.all++;
     });
     Object.keys(qtdTribunal).forEach(function (v) {
@@ -6743,13 +6747,17 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
   function ehSalva(li) { return salvas.indexOf(dados.get(li).id) !== -1; }
   function quantasSalvas() { return salvas.filter(function (id) { return porId[id]; }).length; }
 
+  // Marcador e fita de cada cartão: só quando a lista muda
+  function pintarSalvas() {
+    dados.forEach(function (d, li) {
+      var salva = salvas.indexOf(d.id) !== -1;
+      if (d.botaoSalvar) d.botaoSalvar.setAttribute('aria-pressed', String(salva));
+      li.classList.toggle('salva', salva);
+    });
+  }
+
   function mostrarSalvas() {
     var n = quantasSalvas();
-    dados.forEach(function (d, li) {
-      var b = li.querySelector('.acao-salvar');
-      if (b) b.setAttribute('aria-pressed', String(salvas.indexOf(d.id) !== -1));
-      li.classList.toggle('salva', salvas.indexOf(d.id) !== -1);
-    });
     salvasToggle.hidden = !n && !soSalvas;
     salvasToggle.setAttribute('aria-pressed', String(soSalvas));
     salvasToggle.setAttribute('aria-label', 'Só salvas, ' + n + (n === 1 ? ' decisão' : ' decisões'));
@@ -6781,7 +6789,9 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       b.title = 'Salvar decisão';
       b.setAttribute('aria-pressed', 'false');
       acoesDe(li).appendChild(b);
+      d.botaoSalvar = b;
     });
+    pintarSalvas();
 
     document.addEventListener('click', function (e) {
       var b = e.target.closest('.acao-salvar');
@@ -6793,6 +6803,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
         avisouSemGuardar = true;
         avisar('Este navegador não guarda a lista: ela vale só nesta visita');
       } else avisar(i === -1 ? 'Decisão salva' : 'Removida das salvas');
+      pintarSalvas();
       if (soSalvas) A.aplicar(true); else mostrarSalvas();
     });
 
@@ -6813,6 +6824,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       if (!n || !window.confirm(n === 1 ? 'Remover a decisão salva neste navegador?' : 'Remover as ' + n + ' decisões salvas neste navegador?')) return;
       salvas = [];
       gravarSalvas();
+      pintarSalvas();
       soSalvas = false;
       A.aplicar();
       avisar('Lista esvaziada');
@@ -6826,6 +6838,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     window.addEventListener('storage', function (e) {
       if (e.key !== CHAVE_SALVAS) return;
       salvas = lerSalvas();
+      pintarSalvas();
       A.aplicar(true);
     });
   }
@@ -6940,6 +6953,19 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     });
   }
 
+  // ---- Transições: os cartões que entram na lista deslizam de leve ----
+  // Só os que acabaram de aparecer (não na carga da página, nem os que já estavam).
+  var mostradasAntes = null;
+  aoAplicar.push(function (info) {
+    if (mostradasAntes) info.mostradas.forEach(function (li) {
+      if (!mostradasAntes.has(li)) li.classList.add('entrando');
+    });
+    mostradasAntes = new Set(info.mostradas);
+  });
+  document.addEventListener('animationend', function (e) {
+    if (e.animationName === 'entrar-v3') e.target.classList.remove('entrando');
+  });
+
   // ---- Botão "Voltar ao topo", depois de rolar mais de uma tela ----
   var voltarTopo = document.getElementById('voltarTopo');
   if (voltarTopo) {
@@ -6958,7 +6984,8 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       // Pelo teclado, o foco vai para a busca; no toque, não abre o teclado do celular
       if (e.detail === 0 && campoBusca) campoBusca.focus({ preventScroll: true });
     });
-    marcarTopo();
+    // No primeiro quadro (ler a rolagem agora forçaria o navegador a medir a página antes da hora)
+    quadroTopo = requestAnimationFrame(marcarTopo);
   }
 
   // ---- Leitor de PDF v3: zoom (botões, teclado e pinça) e indicador de página ----
