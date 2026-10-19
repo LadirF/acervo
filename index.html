@@ -1561,7 +1561,10 @@
   .qtd-v3 { margin-left: 6px; font-size: 0.86em; font-weight: 600; color: var(--ink-muted); font-variant-numeric: tabular-nums; }
   .chips button .qtd-v3 { margin-left: 0; }
   .chips button.active .qtd-v3 { color: inherit; opacity: 0.8; }
-  .chips button.sem-resultado:not(.active) { opacity: 0.55; }
+  /* Tribunal sem resultado com os filtros atuais: borda tracejada e bolinha vazada
+     (sem esmaecer o texto, que mantém o contraste) */
+  .chips button.sem-resultado:not(.active) { border-style: dashed; box-shadow: none; }
+  .chips button.sem-resultado:not(.active) .dot { background: transparent; box-shadow: inset 0 0 0 1.5px var(--chip); }
 
   @media (max-width: 640px) {
     .temas-frequentes {
