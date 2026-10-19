@@ -6062,14 +6062,19 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
     return el ? Array.prototype.map.call(el.childNodes, function (n) { return n.textContent; }).join(' ') : '';
   }
 
+  // Ementa oficial (texto do <template class="ementa">), lida uma vez na preparação
   function ementaDe(li) {
+    var d = dados.get(li);
+    if (d) return d.ementaTexto;
     var tpl = li.querySelector('template.ementa');
     return tpl ? (tpl.content ? tpl.content.textContent : tpl.textContent).trim() : '';
   }
 
   A.entries.forEach(function (li, i) {
+    var ementa = ementaDe(li);
     dados.set(li, {
       ordem: i,
+      ementaTexto: ementa,
       grupo: A.grupoTribunal(li.getAttribute('data-tribunal') || ''),
       decisao: li.getAttribute('data-decisao'),
       relator: li.getAttribute('data-relator'),
@@ -6080,7 +6085,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
         dobrar((li.getAttribute('data-crimes') || '').split('|').join(' · ')),
         dobrar(li.getAttribute('data-search') || ''),
         dobrar(textoEmPartes(li.querySelector('p.meta'))),
-        dobrar(ementaDe(li))
+        dobrar(ementa)
       ]
     });
   });
@@ -6220,7 +6225,6 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
 
   function montarTrecho(li, d, termos, alvo) {
     if (!d.ementaMapa) {
-      d.ementaTexto = ementaDe(li);
       d.ementaMapa = [];
       d.ementaDob = dobrar(d.ementaTexto, d.ementaMapa);
     }
@@ -7233,6 +7237,7 @@ VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 
       if (!L.doc || !leitorDialog.open) return;
       clearTimeout(L.tempoTela);
       L.tempoTela = setTimeout(function () {
+        if (!L.doc || !L.folhas.length || !leitorDialog.open) return; // fechou durante a espera
         var nova = larguraBase();
         if (Math.abs(nova - L.base) < 1) { atualizarLeitor(); return; }
         var f = folhaEm(leitorCorpo.scrollTop);
