@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 1 de 22 (decisões 1 a 10)
+# Acervo de Jurisprudência — Cury Advogados — parte 1 de 25 (decisões 1 a 10)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 219 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 249 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,45 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 1. AgRg no AREsp nº 3101436 / ES (STJ)
+## 1. RE nº 1.623.966 / SC (STF)
+- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 21/10/2026.
+- Crime / Tema: Crimes contra as relações de consumo · ANPP
+- Resumo: O ANPP cabe em processo sem trânsito em julgado, mesmo com denúncia recebida antes da Lei 13.964/2019 e condenação já em grau de recurso (HC 185.913/STF). RE da defesa provido: autos ao MP para avaliar o acordo.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1623966.pdf
+
+## 2. AgRg no REsp nº 1939308 / DF (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Roubo · Prova digital · Quebra da cadeia de custódia
+- Resumo: Acessar os dados do celular apreendido no flagrante sem ordem judicial nem consentimento é ilícito (Tema 977/STF), e a confissão em juízo, obtida só porque o réu foi identificado por essa devassa, é prova derivada e também ilícita. Sentença cassada para nova análise sem essas provas; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1939308.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. ACESSO A DADOS DE APARELHO CELULAR. RESERVA DE JURISDIÇÃO. ENCONTRO FORTUITO. CADEIA DE CUSTÓDIA. AUSÊNCIA DE ELEMENTOS SEGUROS DE AUTORIA. ILICITUDE DA PROVA. CONFIGURAÇÃO. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. CONFISSÃO JUDICIAL COMO PROVA DERIVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A jurisprudência das Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça firmou-se no sentido de considerar ilícita a devassa de dados constantes de celular, obtidas diretamente pela polícia em aparelho apreendido, por ocasião da prisão em flagrante, sem prévia autorização judicial. O Supremo Tribunal Federal, ao julgar o ARE n. 1.042.075 (Tema n. 977 da Repercussão Geral), fixou a tese de que, em se tratando de aparelho celular apreendido na forma do art. 6º do CPP ou por ocasião de prisão em flagrante, o acesso aos respectivos dados será condicionado ao consentimento expresso e livre do titular dos dados ou de prévia decisão judicial, que justifique, com base em elementos concretos, a proporcionalidade da medida e delimite sua abrangência à luz dos direitos fundamentais à intimidade, à privacidade, à proteção dos dados pessoais e à autodeterminação informacional, inclusive nos meios digitais (art. 5º, X e LXXIX, da CRFB/88).
+  > 2. A mera apreensão do dispositivo não autoriza, por si só, o acesso aos dados nele armazenados. Tratam-se de atos juridicamente distintos: enquanto a apreensão constitui providência cautelar destinada a preservar a fonte de prova, o acesso ao conteúdo do aparelho configura verdadeira medida de busca de prova, sujeita à reserva de jurisdição, por implicar restrição a direitos fundamentais. Na sociedade contemporânea, o aparelho celular deixou de ser mero instrumento de comunicação por voz para se tornar verdadeiro repositório da vida privada de seu usuário, pois nele estão armazenados, além dos registros de chamadas e mensagens, fotografias pessoais, dados bancários, informações de saúde, histórico de localização, correspondências eletrônicas e interações em redes sociais — conjunto de informações que, reunido, permite traçar perfil detalhado da intimidade, dos hábitos e das relações pessoais do indivíduo. A razão do Supremo ao criar a hipótese do item 1.1 do Tema n. 977 foi precisamente a de contemplar situação em que a polícia, sem nenhuma medida coercitiva prévia, encontra objeto abandonado no espaço público ou na cena do crime, sem nenhuma intervenção sobre a pessoa do suspeito. Ainda que se admitisse o enquadramento do caso concreto na hipótese de encontro fortuito prevista no item 1.1 do Tema n. 977, a dispensa de autorização judicial ali consagrada não é absoluta nem incondicionada: o próprio enunciado da tese exige a) que o acesso tenha por finalidade exclusiva o esclarecimento da autoria do fato criminoso ou da identidade do proprietário do aparelho e b) que a adoção da medida seja justificada posteriormente.
+  > 3. No caso concreto, o aparelho celular não foi encontrado pela polícia na cena do crime durante inspeção de rotina ou em local público. Foi resgatado pela própria vítima, que o avistou durante a perseguição que empreendeu contra os autores do delito, e posteriormente entregue à autoridade policial na delegacia, por ocasião do registro da ocorrência. O intervalo entre o resgate do aparelho pela vítima e a sua efetiva entrega à autoridade policial, sem nenhum registro formal de lacramento ou preservação da cadeia de custódia dos dados telemáticos, compromete a integridade e a confiabilidade do material probatório. Ademais, a moldura fática delineada nos autos evidencia a total ausência de elementos que permitam concluir, com a segurança mínima exigida pelo processo penal, que o aparelho celular encontrado durante a fuga pertencia, efetivamente, a um dos autores do roubo e, mais especificamente, ao recorrente. A própria vítima declarou expressamente que não foi possível reconhecer o postulante como um dos autores do roubo, uma vez que este se encontrava com o rosto coberto por uma máscara durante a ação delituosa, de forma que sua identificação se fundou exclusivamente na existência de fotografias suas armazenadas no aparelho celular encontrado — circunstância que, no máximo, indica a titularidade do dispositivo, mas que é insuficiente para demonstrar o envolvimento na ação delituosa. O acesso aos dados do celular foi, simultaneamente, o único meio disponível para identificar o suspeito e a única prova de sua participação no delito.
+  > 4. A confissão judicial foi colhida em momento posterior à identificação do agravado por meio do acesso ilícito ao celular. Sem a devassa nos dados do aparelho, o agravado jamais teria sido identificado, jamais haveria sido investigado, jamais haveria sido denunciado e, portanto, jamais haveria prestado declarações em juízo. A confissão é, nessa perspectiva, um fruto derivado da prova ilícita, alcançada pela teoria dos frutos da árvore envenenada (art. 157, § 1º, do CPP). O reconhecimento da ilicitude da prova originária não afasta, per se, a condenação: a cassação da sentença foi determinada para que o Juízo de primeiro grau proceda a nova análise do conjunto probatório remanescente, devendo expurgar as provas ilícitas e suas derivadas e verificar se, sem elas, ainda há suporte suficiente para a manutenção da condenação. A teoria da descoberta inevitável (art. 157, § 2º, do CPP), invocável quando a prova seria produzida de qualquer modo como resultado das atividades investigativas regulares, não se aplica ao caso, pois não há nos autos nenhum elemento que indique que a identificação do agravado seria inevitavelmente alcançada por outro meio independente; ao contrário, as diligências realizadas foram infrutíferas e a vítima era incapaz de reconhecê-lo.
+  > 5. Agravo regimental não provido.
+  > (AgRg no REsp n. 1.939.308/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/10/2026, DJEN de 20/10/2026.)
+
+## 3. RE nº 1.616.000 / SP (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 20/10/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Entrada na casa só por denúncia anônima, com consentimento do morador não documentado e contestado em juízo, é ilícita (Tema 280/STF). Mantida a absolvição concedida pelo STJ; RE do MP com seguimento negado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1616000.pdf
+
+## 4. ARE nº 1.623.674 / GO (STF)
+- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
+- Crime / Tema: Homicídio · Tribunal do Júri
+- Resumo: Gravação inaudível da sessão plenária do Júri, por defeito técnico, prejudica a defesa e anula o julgamento a partir do plenário, como decidiu o TJGO. ARE do MP com seguimento negado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623674.pdf
+
+## 5. RE nº 1.629.803 / SP (STF)
+- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: O exame criminológico obrigatório para a progressão, trazido pela Lei 14.843/2024, é norma mais gravosa e não retroage; o juiz pode exigi-lo só por decisão fundamentada no caso concreto (SV 26). RE do MP com seguimento negado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1629803.pdf
+
+## 6. AgRg no AREsp nº 3101436 / ES (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento por show up (só o suspeito é mostrado), sem as regras do art. 226 do CPP, com vítimas inseguras em juízo e sem outra prova, não sustenta a condenação (Tema 1.258/STJ). Revaloração jurídica afasta a Súmula 7. Réu absolvido.
@@ -21,7 +59,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental provido para conhecer do agravo e dar provimento ao recurso especial.
   > (AgRg no AREsp n. 3.101.436/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 19/10/2026.)
 
-## 2. AgRg no HC nº 1061845 / SP (STJ)
+## 7. AgRg no HC nº 1061845 / SP (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Excesso de prazo · Justa causa
 - Resumo: A duração razoável do processo vale também para a investigação: procedimento do MP aberto há quase 7 anos, sem avanço concreto quanto ao investigado, foi trancado. A complexidade não justifica prazo indefinido. O juízo reavalia a devolução dos valores apreendidos.
@@ -48,7 +86,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 14. Agravo regimental desprovido.
   > (AgRg no HC n. 1.061.845/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 3. AgRg no REsp nº 2282869 / SP (STJ)
+## 8. AgRg no REsp nº 2282869 / SP (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Faltas graves antigas e já reabilitadas não podem impedir para sempre o livramento condicional (Tema 1.161/STJ), e o exame criminológico não vincula o juiz. Mais de 5 anos sem falta e o livramento cumprido sem problemas mostram o mérito. Agravo do MP desprovido.
@@ -69,7 +107,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Resultado do Julgamento: Agravo regimental desprovido.
   > (AgRg no REsp n. 2.282.869/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 4. HC nº 1104329 / PE (STJ)
+## 9. HC nº 1104329 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: A pronúncia exige indícios de autoria produzidos em juízo; o in dubio pro societate não supre a falta deles. O TJ restaurou a pronúncia com elementos do inquérito, contra a impronúncia baseada em falta de reconhecimento, ERB compatível com o álibi e ausência de perícia na arma. Impronúncia restabelecida de ofício.
@@ -83,7 +121,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Habeas corpus não conhecido. Ordem concedida de ofício.
   > (HC n. 1.104.329/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 19/10/2026.)
 
-## 5. AgRg no HC nº 1099090 / RS (STJ)
+## 10. AgRg no HC nº 1099090 / RS (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria
 - Resumo: Frieza, promessas de morte e extensão dos ferimentos são inerentes ao homicídio e não elevam a culpabilidade; sofrimento da família e vítima de 29 anos tratada como de tenra idade não pesam nas consequências. O AREsp barrado na admissibilidade não impede o HC. Agravo do MP desprovido.
@@ -111,69 +149,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. A negativação da vetorial culpabilidade exige elementos concretos que extrapolem as circunstâncias do tipo penal, não se prestando a tal fim a mera gravidade do resultado ou ameaças genéricas.
   > 4. A negativação das consequências do crime demanda prova de efeitos extraordinários que transcendam o resultado típico, não sendo idôneos, por si, o sofrimento dos familiares e a qualificação de vítima de 29 anos como de tenra idade.
   > (AgRg no HC n. 1.099.090/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
-
-## 6. AgRg no REsp nº 2230033 / MG (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Tráfico de drogas · Dosimetria
-- Resumo: Afastada uma circunstância judicial em recurso só da defesa, a pena-base deve cair proporcionalmente (Tema 1.214/STJ), sem frações matemáticas fixas. Redução feita pelo TJ mantida; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2230033.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DOSIMETRIA DA PENA-BASE. TEMA REPETITIVO 1.214/STJ. REDUÇÃO PROPORCIONAL APÓS AFASTAMENTO DE CIRCUNSTÂNCIA JUDICIAL. AUSÊNCIA DE DIREITO A FRAÇÕES FIXAS. AGRAVO DESPROVIDO.
-  > I. Caso em exame
-  > 1. O agravo. Agravo regimental interposto pelo órgão ministerial estadual contra decisão que conheceu do recurso especial e lhe negou provimento.
-  > 2. Fato relevante. Condenação pelos delitos do art. 33, caput, da Lei n. 11.343/2006 e do art. 16, § 1º, IV, da Lei n. 10.826/2003, em concurso material. Em recurso exclusivo da defesa, Tribunal estadual afastou a valoração negativa da personalidade e reduziu as penas-base, preservando a negativação dos antecedentes e, no tráfico, a quantidade e a variedade dos entorpecentes.
-  > 3. As decisões anteriores. No recurso especial, o órgão ministerial alegou violação aos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006 por desproporcionalidade na redução das penas-base. A decisão agravada negou provimento por não identificar ilegalidade ou manifesta desproporcionalidade no redimensionamento.
-  > II. Questão em discussão
-  > 2. Há duas questões em discussão: (i) saber se, em recurso exclusivo da defesa, o afastamento de circunstância judicial negativa impõe redução proporcional da pena-base, e se o redimensionamento efetuado pelo Tribunal estadual observou essa diretriz; e (ii) saber se a manutenção da valoração negativa dos maus antecedentes e, no delito de tráfico, da quantidade e variedade de drogas, com fixação de pena-base acima do mínimo legal, mostrou-se fundamentada e proporcional, inexistindo direito subjetivo a frações matemáticas fixas e flagrante ilegalidade que justifique intervenção excepcional.
-  > III. Razões de decidir
-  > 4. A Terceira Seção, no Tema Repetitivo n. 1.214/STJ (REsp 2.058.970/MG, 2.058.971/ MG e 2.058.976/MG), firmou tese obrigatória de redução proporcional da pena-base quando, em recurso exclusivo da defesa, o Tribunal afasta circunstância judicial negativa, ressalvadas hipóteses de mera correção de classificação de fato já valorado ou de reforço de fundamentação de circunstância mantida como desfavorável.
-  > 5. O redimensionamento realizado pelo Tribunal estadual observou o Tema 1.214/STJ, conferindo consequência concreta ao afastamento da personalidade, e preservou a negativação dos maus antecedentes e, no tráfico, a quantidade e variedade dos entorpecentes, nos termos do art. 42 da Lei n. 11.343/2006.
-  > 6. A dosimetria da pena não se submete a critério matemático rígido, inexistindo direito subjetivo à aplicação de frações específicas por cada circunstância judicial negativa; a revisão em recurso especial somente é admitida diante de flagrante ilegalidade ou manifesta desproporcionalidade.
-  > 7. Precedentes das Turmas criminais do STJ reafirmam que o aumento decorrente de circunstâncias judiciais pode ser fixado sem fórmula aritmética predeterminada, desde que fundamentado e compatível com os princípios da proporcionalidade, razoabilidade, necessidade e suficiência da pena.
-  > 8. No caso, a pena-base do tráfico foi fixada um ano acima do mínimo legal e a do delito de arma de fogo quatro meses acima, acréscimos que preservam a repercussão concreta das circunstâncias remanescentes e não se mostram irrisórios ou desproporcionais.
-  > 9. A pretensão ministerial traduz mero inconformismo com o grau de exasperação, sem demonstração de violação aos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006, razão pela qual se mantém a decisão agravada.
-  > IV. Dispositivo
-  > 6. Resultado do Julgamento: Agravo regimental desprovido.
-  > (AgRg no REsp n. 2.230.033/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
-
-## 7. AgRg nos EDcl no REsp nº 2117444 / RS (STJ)
-- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Corrupção passiva · Falsidade ideológica · ANPP · Prescrição
-- Resumo: O ANPP cabe em processos em curso até o trânsito em julgado, sem confissão prévia, e a recusa do MP tem de ser motivada e revista internamente (aqui foi). Reconhecida a prescrição superveniente da corrupção passiva privilegiada; mantida a falsidade ideológica.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2117444.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROVA EMPRESTADA. ACORDO DE NÃO PERSECUÇÃO PENAL. INDEPENDÊNCIA DAS INSTÂNCIAS. SÚMULA N. 7/STJ. PRESCRIÇÃO SUPERVENIENTE. RECURSO PARCIALMENTE PROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental contra decisão monocrática que negou provimento a recurso especial interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, em oposição a acórdão de Tribunal de Justiça estadual que manteve condenação pelos arts. 317, § 2º, e 299, parágrafo único, do Código Penal.
-  > 2. Condenação do agravante, então secretário municipal, por determinar ao fiscal sanitário subordinado a alteração de auto de apreensão e inutilização para beneficiar terceira interessada, com exclusão de itens classificados como impróprios ao consumo; penas fixadas em 1 ano e 9 meses de reclusão e 30 dias-multa (falsidade ideológica majorada) e 3 meses de detenção (corrupção passiva privilegiada), substituída a pena privativa de liberdade por restritivas de direitos.
-  > II. Questão em discussão
-  > 3. Há múltiplas questões em discussão: (i) saber se há nulidade pela utilização de prova emprestada em razão da inexistência de traslado aos autos físicos antes da sentença e juntada apenas na migração digital; (ii) saber se é devido o acordo de não persecução penal em processos em curso após a Lei 13.964/2019 e qual a extensão do controle judicial sobre a recusa ministerial; (iii) saber se a improcedência, por atipicidade superveniente, da ação de improbidade administrativa esvazia a justa causa da ação penal fundada nos mesmos fatos; (iv) saber se é possível revaloração jurídica para reconhecer atipicidade ou insuficiência probatória sem reexame de provas, diante da moldura fática fixada na origem; (v) saber se foi demonstrado dissídio jurisprudencial pela alínea c do art. 105, III, da CF; (vi) saber se houve prescrição da pretensão punitiva superveniente quanto ao crime do art. 317, § 2º, do CP; e (vii) saber se cabe concessão de habeas corpus de ofício.
-  > III. Razões de decidir
-  > 4. A alegada nulidade pela prova emprestada demanda incursão fática sobre a existência e o momento da juntada das mídias aos autos físicos, vedada pela Súmula n. 7/STJ; o acórdão recorrido assentou que a prova emprestada estava anexada e foi posteriormente juntada aos autos digitalizados, com manifestação defensiva e reabertura de vista. Além disso, a prova emprestada é admissível no processo penal desde que respeitados o contraditório e a ampla defesa, e a nulidade reclama demonstração de prejuízo concreto (CPP, art. 563), inexistente nos autos.
-  > 5. O acordo de não persecução penal é cabível em processos em curso quando da entrada em vigor da Lei n. 13.964/2019 e pode ser requerido até o trânsito em julgado, independentemente de confissão prévia; o Ministério Público deve motivar a recusa e submetê-la à revisão interna (art. 28-A, § 14, CPP; STF, HC n. 185.913; STJ, Tema n. 1.098). No caso, a recusa foi fundamentada em circunstâncias concretas e ratificada pelo órgão revisional. O controle judicial limita-se à legalidade e aos requisitos objetivos, sem substituição do juízo de suficiência da medida despenalizadora.
-  > 6. A improcedência da ação de improbidade administrativa por atipicidade superveniente de índole normativa (revogação do art. 11, I, da LIA e taxatividade do rol: Tema n. 1.199/STF) não afasta, por si só, a justa causa da ação penal. A exceção à independência entre as instâncias pressupõe afastamento categórico do dolo no juízo cível, o que não ocorreu; os tipos penais dos arts. 317, § 2º, e 299, parágrafo único, do CP permanecem incólumes.
-  > 7. A tese de atipicidade e a invocação de insuficiência probatória, contrapondo-se ao especial fim de agir e à moldura fática fixada pelo acórdão, exigem reexame de provas, vedado pela Súmula n. 7/STJ. A alegada ofensa ao art. 155 do CPP carece de prequestionamento, atraindo as Súmulas n. 211/STJ e 282 e 356/STF.
-  > 8. O dissídio jurisprudencial não foi demonstrado por ausência de cotejo analítico entre os julgados e por invocação de paradigma oriundo de habeas corpus, inapto à comprovação da divergência (CF, art. 105, III, c).
-  > 9. Reconhece-se a prescrição superveniente da pretensão punitiva do crime do art. 317, § 2º, do CP: pena concreta de 3 meses de detenção (CP, art. 110, § 1º), prazo prescricional de 3 anos (CP, art. 109, VI), último marco interruptivo na publicação do acórdão condenatório em 9/2/2023 (CP, art. 117, IV; STF, HC 176.473; STJ, Tema 1.100). Não houve novo marco interruptivo; embargos desacolhidos não interrompem o prazo e decisões do STJ não constituem causas interruptivas (STJ, HC n. 826.977). A causa impeditiva do CP, art. 116, III, não incide, pois o recurso especial foi admitido, mereceu conhecimento e foi desprovido, vedada interpretação extensiva em desfavor do réu.
-  > 10. O pedido de habeas corpus de ofício está prejudicado quanto ao crime prescrito e, quanto às demais teses, não se constata ilegalidade manifesta nem se supera o óbice da Súmula n. 7/STJ pela via de ofício.
-  > IV. Dispositivo
-  > 11. Agravo regimental parcialmente provido para declarar extinta a punibilidade do agravante quanto ao crime do art. 317, § 2º, do Código Penal, pela prescrição da pretensão punitiva superveniente, mantida a condenação pelo art. 299, parágrafo único, do Código Penal.
-  > (AgRg nos EDcl no REsp n. 2.117.444/RS, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
-
-## 8. HC nº 1134069 / SP (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Furto · Prisão e medidas cautelares
-- Resumo: O juiz não pode decretar a preventiva de ofício, sem pedido do MP ou representação da polícia (art. 311 do CPP; Súmula 676/STJ). Preventiva anulada num furto de 8 latas de Pringles, avaliadas em R$ 72.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134069.pdf
-
-## 9. HC nº 1109888 / SP (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Para o desaforamento basta dúvida fundada sobre a imparcialidade do Júri (art. 427 do CPP): cidade de 20 mil habitantes, grande repercussão e o poder público local tomando partido, com parecer favorável da Procuradoria de Justiça. Júri anulado e desaforado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109888.pdf
-
-## 10. HC nº 1114459 / PR (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Violência doméstica · Justa causa
-- Resumo: Lesão corporal culposa (art. 129, § 6º, do CP) exige a demonstração da violação do dever objetivo de cuidado e da previsibilidade; a dinâmica descrita era a de um acidente com o veículo. Réu absolvido por atipicidade (art. 386, III, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114459.pdf
