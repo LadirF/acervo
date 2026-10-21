@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — índice: STJ e STF (1 de 3) (100 decisões)
 
-Parte do índice do acervo (249 decisões no total, da mais recente para a mais antiga). As instruções para analisar um caso e os demais arquivos de índice estão em https://ladirf.github.io/acervo/acervo.md — leia-o antes e percorra **todos** os arquivos de índice. Cada item indica a parte (acervo-parte-N.md) onde estão a ementa oficial, a referência e o PDF.
+Parte do índice do acervo (252 decisões no total, da mais recente para a mais antiga). As instruções para analisar um caso e os demais arquivos de índice estão em https://ladirf.github.io/acervo/acervo.md — leia-o antes e percorra **todos** os arquivos de índice. Cada item indica a parte (acervo-parte-N.md) onde estão a ementa oficial, a referência e o PDF.
 
 ## Decisões
 
