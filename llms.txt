@@ -6,7 +6,7 @@
 - [Índice STJ e STF (1 de 3)](https://ladirf.github.io/acervo/acervo-indice-stj-stf.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice STJ e STF (2 de 3)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice STJ e STF (3 de 3)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md): 34 decisões com tipo de decisão, data, relator, crime / tema e resumo.
-- [Índice TRFs e tribunais estaduais](https://ladirf.github.io/acervo/acervo-indice-tribunais.md): 18 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice TRFs e tribunais estaduais](https://ladirf.github.io/acervo/acervo-indice-tribunais.md): 17 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Parte 1](https://ladirf.github.io/acervo/acervo-parte-1.md): ementas oficiais, referências e PDFs das decisões 1 a 10.
 - [Parte 2](https://ladirf.github.io/acervo/acervo-parte-2.md): ementas oficiais, referências e PDFs das decisões 11 a 20.
 - [Parte 3](https://ladirf.github.io/acervo/acervo-parte-3.md): ementas oficiais, referências e PDFs das decisões 21 a 30.
@@ -32,6 +32,6 @@
 - [Parte 23](https://ladirf.github.io/acervo/acervo-parte-23.md): ementas oficiais, referências e PDFs das decisões 221 a 230.
 - [Parte 24](https://ladirf.github.io/acervo/acervo-parte-24.md): ementas oficiais, referências e PDFs das decisões 231 a 240.
 - [Parte 25](https://ladirf.github.io/acervo/acervo-parte-25.md): ementas oficiais, referências e PDFs das decisões 241 a 250.
-- [Parte 26](https://ladirf.github.io/acervo/acervo-parte-26.md): ementas oficiais, referências e PDFs das decisões 251 a 252.
+- [Parte 26](https://ladirf.github.io/acervo/acervo-parte-26.md): ementas oficiais, referências e PDFs das decisões 251 a 251.
 - [Arquivo único](https://ladirf.github.io/acervo/acervo-completo.md): tudo junto (grande; para enviar a projetos).
 - [Página do acervo](https://ladirf.github.io/acervo/): busca e filtros (interface para pessoas).

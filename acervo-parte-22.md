@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 22 de 26 (decisões 211 a 220)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 252 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 251 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -70,27 +70,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Agravo conhecido para negar provimento ao recurso especial interposto contra o acórdão proferido nos Embargos Infringentes. Recurso especial dirigido contra o acórdão proferido no Recurso em Sentido Estrito parcialmente conhecido e, nessa extensão, provido em parte, a fim de anular os exames periciais realizados pela autoridade policial e pelo Ministério Público e que foram juntados após a pronúncia, determinando que sejam desentranhados dos autos. Habeas corpus concedido, de ofício, para anular a prova produzida por meio da requisição de diligências feita pelo Ministério Público do Estado de Santa Catarina ao Departamento Nacional de Infraestrutura e Transportes - DNIT, determinando o desentranhamento do Ofício n. 55223/2019, do referido Órgão.
   > (REsp n. 2.004.051/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
 
-## 215. ApCrim nº 1.0223.05.170615-6/001 (TJMG)
-- Decisão colegiada. Relator: Des. Alexandre Victor de Carvalho. 5ª Câmara Criminal. Publicado em 11/08/2023.
-- Crime / Tema: Associação criminosa · Roubo · Estelionato · Assistente de acusação · Prescrição · Dosimetria
-- Resumo: Se o MP não pediu condenação por associação criminosa ao fim da instrução, o assistente não pode pedi-la: a acusação é delimitada pelo titular da ação penal, e a vítima do roubo nem é ofendida num crime contra a coletividade. Recurso do assistente não conhecido; prescrição do estelionato reconhecida e pena do roubo reduzida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0223-05-170615.pdf
-- Ementa oficial:
-  > APELAÇÃO CRIMINAL - RECURSO DA ASSISTÊNCIA DA ACUSAÇÃO - PRETENSÃO DE CONDENAÇÃO PELO CRIME DO ART. 288, CP - ILEGITIMIDADE - NÃO CONHECIMENTO - ESTELIONATO - EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO - RECURSOS DEFENSIVOS PREJUDICADOS - ROUBO MAJORADO PELO CONCURSO DE PESSOAS - NULIDADE - VÍCIO DE FUNDAMENTAÇÃO - INOCORRÊNCIA - CONDENAÇÃO MANTIDA - REVISÃO DO CONTEÚDO DE CIRCUNSTÂNCIAS JUDICIAIS - REDUÇÃO DA PENA-BASE - ABRANDAMENTO DO REGIME PRISIONAL - RECURSO DEFENSIVO PARCIALMENTE PROVIDO.
-  > Há que se reconhecer a ilegitimidade do assistente (vítima de roubo) para apresentar o ponto de inconformismo relativo à absolvição dos acusados da prática do delito previsto no art. 288, caput, do Código Penal, cujo sujeito passivo é a coletividade. A assistência da acusação é ocupada pelo ofendido ou alguém relacionado a ele, postulando e atuando secundariamente (não como acusador principal). Por ofendido entenda-se, tecnicamente, o sujeito passivo da infração. Para o delito do art. 288, caput, identificado o sujeito passivo como sendo a coletividade, conclui-se pela inviabilidade da atuação do assistente, vítima de outro crime. Sabe-se que a previsão acerca da possibilidade de admissão da assistência da acusação não altera a exclusividade estatal do ius puniendi. Nas alegações finais do Ministério Público, não há pedido de condenação pelo crime do art. 288, CP. Para além do que já foi dito acima, diante da delimitação da pretensão acusatória após a realização da instrução criminal, não há legitimidade da assistência para pleitear uma condenação não pedida pelo Ministério Público. É evidente que a atuação da assistência, quando admitida, é assessória, sendo que o processo penal dele não depende para se instaurar e se desenvolver. Cumprida a instrução criminal, o Ministério Público não pleiteou a condenação pelo crime do art. 288, CP. Não poderia a assistência (que para este delito nem é admitida) atuar como se acusador "supra" fosse, contrariando a titularidade ministerial. Por todos os ângulos, constata-se a ilegitimidade que impõe o não conhecimento do primeiro recurso.
-  > Considerando a pena individualmente aplicada, para cada delito, não superior a dois anos, há que se observar o lapso prescricional de quatro anos. Entre a data do recebimento da denúncia - 21/03/2007 - e a data da publicação da sentença condenatória - 01/02/2018 - decorreu período superior a quatro anos. Tais penas transitaram em julgado para a acusação. Deve ser decretada a extinção da punibilidade relativa ao crime de estelionato para os apelantes pela ocorrência de prescrição da pretensão punitiva.
-  > Em atenção à atuação colegiada e à luz do que majoritariamente está estampado nos precedentes do STJ, rejeita-se a preliminar da defesa sobre vício de motivação. O STJ firmou a tese de que "A utilização da técnica de motivação per relationem não enseja a nulidade do ato decisório, desde que o julgador se reporte a outra decisão ou manifestação dos autos e as adote como razão de decidir" (Tese 18 da Ed. n º 69). Destaca-se que a tese é aplicada levando em conta as circunstâncias e a natureza das decisões, pois, ao mesmo tempo em que admite a remissão, por exemplo, nas decisões em procedimentos de interceptação telefônica, o tribunal é mais cauteloso sobre este procedimento quando se analisa o mérito em sentenças e acórdãos. Para o caso em apreço, conclui-se que a metodologia utilizada pelo juízo a quo está em consonância com precedentes do STJ.
-  > Ao contrário do que alega a defesa, a palavra da vítima não sustenta isoladamente a condenação prolatada e não está em dissonância com as demais provas produzidas. Havendo respaldo e claro apontamento na sentença dos elementos de prova suficientes, deve ser mantida a condenação.
-  > A reprimenda foi aplicada a partir de concreta motivação quanto à culpabilidade. Há, contudo, reparo a ser feito quanto às análises desfavoráveis da personalidade, dos motivos e das consequências do crime. Os conteúdos apresentados estão inseridos nos contornos da própria prática criminosa, da persecução criminal e do tipo penal em apreço, desafiando revisão.
-  > (TJMG, Apelação Criminal n. 1.0223.05.170615-6/001, relator Desembargador Alexandre Victor de Carvalho, 5ª Câmara Criminal, julgado em 8/8/2023, publicado em 11/8/2023.)
-
-## 216. HC nº 219.196 / GO (STF)
+## 215. HC nº 219.196 / GO (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 02/06/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão · Direito ao silêncio · Cabimento do HC
 - Resumo: Confissão informal colhida sem aviso do direito ao silêncio é ilícita, e denúncia anônima, sozinha, não autoriza o ingresso em domicílio (art. 5º, XI e LXIII, da CF). Busca anulada junto com as provas derivadas (art. 157, § 1º, do CPP); ré absolvida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-219196.pdf
 
-## 217. HC nº 166.373 / PR (STF)
+## 216. HC nº 166.373 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Alexandre de Moraes. Plenário. Publicado em 18/05/2023.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
@@ -104,7 +90,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5.Habeas Corpus deferido, com a fixação da seguinte TESE: “Havendo pedido expresso da defesa no momento processual adequado (art. 403 do CPP e art. 11 da Lei 8.038/90), os réus têm o direito de apresentar suas alegações finais após a manifestação das defesas dos colaboradores, sob pena de nulidade”.
   > (STF, HC n. 166.373/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 30/11/2022, DJe de 18/5/2023.)
 
-## 218. AgRg no REsp nº 2009839 / MG (STJ)
+## 217. AgRg no REsp nº 2009839 / MG (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 16/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão
 - Resumo: Mandado de busca e apreensão de menor não autoriza vasculhar a casa: o art. 283, § 2º, do CPP manda respeitar a inviolabilidade do domicílio. O rádio comunicador só foi visto quando os policiais já estavam dentro. O ônus de provar o consentimento voluntário do morador é do Estado. Provas nulas.
@@ -119,7 +105,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.009.839/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/5/2023, DJe de 16/5/2023.)
 
-## 219. AgRg no AREsp nº 2223319 / MS (STJ)
+## 218. AgRg no AREsp nº 2223319 / MS (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: A confissão do réu, sozinha, não autoriza a entrada na casa, e a suspeita de que ali funcionava um ponto de tráfico também não. O consentimento do morador precisa ser livre e registrado por escrito (e em áudio e vídeo), o que não houve. Provas nulas e absolvição mantida.
@@ -132,7 +118,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV - No caso, as circunstâncias que ensejaram o ingresso policial na residência do agravado, decorreram de suspeitas de que na casa do réu funcionava ponto de tráfico de drogas, bem como de sua confissão. Ocorre que, a confissão do réu, por sí só, não autoriza a entrada dos policiais no domicílio, sendo necessário que a permissão conferida de forma livre e voluntária pelo morador seja registrada pela autoridade policial por escrito, o que não ocorreu na hipótese, razão pela qual foi reconhecida a nulidade da diligência e das provas dela decorrentes, com a consequente absolvição do recorrido. Agravo regimental desprovido.
   > (AgRg no AREsp n. 2.223.319/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023.)
 
-## 220. RvCr nº 1.0000.22.247560-0/000 (TJMG)
+## 219. RvCr nº 1.0000.22.247560-0/000 (TJMG)
 - Decisão colegiada. Relatora: Des.ª Beatriz Pinheiro Caires. 1º Grupo de Câmaras Criminais. Publicado em 12/05/2023.
 - Crime / Tema: Roubo · Revisão criminal
 - Resumo: Revisão criminal deferida porque a condenação por roubo contrariou a evidência dos autos: não há prova do dolo de subtrair (puxão na camisa da vítima durante briga entre torcidas). A falta de intimação pessoal do réu da sentença absolutória não gera nulidade quando a defesa teve ciência e contra-arrazoou. Voto vencido (V.V.): a revisão não serve para rediscutir prova.
@@ -143,3 +129,18 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > - Se diante as circunstâncias apuradas não há mínima prova no sentido de que o réu desejasse subtrair a camisa da vítima com o intuito de dela se apossar, para tê-la como própria, ou transferi-la a terceiro, impõe-se a sua absolvição da prática do delito de roubo simples, pois a decisão condenatória contraria a evidência dos autos.
   > V. V.: A revisão criminal, que possibilita a superação da coisa julgada, destina-se à correção de erros judiciários, não se prestando à rediscussão de questões já superadas durante o curso regular da ação penal em duas instâncias.
   > (TJMG, Revisão Criminal n. 1.0000.22.247560-0/000, relatora Desembargadora Beatriz Pinheiro Caires, 1º Grupo de Câmaras Criminais, julgado em 10/5/2023, publicado em 12/5/2023.)
+
+## 220. AgRg no AREsp nº 2045772 / MG (STJ)
+- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/04/2023.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Denúncias anônimas e uma busca pessoal sem nada encontrado não são fundadas razões para entrar na casa, e a autorização dada por corré (depois absolvida) não valida o ingresso. Provas nulas e réus absolvidos. Determinado o envio de cópias ao MP e à PM para apurar abuso de autoridade (art. 40 do CPP; arts. 22 e 23, II, da Lei 13.869/2019).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2045772.pdf
+- Ementa oficial:
+  > PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. SÚMULA 284/STF. NÃO INCIDÊNCIA. ILICITUDE DA PROVA EM DECORRÊNCIA DE AVENTADO INGRESSO DOMICILIAR ILEGAL. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS PELA LEGALIDADE. DESNECESSIDADE DE REVOLVIMENTO FACTUAL. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. FUNDADAS RAZÕES. INEXISTÊNCIA. DENÚNCIA ANÔNIMA E AUSÊNCIA DE APREENSÃO NA BUSCA PESSOAL. INVALIDADE DA AUTORIZAÇÃO DE INGRESSO. VIOLAÇÃO DOMICILIAR. ART. 40 DO CPP. ENVIO DE CÓPIAS.
+  > I - Inaplicável a Súmula 284/STF nas hipóteses em que devidamente indicado o dispositivo de lei federal objeto de ofensa e explicitadas as suas razões.
+  > II - A delimitação clara das premissas fáticas autoriza nova valoração e afasta a incidência da Súmula 7/STJ.
+  > III - Consoante entendimento recente desta Corte Superior, "o ingresso em moradia alheia depende, para sua validade e sua regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio" (AgRg no REsp n. 2.041.858/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/2/2023).
+  > IV - No caso, as circunstâncias prévias que ensejaram o ingresso policial na residência - denúncias anônimas, busca pessoal infrutífera, autorização de ingresso concedido por corré (posteriormente absolvida) e posterior apreensão de drogas na residência - não pavimentam situação mitigadora da inviolabilidade domiciliar, ao contrário, os elementos anteriores ao ingresso domiciliar não ensejaram a situação excepcional a legitimar o ingresso no seio domiciliar sem autorização judicial.
+  > V - Certo é que “Há de se convir, no entanto, que só justifica o ingresso policial no domicílio alheio a situação de ocorrência de um crime cuja urgência na sua cessação desautorize o aguardo do momento adequado para, mediante mandado judicial meio ordinário e seguro para o afastamento do direito à inviolabilidade da morada legitimar a entrada em residência ou local de abrigo” (HC n. 705.241/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/12/2021, grifei).
+  > VI - No caso presente, a atuação precipitada da polícia culminou na nulidade das provas colhidas, com a inutilização da apreensão de 533,34g de maconha, comprometendo a regularidade da persecução penal, o que certamente poderia ser evitado com as devidas investigações e diligências. Sob essa perspectiva, com esteio nos elementos fáticos subjacentes ao presente recurso, determina-se, com fundamento no artigo 40 do Código de Processo Penal, o envio de cópia dos presentes autos ao Ministério Público Federal e Estadual, ante a competência definida na ADPF 635 - MC, bem como a Polícia Militar, para apuração de infração aos artigos 22 e 23, II, ambos da Lei n. 13.869/2019, dentre outros possíveis crimes previstos no Código Penal, Código Penal Militar e legislação extravagante, com as imediatas providências cabíveis. Agravo regimental provido, para reconhecer a nulidade das provas obtidas mediante ingresso domiciliar sem mandado, bem como as provas derivadas, e absolver os agravantes das imputações contidas na denúncia (art. 386, VII, do CPP), remetendo-se, com esteio no artigo 40 do Código de Processo Penal, cópia dos presentes autos ao Ministério Público Federal e Estadual, para apuração de eventuais crimes, bem como a Polícia Militar, com a imediata comunicação a este Superior Tribunal de Justiça quanto às providências tomadas no âmbito da instituição de segurança pública.
+  > (AgRg no AREsp n. 2.045.772/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
