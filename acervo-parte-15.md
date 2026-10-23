@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 15 de 26 (decisões 141 a 150)
+# Acervo de Jurisprudência — Cury Advogados — parte 15 de 30 (decisões 141 a 150)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 251 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 293 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,102 +8,109 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 141. HC nº 1124321 / PR (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
+## 141. HC nº 1131181 / PR (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/09/2026.
+- Crime / Tema: Violência doméstica · Prova digital · Quebra da cadeia de custódia
+- Resumo: Imagens digitais juntadas ao processo de violência doméstica: ordem concedida de ofício para assegurar à defesa o controle técnico delas (metadados), com desentranhamento se não forem auditáveis.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131181.pdf
 
-## 142. RHC nº 243213 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
-- Crime / Tema: Tráfico de drogas · Quebra de sigilo
-- Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
+## 142. ARE nº 1.623.941 / GO (STF)
+- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 24/09/2026.
+- Crime / Tema: Homicídio qualificado · Pronúncia
+- Resumo: Impronúncia por falta de indícios suficientes de autoria mantida: rever exige reexame de provas, e a impronúncia não ofende a competência do Júri (Tema 154/STF). ARE do MP com seguimento negado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623941.pdf
 
-## 143. EDcl no AREsp nº 3028845 / PR (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/08/2026.
-- Crime / Tema: Acesso da defesa às provas
-- Resumo: Juntada tardia e incompleta das gravações ambientais sob custódia do Estado causa prejuízo concreto: a defesa perdeu oportunidades na resposta à acusação, na inquirição de testemunhas e na contraprova, e reabrir prazo só para complementar as alegações finais não recompõe essas fases. Mantida a nulidade a partir da resposta à acusação; embargos do MP rejeitados.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3028845.pdf
+## 143. REsp nº 2270023 / SC (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 24/09/2026.
+- Crime / Tema: Peculato · Continuidade delitiva · Dosimetria
+- Resumo: "Rachadinha" (peculato-desvio): repasses mensais padronizados de servidores do mesmo gabinete configuram continuidade delitiva (art. 71 do CP), e não concurso material. A pluralidade de vítimas não afasta, por si só, o crime continuado. A habitualidade criminosa exige condutas autônomas com dolo renovado. Recurso do MP desprovido: mantidas as penas de 6 anos e 5 anos (a sentença tinha fixado 24 e 20).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2270023.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. DIREITO DE ACESSO A PROVA MANTIDA SOB CUSTÓDIA ESTATAL. JUNTADA TARDIA DE GRAVAÇÕES AMBIENTAIS. CONTRADITÓRIO SUBSTANCIAL. AUSÊNCIA DE VÍCIOS DO ART. 619 DO CPP. EMBARGOS REJEITADOS.
+  > PENAL. PROCESSO PENAL. RECURSO ESPECIAL. PECULATO-DESVIO. ART. 312, CAPUT, PARTE FINAL, DO CÓDIGO PENAL. “RACHADINHA”. CONCURSO DE CRIMES. ARTS. 69 E 71 DO CÓDIGO PENAL. CONTINUIDADE DELITIVA. REQUISITOS OBJETIVOS E SUBJETIVO. CRIMES DA MESMA ESPÉCIE. MESMO CONTEXTO FUNCIONAL. IDENTIDADE DE MODUS OPERANDI. PERIODICIDADE MENSAL DOS REPASSES. FINALIDADE ECONÔMICA COMUM. ATUAÇÃO CONJUNTA DOS ACUSADOS. SERVIDORES COMISSIONADOS VINCULADOS AO MESMO GABINETE PARLAMENTAR. PLURALIDADE DE VÍTIMAS. CIRCUNSTÂNCIA QUE, ISOLADAMENTE, NÃO AFASTA O ART. 71 DO CP. HABITUALIDADE DELITIVA NÃO CONFIGURADA. AUSÊNCIA DE EMPREITADAS CRIMINOSAS AUTÔNOMAS. CONTINUIDADE DELITIVA GLOBAL MANTIDA. RECURSO ESPECIAL DESPROVIDO.
   > I. Caso em exame
-  > 1. Embargos de declaração opostos pelo embargante contra acórdão que, em agravo em recurso especial, conheceu o agravo e deu parcial provimento ao recurso especial para declarar a nulidade dos atos praticados a partir da resposta à acusação, diante do acesso não integral e tardio pela defesa às gravações ambientais mantidas sob custódia estatal, com determinação de retorno dos autos à origem para assegurar acesso integral ao acervo e renovação dos atos instrutórios afetados.
-  > 2. Fato relevante. O embargante sustenta omissão do acórdão por ausência de demonstração concreta de prejuízo, afirma acesso integral antes da sentença com reabertura de prazo para complementação das alegações finais e aduz que as mídias não fundamentaram diretamente a condenação e convergiriam com a narrativa acusatória.
+  > 1. Recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, interposto pelo órgão acusatório contra acórdão que, em apelação criminal, reconheceu a continuidade delitiva em peculatos-desvio praticados contra servidores comissionados vinculados ao mesmo gabinete parlamentar, redimensionando as penas. Pretensão recursal de restabelecimento do concurso material e das reprimendas fixadas na sentença.
+  > 2. Fato relevante. Imputação de múltiplos repasses mensais de parcela remuneratória de servidores comissionados, por meio de transferências bancárias e em espécie, dentro de esquema uniforme de arrecadação e gestão dos valores, ao longo de período prolongado, com denúncia que atribuiu o art. 312, caput, parte final, c/c art. 71, e, quanto a agente partícipe, art. 29, todos do Código Penal.
+  > 3. Decisões anteriores. Sentença reconheceu a continuidade delitiva no interior de cada série de repasses vinculada a cada servidor e aplicou o concurso material entre as séries, em razão de suposta habitualidade criminosa. Acórdão recorrido afastou o concurso material e aplicou o art. 71 do Código Penal entre todos os delitos, sob fundamentos de proporcionalidade e política criminal.
   > II. Questão em discussão
-  > 3. A questão em discussão consiste em saber se: (i) houve omissão quanto à demonstração de prejuízo concreto exigido pelos arts. 563 e 566 do CPP; (ii) a reabertura do prazo para complementação das alegações finais neutraliza o prejuízo e convalida os atos praticados sem acesso integral e tempestivo às gravações; e (iii) a ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória afastam o interesse defensivo e a nulidade reconhecida.
+  > 4. Há duas questões em discussão: (i) saber se os diversos peculatos-desvio, praticados em repasses mensais sucessivos e padronizados, devem ser compreendidos como desdobramentos de um mesmo plano delitivo, a atrair a continuidade delitiva do art. 71 do Código Penal, ou se exigem o tratamento em concurso material do art. 69; e (ii) saber se a pluralidade de vítimas e a reiteração prolongada dos repasses, no mesmo contexto funcional, caracterizam habitualidade criminosa impeditiva da continuidade delitiva, por ausência de unidade de desígnios.
   > III. Razões de decidir
-  > 4. Os embargos de declaração possuem fundamentação vinculada às hipóteses do art. 619 do CPP e não se prestam à rediscussão do mérito nem à obtenção de efeitos infringentes sem indicação de ambiguidade, obscuridade, contradição ou omissão.
-  > 5. O acórdão embargado enfrentou expressamente a necessidade de prejuízo concreto e o identificou na perda efetiva de oportunidades processuais já consumadas, decorrente do acesso não integral e tardio às gravações ambientais, com repercussões sobre a resposta à acusação, a orientação da inquirição de testemunhas, a formulação de requerimentos probatórios, a produção de contraprova, a avaliação de perícia e a definição da estratégia defensiva, em observância ao princípio do pas de nullité sans grief.
-  > 6. A reabertura de prazo para complementação das alegações finais não recompõe as oportunidades próprias das fases anteriores nem permite reproduzir atos instrutórios realizados sem conhecimento integral da fonte probatória, não sendo exigível da defesa a demonstração de cenários contrafactuais inviabilizados pelo acesso tardio.
-  > 7. O interesse defensivo alcança a integralidade da fonte probatória, independentemente de seleção acusatória ou de uso explícito na sentença, pois somente o acesso ao acervo completo possibilita o controle defensivo do contexto, continuidade e critérios de seleção das conversas.
-  > 8. A ausência de requerimentos defensivos de prorrogação de prazo, perícia ou renovação imediata de atos após a juntada tardia não convalida o vício, dado que a resposta à acusação e a instrução já estavam encerradas, e o prejuízo incidiu sobre a própria estruturação da atividade defensiva.
-  > 9. Os aclaratórios buscam rediscutir matéria decidida sem apontar vício integrativo, impondo-se sua rejeição.
+  > 5. Exige-se, para a continuidade delitiva, o preenchimento cumulativo dos requisitos objetivos (pluralidade de condutas, crimes da mesma espécie e semelhança de condições de tempo, lugar e modo de execução) e do requisito subjetivo (unidade de desígnios ou vínculo subjetivo entre os eventos), nos termos do art. 71 do Código Penal.
+  > 6. O conjunto fático revela unidade concreta do esquema: mesmos ambiente institucional e núcleo funcional (gabinete parlamentar), periodicidade mensal dos repasses, idêntico modus operandi, finalidade econômica comum e atuação conjunta, evidenciando vínculo subjetivo suficiente para tratar os delitos subsequentes como continuação do primeiro.
+  > 7. A pluralidade de servidores ofendidos não impede o reconhecimento da continuidade delitiva quando a diversidade de vítimas decorre da execução fracionada de um único plano delitivo, inserido em contexto funcional e operacional uniforme.
+  > 8. A habitualidade criminosa incompatível com o art. 71 pressupõe autonomia das condutas e renovação independente do dolo; não se presume pelo número de infrações ou pela duração quando os eventos permanecem unidos por identidade de contexto e finalidade.
+  > 9. Houve má aplicação da lei federal ao qualificar como habitualidade delitiva contexto que preenche os requisitos do art. 71 do Código Penal, fragmentando indevidamente o esquema em séries autônomas para aplicar o concurso material.
+  > 10. A continuidade delitiva deve ser mantida com base na presença dos requisitos legais, e não por razões genéricas de proporcionalidade. A regra especial do art. 71 afasta, no caso, a cumulação de penas do art. 69, ante a unidade de contexto e desígnios.
   > IV. Dispositivo e tese
-  > 10. Resultado do Julgamento: Embargos de declaração rejeitados.
+  > 11. Resultado do Julgamento: Recurso especial desprovido, mantido o reconhecimento da continuidade delitiva e afastado o concurso material.
   > Tese de julgamento:
-  > 1. Os embargos de declaração somente são cabíveis para sanar ambiguidade, obscuridade, contradição ou omissão, não se prestando à rediscussão do mérito nem à obtenção de efeitos infringentes sem vício integrativo.
-  > 2. A demonstração de prejuízo concreto pode decorrer da perda de oportunidades processuais essenciais causada pelo acesso não integral e tardio à prova sob custódia estatal, afetando contraditório substancial e ampla defesa.
-  > 3. A reabertura de prazo para alegações finais não neutraliza prejuízos relativos a fases anteriores do processo nem recompõe oportunidades defensivas já esgotadas.
-  > 4. A ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória não afastam o direito de acesso integral e o controle defensivo sobre a íntegra da fonte probatória.
-  > (EDcl no AREsp n. 3.028.845/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2026, DJEN de 25/8/2026.)
+  > 1. A pluralidade de vítimas não afasta, por si só, a continuidade delitiva quando os crimes da mesma espécie são praticados em idênticas condições de tempo, lugar e modo de execução, unidos por vínculo subjetivo.
+  > 2. A habitualidade criminosa incompatível com a continuidade delitiva exige autonomia entre as condutas e renovação independente do dolo, não se caracterizando pela mera reiteração prolongada em um mesmo esquema delitivo.
+  > 3. Em esquema de peculato-desvio praticado no mesmo gabinete, com repasses mensais padronizados e atuação conjunta, incide o art. 71 do Código Penal, afastando o concurso material do art. 69.
+  > (REsp n. 2.270.023/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/9/2026, DJEN de 24/9/2026.)
 
-## 144. HC nº 1123362 / RJ (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/08/2026.
-- Crime / Tema: Vias de fato · Ameaça · Violência doméstica · Dosimetria
-- Resumo: O aumento pela agravante do art. 61, II, 'f', do CP sem motivação deve ficar na fração usual de 1/6. Penas reduzidas: ameaça para 1 mês e 5 dias e vias de fato de 25 para 17 dias de prisão simples.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123362.pdf
+## 144. AgRg no HC nº 1115674 / SP (STJ)
+- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 24/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Busca pessoal ilícita: blusa de frio com volume no bolso em dia quente e prévio conhecimento policial não configuram fundada suspeita. Absolvição de ofício (tráfico).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115674.pdf
 
-## 145. HC nº 1114613 / MG (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/08/2026.
-- Crime / Tema: Vias de fato · Violência doméstica · Confissão espontânea
-- Resumo: Quem admite a conduta das vias de fato (art. 21, § 2º, da LCP) tem direito à atenuante da confissão, compensada com a reincidência, como o próprio TJ fez quanto à lesão corporal no mesmo julgado. Pena redimensionada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114613.pdf
-
-## 146. HC nº 1121206 / PI (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
-
-## 147. HC nº 275.317 / BA (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 20/08/2026.
-- Crime / Tema: Crimes contra a honra
-- Resumo: Matéria jornalística de interesse público que critica magistrados, ainda que dura, não é difamação: falta o animus diffamandi, e prevalece a liberdade de imprensa (ADPF 130). Mesmo com a condenação já transitada em julgado, o jornalista foi absolvido por atipicidade manifesta.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-275317.pdf
-
-## 148. REsp nº 2204349 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Terceira Seção. Publicado em 20/08/2026.
-- Crime / Tema: Associação para o tráfico · Execução penal · Tema repetitivo
-- Resumo: Tema 1.374/STJ — O art. 112, § 3º, V, da LEP (progressão especial para gestante, mãe ou responsável por criança ou pessoa com deficiência) se interpreta de modo restritivo: "organização criminosa" é só a condenação nos termos da Lei 12.850/2013, e não abrange associação criminosa (art. 288 do CP) nem associação para o tráfico (art. 35 da Lei 11.343/2006). Recurso provido para retificar o cálculo de pena.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2204349.pdf
+## 145. AgExPen nº 9000340-23.2026.4.04.7017 / PR (TRF4)
+- Decisão colegiada. Relator: Des. Fed. Luiz Carlos Canalli. 7ª Turma. Publicado em 23/09/2026.
+- Crime / Tema: Execução penal
+- Resumo: A reconversão das penas restritivas em privativa de liberdade (art. 181, § 1º, da LEP) exige descumprimento injustificado. É nula a intimação por edital feita depois de tentar a intimação pessoal em endereço errado, sem esgotar os meios de localização. Sem ocultação deliberada, não há falta grave (art. 50, II, da LEP). Reconversão e regressão ao regime fechado anuladas, e restabelecidas as penas restritivas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-agexpen-9000340-23-2026.pdf
 - Ementa oficial:
-  > RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PENAL. EXECUÇÃO. PROGRESSÃO DE REGIME ESPECIAL. PRETENSÃO OBSTADA POR SE TRATAR DE REEDUCANDA CONDENADA POR ASSOCIAÇÃO PARA O TRÁFICO. INSTÂNCIAS ORDINÁRIAS AFIRMARAM A VEDAÇÃO DIANTE DO DISPOSTO NO ART. 112, § 3º, V, DA LEI N. 7.210/1984 (LEP). REQUISITOS CUMULATIVOS. MULHER GESTANTE OU MÃE DE CRIANÇAS OU PESSOA COM DEFICIÊNCIA QUE NÃO TENHA INTEGRADO ORGANIZAÇÃO CRIMINOSA. DISPOSIÇÃO LEGAL ESPECÍFICA E CLARA QUE NÃO ADMITE INTERPRETAÇÃO EXTENSIVA EM PREJUÍZO DO RÉU. MATÉRIA CONTROVERTIDA NO ÂMBITO DO SUPERIOR TRIBUNAL DE JUSTIÇA E DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE UNIFORMIZAÇÃO PARA GARANTIA DA SEGURANÇA JURÍDICA. INCISO V DO § 3º DO ART. 112 DA LEP. NORMA PENAL EM BRANCO. COMPLEMENTO NORMATIVO EXISTENTE. ART. 1º, § 1º, DA LEI N. 12.850/2013. INTERPRETAÇÃO EXTENSIVA IN MALAM PARTEM. IMPOSSIBILIDADE. PRINCÍPIOS DA LEGALIDADE, DA TAXATIVIDADE E DO FAVOR REI.
-  > 1. A questão posta no presente apelo nobre cinge-se a definir se o delito de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) equipara-se ou não ao crime de organização criminosa (art. 2º da Lei n. 12.850/2013), de modo a impedir a progressão especial de regime prevista no art. 112, § 3º, da Lei n. 7.210/1984 destinada a apenada gestante, mãe ou responsável por crianças ou pessoas com deficiência.
-  > 2. A redação do art. 112, § 3º, V, da LEP reflete aspecto até então não visível a todos: a literalidade do dispositivo não alcança o sentido dado pela interpretação conferida nos julgados que vedaram a progressão, configurando verdadeira interpretação extensiva do texto legal.
-  > 3. A previsão de "não ter integrado organização criminosa" não implica expressão genérica abrangedora de todas as espécies de grupos criminosos, mas, sim, de norma penal em branco, cuja subsunção perfeita dos fatos ao tipo penal exige uma complementação advinda de lei federal. E esse complemento já existe: art. 1º, § 1º, da Lei n. 12.850/2013.
-  > 4. O conceito de organização criminosa apresentado pelo legislador no art. 1º, § 1º, da Lei n. 12.850/2013, em respeito ao princípio da taxatividade, corolário do postulado da legalidade (estrita), demonstra quais os agrupamentos de pessoas devem ser objeto de alcance da referida lei.
-  > 5. Sobre esse enfoque, a jurisprudência do STJ elenca julgados que apreciaram minuciosamente a questão e concluíram no sentido da impossibilidade de o julgador, violando o princípio da taxatividade da lei penal, conferir interpretação extensiva à organização criminosa, constante do art. 112, § 3º, V, da LEP, com o fim de alcançar todas as formas de ajuntamento de pessoas com o intuito de cometer delitos.
-  > 6. A Sexta Turma do Superior Tribunal de Justiça pronunciou-se, quando do julgamento do HC n. 522.651/SP, capitaneado pelo voto condutor da Ministra Laurita Vaz, no sentido de que o art. 112, § 3º, V, da LEP, já dispõe de complemento normativo, não sendo legítimo que o julgador, em explícita violação do princípio da taxatividade da lei penal, interprete extensivamente o significado de organização criminosa a fim de abranger todas as formas de societas sceleris, como, por exemplo, a associação criminosa ou a associação para o tráfico ilícito de drogas.
-  > 7. Restou assentado que a vedação à interpretação extensiva in malam partem fica ainda mais evidente quando se trata de definir requisito que restringe a aplicação de benefício executório implementado por lei cuja finalidade é aumentar o âmbito de proteção às crianças ou pessoas com deficiência, as quais se encontram em situação de vulnerabilidade em razão de suas genitoras ou responsáveis se encontrarem reclusas em estabelecimentos prisionais.
-  > 8. A Quinta Turma, quando do julgamento do HC n. 679.715/MG (Ministro Reynaldo Soares da Fonseca), concluiu que, se houve por parte do legislador, incoerência legislativa ou se o ordenamento jurídico brasileiro possui mais de uma definição para o que vem a ser organização criminosa, deve-se, de toda sorte, tomar, conforme a orientação do STJ, o termo em sua acepção mais favorável à acusada, em atenção ao princípio do favor rei.
-  > 9. A fundamentação principal do entendimento adotado reside no princípio da legalidade – pilar do Direito Penal Constitucional e do Estado Democrático de Direito. Além disso, sob a ótica da taxatividade estrita, tal preceito obsta a aplicação da analogia in malam partem e veda qualquer interpretação extensiva que resulte prejuízo ao réu, ao sentenciado e ao reeducando.
-  > 10. O Supremo Tribunal Federal tem se pronunciado majoritariamente no mesmo sentido, vedando a interpretação extensiva do referido dispositivo, afirmando que o delito de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) não se equipara ao crime de organização criminosa, nos termos do art. 1º, § 1º, da Lei n. 12.850/2013.
-  > 11. Em observância aos princípios da legalidade e da taxatividade estrita – que vedam a analogia in malam partem e a interpretação extensiva em prejuízo do réu –, o art. 112, § 3º, V, da Lei n. 7.210/1984 limita-se às reeducandas condenadas por integrar organização criminosa (art. 1º, § 1º, da Lei n. 12.850/2013).
-  > 12. Tese de julgamento: Em atenção aos princípios da legalidade, da taxatividade e do favor rei, a interpretação do art. 112, § 3°, V, da LEP deve se dar de modo restritivo. Portanto, organização criminosa é somente a hipótese de condenação nos termos da Lei n. 12.850/2013, não abrangendo apenada que tenha participado de associação criminosa (art. 288 do CP) ou associação para o tráfico (art. 35 da Lei n. 11.343/2006).
-  > 13. Caso dos autos: As instâncias ordinárias obstaram a progressão de regime com fundamento no fato de a condenação pelo crime de associação para o tráfico estar inserida no contexto de organização criminosa do art. 112, § 3º, V, da Lei n. 7.210/1984.
-  > 14. Aplicando-se a tese ora definida, em atenção aos princípios da legalidade, da taxatividade e do favor rei, a interpretação do art. 112, § 3°, V, da LEP deve se dar de modo restritivo, não abrangendo apenadas pelo crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006).
-  > 15. Recurso especial provido para determinar ao Juízo das Execuções Penais que retifique o cálculo de penas da recorrente, abstendo-se de considerar a condenação pelo crime de associação para o tráfico de drogas para fins de análise do requisito contido no art. 112, § 3º, V, da Lei n. 7.210/1984.
-  > (REsp n. 2.204.349/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/8/2026, DJEN de 20/8/2026.)
+  > DIREITO PENAL. AGRAVO DE EXECUÇÃO PENAL. RECONVERSÃO DE PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. INTIMAÇÃO POR EDITAL PREMATURA. NULIDADE RECONHECIDA. PROVIMENTO DO RECURSO.
+  > I. CASO EM EXAME:
+  > 1. Agravo de execução penal interposto contra decisão que determinou a reconversão das penas restritivas de direitos em pena privativa de liberdade, em regime inicial fechado, sob o fundamento de que o apenado se encontrava em local incerto e não atendeu à intimação por edital.
+  > II. QUESTÃO EM DISCUSSÃO:
+  > 2. A questão em discussão consiste em saber se é válida a reconversão das penas restritivas de direitos em privativa de liberdade quando a intimação pessoal foi tentada em endereço incorreto e realizada por edital de forma prematura, sem o esgotamento dos meios de localização do apenado.
+  > III. RAZÕES DE DECIDIR:
+  > 3. A conversão da pena restritiva de direitos em privativa de liberdade exige o descumprimento injustificado da obrigação imposta, nos termos do art. 181, § 1º, da LEP, em observância às garantias do contraditório e da ampla defesa previstas no art. 5º, LV, da CF/1988.
+  > 4. Há nulidade na intimação por edital quando a tentativa de intimação pessoal do apenado é realizada em endereço incorreto, diverso daquele constante nos autos e indicado pelo Ministério Público Federal.
+  > 5. A intimação por edital possui natureza ficta e excepcional, sendo cabível apenas após o esgotamento de todos os meios razoáveis para a localização presencial do apenado.
+  > 6. Inexistindo intimação pessoal válida e não demonstrada a ocultação deliberada do apenado, não se caracteriza a frustração injustificada do cumprimento da pena ou a prática de falta grave prevista no art. 50, II, da LEP.
+  > 7. A ausência de esgotamento dos meios de localização do apenado impõe a anulação da decisão de reconversão das penas e o restabelecimento das penas restritivas de direitos originalmente impostas.
+  > IV. DISPOSITIVO E TESE:
+  > 8. Recurso provido.
+  > Tese de julgamento: 9. É nula a reconversão de penas restritivas de direitos em privativa de liberdade quando a intimação por edital é realizada de forma prematura, sem a prévia tentativa de intimação pessoal no endereço correto constante dos autos.
+  > (TRF4, Agravo de Execução Penal n. 9000340-23.2026.4.04.7017/PR, relator Desembargador Federal Luiz Carlos Canalli, 7ª Turma, julgado em 25/8/2026, publicado em 23/9/2026.)
 
-## 149. RHC nº 244894 / MG (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/08/2026.
-- Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
-- Resumo: Preventiva só pela contravenção de vias de fato, contra réu sem medida protetiva anterior nem descumprimento, é excessiva: a pena máxima não autoriza a prisão (art. 313 do CPP). Preventiva revogada, com medidas cautelares.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-244894.pdf
+## 146. REsp nº 2204206 / PE (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/09/2026.
+- Crime / Tema: Prova digital · Quebra da cadeia de custódia · Justa causa
+- Resumo: Sem fonte independente, a denúncia baseada só nos sistemas Drousys e My Web Day B, declarados imprestáveis pelo STF por comprometimento da cadeia de custódia, não tem justa causa. Mantida a rejeição da denúncia; REsp do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2204206.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. AÇÃO PENAL. REJEIÇÃO DA DENÚNCIA POR FALTA DE JUSTA CAUSA. DECISÃO DO STF SOBRE IMPRESTABILIDADE DOS SISTEMAS DROUSYS E MY WEB DAY B. DERIVAÇÃO DAS PROVAS. AUSÊNCIA DE FONTE INDEPENDENTE. ART. 157, § 1º, SEGUNDA PARTE, DO CPP. PROVA ILÍCITA POR DERIVAÇÃO. REVALORAÇÃO JURÍDICA INVIÁVEL. SÚMULA 7/STJ. ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS. PRESTAÇÃO JURISDICIONAL ADEQUADA. TESE DO IN DUBIO PRO SOCIETATE REFUTADA. MANUTENÇÃO DOS ACÓRDÃOS QUE AFASTARAM A JUSTA CAUSA. PRETENSÃO DE PROSSEGUIMENTO DA AÇÃO PENAL SEM LASTRO AUTÔNOMO.
+  > 1. A ação penal foi trancada em relação à recorrida por falta de justa causa após decisão que reconheceu a imprestabilidade dos sistemas Drousys e My Web Day B. O Tribunal de origem confirmou que todas as provas relativas à recorrida derivavam desses sistemas.
+  > 2. O Ministério Público Federal sustenta a existência de provas independentes e a aplicação do art. 157, § 1º, do Código de Processo Penal, além de alegar omissão quanto ao art. 619 do Código de Processo Penal.
+  > 3. O acórdão recorrido refuta a tese de fonte independente e afirma que pedidos de cooperação internacional, quebras de sigilo e demais elementos também decorrem dos sistemas invalidados.
+  > 4. A revisão da origem e da autonomia das provas demanda reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ, conforme precedente do Superior Tribunal de Justiça.
+  > 5. Não procede a alegação de prestação jurisdicional deficiente, pois a Corte de origem enfrentou a ilicitude por derivação, rejeitou a existência de provas independentes e afastou a tese do in dubio pro societate, em consonância com a jurisprudência do Superior Tribunal de Justiça.
+  > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
+  > (REsp n. 2.204.206/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/9/2026, DJEN de 22/9/2026.)
 
-## 150. HC nº 1112820 / RJ (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/08/2026.
-- Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
-- Resumo: Vias de fato contra adolescentes sem nenhuma lesão e hematomas leves na companheira não mostram gravidade concreta. Manter a preventiva fere a homogeneidade, porque a pena provável seria em regime aberto ou suspensa. Prisão substituída por cautelares, com parecer favorável do MPF.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112820.pdf
+## 147. HC nº 1125136 / PB (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 22/09/2026.
+- Crime / Tema: Crimes contra a ordem tributária · Prescrição
+- Resumo: Crime tributário material (art. 1º, II, da Lei 8.137/90): a prescrição corre da constituição definitiva do crédito (SV 24), conta a pena sem o acréscimo da continuidade (Súmula 497/STF) e cai pela metade para maior de 70 anos na data do acórdão (art. 115 do CP). Prescrição reconhecida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1125136.pdf
+
+## 148. Rcl nº 99.520 / AC (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 21/09/2026.
+- Crime / Tema: Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
+- Resumo: Súmula Vinculante 14: a defesa tem direito de copiar, em meio físico ou digital, as conversas de WhatsApp já documentadas e a documentação da cadeia de custódia dos laudos; só poder consultá-las no instituto de perícia, sem extrair, não basta. Reclamação procedente.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-99520.pdf
+
+## 149. HC nº 1129639 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Ameaça · Violência doméstica · Prisão e medidas cautelares
+- Resumo: Preventiva por ameaça em violência doméstica (pena máxima inferior a 4 anos): o art. 313, III, do CPP exige descumprimento prévio de medida protetiva, e o réu nem havia sido intimado dela. Prisão substituída por medidas protetivas e cautelares diversas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129639.pdf
+
+## 150. HC nº 1130315 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Busca pessoal em usuário por "comportamento suspeito" genérico, em patrulhamento de rotina, é ilícita (art. 244 do CPP) e contamina o que veio depois: a indicação da casa do vendedor e as apreensões feitas lá (art. 157, § 1º). A ilicitude vale mesmo com a busca feita em terceiro. Paciente e corréu absolvidos de ofício (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1130315.pdf

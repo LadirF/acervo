@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 17 de 26 (decisões 161 a 170)
+# Acervo de Jurisprudência — Cury Advogados — parte 17 de 30 (decisões 161 a 170)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 251 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 293 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,163 +8,133 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 161. EDcl no AgRg no HC nº 1060880 / AM (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 15/06/2026.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Denúncia anônima sobre furto pretérito e "diligências preliminares" genéricas, sem monitoramento nem movimentação típica, não são fundadas razões para entrar no domicílio. O consentimento do morador precisa de registro escrito ou audiovisual. Provas ilícitas e absolvição mantidas; embargos do MP rejeitados.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1060880.pdf
+## 161. HC nº 276.512 / PB (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 10/09/2026.
+- Crime / Tema: Estelionato · Dosimetria
+- Resumo: Culpabilidade e personalidade valoradas com juízo conjectural ('aparenta ser um mentiroso compulsivo') e com o próprio modo de execução não elevam a pena-base. Os documentos forjados como meio da fraude também não pesam nas circunstâncias, sob pena de bis in idem. Pena-base no mínimo, e o juízo de origem deve examinar a prescrição (bolsa da CAPES, art. 171, § 3º, do CP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276512.pdf
+
+## 162. HC nº 276.724 / RS (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 10/09/2026.
+- Crime / Tema: Cabimento do HC
+- Resumo: A unirrecorribilidade não se aplica ao habeas corpus: a interposição de recurso especial contra o mesmo acórdão não impede o conhecimento do HC. Ordem concedida para o STJ julgar o mérito do HC.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276724.pdf
+
+## 163. REsp nº 2176719 / MG (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
+- Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
+- Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
+
+## 164. RHC nº 245864 / RS (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 09/09/2026.
+- Crime / Tema: Colaboração premiada · Acesso da defesa às provas
+- Resumo: Acesso tardio à colaboração premiada de corréu, só depois da resposta à acusação: anulados, quanto ao recorrente, os atos a partir da resposta, com novo prazo para apresentá-la após o efetivo acesso aos elementos já documentados.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-245864.pdf
+
+## 165. RE nº 1.203.378 / RS (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 09/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Revista íntima manual em visitante de presídio, sem revista mecânica prévia nem fundada suspeita, viola a intimidade e a dignidade e torna a prova ilícita. Absolvição pelo TJRS mantida; RE do MP com seguimento negado (Tema 998 inaplicável).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1203378.pdf
+
+## 166. AgRg no REsp nº 2245002 / RS (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/09/2026.
+- Crime / Tema: Perseguição · Violência doméstica · Dosimetria
+- Resumo: A agravante do art. 61, II, 'f', do CP não incide na perseguição contra a mulher (art. 147-A, § 1º, II) nem na violência psicológica (art. 147-B): a violência contra a mulher já é elementar, e aplicá-la seria bis in idem. Distinção do Tema 1.197/STJ, que vale para a lesão do art. 129, § 9º. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245002.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INGRESSO DOMICILIAR SEM MANDADO. FUNDADAS RAZÕES NÃO DEMONSTRADAS. CONSENTIMENTO NÃO COMPROVADO. PROVAS ILÍCITAS. ABSOLVIÇÃO MANTIDA. EMBARGOS REJEITADOS.
+  > DIREITO PENAL. AGRAVO REGIMENTAL. INDEVIDA INCIDÊNCIA DA AGRAVANTE DO ART. 61, II, "F", DO CÓDIGO PENAL NOS CRIMES TIPIFICADOS NOS ARTS. 147-A, II, E 147-B, AMBOS DO CP. BIS IN IDEM CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
   > I. Caso em exame
-  > 1. Embargos de declaração opostos pelo órgão ministerial contra acórdão que negou provimento a agravo regimental e manteve decisão monocrática que, de ofício, concedeu habeas corpus para reconhecer a ilicitude do ingresso policial em domicílio, declarar inadmissíveis as provas e absolver o paciente com fundamento no art. 386, VII, do Código de Processo Penal.
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão monocrática que, com fundamento na Súmula n. 568 do STJ, negou provimento ao recurso especial, mantendo a decisão que afastou a incidência da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher.
+  > 2. A decisão monocrática considerou que a aplicação da referida agravante nos crimes de perseguição contra mulher e violência psicológica contra a mulher configuraria bis in idem, uma vez que a violência contra a mulher já integra os elementos do tipo penal.
   > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se o acórdão impugnado incorreu em omissão, contradição, ambiguidade ou obscuridade quanto: (i) à existência de fundadas razões para o ingresso domiciliar sem mandado; (ii) ao consentimento válido do morador; (iii) à ilicitude das provas e à absolvição por ausência de prova válida e independente; e (iv) ao prequestionamento dos dispositivos constitucionais invocados.
+  > 3. A questão em discussão consiste em saber se a incidência concomitante da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição qualificada, contra mulher, e violência psicológica contra a mulher configura bis in idem, considerando que a violência contra a mulher já integra os elementos do tipo penal.
   > III. Razões de decidir
-  > 3. Embargos de declaração possuem função integrativa restrita a sanar omissão, contradição, ambiguidade ou obscuridade, não se prestando à rediscussão do mérito.
-  > 4. O acórdão enfrentou de modo suficiente os pontos controvertidos: validade do ingresso sem mandado, alegado consentimento do morador, ilicitude das provas e inexistência de elementos autônomos aptos a sustentar a condenação por tráfico de drogas.
-  > 5. A inviolabilidade domiciliar foi aplicada à luz do art. 5º, XI, da Constituição e da tese firmada no RE 603.616/RO, exigindo “fundadas razões” objetivas e verificáveis para legitimar ingresso sem mandado; as referências a “diligências preliminares” genéricas, origem em denúncia anônima sobre furto pretérito, e ausência de medidas prévias concretas (monitoramento do imóvel, observação de movimentação típica ou outras diligências) não configuram tal exigência.
-  > 6. A autorização do morador não se apresentou comprovada de forma idônea, ausente registro escrito ou audiovisual do consentimento, conforme orientação desta Corte, impondo o reconhecimento da ilegalidade da busca e a inadmissibilidade das provas dela decorrentes.
-  > 7. Denúncia anônima desacompanhada de elementos verificáveis não legitima mitigação da inviolabilidade domiciliar, conforme jurisprudência consolidada.
-  > 8. Inexistentes omissão, contradição, ambiguidade ou obscuridade, descabe atribuir efeitos modificativos ao julgado por meio do recurso aclaratório.
+  > 4. A jurisprudência do STJ admite a incidência da agravante prevista no art. 61, II, "f", do Código Penal apenas nas hipóteses em que a violência contra a mulher não integra os elementos do tipo penal.
+  > 5. Nos crimes de perseguição contra mulher e violência psicológica contra a mulher, previstos nos arts. 147-A, § 1º, II, e 147-B do Código Penal, a violência contra a mulher já integra os elementos do tipo penal, sendo indevida a aplicação concomitante da agravante do art. 61, II, "f", do Código Penal, sob pena de indevido bis in idem e violação ao princípio da especialidade.
   > IV. Dispositivo e tese
-  > 9. Resultado do Julgamento: Embargos de declaração rejeitados.
+  > 6. Resultado do Julgamento: Agravo regimental desprovido.
   > Tese de julgamento:
-  > 1. Embargos de declaração não se prestam à rediscussão do mérito na ausência de omissão, contradição, ambiguidade ou obscuridade.
-  > 2. A entrada em domicílio sem mandado exige fundadas razões objetivas e verificáveis; denúncia anônima isolada e diligências genéricas não legitimam o ingresso.
-  > 3. O consentimento do morador deve ser comprovado de forma idônea; ausente comprovação, a busca é ilegal e as provas decorrentes são inadmissíveis.
-  > 4. A absolvição é devida quando inexistem provas válidas e independentes aptas a sustentar a condenação (CPP, art. 386, VII).
-  > (EDcl no AgRg no HC n. 1.060.880/AM, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 15/6/2026.)
+  > 1. Não incide a agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher, pois, sob o princípio da especialidade, a violência contra a mulher já integra os elementos do tipo penal, esta incidência configura indevido bis in idem.
+  > (AgRg no REsp n. 2.245.002/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2026, DJEN de 9/9/2026.)
 
-## 162. AgRg no HC nº 1050683 / SP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 10/06/2026.
-- Crime / Tema: Tráfico de drogas · Prova digital
-- Resumo: Sem apreensão de droga e sem laudo toxicológico definitivo, não há materialidade do tráfico (EREsp 1.544.057/RJ). Mensagens extraídas do celular e depoimentos policiais não suprem a falta. Absolvição mantida, com extensão ao corréu; agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1050683.pdf
+## 167. HC nº 1127513 / SP (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
+- Crime / Tema: Falsidade ideológica · Alucinação de IA
+- Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
+
+## 168. REsp nº 2253784 / PA (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
+- Crime / Tema: Estupro de vulnerável
+- Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253784.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MATERIALIDADE NÃO COMPROVADA SEM APREENSÃO E LAUDO TOXICOLÓGICO DEFINITIVO. ABSOLVIÇÃO MANTIDA. AGRAVO IMPROVIDO.
+  > DIREITO PENAL. RECURSO ESPECIAL. ESTUPRO DE VULNERÁVEL. RELACIONAMENTO AMOROSO CONSENTIDO. CIÊNCIA E ANUÊNCIA FAMILIAR. NASCIMENTO DE FILHA. DISTINGUISHING DO TEMA REPETITIVO N. 918/STJ E DA SÚMULA 593/STJ. ATIPICIDADE MATERIAL. RECURSO ESPECIAL PROVIDO. PARECER MINISTERIAL ACOLHIDO.
+  > 1. A tese firmada no Tema Repetitivo n. 918/STJ, reproduzida na Súmula 593/STJ, estabelece que o consentimento da vítima menor de 14 anos, sua experiência sexual anterior ou a existência de relacionamento amoroso com o agente são juridicamente irrelevantes para a configuração do delito previsto no art. 217-A do Código Penal, sem excluir, contudo, a possibilidade de distinguishing em hipóteses absolutamente excepcionais marcadas por circunstâncias fáticas singulares.
+  > 2. A moldura fática delineada pelas instâncias ordinárias revela relacionamento amoroso duradouro entre o recorrente, então com 25 anos de idade, e a vítima, com 12 anos à época dos fatos, mantido com ciência e anuência dos familiares, do qual adveio o nascimento de uma filha, posteriormente reconhecida e assistida material e afetivamente pelo recorrente, inexistindo notícia de violência, coação, exploração, ascendência ou qualquer forma de constrangimento.
+  > 3. As circunstâncias singularíssimas do caso autorizam, excepcionalmente, o reconhecimento da atipicidade material da conduta, mediante distinguishing do Tema Repetitivo n. 918/STJ e da Súmula 593/STJ.
+  > 4. Recurso especial provido para cassar o acórdão condenatório e restabelecer a sentença absolutória, em consonância com o parecer ministerial.
+  > (REsp n. 2.253.784/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/9/2026, DJEN de 8/9/2026.)
+
+## 169. REsp nº 2059576 / MG (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
+- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Quantidade de droga, sozinha, só afasta o tráfico privilegiado se for tão expressiva que seja incompatível com o pequeno traficante. Fora disso, precisa de outros elementos concretos (profissionalismo, logística, estrutura de armazenamento).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2059576.pdf
+- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1241.pdf
+- Ementa oficial:
+  > DIREITO PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS. JULGAMENTO CONJUNTO DOS TEMAS REPETITIVOS N. 1241 E N. 1154. ART. 33, § 4º, DA LEI N. 11.343/2006. TRÁFICO PRIVILEGIADO. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO. MODULAÇÃO DA FRAÇÃO DE REDUÇÃO. ART. 42 DA LEI DE DROGAS. BIS IN IDEM. RECURSO ESPECIAL NÃO PROVIDO.
   > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto pelo órgão acusador contra decisão monocrática que concedeu a ordem, de ofício, para absolver o agravante do delito previsto no art. 33, caput, da Lei 11.343/06, com extensão ao corréu.
-  > 2. Fato relevante. Conjunto probatório formado por extração de dados de aparelho celular e depoimentos policiais sobre tratativas de venda de entorpecentes; inexistência de apreensão de drogas e de laudo toxicológico definitivo.
-  > 3. As alegações recursais. Sustentação de que a materialidade poderia ser demonstrada por outros meios de prova, com referência a precedente do Supremo; invocação da correlação e da emendatio libelli (CPP, art. 383); e defesa da validade da busca domiciliar por decisão judicial fundamentada.
+  > 1. Recurso especial submetido ao rito dos recursos repetitivos, nos termos dos arts. 1.036 e seguintes do Código de Processo Civil.
+  > 2. A controvérsia originalmente afetada ao Tema Repetitivo n. 1241, relativa à possibilidade de utilização da natureza e da quantidade das drogas apreendidas para modulação da fração de redução prevista no art. 33, § 4º, da Lei n. 11.343/2006, foi apreciada conjuntamente com o Tema Repetitivo n. 1154, em razão da interdependência entre as matérias.
+  > 3. No caso concreto, o Tribunal de origem reconheceu a incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 e fixou a fração de redução em 1/6, considerando exclusivamente a quantidade da droga apreendida, sem que esse vetor tivesse sido utilizado na primeira fase da dosimetria.
   > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se a materialidade do crime de tráfico de drogas, na hipótese de inexistência de apreensão de entorpecentes, exige a realização de laudo toxicológico definitivo, ou se pode ser suprida por elementos como mensagens extraídas de aparelho celular e depoimentos policiais.
-  > 5. Há questões acessórias em discussão: (i) saber se houve observância ao princípio da correlação e possibilidade de emendatio libelli (CPP, art. 383); e (ii) saber se a busca domiciliar foi válida, ante decisão judicial fundamentada e diligências prévias.
+  > 4. A questão em discussão consiste em definir se a natureza e a quantidade das drogas apreendidas podem ser utilizadas para modular a fração de redução da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que não tenham sido valoradas na primeira fase da dosimetria.
+  > 5. Discute-se, ainda, em que hipóteses a natureza e a quantidade das drogas apreendidas podem fundamentar o afastamento da própria causa especial de diminuição, isoladamente ou em conjunto com outros elementos concretos reveladores da dedicação do agente a atividades criminosas ou de sua integração a organização criminosa.
   > III. Razões de decidir
-  > 6. A Terceira Seção do Superior Tribunal de Justiça, no EREsp 1.544.057/RJ, firmou entendimento de que o laudo toxicológico definitivo é imprescindível para comprovar a materialidade do delito de tráfico de entorpecentes, impondo a absolvição na sua ausência.
-  > 7. No caso concreto, não houve apreensão de drogas nem a confecção de laudo toxicológico definitivo, sendo insuficientes, para a comprovação da materialidade do art. 33, caput, da Lei 11.343/2006, os dados extraídos de aparelho celular e os depoimentos policiais.
-  > 8. Reconhecida a ausência de materialidade, impõe-se a absolvição, restando prejudicada a análise das demais alegações relativas à correlação, emendatio libelli e validade da busca domiciliar.
+  > 6. O julgamento conjunto dos Temas Repetitivos n. 1241 e n. 1154 permitiu uniformizar a interpretação do art. 33, § 4º, da Lei n. 11.343/2006 quanto ao papel desempenhado pela natureza e pela quantidade das drogas apreendidas tanto na aferição dos requisitos para incidência da causa especial de diminuição quanto na definição da respectiva fração de redução.
+  > 7. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante constitui fundamento idôneo para afastar a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+  > 8. Fora dessa hipótese excepcional, a natureza e a quantidade das drogas, isoladamente consideradas, não autorizam o afastamento da causa especial de diminuição, exigindo-se sua associação com outros elementos concretos do caso, como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento, aptos a evidenciar, mediante fundamentação específica, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
+  > 9. Reconhecida a incidência da causa especial de diminuição, a natureza e a quantidade das drogas apreendidas podem ser utilizadas para definir a fração de redução da pena, desde que não tenham sido valoradas na primeira fase da dosimetria, em observância à vedação ao bis in idem.
+  > 10. Não configura bis in idem a utilização da natureza e da quantidade das drogas como circunstância judicial negativa para exasperar a pena-base e, simultaneamente, como elemento indicativo da dedicação do agente a atividades criminosas ou de sua integração a organização criminosa para afastar a incidência da minorante. A duplicidade ocorre apenas quando essas mesmas circunstâncias são empregadas, concomitantemente, para majorar a pena-base e para modular a fração de redução da pena na terceira fase da dosimetria.
+  > 11. No caso concreto, a pena-base permaneceu fixada no mínimo legal, inexistindo dupla valoração na utilização da quantidade da droga exclusivamente para modular a fração da causa especial de diminuição, razão pela qual deve ser mantido o redutor no patamar de 1/6.
   > IV. Dispositivo e tese
-  > 9. Resultado do Julgamento: Agravo regimental improvido.
+  > 12. Resultado do Julgamento: Recurso não provido.
+  > Tese de julgamento: (Temas Repetitivos n. 1214 e n. 1154): "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa".
+  > (REsp n. 2.059.576/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
+
+## 170. REsp nº 1963433 / SP (STJ)
+- Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
+- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
+- Resumo: Temas 1.154 e 1.241/STJ (julgamento conjunto) — Natureza e quantidade da droga são avaliadas juntas e uma única vez na dosimetria, de preferência para modular a fração do tráfico privilegiado. Usá-las para aumentar a pena-base e também para reduzir essa fração é bis in idem.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1963433.pdf
+- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-tema-1154.pdf
+- Ementa oficial:
+  > DIREITO PENAL. RECURSOS ESPECIAIS REPETITIVOS. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. TEMA 1154 E TEMA 1241 DA SISTEMÁTICA DOS RECURSOS REPETITIVOS. NATUREZA E QUANTIDADE DE ENTORPECENTES. DOSIMETRIA DA PENA. FIXAÇÃO DE TESE VINCULANTE. TESES FIXADAS; RECURSOS JULGADOS.
+  > I. Caso em exame
+  > 1. O julgamento conjunto. Julgamento conjunto, na sistemática dos recursos repetitivos, dos temas 1154 e 1241, para fixação de tese sobre: (i) uso da natureza e quantidade de drogas para afastar a minorante do art. 33, § 4º, da Lei 11.343/2006; e (ii) possibilidade de utilizar a quantidade e variedade de drogas apreendidas para definir a fração da minorante do tráfico privilegiado.
+  > 2. Fato relevante. Delimitação do Tema 712 da repercussão geral (STF) como premissa: “as circunstâncias da natureza e da quantidade da droga apreendida devem ser levadas em consideração apenas em uma das fases do cálculo da pena”, quando se trata de valoração negativa na pena-base e, simultaneamente, modulação da fração do redutor.
+  > 3. Casos representativos. Julgamento dos REsp 1963433-SP (tema 1154), REsp 1964296-MG (tema 1154), REsp 1963489-MS (tema 1154), REsp 2059577-MG (tema 1241) e REsp 2059576-MG (tema 1241). No REsp 1963433-SP, apreensão de 294 porções de crack, total aproximado de 249,8 g, com incidência de causa de aumento do art. 40, VI, da Lei 11.343/2006; no REsp 1964296-MG, apreensão de 1,934 kg de cocaína; no REsp 1963489-MS, apreensão de 99 kg de maconha, com incidência de causa de aumento do art. 40, V, da Lei 11.343/2006.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em: (i) saber se a natureza e a quantidade de drogas, isoladamente consideradas, podem servir como fundamento idôneo para afastar a minorante do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006); e (ii) saber se a quantidade e a variedade de drogas podem ser utilizadas para modular a fração de redução da minorante na terceira fase da dosimetria, e em que medida isso se compatibiliza com o Tema 712 da repercussão geral (STF) e com a vedação ao bis in idem.
+  > 5. Há duas questões adicionais em discussão: (i) saber se é possível valorar, preferencialmente, o binômio natureza-quantidade na terceira fase, deslocando-o da primeira fase sem configurar reformatio in pejus; e (ii) saber se é admissível a valoração simultânea do binômio, na primeira fase para exasperar a pena-base e, na terceira fase, para afastar a minorante, sem violação ao princípio do ne bis in idem.
+  > III. Razões de decidir
+  > 6. Firmou-se que natureza e quantidade constituem binômio incindível, devendo ser sempre valorados conjuntamente, vedada a fragmentação em vetores autônomos na dosimetria.
+  > 7. A premissa do Tema 712 (STF) impede a utilização concomitante do binômio natureza-quantidade para exasperar a pena-base e, simultaneamente, para modular a fração do redutor; não alcança, porém, a hipótese de uso para exasperar a pena-base e, ao mesmo tempo, afastar a incidência da minorante do § 4º do art. 33, o que não configura bis in idem por se tratar de fundamentos distintos.
+  > 8. Adota-se critério de especialidade: o binômio natureza-quantidade deve ser valorado preferencialmente na terceira fase para modular a fração do redutor, salvo quando a minorante não incidir, hipótese em que pode incidir na primeira fase para elevar a pena-base.
+  > 9. Não configura reformatio in pejus o deslocamento, em sede recursal de defesa, da valoração do binômio da primeira para a terceira fase, quando o tribunal passa a aplicar a minorante e utiliza a mesma circunstância apenas para modular a fração, sem aumento do quantum final da pena.
+  > 10. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
+  > 11. Aplicações concretas: (i) REsp 1963433-SP: mantida a negativa da minorante e o regime inicial mais gravoso, com causa de aumento do art. 40, VI; (ii) REsp 1964296-MG: afastada a minorante em razão da apreensão de 1,934 kg de cocaína, com fixação do regime inicial fechado; (iii) REsp 1963489-MS: mantida a negativa da minorante ante 99 kg de maconha e causa de aumento do art. 40, V.
+  > IV. Dispositivo e tese
+  > 12. Resultado do Julgamento: Teses fixadas nos temas 1154 e 1241; REsp 1963433-SP desprovido; REsp 1964296-MG provido; REsp 1963489-MS desprovido; REsp 2059577-MG e REsp 2059576-MG julgados nos termos do voto do relator, com fixação das teses.
   > Tese de julgamento:
-  > 1. A materialidade do crime de tráfico de drogas exige apreensão do entorpecente e a confecção do respectivo laudo toxicológico.
-  > 2. Mensagens extraídas de aparelho celular e depoimentos policiais, desacompanhados de apreensão e laudo pericial, não comprovam a materialidade do delito previsto no art. 33, caput, da Lei 11.343/2006.
-  > 3. Reconhecida a ausência de materialidade, deve ser mantida a absolvição, ficando prejudicadas questões acessórias.
-  > (AgRg no HC n. 1.050.683/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/6/2026, DJEN de 10/6/2026.)
-
-## 163. HC nº 1088218 / SP (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 03/06/2026.
-- Crime / Tema: Violência doméstica · Perseguição · Ameaça · Prisão e medidas cautelares
-- Resumo: A preventiva decretada só pelo descumprimento de medida protetiva perde o fundamento quando o próprio MP arquiva o inquérito desse descumprimento por atipicidade (encontro fortuito, sem dolo). Sem fato novo e contemporâneo, a condição de foragido não basta para mantê-la, e as medidas protetivas vigentes já resguardam a vítima. Preventiva revogada, facultadas as cautelares do art. 319 do CPP.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1088218.pdf
-
-## 164. AgRg no RHC nº 235625 / SP (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/06/2026.
-- Crime / Tema: Violência doméstica · Quebra da cadeia de custódia · Prova digital
-- Resumo: A cadeia de custódia da prova digital não é formalismo. Não houve laudo de extração, indicação de como os vídeos chegaram à polícia, hash nem registro do percurso, e a defesa só viu uma regravação da tela do sistema: a integridade não está demonstrada. Presunção de idoneidade e fé pública da servidora não suprem a falta, e não se pode exigir da defesa a prova da adulteração (prova diabólica). A questão é objetiva e cabe em HC. Vídeos inadmissíveis, ressalvada perícia nos originais. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-235625.pdf
-- Ementa oficial:
-  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROVA DIGITAL. CADEIA DE CUSTÓDIA. DOCUMENTAÇÃO MÍNIMA. REGULAR ARRECADAÇÃO, PRESERVAÇÃO, EXTRAÇÃO E ARMAZENAMENTO. INADEQUAÇÃO DO HABEAS CORPUS. NÃO OCORRÊNCIA. QUESTÃO OBJETIVAMENTE VERIFICÁVEL A PARTIR DOS AUTOS. AUSÊNCIA DE LAUDO TÉCNICO DE EXTRAÇÃO, DE INDICAÇÃO DO MEIO DE ENTREGA E DE FORMALIZAÇÃO DO PERCURSO DA PROVA DIGITAL. IMPOSSIBILIDADE DE BAIXAR OS ARQUIVOS APÓS A INSERÇÃO NO SISTEMA. DISPONIBILIZAÇÃO DE NOVO LINK A PARTIR DE GRAVAÇÃO DA TELA DO SISTEMA. PRESUNÇÃO DE IDONEIDADE DA PROVA E FÉ PÚBLICA DA SERVIDORA. INSUFICIÊNCIA. INTEGRIDADE, MESMIDADE E AUDITABILIDADE NÃO DEMONSTRADAS. INADMISSIBILIDADE DAS PROVAS DIGITAIS, NO ESTADO ATUAL. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. A controvérsia deduzida no habeas corpus diz respeito à existência, ou não, de documentação mínima apta a demonstrar a regular arrecadação, preservação, extração e armazenamento de elementos de prova digitais, matéria objetivamente verificável a partir da leitura dos autos e que não exige reexame aprofundado da narrativa fática nem incursão valorativa sobre a suficiência do conteúdo dos vídeos para futura condenação.
-  > 2. A cadeia de custódia da prova digital não traduz simples formalismo procedimental, mas instrumento voltado a assegurar a idoneidade epistemológica da prova, a correspondência entre o vestígio originariamente arrecadado e o elemento submetido ao contraditório e à valoração jurisdicional, bem como a sua integridade, mesmidade e auditabilidade.
-  > 3. No caso, não há notícia de: apreensão técnica do equipamento de origem; laudo descrevendo a forma de extração dos arquivos; indicação do meio pelo qual teriam sido entregues à autoridade policial; referência à geração e confrontação de hash; ou formalização adequada do percurso percorrido pela prova digital até sua inserção no sistema policial.
-  > 4. A circunstância de os arquivos, após inseridos no Portal de Vídeos da Polícia Civil, não mais poderem ser baixados, tendo a visualização franqueada à defesa decorrido de nova captação mediante gravação daquilo que aparecia na tela do sistema, reforça a ausência de demonstração objetiva da integridade da prova.
-  > 5. A mera informação de que o link estaria identificado como proveniente de câmera de segurança ou de aparelho celular, o relatório policial descritivo e a invocação de presunção de idoneidade da prova ou de fé pública da servidora não suprem, no caso, a ausência de documentação técnica objetiva e auditável acerca da obtenção, preservação e integridade dos arquivos.
-  > 6. Em se tratando de prova digital, a ausência de documentação técnica pode inviabilizar o próprio acesso aos parâmetros necessários para a identificação de eventual adulteração, não sendo legítimo inverter contra a defesa o ônus de demonstrar precisamente aquilo cuja averiguação se tornou inviável pela própria deficiência da custódia estatal, sob pena de verdadeira prova diabólica.
-  > 7. Mantém-se, assim, a conclusão de que as provas digitais, da forma como juntadas aos autos, são inadmissíveis, com ressalva de eventual perícia, caso ainda existentes os arquivos originais ou fonte primária tecnicamente idônea e viável sua análise.
-  > 8. Agravo regimental não provido.
-  > (AgRg no RHC n. 235.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2026, DJEN de 1/6/2026.)
-
-## 165. EDcl no AgRg no AREsp nº 2410587 / AP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 18/05/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Embargos acolhidos para suprir omissão sobre ilegalidade flagrante: reconhecimento por foto na delegacia sem o art. 226 do CPP, confirmado só pela vítima em juízo e sem outra prova independente (Tema 1.258/STJ). HC de ofício: réu absolvido do roubo, com extensão aos corréus (art. 580 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2410587.pdf
-- Ementa oficial:
-  > EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO REALIZADO NA FASE INQUISITORIAL. DESCUMPRIMENTO DAS REGRAS DE RECONHECIMENTO PESSOAL. TEMA REPETITIVO 1.258/STJ. OMISSÃO QUANTO À ANÁLISE DA ILEGALIDADE FLAGRANTE. CONTROLE DE LEGALIDADE. IMPUGNAÇÃO ESPECÍFICA E SÚMULAS 182 E 7/STJ. INSUFICIÊNCIA PROBATÓRIA. PROVA DERIVADA CONTAMINADA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. EFEITO EXTENSIVO AOS CORRÉUS. ABSOLVIÇÃO.
-  > Embargos de declaração acolhidos. Ordem concedida de ofício com extensão aos demais réus.
-  > (EDcl no AgRg no AREsp n. 2.410.587/AP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/5/2026, DJEN de 18/5/2026.)
-
-## 166. AgRg no AREsp nº 2786040 / GO (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/05/2026.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Fundada suspeita
-- Resumo: A afirmação de corréus presos em flagrante de que compraram a droga na casa do acusado, sem confirmação por nenhum outro elemento, não é fundada razão para entrar sem mandado. O Estado não provou o consentimento do morador. Provas nulas e réu absolvido; a busca veicular dos corréus foi considerada válida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2786040.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA DOMICILIAR. ILICITUDE DAS PROVAS. ABSOLVIÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que reconheceu a ilicitude do ingresso dos policiais no domicílio do agravado, anulou as provas obtidas a partir da busca domiciliar considerada ilícita e absolveu o agravado das imputações contra ele formuladas, nos termos do art. 386, II, do Código de Processo Penal.
-  > 2. O agravante sustenta que havia fundadas razões para o ingresso no domicílio do agravado, com base em informações fornecidas pelos corréus, que haviam sido presos em flagrante momentos antes, e que indicaram o agravado como fornecedor das drogas.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 3. A questão em discussão consiste em saber se o ingresso dos policiais no domicílio do agravado, sem mandado judicial, foi amparado por fundadas razões que justificassem a medida, considerando as informações fornecidas pelos corréus e os elementos encontrados na busca veicular.
-  > III. RAZÕES DE DECIDIR
-  > 4. A decisão agravada foi mantida, pois o ingresso no domicílio do agravado não foi precedido de mandado judicial nem de justa causa comprovada, sendo necessário o consentimento do morador, que não foi demonstrado.
-  > 5. A ilicitude das provas obtidas mediante ingresso domiciliar sem mandado judicial foi reconhecida, uma vez que não havia elementos probatórios independentes que justificassem a medida.
-  > 6. Na ausência de justa causa para o ingresso no domicílio e na inexistência de provas válidas obtidas de forma lícita, as provas derivadas da busca domiciliar foram consideradas ilícitas, sendo aplicável a Teoria dos Frutos da Árvore Envenenada.
-  > 7. A absolvição do agravado foi determinada, considerando que os únicos elementos de prova quanto à materialidade delitiva eram decorrentes da busca domiciliar ilícita.
-  > IV. DISPOSITIVO E TESE
-  > 8. Resultado do Julgamento: Agravo regimental não provido.
-  > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator, que reproduz a decisão monocrática, em que o réu era o agravante]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
-  > (AgRg no AREsp n. 2.786.040/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 13/5/2026.)
-
-## 167. AREsp nº 3115023 / RS (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/04/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri
-- Resumo: A plenitude de defesa prevalece sobre a preclusão do art. 422 do CPP quando há prejuízo concreto. Negar a oitiva dos peritos da defesa e deixar a acusação explorar os pareceres sem contraditório técnico gera assimetria. Oitiva restabelecida e júri anulado (médico e enfermeira acusados da morte de um recém-nascido).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115023.pdf
-
-## 168. REsp nº 2223655 / RS (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 14/04/2026.
-- Crime / Tema: Infanticídio · Pronúncia
-- Resumo: Desclassificação para infanticídio (art. 123 do CP) na pronúncia mantida: laudo psicológico e prova testemunhal prevaleceram sobre o laudo do incidente de insanidade. REsp do MP não conhecido (Súmula 126).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2223655.pdf
-
-## 169. AgRg no HC nº 1079684 / MG (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/04/2026.
-- Crime / Tema: Associação criminosa · Crimes contra a Administração Pública · Lavagem de dinheiro · Quebra de sigilo · Busca e apreensão
-- Resumo: Acesso a dados telemáticos armazenados (dados estáticos) não exige prazo, como a interceptação exige, mas precisa guardar pertinência temática e temporal com os fatos investigados. A investigação de fatos de 2009 a 2015 não autoriza vasculhar dados anteriores ou posteriores, o que seria pescaria probatória. Busca e apreensão mantida, com recorte temporal.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1079684.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. BUSCA E APREENSÃO. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE PESCARIA PROBATÓRIA. 2. DADOS TELEMÁTICOS ARMAZENADOS (DADOS ESTÁTICOS). LIMITAÇÃO DE PRAZO. DESNECESSIDADE. DELIMITAÇÃO FÁTICA E TEMPORAL. IMPRESCINDIBILIDADE. 3. AGRAVO REGIMENTAL A QUE SE DÁ PARCIAL PROVIMENTO.
-  > 1. O acórdão impugnado foi explícito ao afirmar que a providência cautelar decorre de investigação de suposta atuação estruturada criminosa, relacionada a elementos anteriormente reunidos, notadamente dados extraídos de notebook entregue por colaborador. Também consignou que a medida se insere em apuração complexa, envolvendo múltiplos investigados e empresas, voltada à elucidação de possível associação criminosa, delitos contra a Administração Pública e subsequente lavagem de capitais.
-  > - Portanto, não se trata, aqui, de medida cautelar inaugurada de modo arbitrário ou desvinculada de elementos concretos. Ao contrário, o quadro descrito no ato coator revela investigação em curso, com elementos indiciários previamente colhidos e finalidade probatória associada aos fatos já delimitados no procedimento. Nessas condições, não se pode concluir, de plano, que a diligência tenha sido utilizada como mecanismo indiferenciado de prospecção criminal. Nesse contexto, reitero que não se evidencia ilegalidade manifesta.
-  > - A alegação no sentido de que teria havido "confissão" de pesca probatória na própria representação ministerial não encontra respaldo nas passagens decisórias transcritas nem em elemento objetivo apto a demonstrar, de modo inequívoco, que a medida foi decretada para fins genéricos desvinculados dos fatos investigados. Ao revés, as instâncias ordinárias indicaram a natureza probatória instrumental da cautelar, inserida em apuração complexa e apoiada em indícios. Nessa medida, permanece hígida a razão decisória.
-  > 2. Quanto ao pedido subsidiário, referente à ausência de recorte temporal das medidas invasivas, a jurisprudência desta Corte Superior firmou compreensão no sentido de que a Lei n. 12.965/2014 não exige, para a obtenção judicial de dados já armazenados, a mesma limitação temporal prevista para registros de aplicações e fluxos comunicacionais. A exigência do art. 22, inciso III, do Marco Civil da Internet dirige-se aos registros, e não se projeta automaticamente sobre hipóteses de extração e análise de dados telemáticos previamente armazenados em dispositivos apreendidos para fins de investigação criminal.
-  > - Contudo, ao realizar uma análise mais detalhada dos julgados desta Corte, constato que a conclusão se refere à desnecessidade de se fixar o lapso de captação equivalente ao fixado para fluxos de comunicação, como ocorre, por exemplo, no art. 8º-A, § 3º, da Lei n. 9.296/1996, que define o prazo de 15 dias, renovável, para a captação ambiental. De fato, não há necessidade de fixar prazo para a captação de dados estáticos, o que não afasta a exigência de limitação temporal do acesso aos dados armazenados, sob pena de, conforme destacado pela defesa, franquear-se verdadeira pescaria probatória. Oportuno anotar que, no RHC 166.662/MG, "o acesso aos dados telemáticos armazenados foi delimitado ao período de 2018 a 2021".
-  > - Nessa linha de intelecção, embora o acesso aos dados estáticos realmente não demande a prévia fixação de prazo para acesso, como ocorre no acesso aos fluxos de comunicação, é imperativo que os dados acessados, em qualquer tipo de diligência, guardem pertinência temática e contemporaneidade com os fatos investigados. Admitir que a investigação por fatos ocorridos entre 2009 e 2015 viabilize o acesso a provas anteriores a 2009, bem como a documentos posteriores a 2015, considerando que a medida foi decretada 10 anos após a suposta cessação dos fatos, revela acesso indevido a documentos cuja relação com os fatos investigados não se encontra minimamente demonstrada, sendo, portanto, vedada por ser medida meramente especulativa.
-  > 3. Agravo regimental a que se dá parcial provimento, para acolher o pedido subsidiário e, de ofício, delimitar as medidas invasivas ao período dos fatos investigados (2009-2015).
-  > (AgRg no HC n. 1.079.684/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
-
-## 170. HC nº 1048611 / RS (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 17/03/2026.
-- Crime / Tema: Execução penal
-- Resumo: A remição pelo trabalho pode ser comprovada por prova testemunhal idônea, mesmo de outros presos, sobretudo quando o Estado falhou em registrar o trabalho (art. 126 da LEP). Proibir de antemão essa prova é ilegal. Ordem concedida para o juízo da execução reanalisar a remição.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1048611.pdf
-- Ementa oficial:
-  > DIREITO PENAL. EXECUÇÃO. HABEAS CORPUS. REMIÇÃO DE PENA PELO TRABALHO. PROVA TESTEMUNHAL. ORDEM CONCEDIDA.
-  > I. CASO EM EXAME
-  > 1. Habeas corpus impetrado contra decisão do Tribunal de Justiça do Rio Grande do Sul que negou provimento ao agravo em execução, mantendo decisão que indeferiu a produção de prova testemunhal e a remição pelo trabalho na função de "paneleiro".
-  > 2. O paciente alegou ter exercido a função de paneleiro no período de 15/9/2024 a 28/1/2025, na Penitenciária Estadual de Charqueadas, e requereu a remição de pena com base em prova testemunhal, diante da ausência de registro formal do trabalho pela administração prisional.
-  > 3. O Tribunal local considerou a prova testemunhal inidônea, por se tratar de depoimentos de outros apenados, que teriam interesse indireto na concessão do benefício.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 4. A questão em discussão consiste em saber se a prova testemunhal pode ser considerada idônea para comprovar o trabalho realizado pelo apenado, para fins de remição de pena, nos termos do art. 126 da Lei de Execução Penal.
-  > III. RAZÕES DE DECIDIR
-  > 5. A Lei de Execução Penal não há impedimento à produção da prova testemunhal como comprovação do trabalho para fins de remição de pena, sendo possível a utilização de outros meios probatórios, como a prova testemunhal.
-  > 6. A jurisprudência do Tribunal Superior admite a produção de prova testemunhal para fins de remição pelo trabalho, desde que idônea e devidamente fundamentada.
-  > 7. A proibição prévia da produção de prova testemunhal para comprovação de trabalho interno é indevida, especialmente quando há alegação de falha estatal na fiscalização e registro do trabalho realizado.
-  > 8. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal.
-  > IV. DISPOSITIVO E TESE
-  > 9. Ordem concedida para reconhecer a idoneidade da prova testemunhal e determinar a reanálise do pedido de remição pelo Juízo da execução.
-  > Tese de julgamento:
-  > 1. A remição pelo trabalho pode ser comprovada por meio de prova testemunhal, desde que idônea e devidamente fundamentada.
-  > 2. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal para fins de remição pelo trabalho.
-  > (HC n. 1.048.611/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026.)
+  > 1. A natureza e a quantidade de drogas devem ser valoradas sempre de forma conjunta, como binômio incindível, vedada a aplicação separada em fases distintas da dosimetria.
+  > 2. A natureza e a quantidade de drogas devem ser valoradas preferencialmente na terceira fase da dosimetria para modular a fração da minorante do art. 33, § 4º, da Lei 11.343/2006, salvo quando a minorante não incidir, hipótese em que podem ser aplicadas na primeira fase para elevar a pena-base.
+  > 3. Caso a instância anterior tenha afastado a minorante e valorado o binômio na primeira fase, o tribunal, em recurso da defesa, ao aplicar o redutor, deve deslocar essa valoração para a terceira fase para modular a fração, sem configurar reformatio in pejus.
+  > 4. Não configura bis in idem considerar a natureza e a quantidade de drogas para aumentar a pena-base e, simultaneamente, como elemento fático para afastar a minorante do art. 33, § 4º, da Lei 11.343/2006; somente haverá bis in idem se o binômio for usado para elevar a pena-base e, ao mesmo tempo, para modular a fração da minorante.
+  > 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
+  > (REsp n. 1.963.433/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
