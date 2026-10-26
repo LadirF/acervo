@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 15 de 30 (decisões 141 a 150)
+# Acervo de Jurisprudência — Cury Advogados — parte 15 de 31 (decisões 141 a 150)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 293 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 302 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,109 +8,91 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 141. HC nº 1131181 / PR (STJ)
+## 141. AgRg no REsp nº 2266487 / MG (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/09/2026.
+- Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Busca e apreensão
+- Resumo: Entrar na casa para apreender o veículo furtado visto na garagem foi lícito (Tema 280/STF), mas vasculhar depois cômodo interno e armário desvia da finalidade da diligência (fishing expedition). A arma achada ali é prova ilícita: réu absolvido do art. 16, § 1º, IV, da Lei 10.826/2003. Receptação, adulteração de sinal e corrupção ativa mantidas, com prova independente.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2266487.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BUSCA DOMICILIAR SEM MANDADO. INGRESSO INICIAL LÍCITO PARA APREENSÃO DE VEÍCULO PRODUTO DE FURTO. JUSTA CAUSA CONFIGURADA. BUSCA POSTERIOR EM CÔMODO INTERNO E ARMÁRIO. DESVIO DE FINALIDADE. FISHING EXPEDITION. ILICITUDE DA PROVA RELATIVA À ARMA DE FOGO. ABSOLVIÇÃO QUANTO AO ART. 16, § 1º, IV, DA LEI Nº 10.826/2003. MANUTENÇÃO DAS CONDENAÇÕES POR RECEPTAÇÃO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E CORRUPÇÃO ATIVA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+  > 2. O agravante foi condenado, em primeiro grau, pela prática dos crimes previstos nos arts. 333, 180, por duas vezes, e 311, § 2º, III, por duas vezes, todos do Código Penal, e no art. 16, § 1º, IV, da Lei nº 10.826/2003. O Tribunal de Justiça rejeitou a preliminar de ilicitude das buscas domiciliares e deu parcial provimento à apelação defensiva apenas para reconhecer a continuidade delitiva entre os crimes de receptação e entre os crimes de adulteração de sinal identificador de veículo automotor, redimensionando a pena para 9 anos e 8 meses de reclusão e 42 dias-multa. Nos embargos infringentes e de nulidade, a Corte estadual manteve a rejeição da preliminar de nulidade das provas, ao fundamento de que havia justa causa para o ingresso policial no imóvel, diante da localização de veículo produto de furto na garagem da residência indicada pelo acusado.
+  > 3. No recurso especial, a defesa sustentou violação aos arts. 157, caput e § 3º, 240 e 386, II, do CPP. Alegou que a diligência policial tinha por finalidade localizar veículo furtado na garagem, mas foi ampliada para cômodos internos e armários, sem mandado judicial e sem fato novo, o que configuraria desvio de finalidade e “fishing expedition”.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. Há duas questões em discussão: (i) saber se houve justa causa para o ingresso policial inicial no imóvel, diante da localização de veículo produto de furto indicado pelo próprio acusado; e (ii) saber se a posterior busca em cômodo interno e em armário da residência configurou desvio de finalidade e prova ilícita quanto à arma de fogo apreendida.
+  > III. RAZÕES DE DECIDIR
+  > 5. O ingresso inicial no imóvel foi amparado por elementos objetivos e contemporâneos, pois o acusado indicou a existência de veículo produto de furto em imóvel situado em Santa Luzia/MG, e os policiais visualizaram o automóvel na garagem da residência indicada. A diligência, nesse ponto, observou o Tema nº 280/STF, que admite a entrada forçada em domicílio sem mandado judicial quando houver fundadas razões, justificadas por elementos prévios e submetidas a controle judicial posterior.
+  > 6. A posterior busca no interior da residência extrapolou o escopo da justa causa inicialmente verificada. A arma de fogo não foi localizada por visualização imediata ou encontro fortuito inevitável durante a recuperação do veículo, mas no interior de armário situado em cômodo interno, após varredura desvinculada da finalidade original da diligência.
+  > 7. O ingresso domiciliar inicialmente legítimo não autoriza devassa indiscriminada do imóvel. A atuação policial deve permanecer vinculada à finalidade que justificou a mitigação da inviolabilidade domiciliar, sob pena de desvio de finalidade e configuração de “fishing expedition”.
+  > 8. A nulidade reconhecida é parcial. As provas relativas aos crimes de receptação, adulteração de sinal identificador de veículo automotor e corrupção ativa possuem suporte autônomo, anterior e independente da busca interna que resultou na apreensão da arma. Ausentes outros elementos independentes para sustentar a condenação pelo art. 16, § 1º, IV, da Lei nº 10.826/2003, impõe-se a absolvição do agravante apenas quanto a esse crime, com fundamento no art. 386, II, do CPP.
+  > IV. DISPOSITIVO
+  > 9. Agravo regimental parcialmente provido para reconsiderar, em parte, a decisão agravada e dar parcial provimento ao recurso especial, a fim de reconhecer a ilicitude da prova obtida no interior da residência quanto à arma de fogo apreendida, absolvendo o agravante da imputação relativa ao art. 16, § 1º, IV, da Lei nº 10.826/2003.
+  > (AgRg no REsp n. 2.266.487/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 24/9/2026, DJEN de 29/9/2026.)
+
+## 142. HC nº 1132260 / MS (STJ)
+- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 29/09/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima, sem investigação prévia, monitoramento ou venda presenciada, não autoriza o ingresso no domicílio. O suposto consentimento do morador, abordado por policiais armados, não é crível (coação ambiental), e cabia ao Estado prová-lo. Provas ilícitas e réu absolvido do tráfico (15 g de cocaína).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1132260.pdf
+
+## 143. EDcl no RHC nº 248299 / PA (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/09/2026.
+- Crime / Tema: Usurpação de bem da União · Prisão e medidas cautelares
+- Resumo: A manutenção de medida cautelar diversa da prisão exige demonstração concreta e atual da sua necessidade (art. 282, § 5º, do CPP). Monitoração eletrônica cassada: imposta sem fundamentação específica e mantida por mais de 6 meses sem reavaliação. A ausência de fato novo não basta para mantê-la, e o tribunal não pode suprir a falta de fundamento no julgamento do HC. Demais cautelares mantidas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248299.pdf
+
+## 144. HC nº 997670 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/09/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Confissão informal na rua de que há droga em casa não autoriza, sozinha, o ingresso no domicílio sem indício concreto de que a casa serve ao tráfico. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A abordagem pela guarda municipal foi considerada válida (flagrante aparente, art. 301 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-997670.pdf
+
+## 145. RHC nº 248048 / MG (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
+- Resumo: Preventiva por tráfico revogada: pequena quantidade de droga não justifica a prisão, ainda que a ré responda a outra ação penal por tráfico. Medidas cautelares diversas são suficientes.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248048.pdf
+
+## 146. HC nº 1131734 / PB (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
+- Resumo: Impronúncia de ofício: pronúncia baseada só em testemunhos indiretos (“ouvir dizer”) e em áudio de motorista de aplicativo não juntado aos autos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131734.pdf
+
+## 147. RE nº 1.615.925 / MG (STF)
+- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 25/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Andar com a mão na cintura segurando as calças e olhando para o chão é suspeita subjetiva, não fundada suspeita para busca pessoal (art. 244 do CPP). Mantida a absolvição por tráfico; RE do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1615925.pdf
+- Ementa oficial:
+  > DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO EM FACE DE ACÓRDÃO DO STJ. TRÁFICO DE DROGAS. ABSOLVIÇÃO. AUSÊNCIA DE FUNDADAS SUSPEITAS PARA A ABORDAGEM. RECURSO DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Trata-se de recurso extraordinário apresentado pelo MPMG contra acórdão do STJ que deu provimento a recurso especial para absolver o réu da acusação de tráfico de drogas, tendo em vista o reconhecimento da ilegalidade e da ausência de justa causa da abordagem policial que resultou no encontro dos entorpecentes. No recurso, o MPMG aduz que a abordagem e a revista foram justificadas e que o julgado do STJ violou o art. 5º, LVI, e o art. 144, §5º, ambos da Constituição Federal.
+  > II. QUESTÕES EM DISCUSSÃO
+  > 2. Verificar se estão presentes os óbices ao conhecimento e eventual provimento do recurso e se, de fato, o acórdão recorrido violou frontalmente os dispositivos constitucionais invocados.
+  > III. RAZÕES DE DECIDIR
+  > 3. Não há que se confundir, por evidente, justa causa com prova suficiente para a condenação. Menos ainda há que se confundir justa causa com certeza absoluta do crime. Trata-se, porém, de exigir fundadas razões a serem devidamente justificadas a posteriori, objetiva ou descritivamente e para além de mera ou vã suspeita.
+  > 4. O julgado recorrido, relatado pelo e. Ministro Reynaldo Soares da Fonseca, foi bem fundamentado e apontou a ausência de fundadas suspeitas para a revista, tendo a ação policial se pautado por razões subjetivas, mal explicadas. Nesse sentido, da própria sentença que inicialmente absolveu o acusado, se extrai a narrativa do policial de que viu “o indivíduo andando com a mão na cintura, segurando as calças”, “olhando para o chão” e que isso “levantou suspeita”.
+  > 5. A atitude descrita pelo próprio policial, por certo, não configura, objetivamente, uma postura suspeita da prática de crimes e que justifique que alguém seja abordado na rua e revistado. Ao contrário, revela uma vã suspeita, com alto grau de subjetividade, um mero tirocínio, o que esta Corte refuta em defesa das garantias dos direitos fundamentais dos cidadãos.
+  > IV. DISPOSITIVO
+  > 6. Recurso extraordinário ao qual se nega provimento.
+  > (STF, RE n. 1.615.925/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 14/9/2026, DJe de 25/9/2026.)
+
+## 148. RHC nº 277.409 / ES (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 25/09/2026.
+- Crime / Tema: Tráfico de drogas · Falsa identidade · Cabimento do HC
+- Resumo: A unirrecorribilidade não se aplica ao HC: recurso especial ou agravo em recurso especial pendente não impede o STJ de conhecer do HC. Acórdão do STJ cassado para que julgue o mérito do HC.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277409.pdf
+
+## 149. AREsp nº 3115056 / RS (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 24/09/2026.
+- Crime / Tema: Prova digital · Quebra da cadeia de custódia
+- Resumo: Prints de WhatsApp extraídos sem perícia nem documentação da cadeia de custódia: anulado o acórdão dos embargos para o TJRS esclarecer como os dados foram arrecadados e extraídos e examinar a integridade da prova (arts. 158-A a 158-F do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115056.pdf
+
+## 150. HC nº 1131181 / PR (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Violência doméstica · Prova digital · Quebra da cadeia de custódia
 - Resumo: Imagens digitais juntadas ao processo de violência doméstica: ordem concedida de ofício para assegurar à defesa o controle técnico delas (metadados), com desentranhamento se não forem auditáveis.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131181.pdf
-
-## 142. ARE nº 1.623.941 / GO (STF)
-- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 24/09/2026.
-- Crime / Tema: Homicídio qualificado · Pronúncia
-- Resumo: Impronúncia por falta de indícios suficientes de autoria mantida: rever exige reexame de provas, e a impronúncia não ofende a competência do Júri (Tema 154/STF). ARE do MP com seguimento negado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623941.pdf
-
-## 143. REsp nº 2270023 / SC (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 24/09/2026.
-- Crime / Tema: Peculato · Continuidade delitiva · Dosimetria
-- Resumo: "Rachadinha" (peculato-desvio): repasses mensais padronizados de servidores do mesmo gabinete configuram continuidade delitiva (art. 71 do CP), e não concurso material. A pluralidade de vítimas não afasta, por si só, o crime continuado. A habitualidade criminosa exige condutas autônomas com dolo renovado. Recurso do MP desprovido: mantidas as penas de 6 anos e 5 anos (a sentença tinha fixado 24 e 20).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2270023.pdf
-- Ementa oficial:
-  > PENAL. PROCESSO PENAL. RECURSO ESPECIAL. PECULATO-DESVIO. ART. 312, CAPUT, PARTE FINAL, DO CÓDIGO PENAL. “RACHADINHA”. CONCURSO DE CRIMES. ARTS. 69 E 71 DO CÓDIGO PENAL. CONTINUIDADE DELITIVA. REQUISITOS OBJETIVOS E SUBJETIVO. CRIMES DA MESMA ESPÉCIE. MESMO CONTEXTO FUNCIONAL. IDENTIDADE DE MODUS OPERANDI. PERIODICIDADE MENSAL DOS REPASSES. FINALIDADE ECONÔMICA COMUM. ATUAÇÃO CONJUNTA DOS ACUSADOS. SERVIDORES COMISSIONADOS VINCULADOS AO MESMO GABINETE PARLAMENTAR. PLURALIDADE DE VÍTIMAS. CIRCUNSTÂNCIA QUE, ISOLADAMENTE, NÃO AFASTA O ART. 71 DO CP. HABITUALIDADE DELITIVA NÃO CONFIGURADA. AUSÊNCIA DE EMPREITADAS CRIMINOSAS AUTÔNOMAS. CONTINUIDADE DELITIVA GLOBAL MANTIDA. RECURSO ESPECIAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, interposto pelo órgão acusatório contra acórdão que, em apelação criminal, reconheceu a continuidade delitiva em peculatos-desvio praticados contra servidores comissionados vinculados ao mesmo gabinete parlamentar, redimensionando as penas. Pretensão recursal de restabelecimento do concurso material e das reprimendas fixadas na sentença.
-  > 2. Fato relevante. Imputação de múltiplos repasses mensais de parcela remuneratória de servidores comissionados, por meio de transferências bancárias e em espécie, dentro de esquema uniforme de arrecadação e gestão dos valores, ao longo de período prolongado, com denúncia que atribuiu o art. 312, caput, parte final, c/c art. 71, e, quanto a agente partícipe, art. 29, todos do Código Penal.
-  > 3. Decisões anteriores. Sentença reconheceu a continuidade delitiva no interior de cada série de repasses vinculada a cada servidor e aplicou o concurso material entre as séries, em razão de suposta habitualidade criminosa. Acórdão recorrido afastou o concurso material e aplicou o art. 71 do Código Penal entre todos os delitos, sob fundamentos de proporcionalidade e política criminal.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se os diversos peculatos-desvio, praticados em repasses mensais sucessivos e padronizados, devem ser compreendidos como desdobramentos de um mesmo plano delitivo, a atrair a continuidade delitiva do art. 71 do Código Penal, ou se exigem o tratamento em concurso material do art. 69; e (ii) saber se a pluralidade de vítimas e a reiteração prolongada dos repasses, no mesmo contexto funcional, caracterizam habitualidade criminosa impeditiva da continuidade delitiva, por ausência de unidade de desígnios.
-  > III. Razões de decidir
-  > 5. Exige-se, para a continuidade delitiva, o preenchimento cumulativo dos requisitos objetivos (pluralidade de condutas, crimes da mesma espécie e semelhança de condições de tempo, lugar e modo de execução) e do requisito subjetivo (unidade de desígnios ou vínculo subjetivo entre os eventos), nos termos do art. 71 do Código Penal.
-  > 6. O conjunto fático revela unidade concreta do esquema: mesmos ambiente institucional e núcleo funcional (gabinete parlamentar), periodicidade mensal dos repasses, idêntico modus operandi, finalidade econômica comum e atuação conjunta, evidenciando vínculo subjetivo suficiente para tratar os delitos subsequentes como continuação do primeiro.
-  > 7. A pluralidade de servidores ofendidos não impede o reconhecimento da continuidade delitiva quando a diversidade de vítimas decorre da execução fracionada de um único plano delitivo, inserido em contexto funcional e operacional uniforme.
-  > 8. A habitualidade criminosa incompatível com o art. 71 pressupõe autonomia das condutas e renovação independente do dolo; não se presume pelo número de infrações ou pela duração quando os eventos permanecem unidos por identidade de contexto e finalidade.
-  > 9. Houve má aplicação da lei federal ao qualificar como habitualidade delitiva contexto que preenche os requisitos do art. 71 do Código Penal, fragmentando indevidamente o esquema em séries autônomas para aplicar o concurso material.
-  > 10. A continuidade delitiva deve ser mantida com base na presença dos requisitos legais, e não por razões genéricas de proporcionalidade. A regra especial do art. 71 afasta, no caso, a cumulação de penas do art. 69, ante a unidade de contexto e desígnios.
-  > IV. Dispositivo e tese
-  > 11. Resultado do Julgamento: Recurso especial desprovido, mantido o reconhecimento da continuidade delitiva e afastado o concurso material.
-  > Tese de julgamento:
-  > 1. A pluralidade de vítimas não afasta, por si só, a continuidade delitiva quando os crimes da mesma espécie são praticados em idênticas condições de tempo, lugar e modo de execução, unidos por vínculo subjetivo.
-  > 2. A habitualidade criminosa incompatível com a continuidade delitiva exige autonomia entre as condutas e renovação independente do dolo, não se caracterizando pela mera reiteração prolongada em um mesmo esquema delitivo.
-  > 3. Em esquema de peculato-desvio praticado no mesmo gabinete, com repasses mensais padronizados e atuação conjunta, incide o art. 71 do Código Penal, afastando o concurso material do art. 69.
-  > (REsp n. 2.270.023/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/9/2026, DJEN de 24/9/2026.)
-
-## 144. AgRg no HC nº 1115674 / SP (STJ)
-- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 24/09/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita
-- Resumo: Busca pessoal ilícita: blusa de frio com volume no bolso em dia quente e prévio conhecimento policial não configuram fundada suspeita. Absolvição de ofício (tráfico).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115674.pdf
-
-## 145. AgExPen nº 9000340-23.2026.4.04.7017 / PR (TRF4)
-- Decisão colegiada. Relator: Des. Fed. Luiz Carlos Canalli. 7ª Turma. Publicado em 23/09/2026.
-- Crime / Tema: Execução penal
-- Resumo: A reconversão das penas restritivas em privativa de liberdade (art. 181, § 1º, da LEP) exige descumprimento injustificado. É nula a intimação por edital feita depois de tentar a intimação pessoal em endereço errado, sem esgotar os meios de localização. Sem ocultação deliberada, não há falta grave (art. 50, II, da LEP). Reconversão e regressão ao regime fechado anuladas, e restabelecidas as penas restritivas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-agexpen-9000340-23-2026.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO DE EXECUÇÃO PENAL. RECONVERSÃO DE PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. INTIMAÇÃO POR EDITAL PREMATURA. NULIDADE RECONHECIDA. PROVIMENTO DO RECURSO.
-  > I. CASO EM EXAME:
-  > 1. Agravo de execução penal interposto contra decisão que determinou a reconversão das penas restritivas de direitos em pena privativa de liberdade, em regime inicial fechado, sob o fundamento de que o apenado se encontrava em local incerto e não atendeu à intimação por edital.
-  > II. QUESTÃO EM DISCUSSÃO:
-  > 2. A questão em discussão consiste em saber se é válida a reconversão das penas restritivas de direitos em privativa de liberdade quando a intimação pessoal foi tentada em endereço incorreto e realizada por edital de forma prematura, sem o esgotamento dos meios de localização do apenado.
-  > III. RAZÕES DE DECIDIR:
-  > 3. A conversão da pena restritiva de direitos em privativa de liberdade exige o descumprimento injustificado da obrigação imposta, nos termos do art. 181, § 1º, da LEP, em observância às garantias do contraditório e da ampla defesa previstas no art. 5º, LV, da CF/1988.
-  > 4. Há nulidade na intimação por edital quando a tentativa de intimação pessoal do apenado é realizada em endereço incorreto, diverso daquele constante nos autos e indicado pelo Ministério Público Federal.
-  > 5. A intimação por edital possui natureza ficta e excepcional, sendo cabível apenas após o esgotamento de todos os meios razoáveis para a localização presencial do apenado.
-  > 6. Inexistindo intimação pessoal válida e não demonstrada a ocultação deliberada do apenado, não se caracteriza a frustração injustificada do cumprimento da pena ou a prática de falta grave prevista no art. 50, II, da LEP.
-  > 7. A ausência de esgotamento dos meios de localização do apenado impõe a anulação da decisão de reconversão das penas e o restabelecimento das penas restritivas de direitos originalmente impostas.
-  > IV. DISPOSITIVO E TESE:
-  > 8. Recurso provido.
-  > Tese de julgamento: 9. É nula a reconversão de penas restritivas de direitos em privativa de liberdade quando a intimação por edital é realizada de forma prematura, sem a prévia tentativa de intimação pessoal no endereço correto constante dos autos.
-  > (TRF4, Agravo de Execução Penal n. 9000340-23.2026.4.04.7017/PR, relator Desembargador Federal Luiz Carlos Canalli, 7ª Turma, julgado em 25/8/2026, publicado em 23/9/2026.)
-
-## 146. REsp nº 2204206 / PE (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/09/2026.
-- Crime / Tema: Prova digital · Quebra da cadeia de custódia · Justa causa
-- Resumo: Sem fonte independente, a denúncia baseada só nos sistemas Drousys e My Web Day B, declarados imprestáveis pelo STF por comprometimento da cadeia de custódia, não tem justa causa. Mantida a rejeição da denúncia; REsp do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2204206.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. AÇÃO PENAL. REJEIÇÃO DA DENÚNCIA POR FALTA DE JUSTA CAUSA. DECISÃO DO STF SOBRE IMPRESTABILIDADE DOS SISTEMAS DROUSYS E MY WEB DAY B. DERIVAÇÃO DAS PROVAS. AUSÊNCIA DE FONTE INDEPENDENTE. ART. 157, § 1º, SEGUNDA PARTE, DO CPP. PROVA ILÍCITA POR DERIVAÇÃO. REVALORAÇÃO JURÍDICA INVIÁVEL. SÚMULA 7/STJ. ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS. PRESTAÇÃO JURISDICIONAL ADEQUADA. TESE DO IN DUBIO PRO SOCIETATE REFUTADA. MANUTENÇÃO DOS ACÓRDÃOS QUE AFASTARAM A JUSTA CAUSA. PRETENSÃO DE PROSSEGUIMENTO DA AÇÃO PENAL SEM LASTRO AUTÔNOMO.
-  > 1. A ação penal foi trancada em relação à recorrida por falta de justa causa após decisão que reconheceu a imprestabilidade dos sistemas Drousys e My Web Day B. O Tribunal de origem confirmou que todas as provas relativas à recorrida derivavam desses sistemas.
-  > 2. O Ministério Público Federal sustenta a existência de provas independentes e a aplicação do art. 157, § 1º, do Código de Processo Penal, além de alegar omissão quanto ao art. 619 do Código de Processo Penal.
-  > 3. O acórdão recorrido refuta a tese de fonte independente e afirma que pedidos de cooperação internacional, quebras de sigilo e demais elementos também decorrem dos sistemas invalidados.
-  > 4. A revisão da origem e da autonomia das provas demanda reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ, conforme precedente do Superior Tribunal de Justiça.
-  > 5. Não procede a alegação de prestação jurisdicional deficiente, pois a Corte de origem enfrentou a ilicitude por derivação, rejeitou a existência de provas independentes e afastou a tese do in dubio pro societate, em consonância com a jurisprudência do Superior Tribunal de Justiça.
-  > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
-  > (REsp n. 2.204.206/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/9/2026, DJEN de 22/9/2026.)
-
-## 147. HC nº 1125136 / PB (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 22/09/2026.
-- Crime / Tema: Crimes contra a ordem tributária · Prescrição
-- Resumo: Crime tributário material (art. 1º, II, da Lei 8.137/90): a prescrição corre da constituição definitiva do crédito (SV 24), conta a pena sem o acréscimo da continuidade (Súmula 497/STF) e cai pela metade para maior de 70 anos na data do acórdão (art. 115 do CP). Prescrição reconhecida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1125136.pdf
-
-## 148. Rcl nº 99.520 / AC (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 21/09/2026.
-- Crime / Tema: Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
-- Resumo: Súmula Vinculante 14: a defesa tem direito de copiar, em meio físico ou digital, as conversas de WhatsApp já documentadas e a documentação da cadeia de custódia dos laudos; só poder consultá-las no instituto de perícia, sem extrair, não basta. Reclamação procedente.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-99520.pdf
-
-## 149. HC nº 1129639 / SP (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/09/2026.
-- Crime / Tema: Ameaça · Violência doméstica · Prisão e medidas cautelares
-- Resumo: Preventiva por ameaça em violência doméstica (pena máxima inferior a 4 anos): o art. 313, III, do CPP exige descumprimento prévio de medida protetiva, e o réu nem havia sido intimado dela. Prisão substituída por medidas protetivas e cautelares diversas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129639.pdf
-
-## 150. HC nº 1130315 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/09/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita
-- Resumo: Busca pessoal em usuário por "comportamento suspeito" genérico, em patrulhamento de rotina, é ilícita (art. 244 do CPP) e contamina o que veio depois: a indicação da casa do vendedor e as apreensões feitas lá (art. 157, § 1º). A ilicitude vale mesmo com a busca feita em terceiro. Paciente e corréu absolvidos de ofício (art. 580 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1130315.pdf

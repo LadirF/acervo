@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 6 de 30 (decisões 51 a 60)
+# Acervo de Jurisprudência — Cury Advogados — parte 6 de 31 (decisões 51 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 293 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 302 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,137 +8,98 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. HC nº 1114885 / BA (STJ)
+## 51. AgRg no RHC nº 210983 / DF (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes; redator do acórdão: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Organização criminosa · Acesso da defesa às provas
+- Resumo: A defesa tem direito de acessar todo o procedimento investigatório do MP já documentado, mesmo antes de a investigação terminar (Súmula Vinculante 14). Só as diligências em curso podem ser restringidas, e o risco de 'frustrar o trabalho' não justifica negar o acesso.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-210983.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. INVESTIGAÇÃO REALIZADA PELO MINISTÉRIO PÚBLICO (GAECO/ MPDFT). OPERAÇÃO "MARÉ ALTA". APURAÇÃO DE CRIMES DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA, FRAUDE EM LICITAÇÃO, CORRUPÇÃO ATIVA E PASSIVA E LAVAGEM DE DINHEIRO. NEGATIVA DE ACESSO A TODO O PROCEDIMENTO INVESTIGATÓRIO, E NÃO APENAS ÀS DILIGÊNCIAS EM CURSO. OFENSA À SÚMULA VINCULANTE N. 14/STF. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+  > 1. Agravo regimental interposto contra a decisão monocrática por meio da qual se negou provimento ao recurso ordinário, interposto contra a decisão do Juízo de primeiro grau que negou o acesso da defesa aos autos de procedimento investigatório criminal.
+  > 2. Hipótese em que foi indeferido o acesso a todo o procedimento investigatório, e não apenas às diligências em curso, o que constitui clara ofensa ao verbete da Súmula Vinculante 14, que não deixa dúvidas de que o acesso à defesa só pode ser restringido em relação às diligências em curso, vale dizer, não documentadas, não havendo que se falar na possibilidade de obstar o acesso enquanto o procedimento investigatório não for totalmente concluído.
+  > 3. A justificativa apresentada, consistente na possibilidade de se "frustrar o trabalho realizado" não se mostra idônea a ponto de relativizar a garantia constitucional da ampla defesa. Precedente.
+  > 4. Agravo regimental provido para dar provimento ao recurso em habeas corpus, a fim de determinar que o Juízo de Direito da 1ª Vara Criminal de Brasília/DF permita o acesso da defesa do recorrente às diligências já documentadas no Procedimento n. 0721056-73.2023.8.07.0001.
+  > (AgRg no RHC n. 210.983/DF, relator Ministro Og Fernandes, relator para acórdão Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 16/10/2026.)
+
+## 52. AgRg no RHC nº 238817 / MG (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Prisão e medidas cautelares
+- Resumo: Notícia de disparos, fama de envolvimento em brigas, nervosismo e fuga na área externa não são fundadas razões para entrar na casa (Tema 280/STF). Consentimento e confissão informal apoiados só no relato policial não provam a legalidade da entrada: o ônus é do Estado. Provas ilícitas e preventiva revogada; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-238817.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO. INGRESSO DOMICILIAR SEM MANDADO. TEMA 280 DA REPERCUSSÃO GERAL. INFORMAÇÃO SOBRE DISPAROS EM PROPRIEDADE RURAL. REFERÊNCIA GENÉRICA A ENVOLVIMENTO EM BRIGAS E PORTE DE ARMAS. NERVOSISMO E TENTATIVA DE FUGA EM ÁREA EXTERNA. AUSÊNCIA DE ELEMENTOS OBJETIVOS INDICATIVOS DE FLAGRANTE NO INTERIOR DO IMÓVEL. CONFISSÃO INFORMAL E CONSENTIMENTO SUSTENTADOS EXCLUSIVAMENTE NO RELATO POLICIAL. AUSÊNCIA DE COMPROVAÇÃO INDEPENDENTE. ÔNUS PROBATÓRIO DO ESTADO. PRISÃO PREVENTIVA. FUNDAMENTO AUTÔNOMO RELATIVO AO ART. 313 DO CPP. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão monocrática que deu provimento ao recurso ordinário em habeas corpus para reconhecer a ilicitude do ingresso policial no domicílio do agravado e das provas obtidas a partir da diligência, ressalvada a demonstração de fonte independente, e para revogar a prisão preventiva.
+  > 2. O agravante sustenta que a informação recebida acerca de disparos de arma de fogo, associada à referência de que os envolvidos seriam conhecidos por envolvimento em brigas e por portar armas de fogo, ao nervosismo e à tentativa de fuga do agravado, à alegada confissão informal e à natureza permanente do delito, configuraria fundadas razões para o ingresso no imóvel. Afirma, ainda, ser desnecessária forma específica para a comprovação do consentimento e invoca o RE n. 1.447.045 AgR. Requer o restabelecimento da prisão preventiva.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 3. A controvérsia consiste em definir se as circunstâncias anteriores ao ingresso policial configuravam fundadas razões, nos termos do Tema 280 da repercussão geral, para indicar situação de flagrante delito no interior da residência e, inexistindo tais razões autônomas, se o consentimento e a alegada confissão informal foram comprovados de modo idôneo. Discute-se, ainda, a possibilidade de restabelecimento da prisão preventiva.
+  > III. RAZÕES DE DECIDIR
+  > 4. A notícia de disparos em propriedade rural e a referência genérica de que os envolvidos seriam conhecidos por envolvimento em brigas e por portar armas de fogo, somadas ao nervosismo, à tentativa de fuga e ao arremesso de objetos em área externa, não demonstram, objetivamente, a existência de situação de flagrante delito no interior da residência. A natureza permanente do crime imputado não dispensa a existência de fundadas razões anteriores ao ingresso.
+  > 5. A alegada autorização para entrada e a suposta confissão informal de que havia arma sob o colchão decorrem exclusivamente do relato dos agentes policiais. Ausente elemento independente apto a confirmar a voluntariedade do consentimento, o Estado não se desincumbe do ônus de demonstrar a legalidade da entrada.
+  > 6. A moldura fática distingue os objetos apreendidos na residência do agravado daqueles localizados no imóvel anexo atribuído ao irmão. A menção a apreensões posteriores não pode retroagir para constituir justa causa inexistente no momento da entrada na residência do agravado.
+  > 7. A decisão agravada assentou, ainda, como fundamento autônomo para revogar a prisão preventiva, a inexistência das hipóteses de admissibilidade previstas no art. 313 do Código de Processo Penal. A ausência de impugnação específica desse capítulo impede o restabelecimento da custódia, sem obstar o exame das questões probatórias efetivamente impugnadas no agravo.
+  > IV. DISPOSITIVO
+  > 8. Agravo regimental desprovido.
+  > (AgRg no RHC n. 238.817/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
+
+## 53. AgRg no REsp nº 2052674 / MG (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Inserção de dados falsos em sistema de informações
+- Resumo: Absolvição pelo art. 313-A do CP mantida: o TJ reconheceu a falta de dolo específico e a fragilidade da prova, e rever isso exige reexame de provas (Súmula 7). Perda da função pública não prequestionada; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2052674.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES. ATIPICIDADE DA CONDUTA. AUSÊNCIA DE DOLO. SÚMULA N. 7/STJ. PERDA DA FUNÇÃO PÚBLICA. SÚMULA N. 211/STJ. IMPOSSIBILIDADE DO PREQUESTIONAMENTO FICTO, NO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão que conheceu em parte de recurso especial e, no mérito, negou-lhe provimento, mantendo a absolvição de um dos recorridos quanto à imputação do delito do art. 313-A do Código Penal e não acolhendo a pretensão de decretação da perda da função pública do agente condenado.
+  > II. Questão em discussão
+  > 2. A controvérsia consiste em saber se (i) a condenação do recorrido Diogo pela prática do crime de inserção de dados falsos em sistema de informações é viável, considerando a ausência de comprovação do dolo específico e a fragilidade do conjunto probatório reconhecidas no acórdão proferido pelo Tribunal local; e se (ii) é possível a aplicação da perda da função pública ao(s) condenado(s).
+  > III. Razões de decidir
+  > 3. A Corte de origem reconheceu a atipicidade da conduta imputada ao recorrido, em razão da ausência de comprovação do dolo específico e da fragilidade do conjunto probatório, aplicando o princípio do in dubio pro reo.
+  > 4. A pretensão ministerial de condenação do recorrido pelo crime de inserção de dados falsos em sistema de informações demanda revolvimento fático-probatório, providência vedada no âmbito do recurso especial, conforme a Súmula n. 7/STJ.
+  > 5. O pleito de decretação da perda da função pública conforme o art. 92, inciso I, do Código Penal, não foi especificamente tratado pelo Tribunal a quo, mesmo com a oposição de aclaratórios, o que impede o exame do mérito da tese suscitada no recurso especial, por ausência de prequestionamento, conforme a orientação da Súmula n. 211/STJ.
+  > 6. Para que se configure o prequestionamento ficto previsto no art. 1.025 do Código de Processo Civil, aplicado por analogia ao processo penal, é indispensável que o recorrente, nas razões do apelo nobre, aponte a ofensa ao art. 619 do Código de Processo Penal, abrangendo a tese alegada, providência que não foi efetivada na hipótese.
+  > IV. Dispositivo
+  > 7. Agravo regimental não provido.
+  > (AgRg no REsp n. 2.052.674/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
+
+## 54. AREsp nº 3317207 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Receptação · Fundada suspeita
+- Resumo: Abordagem do motorista só pelo nervosismo, sem elemento objetivo, é ilegal (art. 244 do CPP). A descoberta posterior do veículo adulterado não convalida a busca, e as provas derivadas são ilícitas. Réu absolvido da receptação (art. 386, II, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3317207.pdf
+
+## 55. RHC nº 237625 / PA (STJ)
+- Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Usurpação de bem da União · Inépcia da denúncia
+- Resumo: Denúncia inepta quanto aos crimes da Lei 8.176/1991 (ouro e combustível), por não descrever a conduta. E ordem de desocupação não é 'suspensão de direito': enquadrá-la no art. 359 do CP seria interpretação extensiva contra o réu. Ação penal trancada nesses pontos; segue quanto aos demais crimes.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-237625.pdf
+
+## 56. PExt no AREsp nº 2714514 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Quebra de sigilo
+- Resumo: A nulidade das interceptações reconhecida para corréus se estende a quem está na mesma situação (art. 580 do CPP), mesmo em processo desmembrado e com recurso extraordinário pendente contra o acórdão-paradigma. Provas desentranhadas; o juízo de origem verifica as fontes independentes (Operação Materello).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2714514.pdf
+
+## 57. HC nº 1133453 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Contrabando · Prisão e medidas cautelares
+- Resumo: Tornozeleira e recolhimento domiciliar noturno mantidos por longo período, sem motivação concreta, são desproporcionais. Revogados, mantidas as demais cautelares de ônus reduzido (caso de contrabando).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133453.pdf
+
+## 58. HC nº 1136779 / BA (STJ)
+- Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Violência doméstica · Prisão e medidas cautelares · Superação da Súmula 691
+- Resumo: Quem recebe liberdade provisória com fiança e continua preso por não poder pagar, assistido pela Defensoria, não pode ficar preso por pobreza (art. 350 do CPP; HC coletivo 568.693/ES). Fiança dispensada, mantidas as protetivas e cautelares; Súmula 691 superada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136779.pdf
+
+## 59. HC nº 1128385 / PR (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Furto · Execução penal
+- Resumo: No indulto do Decreto 12.338/2024 (art. 9º, XV), a assistência pela Defensoria presume a incapacidade econômica (art. 12, § 2º) e dispensa a reparação do dano, sem exigir arrependimento posterior. Indulto restabelecido nas condenações por furto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128385.pdf
+
+## 60. HC nº 1114885 / BA (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento feito sem as cautelas do art. 226 do CPP, só confirmado em juízo, sem flagrante, apreensão de bens ou outra prova independente, não sustenta a condenação (Tema 1.258/STJ). Réu absolvido de roubo e importunação sexual (art. 386, VII, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114885.pdf
-
-## 52. ApCrim nº 0204142-84.2025.8.06.0312 (TJCE)
-- Decisão colegiada. Relatora: Des.ª Lira Ramos de Oliveira. 1ª Câmara Criminal. Publicado em 16/10/2026.
-- Crime / Tema: Tráfico de drogas · Porte ilegal de munição · Fundada suspeita · Inviolabilidade de domicílio
-- Resumo: Busca pessoal só porque o réu 'olhava para trás e parecia nervoso', sem elemento objetivo, é ilícita (art. 244 do CPP), assim como o ingresso na casa que dela decorreu. Local ermo e notícias genéricas de tráfico na região não suprem a falta de fundada suspeita. Sem outras provas, réu absolvido de tráfico e porte de munição (art. 386, VII, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0204142-84-2025.pdf
-- Ementa oficial:
-  > EMENTA: DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. RECURSO DA DEFESA. ADMISSIBILIDADE. NÃO CONHECIMENTO DO PLEITO DE INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO NA FRAÇÃO MÁXIMA (2/3). BENEFÍCIO JÁ RECONHECIDO E APLICADO PELO JUÍZO DE ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL. PRELIMINAR. PLEITO DE ABSOLVIÇÃO. TESE DE ILICITUDE DAS PROVAS DECORRENTES DA BUSCA PESSOAL E DO INGRESSO DOMICILIAR SEM JUSTA CAUSA. ACOLHIMENTO. AUSÊNCIA DE FUNDADAS RAZÕES. AUSÊNCIA DE DESCRIÇÃO CONCRETA E PRECISA DA ATITUDE SUSPEITA. ALEGATIVA DE QUE O RÉU PARECIA NERVOSO. INEXISTÊNCIA DE ELEMENTOS OBJETIVOS. DIVERGÊNCIA NOS DEPOIMENTOS DAS TESTEMUNHAS DE ACUSAÇÃO. PRECEDENTES STJ E TJCE. INEXISTÊNCIA DE OUTROS INDÍCIOS OU ELEMENTOS JUSTIFICADORES DA MEDIDA INVASIVA. NÃO COMPROVAÇÃO DE INVESTIGAÇÃO PRÉVIA, DENÚNCIA ROBUSTA OU OUTROS INDÍCIOS DE ATIVIDADE CRIMINOSA. ILICITUDE DAS PROVAS DECORRENTES. INEXISTÊNCIA DE OUTRAS PROVAS HÁBEIS AO DECRETO CONDENATÓRIO. ABSOLVIÇÃO QUE SE IMPÕE. ART. 386, VII, DO CPP. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PROVIDO.
-  > I – CASO EM EXAME
-  > 1. Cuida-se de Apelação Criminal interposta por Kauã Félix de Sousa, objurgando sentença proferida pelo Juízo da 1ª Vara da Comarca de Cascavel, que o condenou pelo cometimento dos crimes capitulados no art. 33, caput da Lei n. 11.343/06 e art. 14 da Lei n. 10.826/2003, à pena de 4 (quatro) anos de reclusão, em regime inicialmente aberto, e ao pagamento de 232 (duzentos e trinta e dois) dias-multa.
-  > II – QUESTÃO EM DISCUSSÃO
-  > 2. A questão em discussão consiste em saber se a busca pessoal realizada com base em atitude suspeita genérica da parte ré atende ao requisito de fundada suspeita exigido pelo art. 244 do CPP e, em caso negativo, se subsistem nos autos outras provas, produzidas em contraditório judicial, suficientes para a condenação nos termos da denúncia.
-  > III – RAZÕES DE DECIDIR
-  > 3. Admissibilidade: Recurso parcialmente conhecido.
-  > 3.1. Do não conhecimento do pedido de incidência do tráfico privilegiado. Pugna a parte recorrente pela incidência da minorante do tráfico privilegiado na fração máxima. Contudo, no caso concreto, verifica-se que o magistrado a quo, na terceira fase da dosimetria da pena, aplicou redutor do § 4.º do art. 33 da Lei n. 11.343/06, reduzindo a pena de 2/3 (dois terços). Portanto, o referido pleito recursal não comporta conhecimento, por ausência de interesse recursal e por ofensa ao princípio da dialeticidade.
-  > Preliminar
-  > 4. Tese de nulidade das provas colhidas ante a busca pessoal ilegal e a invasão de domicílio sem justa causa. A Defesa sustenta que "A sentença recorrida rejeitou a nulidade da busca pessoal sob o argumento de que o "nervosismo" e os "olhares para trás" do Apelante constituiriam fundadas razões para a abordagem, nos termos do art. 244 do CPP. Todavia, a prova colhida em audiência não sustenta sequer essa narrativa", destacando que "O "nervosismo" narrado pelo policial Elias é, em si, elemento de natureza puramente subjetiva, de difícil aferição objetiva e insuscetível de controle judicial posterior. Não há qualquer registro de câmera corporal (body cam), câmera de viatura ou outra gravação que objetive e confirme a narrativa de fuga ou nervosismo. A única prova é o depoimento do próprio policial que realizou a abordagem o que configura hipótese clássica de autolegitimação da abordagem, sem suporte probatório externo" (fl. 223).
-  > 4.1. Cumpre esclarecer que, segundo a denúncia (fls. 01/03), amparada no incluso inquérito policial, "no dia 21 de setembro de 2025, por volta das 20h30min, no Sítio Boa Vista, nesta urbe, o denunciado Kauã Félix de Sousa foi flagrado portando ilegalmente três munições intactas de calibre .38, e mantendo em sua residência substâncias entorpecentes (maconha) destinadas à comercialização. Conforme se extrai dos autos, policiais militares realizavam patrulhamento de rotina quando visualizaram o denunciado em atitude suspeita. Ao perceber a aproximação da guarnição, Kauã demonstrou visível nervosismo, razão pela qual foi realizada a abordagem. Durante a busca pessoal, foram localizadas em seu bolso três munições intactas calibre .38. Procedida consulta ao sistema policial, constatou-se a existência de mandado de prisão preventiva em aberto em desfavor do denunciado. Indagado acerca de seu endereço, Kauã informou residir em uma casa situada nas proximidades da Areninha Espaço Nobre, nesta cidade. A equipe deslocou-se ao local indicado, onde foi recebida por Karen Thaíssa Farias Monteiro, sua companheira. Questionada pelos policiais sobre a eventual existência de materiais ilícitos no imóvel, Karen relatou que havia drogas guardadas na geladeira. Realizadas as buscas, foram encontradas porções de maconha acondicionadas em invólucros plásticos, típicos de fracionamento para venda, além de duas balanças de precisão sobre o balcão da cozinha — elementos que evidenciam a inequívoca destinação comercial do entorpecente".
-  > 4.2. No caso concreto, a análise detida dos autos (termos de depoimentos dos policiais Eliezer Alves de Sousa Neto, fls. 6/7, Igor Francisco do Nascimento, fls. 13/14, e Antônio Elson da Costa Lemos, fls. 15/16) revela que: i) a equipe policial realizava patrulhamento de rotina em motocicletas quando avistou o réu em atitude suspeita; ii) o réu olhava para trás e parecia nervoso; iii) na busca pessoal, os policiais encontraram em seu bolso três munições intactas de calibre .38; iv) a consulta ao sistema mostrou um mandado de prisão preventiva em aberto contra o réu; v) perguntado sobre onde residia, o réu disse que morava nas proximidades e conduziu os policiais até o imóvel; vi) perguntando se havia algo ilícito na residência, respondeu que guardava drogas na geladeira; vii) os policiais encontraram maconha e balança de precisão no local indicado; viii) em razão do material apreendido e do mandado de prisão, o réu foi conduzido à unidade policial.
-  > 4.3. Extrai-se, assim, que os policiais militares, em sede policial, afirmaram que abordaram o réu apenas por considerarem sua conduta suspeita, já que ele olhava para trás e parecia nervoso. Por conseguinte, realizada a busca pessoal, foram encontradas três munições, momento em que também tomaram conhecimento do mandado de prisão preventiva em aberto, e dirigiram-se a residência do réu, resultando na apreensão de maconha (217g) e duas balanças de precisão.
-  > 4.4. Em juízo, sob o crivo do contraditório e ampla defesa, o policial militar Eliezer Alves de Sousa Neto disse "que, durante patrulhamento de rotina, avistou o acusado em local ermo, demonstrando nervosismo ao perceber a aproximação da composição policial. Realizada a abordagem, foram encontradas munições em sua posse. Consultado o sistema policial, constatou-se mandado de prisão em aberto. No trajeto até a residência, o próprio acusado informou que havia drogas em sua casa. A companheira autorizou a entrada e foram localizadas drogas na geladeira e expostas em um balcão" (fl. 168/169 e mídia audiovisual de fl. 159/160).
-  > 4.5. O policial militar Antônio Elson da Costa Lemos, em juízo, declarou "ter recebido informações sobre tráfico na região. Ao avistar o acusado em local ermo, este demonstrou nervosismo e olhava para trás. Na abordagem, foram localizadas munições. O acusado não portava documento de identificação. Durante o deslocamento à residência, o acusado indicou que havia drogas em sua casa. A companheira autorizou a entrada e as drogas foram encontradas" (fl. 169 e mídia audiovisual de fl. 159/160).
-  > 4.6. Em juízo, o réu negou a prática do tráfico e do porte das munições, afirmando que a droga apreendida era destinada ao seu consumo pessoal.
-  > 4.7. Diante desse contexto, verifica-se que a busca pessoal foi realizada com base unicamente em suposta atitude suspeita do réu, sem que houvesse qualquer elemento objetivo ou circunstância concreta que justificasse a medida. Além disso, a análise da prova oral contida nos autos, tanto em sede de inquérito policial como em juízo, revela que é impossível se afirmar, com o mínimo grau de certeza necessária, como se deu a abordagem policial e quais foram as suas circunstâncias concretas. Com efeito, os depoimentos colhidos limitam-se a mencionar uma suposta "atitude suspeita", descrita apenas como o fato de o réu olhar para trás e "parecer nervoso", o que não se mostra suficiente para justificar a busca pessoal, nos moldes como se deu, uma vez que não restaram comprovadas nos autos a realização de diligências prévias e quais as atitudes concretas do réu que motivaram a atuação policial.
-  > 4.8. Logo, a suposta autorização para ingresso na residência é consequência da preexistência das fundadas razões justificadoras da abordagem e busca pessoal, situação que não restou evidenciada nos caso em apreço. Não obstante o local ermo, característica que favorece práticas ilícitas, e denúncias anônimas de tráfico na região, constata-se a inexistência de outros elementos indicativos da ocorrência de crime a justificar abordagem policial e pessoal, bem como o ingresso na residência.
-  > 4.9. A jurisprudência do Superior Tribunal de Justiça exige "a existência de fundada suspeita (justa causa) para a realização de busca pessoal, baseada em elementos objetivos e concretos, não legitimando a medida se amparada apenas em impressões subjetivas ou "atitude suspeita" genérica" (STJ – AgRg no REsp n. 2.225.740/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/3/2026, DJEN de 16/3/2026).
-  > 4.10. Importante mencionar que a 1ª Câmara Criminal desta eg. Corte de Justiça já teve a oportunidade de se manifestar sobre a matéria, em caso semelhante, concluindo que "1. A busca pessoal sem mandado judicial exige fundada suspeita objetiva e concreta, não sendo suficientes para sua legitimação meras percepções subjetivas, comportamentos ambíguos ou o simples o fato de se encontrar em local conhecido pelo intenso tráfico de drogas. 2. Quando a busca pessoal é realizada sem fundada suspeita, em violação ao art. 244 do CPP, as provas dela decorrentes são ilícitas e devem ser desentranhadas do processo, conforme art. 157 do CPP e art. 5º, LVI, da Constituição Federal. 3. O fato de terem sido encontradas drogas após a revista ilegal não convalida a ilegalidade prévia, sendo necessário que o elemento "fundada suspeita" seja aferido com base nas circunstâncias anteriores à diligência." (TJCE – Apelação Criminal - 0039845-14.2014.8.06.0064, Rel. Desembargador(a) LIRA RAMOS DE OLIVEIRA, 1ª Câmara Criminal, data do julgamento: 25/08/2026, data da publicação: 26/08/2026).
-  > 4.11. No caso em apreço, conforme entendimento jurisprudencial firmado pelas Cortes Superiores, observa-se a inexistência de fundadas razões justificadoras da busca pessoal e, por conseguinte, do ingresso na residência.
-  > 4.12. Verificando-se a ilicitude da busca pessoal e do ingresso na residência, ante a ausência de fundadas razões prévias, concretas e objetivamente amparadas em indícios e circunstâncias verificáveis, não constituindo fundadas suspeitas a alegação genérica de denúncia anônima, de atitude suspeita vaga e a existência de tráfico de drogas na região, impõe-se o reconhecimento da ilicitude das provas oriundas das medidas mencionadas, de modo a desentranhá-las do feito, ignorando-as para fins de julgamento da ação penal.
-  > 4.13. Dessa feita, excluídas as provas obtidas a partir do ingresso na residência ilícita, vê-se inexistirem outras provas suficientes no feito que comprovem a materialidade e autoria delitiva de modo a corroborar a pretensão condenatória da peça acusatória. Logo, conclui-se que as provas dos autos são incapazes de atribuir ao réu a responsabilidade pela prática delituosa denunciada.
-  > 4.14. Desse modo, considerando "A teoria dos frutos da árvore envenenada (art. 157, CPP) torna ilícitas todas as provas derivadas da busca ilegal, incluindo as drogas encontradas na casa do acusado, sendo a absolvição a medida correta diante da nulidade das provas" (STJ – AREsp n. 2.593.191/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024).
-  > 4.15. Assim, conforme se sustenta no apelo mencionado, entende-se que os elementos dos autos evidenciam a ilicitude da busca pessoal e do ingresso na residência realizada em face da parte recorrente, de modo que as provas obtidas devem ser desentranhadas e desconsideradas para fins de julgamento da ação penal, não constando nos autos provas suficientes para a condenação do réu pelos delitos imputados, razão pela qual se impõe a reforma da sentença que condenou o réu, ante a ausência de provas suficientes para a condenação, ao teor do art. 386, VII, do Código de Processo Penal.
-  > IV. DISPOSITIVO E TESE
-  > 5. Recurso parcialmente conhecido e, na parte conhecida, provido.
-  > Tese de julgamento: "1. A busca pessoal sem mandado judicial exige fundada suspeita objetiva e concreta, não sendo suficientes para sua legitimação meras percepções subjetivas, comportamentos ambíguos ou o simples o fato de se encontrar em local conhecido pelo intenso tráfico de drogas. 2. Quando a busca pessoal é realizada sem fundada suspeita, em violação ao art. 244 do CPP, as provas dela decorrentes são ilícitas e devem ser desentranhadas do processo, conforme art. 157 do CPP e art. 5º, LVI, da Constituição Federal. 3. O fato de terem sido encontradas drogas após a revista ilegal não convalida a ilegalidade prévia, sendo necessário que o elemento "fundada suspeita" seja aferido com base nas circunstâncias anteriores à diligência."
-  > (TJCE, Apelação Criminal n. 0204142-84.2025.8.06.0312, relatora Desembargadora Lira Ramos de Oliveira, 1ª Câmara Criminal, julgado em 6/10/2026, publicado em 16/10/2026.)
-
-## 53. RHC nº 277.819 / SC (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
-- Crime / Tema: Roubo · Dosimetria
-- Resumo: Frações sucessivas sobre resultados parciais na primeira fase da dosimetria geram efeito cascata: devem incidir sobre a pena mínima. Ordem parcialmente concedida para redimensionar a pena.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277819.pdf
-
-## 54. ARE nº 1.627.640 / RJ (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 15/10/2026.
-- Crime / Tema: Extorsão · Execução penal
-- Resumo: A hediondez que impede indulto ou comutação é aferida pela lei vigente na data dos fatos (irretroatividade da lei penal mais gravosa). RE da defesa provido para reexame do benefício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1627640.pdf
-
-## 55. RE nº 1.621.705 / MG (STF)
-- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
-- Crime / Tema: Tráfico de drogas
-- Resumo: Absolvição por tráfico sem apreensão nem perícia da droga, só com interceptações sobre a negociação, mantida: a Segunda Turma negou seguimento ao RE do MP, porque a suficiência da prova da materialidade é questão infraconstitucional (Súmulas 282 e 356/STF).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1621705.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. MATERIALIDADE DELITIVA. AUSÊNCIA DE APREENSÃO E PERÍCIA DA SUBSTÂNCIA ENTORPECENTE. INTERCEPTAÇÕES TELEFÔNICAS E OUTROS ELEMENTOS PROBATÓRIOS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA OU REFLEXA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E 356 DO STF. NEGATIVA DE SEGUIMENTO.
-  > I. CASO EM EXAME
-  > 1.Recurso extraordinário interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão do Tribunal de Justiça que, ao dar parcial provimento à apelação defensiva, absolveu a recorrida da imputação do crime de tráfico de drogas, previsto no art. 33, caput, da Lei nº 11.343/2006, por considerar indispensáveis a apreensão da substância entorpecente e a realização de perícia para comprovar a materialidade delitiva, embora interceptações telefônicas evidenciassem a intermediação de negociação de elevado volume de entorpecentes. O recorrente sustenta que a materialidade pode ser demonstrada por outros meios de prova idôneos e requer a reforma do acórdão absolutório e o retorno dos autos ao Tribunal de origem para prosseguimento do julgamento da apelação defensiva.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 2. Há duas questões em discussão: (i) definir se a controvérsia relativa à suficiência dos elementos probatórios para demonstrar a materialidade do crime de tráfico de drogas configura questão constitucional direta ou depende da interpretação da legislação infraconstitucional; e (ii) determinar se as questões constitucionais suscitadas no recurso extraordinário foram devidamente prequestionadas.
-  > III. RAZÕES DE DECIDIR
-  > 3. A controvérsia acerca da suficiência dos elementos probatórios para comprovar a materialidade do crime de tráfico de drogas demanda a interpretação do art. 33 da Lei nº 11.343/2006 e das normas processuais relativas à demonstração da materialidade delitiva, de modo que eventual ofensa à Constituição ocorre apenas de forma indireta ou reflexa.
-  > 4. A ofensa indireta ou reflexa a dispositivos constitucionais, cujo reconhecimento dependa do exame prévio da legislação infraconstitucional, não viabiliza a abertura da via extraordinária.
-  > 5. As questões suscitadas no recurso extraordinário não foram expressamente debatidas pelo Tribunal de origem sob o enfoque constitucional indicado pelo recorrente, circunstância que atrai a incidência das Súmulas nº 282 e 356 do STF.
-  > 6. O prequestionamento exige que a questão constitucional seja efetivamente examinada pelo Tribunal de origem e que sua solução integre as razões determinantes do acórdão recorrido, requisitos não verificados no caso.
-  > IV. DISPOSITIVO
-  > 7. Recurso com seguimento negado.
-  > (STF, RE n. 1.621.705/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 2/10/2026, DJe de 15/10/2026.)
-
-## 56. ARE nº 1.621.303 / GO (STF)
-- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 15/10/2026.
-- Crime / Tema: Homicídio · Excesso de prazo · Justa causa
-- Resumo: Mantido o trancamento de ofício de inquérito por homicídio, pela demora excessiva do MP em denunciar e pela falta de indícios mínimos de autoria; a investigação pode ser reaberta com prova nova. ARE do MP com seguimento negado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1621303.pdf
-
-## 57. REsp nº 2246666 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Violência doméstica
-- Resumo: Há controvérsia séria sobre o recurso cabível contra decisão sobre medidas protetivas de urgência (agravo de instrumento ou RESE). Por isso, usar o recurso 'errado' não é erro grosseiro, e ele deve ser aproveitado pela fungibilidade recursal (art. 579 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2246666.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. VIOLÊNCIA DOMÉSTICA E FAMILIAR. VIOLAÇÃO DOS ARTS. 1.015, I, PARÁGRAFO ÚNICO, DO CPC; 13 DA LEI N. 11.340/2006; E 579 DO CPP. MEDIDAS PROTETIVAS DE URGÊNCIA. REVOGAÇÃO. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. RECURSO EM SENTIDO ESTRITO. CONTROVÉRSIA DOUTRINÁRIA E JURISPRUDENCIAL. FUNGIBILIDADE RECURSAL. SUPERAÇÃO DO FUNDAMENTO DE ERRO GROSSEIRO QUE SE IMPÕE. APLICAÇÃO SUBSIDIÁRIA DO PROCESSO CIVIL.
-  > 1. A impugnação de medidas protetivas de urgência, pela sua natureza inibitória e repercussão penal, insere-se no sistema recursal penal, cabendo exame dentro das vias próprias desse subsistema.
-  > 2. O acórdão recorrido assentou a inadequação do agravo de instrumento para atacar decisão que manteve medidas protetivas, qualificando a via como erro grosseiro e indicando o recurso em sentido estrito como meio próprio.
-  > 3. O princípio da fungibilidade recursal autoriza, em situações de controvérsia objetiva sobre o recurso cabível e ausência de má-fé, o aproveitamento do recurso interposto, desde que observados os pressupostos de admissibilidade, sem transposição indevida entre sistemas recursais distintos.
-  > 4. O conjunto argumentativo revelou debate centrado na natureza penal das medidas, na delimitação da fungibilidade e na compatibilidade da via eleita, culminando na adoção da orientação favorável ao aproveitamento do recurso diante da controvérsia estabelecida.
-  > 5. Recurso especial provido nos termos do dispositivo.
-  > (REsp n. 2.246.666/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
-
-## 58. HC nº 1111206 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Furto · Princípio da insignificância
-- Resumo: Reincidência e habitualidade não impedem, por si sós, a insignificância quando o caso é excepcional: desodorante de R$ 17,99, restituído, e réu tecnicamente primário. Ação penal trancada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111206.pdf
-- Ementa oficial:
-  > DIREITO PENAL. HABEAS CORPUS. FURTO SIMPLES. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. INEXPRESSIVIDADE DA LESÃO JURÍDICA. PEQUENO VALOR DO BEM SUBTRAÍDO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE.
-  > 1. Ainda que se reconheça a inadmissibilidade do habeas corpus substitutivo de recurso especial, é possível a concessão da ordem para sanar constrangimento ilegal manifesto.
-  > 2. A reincidência e a habitualidade delitiva constituem óbices iniciais à incidência do princípio da insignificância, mas não impedem seu reconhecimento diante de peculiaridades excepcionais do caso concreto. Precedentes.
-  > 3. Na espécie, embora conste que o paciente tenha sido preso em flagrante ao menos três vezes, no mesmo ano, por subtrações patrimoniais, as demais circunstâncias objetivas – pequeno valor do bem (frasco de desodorante avaliado em R$ 17,99 – dezessete reais e noventa e nove centavos), restituição da res furtiva e primariedade técnica – revelam reduzido desvalor da conduta e tornam desproporcional o prosseguimento da ação penal.
-  > 4. Ordem concedida para determinar o trancamento da ação penal.
-  > (HC n. 1.111.206/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
-
-## 59. AgRg no REsp nº 2257004 / AL (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Furto · Dosimetria
-- Resumo: No furto de cabos, a referência genérica a 'prejuízo à coletividade' e o laudo que só mede a res furtiva não elevam a pena-base pelas consequências do crime: é preciso demonstrar impacto concreto e extraordinário ao serviço público. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2257004.pdf
-- Ementa oficial:
-  > PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO GENÉRICA. AUSÊNCIA DE SUPORTE PROBATÓRIO CONCRETO DE IMPACTO EXTRAORDINÁRIO AO SERVIÇO PÚBLICO. LAUDO PERICIAL QUE APENAS QUANTIFICA A RES FURTIVA. DECISÃO MONOCRÁTICA EM CONFORMIDADE COM A JURISPRUDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. A valoração negativa das consequências do crime exige motivação concreta que demonstre resultado que extrapole os efeitos inerentes ao tipo penal, não sendo suficiente a referência genérica a “prejuízo à coletividade”.
-  > 2. O laudo pericial que apenas quantifica a extensão da res furtiva, desacompanhado de elementos objetivos que evidenciem impacto extraordinário ao serviço público (como interrupções efetivas ou danos específicos), não autoriza a exasperação da pena-base pela vetorial “consequências do crime”.
-  > 3. Não fere o princípio da colegialidade a decisão monocrática proferida em conformidade com a jurisprudência desta Corte, preservada a apreciação colegiada mediante agravo regimental (AgRg no AREsp n. 2.271.242/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 27/8/2024).
-  > 4. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.257.004/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 15/10/2026.)
-
-## 60. AgRg no HC nº 1077013 / RS (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Prisão e medidas cautelares
-- Resumo: A preventiva decretada em grau de recurso exige risco concreto e atual. O réu ficou mais de 4 meses solto cumprindo cautelares rigorosas, sem descumprimento: gravidade das imputações, repercussão social e posição acadêmica e profissional não bastam. Medidas do art. 319 do CPP mantidas; agravo do MP desprovido, por maioria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1077013.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA DECRETADA EM SEDE RECURSAL. CRIMES CONTRA A DIGNIDADE SEXUAL, CÁRCERE PRIVADO E VIOLÊNCIA PSICOLÓGICA. GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE ELEMENTOS CONCRETOS E CONTEMPORÂNEOS. PERÍODO SUPERIOR A QUATRO MESES EM LIBERDADE. CUMPRIMENTO REGULAR DE RIGOROSAS MEDIDAS CAUTELARES. GRAVIDADE DAS IMPUTAÇÕES, REPERCUSSÃO SOCIAL E POSIÇÃO ACADÊMICA E PROFISSIONAL DO ACUSADO. FUNDAMENTOS INSUFICIENTES, ISOLADAMENTE, PARA A SEGREGAÇÃO CAUTELAR. MEDIDAS ALTERNATIVAS ADEQUADAS E PROPORCIONAIS. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. A prisão preventiva, por constituir medida excepcional, exige demonstração concreta da prova da materialidade, de indícios suficientes de autoria e do perigo gerado pelo estado de liberdade do imputado, além da presença de fundamento previsto no art. 312 do Código de Processo Penal.
-  > 2. No caso, entre 21/10/2025 e 2/3/2026, o agravado permaneceu em liberdade por período superior a quatro meses, submetido a medidas cautelares rigorosas e sem notícia de descumprimento ou de reiteração delitiva. A exigência de contemporaneidade não se satisfaz com a mera gravidade das imputações ou com a repercussão social do caso.
-  > 3. A correlação temporal entre o aumento de relatos durante a prisão temporária e a interrupção de novas denúncias após a liberdade não autoriza, por si só, a decretação da prisão preventiva, ausente demonstração empírica de risco atual. A segregação cautelar não pode apoiar-se em causalidade presumida.
-  > 4. A influência acadêmico-profissional do agravado, desacompanhada de atos concretos contemporâneos de ameaça, contato indevido ou interferência na colheita da prova, não basta para legitimar a custódia extrema, sobretudo quando já impostas medidas do art. 319 do CPP voltadas a mitigar tais riscos.
-  > 5. As medidas cautelares diversas se mostraram adequadas e suficientes no período em liberdade, podendo ser readequadas pelo Juízo competente, sem prejuízo de nova decretação da prisão caso sobrevenham fatos concretos e contemporâneos.
-  > 6. Agravo regimental não provido.
-  > (AgRg no HC n. 1.077.013/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/9/2026, DJEN de 15/10/2026.)

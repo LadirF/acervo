@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 3 de 30 (decisões 21 a 30)
+# Acervo de Jurisprudência — Cury Advogados — parte 3 de 31 (decisões 21 a 30)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 293 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 302 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,133 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 21. AgRg no REsp nº 1939308 / DF (STJ)
+## 21. HC nº 1138222 / MS (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
+- Crime / Tema: Organização criminosa · Prisão e medidas cautelares · Superação da Súmula 691
+- Resumo: Prisão temporária por crime fora do rol legal e com as diligências já cumpridas é ilegal. Custódia relaxada de ofício, superada a Súmula 691/STF.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1138222.pdf
+
+## 22. RE nº 1.623.966 / SC (STF)
+- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 21/10/2026.
+- Crime / Tema: Crimes contra as relações de consumo · ANPP
+- Resumo: O ANPP cabe em processo sem trânsito em julgado, mesmo com denúncia recebida antes da Lei 13.964/2019 e condenação já em grau de recurso (HC 185.913/STF). RE da defesa provido: autos ao MP para avaliar o acordo.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1623966.pdf
+
+## 23. AgRg no REsp nº 2224434 / SP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: A aprovação no ENEM gera remição mesmo para quem já tem diploma de curso superior: o estudo atual é fato gerador autônomo. Agravo da defesa provido; autos voltam para o cálculo.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2224434.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA PELO ESTUDO. APROVAÇÃO PARCIAL NO ENEM. APENADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR ANTERIOR AO CUMPRIMENTO DA PENA. IRRELEVÂNCIA. SUPERVENIÊNCIA DO TEMA REPETITIVO 1.357/STJ. FATO GERADOR AUTÔNOMO.
+  > 1. O recurso especial não foi conhecido com fundamento na Súmula 83/STJ, à luz de precedentes segundo os quais o apenado portador de diploma de curso superior anterior ao início do cumprimento da pena não faria jus à remição pela aprovação no ENEM, por inexistir aquisição de conhecimento novo.
+  > 2. Referido entendimento foi superado pela Terceira Seção desta Corte, que, ao julgar o Tema Repetitivo 1.357 (REsp n. 2.072.985/DF, relator Ministro Reynaldo Soares da Fonseca, julgado em 18/6/2026, DJEN de 16/7/2026), fixou a tese de que a aprovação no ENEM é cabível para fins de remição ainda que o sentenciado já tenha concluído o Ensino Médio anteriormente ao início do cumprimento da pena, porquanto o exame demanda estudo por conta própria e representa fato gerador autônomo, distinto da mera certificação de escolaridade pretérita – raciocínio que, por identidade de fundamento, afasta também o óbice relativo à prévia conclusão de curso superior, na linha já consolidada pela Quinta Turma (REsp n. 2.156.059/MS, relator Ministro Ribeiro Dantas, julgado em 5/11/2024; AgRg no REsp n. 2.132.114/MG, relator. Ministro Reynaldo Soares da Fonseca, julgado em 18/6/2024).
+  > 3. O art. 126 da LEP e a Resolução CNJ n. 391/2021 não condicionam a remição pelo estudo à inexistência de escolaridade prévia, seja em Nível Médio, seja em Nível Superior. A remição não representa crédito automático pela posse de diploma, mas reconhecimento do esforço educacional autônomo e atual, comprovado objetivamente pela aprovação no exame durante a execução da pena.
+  > 4. Agravo regimental provido para dar provimento ao recurso especial e, ao reformar o acórdão do Tribunal de Justiça do Estado de São Paulo, reconhecer o direito do agravante à remição de pena com base na aprovação parcial no ENEM, determinando-se o retorno dos autos ao Juízo da execução para o devido cômputo da remição correspondente.
+  > (AgRg no REsp n. 2.224.434/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+
+## 24. REsp nº 2265467 / PR (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Tráfico de drogas · Execução penal
+- Resumo: A hipossuficiência declarada se presume verdadeira: cabe ao MP provar que o condenado pode pagar a multa para barrar a reabilitação (art. 94 do CP; Tema 931/STJ). REsp da defesa provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2265467.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. PENAL. REABILITAÇÃO CRIMINAL. INADIMPLEMENTO DE PENA DE MULTA. HIPOSSUFICIÊNCIA ECONÔMICA DECLARADA. PRESUNÇÃO RELATIVA DE VERACIDADE. ÔNUS DA PROVA ATRIBUÍDO AO MINISTÉRIO PÚBLICO. TEMA 931/STJ.
+  > 1. Trata-se de recurso especial interposto contra acórdão que negou provimento à apelação defensiva e manteve o indeferimento do pedido de reabilitação criminal, sob o fundamento de que o recorrente não comprovou de forma suficiente sua hipossuficiência econômica para justificar o inadimplemento de pena de multa atualizada em R$ 85.908,09.
+  > 2. A questão em discussão consiste em definir: (i) se o inadimplemento da pena de multa, diante de alegação de hipossuficiência econômica, obsta a concessão da reabilitação criminal; e (ii) a quem incumbe o ônus de provar a capacidade ou a incapacidade de pagamento da sanção pecuniária, à luz da tese revisada do Tema 931/STJ.
+  > 3. A tese firmada no Tema Repetitivo 931/STJ (REsp n. 2.024.901/SP e REsp n. 2.090.454/SP), revisada pela Terceira Seção em 28/2/2024, estabelece que o inadimplemento da pena de multa, após o cumprimento da pena privativa de liberdade, não obsta a extinção da punibilidade diante da hipossuficiência do condenado, salvo decisão judicial suficientemente motivada que indique concretamente a possibilidade de pagamento.
+  > 4. Por coerência sistêmica, o mesmo entendimento aplica-se ao instituto da reabilitação criminal, cujo cabimento pressupõe, nos termos do art. 94 do Código Penal, a prévia extinção da punibilidade. Se o inadimplemento da multa, decorrente de comprovada hipossuficiência, não obsta o reconhecimento da extinção da punibilidade, com maior razão não pode obstar a reabilitação, que dela é consequência lógica e cronológica, sob pena de impor ao egresso hipossuficiente restrição desproporcional e perpétua ao gozo de seus direitos.
+  > 5. A declaração de hipossuficiência econômica, amparada no art. 99, § 3º, do Código de Processo Civil, goza de presunção relativa de veracidade. Cabe ao Ministério Público, na condição de fiscal da execução penal, comprovar, com base em elementos concretos, que o condenado possui capacidade financeira de adimplir a sanção pecuniária.
+  > 6. No caso concreto, o recorrente apresentou declaração de hipossuficiência e o Ministério Público não produziu qualquer prova capaz de infirmá-la. O acórdão recorrido, ao exigir do reabilitando prova robusta de sua pobreza e dispensar o Parquet dessa incumbência, inverteu indevidamente o ônus probatório, contrariando o art. 94, III, do Código Penal, interpretado à luz do art. 51 do mesmo diploma e da orientação vinculante fixada no Tema 931/STJ.
+  > 7. Recurso especial provido nos termos do dispositivo.
+  > (REsp n. 2.265.467/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+
+## 25. AgRg no AREsp nº 3233531 / BA (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
+- Resumo: Qualificadora sem prova judicial que a sustente deve ser afastada já na pronúncia. Mantida a exclusão; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3233531.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. EXCLUSÃO DE QUALIFICADORAS POR AUSÊNCIA DE PROVA JUDICIAL. REVALORAÇÃO JURÍDICA DOS FATOS. SÚMULA 7/STJ. PREQUESTIONAMENTO CONSTITUCIONAL. AGRAVO REGIMENTAL IMPROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto contra decisão monocrática que, acompanhando parecer do MPF, conheceu em parte e deu provimento ao recurso especial defensivo para excluir qualificadoras do crime, relativas ao motivo torpe e ao recurso que dificultou a defesa da vítima.
+  > II. Questão em discussão
+  > 2. Há três questões em discussão: (i) saber se, diante do quadro fático delineado no acórdão recorrido, é possível manter as qualificadoras de motivo torpe e de recurso que dificultou a defesa da vítima sem indicação de prova direta produzida em juízo; (ii) saber se a conclusão pela exclusão das qualificadoras demanda vedado reexame de provas (Súmula 7/STJ) ou se se trata de revaloração jurídica; e (iii) saber se é possível o prequestionamento de dispositivo constitucional (art. 5º, XXXVIII, “d”, da CR/1988) no âmbito do recurso especial perante o STJ.
+  > III. Razões de decidir
+  > 3. O acórdão recorrido não apontou prova direta e produzida em juízo que justifique o motivo torpe e o recurso que dificultou a defesa da vítima, sendo inviável a manutenção das qualificadoras nesta etapa processual.
+  > 4. A conclusão pela exclusão das qualificadoras decorre de revaloração jurídica da fundamentação do acórdão recorrido, não exigindo reexame de provas, razão pela qual não incide a Súmula 7/STJ.
+  > 5. Não compete ao STJ enfrentar matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do STF.
+  > IV. Dispositivo
+  > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão monocrática que excluiu as qualificadoras.
+  > (AgRg no AREsp n. 3.233.531/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+
+## 26. AgRg no AgRg no AREsp nº 3321341 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico
+- Resumo: Prisão em área de facção, droga e rádio comunicador, sem prova de vínculo estável e permanente, não sustentam a associação para o tráfico (art. 35 da Lei 11.343/2006). Absolvição mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3321341.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PROVA DE ESTABILIDADE E PERMANÊNCIA. ILAÇÕES AMBIENTAIS INSUFICIENTES. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental em agravo em recurso especial interposto pelo Agravante contra decisão monocrática que conheceu do agravo e deu parcial provimento ao recurso especial para absolver o Recorrente do delito do art. 35 da Lei n. 11.343/2006, mantendo a condenação pelo art. 33 e reajustando a pena e o regime.
+  > 2. Fato relevante. O Agravante sustenta que a posse de rádio comunicador em área dominada por facção criminosa, aliada às circunstâncias da prisão e à apreensão de drogas embaladas para venda, comprova a estabilidade e a permanência da associação para o tráfico.
+  > 3. As decisões anteriores. O Tribunal de origem manteve a condenação pelo art. 35, afastando a minorante do art. 33, § 4º, ao fundamento de habitualidade criminosa; a decisão agravada reconheceu a ilegalidade da condenação por ausência de demonstração concreta do animus associativo e absolveu o Recorrente quanto ao art. 35, preservando a condenação por tráfico.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em saber se os elementos colhidos (prisão em área dominada por facção criminosa, posse de drogas e de rádio comunicador, depoimentos policiais e material embalado para venda) são suficientes para demonstrar o vínculo associativo estável e permanente exigido pelo art. 35 da Lei n. 11.343/2006, apto a manter a condenação por associação para o tráfico de drogas.
+  > III. Razões de decidir
+  > 5. O art. 35 da Lei n. 11.343/2006 exige a demonstração concreta de vínculo permanente e estável entre duas ou mais pessoas, dirigido à prática dos delitos previstos no art. 33, caput e § 1º, e/ou no art. 34 da Lei de Drogas.
+  > 6. A condenação não pode se apoiar em meras ilações sobre o ambiente do tráfico ou na circunstância de prisão em área dominada por facção, somada à posse de drogas e rádio comunicador, sem elementos objetivos que evidenciem o animus associativo.
+  > 7. Ausente prova da estabilidade e permanência da associação, impõe-se a absolvição quanto ao art. 35, mantendo-se apenas a condenação pelo tráfico, nos moldes fixados na decisão agravada.
+  > 8. O agravo regimental não apresenta fundamentos capazes de modificar o entendimento adotado, devendo ser preservada a conclusão pela ilicitude da condenação por associação para o tráfico.
+  > IV. Dispositivo
+  > 9. Resultado do Julgamento: Agravo regimental improvido.
+  > (AgRg no AgRg no AREsp n. 3.321.341/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+
+## 27. AgRg no AREsp nº 3331286 / CE (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Receptação · Posse ilegal de arma de fogo
+- Resumo: Arma com numeração suprimida não basta para condenar por receptação: a acusação tem de provar que ela é produto de crime. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3331286.pdf
+- Ementa oficial:
+  > PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. PRETENSÃO CONDENATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. O STJ tem entendimento de que em flagrante do agente na posse de bem, produto de crime, presume-se que este tinha ciência da sua origem ilícita. Nesses casos é que se impõe à defesa a comprovação do desconhecimento da ilicitude do bem, quando por ela alegado. Ou seja, a presunção admitida por esta Corte Superior não desobriga a acusação de comprovar que o objeto era produto de crime.
+  > 2. A argumentação do Ministério Público justificaria a condenação pelo crime de posse ilegal de arma de fogo. Contudo, se pretende a condenação pelo crime de receptação, deve demonstrar a presença de todas as elementares.
+  > 3. O acórdão recorrido destacou não ter havido comprovação da ilicitude da arma, ou seja, que o artefato era produto de crime. A modificação dessa premissa implicaria reexame de fatos e de provas constantes dos autos, procedimento não permitido em recurso especial pelo disposto na Súmula n. 7 do STJ.
+  > 4. Agravo regimental não provido.
+  > (AgRg no AREsp n. 3.331.286/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+
+## 28. AgRg no AREsp nº 2532255 / GO (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Resumo: Imagens históricas do Google Maps exibidas em plenário, sem juntada no prazo do art. 479 do CPP, são prova surpresa. Júri anulado; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2532255.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ART. 479 DO CPP. EXIBIÇÃO DE DOCUMENTOS EM PLENÁRIO SEM JUNTADA PRÉVIA. NULIDADE RELATIVA. PREJUÍZO DEMONSTRADO. GOOGLE MAPS. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. O art. 479 do CPP impõe a juntada, com antecedência mínima de três dias úteis, dos documentos e objetos que serão exibidos no plenário do Júri, como exceção ao art. 231 do CPP, a fim de evitar surpresa e assegurar contraditório e paridade de armas; a inobservância do prazo acarreta nulidade de natureza relativa, que exige demonstração de efetivo prejuízo.
+  > 2. A jurisprudência desta Corte reconhece que o uso do Google Maps, quando limitado a dados públicos e notórios (localização, distâncias e tempos de percurso), não afronta o art. 479 do CPP; contudo, a utilização de imagens para afirmar condições físicas do local em momento diverso do fato, com potencial de influir no convencimento dos jurados, ultrapassa a mera visualização geográfica e demanda observância do tríduo legal, sob pena de nulidade relativa.
+  > 3. No caso concreto, a acusação exibiu, em réplica, imagens do Google Maps referentes aos anos de 2015 e 2018 para sustentar a inexistência de guard rail na rodovia à época do crime (2014), tendo a defesa arguido, oportunamente, a nulidade; a exibição inesperada, na fase final dos debates, impediu resposta técnica adequada e constituiu inovação probatória apta a surpreender a defesa e a influenciar o convencimento dos jurados.
+  > 4. Reconhece-se o prejuízo concreto, pois a prova técnico-geográfica foi introduzida sem a antecedência legal, a obstar o contraditório pleno e a produção de contraprova; não se aplica, na espécie, a orientação que admite o uso da ferramenta apenas para confirmar informações geográficas ostensivas. Mantida, por conseguinte, a anulação do julgamento do Júri por violação do art. 479 do CPP.
+  > 5. Agravo regimental não provido.
+  > (AgRg no AREsp n. 2.532.255/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+
+## 29. AgRg no AREsp nº 2858086 / DF (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Crimes contra o sistema financeiro · Justa causa
+- Resumo: Gestão temerária exige dolo e não admite responsabilidade penal objetiva; sem descrição concreta da conduta, mantido o trancamento da ação penal. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2858086.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. GESTÃO TEMERÁRIA. TRANCAMENTO DA AÇÃO PENAL. ATIPICIDADE DA CONDUTA. DOLO ESPECÍFICO. INÉPCIA DA DENÚNCIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1.O trancamento da ação penal ou a suspensão de uma investigação criminal pela via do habeas corpus somente é autorizado na evidência de situação de excepcionalidade, vista como “a manifesta atipicidade da conduta, a presença de causa de extinção da punibilidade do paciente ou a ausência de indícios mínimos de autoria e materialidade delitivas” (HC 110.698 - STF).
+  > 2.Na via estreita do recurso especial, o acolhimento da tese ministerial, com o consequente afastamento da conclusão do Tribunal Regional sobre a ausência de tipicidade da conduta, exigiria imprescindível reexame do conjunto fático-probatório dos autos, o que é vedado pelo óbice da Súmula 7 do STJ.
+  > 3.No tocante à alegada violação do art. 619 do CPP, verifica-se que a decisão foi explícita quanto aos fundamentos do trancamento do processo, evidenciando-se apenas o inconformismo da parte com o resultado do julgamento, não havendo omissão, contradição ou obscuridade a ser sanada.
+  > 4.O crime do art. 4º da Lei 7.492/86 exige dolo específico, entendido como a vontade consciente do agente em praticar conduta que, aparentemente, confere viés de legalidade a negócio jurídico que, em sua natureza e concretude, é ilegal; não se afigura possível a responsabilização objetiva na seara penal, sendo necessária a comprovação da culpabilidade como elemento constitutivo da responsabilidade.
+  > 5.A falta de justa causa para a ação penal, em face da atipicidade da conduta, constitui motivo suficiente para o trancamento do processo quando não se comprovam prática delitiva ou dolo específico, não havendo dado concreto que atribua aos agentes responsabilidade pelo injusto penal imputado.
+  > 6.A gravidade de eventuais irregularidades, para fins administrativos, demanda os critérios do art. 4º da Lei 13.506/2017, que define como infrações graves aquelas que produzam ou possam produzir efeitos como: “I - causar dano à liquidez, à solvência ou à higidez ou assumir risco incompatível com a estrutura patrimonial […] II - contribuir para gerar indisciplina no mercado financeiro ou para afetar a estabilidade ou o funcionamento regular do Sistema Financeiro Nacional […] III - dificultar o conhecimento da real situação patrimonial ou financeira […] IV - afetar severamente a finalidade e a continuidade das atividades ou das operações no âmbito do Sistema Financeiro Nacional […]”, pressupostos não evidenciados no caso.
+  > 6. Ausentes fatos novos ou teses jurídicas diversas no agravo regimental que permitam alteração do entendimento anteriormente firmado.
+  > 7.Agravo regimental não provido.
+  > (AgRg no AREsp n. 2.858.086/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+
+## 30. AgRg no REsp nº 1939308 / DF (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Roubo · Prova digital · Quebra da cadeia de custódia
 - Resumo: Acessar os dados do celular apreendido no flagrante sem ordem judicial nem consentimento é ilícito (Tema 977/STF), e a confissão em juízo, obtida só porque o réu foi identificado por essa devassa, é prova derivada e também ilícita. Sentença cassada para nova análise sem essas provas; agravo do MP desprovido.
@@ -21,131 +147,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A confissão judicial foi colhida em momento posterior à identificação do agravado por meio do acesso ilícito ao celular. Sem a devassa nos dados do aparelho, o agravado jamais teria sido identificado, jamais haveria sido investigado, jamais haveria sido denunciado e, portanto, jamais haveria prestado declarações em juízo. A confissão é, nessa perspectiva, um fruto derivado da prova ilícita, alcançada pela teoria dos frutos da árvore envenenada (art. 157, § 1º, do CPP). O reconhecimento da ilicitude da prova originária não afasta, per se, a condenação: a cassação da sentença foi determinada para que o Juízo de primeiro grau proceda a nova análise do conjunto probatório remanescente, devendo expurgar as provas ilícitas e suas derivadas e verificar se, sem elas, ainda há suporte suficiente para a manutenção da condenação. A teoria da descoberta inevitável (art. 157, § 2º, do CPP), invocável quando a prova seria produzida de qualquer modo como resultado das atividades investigativas regulares, não se aplica ao caso, pois não há nos autos nenhum elemento que indique que a identificação do agravado seria inevitavelmente alcançada por outro meio independente; ao contrário, as diligências realizadas foram infrutíferas e a vítima era incapaz de reconhecê-lo.
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 1.939.308/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/10/2026, DJEN de 20/10/2026.)
-
-## 22. RE nº 1.616.000 / SP (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 20/10/2026.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Entrada na casa só por denúncia anônima, com consentimento do morador não documentado e contestado em juízo, é ilícita (Tema 280/STF). Mantida a absolvição concedida pelo STJ; RE do MP com seguimento negado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1616000.pdf
-
-## 23. ARE nº 1.623.674 / GO (STF)
-- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri
-- Resumo: Gravação inaudível da sessão plenária do Júri, por defeito técnico, prejudica a defesa e anula o julgamento a partir do plenário, como decidiu o TJGO. ARE do MP com seguimento negado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623674.pdf
-
-## 24. RE nº 1.629.803 / SP (STF)
-- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: O exame criminológico obrigatório para a progressão, trazido pela Lei 14.843/2024, é norma mais gravosa e não retroage; o juiz pode exigi-lo só por decisão fundamentada no caso concreto (SV 26). RE do MP com seguimento negado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1629803.pdf
-
-## 25. ARE nº 1.600.909 / RS (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 19/10/2026.
-- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Tráfico privilegiado
-- Resumo: Ações penais em andamento, sozinhas, não afastam o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). RE do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1600909.pdf
-
-## 26. AgRg no AREsp nº 3101436 / ES (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento por show up (só o suspeito é mostrado), sem as regras do art. 226 do CPP, com vítimas inseguras em juízo e sem outra prova, não sustenta a condenação (Tema 1.258/STJ). Revaloração jurídica afasta a Súmula 7. Réu absolvido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3101436.pdf
-- Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECONHECIMENTO FOTOGRÁFICO E PESSOAL. ART. 226 DO CÓDIGO DE PROCESSO PENAL. TEMA 1.258/STJ. INOBSERVÂNCIA DAS REGRAS DE RECONHECIMENTO. TÉCNICA DE SHOW UP. DISTINGUISHING DO PARADIGMA. SUPERAÇÃO DOS ÓBICES DAS SÚMULAS 7/STJ E 83/STJ MEDIANTE REVALORAÇÃO JURÍDICA. INSUFICIÊNCIA PROBATÓRIA.
-  > 1. O agravo regimental apresenta impugnação direta, específica e pormenorizada dos fundamentos da decisão que não conheceu do agravo em recurso especial, o que afasta a deficiência dialética e autoriza o seu conhecimento, com a indicação do distinguishing do precedente invocado e de julgados contemporâneos, além da demonstração da possibilidade de revaloração jurídica para superar a Súmula 7 do Superior Tribunal de Justiça.
-  > 2. A validade do reconhecimento de pessoas depende da estrita observância das regras do procedimento previsto no art. 226 do Código de Processo Penal, tanto na fase inquisitorial quanto em juízo, sob pena de invalidade da prova destinada a demonstrar a autoria delitiva.
-  > 3. No caso, o único elemento de autoria é o reconhecimento fotográfico produzido pela técnica de show up, sem observância das regras formais, e os depoimentos judiciais das vítimas revelam incerteza, ausência de confirmação pessoal segura e contaminação da memória, sem provas independentes de corroboração, como apreensões ou perícias, o que evidencia insuficiência probatória para a condenação.
-  > 4. Agravo regimental provido para conhecer do agravo e dar provimento ao recurso especial.
-  > (AgRg no AREsp n. 3.101.436/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 19/10/2026.)
-
-## 27. AgRg no HC nº 1061845 / SP (STJ)
-- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Excesso de prazo · Justa causa
-- Resumo: A duração razoável do processo vale também para a investigação: procedimento do MP aberto há quase 7 anos, sem avanço concreto quanto ao investigado, foi trancado. A complexidade não justifica prazo indefinido. O juízo reavalia a devolução dos valores apreendidos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1061845.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PROCEDIMENTO INVESTIGATÓRIO CRIMINAL. EXCESSO DE PRAZO. DURAÇÃO RAZOÁVEL DO PROCESSO. TRANCAMENTO PARCIAL DA INVESTIGAÇÃO. CONTROLE JURISDICIONAL DA LEGALIDADE. AGRAVO DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que não conheceu do habeas corpus, por ter sido manejado como sucedâneo de via impugnativa própria, mas concedeu a ordem de ofício para determinar o trancamento, em relação ao paciente, do Procedimento Investigatório Criminal n.º 94.0553.0000008/2019-0, diante de excesso de prazo, e determinou ao Juízo de origem a reapreciação, com urgência, do pedido de levantamento de valores apreendidos, à luz do trancamento e de eventual situação cautelar patrimonial autônoma.
-  > 2. PIC instaurado em 1/6/2019, com sucessivas prorrogações; em maio de 2025, foi concedido novo prazo de 90 dias para conclusão; cerca de onze meses após a última prorrogação, não havia notícia de conclusão do procedimento nem de progresso investigativo substancial recente especificamente quanto ao paciente; proposta de acordo de não persecução penal formulada em 30/5/2022 e recusada; apreensão de R$ 9.525.250,00 na residência do paciente.
-  > 3. Decisão monocrática reconheceu manifesta ilegalidade por excesso de prazo e determinou o trancamento da investigação em relação ao paciente. Agravante sustenta que o trancamento é excepcional, que a complexidade do caso justificaria a duração, que haveria distinções fáticas em relação ao AgRg no RHC nº 213.631/MG, que o encerramento configuraria indevida ingerência nas atribuições do Ministério Público e que apenas a prescrição autorizaria o encerramento por decurso do tempo.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se a manutenção do paciente sob investigação por período próximo de sete anos, após sucessivas prorrogações e sem demonstração concreta de evolução substancial recente especificamente quanto à sua pessoa, é compatível com a garantia constitucional da duração razoável do processo.
-  > 5. Há duas questões em discussão: (i) saber se a complexidade da investigação e as atribuições constitucionais do Ministério Público afastam o controle jurisdicional da legalidade e justificam a dilação indefinida do procedimento; e (ii) saber se o excesso de prazo, desacompanhado de progresso investigativo concreto, pode justificar o trancamento da investigação antes da ocorrência de prescrição.
-  > 6. Questão adicional: saber se o trancamento da investigação implica restituição automática dos valores apreendidos ou se cabe ao Juízo de origem reapreciar a subsistência de fundamento cautelar patrimonial autônomo.
-  > III. Razões de decidir
-  > 7. A Constituição Federal assegura, no art. 5º, LXXVIII, a razoável duração do processo, garantia que também alcança a fase pré-processual; a aferição de excesso de prazo é casuística e exige, além da complexidade, demonstração de progresso investigativo concreto.
-  > 8. No caso, transcorridos quase sete anos de investigação e aproximadamente onze meses após a concessão de novo prazo de 90 dias, não houve demonstração de avanços substanciais recentes especificamente relacionados ao paciente, configurando constrangimento ilegal pela manutenção indefinida da condição de investigado.
-  > 9. A complexidade estrutural da investigação não possui eficácia justificadora ilimitada e não dispensa a indicação de diligências efetivas, resultados obtidos ou novos elementos que sustentem a continuidade do procedimento quanto ao investigado específico.
-  > 10. As atribuições constitucionais do Ministério Público (CF, art. 129) não afastam o controle jurisdicional de legalidade nem impedem o trancamento excepcional da investigação quando verificada violação à duração razoável do processo; não há ingerência indevida na formação da opinio delicti.
-  > 11. Prescrição e duração razoável do processo constituem categorias distintas; o reconhecimento de constrangimento ilegal por prolongamento injustificado independe da ocorrência de causa extintiva da punibilidade.
-  > 12. O trancamento foi delimitado ao paciente e ao PIC nº 94.0553.0000008/2019-0, sem alcance sobre os demais investigados ou sobre a operação como um todo; a apreensão de numerário, embora relevante, não afasta a conclusão sobre o excesso de prazo e não impõe restituição automática, devendo o Juízo de origem reapreciar a medida cautelar patrimonial.
-  > 13. A orientação está em consonância com a jurisprudência: a complexidade não autoriza a perpetuação da investigação sem justificativa concreta; distinções fáticas não afastam as premissas jurídicas firmadas nos precedentes aplicáveis.
-  > IV. Dispositivo
-  > 14. Agravo regimental desprovido.
-  > (AgRg no HC n. 1.061.845/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
-
-## 28. AgRg no REsp nº 2282869 / SP (STJ)
-- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: Faltas graves antigas e já reabilitadas não podem impedir para sempre o livramento condicional (Tema 1.161/STJ), e o exame criminológico não vincula o juiz. Mais de 5 anos sem falta e o livramento cumprido sem problemas mostram o mérito. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2282869.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. FALTAS GRAVES ANTIGAS E REABILITADAS. EXAME CRIMINOLÓGICO. TEMA N. 1.161/STJ. AVALIAÇÃO GLOBAL DO MÉRITO. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que não conheceu de recurso especial em execução penal, no qual se buscava a reforma de acórdão que deferiu livramento condicional ao apenado.
-  > 2. Fato relevante. Última falta disciplinar grave praticada em 4/6/2021 e reabilitada em 4/6/2022; apenado passou mais de cinco anos sem faltas graves, com boa conduta carcerária; usufruto do livramento condicional desde 10/3/2026 sem intercorrências.
-  > 3. As decisões anteriores. Corte estadual deferiu o livramento condicional, assentando que faltas antigas e reabilitadas não podem eternizar efeitos e que o exame criminológico não vincula o Juízo da execução, sendo indevida negativa do benefício com base prejudicial na Lei n. 14.843/2024.
-  > II. Questão em discussão
-  > 4. Há três questões em discussão: (i) saber se faltas graves antigas e já reabilitadas podem, por si, impedir a concessão do livramento condicional sob o prisma do requisito subjetivo, à luz do Tema n. 1.161/STJ; (ii) saber se o exame criminológico desfavorável vincula o Juízo da execução e autoriza a negativa do benefício; e (iii) saber se o desempenho do apenado no usufruto do livramento condicional deve ser considerado na avaliação do mérito subjetivo.
-  > III. Razões de decidir
-  > 5. O requisito objetivo de ausência de falta grave nos últimos 12 meses (art. 83, III, b, do Código Penal), conforme o Tema n. 1.161/STJ, não limita a análise do requisito subjetivo, mas não autoriza a atribuição de efeitos permanentes a faltas antigas e reabilitadas; histórico positivo por período superior a cinco anos evidencia bom comportamento carcerário suficiente.
-  > 6. O exame criminológico não vincula o Juízo da execução; a avaliação do mérito subjetivo deve ser global, sendo indevida a negativa do livramento condicional com base exclusiva em parecer administrativo, notadamente quando invocada alteração legislativa de forma prejudicial ao apenado.
-  > 7. O usufruto do livramento condicional sem intercorrências desde 10/3/2026 demonstra aptidão ao convívio social e reforça o atendimento do requisito subjetivo, tornando desarrazoado o retorno ao cárcere e uma violação ao caráter ressocializador da pena.
-  > IV. Dispositivo
-  > 8. Resultado do Julgamento: Agravo regimental desprovido.
-  > (AgRg no REsp n. 2.282.869/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
-
-## 29. HC nº 1104329 / PE (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
-- Resumo: A pronúncia exige indícios de autoria produzidos em juízo; o in dubio pro societate não supre a falta deles. O TJ restaurou a pronúncia com elementos do inquérito, contra a impronúncia baseada em falta de reconhecimento, ERB compatível com o álibi e ausência de perícia na arma. Impronúncia restabelecida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104329.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. INSUFICIÊNCIA DE PROVA JUDICIALIZADA DE AUTORIA. ELEMENTOS INQUISITORIAIS. PROVA TESTEMUNHAL SEM RECONHECIMENTO. INADEQUAÇÃO DO REMÉDIO CONSTITUCIONAL COMO SUBSTITUTIVO. APLICAÇÃO INDEVIDA DO IN DUBIO PRO SOCIETATE.
-  > 1. O Superior Tribunal de Justiça firmou entendimento de que habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
-  > 2. A decisão de pronúncia demanda a verificação da materialidade e de indícios suficientes de autoria produzidos sob contraditório judicial, sendo inviável o suporte exclusivo ou preponderante em elementos informativos do inquérito policial.
-  > 3. O princípio do in dubio pro societate não autoriza suprir a insuficiência de indícios de autoria, devendo o magistrado exercer o filtro do judicium accusationis e afastar a submissão ao Tribunal do Júri quando ausente lastro mínimo válido.
-  > 4. Hipótese em que a sentença impronunciou o acusado por ausência de reconhecimento pela testemunha ocular, falta de confirmação da placa do veículo, dados de ERB compatíveis com o álibi e inexistência de prova técnica de vinculação da arma, enquanto o acórdão recorrido restaurou a pronúncia com apoio em elementos predominantemente inquisitoriais e na invocação do in dubio pro societate. A inadequação da via não impede a correção da ilegalidade por meio de ordem de ofício.
-  > 5. Habeas corpus não conhecido. Ordem concedida de ofício.
-  > (HC n. 1.104.329/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 19/10/2026.)
-
-## 30. AgRg no HC nº 1099090 / RS (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Homicídio qualificado · Dosimetria
-- Resumo: Frieza, promessas de morte e extensão dos ferimentos são inerentes ao homicídio e não elevam a culpabilidade; sofrimento da família e vítima de 29 anos tratada como de tenra idade não pesam nas consequências. O AREsp barrado na admissibilidade não impede o HC. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1099090.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. DOSIMETRIA DA PENA. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. ADEQUAÇÃO DA VIA ELEITA. PRELIMINARES REJEITADAS. AGRAVO DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo MP/RS contra decisão que concedeu parcialmente a ordem de habeas corpus para afastar a negativação das vetoriais da culpabilidade e das consequências do crime, com adequação da dosimetria da pena.
-  > 2. O Parquet sustenta, preliminarmente, violação ao princípio da unirrecorribilidade e usurpação da competência da Quinta Turma do STJ, que já havia se manifestado sobre as insurgências apresentadas pelo agravado no âmbito do Agravo em Recurso Especial n. 3.208.932/RS.
-  > 3. No mérito, insurge-se contra o afastamento das vetoriais da culpabilidade e das consequências do crime, ressaltando a idoneidade dos fundamentos utilizados pelas instâncias de origem para a sua negativação, com base em elementos concretos dos autos que evidenciaram maior grau de reprovabilidade das condutas praticadas pelo ora agravado.
-  > II. Questão em discussão
-  > 4. Há três questões em discussão: (i) saber se a ausência de análise de mérito no AREsp obstado por óbice de admissibilidade configura usurpação de competência e viola o princípio da unirrecorribilidade, impedindo o manejo de habeas corpus; (ii) saber se o habeas corpus é via adequada para requalificação jurídica de fatos delineados nas instâncias ordinárias sem revolvimento do acervo probatório; e (iii) saber se os fundamentos utilizados para negativar as vetoriais da culpabilidade e das consequências do crime são idôneos para majorar a pena-base.
-  > III. Razões de decidir
-  > 5. A inexistência de pronunciamento judicial sobre o mérito no AREsp, por óbice da Súmula n. 182/STJ, afasta a alegada usurpação de competência e a violação ao princípio da unirrecorribilidade, não impedindo posterior impetração de habeas corpus para sanar constrangimento ilegal.
-  > 6. O habeas corpus é via adequada quando a controvérsia permite requalificação jurídica de fatos já delineados pelas instâncias de origem, sem necessidade de revolvimento de provas, conforme arts. 647 e 648 do CPP.
-  > 7. A revisão da dosimetria em habeas corpus possui caráter excepcional e é admitida diante de manifesta ilegalidade, observando o critério trifásico do art. 68 do CP, combinado com o art. 59 do CP.
-  > 8. A negativação da culpabilidade é inidônea quando fundamentada em frieza, promessas de morte e extensão dos ferimentos que resultaram no óbito, por constituírem elementos inerentes ao tipo de homicídio e ao próprio resultado já valorado pelo Tribunal do Júri, sem demonstração de maior censurabilidade que extrapole as circunstâncias típicas.
-  > 9. A valoração negativa das consequências do crime, por sua vez, exige comprovação de efeitos que transcendam o resultado naturalístico do tipo penal; não são idôneos, por si, o sofrimento dos familiares e a qualificação de vítima de 29 anos como de tenra idade.
-  > 10. Ausência de argumentos novos aptos a infirmar a decisão agravada, a qual se encontra em consonância com a jurisprudência desta Corte sobre a inidoneidade dos fundamentos para negativar as vetoriais da culpabilidade e das consequências.
-  > IV. Dispositivo e tese
-  > 11. Resultado do Julgamento: Agravo regimental desprovido.
-  > Tese de julgamento:
-  > 1. A ausência de análise de mérito em recurso especial obstado por óbice de admissibilidade não impede a impetração de habeas corpus, nem configura usurpação de competência ou violação ao princípio da unirrecorribilidade.
-  > 2. É possível, em habeas corpus, requalificar juridicamente fatos delineados no acórdão recorrido sem revolvimento do acervo probatório, nos termos dos arts. 647 e 648 do CPP.
-  > 3. A negativação da vetorial culpabilidade exige elementos concretos que extrapolem as circunstâncias do tipo penal, não se prestando a tal fim a mera gravidade do resultado ou ameaças genéricas.
-  > 4. A negativação das consequências do crime demanda prova de efeitos extraordinários que transcendam o resultado típico, não sendo idôneos, por si, o sofrimento dos familiares e a qualificação de vítima de 29 anos como de tenra idade.
-  > (AgRg no HC n. 1.099.090/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
