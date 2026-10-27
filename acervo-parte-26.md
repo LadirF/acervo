@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 26 de 31 (decisões 251 a 260)
+# Acervo de Jurisprudência — Cury Advogados — parte 26 de 32 (decisões 251 a 260)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 302 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 317 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,95 +8,114 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 251. HC nº 978977 / PE (STJ)
-- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
+## 251. REsp nº 2231330 / MG (STJ)
+- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 29/09/2025.
+- Crime / Tema: Infanticídio · Pronúncia
+- Resumo: Desclassificação para infanticídio já na pronúncia mantida: asfixia durante ou logo após o parto, sob forte alteração psicofísica, com a prova convergindo para essa única versão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2231330.pdf
 
-## 252. AgRg no AREsp nº 2697575 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
-- Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf
+## 252. AREsp nº 2605530 / RS (STJ)
+- Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 25/09/2025.
+- Crime / Tema: RIF
+- Resumo: A polícia não pode pedir RIF diretamente ao COAF sem autorização judicial: o Tema 990/STF cobre só o envio espontâneo pelo COAF, e a encomenda é pescaria probatória que viola a reserva de jurisdição. AREsp do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2605530.pdf
 
-## 253. HC nº 840695 / PB (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/02/2025.
-- Crime / Tema: Estelionato · Continuidade delitiva · Dosimetria
-- Resumo: Pirâmide financeira: os 41 estelionatos, praticados do mesmo modo e em sequência, configuram crime continuado, e não concurso material. Em vez de somar as penas, aplica-se uma só pena aumentada. Continuidade reconhecida de ofício, com pena final de 3 anos e 4 meses em regime semiaberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
-
-## 254. AREsp nº 2508013 / MG (STJ)
-- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 29/01/2025.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A pronúncia não pode se basear só em elementos do inquérito e em testemunhos de "ouvir dizer" (art. 155 do CPP). O in dubio pro societate não supre lacuna de prova. Detectado o vício na própria pronúncia, não cabe sequer submeter o réu a novo Júri. Réu despronunciado de ofício, mesmo depois da condenação.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2508013.pdf
-
-## 255. HC nº 943710 / SC (STJ)
-- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
-- Crime / Tema: Crimes contra o sistema financeiro · RIF · Competência
-- Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-943710.pdf
+## 253. AgRg no REsp nº 2206947 / PR (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/09/2025.
+- Crime / Tema: Infanticídio · Homicídio · Pronúncia
+- Resumo: Desclassificação para homicídio culposo mantida: o estado puerperal ficou provado, mas não o dolo (demora de cerca de 3 horas para levar o bebê ao hospital). Não existe infanticídio culposo (art. 18, parágrafo único, do CP), e o dolo deve ser examinado já na pronúncia. Rever isso esbarra na Súmula 7.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2206947.pdf
 - Ementa oficial:
-  > HABEAS CORPUS. DIREITO PROCESSUAL PENAL. OPERAÇÃO OURANÓS. DEFLAGRAÇÃO DA INVESTIGAÇÃO. DENÚNCIA ANÔNIMA VERBAL SEGUIDA DE INVESTIGAÇÕES PRELIMINARES. PLAUSIBILIDADE VERIFICADA. CABIMENTO DA INSTAURAÇÃO, INCLUSIVE EX OFFICIO. NÃO DEMONSTRAÇÃO DE PREJUÍZO. SOLICITAÇÃO DIRETA DE RELATÓRIOS DE INTELIGÊNCIA FINANCEIRA. INADMISSIBILIDADE. PRECEDENTES DA SEXTA TURMA DO STJ. DETERMINAÇÃO DE DESENTRANHAMENTO DOS RELATÓRIOS E ELEMENTOS DERIVADOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. IMPUTAÇÃO DE CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. DETERMINAÇÃO EXPRESSA DO ART. 26 DA LEI N. 7.942/1986. INSTRUÇÃO PENDENTE. NÃO CABIMENTO DE ANÁLISE DO MÉRITO EM SEDE DE HABEAS CORPUS. ACESSO DA DEFESA AOS ELEMENTOS DE PROVA. PERDA DE OBJETO. DESENTRANHAMENTO DOS RIFS. ACESSO AOS ELEMENTOS DE INQUÉRITO ATESTADO PELA ORIGEM. ORDEM PARCIALMENTE CONCEDIDA.
-  > 1. Habeas corpus impetrado contra decisão do TRF4 nos autos do HC 5002640-96.2024.4.04.0000/SC, relativo a processo em curso na Seção Judiciária de Santa Catarina, alegando constrangimento ilegal por parte do tribunal.
-  > 2. O impetrante alega: (i) constrangimento ilegal por falta de acesso aos elementos de prova existentes (Súmula Vinculante n. 14/STF); (ii) ilegalidade na requisição direta de RIFs ao COAF pela autoridade policial; (iii) ilegalidade de tal proceder como medida inaugural da investigação, baseada em denúncia anônima verbal não levada a termo e relatório que não teria apontado elementos mínimos de prática delitiva, a configurar fishing expedition, e (iv) incompetência da Justiça Federal.
-  > 3. A jurisprudência desta Corte admite a deflagração da investigação criminal a partir de notícia anônima, desde que verificada a sua plausibilidade, mediante realização de diligências complementares antes da instauração do inquérito. Investigação preliminar verificada na espécie. Possibilidade de instauração, inclusive ex officio. Prejuízo não demonstrado.
-  > 4. O atual entendimento desta Sexta Turma - que leva em consideração, inclusive, a evolução do tema perante a Suprema Corte - não admite a solicitação direta de Relatório de Inteligência Financeira pela autoridade policial sem autorização judicial (RHC n. 203.578/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 05/11/2024, DJe de 07/11/2024). Devem os relatórios e os elementos deles derivados ser desentranhados dos autos.
-  > 5. A competência da Justiça Federal decorre de disposição expressa traçado no art. 26 da Lei n. 7.492/1986, descabendo na etapa processual em que se encontra o feito - não ultimada a instrução - a análise do mérito das imputações e eventual desclassificação, incompatíveis, ademais, com a estreiteza da via eleita. Deve, ainda, ser considerada a independência entre as instâncias administrativa e criminal, não prejudicando tal conclusão eventual posicionamento da Comissão de Valores Mobiliários em procedimentos administrativos diversos (AgRg no CC n. 189.304/RJ, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 13/12/2023, DJe de 18/12/2023).
-  > 6. A Súmula Vinculante n. 14 do Supremo Tribunal Federal estabelece ser direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa. Na espécie, houve a perda do objeto do pleito quanto aos RIFs, bem como se constatou na origem, com o recebimento da denúncia, determinação expressa de redução do sigilo do inquérito policial para o nível mais baixo (sigilo 1), o que possibilitou o amplo acesso às defesas dos réus. Nada a prover, no ponto.
-  > 7. Ordem concedida parcialmente para reconhecer a ilicitude da solicitação direta dos Relatórios de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos deles derivados, cabendo ao Juízo de primeiro grau identificá-los, procedendo ao seu desentranhamento, além de analisar se persiste a justa causa para o trâmite da ação penal na sua ausência.
-  > (HC n. 943.710/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRETENDIDA PRONÚNCIA DA RÉ. AFERIÇÃO DO DOLO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que conheceu em parte e, nesta extensão, negou provimento ao recurso especial, mantendo o acórdão do Tribunal de origem que desclassificou o crime de homicídio doloso para culposo.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 2. A questão em discussão consiste em saber se há omissão no aresto recorrido e se incide ao caso a Súmula 7/STJ.
+  > III. RAZÕES DE DECIDIR
+  > 3. O acórdão recorrido se manifestou de maneira fundamentada sobre todos os pontos relevantes para a solução da causa, inexistindo ofensa ao art. 619 do CPP.
+  > 4. O Tribunal de origem concluiu pela inexistência de dolo na conduta da ré, após análise aprofundada e detalhada das provas documental, pericial e testemunhal.
+  > 5. A revisão do entendimento do Tribunal de origem sobre o dolo esbarra na Súmula 7/STJ, que veda o reexame de provas em recurso especial.
+  > IV. DISPOSITIVO E TESE
+  > 6. Agravo improvido.
+  > Tese de julgamento: "1. É inviável o reexame de fatos e provas em recurso especial".
+  > (AgRg no REsp n. 2.206.947/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.)
 
-## 256. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
-- Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
-- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
-- Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0000-24-303113.pdf
+## 254. REsp nº 2195682 / SP (STJ)
+- Decisão monocrática. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 29/08/2025.
+- Crime / Tema: Lavagem de dinheiro · RIF
+- Resumo: RIFs enviados pelo COAF a pedido da polícia, sem autorização judicial, são nulos e devem sair dos autos com as provas deles derivadas; o juiz deve reavaliar o sequestro de bens à luz do que restar. REsp da defesa parcialmente provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2195682.pdf
+
+## 255. RHC nº 221603 / RS (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/08/2025.
+- Crime / Tema: RIF
+- Resumo: O Tema 990/STF não autoriza a requisição direta de dados financeiros pela polícia sem ordem judicial. RIF pedido pela autoridade policial em verificação preliminar declarado ilícito e desentranhado, com as provas derivadas (TRF4).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-221603.pdf
+
+## 256. RHC nº 153706 / RS (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 25/07/2025.
+- Crime / Tema: Crimes contra o sistema financeiro · Lavagem de dinheiro · Organização criminosa · Acesso da defesa às provas
+- Resumo: Relatório complementar da PF com novos elementos, juntado depois da resposta à acusação, exige restituir o prazo da resposta, com acesso integral aos elementos que o embasaram; reinquirir as testemunhas não basta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-153706.pdf
+
+## 257. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+- Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
+- Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0803817-76-2023.pdf
 - Ementa oficial:
-  > APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS -- DESCLASSIFICAÇÃO PARA PORTE PARA USO PRÓPRIO - NECESSIDADE - DESTINAÇÃO MERCANTIL DO ENTORPECENTE NÃO DEMONSTRADA - QUANTIDADE INFERIOR A 40G - PRESUNÇÃO DE PORTE DE DROGAS PARA CONSUMO PRÓPRIO - ART. 28 DA LEI Nº 11.343/06 - INCONSTITUCIONALIDADE DECRETADA - DECISÃO DO SUPREMO TRIBUNAL FEDERAL NO RE Nº 635.659 - TEMA 506 - ATIPICIDADE DA CONDUTA RECONHECIDA - REMESSA AO JUIZADO ESPECIAL PARA APLICAÇÃO DAS SANÇÕES CABÍVEIS, NOS TERMOS DA DECISÃO PROFERIDA PELO STF NO JULGAMENTO DO RE Nº 635.659 - RECURSO DEFENSIVO PROVIDO.
-  > - Certa a posse, mas incerta a finalidade, não há como manter a condenação do recorrente pelo crime de tráfico de drogas.
-  > - É imprescindível para a configuração do crime de tráfico ilícito de entorpecentes prova da destinação comercial da substância, sendo necessária a desclassificação para o delito previsto no art. 28 da Lei 11.343/2006, quando não comprovado o dolo específico de mercancia.
-  > - Diante do julgamento do STF no RE nº 635.659, que, por maioria e nos termos do voto do Relator, apreciando o declarou a inconstitucionalidade, sem redução de texto, do art. 28 da Lei 11.343/2006, quando o usuário portar menos de 40g de maconha, de modo a afastar do referido dispositivo todo e qualquer efeito de natureza penal, deve ser reconhecida a atipicidade da conduta, com a consequente absolvição do apelante, devendo os autos serem remetidos ao Juizado Especial Criminal da comarca de origem, para aplicação das sanções administrativas cabíveis.
-  > (TJMG, Apelação Criminal n. 1.0000.24.303113-5/001, relator Desembargador Jaubert Carneiro Jaques, 6ª Câmara Criminal, julgado em 22/10/2024, publicado em 23/10/2024.)
+  > APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. SENTENÇA CONDENATÓRIA. VIOLAÇÃO DE DOMICÍLIO. DENÚNCIA ANÔNIMA. INEXISTÊNCIA DE INDÍCIOS DA PRÁTICA DELITIVA. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. NULIDADE DA PROVA OBTIDA E DAQUELAS DELA DERIVADAS. ABSOLVIÇÃO DECRETADA. RECURSO PROVIDO. IMPÕE. PROVIMENTO.
+  > I. CASO EM EXAME.
+  > 1. Recurso defensivo em razão da condenação do réu pela prática do delito previsto no artigo 16, §1º, inciso IV, da Lei nº 10.826/03.
+  > II. QUESTÕES EM DISCUSSÃO.
+  > 2. As questões em discussão consistem em: (i) verificar se houve violação de domicílio; e (ii) se há prova suficiente para a condenação.
+  > III. RAZÕES DE DECIDIR.
+  > 3. No caso dos autos, restou caracterizada a violação da garantia constitucional da inviolabilidade domiciliar.
+  > 4. Sabe-se que o entendimento firmado pelo Supremo Tribunal Federal em sede de repercussão geral é no sentido de que “a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados” [STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, j: 8/10/2010].
+  > 5. Na hipótese, a diligência decorreu de denúncia anônima, desacompanhada de outros elementos preliminares indicativos de crime, não legitimando o ingresso de policiais no domicílio do réu, estando, ausente, assim, a justa causa.
+  > 6. Por certo, os policiais militares, conscientemente, optaram pela diligência exploratória, sem a necessária ciência prévia da efetiva ocorrência de crime permanente, contaminando assim toda a sua atuação posterior.
+  > 7. Assim, ainda que se trate de crime permanente, necessária é a existência de fundamentos razoáveis anteriores à busca para justificar o ingresso na residência do agente sem autorização judicial, o que não se verificou na espécie. Não houve, in casu, condição alguma prévia que demonstrasse que o apelante estivesse praticando algum crime no interior da sua residência, motivada a incursão policial por meio de meras “informações” anônimas.
+  > 8. Nesse contexto, constatada a ilegalidade do ingresso dos policiais na residência do réu sem prévia autorização judicial, devem ser declaradas ilícitas as provas colhidas.
+  > 9. Diante desse cenário, é impositiva a absolvição do apelante, com fulcro no artigo 386, II, do Código de Processo Penal. Prejudicados os demais pleitos defensivos.
+  > IV. DISPOSITIVO.
+  > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
+  > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 257. HC nº 902195 / RS (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 13/08/2024.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Quebra da cadeia de custódia · Prova digital · Pronúncia
-- Resumo: A cadeia de custódia vale também para fatos anteriores ao Pacote Anticrime, porque decorre do conceito de corpo de delito (art. 158 do CPP). A perícia não conseguiu acessar o celular da vítima, e a defesa não pode verificar a integridade nem o contexto das mensagens extraídas dele: essas provas são inadmissíveis e devem ser desentranhadas (art. 157 do CPP). A tese de ilicitude, mesmo levantada só na fase do art. 422, deve ser conhecida. Determinada nova decisão de pronúncia; preventiva mantida. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-902195.pdf
-
-## 258. AgRg no HC nº 828054 / RN (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/04/2024.
-- Crime / Tema: Tráfico de drogas · Quebra da cadeia de custódia · Prova digital
-- Resumo: Extração de dados de celular sem metodologia que garanta a integridade (hash, software certificado; só prints de tela): a quebra da cadeia de custódia torna a prova digital inadmissível, e o ônus é do Estado. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-828054.pdf
-- Pedido de extensão: https://ladirf.github.io/acervo/pdfs/ext-hc-828054.pdf
+## 258. REsp nº 1953602 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
+- Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
+- Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1953602.pdf
 - Ementa oficial:
-  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE CELULAR. EXTRAÇÃO DE DADOS. CAPTURA DE TELAS. QUEBRA DA CADEIA DE CUSTÓDIA. INADMISSIBILIDADE DA PROVA DIGITAL. AGRAVO REGIMENTAL PROVIDO.
-  > 1. O instituto da cadeia de custódia visa a garantir que o tratamento dos elementos probatórios, desde sua arrecadação até a análise pela autoridade judicial, seja idôneo e livre de qualquer interferência que possa macular a confiabilidade da prova.
-  > 2. Diante da volatilidade dos dados telemáticos e da maior suscetibilidade a alterações, imprescindível se faz a adoção de mecanismos que assegurem a preservação integral dos vestígios probatórios, de forma que seja possível a constatação de eventuais alterações, intencionais ou não, dos elementos inicialmente coletados, demonstrando-se a higidez do caminho percorrido pelo material.
-  > 3. A auditabilidade, a repetibilidade, a reprodutibilidade e a justificabilidade são quatro aspectos essenciais das evidências digitais, os quais buscam ser garantidos pela utilização de metodologias e procedimentos certificados, como, e.g., os recomendados pela ABNT.
-  > 4. A observação do princípio da mesmidade visa a assegurar a confiabilidade da prova, a fim de que seja possível se verificar a correspondência entre aquilo que foi colhido e o que resultou de todo o processo de extração da prova de seu substrato digital. Uma forma de se garantir a mesmidade dos elementos digitais é a utilização da técnica de algoritmo hash, a qual deve vir acompanhada da utilização de um software confiável, auditável e amplamente certificado, que possibilite o acesso, a interpretação e a extração dos dados do arquivo digital.
-  > 5. De relevo trazer à baila o entendimento majoritário desta Quinta Turma no sentido de que “é ônus do Estado comprovar a integridade e confiabilidade das fontes de prova por ele apresentadas. É incabível, aqui, simplesmente presumir a veracidade das alegações estatais, quando descumpridos os procedimentos referentes à cadeia de custódia" (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, DJe de 2/3/2023).
-  > 6. Neste caso, não houve a adoção de procedimentos que assegurassem a idoneidade e a integridade dos elementos obtidos pela extração dos dados do celular apreendido. Logo, evidentes o prejuízo causado pela quebra da cadeia de custódia e a imprestabilidade da prova digital.
-  > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
-  > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
+  > RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PROCESSUAL PENAL. RECONHECIMENTO DE PESSOA (FOTOGRÁFICO E/OU PRESENCIAL). OBSERVÂNCIA DOS PRECEITOS DO ART. 226 DO CÓDIGO DE PROCESSO PENAL: OBRIGATORIEDADE. CONSEQUÊNCIAS DO RECONHECIMENTO FALHO OU VICIADO: (1) IRREPETIBILIDADE. (2) IMPOSSIBILIDADE DE UTILIZAÇÃO, POR SI SÓ, COMO INDÍCIO MÍNIMO DE AUTORIA NECESSÁRIO PARA DECRETAÇÃO DE PRISÃO CAUTELAR, RECEBIMENTO DE DENÚNCIA OU PRONÚNCIA. (3) INADMISSIBILIDADE COMO PROVA DE AUTORIA. POSSIBILIDADE, ENTRETANTO, DE FORMAÇÃO DO CONVENCIMENTO DO MAGISTRADO COM BASE EM PROVAS AUTÔNOMAS. CASO CONCRETO: ROUBO QUALIFICADO DE AGÊNCIA DOS CORREIOS. RECONHECIMENTO PESSOAL VICIADO. CONDENAÇÃO QUE NÃO SE AMPARA EM OUTRAS PROVAS. RECURSO ESPECIAL DA DEFESA PROVIDO.
+  > 1. Recurso representativo de controvérsia, para atender ao disposto no art. 1.036 e seguintes do CPC/2015.
+  > 2. Delimitação da controvérsia: “Definir o alcance da determinação contida no art. 226 do Código de Processo Penal e se a inobservância do quanto nele estatuído configura nulidade do ato processual”.
+  > 3. TESE: 3.1 – As regras postas no art. 226 do CPP são de observância obrigatória tanto em sede inquisitorial quanto em juízo, sob pena de invalidade da prova destinada a demonstrar a autoria delitiva, em alinhamento com as normas do Conselho Nacional de Justiça sobre o tema. O reconhecimento fotográfico e/ou pessoal inválido não poderá servir de lastro nem a condenação nem a decisões que exijam menor rigor quanto ao standard probatório, tais como a decretação de prisão preventiva, o recebimento de denúncia ou a pronúncia. 3.2 – Deverão ser alinhadas pessoas semelhantes ao lado do suspeito para a realização do reconhecimento pessoal. Ainda que a regra do inciso II do art. 226 do CPP admita a mitigação da semelhança entre os suspeitos alinhados quando, justificadamente, não puderem ser encontradas pessoas com o mesmo fenótipo, eventual discrepância acentuada entre as pessoas comparadas poderá esvaziar a confiabilidade probatória do reconhecimento feito nessas condições. 3.3 – O reconhecimento de pessoas é prova irrepetível, na medida em que um reconhecimento inicialmente falho ou viciado tem o potencial de contaminar a memória do reconhecedor, esvaziando de certeza o procedimento realizado posteriormente com o intuito de demonstrar a autoria delitiva, ainda que o novo procedimento atenda os ditames do art. 226 do CPP. 3.4 – Poderá o magistrado se convencer da autoria delitiva a partir do exame de provas ou evidências independentes que não guardem relação de causa e efeito com o ato viciado de reconhecimento. 3.5 – Mesmo o reconhecimento pessoal válido deve guardar congruência com as demais provas existentes nos autos. 3.6 – Desnecessário realizar o procedimento formal de reconhecimento de pessoas, previsto no art. 226 do CPP, quando não se tratar de apontamento de indivíduo desconhecido com base na memória visual de suas características físicas percebidas no momento do crime, mas, sim, de mera identificação de pessoa que o depoente já conhecia anteriormente.
+  > 4. Sobre o tema, a jurisprudência desta Corte vinha entendendo que “as disposições contidas no art. 226 do Código de Processo Penal configuram uma recomendação legal, e não uma exigência absoluta, não se cuidando, portanto, de nulidade quando praticado o ato processual (reconhecimento pessoal) de forma diversa da prevista em lei” (AgRg no AREsp n. 1.054.280/PE, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe de 13/6/2017).
+  > 5. Em guinada jurisprudencial recente, no entanto, a Sexta Turma desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 598.886 /SC, realizado em 27/10/2020, endossando o voto do Relator, Min. Rogerio Schietti Cruz, propôs nova interpretação do art. 226 do CPP, para estabelecer que “1.1) O reconhecimento de pessoas deve observar o procedimento previsto no art. 226 do Código de Processo Penal, cujas formalidades constituem garantia mínima para quem se encontra na condição de suspeito da prática de um crime; 1.2) À vista dos efeitos e dos riscos de um reconhecimento falho, a inobservância do procedimento descrito na referida norma processual torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o reconhecimento em juízo; 1.3) Pode o magistrado realizar, em juízo, o ato de reconhecimento formal, desde que observado o devido procedimento probatório, bem como pode ele se convencer da autoria delitiva com base no exame de outras provas que não guardem relação de causa e efeito com o ato viciado de reconhecimento”. O entendimento foi acompanhado pela Quinta Turma desta Corte, no julgamento do Habeas Corpus n. 652.284/SC (de minha relatoria, Quinta Turma, julgado em 27/4/2021, DJe de 3/5/2021).
+  > 6. A nova proposta partiu da premissa de que o reconhecimento efetuado pela vítima, em sede inquisitorial, não constitui evidência segura da autoria do delito, dada a falibilidade da memória humana, que se sujeita aos efeitos tanto do esquecimento quanto de emoções e de sugestões vindas de outras pessoas que podem gerar “falsas memórias” (fenômeno esse documentado em estudos acadêmicos respeitáveis), além da influência decorrente de outros fatores, como, por exemplo, o tempo em que a vítima esteve exposta ao delito e ao agressor (tempo de duração do evento criminoso); o trauma gerado pela gravidade do fato; o tempo decorrido entre o contato com o autor do delito e a realização do reconhecimento; as condições ambientais (tais como visibilidade do local no momento dos fatos); estereótipos culturais (como cor, classe social, sexo, etnia etc.).
+  > 7. Posteriormente, ao julgar o HC n. 712.781/RJ (relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/3/2022), a Sexta Turma avançou ainda mais, para consignar que o reconhecimento produzido em desacordo com o disposto no art. 226 do CPP deve ser considerado prova inválida e não pode lastrear outras decisões, ainda que de menor rigor quanto ao standard probatório exigido, tais como a decretação de prisão preventiva, o recebimento de denúncia e a pronúncia, entendimento esse que encontra eco em julgado da 2ª Turma do Supremo Tribunal Federal no RHC n. 206.846/SP (relator Min. Gilmar Mendes, julgado em 22/02/2022; DJe de 25/05/2022). Em harmonia com essa ratio decidendi, a Quinta Turma desta Corte já se pronunciou no sentido de que “A certeza da vítima no reconhecimento e a firmeza de seu testemunho não constituem provas independentes suficientes para justificar a pronúncia, já que apenas o reconhecimento viciado é que vincula o réu aos fatos descritos na denúncia” (AgRg no AREsp n. 2.721.123/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/11/2024, DJEN de 3/12/2024).
+  > 8. Na mesma assentada, o voto condutor do HC n. 712.781/RJ defendeu que o reconhecimento de pessoas é prova “cognitivamente irrepetível”, diante do potencial que o ato inicial falho tem de contaminar todos os subsequentes, mesmo que os posteriores observem as balizas do art. 226 do CPP. Com efeito, estudos mostram que, após um reconhecimento, a testemunha pode incorporar a imagem do suspeito em sua memória como sendo a do autor – mesmo que estivesse incerta antes –, fenômeno conhecido como “efeito do reforço da confiança”. Assim, se a primeira identificação foi errônea ou conduzida de forma inadequada, todas as subsequentes estarão comprometidas. De consequência, é de se reconhecer que eventual “ratificação” posterior de reconhecimento (fotográfico ou pessoal) falho não convalida os vícios pretéritos. Precedentes da Quinta Turma no mesmo sentido: AgRg no HC n. 822.696/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/9/2023, DJe de 22/9/2023; AgRg no HC n. 819.550/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024.
+  > 9. CASO CONCRETO: Situação em que o recorrente foi condenado pelo crime previsto no art. 157, § 2º, I e II, do Código Penal, na redação anterior à Lei 13.654/2018, à pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, no regime inicial fechado, além de 14 (quatorze) dias-multa. É de se reconhecer a invalidade do reconhecimento pessoal do réu efetuado por duas das testemunhas do delito, se, durante a realização do procedimento, em sede inquisitorial, dentre as quatro pessoas alinhadas, o réu era cerca de 15 cm mais alto que as demais, sem que tivesse sido apresentada qualquer justificativa para o não alinhamento de pessoas de alturas semelhantes. Ademais, esvazia de certeza o reconhecimento pessoal efetuado pelas testemunhas, dias após a prisão em flagrante do recorrente por um roubo subsequente ocorrido na mesma agência dos Correios, o fato de que, em um primeiro momento, ambas as testemunhas afirmaram, em sede inquisitorial, que, durante o evento delitivo que não durou mais que 10 (dez) minutos, os dois perpetradores do delito usavam boné que encobria parte de seu rosto, mantinham a cabeça abaixada o tempo todo e ordenavam que as pessoas presentes no local não olhassem para eles. Mesmo tendo uma das testemunhas afirmado, em juízo, ter sido possível identificar, posteriormente, o recorrente com base em consulta às imagens de câmera da agência assaltada, tais imagens não chegaram a ser juntadas aos autos, e enfraquece o grau de certeza da identificação o fato de que a outra testemunha também teve acesso às mesmas imagens, antes de ser ouvida pela primeira vez na delegacia e, naquela ocasião, asseverou não ter condições de reconhecer os autores do roubo, lançando dúvida sobre a nitidez das imagens consultadas.
+  > 10. Não existindo outras provas além do depoimento das duas vítimas e do reconhecimento pessoal viciado, é de se reconhecer a fragilidade dos elementos probatórios que levaram à condenação do réu, sendo de rigor sua absolvição.
+  > 11. Recurso especial provido, para absolver o réu.
+  > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 259. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
-- Decisão colegiada. Relator: Des. Leme Garcia. 16ª Câmara de Direito Criminal. Publicado em 16/04/2024.
-- Crime / Tema: Tráfico de drogas
-- Resumo: Nenhuma droga foi encontrada com o réu nem houve venda presenciada; as drogas foram apreendidas em via pública e uma testemunha presencial confirmou a versão dele. Na dúvida sobre a autoria, mantida a absolvição (in dubio pro reo).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1500766-76-2020.pdf
+## 259. AgRg no REsp nº 2132630 / RS (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/06/2025.
+- Crime / Tema: Infanticídio · Tribunal do Júri
+- Resumo: Desclassificação para infanticídio tentado mantida: a prova indicava que a mãe agiu sob a influência do estado puerperal (parto sozinha no banheiro de um ônibus, gravidez oculta, sem pré-natal), e rever isso esbarra na Súmula 7. O in dubio pro societate não tem amparo legal. A decisão monocrática anterior transcreve o TJRS: o estado puerperal é perturbação sutil e transitória, e laudo feito meses depois não o afasta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2132630.pdf
+- Decisão monocrática: https://ladirf.github.io/acervo/pdfs/mono-resp-2132630.pdf
 - Ementa oficial:
-  > APELAÇÃO. Tráfico de drogas. Recurso ministerial. Apelado que foi absolvido pelo d. juízo a quo. Pleito de condenação do acusado nos termos exatos propostos na inicial acusatória. Inviabilidade. Nenhuma droga foi encontrada diretamente em poder do acusado, bem como nenhum ato de comercialização foi presenciado pelos policiais militares, de tal modo que não há elementos seguros que indiquem o seu envolvimento na prática da traficância. Substâncias ilícitas apreendidas em via pública. Testemunha presencial que confirmou a versão apresentada pelo acusado. Existência de dúvidas sobre a autoria do delito. Aplicação do princípio do in dubio pro reo. Sentença de primeiro grau mantida. Negado provimento ao recurso.
-  > (TJSP, Apelação Criminal n. 1500766-76.2020.8.26.0228, relator Desembargador Leme Garcia, 16ª Câmara de Direito Criminal, julgado em 9/4/2024, publicado em 16/4/2024.)
+  > DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCLASSIFICAÇÃO DE HOMICÍDIO QUALIFICADO TENTADO PARA INFANTICÍDIO TENTADO. IMPOSSIBILIDADE DE REEXAME FÁTICO-. PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+  > 1. O Tribunal a quo desclassificou a conduta da recorrida para infanticídio tentado por entender que a prova dos autos não permitia suficientemente reconhecer hipótese de homicídio qualificado tentado, havendo, no entendo, clara indicação de que a conduta imputada ocorreu sob a influência do estado puerperal. Assim, a revisão do entendimento firmado na origem demanda reexame de fatos e provas, providência que esbarra no óbice da Súmula 7 do STJ.
+  > 2. Esta Corte Superior de Justiça já se manifestou no sentido de que o "princípio in dubio pro societate não encontra amparo constitucional ou legal no sistema processual penal brasileiro, sendo incompatível com o ônus probatório que recai exclusivamente sobre a acusação e com o papel contramajoritário do Poder Judiciário na proteção de direitos fundamentais" (AgRg no AREsp n. 2.566.173/AM, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+  > 3. Agravo regimental desprovido.
+  > (AgRg no REsp n. 2.132.630/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
 
-## 260. RvCr nº 0063421-56.2023.8.19.0000 (TJRJ)
-- Decisão colegiada. Relator: Des. Alcides da Fonseca Neto. 3º Grupo de Câmaras Criminais. Publicado em 08/03/2024.
-- Crime / Tema: Roubo · Reconhecimento de pessoa · Revisão criminal
-- Resumo: Revisão deferida porque a condenação por roubo se apoiou só em reconhecimento fotográfico que não atendeu a nenhuma formalidade do art. 226 do CPP (prova isolada, nula). Rescindido o acórdão e réu absolvido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rvcr-0063421-56-2023.pdf
-- Ementa oficial:
-  > REVISÃO CRIMINAL. ROUBO. CONCURSO FORMAL DE DELITOS. CONDENÇÃO. PRONUNCIAMENTO MANTIDO POR UNANIMIDADE, PELA COLENDA 2ª CÂMARA CRIMINAL. INSURGÊNCIA DEFENSIVA BUSCA A DESCONSTITUIÇÃO DA CONDENAÇÃO, COM FULCRO NO ARTIGO 621, I, DO CÓDIGO DE PROCESSO PENAL, PARA ABSOLVER O REQUERENTE DO CRIME DE ROUBO, AO ARGUMENTO DE QUE HOUVE RECONHECIMENTO EXCLUSIVAMENTE FOTOGRÁFICO E EM DESCOMPASSO COM O DETERMINADO NO ARTIGO 226, DO CÓDIGO DE PROCESSO PENAL. PROCEDÊNCIA DO PEDIDO. PROVA SOLTEIRA NOS AUTOS. AUTORIA DELITIVA ANCORADA, EXCLUSIVAMENTE, EM RECONHECIMENTO DO ACUSADO QUE EM NADA ATENDEU ÀS FORMALIDADES LEGAIS, DE MODO QUE DEVE SER CONSIDERADO NULO. HIPÓTESE DOS AUTOS QUE AUTORIZA A EXCEPCIONAL DESCONSTITUIÇÃO DO ACÓRDÃO RESCINDENDO. PRECEDENTES DO STJ. CONHECIMENTO E PROVIMENTO DO PEDIDO REVISIONAL.
-  > (TJRJ, Revisão Criminal n. 0063421-56.2023.8.19.0000, relator Desembargador Alcides da Fonseca Neto, 3º Grupo de Câmaras Criminais, julgado em 8/3/2024, publicado em 8/3/2024.)
+## 260. RHC nº 213637 / BA (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
+- Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
+- Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf

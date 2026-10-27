@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto para ferramentas de IA)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 302 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 317 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -24,7 +24,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 **Índice** (todas as decisões com tipo de decisão, data, relator, crime / tema e resumo, divididas por tribunal; numeração única). Leia **todos** os arquivos abaixo para a triagem:
 - Índice STJ e STF (1 de 3) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf.md
 - Índice STJ e STF (2 de 3) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md
-- Índice STJ e STF (3 de 3) (85 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md
+- Índice STJ e STF (3 de 3) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md
 - Índice TRFs e tribunais estaduais (17 decisões): https://ladirf.github.io/acervo/acervo-indice-tribunais.md
 
 **Partes** (ementas oficiais, referências e links de PDF; 10 decisões cada, na mesma numeração do índice):
@@ -58,6 +58,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Parte 28: decisões 271 a 280 — https://ladirf.github.io/acervo/acervo-parte-28.md
 - Parte 29: decisões 281 a 290 — https://ladirf.github.io/acervo/acervo-parte-29.md
 - Parte 30: decisões 291 a 300 — https://ladirf.github.io/acervo/acervo-parte-30.md
-- Parte 31: decisões 301 a 302 — https://ladirf.github.io/acervo/acervo-parte-31.md
+- Parte 31: decisões 301 a 310 — https://ladirf.github.io/acervo/acervo-parte-31.md
+- Parte 32: decisões 311 a 317 — https://ladirf.github.io/acervo/acervo-parte-32.md
 
 Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md

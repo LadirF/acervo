@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 19 de 31 (decisões 181 a 190)
+# Acervo de Jurisprudência — Cury Advogados — parte 19 de 32 (decisões 181 a 190)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 302 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 317 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,99 +8,114 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 181. HC nº 1095439 / SP (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: são necessários elementos concretos de dedicação a atividades criminosas ou de integração a organização criminosa. A quantidade expressiva (86,6 kg de cocaína) só modula a fração, aplicada no mínimo (1/6). Pena reduzida para 5 anos, 2 meses e 15 dias, em regime semiaberto. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1095439.pdf
-
-## 182. HC nº 1104105 / SP (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
-- Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
-- Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
-
-## 183. RHC nº 243155 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
-- Crime / Tema: Furto · Execução penal
-- Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
-
-## 184. HC nº 276.144 / MS (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
-- Crime / Tema: Corrupção passiva · Dosimetria
-- Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
-
-## 185. AgRg no HC nº 1089462 / MG (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
-- Crime / Tema: Embriaguez ao volante · Excesso de prazo
-- Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089462.pdf
+## 181. RE nº 1.608.434 / ES (STF)
+- Decisão colegiada (repercussão geral). Relator: Min. Dias Toffoli. Plenário. Publicado em 15/09/2026.
+- Crime / Tema: Quebra de sigilo · Repercussão geral
+- Resumo: Tema 1.474/STF (repercussão geral reconhecida, mérito pendente). Discute se ordem judicial pode quebrar o sigilo telemático (conteúdo de e-mail e nuvem) para subsidiar fiscalização tributária, fora da investigação criminal (art. 5º, XII, da CF).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1608434.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXCESSO DE PRAZO. TRANCAMENTO DE INQUÉRITO POLICIAL. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público Estadual contra decisão monocrática que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para determinar o trancamento de inquérito policial, sem prejuízo de reabertura com surgimento de novas provas.
-  > 2. Trata-se de um único investigado por suposta embriaguez ao volante ocorrida em abril de 2022. Inquérito policial em curso há mais de três anos, sem justificativa plausível para a mora e sem complexidade aparente, com investigado em liberdade. Alegação ministerial de diligências pendentes e de impropriedade do prazo para conclusão do inquérito quando o investigado não está preso.
-  > 3. O Tribunal de origem denegou a ordem no habeas corpus originário. A decisão agravada reconheceu constrangimento ilegal por excesso de prazo e determinou o trancamento do inquérito policial.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se o excesso de prazo na conclusão de inquérito policial, sem justificativa plausível e sem complexidade, caracteriza constrangimento ilegal apto a ensejar o trancamento, ainda que o investigado esteja solto; e (ii) saber se o agravo regimental trouxe argumentos suficientes para infirmar a decisão que concedeu a ordem de ofício.
-  > III. Razões de decidir
-  > 5. A demora superior a três anos, sem justificativa plausível e em feito sem complexidade, viola o direito fundamental à duração razoável do processo (CF/1988, art. 5º, LXXVIII) e configura constrangimento ilegal, autorizando o trancamento do inquérito policial.
-  > 6. O prazo para conclusão do inquérito é impróprio quando o investigado está solto, porém o excesso desarrazoado e injustificado não se legitima pela simples liberdade do investigado; diligências pendentes não afastam a necessidade de conclusão quando não demonstrada a complexidade ou a imprescindibilidade, sendo possível a concessão da ordem, de ofício, diante de flagrante coação ilegal (CPP, art. 654, § 2º).
-  > 7. O agravo regimental não apresentou argumentos capazes de infirmar a decisão agravada, impondo a manutenção do decisum pelos próprios fundamentos.
-  > IV. Dispositivo
-  > 8. Agravo regimental desprovido.
-  > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)
+  > Repercussão geral em recurso extraordinário. Direito constitucional e tributário. Fiscalização da Administração Tributária para cobrança de tributo. Quebra de sigilo telemático por ordem judicial. Obtenção de conteúdo armazenado em conta de e-mail ou nuvem vinculada. Presença de matéria constitucional e de repercussão geral.
+  > (STF, RE n. 1.608.434 RG/ES, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 24/8/2026, DJe de 15/9/2026.)
 
-## 186. HC nº 1124321 / PR (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
+## 182. RE nº 1.566.844 / MG (STF)
+- Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 14/09/2026.
+- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal · Dosimetria
+- Resumo: Condenação anterior pelo art. 28 da Lei de Drogas não gera reincidência: depois do Tema 506/STF, essas sanções não têm repercussão criminal. RE da defesa provido para refazer a pena.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1566844.pdf
 
-## 187. RHC nº 243213 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
-- Crime / Tema: Tráfico de drogas · Quebra de sigilo
-- Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
-
-## 188. EDcl no AREsp nº 3028845 / PR (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/08/2026.
-- Crime / Tema: Acesso da defesa às provas
-- Resumo: Juntada tardia e incompleta das gravações ambientais sob custódia do Estado causa prejuízo concreto: a defesa perdeu oportunidades na resposta à acusação, na inquirição de testemunhas e na contraprova, e reabrir prazo só para complementar as alegações finais não recompõe essas fases. Mantida a nulidade a partir da resposta à acusação; embargos do MP rejeitados.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3028845.pdf
+## 183. AgRg no AREsp nº 3141827 / DF (STJ)
+- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
+- Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3141827.pdf
+- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-aresp-3141827.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. DIREITO DE ACESSO A PROVA MANTIDA SOB CUSTÓDIA ESTATAL. JUNTADA TARDIA DE GRAVAÇÕES AMBIENTAIS. CONTRADITÓRIO SUBSTANCIAL. AUSÊNCIA DE VÍCIOS DO ART. 619 DO CPP. EMBARGOS REJEITADOS.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRIBUNAL DO JÚRI. SISTEMA ACUSATÓRIO. ATUAÇÃO ATIVA DO JUIZ PRESIDENTE EM SESSÃO PLENÁRIA. PRODUÇÃO PROBATÓRIA. IMPARCIALIDADE COMPROMETIDA. NULIDADE. AGRAVO REGIMENTAL PROVIDO.
   > I. Caso em exame
-  > 1. Embargos de declaração opostos pelo embargante contra acórdão que, em agravo em recurso especial, conheceu o agravo e deu parcial provimento ao recurso especial para declarar a nulidade dos atos praticados a partir da resposta à acusação, diante do acesso não integral e tardio pela defesa às gravações ambientais mantidas sob custódia estatal, com determinação de retorno dos autos à origem para assegurar acesso integral ao acervo e renovação dos atos instrutórios afetados.
-  > 2. Fato relevante. O embargante sustenta omissão do acórdão por ausência de demonstração concreta de prejuízo, afirma acesso integral antes da sentença com reabertura de prazo para complementação das alegações finais e aduz que as mídias não fundamentaram diretamente a condenação e convergiriam com a narrativa acusatória.
+  > 1. O recurso. Agravo regimental interposto pela Defesa contra decisão monocrática que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+  > 2. Fato relevante. Alegada nulidade da Sessão Plenária do Tribunal do Júri por indevida interferência do Juiz Presidente na produção da prova, em violação ao sistema acusatório, com atuação ativa na condução das oitivas e no interrogatório do réu, manifestações subjetivas sobre fatos e pleitos defensivos, confrontação de testemunhas e sugestão de prova ao Ministério Público. Pedido de anulação do julgamento e submissão do Agravante a novo julgamento perante o Conselho de Sentença.
+  > 3. As decisões anteriores. Pronúncia e condenação pelo Conselho de Sentença; apelação parcialmente provida para reduzir a pena; recurso especial inadmitido na origem à luz da Súmula 7/STJ; agravo em recurso especial conhecido para conhecer parcialmente do especial e, nessa extensão, negar-lhe provimento.
   > II. Questão em discussão
-  > 3. A questão em discussão consiste em saber se: (i) houve omissão quanto à demonstração de prejuízo concreto exigido pelos arts. 563 e 566 do CPP; (ii) a reabertura do prazo para complementação das alegações finais neutraliza o prejuízo e convalida os atos praticados sem acesso integral e tempestivo às gravações; e (iii) a ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória afastam o interesse defensivo e a nulidade reconhecida.
+  > 4. A questão em discussão consiste em saber se a atuação do Juiz Presidente em Sessão Plenária, desbordando dos limites do sistema acusatório — com protagonismo probatório, juízos de valor e condução incisiva do interrogatório do réu — compromete a imparcialidade e a paridade de armas, ensejando nulidade dos atos e do julgamento do júri.
+  > 5. Há três questões em discussão: (i) saber se o óbice da Súmula 7/STJ impede o exame da nulidade quando se realiza revaloração jurídica de elementos incontroversos; (ii) saber se é necessária demonstração específica de prejuízo para reconhecimento da nulidade, à luz do julgamento pelo Conselho de Sentença; e (iii) saber se a nulidade está preclusa ou se pode ser reconhecida quando demonstrado o prejuízo.
   > III. Razões de decidir
-  > 4. Os embargos de declaração possuem fundamentação vinculada às hipóteses do art. 619 do CPP e não se prestam à rediscussão do mérito nem à obtenção de efeitos infringentes sem indicação de ambiguidade, obscuridade, contradição ou omissão.
-  > 5. O acórdão embargado enfrentou expressamente a necessidade de prejuízo concreto e o identificou na perda efetiva de oportunidades processuais já consumadas, decorrente do acesso não integral e tardio às gravações ambientais, com repercussões sobre a resposta à acusação, a orientação da inquirição de testemunhas, a formulação de requerimentos probatórios, a produção de contraprova, a avaliação de perícia e a definição da estratégia defensiva, em observância ao princípio do pas de nullité sans grief.
-  > 6. A reabertura de prazo para complementação das alegações finais não recompõe as oportunidades próprias das fases anteriores nem permite reproduzir atos instrutórios realizados sem conhecimento integral da fonte probatória, não sendo exigível da defesa a demonstração de cenários contrafactuais inviabilizados pelo acesso tardio.
-  > 7. O interesse defensivo alcança a integralidade da fonte probatória, independentemente de seleção acusatória ou de uso explícito na sentença, pois somente o acesso ao acervo completo possibilita o controle defensivo do contexto, continuidade e critérios de seleção das conversas.
-  > 8. A ausência de requerimentos defensivos de prorrogação de prazo, perícia ou renovação imediata de atos após a juntada tardia não convalida o vício, dado que a resposta à acusação e a instrução já estavam encerradas, e o prejuízo incidiu sobre a própria estruturação da atividade defensiva.
-  > 9. Os aclaratórios buscam rediscutir matéria decidida sem apontar vício integrativo, impondo-se sua rejeição.
+  > 6. A conclusão adotada decorre de revaloração jurídica de elementos constantes dos autos e incontroversos, não implicando reexame de prova, o que afasta a incidência da Súmula 7/STJ.
+  > 7. À luz do sistema acusatório (CPP, art. 3º) e do procedimento de inquirição (CPP, art. 212), a atuação do magistrado na instrução deve ser residual e complementar, preservando sua imparcialidade; no caso, a condução ativa das oitivas, a sugestão de provas ao Ministério Público, as manifestações subjetivas e o interrogatório incisivo do réu sob o escrutínio dos jurados desbordaram tais limites e comprometeram a imparcialidade e a paridade de armas.
+  > 8. A atuação ativa do Juiz Presidente na produção probatória em desconformidade com a legislação vigente viola o devido processo legal e acarreta a nulidade das provas produzidas em plenário e do julgamento perante o Conselho de Sentença.
+  > 9. No caso concreto, não é mensurável a influência da atuação judicial sobre a íntima convicção dos jurados; o prejuízo ressai da própria violação ao sistema acusatório.
+  > 10. Demonstrado o prejuízo, não incide preclusão sobre a nulidade verificada, sendo cabível a anulação do julgamento para preservar a soberania do júri e a imparcialidade do juízo natural.
   > IV. Dispositivo e tese
-  > 10. Resultado do Julgamento: Embargos de declaração rejeitados.
+  > 11. Resultado do Julgamento: Agravo regimental provido para anular o julgamento e determinar a submissão do Agravante a novo julgamento perante o Conselho de Sentença.
+  > (AgRg no AREsp n. 3.141.827/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/9/2026, DJEN de 14/9/2026.)
+
+## 184. AgRg no HC nº 1112658 / PR (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
+- Crime / Tema: Denunciação caluniosa · Perseguição · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
+- Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112658.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA QUE PERDUROU POR MAIS 197 DIAS. INCIDENTE DE INSANIDADE MENTAL. EXCESSO DE PRAZO NA REALIZAÇÃO DA PERÍCIA. AUSÊNCIA DE JUSTIFICATIVA. MORA ESTATAL. CONSTRANGIMENTO ILEGAL. SUPERAÇÃO DA SÚMULA 691/STF. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INTERNAÇÃO PROVISÓRIA E MEDIDAS ACESSORIAS. DEFERIMENTO LIMINAR. SUBMISSÃO AO COLEGIADO. AGRAVO REGIMENTAL PROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental contra decisão monocrática que indeferiu liminar em habeas corpus, por incidência da Súmula 691/STF, em favor de Paciente submetido à prisão preventiva, decretada em 17/01/2026, e cumprida em 19/01/2026, sob fundamento de garantia da ordem pública, em ação penal por condutas praticadas por meio da internet, sem violência física. A Custódia prolongou-se por mais de 197 dias.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se o excesso de prazo na realização da perícia do incidente de insanidade mental, com suspensão da ação penal e sem contribuição da Defesa, configura constrangimento ilegal apto a autorizar a revogação ou substituição da prisão preventiva por medidas cautelares diversas.
+  > 3. Também se analisa a possibilidade de superação da Súmula 691/STF em habeas corpus contra indeferimento de liminar, diante de flagrante ilegalidade, teratologia ou ausência de fundamentação adequada, com consequente imposição de internação provisória e de outras medidas cautelares (proibição de acesso à internet e de contato com vítimas), mesmo antes da conclusão de exame pericial, com fundamento nos arts. 319, VII, 282 e 3º do Código de Processo Penal.
+  > III. Razões de decidir
+  > 4. A prisão preventiva, medida excepcional, exige prova da materialidade e indícios suficientes de autoria, além de perigo concreto na liberdade (CPP, art. 312). No caso, a prolongada suspensão processual e a ausência de qualquer perspectiva para a perícia do incidente de insanidade, por mora estatal, evidenciam excesso de prazo não atribuível à Defesa, configurando constrangimento ilegal e impondo a substituição da custódia por medidas cautelares menos gravosas.
+  > 5. É possível superar a Súmula 691/STF quando caracterizada flagrante ilegalidade ou ausência de fundamentação idônea na decisão que indeferiu a liminar, especialmente ante excesso de prazo decorrente de deficiência estrutural do aparato pericial estatal, em atenção à razoável duração do processo e à presunção de inocência.
+  > 6. O Código de Processo Penal autoriza a substituição da prisão preventiva por medidas cautelares diversas (CPP, art. 319), e o poder geral de cautela aplicável ao processo penal (CPP, art. 3º c/c art. 282) permite medidas atípicas adequadas e necessárias, devidamente motivadas. A internação provisória do acusado (CPP, art. 319, VII) pode ser imposta antes da conclusão do exame pericial, à vista de elementos concretos indicativos de transtorno mental, cumulando-se com outras cautelares aptas a evitar reiteração delitiva e resguardar as vítimas.
+  > 7. As cautelares fixadas, quais sejam, internação provisória em clínica habilitada, proibição de acesso à internet e de contato com as vítimas, mostram-se adequadas, necessárias e proporcionais ao caso, preservando a ordem pública e as finalidades da prisão preventiva sem os efeitos deletérios da custódia, razão pela qual se confirma a liminar concedida.
+  > IV. Dispositivo
+  > 8. Resultado do Julgamento: Agravo regimental provido, com confirmação da decisão liminar para substituir a prisão preventiva por internação provisória e demais medidas cautelares diversas da prisão fixadas.
+  > (AgRg no HC n. 1.112.658/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/9/2026, DJEN de 11/9/2026.)
+
+## 185. HC nº 276.512 / PB (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 10/09/2026.
+- Crime / Tema: Estelionato · Dosimetria
+- Resumo: Culpabilidade e personalidade valoradas com juízo conjectural ('aparenta ser um mentiroso compulsivo') e com o próprio modo de execução não elevam a pena-base. Os documentos forjados como meio da fraude também não pesam nas circunstâncias, sob pena de bis in idem. Pena-base no mínimo, e o juízo de origem deve examinar a prescrição (bolsa da CAPES, art. 171, § 3º, do CP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276512.pdf
+
+## 186. HC nº 276.724 / RS (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 10/09/2026.
+- Crime / Tema: Cabimento do HC
+- Resumo: A unirrecorribilidade não se aplica ao habeas corpus: a interposição de recurso especial contra o mesmo acórdão não impede o conhecimento do HC. Ordem concedida para o STJ julgar o mérito do HC.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276724.pdf
+
+## 187. REsp nº 2176719 / MG (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
+- Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
+- Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
+
+## 188. RHC nº 245864 / RS (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 09/09/2026.
+- Crime / Tema: Colaboração premiada · Acesso da defesa às provas
+- Resumo: Acesso tardio à colaboração premiada de corréu, só depois da resposta à acusação: anulados, quanto ao recorrente, os atos a partir da resposta, com novo prazo para apresentá-la após o efetivo acesso aos elementos já documentados.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-245864.pdf
+
+## 189. RE nº 1.203.378 / RS (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 09/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Revista íntima manual em visitante de presídio, sem revista mecânica prévia nem fundada suspeita, viola a intimidade e a dignidade e torna a prova ilícita. Absolvição pelo TJRS mantida; RE do MP com seguimento negado (Tema 998 inaplicável).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1203378.pdf
+
+## 190. AgRg no REsp nº 2245002 / RS (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/09/2026.
+- Crime / Tema: Perseguição · Violência doméstica · Dosimetria
+- Resumo: A agravante do art. 61, II, 'f', do CP não incide na perseguição contra a mulher (art. 147-A, § 1º, II) nem na violência psicológica (art. 147-B): a violência contra a mulher já é elementar, e aplicá-la seria bis in idem. Distinção do Tema 1.197/STJ, que vale para a lesão do art. 129, § 9º. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245002.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO REGIMENTAL. INDEVIDA INCIDÊNCIA DA AGRAVANTE DO ART. 61, II, "F", DO CÓDIGO PENAL NOS CRIMES TIPIFICADOS NOS ARTS. 147-A, II, E 147-B, AMBOS DO CP. BIS IN IDEM CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão monocrática que, com fundamento na Súmula n. 568 do STJ, negou provimento ao recurso especial, mantendo a decisão que afastou a incidência da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher.
+  > 2. A decisão monocrática considerou que a aplicação da referida agravante nos crimes de perseguição contra mulher e violência psicológica contra a mulher configuraria bis in idem, uma vez que a violência contra a mulher já integra os elementos do tipo penal.
+  > II. Questão em discussão
+  > 3. A questão em discussão consiste em saber se a incidência concomitante da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição qualificada, contra mulher, e violência psicológica contra a mulher configura bis in idem, considerando que a violência contra a mulher já integra os elementos do tipo penal.
+  > III. Razões de decidir
+  > 4. A jurisprudência do STJ admite a incidência da agravante prevista no art. 61, II, "f", do Código Penal apenas nas hipóteses em que a violência contra a mulher não integra os elementos do tipo penal.
+  > 5. Nos crimes de perseguição contra mulher e violência psicológica contra a mulher, previstos nos arts. 147-A, § 1º, II, e 147-B do Código Penal, a violência contra a mulher já integra os elementos do tipo penal, sendo indevida a aplicação concomitante da agravante do art. 61, II, "f", do Código Penal, sob pena de indevido bis in idem e violação ao princípio da especialidade.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental desprovido.
   > Tese de julgamento:
-  > 1. Os embargos de declaração somente são cabíveis para sanar ambiguidade, obscuridade, contradição ou omissão, não se prestando à rediscussão do mérito nem à obtenção de efeitos infringentes sem vício integrativo.
-  > 2. A demonstração de prejuízo concreto pode decorrer da perda de oportunidades processuais essenciais causada pelo acesso não integral e tardio à prova sob custódia estatal, afetando contraditório substancial e ampla defesa.
-  > 3. A reabertura de prazo para alegações finais não neutraliza prejuízos relativos a fases anteriores do processo nem recompõe oportunidades defensivas já esgotadas.
-  > 4. A ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória não afastam o direito de acesso integral e o controle defensivo sobre a íntegra da fonte probatória.
-  > (EDcl no AREsp n. 3.028.845/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2026, DJEN de 25/8/2026.)
-
-## 189. HC nº 1123362 / RJ (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/08/2026.
-- Crime / Tema: Vias de fato · Ameaça · Violência doméstica · Dosimetria
-- Resumo: O aumento pela agravante do art. 61, II, 'f', do CP sem motivação deve ficar na fração usual de 1/6. Penas reduzidas: ameaça para 1 mês e 5 dias e vias de fato de 25 para 17 dias de prisão simples.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123362.pdf
-
-## 190. HC nº 1114613 / MG (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/08/2026.
-- Crime / Tema: Vias de fato · Violência doméstica · Confissão espontânea
-- Resumo: Quem admite a conduta das vias de fato (art. 21, § 2º, da LCP) tem direito à atenuante da confissão, compensada com a reincidência, como o próprio TJ fez quanto à lesão corporal no mesmo julgado. Pena redimensionada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114613.pdf
+  > 1. Não incide a agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher, pois, sob o princípio da especialidade, a violência contra a mulher já integra os elementos do tipo penal, esta incidência configura indevido bis in idem.
+  > (AgRg no REsp n. 2.245.002/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2026, DJEN de 9/9/2026.)
