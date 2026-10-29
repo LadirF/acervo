@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 7 de 32 (decisões 61 a 70)
+# Acervo de Jurisprudência — Cury Advogados — parte 7 de 33 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 317 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 327 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,37 +8,55 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. HC nº 942619 / GO (STJ)
+## 61. HC nº 1109888 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Resumo: Para o desaforamento basta dúvida fundada sobre a imparcialidade do Júri (art. 427 do CPP): cidade de 20 mil habitantes, grande repercussão e o poder público local tomando partido, com parecer favorável da Procuradoria de Justiça. Júri anulado e desaforado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109888.pdf
+
+## 62. HC nº 1114459 / PR (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Violência doméstica · Justa causa
+- Resumo: Lesão corporal culposa (art. 129, § 6º, do CP) exige a demonstração da violação do dever objetivo de cuidado e da previsibilidade; a dinâmica descrita era a de um acidente com o veículo. Réu absolvido por atipicidade (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114459.pdf
+
+## 63. HC nº 1112935 / ES (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Lavagem de dinheiro
+- Resumo: Sem atos de ocultação ou dissimulação da origem ilícita dos valores, a conduta descrita não é lavagem de dinheiro (art. 1º da Lei 9.613/1998). Ação penal trancada quanto à paciente por atipicidade.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112935.pdf
+
+## 64. HC nº 942619 / GO (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · ANPP
 - Resumo: Negar o ANPP por falta de confissão no inquérito é inválido: a confissão pode ser formalizada na assinatura do acordo (Tema 1.303/STJ). Autos devolvidos para o MP examinar a proposta, com recusa fundamentada se for o caso.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-942619.pdf
 
-## 62. AREsp nº 3274597 / TO (STJ)
+## 65. AREsp nº 3274597 / TO (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Ameaça · Violência doméstica · Testemunho indireto
 - Resumo: A declaração da vítima só na delegacia e o testemunho de quem apenas a repete em juízo vêm da mesma fonte e não se corroboram (art. 155 do CPP). Sem prova judicial autônoma, réu absolvido da ameaça (art. 386, VII).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3274597.pdf
 
-## 63. HC nº 1137700 / SP (STJ)
+## 66. HC nº 1137700 / SP (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · Busca e apreensão
 - Resumo: Mandado de busca deferido apenas 'considerando os documentos' e o parecer do MP, sem fundamentação própria, é nulo; não se trata nem de fundamentação per relationem. A droga achada depois não convalida a busca. Provas ilícitas, preventiva revogada e justa causa a reexaminar na origem.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1137700.pdf
 
-## 64. HC nº 1115285 / SP (STJ)
+## 67. HC nº 1115285 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Prova digital · Busca e apreensão
 - Resumo: Celulares apreendidos durante o cumprimento de mandado de prisão contra outra pessoa, sem mandado de busca, flagrante ou consentimento, são prova ilícita; a autorização posterior para extrair os dados não corrige a apreensão. O juízo delimita as provas derivadas e reavalia a preventiva.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115285.pdf
 
-## 65. HC nº 1111126 / RS (STJ)
+## 68. HC nº 1111126 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
 - Resumo: Preso preventivamente desde 2021 e pronunciado em 2023, sem previsão de Júri: o excesso de prazo na formação da culpa torna a prisão ilegal. Preventiva relaxada, com cautelares do art. 319 do CPP.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111126.pdf
 
-## 66. AgRg no RHC nº 210983 / DF (STJ)
+## 69. AgRg no RHC nº 210983 / DF (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes; redator do acórdão: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Organização criminosa · Acesso da defesa às provas
 - Resumo: A defesa tem direito de acessar todo o procedimento investigatório do MP já documentado, mesmo antes de a investigação terminar (Súmula Vinculante 14). Só as diligências em curso podem ser restringidas, e o risco de 'frustrar o trabalho' não justifica negar o acesso.
@@ -51,7 +69,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental provido para dar provimento ao recurso em habeas corpus, a fim de determinar que o Juízo de Direito da 1ª Vara Criminal de Brasília/DF permita o acesso da defesa do recorrente às diligências já documentadas no Procedimento n. 0721056-73.2023.8.07.0001.
   > (AgRg no RHC n. 210.983/DF, relator Ministro Og Fernandes, relator para acórdão Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 16/10/2026.)
 
-## 67. AgRg no RHC nº 238817 / MG (STJ)
+## 70. AgRg no RHC nº 238817 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Prisão e medidas cautelares
 - Resumo: Notícia de disparos, fama de envolvimento em brigas, nervosismo e fuga na área externa não são fundadas razões para entrar na casa (Tema 280/STF). Consentimento e confissão informal apoiados só no relato policial não provam a legalidade da entrada: o ônus é do Estado. Provas ilícitas e preventiva revogada; agravo do MP desprovido.
@@ -71,35 +89,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. DISPOSITIVO
   > 8. Agravo regimental desprovido.
   > (AgRg no RHC n. 238.817/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
-
-## 68. AgRg no REsp nº 2052674 / MG (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Inserção de dados falsos em sistema de informações
-- Resumo: Absolvição pelo art. 313-A do CP mantida: o TJ reconheceu a falta de dolo específico e a fragilidade da prova, e rever isso exige reexame de provas (Súmula 7). Perda da função pública não prequestionada; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2052674.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES. ATIPICIDADE DA CONDUTA. AUSÊNCIA DE DOLO. SÚMULA N. 7/STJ. PERDA DA FUNÇÃO PÚBLICA. SÚMULA N. 211/STJ. IMPOSSIBILIDADE DO PREQUESTIONAMENTO FICTO, NO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão que conheceu em parte de recurso especial e, no mérito, negou-lhe provimento, mantendo a absolvição de um dos recorridos quanto à imputação do delito do art. 313-A do Código Penal e não acolhendo a pretensão de decretação da perda da função pública do agente condenado.
-  > II. Questão em discussão
-  > 2. A controvérsia consiste em saber se (i) a condenação do recorrido Diogo pela prática do crime de inserção de dados falsos em sistema de informações é viável, considerando a ausência de comprovação do dolo específico e a fragilidade do conjunto probatório reconhecidas no acórdão proferido pelo Tribunal local; e se (ii) é possível a aplicação da perda da função pública ao(s) condenado(s).
-  > III. Razões de decidir
-  > 3. A Corte de origem reconheceu a atipicidade da conduta imputada ao recorrido, em razão da ausência de comprovação do dolo específico e da fragilidade do conjunto probatório, aplicando o princípio do in dubio pro reo.
-  > 4. A pretensão ministerial de condenação do recorrido pelo crime de inserção de dados falsos em sistema de informações demanda revolvimento fático-probatório, providência vedada no âmbito do recurso especial, conforme a Súmula n. 7/STJ.
-  > 5. O pleito de decretação da perda da função pública conforme o art. 92, inciso I, do Código Penal, não foi especificamente tratado pelo Tribunal a quo, mesmo com a oposição de aclaratórios, o que impede o exame do mérito da tese suscitada no recurso especial, por ausência de prequestionamento, conforme a orientação da Súmula n. 211/STJ.
-  > 6. Para que se configure o prequestionamento ficto previsto no art. 1.025 do Código de Processo Civil, aplicado por analogia ao processo penal, é indispensável que o recorrente, nas razões do apelo nobre, aponte a ofensa ao art. 619 do Código de Processo Penal, abrangendo a tese alegada, providência que não foi efetivada na hipótese.
-  > IV. Dispositivo
-  > 7. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.052.674/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
-
-## 69. AREsp nº 3317207 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Receptação · Fundada suspeita
-- Resumo: Abordagem do motorista só pelo nervosismo, sem elemento objetivo, é ilegal (art. 244 do CPP). A descoberta posterior do veículo adulterado não convalida a busca, e as provas derivadas são ilícitas. Réu absolvido da receptação (art. 386, II, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3317207.pdf
-
-## 70. RHC nº 237625 / PA (STJ)
-- Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Usurpação de bem da União · Inépcia da denúncia
-- Resumo: Denúncia inepta quanto aos crimes da Lei 8.176/1991 (ouro e combustível), por não descrever a conduta. E ordem de desocupação não é 'suspensão de direito': enquadrá-la no art. 359 do CP seria interpretação extensiva contra o réu. Ação penal trancada nesses pontos; segue quanto aos demais crimes.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-237625.pdf

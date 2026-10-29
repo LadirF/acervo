@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 9 de 32 (decisões 81 a 90)
+# Acervo de Jurisprudência — Cury Advogados — parte 9 de 33 (decisões 81 a 90)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 317 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 327 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,45 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 81. REsp nº 2246666 / SP (STJ)
+## 81. RHC nº 277.819 / SC (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
+- Crime / Tema: Roubo · Dosimetria
+- Resumo: Frações sucessivas sobre resultados parciais na primeira fase da dosimetria geram efeito cascata: devem incidir sobre a pena mínima. Ordem parcialmente concedida para redimensionar a pena.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277819.pdf
+
+## 82. ARE nº 1.627.640 / RJ (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 15/10/2026.
+- Crime / Tema: Extorsão · Execução penal
+- Resumo: A hediondez que impede indulto ou comutação é aferida pela lei vigente na data dos fatos (irretroatividade da lei penal mais gravosa). RE da defesa provido para reexame do benefício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1627640.pdf
+
+## 83. RE nº 1.621.705 / MG (STF)
+- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
+- Crime / Tema: Tráfico de drogas
+- Resumo: Absolvição por tráfico sem apreensão nem perícia da droga, só com interceptações sobre a negociação, mantida: a Segunda Turma negou seguimento ao RE do MP, porque a suficiência da prova da materialidade é questão infraconstitucional (Súmulas 282 e 356/STF).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1621705.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. MATERIALIDADE DELITIVA. AUSÊNCIA DE APREENSÃO E PERÍCIA DA SUBSTÂNCIA ENTORPECENTE. INTERCEPTAÇÕES TELEFÔNICAS E OUTROS ELEMENTOS PROBATÓRIOS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA OU REFLEXA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E 356 DO STF. NEGATIVA DE SEGUIMENTO.
+  > I. CASO EM EXAME
+  > 1.Recurso extraordinário interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão do Tribunal de Justiça que, ao dar parcial provimento à apelação defensiva, absolveu a recorrida da imputação do crime de tráfico de drogas, previsto no art. 33, caput, da Lei nº 11.343/2006, por considerar indispensáveis a apreensão da substância entorpecente e a realização de perícia para comprovar a materialidade delitiva, embora interceptações telefônicas evidenciassem a intermediação de negociação de elevado volume de entorpecentes. O recorrente sustenta que a materialidade pode ser demonstrada por outros meios de prova idôneos e requer a reforma do acórdão absolutório e o retorno dos autos ao Tribunal de origem para prosseguimento do julgamento da apelação defensiva.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 2. Há duas questões em discussão: (i) definir se a controvérsia relativa à suficiência dos elementos probatórios para demonstrar a materialidade do crime de tráfico de drogas configura questão constitucional direta ou depende da interpretação da legislação infraconstitucional; e (ii) determinar se as questões constitucionais suscitadas no recurso extraordinário foram devidamente prequestionadas.
+  > III. RAZÕES DE DECIDIR
+  > 3. A controvérsia acerca da suficiência dos elementos probatórios para comprovar a materialidade do crime de tráfico de drogas demanda a interpretação do art. 33 da Lei nº 11.343/2006 e das normas processuais relativas à demonstração da materialidade delitiva, de modo que eventual ofensa à Constituição ocorre apenas de forma indireta ou reflexa.
+  > 4. A ofensa indireta ou reflexa a dispositivos constitucionais, cujo reconhecimento dependa do exame prévio da legislação infraconstitucional, não viabiliza a abertura da via extraordinária.
+  > 5. As questões suscitadas no recurso extraordinário não foram expressamente debatidas pelo Tribunal de origem sob o enfoque constitucional indicado pelo recorrente, circunstância que atrai a incidência das Súmulas nº 282 e 356 do STF.
+  > 6. O prequestionamento exige que a questão constitucional seja efetivamente examinada pelo Tribunal de origem e que sua solução integre as razões determinantes do acórdão recorrido, requisitos não verificados no caso.
+  > IV. DISPOSITIVO
+  > 7. Recurso com seguimento negado.
+  > (STF, RE n. 1.621.705/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 2/10/2026, DJe de 15/10/2026.)
+
+## 84. ARE nº 1.621.303 / GO (STF)
+- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 15/10/2026.
+- Crime / Tema: Homicídio · Excesso de prazo · Justa causa
+- Resumo: Mantido o trancamento de ofício de inquérito por homicídio, pela demora excessiva do MP em denunciar e pela falta de indícios mínimos de autoria; a investigação pode ser reaberta com prova nova. ARE do MP com seguimento negado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1621303.pdf
+
+## 85. REsp nº 2246666 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Violência doméstica
 - Resumo: Há controvérsia séria sobre o recurso cabível contra decisão sobre medidas protetivas de urgência (agravo de instrumento ou RESE). Por isso, usar o recurso 'errado' não é erro grosseiro, e ele deve ser aproveitado pela fungibilidade recursal (art. 579 do CPP).
@@ -22,7 +60,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.246.666/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 82. HC nº 1111206 / RJ (STJ)
+## 86. HC nº 1111206 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: Reincidência e habitualidade não impedem, por si sós, a insignificância quando o caso é excepcional: desodorante de R$ 17,99, restituído, e réu tecnicamente primário. Ação penal trancada.
@@ -35,7 +73,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Ordem concedida para determinar o trancamento da ação penal.
   > (HC n. 1.111.206/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 83. AgRg no REsp nº 2257004 / AL (STJ)
+## 87. AgRg no REsp nº 2257004 / AL (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: No furto de cabos, a referência genérica a 'prejuízo à coletividade' e o laudo que só mede a res furtiva não elevam a pena-base pelas consequências do crime: é preciso demonstrar impacto concreto e extraordinário ao serviço público. Agravo do MP desprovido.
@@ -48,7 +86,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no REsp n. 2.257.004/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 15/10/2026.)
 
-## 84. AgRg no HC nº 1077013 / RS (STJ)
+## 88. AgRg no HC nº 1077013 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Prisão e medidas cautelares
 - Resumo: A preventiva decretada em grau de recurso exige risco concreto e atual. O réu ficou mais de 4 meses solto cumprindo cautelares rigorosas, sem descumprimento: gravidade das imputações, repercussão social e posição acadêmica e profissional não bastam. Medidas do art. 319 do CPP mantidas; agravo do MP desprovido, por maioria.
@@ -63,7 +101,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Agravo regimental não provido.
   > (AgRg no HC n. 1.077.013/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/9/2026, DJEN de 15/10/2026.)
 
-## 85. AgRg no HC nº 1121609 / RS (STJ)
+## 89. AgRg no HC nº 1121609 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: A exigência de exame criminológico para toda progressão, trazida pela Lei 14.843/2024 ao art. 112, § 1º, da LEP, é norma mais gravosa e não retroage (art. 5º, XL, da CF, e art. 2º do CP). Agravo do MP desprovido.
@@ -75,7 +113,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Agravo regimental improvido.
   > (AgRg no HC n. 1.121.609/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 86. REsp nº 2265744 / RJ (STJ)
+## 90. REsp nº 2265744 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Corrupção ativa · Corrupção passiva
 - Resumo: Coisa julgada (art. 110, § 2º, do CPP): absolvido por atipicidade, o réu não pode ser denunciado de novo pelo mesmo fato principal, ainda que com outra capitulação (non bis in idem). Trancamento mantido no caso Casa da Moeda/SICPA; REsp do MPF desprovido.
@@ -89,27 +127,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Não há violação do art. 619 do Código de Processo Penal quando o Tribunal de origem enfrenta suficientemente a controvérsia e adota fundamentação incompatível com a tese suscitada pela parte, ainda que não a examine individualmente sob todos os enfoques pretendidos.
   > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
   > (REsp n. 2.265.744/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
-
-## 87. HC nº 1136529 / SP (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: Falta grave por droga enviada por terceiro ao preso exige prova de que ele a pediu ou teve contato com ela. Punir só pelo destino da encomenda é responsabilidade objetiva (intranscendência da pena, art. 5º, XLV, da CF). Falta grave afastada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136529.pdf
-
-## 88. AgRg no HC nº 1105944 / SP (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Associação para o tráfico
-- Resumo: Divisão de tarefas, drogas com embalagens iguais e abastecimento do mesmo ponto mostram coautoria no tráfico, não o vínculo estável e permanente da associação (art. 35 da Lei 11.343/2006). Revaloração jurídica dos fatos, sem reexame de prova. Absolvição, com extensão aos corréus.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1105944.pdf
-
-## 89. HC nº 1136754 / SP (STJ)
-- Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Execução penal
-- Resumo: Mãe de crianças menores de 12 anos, presa em regime fechado por crime sem violência, pode ter prisão domiciliar mesmo fora das hipóteses do art. 117 da LEP. Falta de previsão legal e de prova de dependência exclusiva dos filhos não bastam para negar. Domiciliar concedida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136754.pdf
-
-## 90. HC nº 1132401 / ES (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Falsidade ideológica · Prisão e medidas cautelares
-- Resumo: Se o fato novo que motivou o restabelecimento da preventiva (suposto descumprimento de cautelares empresariais) foi desmentido pela própria Fazenda, o restante do decreto, que era só reforço, não sustenta a prisão. Cautelares restabelecidas; nova reavaliação exige contraditório prévio (art. 282, § 3º, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1132401.pdf

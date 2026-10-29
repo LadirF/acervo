@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 8 de 32 (decisões 71 a 80)
+# Acervo de Jurisprudência — Cury Advogados — parte 8 de 33 (decisões 71 a 80)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 317 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 327 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,37 +8,69 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 71. PExt no AREsp nº 2714514 / SP (STJ)
+## 71. AgRg no REsp nº 2052674 / MG (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Inserção de dados falsos em sistema de informações
+- Resumo: Absolvição pelo art. 313-A do CP mantida: o TJ reconheceu a falta de dolo específico e a fragilidade da prova, e rever isso exige reexame de provas (Súmula 7). Perda da função pública não prequestionada; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2052674.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES. ATIPICIDADE DA CONDUTA. AUSÊNCIA DE DOLO. SÚMULA N. 7/STJ. PERDA DA FUNÇÃO PÚBLICA. SÚMULA N. 211/STJ. IMPOSSIBILIDADE DO PREQUESTIONAMENTO FICTO, NO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão que conheceu em parte de recurso especial e, no mérito, negou-lhe provimento, mantendo a absolvição de um dos recorridos quanto à imputação do delito do art. 313-A do Código Penal e não acolhendo a pretensão de decretação da perda da função pública do agente condenado.
+  > II. Questão em discussão
+  > 2. A controvérsia consiste em saber se (i) a condenação do recorrido Diogo pela prática do crime de inserção de dados falsos em sistema de informações é viável, considerando a ausência de comprovação do dolo específico e a fragilidade do conjunto probatório reconhecidas no acórdão proferido pelo Tribunal local; e se (ii) é possível a aplicação da perda da função pública ao(s) condenado(s).
+  > III. Razões de decidir
+  > 3. A Corte de origem reconheceu a atipicidade da conduta imputada ao recorrido, em razão da ausência de comprovação do dolo específico e da fragilidade do conjunto probatório, aplicando o princípio do in dubio pro reo.
+  > 4. A pretensão ministerial de condenação do recorrido pelo crime de inserção de dados falsos em sistema de informações demanda revolvimento fático-probatório, providência vedada no âmbito do recurso especial, conforme a Súmula n. 7/STJ.
+  > 5. O pleito de decretação da perda da função pública conforme o art. 92, inciso I, do Código Penal, não foi especificamente tratado pelo Tribunal a quo, mesmo com a oposição de aclaratórios, o que impede o exame do mérito da tese suscitada no recurso especial, por ausência de prequestionamento, conforme a orientação da Súmula n. 211/STJ.
+  > 6. Para que se configure o prequestionamento ficto previsto no art. 1.025 do Código de Processo Civil, aplicado por analogia ao processo penal, é indispensável que o recorrente, nas razões do apelo nobre, aponte a ofensa ao art. 619 do Código de Processo Penal, abrangendo a tese alegada, providência que não foi efetivada na hipótese.
+  > IV. Dispositivo
+  > 7. Agravo regimental não provido.
+  > (AgRg no REsp n. 2.052.674/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
+
+## 72. AREsp nº 3317207 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Receptação · Fundada suspeita
+- Resumo: Abordagem do motorista só pelo nervosismo, sem elemento objetivo, é ilegal (art. 244 do CPP). A descoberta posterior do veículo adulterado não convalida a busca, e as provas derivadas são ilícitas. Réu absolvido da receptação (art. 386, II, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3317207.pdf
+
+## 73. RHC nº 237625 / PA (STJ)
+- Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Usurpação de bem da União · Inépcia da denúncia
+- Resumo: Denúncia inepta quanto aos crimes da Lei 8.176/1991 (ouro e combustível), por não descrever a conduta. E ordem de desocupação não é 'suspensão de direito': enquadrá-la no art. 359 do CP seria interpretação extensiva contra o réu. Ação penal trancada nesses pontos; segue quanto aos demais crimes.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-237625.pdf
+
+## 74. PExt no AREsp nº 2714514 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Quebra de sigilo
 - Resumo: A nulidade das interceptações reconhecida para corréus se estende a quem está na mesma situação (art. 580 do CPP), mesmo em processo desmembrado e com recurso extraordinário pendente contra o acórdão-paradigma. Provas desentranhadas; o juízo de origem verifica as fontes independentes (Operação Materello).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2714514.pdf
 
-## 72. HC nº 1133453 / SP (STJ)
+## 75. HC nº 1133453 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Contrabando · Prisão e medidas cautelares
 - Resumo: Tornozeleira e recolhimento domiciliar noturno mantidos por longo período, sem motivação concreta, são desproporcionais. Revogados, mantidas as demais cautelares de ônus reduzido (caso de contrabando).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133453.pdf
 
-## 73. HC nº 1136779 / BA (STJ)
+## 76. HC nº 1136779 / BA (STJ)
 - Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Violência doméstica · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: Quem recebe liberdade provisória com fiança e continua preso por não poder pagar, assistido pela Defensoria, não pode ficar preso por pobreza (art. 350 do CPP; HC coletivo 568.693/ES). Fiança dispensada, mantidas as protetivas e cautelares; Súmula 691 superada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136779.pdf
 
-## 74. HC nº 1128385 / PR (STJ)
+## 77. HC nº 1128385 / PR (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: No indulto do Decreto 12.338/2024 (art. 9º, XV), a assistência pela Defensoria presume a incapacidade econômica (art. 12, § 2º) e dispensa a reparação do dano, sem exigir arrependimento posterior. Indulto restabelecido nas condenações por furto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128385.pdf
 
-## 75. HC nº 1114885 / BA (STJ)
+## 78. HC nº 1114885 / BA (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento feito sem as cautelas do art. 226 do CPP, só confirmado em juízo, sem flagrante, apreensão de bens ou outra prova independente, não sustenta a condenação (Tema 1.258/STJ). Réu absolvido de roubo e importunação sexual (art. 386, VII, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114885.pdf
 
-## 76. ApCrim nº 0204142-84.2025.8.06.0312 (TJCE)
+## 79. ApCrim nº 0204142-84.2025.8.06.0312 (TJCE)
 - Decisão colegiada. Relatora: Des.ª Lira Ramos de Oliveira. 1ª Câmara Criminal. Publicado em 16/10/2026.
 - Crime / Tema: Tráfico de drogas · Porte ilegal de munição · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Busca pessoal só porque o réu 'olhava para trás e parecia nervoso', sem elemento objetivo, é ilícita (art. 244 do CPP), assim como o ingresso na casa que dela decorreu. Local ermo e notícias genéricas de tráfico na região não suprem a falta de fundada suspeita. Sem outras provas, réu absolvido de tráfico e porte de munição (art. 386, VII, do CPP).
@@ -74,40 +106,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: "1. A busca pessoal sem mandado judicial exige fundada suspeita objetiva e concreta, não sendo suficientes para sua legitimação meras percepções subjetivas, comportamentos ambíguos ou o simples o fato de se encontrar em local conhecido pelo intenso tráfico de drogas. 2. Quando a busca pessoal é realizada sem fundada suspeita, em violação ao art. 244 do CPP, as provas dela decorrentes são ilícitas e devem ser desentranhadas do processo, conforme art. 157 do CPP e art. 5º, LVI, da Constituição Federal. 3. O fato de terem sido encontradas drogas após a revista ilegal não convalida a ilegalidade prévia, sendo necessário que o elemento "fundada suspeita" seja aferido com base nas circunstâncias anteriores à diligência."
   > (TJCE, Apelação Criminal n. 0204142-84.2025.8.06.0312, relatora Desembargadora Lira Ramos de Oliveira, 1ª Câmara Criminal, julgado em 6/10/2026, publicado em 16/10/2026.)
 
-## 77. RHC nº 277.819 / SC (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
-- Crime / Tema: Roubo · Dosimetria
-- Resumo: Frações sucessivas sobre resultados parciais na primeira fase da dosimetria geram efeito cascata: devem incidir sobre a pena mínima. Ordem parcialmente concedida para redimensionar a pena.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277819.pdf
-
-## 78. ARE nº 1.627.640 / RJ (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 15/10/2026.
-- Crime / Tema: Extorsão · Execução penal
-- Resumo: A hediondez que impede indulto ou comutação é aferida pela lei vigente na data dos fatos (irretroatividade da lei penal mais gravosa). RE da defesa provido para reexame do benefício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1627640.pdf
-
-## 79. RE nº 1.621.705 / MG (STF)
-- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
-- Crime / Tema: Tráfico de drogas
-- Resumo: Absolvição por tráfico sem apreensão nem perícia da droga, só com interceptações sobre a negociação, mantida: a Segunda Turma negou seguimento ao RE do MP, porque a suficiência da prova da materialidade é questão infraconstitucional (Súmulas 282 e 356/STF).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1621705.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. MATERIALIDADE DELITIVA. AUSÊNCIA DE APREENSÃO E PERÍCIA DA SUBSTÂNCIA ENTORPECENTE. INTERCEPTAÇÕES TELEFÔNICAS E OUTROS ELEMENTOS PROBATÓRIOS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA OU REFLEXA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E 356 DO STF. NEGATIVA DE SEGUIMENTO.
-  > I. CASO EM EXAME
-  > 1.Recurso extraordinário interposto pelo Ministério Público do Estado de Minas Gerais contra acórdão do Tribunal de Justiça que, ao dar parcial provimento à apelação defensiva, absolveu a recorrida da imputação do crime de tráfico de drogas, previsto no art. 33, caput, da Lei nº 11.343/2006, por considerar indispensáveis a apreensão da substância entorpecente e a realização de perícia para comprovar a materialidade delitiva, embora interceptações telefônicas evidenciassem a intermediação de negociação de elevado volume de entorpecentes. O recorrente sustenta que a materialidade pode ser demonstrada por outros meios de prova idôneos e requer a reforma do acórdão absolutório e o retorno dos autos ao Tribunal de origem para prosseguimento do julgamento da apelação defensiva.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 2. Há duas questões em discussão: (i) definir se a controvérsia relativa à suficiência dos elementos probatórios para demonstrar a materialidade do crime de tráfico de drogas configura questão constitucional direta ou depende da interpretação da legislação infraconstitucional; e (ii) determinar se as questões constitucionais suscitadas no recurso extraordinário foram devidamente prequestionadas.
-  > III. RAZÕES DE DECIDIR
-  > 3. A controvérsia acerca da suficiência dos elementos probatórios para comprovar a materialidade do crime de tráfico de drogas demanda a interpretação do art. 33 da Lei nº 11.343/2006 e das normas processuais relativas à demonstração da materialidade delitiva, de modo que eventual ofensa à Constituição ocorre apenas de forma indireta ou reflexa.
-  > 4. A ofensa indireta ou reflexa a dispositivos constitucionais, cujo reconhecimento dependa do exame prévio da legislação infraconstitucional, não viabiliza a abertura da via extraordinária.
-  > 5. As questões suscitadas no recurso extraordinário não foram expressamente debatidas pelo Tribunal de origem sob o enfoque constitucional indicado pelo recorrente, circunstância que atrai a incidência das Súmulas nº 282 e 356 do STF.
-  > 6. O prequestionamento exige que a questão constitucional seja efetivamente examinada pelo Tribunal de origem e que sua solução integre as razões determinantes do acórdão recorrido, requisitos não verificados no caso.
-  > IV. DISPOSITIVO
-  > 7. Recurso com seguimento negado.
-  > (STF, RE n. 1.621.705/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 2/10/2026, DJe de 15/10/2026.)
-
-## 80. ARE nº 1.621.303 / GO (STF)
-- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 15/10/2026.
-- Crime / Tema: Homicídio · Excesso de prazo · Justa causa
-- Resumo: Mantido o trancamento de ofício de inquérito por homicídio, pela demora excessiva do MP em denunciar e pela falta de indícios mínimos de autoria; a investigação pode ser reaberta com prova nova. ARE do MP com seguimento negado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1621303.pdf
+## 80. AREsp nº 3352144 / SP (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
+- Crime / Tema: Porte de drogas para consumo pessoal · Justa causa
+- Resumo: Porte de 0,9 g de cocaína para consumo pessoal, sem ofensividade penalmente relevante, é materialmente atípico (art. 28 da Lei 11.343/2006). Agravo não conhecido, mas HC de ofício: restabelecida a rejeição da denúncia (art. 395, II, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3352144.pdf

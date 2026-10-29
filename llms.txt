@@ -3,9 +3,10 @@
 > Acervo de decisões (STJ, STF, TRFs e tribunais estaduais), principalmente de Direito Penal e Processual Penal, com resumo, ementa oficial, referência para citação e PDF. Uso principal: diante de um caso concreto, achar as teses e decisões mais compatíveis com ele e avaliar a compatibilidade.
 
 - [Início](https://ladirf.github.io/acervo/acervo.md): instruções para analisar um caso e lista dos arquivos; comece por aqui.
-- [Índice STJ e STF (1 de 3)](https://ladirf.github.io/acervo/acervo-indice-stj-stf.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
-- [Índice STJ e STF (2 de 3)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
-- [Índice STJ e STF (3 de 3)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice STJ e STF (1 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice STJ e STF (2 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice STJ e STF (3 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice STJ e STF (4 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md): 10 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice TRFs e tribunais estaduais](https://ladirf.github.io/acervo/acervo-indice-tribunais.md): 17 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Parte 1](https://ladirf.github.io/acervo/acervo-parte-1.md): ementas oficiais, referências e PDFs das decisões 1 a 10.
 - [Parte 2](https://ladirf.github.io/acervo/acervo-parte-2.md): ementas oficiais, referências e PDFs das decisões 11 a 20.
@@ -38,6 +39,7 @@
 - [Parte 29](https://ladirf.github.io/acervo/acervo-parte-29.md): ementas oficiais, referências e PDFs das decisões 281 a 290.
 - [Parte 30](https://ladirf.github.io/acervo/acervo-parte-30.md): ementas oficiais, referências e PDFs das decisões 291 a 300.
 - [Parte 31](https://ladirf.github.io/acervo/acervo-parte-31.md): ementas oficiais, referências e PDFs das decisões 301 a 310.
-- [Parte 32](https://ladirf.github.io/acervo/acervo-parte-32.md): ementas oficiais, referências e PDFs das decisões 311 a 317.
+- [Parte 32](https://ladirf.github.io/acervo/acervo-parte-32.md): ementas oficiais, referências e PDFs das decisões 311 a 320.
+- [Parte 33](https://ladirf.github.io/acervo/acervo-parte-33.md): ementas oficiais, referências e PDFs das decisões 321 a 327.
 - [Arquivo único](https://ladirf.github.io/acervo/acervo-completo.md): tudo junto (grande; para enviar a projetos).
 - [Página do acervo](https://ladirf.github.io/acervo/): busca e filtros (interface para pessoas).

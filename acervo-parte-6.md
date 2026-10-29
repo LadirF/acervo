@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 6 de 32 (decisões 51 a 60)
+# Acervo de Jurisprudência — Cury Advogados — parte 6 de 33 (decisões 51 a 60)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 317 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 327 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,32 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 51. AgRg no HC nº 1061845 / SP (STJ)
+## 51. RE nº 1.629.803 / SP (STF)
+- Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: O exame criminológico obrigatório para a progressão, trazido pela Lei 14.843/2024, é norma mais gravosa e não retroage; o juiz pode exigi-lo só por decisão fundamentada no caso concreto (SV 26). RE do MP com seguimento negado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1629803.pdf
+
+## 52. ARE nº 1.600.909 / RS (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 19/10/2026.
+- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Tráfico privilegiado
+- Resumo: Ações penais em andamento, sozinhas, não afastam o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). RE do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1600909.pdf
+
+## 53. AgRg no AREsp nº 3101436 / ES (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Reconhecimento por show up (só o suspeito é mostrado), sem as regras do art. 226 do CPP, com vítimas inseguras em juízo e sem outra prova, não sustenta a condenação (Tema 1.258/STJ). Revaloração jurídica afasta a Súmula 7. Réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3101436.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECONHECIMENTO FOTOGRÁFICO E PESSOAL. ART. 226 DO CÓDIGO DE PROCESSO PENAL. TEMA 1.258/STJ. INOBSERVÂNCIA DAS REGRAS DE RECONHECIMENTO. TÉCNICA DE SHOW UP. DISTINGUISHING DO PARADIGMA. SUPERAÇÃO DOS ÓBICES DAS SÚMULAS 7/STJ E 83/STJ MEDIANTE REVALORAÇÃO JURÍDICA. INSUFICIÊNCIA PROBATÓRIA.
+  > 1. O agravo regimental apresenta impugnação direta, específica e pormenorizada dos fundamentos da decisão que não conheceu do agravo em recurso especial, o que afasta a deficiência dialética e autoriza o seu conhecimento, com a indicação do distinguishing do precedente invocado e de julgados contemporâneos, além da demonstração da possibilidade de revaloração jurídica para superar a Súmula 7 do Superior Tribunal de Justiça.
+  > 2. A validade do reconhecimento de pessoas depende da estrita observância das regras do procedimento previsto no art. 226 do Código de Processo Penal, tanto na fase inquisitorial quanto em juízo, sob pena de invalidade da prova destinada a demonstrar a autoria delitiva.
+  > 3. No caso, o único elemento de autoria é o reconhecimento fotográfico produzido pela técnica de show up, sem observância das regras formais, e os depoimentos judiciais das vítimas revelam incerteza, ausência de confirmação pessoal segura e contaminação da memória, sem provas independentes de corroboração, como apreensões ou perícias, o que evidencia insuficiência probatória para a condenação.
+  > 4. Agravo regimental provido para conhecer do agravo e dar provimento ao recurso especial.
+  > (AgRg no AREsp n. 3.101.436/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 19/10/2026.)
+
+## 54. AgRg no HC nº 1061845 / SP (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Excesso de prazo · Justa causa
 - Resumo: A duração razoável do processo vale também para a investigação: procedimento do MP aberto há quase 7 anos, sem avanço concreto quanto ao investigado, foi trancado. A complexidade não justifica prazo indefinido. O juízo reavalia a devolução dos valores apreendidos.
@@ -35,7 +60,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 14. Agravo regimental desprovido.
   > (AgRg no HC n. 1.061.845/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 52. AgRg no REsp nº 2282869 / SP (STJ)
+## 55. AgRg no REsp nº 2282869 / SP (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Faltas graves antigas e já reabilitadas não podem impedir para sempre o livramento condicional (Tema 1.161/STJ), e o exame criminológico não vincula o juiz. Mais de 5 anos sem falta e o livramento cumprido sem problemas mostram o mérito. Agravo do MP desprovido.
@@ -56,7 +81,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Resultado do Julgamento: Agravo regimental desprovido.
   > (AgRg no REsp n. 2.282.869/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 53. HC nº 1104329 / PE (STJ)
+## 56. HC nº 1104329 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: A pronúncia exige indícios de autoria produzidos em juízo; o in dubio pro societate não supre a falta deles. O TJ restaurou a pronúncia com elementos do inquérito, contra a impronúncia baseada em falta de reconhecimento, ERB compatível com o álibi e ausência de perícia na arma. Impronúncia restabelecida de ofício.
@@ -70,7 +95,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Habeas corpus não conhecido. Ordem concedida de ofício.
   > (HC n. 1.104.329/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 19/10/2026.)
 
-## 54. AgRg no HC nº 1099090 / RS (STJ)
+## 57. AgRg no HC nº 1099090 / RS (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria
 - Resumo: Frieza, promessas de morte e extensão dos ferimentos são inerentes ao homicídio e não elevam a culpabilidade; sofrimento da família e vítima de 29 anos tratada como de tenra idade não pesam nas consequências. O AREsp barrado na admissibilidade não impede o HC. Agravo do MP desprovido.
@@ -99,7 +124,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A negativação das consequências do crime demanda prova de efeitos extraordinários que transcendam o resultado típico, não sendo idôneos, por si, o sofrimento dos familiares e a qualificação de vítima de 29 anos como de tenra idade.
   > (AgRg no HC n. 1.099.090/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
 
-## 55. AgRg no REsp nº 2230033 / MG (STJ)
+## 58. AgRg no REsp nº 2230033 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · Dosimetria
 - Resumo: Afastada uma circunstância judicial em recurso só da defesa, a pena-base deve cair proporcionalmente (Tema 1.214/STJ), sem frações matemáticas fixas. Redução feita pelo TJ mantida; agravo do MP desprovido.
@@ -123,7 +148,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Resultado do Julgamento: Agravo regimental desprovido.
   > (AgRg no REsp n. 2.230.033/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
 
-## 56. AgRg nos EDcl no REsp nº 2117444 / RS (STJ)
+## 59. AgRg nos EDcl no REsp nº 2117444 / RS (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Corrupção passiva · Falsidade ideológica · ANPP · Prescrição
 - Resumo: O ANPP cabe em processos em curso até o trânsito em julgado, sem confissão prévia, e a recusa do MP tem de ser motivada e revista internamente (aqui foi). Reconhecida a prescrição superveniente da corrupção passiva privilegiada; mantida a falsidade ideológica.
@@ -147,26 +172,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Agravo regimental parcialmente provido para declarar extinta a punibilidade do agravante quanto ao crime do art. 317, § 2º, do Código Penal, pela prescrição da pretensão punitiva superveniente, mantida a condenação pelo art. 299, parágrafo único, do Código Penal.
   > (AgRg nos EDcl no REsp n. 2.117.444/RS, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 57. HC nº 1134069 / SP (STJ)
+## 60. HC nº 1134069 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Furto · Prisão e medidas cautelares
 - Resumo: O juiz não pode decretar a preventiva de ofício, sem pedido do MP ou representação da polícia (art. 311 do CPP; Súmula 676/STJ). Preventiva anulada num furto de 8 latas de Pringles, avaliadas em R$ 72.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134069.pdf
-
-## 58. HC nº 1109888 / SP (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Para o desaforamento basta dúvida fundada sobre a imparcialidade do Júri (art. 427 do CPP): cidade de 20 mil habitantes, grande repercussão e o poder público local tomando partido, com parecer favorável da Procuradoria de Justiça. Júri anulado e desaforado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109888.pdf
-
-## 59. HC nº 1114459 / PR (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Violência doméstica · Justa causa
-- Resumo: Lesão corporal culposa (art. 129, § 6º, do CP) exige a demonstração da violação do dever objetivo de cuidado e da previsibilidade; a dinâmica descrita era a de um acidente com o veículo. Réu absolvido por atipicidade (art. 386, III, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114459.pdf
-
-## 60. HC nº 1112935 / ES (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Lavagem de dinheiro
-- Resumo: Sem atos de ocultação ou dissimulação da origem ilícita dos valores, a conduta descrita não é lavagem de dinheiro (art. 1º da Lei 9.613/1998). Ação penal trancada quanto à paciente por atipicidade.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112935.pdf

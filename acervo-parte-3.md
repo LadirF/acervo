@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 3 de 32 (decisões 21 a 30)
+# Acervo de Jurisprudência — Cury Advogados — parte 3 de 33 (decisões 21 a 30)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 317 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 327 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -59,13 +59,39 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental improvido.
   > (AgRg no AREsp n. 2.495.761/BA, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 25. AREsp nº 2352634 / BA (STJ)
+## 25. AgRg no AREsp nº 3317228 / SP (STJ)
+- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 23/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Informante, drogas variadas em pouca quantidade e dinheiro achado com o corréu não provam dedicação a atividades criminosas, e ação penal em curso também não (Tema 1.139/STJ). Agravo desprovido, mas HC de ofício: redutor de 2/3, regime aberto e penas restritivas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3317228.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. PARADIGMA PROFERIDO EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO INDEVIDAMENTE AFASTADO. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravo regimental contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial pela incidência da Súmula n. 284/STF e pela falta de comprovação do dissídio jurisprudencial, em recurso especial interposto apenas com base na alínea c do permissivo constitucional. O agravante foi condenado a 5 (cinco) anos de reclusão, em regime inicial fechado, por manter em depósito, em sua residência, 4,57 g de cocaína, 4,13 g de crack e porções de 1,39 g e 2,69 g de maconha, com R$ 50,00 em dinheiro, e sustenta ter indicado o art. 33, § 4º, da Lei n. 11.343/2006 e impugnado o óbice do dissídio, pedindo, subsidiariamente, a concessão de habeas corpus de ofício.
+  > II. Questão em discussão
+  > 2. Há duas questões em discussão: (i) saber se subsiste o óbice da falta de comprovação do dissídio jurisprudencial; e (ii) saber se o afastamento do tráfico privilegiado com base em informação de informante, na variedade das drogas e em dinheiro apreendido na casa do corréu configura flagrante ilegalidade apta à concessão de habeas corpus de ofício.
+  > III. Razões de decidir
+  > 3. O único julgado indicado como paradigma no recurso especial foi proferido em habeas corpus, ação que não se presta à demonstração da divergência, e não houve cotejo analítico: o paradigma trata da fração do redutor já reconhecido, ao passo que o acórdão recorrido negou a própria minorante. A falta de comprovação do dissídio basta, por si, para o não conhecimento do recurso interposto apenas pela alínea c.
+  > 4. A informação do informante, reproduzida pelos policiais, foi tida pelo próprio acórdão como insuficiente para a associação para o tráfico; a quantidade de droga foi considerada dentro da normalidade do tipo; e a quantia expressiva de dinheiro estava na residência do corréu. Esses dados não demonstram dedicação a atividades criminosas.
+  > 5. A ação penal em curso mencionada na sentença não foi adotada pelo acórdão e não impede a aplicação da minorante, nos termos do Tema n. 1.139/STJ.
+  > 6. Sem fundamento concreto para fração menor, o redutor incide em 2/3, com pena de 1 (um) ano e 8 (oito) meses de reclusão e 166 (cento e sessenta e seis) dias-multa, regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos, conforme a Súmula Vinculante n. 59/STF.
+  > IV. Dispositivo
+  > 7. Agravo regimental desprovido. Habeas corpus concedido de ofício.
+  > (AgRg no AREsp n. 3.317.228/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026.)
+
+## 26. HC nº 1139236 / RJ (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/10/2026.
+- Crime / Tema: Estupro de vulnerável · Abuso sexual infantojuvenil (ECA) · Prova digital · Quebra da cadeia de custódia
+- Resumo: A confiabilidade da prova digital (capturas de tela de conta em nuvem) é questão distinta da licitude do acesso: cabe ao Estado demonstrar a integridade da prova, sem exigir da defesa prova de adulteração. Ordem concedida de ofício: novo julgamento da apelação.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139236.pdf
+
+## 27. AREsp nº 2352634 / BA (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 23/10/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Justa causa
 - Resumo: “Atitude suspeita” e pouca droga, sem sinal de mercancia, não dão justa causa para a ação penal por tráfico. Restabelecida a absolvição sumária.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2352634.pdf
 
-## 26. AgRg no AREsp nº 3352058 / SP (STJ)
+## 28. AgRg no AREsp nº 3352058 / SP (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 23/10/2026.
 - Crime / Tema: Adulteração de sinal identificador de veículo · Dosimetria
 - Resumo: Condenação anterior extinta há mais de 5 anos (art. 64, I, do CP) não gera reincidência. Agravo desprovido, mas ordem concedida de ofício para redimensionar a pena.
@@ -88,33 +114,14 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 10. Agravo regimental desprovido. Habeas corpus concedido de ofício.
   > (AgRg no AREsp n. 3.352.058/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026.)
 
-## 27. ARE nº 1.628.157 / SP (STF)
+## 29. ARE nº 1.628.157 / SP (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 23/10/2026.
 - Crime / Tema: Importunação sexual · Competência
 - Resumo: Onde não há vara especializada em crimes contra crianças e adolescentes, compete ao juizado de violência doméstica julgá-los (art. 23, par. único, da Lei 13.431/2017). ARE do MP com seguimento negado: mantida a decisão de origem.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628157.pdf
 
-## 28. Extn na Rcl nº 98.355 / SP (STF)
+## 30. Extn na Rcl nº 98.355 / SP (STF)
 - Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 23/10/2026.
 - Crime / Tema: Direito ao silêncio
 - Resumo: Quem é convocado à CPI como testemunha, mas está de fato na posição de investigado, pode não comparecer e não prestar compromisso. Sétima extensão concedida, com salvo-conduto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-98355.pdf
-
-## 29. HC nº 278.774 / AM (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 23/10/2026.
-- Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
-- Resumo: Na Justiça Militar, o ANPP não pode ser recusado por vedação abstrata: o juiz examina só a legalidade e a voluntariedade do acordo. Ordem concedida para novo exame da homologação.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278774.pdf
-
-## 30. Ext nº 1.995 / DF (STF)
-- Decisão colegiada. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 23/10/2026.
-- Resumo: A extradição exige que o pedido descreva, para cada crime, a conduta do extraditando; imputação genérica não atende o art. 82, II, da Lei 13.445/2017. Extradição indeferida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-ext-1995.pdf
-- Ementa oficial:
-  > EXTRADIÇÃO INSTRUTÓRIA. DESCRIÇÃO ESPECÍFICA DA EXTRADIÇÃO INDEFERIDA. AUSÊNCIA DE IMPUTAÇÃO.
-  > 1. Pedido de extradição formulado pelo Governo da Rússia, com base no Tratado de Extradição entre a República Federativa do Brasil e a Federação da Rússia, promulgado pelo Decreto nº 6.056/2007.
-  > 2. A Procuradoria-Geral da República manifestou-se pelo indeferimento do pedido de extradição formulado pelo Governo da Rússia em desfavor do nacional russo Mikhail Verbitsky, dado o não preenchimento do requisito disposto no art. 82, II, da Lei 13.445/2017.
-  > 3. Os fatos imputados ao extraditando são marcados por abstração e generalidade, sem especificar a forma de participação ou colaboração na empreitada criminosa.
-  > 4. A jurisprudência do Supremo Tribunal Federal exige que a documentação instrutória do pedido precise, em relação a cada um dos crimes, a conduta do extraditando, sendo que a descrição precária ou insuficiente inviabiliza o acolhimento do pedido.
-  > 5. Extradição indeferida. Pedido de prisão preventiva julgado prejudicado.
-  > (STF, Ext n. 1.995/DF, relator Ministro Flávio Dino, Primeira Turma, julgado em 19/10/2026, DJe de 23/10/2026.)
