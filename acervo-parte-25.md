@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 25 de 33 (decisões 241 a 250)
+# Acervo de Jurisprudência — Cury Advogados — parte 25 de 36 (decisões 241 a 250)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 327 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,222 +8,86 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 241. AREsp nº 3126435 / MT (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/04/2026.
-- Crime / Tema: Crimes contra a honra · Ameaça · Perseguição · Violência doméstica · Prova digital · Quebra da cadeia de custódia
-- Resumo: Prints unilaterais de conversa, sem perícia nem rastreabilidade, são inadmissíveis como prova. Acórdão anulado para novo julgamento.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3126435.pdf
+## 241. REsp nº 2204349 / MG (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Terceira Seção. Publicado em 20/08/2026.
+- Crime / Tema: Associação para o tráfico · Execução penal · Tema repetitivo
+- Resumo: Tema 1.374/STJ — O art. 112, § 3º, V, da LEP (progressão especial para gestante, mãe ou responsável por criança ou pessoa com deficiência) se interpreta de modo restritivo: "organização criminosa" é só a condenação nos termos da Lei 12.850/2013, e não abrange associação criminosa (art. 288 do CP) nem associação para o tráfico (art. 35 da Lei 11.343/2006). Recurso provido para retificar o cálculo de pena.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2204349.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. PROVA DIGITAL. CAPTURAS DE TELA DE APLICATIVO DE MENSAGENS. CADEIA DE CUSTÓDIA. CONFISSÃO EXTRAJUDICIAL. ANULAÇÃO DO ACÓRDÃO DE APELAÇÃO PARA NOVO JULGAMENTO, À LUZ DOS PARÂMETROS DA CADEIA DE CUSTÓDIA DA PROVA DIGITAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo interposto contra decisão que inadmitiu recurso especial fundado na alínea "a" do art. 105, III, da Constituição da República, em ação penal na qual o recorrente foi denunciado pelos crimes de difamação e injúria majoradas, por diversas vezes, ameaça em continuidade delitiva, perseguição majorada e violência psicológica contra a mulher, todos em concurso material.
-  > 2. A sentença de primeiro grau julgou improcedente a pretensão punitiva estatal e absolveu o recorrente, com fundamento no art. 386, VII, do CPP, por considerar insuficiente o conjunto probatório, baseado em prints de tela do aplicativo WhatsApp, sem realização de perícia, e no depoimento isolado da vítima.
-  > 3. Em apelação do Ministério Público, o Tribunal de origem reformou a sentença para considerar lícitos os printscreens, reputá-los suficientes, em conjunto com o depoimento da vítima e a suposta confissão extrajudicial, e condenar o recorrente pelos arts. 139 (Fato 1), 140 (Fato 2), ambos c/c art. 141, II e § 2º, em continuidade delitiva; 147 (Fato 3), caput; 147-A, § 1º, II (Fato 4) e 147-B (Fato 5), todos do Código Penal, em concurso material.
-  > 4. No recurso especial, o recorrente alegou violação aos arts. 158-B, 157 e 386, VII, do CPP, sustentando a invalidade das capturas de tela, por ausência de observância da cadeia de custódia e de perícia técnica, bem como a insuficiência da prova remanescente para embasar condenação.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 5. Há duas questões em discussão: (i) saber se capturas de tela de conversas em aplicativo de mensagens, produzidas unilateralmente pela vítima, sem perícia técnica e sem qualquer procedimento formal de preservação, coleta, acondicionamento e documentação do vestígio digital, atendem às exigências da cadeia de custódia e podem, isoladamente, servir de suporte à condenação penal; e (ii) saber se o depoimento da vítima, não corroborado por outros elementos idôneos, e a confissão extrajudicial não reproduzida em juízo são suficientes para afastar a dúvida razoável e infirmar a absolvição fundada no art. 386, VII, do CPP.
-  > III. RAZÕES DE DECIDIR
-  > 6. A materialidade e a autoria, no acórdão recorrido, repousam decisivamente em capturas de tela de mensagens extraídas do aplicativo WhatsApp, produzidos unilateralmente pela vítima, sem perícia no aparelho celular de origem e sem qualquer procedimento formal de preservação, coleta, acondicionamento ou documentação do vestígio digital, o que compromete a autenticidade, a mesmidade e a confiabilidade da prova.
-  > 7. À luz da jurisprudência desta Corte, a cadeia de custódia é condição de confiabilidade da prova digital e impõe ao Estado-acusação o ônus de demonstrar positivamente a integridade e a autenticidade dos dados telemáticos apresentados, sendo inadmissível presumir higidez de printscreens obtidos à margem de protocolos técnicos mínimos.
-  > 8. Em matéria de cadeia de custódia, não se exige prova positiva de fraude ou manipulação, mas demonstração objetiva, pelo órgão acusador, de que a prova foi obtida, preservada e apresentada segundo parâmetros legais e técnicos que permitam verificar eventual edição, supressão ou inserção de conteúdo, sob pena de inadmissibilidade ou de evidente fragilização do seu valor para fins condenatórios.
-  > 9. As capturas de tela de conversas em aplicativos, produzidas sem protocolo padronizado e sem documentação técnica, constituem recortes visuais altamente suscetíveis a manipulações imperceptíveis, razão pela qual, isoladamente, configuram prova intrinsecamente frágil e incapaz de sustentar condenação criminal, especialmente quando não submetidas a perícia no dispositivo de origem.
-  > 10. Afasta-se o fundamento do Tribunal de origem de que a ausência de indícios de adulteração ou de impugnação específica pela defesa supre a deficiência da cadeia de custódia, pois a lógica da distribuição do ônus probatório se inverte: não cabe à defesa provar manipulação, mas à acusação comprovar a integridade do vestígio digital apresentado.
-  > 11. Eventual confissão extrajudicial do investigado quanto ao envio de parte das mensagens, não reproduzida nem confirmada em juízo, não supre a deficiência estrutural da prova digital, por se tratar de meio de obtenção de prova que deve ser submetido ao contraditório judicial e corroborado por outros elementos independentes, nos termos do art. 155 do CPP e da jurisprudência consolidada desta Corte.
-  > 12. No caso concreto, afastados os printscreens por imprestabilidade técnica, remanesce essencialmente o depoimento da vítima, que o juízo de primeiro grau reputou firme, porém não corroborado por outros elementos probatórios idôneos, concluindo pela insuficiência para condenação; a reforma operada pelo Tribunal local, com base em prova digital tecnicamente não confiável, violou os arts. 157 e 158-B do CPP.
-  > IV. DISPOSITIVO E TESE
-  > 13. Resultado do Julgamento: Agravo conhecido para dar parcial provimento ao recurso especial, a fim de (i) declarar a inadmissibilidade da prova digital obtida sem perícia e rastreabilidade técnica, determinando o seu desentranhamento; (ii) anular o acórdão de apelação e determinar o retorno dos autos ao Tribunal de origem para novo julgamento, a fim de que aquela Corte analise se subsistem outros elementos autônomos e idôneos capazes de corroborar a hipótese acusatória.
-  > Tese de julgamento:
-  > 1. É ônus exclusivo do órgão acusador demonstrar a integridade e a autenticidade da prova digital apresentada, sendo inadmissível presumir a higidez de printscreens de conversas em aplicativos produzidos sem observância da cadeia de custódia e sem documentação técnica mínima.
-  > 2. Capturas de tela de conversas em aplicativos de mensagens, obtidas unilateralmente, sem perícia no dispositivo de origem e sem rastreabilidade do percurso probatório, configuram prova digital intrinsecamente frágil e, isoladamente, não são aptas a fundamentar condenação penal.
-  > 3. Depoimento isolado da vítima, desacompanhado de outros elementos probatórios idôneos, e confissão extrajudicial não reproduzida em juízo não constituem suporte suficiente para afastar a dúvida razoável e infirmar absolvição fundada no art. 386, VII, do CPP.
-  > (AREsp n. 3.126.435/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/4/2026, DJEN de 13/4/2026.)
+  > RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PENAL. EXECUÇÃO. PROGRESSÃO DE REGIME ESPECIAL. PRETENSÃO OBSTADA POR SE TRATAR DE REEDUCANDA CONDENADA POR ASSOCIAÇÃO PARA O TRÁFICO. INSTÂNCIAS ORDINÁRIAS AFIRMARAM A VEDAÇÃO DIANTE DO DISPOSTO NO ART. 112, § 3º, V, DA LEI N. 7.210/1984 (LEP). REQUISITOS CUMULATIVOS. MULHER GESTANTE OU MÃE DE CRIANÇAS OU PESSOA COM DEFICIÊNCIA QUE NÃO TENHA INTEGRADO ORGANIZAÇÃO CRIMINOSA. DISPOSIÇÃO LEGAL ESPECÍFICA E CLARA QUE NÃO ADMITE INTERPRETAÇÃO EXTENSIVA EM PREJUÍZO DO RÉU. MATÉRIA CONTROVERTIDA NO ÂMBITO DO SUPERIOR TRIBUNAL DE JUSTIÇA E DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE UNIFORMIZAÇÃO PARA GARANTIA DA SEGURANÇA JURÍDICA. INCISO V DO § 3º DO ART. 112 DA LEP. NORMA PENAL EM BRANCO. COMPLEMENTO NORMATIVO EXISTENTE. ART. 1º, § 1º, DA LEI N. 12.850/2013. INTERPRETAÇÃO EXTENSIVA IN MALAM PARTEM. IMPOSSIBILIDADE. PRINCÍPIOS DA LEGALIDADE, DA TAXATIVIDADE E DO FAVOR REI.
+  > 1. A questão posta no presente apelo nobre cinge-se a definir se o delito de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) equipara-se ou não ao crime de organização criminosa (art. 2º da Lei n. 12.850/2013), de modo a impedir a progressão especial de regime prevista no art. 112, § 3º, da Lei n. 7.210/1984 destinada a apenada gestante, mãe ou responsável por crianças ou pessoas com deficiência.
+  > 2. A redação do art. 112, § 3º, V, da LEP reflete aspecto até então não visível a todos: a literalidade do dispositivo não alcança o sentido dado pela interpretação conferida nos julgados que vedaram a progressão, configurando verdadeira interpretação extensiva do texto legal.
+  > 3. A previsão de "não ter integrado organização criminosa" não implica expressão genérica abrangedora de todas as espécies de grupos criminosos, mas, sim, de norma penal em branco, cuja subsunção perfeita dos fatos ao tipo penal exige uma complementação advinda de lei federal. E esse complemento já existe: art. 1º, § 1º, da Lei n. 12.850/2013.
+  > 4. O conceito de organização criminosa apresentado pelo legislador no art. 1º, § 1º, da Lei n. 12.850/2013, em respeito ao princípio da taxatividade, corolário do postulado da legalidade (estrita), demonstra quais os agrupamentos de pessoas devem ser objeto de alcance da referida lei.
+  > 5. Sobre esse enfoque, a jurisprudência do STJ elenca julgados que apreciaram minuciosamente a questão e concluíram no sentido da impossibilidade de o julgador, violando o princípio da taxatividade da lei penal, conferir interpretação extensiva à organização criminosa, constante do art. 112, § 3º, V, da LEP, com o fim de alcançar todas as formas de ajuntamento de pessoas com o intuito de cometer delitos.
+  > 6. A Sexta Turma do Superior Tribunal de Justiça pronunciou-se, quando do julgamento do HC n. 522.651/SP, capitaneado pelo voto condutor da Ministra Laurita Vaz, no sentido de que o art. 112, § 3º, V, da LEP, já dispõe de complemento normativo, não sendo legítimo que o julgador, em explícita violação do princípio da taxatividade da lei penal, interprete extensivamente o significado de organização criminosa a fim de abranger todas as formas de societas sceleris, como, por exemplo, a associação criminosa ou a associação para o tráfico ilícito de drogas.
+  > 7. Restou assentado que a vedação à interpretação extensiva in malam partem fica ainda mais evidente quando se trata de definir requisito que restringe a aplicação de benefício executório implementado por lei cuja finalidade é aumentar o âmbito de proteção às crianças ou pessoas com deficiência, as quais se encontram em situação de vulnerabilidade em razão de suas genitoras ou responsáveis se encontrarem reclusas em estabelecimentos prisionais.
+  > 8. A Quinta Turma, quando do julgamento do HC n. 679.715/MG (Ministro Reynaldo Soares da Fonseca), concluiu que, se houve por parte do legislador, incoerência legislativa ou se o ordenamento jurídico brasileiro possui mais de uma definição para o que vem a ser organização criminosa, deve-se, de toda sorte, tomar, conforme a orientação do STJ, o termo em sua acepção mais favorável à acusada, em atenção ao princípio do favor rei.
+  > 9. A fundamentação principal do entendimento adotado reside no princípio da legalidade – pilar do Direito Penal Constitucional e do Estado Democrático de Direito. Além disso, sob a ótica da taxatividade estrita, tal preceito obsta a aplicação da analogia in malam partem e veda qualquer interpretação extensiva que resulte prejuízo ao réu, ao sentenciado e ao reeducando.
+  > 10. O Supremo Tribunal Federal tem se pronunciado majoritariamente no mesmo sentido, vedando a interpretação extensiva do referido dispositivo, afirmando que o delito de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) não se equipara ao crime de organização criminosa, nos termos do art. 1º, § 1º, da Lei n. 12.850/2013.
+  > 11. Em observância aos princípios da legalidade e da taxatividade estrita – que vedam a analogia in malam partem e a interpretação extensiva em prejuízo do réu –, o art. 112, § 3º, V, da Lei n. 7.210/1984 limita-se às reeducandas condenadas por integrar organização criminosa (art. 1º, § 1º, da Lei n. 12.850/2013).
+  > 12. Tese de julgamento: Em atenção aos princípios da legalidade, da taxatividade e do favor rei, a interpretação do art. 112, § 3°, V, da LEP deve se dar de modo restritivo. Portanto, organização criminosa é somente a hipótese de condenação nos termos da Lei n. 12.850/2013, não abrangendo apenada que tenha participado de associação criminosa (art. 288 do CP) ou associação para o tráfico (art. 35 da Lei n. 11.343/2006).
+  > 13. Caso dos autos: As instâncias ordinárias obstaram a progressão de regime com fundamento no fato de a condenação pelo crime de associação para o tráfico estar inserida no contexto de organização criminosa do art. 112, § 3º, V, da Lei n. 7.210/1984.
+  > 14. Aplicando-se a tese ora definida, em atenção aos princípios da legalidade, da taxatividade e do favor rei, a interpretação do art. 112, § 3°, V, da LEP deve se dar de modo restritivo, não abrangendo apenadas pelo crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006).
+  > 15. Recurso especial provido para determinar ao Juízo das Execuções Penais que retifique o cálculo de penas da recorrente, abstendo-se de considerar a condenação pelo crime de associação para o tráfico de drogas para fins de análise do requisito contido no art. 112, § 3º, V, da Lei n. 7.210/1984.
+  > (REsp n. 2.204.349/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/8/2026, DJEN de 20/8/2026.)
 
-## 242. HC nº 1048611 / RS (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 17/03/2026.
-- Crime / Tema: Execução penal
-- Resumo: A remição pelo trabalho pode ser comprovada por prova testemunhal idônea, mesmo de outros presos, sobretudo quando o Estado falhou em registrar o trabalho (art. 126 da LEP). Proibir de antemão essa prova é ilegal. Ordem concedida para o juízo da execução reanalisar a remição.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1048611.pdf
+## 242. RHC nº 244894 / MG (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/08/2026.
+- Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
+- Resumo: Preventiva só pela contravenção de vias de fato, contra réu sem medida protetiva anterior nem descumprimento, é excessiva: a pena máxima não autoriza a prisão (art. 313 do CPP). Preventiva revogada, com medidas cautelares.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-244894.pdf
+
+## 243. HC nº 1112820 / RJ (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/08/2026.
+- Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
+- Resumo: Vias de fato contra adolescentes sem nenhuma lesão e hematomas leves na companheira não mostram gravidade concreta. Manter a preventiva fere a homogeneidade, porque a pena provável seria em regime aberto ou suspensa. Prisão substituída por cautelares, com parecer favorável do MPF.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112820.pdf
+
+## 244. HC nº 1122510 / BA (STJ)
+- Decisão monocrática (liminar). Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/08/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares · Superação da Súmula 691
+- Resumo: Superação excepcional da Súmula 691/STF — liminar para soltura imediata, paciente mantido preso em flagrante por mais de 72h sem qualquer controle jurisdicional da custódia, sem prejuízo de nova decretação de preventiva pelo Juízo natural, se fundamentada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1122510.pdf
+
+## 245. AgRg no AREsp nº 3136066 / MG (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 14/08/2026.
+- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Dosimetria
+- Resumo: Afastadas, em apelação só da defesa, circunstâncias judiciais negativas, a pena-base deve ser reduzida na mesma proporção (Tema 1.214/STJ). Agravo desprovido, mas HC de ofício para refazer a dosimetria.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3136066.pdf
 - Ementa oficial:
-  > DIREITO PENAL. EXECUÇÃO. HABEAS CORPUS. REMIÇÃO DE PENA PELO TRABALHO. PROVA TESTEMUNHAL. ORDEM CONCEDIDA.
-  > I. CASO EM EXAME
-  > 1. Habeas corpus impetrado contra decisão do Tribunal de Justiça do Rio Grande do Sul que negou provimento ao agravo em execução, mantendo decisão que indeferiu a produção de prova testemunhal e a remição pelo trabalho na função de "paneleiro".
-  > 2. O paciente alegou ter exercido a função de paneleiro no período de 15/9/2024 a 28/1/2025, na Penitenciária Estadual de Charqueadas, e requereu a remição de pena com base em prova testemunhal, diante da ausência de registro formal do trabalho pela administração prisional.
-  > 3. O Tribunal local considerou a prova testemunhal inidônea, por se tratar de depoimentos de outros apenados, que teriam interesse indireto na concessão do benefício.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 4. A questão em discussão consiste em saber se a prova testemunhal pode ser considerada idônea para comprovar o trabalho realizado pelo apenado, para fins de remição de pena, nos termos do art. 126 da Lei de Execução Penal.
-  > III. RAZÕES DE DECIDIR
-  > 5. A Lei de Execução Penal não há impedimento à produção da prova testemunhal como comprovação do trabalho para fins de remição de pena, sendo possível a utilização de outros meios probatórios, como a prova testemunhal.
-  > 6. A jurisprudência do Tribunal Superior admite a produção de prova testemunhal para fins de remição pelo trabalho, desde que idônea e devidamente fundamentada.
-  > 7. A proibição prévia da produção de prova testemunhal para comprovação de trabalho interno é indevida, especialmente quando há alegação de falha estatal na fiscalização e registro do trabalho realizado.
-  > 8. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal.
-  > IV. DISPOSITIVO E TESE
-  > 9. Ordem concedida para reconhecer a idoneidade da prova testemunhal e determinar a reanálise do pedido de remição pelo Juízo da execução.
-  > Tese de julgamento:
-  > 1. A remição pelo trabalho pode ser comprovada por meio de prova testemunhal, desde que idônea e devidamente fundamentada.
-  > 2. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal para fins de remição pelo trabalho.
-  > (HC n. 1.048.611/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026.)
+  > AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 7/STJ. INSURGÊNCIA GENÉRICA. APLICAÇÃO DA SÚMULA 182/STJ MANTIDA. HABEAS CORPUS DE OFÍCIO. DOSIMETRIA. TEMA 1.214/STJ. AFASTAMENTO DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS NA SENTENÇA. AUSÊNCIA DE REDUÇÃO PROPORCIONAL DA PENA-BASE. ILEGALIDADE MANIFESTA. Agravo regimental improvido. Concedido habeas corpus de ofício, nos termos do dispositivo.
+  > (AgRg no AREsp n. 3.136.066/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2026, DJEN de 14/8/2026.)
 
-## 243. AgRg no REsp nº 2237192 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/03/2026.
-- Crime / Tema: Manipulação de mercado · Imparcialidade do juiz
-- Resumo: Suspeição de juiz acionista da empresa ligada à investigação (manipulação de mercado): a parcialidade é aferível objetivamente, e o prejuízo decorre dela. Mantida a anulação de todos os atos do magistrado.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2237192.pdf
+## 246. RHC nº 224142 / SE (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/08/2026.
+- Crime / Tema: Estelionato · Lavagem de dinheiro · Acesso da defesa às provas
+- Resumo: Laudo dos dispositivos apreendidos e dados bancários que embasaram a denúncia não franqueados à defesa: processo anulado a partir da intimação para a resposta à acusação, com juntada e acesso imediato a esse material.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-224142.pdf
+
+## 247. REsp nº 2261350 / AL (STJ)
+- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 12/08/2026.
+- Crime / Tema: Roubo · Organização criminosa · Corrupção de menores · Reconhecimento de pessoa
+- Resumo: Reconhecimento feito pela simples exibição de oito fotos, sem alinhar pessoas parecidas, viola o art. 226 do CPP. A confirmação em juízo não o convalida, porque a memória da vítima já estava contaminada, e em juízo ela admitiu que o assaltante estava de rosto coberto e que reconheceu o réu pelo "biótipo parecido". O TJAL divergiu do Tema 1.258. Sem outras provas independentes, o réu foi absolvido (art. 386, VII, do CPP), com pena de 18 anos e 4 meses afastada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2261350.pdf
+
+## 248. RHC nº 238535 / RS (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/08/2026.
+- Crime / Tema: Organização criminosa · Extorsão · Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
+- Resumo: Defesa sem acesso aos arquivos das extrações (UFDR): audiência suspensa até o acesso efetivo, com entrega das mídias e declaração formal sobre armazenamento e histórico de manipulação, para permitir o controle da cadeia de custódia.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-238535.pdf
+
+## 249. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
+- Decisão colegiada. Relator: Des. Carlos Eduardo Contar. 2ª Câmara Criminal. Publicado em 04/08/2026.
+- Crime / Tema: Extorsão · Quebra da cadeia de custódia · Prova digital
+- Resumo: Absolvição por insuficiência de provas: prints de WhatsApp sem perícia não bastam para condenar. Ausência de integridade do material digital.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0027305-77-2022.pdf
 - Ementa oficial:
-  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. INCOMPETÊNCIA DO RELATOR. PREVENÇÃO NÃO OBSERVADA. JULGAMENTO DE MÉRITO DO RECURSO. PRECLUSÃO DA ALEGAÇÃO. ART. 71, § 4º, RISTJ. 2. OFENSA AO ART. 563 DO CPP. SUSPEIÇÃO DO MAGISTRADO. ACIONÁRIO DE EMPRESA RELACIONADA COM A INVESTIGAÇÃO. PARCIALIDADE AFERÍVEL OBJETIVAMENTE. PREJUÍZO DEMONOSTRADO. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
-  > 1. Quanto à alegada incompetência deste relator, registro que a distribuição interna do STJ tem natureza relativa, motivo pelo qual eventual prevenção não reconhecida ou reconhecida equivocadamente deve ser suscitada até o início do julgamento, sob pena de preclusão. Com efeito, "o entendimento do STJ é de que a prevenção deve ser suscitada no primeiro momento em que a parte tiver oportunidade, que no caso é a própria distribuição do recurso, ou até o instante que precede o início do seu julgamento". (EDcl no AgRg no AREsp n. 150.035/DF, relator Ministro Humberto Martins, relator para acórdão Ministro Herman Benjamin, Segunda Turma, julgado em 10/11/2015, DJe de 2/2/2017.)
-  > 2. A alegação ministerial consiste em suposta ofensa ao art. 563 do CPP, por considerar que os atos foram anulados sem que se perquirisse a respeito do efetivo prejuízo. Contudo, conforme explicitado na decisão monocrática, a suspeição do magistrado foi verificada em razão de ele possuir 47 participações acionárias da Companhia em que se investigava a divulgação indevida de informações no mercado.
-  > - Nesse contexto, o acórdão recorrido consignou que "a condição que deu causa à mencionada suspeição já existia desde antes da instauração do IPL originário (sendo preexistente portanto ao início das investigações policiais), de modo que atinge todos os atos proferidos pelo Magistrado Dr. VITOR BARBOSA VALPUESTA naquele feito e nos correlacionados, por razões que, como visto acima, são bastante objetivas" (e-STJ fl. 228).
-  > - Como visto, a Corte Regional, ao analisar o caso concreto, considerou que o fato de o juiz ser acionista da IRB BRASIL RESSEGUROS - companhia relacionada à investigação, uma vez que se averiguava a desvalorização de cotações de ações da companhia em virtude de divulgação indevida de informações supostamente inverídicas ao mercado - já revelava o prejuízo, diante da ausência de imparcialidade aferível objetivamente. Dessa forma, não há se falar em ofensa ao art. 563 do CPP.
-  > 3. Agravo regimental a que se nega provimento.
-  > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)
+  > APELAÇÃO – DIREITO PROCESSUAL PENAL – EXTORSÃO – ABSOLVIÇÃO – PROVA DIGITAL – APONTAMENTO DE SÉRIA DÚVIDA QUANTO À ORIGEM E ELABORAÇÃO – IMPOSSIBILIDADE DE AFERIÇÃO TÉCNICA DE SUA CONFIABILIDADE – ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSITIVA – PROVIMENTO. Ainda que o conjunto de indícios apontem para a possível responsabilidade do acusado, não sendo possível aferir-se tecnicamente a rastreabilidade da prova digital coligida e fundamentadamente impugnada pela defesa, de rigor a absolvição, em homenagem ao princípio do in dubio pro reo. Apelação defensiva a que se dá provimento, a fim de acolher o pleito absolutório.
+  > (TJMS, Apelação Criminal n. 0027305-77.2022.8.12.0001, relator Desembargador Carlos Eduardo Contar, 2ª Câmara Criminal, julgado em 31/7/2026, publicado em 4/8/2026.)
 
-## 244. AgRg no HC nº 1017481 / RN (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 12/03/2026.
-- Crime / Tema: Tráfico de drogas · Prova digital · Fundada suspeita · Cabimento do HC
-- Resumo: O acesso da polícia às conversas do celular do corréu sem autorização judicial é ilícito. Essa prova e as dela derivadas devem ser desentranhadas, cabendo ao juízo verificar se há prova independente que sustente a condenação. A busca pessoal, feita com fundada suspeita, foi considerada válida (art. 244 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1017481.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA PESSOAL E ACESSO A DADOS DE CELULAR SEM AUTORIZAÇÃO JUDICIAL. PROVAS ILÍCITAS. AGRAVO PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão transitado em julgado.
-  > 2. O agravante sustenta a ocorrência de flagrante ilegalidade na busca pessoal realizada sem fundada suspeita e no acesso ao conteúdo do celular do corréu sem autorização judicial, o que teria resultado na sua identificação como autor do crime de tráfico de drogas.
-  > 3. Requer a reconsideração da decisão recorrida para que seja reconhecida a invalidade das provas obtidas ilegalmente, ou, subsidiariamente, a apreciação pela Quinta Turma para concessão da ordem.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 4. Há duas questões em discussão: (i) saber se a busca pessoal foi realizada sem fundada suspeita; e (ii) saber se o acesso ao conteúdo do celular do corréu, sem autorização judicial, configura prova ilícita e se as provas derivadas devem ser desentranhadas dos autos.
-  > III. RAZÕES DE DECIDIR
-  > 5. A busca pessoal foi realizada com base em policiamento ostensivo e fundada suspeita, conforme previsto no art. 244 do Código de Processo Penal, sendo legítima a revista que resultou na apreensão de porções de cocaína com o corréu.
-  > 6. O acesso aos históricos de mensagens e conversas do celular do corréu, realizado diretamente pela polícia sem autorização judicial, configura prova ilícita, conforme entendimento consolidado pelo Superior Tribunal de Justiça.
-  > 7. As provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
-  > 8. Cabe ao juízo de primeira instância verificar a existência de prova independente e suficiente para eventual manutenção da condenação pelo delito de tráfico de drogas.
-  > IV. DISPOSITIVO E TESE
-  > 9. Resultado do Julgamento: Agravo provido para declarar a nulidade das provas obtidas mediante acesso ao conteúdo do celular do corréu sem autorização judicial, bem como de todas as provas delas decorrentes.
-  > Tese de julgamento:
-  > 1. A busca pessoal é legítima quando realizada com base em policiamento ostensivo e fundada suspeita, nos termos do art. 244 do Código de Processo Penal.
-  > 2. É ilícito o acesso as conversas mantidas em aparelho celular diretamente por autoridades policiais sem prévia autorização judicial.
-  > 3. Provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
-  > (AgRg no HC n. 1.017.481/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
-
-## 245. RHC nº 223931 / PE (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
-- Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-223931.pdf
-- Ementa oficial:
-  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. OCORRÊNCIA. RECURSO PROVIDO.
-  > 1. O trancamento da ação penal, somente é possível, na via estreita do habeas corpus ou do seu respectivo recurso ordinário em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de materialidade ou de autoria delitiva.
-  > 2. Limitando-se a peça acusatória a genericamente imputar as condutas de tráfico e associação para o tráfico, sem qualquer descrição concreta da suposta coordenação, da divisão específica de tarefas ou do vínculo estável entre os réus, verifica-se a inobservância dos requisitos previstos no art. 41 do CPP.
-  > 3. A mera referência a registros policiais pretéritos e a apreensões desacompanhadas de indicação precisa de datas, locais e circunstâncias dos fatos não supre a exigência legal de descrição mínima apta a demonstrar a justa causa.
-  > 4. A generalidade da imputação compromete o exercício da ampla defesa e do contraditório, impondo o reconhecimento da inépcia da denúncia, com extensão aos demais denunciados, nos termos do art. 580 do CPP.
-  > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
-  > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
-
-## 246. APn nº 927 / DF (STJ)
-- Decisão colegiada. Relatora: Min.ª Maria Isabel Gallotti. Corte Especial. Publicado em 10/03/2026.
-- Crime / Tema: Lavagem de dinheiro · Prescrição
-- Resumo: A lavagem é crime autônomo: pode ser julgada antes do crime antecedente (corrupção e organização criminosa), bastando prova da infração antecedente, ainda que prescrita (art. 2º, II e § 1º, da Lei 9.613/1998). Na modalidade "ocultar", é permanente, e a prescrição corre da descoberta dos valores. A majorante do art. 1º, § 4º, só incide se a própria lavagem for praticada por organização criminosa. O dano moral coletivo exige ação própria. Conselheiro do TCE-RJ condenado a 13 anos e a esposa a 3 anos e 8 meses, com absolvições parciais. Vencidos quatro ministros, entre eles o revisor, que absolviam os réus.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apn-927.pdf
-- Ementa oficial:
-  > AÇÃO PENAL ORIGINÁRIA. CONSELHEIRO DO TRIBUNAL DE CONTAS DO RIO DE JANEIRO E ESPOSA. PRERROGATIVA DE FORO. CRIME ANTECEDENTE. APN 897/DF. LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES NO ÂMBITO DE ORGANIZAÇÃO CRIMINOSA EM CONTINUIDADE DELITIVA. AUTONOMIA DO CRIME DE LAVAGEM. PRESCRIÇÃO CONTADA DA DESCOBERTA DOS VALORES. PROVAS DA MATERIALIDADE E AUTORIA DOS CRIMES. PROCEDÊNCIA PARCIAL DA PRETENSÃO PUNITIVA ESTATAL. PERDA DO CARGO. PERDIMENTO DO PRODUTO E PROVEITO DO CRIME. INDENIZAÇÃO POR DANOS COLETIVOS. NECESSIDADE DE APURAÇÃO EM AÇÃO CÍVEL PRÓPRIA.
-  > 1. A Lei de Lavagem de Capitais estabelece que o processo e o julgamento pelo crime de lavagem independem do processo e do julgamento pelas infrações antecedentes (art. 2º, II, Lei 9.613/98). Trata-se de crime autônomo, devendo a denúncia ser "instruída com indícios suficientes da existência da infração penal antecedente, "sendo puníveis os fatos previstos nesta Lei, ainda que desconhecido ou isento de pena o autor, ou extinta a punibilidade da infração penal antecedente” (art. 2º, § 1º, Lei 9.613/98).
-  > 2. O crime de lavagem de bens, direitos ou valores, quando praticado na modalidade típica de “ocultar”, é permanente, protraindo-se sua execução até que os objetos materiais do branqueamento se tornem conhecidos, razão pela qual o início da contagem do prazo prescricional tem por termo inicial o dia da cessação da permanência, nos termos do art. 111, III, do Código Penal. (AP 863, Relator Ministro EDSON FACHIN, Primeira Turma, julgado em 23-5-2017, ACÓRDÃO ELETRÔNICO DJe-191 DIVULG 28-8-2017 PUBLIC 29-8-2017)
-  > 3. Dessa forma, comprovada, de forma indene de dúvida, a prática de crimes de corrupção antecedentes, praticados no âmbito de organização criminosa, a ausência de oferecimento de denúncia em relação aos específicos atos de corrupção passiva já cobertos pela prescrição, não impede o processo e julgamento dos crimes de lavagem praticados no escopo de ocultar os valores.
-  > 4. As operações “Descontrole” e “Quinto do Ouro”, juntamente com as investigações subsequentes após sua deflagração, foram conduzidas para apurar uma organização criminosa envolvida em casos de corrupção ativa e passiva, bem como lavagem de dinheiro relacionada à cobrança de propina em uma grande quantidade de contratos administrativos celebrados com o Estado do Rio de Janeiro. As atividades da ação criminosa desenvolveram-se, ao menos, a partir de 1999 até dezembro de 2016.
-  > 5. Com base em informações e documentos fornecidos por dirigentes de empresas com as quais foram celebrados acordos de colaboração premiada, além de outros elementos apresentados pelo então ex-presidente do TCE-RJ, seu filho e outros agentes envolvidos nos crimes, todos como colaboradores, foi compilado extenso conjunto de evidências demonstrando que essa organização criminosa incluía Conselheiros do Tribunal de Contas. As acusações apresentadas pelos colaboradores foram fartamente comprovadas ao longo da instrução, notadamente pelos documentos juntados aos autos, que incluem formulários de abertura de diversas contas, inclusive na Suíça, documentos de identidade do beneficiário, correspondências, extratos bancários de 1998 a 2016, e detalhes das operações de crédito e débito. São fartas as provas da prática do crime antecedente (organização criminosa/corrupção) e da elaborada tentativa de ocultar os recursos obtidos por meio do mencionado crime.
-  > 6. As preliminares de cerceamento de defesa foram analisadas anteriormente pela Corte Especial, que entendeu pela ausência de necessidade e pertinência das diligências requeridas, seja a oitiva de testemunhas residentes no exterior, seja a realização de perícia contábil de documento particular juntado aos autos.
-  > 7. José Gomes Graciosa assumiu o cargo de Conselheiro do Tribunal de Contas do Estado do Rio de Janeiro em 1997. Foi Vice-Presidente do Tribunal de Contas Estadual entre 1998 e 2000 e Presidente por três mandatos consecutivos, no período de 2001 a 2006. Conforme ficou comprovado nos autos, o acusado ocultou valores recebidos e distribuídos a partir de vantagens indevidas obtidas em função do cargo no Tribunal de Contas. Os recursos nas contas são fruto de corrupção. Além disso, as datas de abertura das contas bancárias e transferências de recursos coincidem com o período em que José Gomes Graciosa era Conselheiro, Vice-Presidente e Presidente do TCE/RJ.
-  > 8. A materialidade da infração antecedente e a contemporaneidade dos valores, cuja origem e licitude os réus não conseguiram demonstrar, foram cabalmente comprovadas a partir do que consta dos autos da presente ação penal por lavagem de dinheiro, bem como dos autos da APn 897, cuja denúncia e respectivos apensos foram juntados aos autos da ação penal em julgamento (em que há persecução criminal do delito antecedente de pertencimento a organização criminosa voltada à prática de corrupção, bem como de crimes de corrupção não prescritos, posteriores à ocultação dos valores objeto da denúncia ora em apreciação). Não há dúvidas de que os valores depositados no exterior decorrem de atos de corrupção praticados por meio de organização criminosa, estando vinculados de forma inequívoca aos atos de lavagem denunciados.
-  > 9. CONJUNTO DE FATOS 1: Após a consumação dos crimes antecedentes de corrupção e pertencimento a organização criminosa, o denunciado José Gomes Graciosa, de forma consciente e voluntária, em duas ocasiões distintas, teve como objetivo ocultar a origem ilícita do dinheiro obtido das propinas. O denunciado ocultou e dissimulou a origem, natureza, disposição, movimentação e propriedade de pelo menos CHF 1.161.327,95 francos suíços, mantendo e movimentando recursos ilícitos nas seguintes contas no exterior: 1) conta n.º 279-C0642036, em nome de José Gomes Graciosa, UBS Switzerland AG, na Confederação Suíça, mantida entre 31/07/1998 e 05/02/2016, e 2) conta n.º 0240-00586304 (master), em nome da offshore LA CAMUS CORP, beneficiário final José Gomes Graciosa, no banco UBS Switzerland AG, na Suíça, mantida entre 04/01/2000 e 05/10/2016 (Lavagem de Ativos: art. 1 º, § 4º, da Lei 9.613/98). A ré Flávia Graciosa deve ser absolvida quanto a esta imputação.
-  > 10. CONJUNTO DE FATOS 2: Em 5 de outubro de 2016, o acusado José Gomes Graciosa, com a ajuda consciente e voluntária de sua esposa Flávia Graciosa, ocultou e dissimulou a origem, natureza, disposição, movimentação e propriedade de CHF 1.147.720,36 (um milhão, cento e quarenta e sete mil, setecentos e vinte francos suíços e trinta e seis centavos). O crime ocorreu tendo como antecedente o delito de pertencimento à organização criminosa voltada à prática de corrupção, integrada pelo denunciado e outros conselheiros do Tribunal de Contas do Rio de Janeiro. A lavagem foi praticada por meio de cinco transferências de valores de origem ilícita das contas: 0240-00586304.01G (CHF), 0240-00586304.17X (JPY), 0240-00586304.18D (GBP), 0240-00586304.60K (USD) e 0240-00586304.70Q (EUR), em nome da offshore LA CAMUS CORP, no banco UBS Switzerland AG, na Confederação Suíça controladas por JOSÉ GOMES GRACIOSA, para a conta IBAN IT10C 02008 05008 000400406198, mantida no banco Unicredit S.P.A., em nome CARITAS INTERNATIONALIS, com o intuito de ocultar a origem criminosa dos valores, esconder o verdadeiro proprietário e dificultar o rastreamento dos recursos (Lavagem de Ativos: art. 1 º, § 4º, da Lei 9.613/98). Condenação de ambos os réus quanto ao conjunto de fatos 2.
-  > 11. CONJUNTO DE FATOS 3: Segundo a denúncia, em 5 de fevereiro de 2016, José Gomes Graciosa, de forma consciente e voluntária, com a ajuda essencial de sua esposa Flávia, ocultou e dissimulou a origem, natureza, disposição, movimentação e propriedade do valor de USD 1.079,26. Utilizando-se de uma transferência bancária, esses valores, provenientes de corrupção passiva, foram transferidos da conta nº 279-C0642036, mantida no UBS Switzerland AG em nome JOSÉ GOMES GRACIOSA, para a conta IBAN PT5000 360314991000299126, no banco Caixa Econômica Montepio Geral, em nome de JOSÉ MATHEUS HOFBAUER GRACIOSA, filho dos réus. Improcedência da denúncia no ponto. Não há evidências de que a transferência do valor de USD 1.079,26, para o próprio filho, tenha tido por objetivo lavar capital, uma vez que a módica soma é compatível com a finalidade, alegada pela defesa, de auxiliar a manutenção do filho em Portugal. Absolvição de ambos os réus quanto ao conjunto de fatos 3.
-  > 12. A instituição bancária suíça forneceu documentos que comprovam que José Gomes Graciosa era o beneficiário final das contas descritas nos conjuntos de fatos 1 e 2, mantendo parte dos valores oriundos dos crimes antecedentes ocultos na Suíça. Também foram enviados registros de contato com Flávia Graciosa, que transmitia orientações sobre as movimentações bancárias e atuava como intermediária de José Gomes Graciosa. Os documentos fornecidos incluem formulários de abertura das contas, documentos de identidade do beneficiário, correspondências, extratos bancários, e detalhes das operações de crédito e débito. Ré Flávia Graciosa condenada apenas pelo conjunto de fatos 2.
-  > 13. Estando a materialidade e autoria dos crimes fartamente demonstradas nos autos, é de rigor a condenação dos réus pela prática dos crimes de lavagem e ocultação de ativos.
-  > 14. Não incide a causa de aumento prevista no art. 1º, § 4º, da Lei 9613/98. Embora as infrações antecedentes tenham sido praticadas por meio de organização criminosa, não o foi a lavagem de capitais. Sendo a lavagem crime autônomo, para incidir a causa especial de aumento em questão, a própria lavagem teria de ter sido praticada por intermédio de organização criminosa, o que foi o caso.
-  > 15. Penas finais: (a) JOSÉ GOMES GRACIOSA: 13 anos de reclusão, em regime inicial fechado, e 347 dias-multa, no patamar de 1 salário mínimo cada, no patamar de 1 salário mínimo cada; (b) FLÁVIA LOPES SEGURA: 3 anos e 8 meses de reclusão, em regime inicial aberto, e 40 dias-multa, no patamar de 1 salário mínimo cada, substituída a pena privativa de liberdade aplicada, no caso da ré, por 2 penas restritivas de direito, nomeadamente: prestação de serviços à comunidade e limitação de fim de semana, nos termos que vierem a ser pormenorizados pelo juízo da execução da pena.
-  > 16. Dano moral coletivo: necessidade de ação própria, no caso concreto.
-  > 17. Ação penal julgada procedente em parte, porque: (a) absolvida a corré quanto às imputações do conjunto de fatos 1; (b) afastada a continuidade delitiva alegada quanto ao conjunto de fatos 2, beneficiando ambos os réus; (c) absolvidos ambos os réus quanto às imputações do conjunto de fatos 3.
-  > (APn n. 927/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 4/2/2026, DJEN de 10/3/2026.)
-
-## 247. REsp nº 2194002 / MS (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 04/03/2026.
-- Crime / Tema: Contrabando · Organização criminosa · Continuidade delitiva
-- Resumo: Intervalo de mais de 30 dias entre os crimes não afasta, por si, a continuidade delitiva: reconhecida entre ciclos de contrabando com o mesmo modo de agir. REsp do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2194002.pdf
-- Ementa oficial:
-  > DIREITO PENAL. RECURSO ESPECIAL. OPERAÇÃO NEPSIS. INSURGÊNCIA MINISTERIAL. RECONHECIMENTO DE CONTINUIDADE DELITIVA. CONTRABANDO DE CIGARROS ESTRANGEIROS. RECURSO IMPROVIDO.
-  > I. CASO EM EXAME
-  > 1. Recurso especial interposto pelo Ministério Público Federal, fundado no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região que reconheceu a continuidade delitiva entre os delitos de contrabando de cigarros estrangeiros referentes ao 3º ciclo de 2017 (5/6 ao início de julho) e ao 4º ciclo de 2017 ( 19/9 ao início de dezembro).
-  > 2. O acórdão recorrido reconheceu a continuidade delitiva com base na similitude do modus operandi e no lapso temporal entre os crimes, afastando o concurso material e aplicando o aumento de pena pelo crime continuado à razão máxima de 2/3.
-  > 3. O Ministério Público Federal sustenta violação do art. 71, caput, do Código Penal, alegando que o interstício temporal superior a 30 dias e as diferentes condições de lugar afastam a conformação do crime continuado, impondo o concurso material. Subsidiariamente, aponta omissão no acórdão recorrido (violação do art. 619 do CPP) quanto às circunstâncias de lugar e à habitualidade delitiva como fator excludente da continuidade delitiva.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se o reconhecimento da continuidade delitiva entre os delitos de contrabando referentes ao 3º e 4º ciclos de 2017, com interstício superior a 30 dias e diferentes condições de lugar, é válido à luz do art. 71 do Código Penal.
-  > 5. Subsidiariamente, discute-se se houve omissão no acórdão recorrido quanto às circunstâncias de lugar e à habitualidade delitiva como fator excludente da continuidade delitiva, em violação ao art. 619 do Código de Processo Penal.
-  > III. RAZÕES DE DECIDIR
-  > 6. O crime continuado é uma ficção jurídica que visa mitigar o rigor excessivo das penas cumuláveis a crimes praticados em desdobramento, desde que preenchidos os requisitos objetivos e subjetivos previstos no art. 71 do Código Penal.
-  > 7. Embora a jurisprudência do Superior Tribunal de Justiça adote o parâmetro de 30 dias como interstício temporal máximo entre os eventos para fins de continuidade delitiva, admite-se a flexibilização desse critério em casos excepcionais, considerando as peculiaridades do caso concreto.
-  > 8. No caso em análise, a flexibilização do parâmetro jurisprudencial está devidamente justificada no acórdão atacado: o lapso temporal verificado entre os crimes praticados não é extenso a ponto de afastar o reconhecimento da continuidade delitiva, especialmente considerando que foram praticadas 47 condutas delitivas com modus operandi similar, envolvendo transporte de cargas ilícitas em veículos de grande porte.
-  > 9. Não há violação do art. 619 do Código de Processo Penal, pois o acórdão recorrido apresenta fundamentação suficiente e concreta para justificar o reconhecimento da continuidade delitiva, não havendo omissão relevante.
-  > IV. DISPOSITIVO E TESE
-  > 10. Resultado do Julgamento: Recurso especial improvido.
-  > Tese de julgamento:
-  > 1. O crime continuado é uma ficção jurídica que visa mitigar o rigor excessivo das penas cumuláveis a crimes praticados em desdobramento, desde que preenchidos os requisitos objetivos e subjetivos previstos no art. 71 do Código Penal.
-  > 2. A jurisprudência do Superior Tribunal de Justiça admite, de maneira excepcional, a flexibilização do interstício temporal máximo de 30 dias entre as condutas criminosas para fins de reconhecimento da continuidade delitiva, considerando as peculiaridades do caso concreto.
-  > (REsp n. 2.194.002/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/2/2026, DJEN de 4/3/2026.)
-
-## 248. AgRg no HC nº 1014212 / ES (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 20/02/2026.
-- Crime / Tema: Homicídio qualificado · Associação criminosa · Prova digital · Quebra da cadeia de custódia · Prisão e medidas cautelares
-- Resumo: Dúvida razoável sobre a integridade da prova digital exige perícia oficial; preventiva substituída por cautelares enquanto a prova é verificada. Agravo parcialmente provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1014212.pdf
-- Pedido de extensão: https://ladirf.github.io/acervo/pdfs/ext-hc-1014212.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. PROVA DIGITAL. CADEIA DE CUSTÓDIA. NECESSIDADE DE PERÍCIA TÉCNICA COMPLEMENTAR. NECESSIDADE DE CONFIRMAÇÃO DA FIDEDIGNIDADE DOS ELEMENTOS PROBATÓRIOS DIGITAIS. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES. PROPORCIONALIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto contra decisão que denegou ordem de habeas corpus.
-  > 2. O agravante foi preso pela prática dos crimes previstos nos arts. 121, § 2º, I e IV, e 288 (homicídio e associação criminosa), ambos do Código Penal. A defesa alegou excesso de prazo na prisão preventiva e quebra da cadeia de custódia das provas, consistindo em prints de conversas de WhatsApp, obtidos mediante acesso direto de agentes policiais aos aparelhos, interceptações telefônicas, estação rádio base e imagens de videomonitoramento, juntadas aos autos sem perícia técnica, em violação aos arts. 158-A e 158-B do Código de Processo Penal.
-  > 3. O Tribunal de origem denegou a ordem de habeas corpus, entendendo que não houve demonstração de prejuízo concreto para a decretação de nulidade das provas e que o prazo processual não excedeu os limites da razoabilidade.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 4. Há duas questões em discussão: (i) saber se houve quebra da cadeia de custódia das provas, apta a comprometer sua validade; e (ii) saber se houve excesso de prazo na prisão preventiva, caracterizando constrangimento ilegal.
-  > III. RAZÕES DE DECIDIR
-  > 5. A prova digital possui características ontológicas de volatilidade e modificabilidade que exigem rigor técnico na sua coleta e preservação. O ônus de comprovar a integridade e confiabilidade das fontes de prova (identidade) incumbe ao Estado-acusação. A dúvida razoável sobre a inalterabilidade dos dados não pode militar em desfavor do réu.
-  > 6. Ainda que se distingam documentos digitais (visualizáveis de plano) de vestígios complexos, a segurança jurídica do processo penal não admite condenações baseadas em elementos cuja origem seja questionável e não passível de verificação. A ausência de demonstração cabal nos autos sobre os procedimentos de preservação recomenda, por cautela, a submissão dos dispositivos à análise pericial.
-  > 7. Para que a prova digital seja válida, é imperativo assegurar sua identidade e inalterabilidade, isto é, a correspondência fidedigna entre o dado coletado e o apresentado em juízo. Diante da incerteza sobre a adoção de salvaguardas técnicas no momento da apreensão, impõe-se a realização de perícia complementar para aferir a integridade do material e permitir o contraditório efetivo.
-  > 8. A necessidade de confirmação pericial da fidedignidade dos elementos digitais, embora não afaste os indícios de autoria, recomenda a substituição da prisão preventiva por medidas cautelares diversas.
-  > IV. Dispositivo e tese
-  > 9. Agravo regimental parcialmente provido. Ordem concedida em parte para: (a) determinar o encaminhamento dos dispositivos à perícia oficial para verificação de integridade; (b) substituir a prisão preventiva por medidas cautelares diversas.
-  > Tese de julgamento:
-  > 1. Havendo dúvida razoável sobre a integridade e autenticidade da prova digital, é necessária a realização de exame pericial para assegurar a confiabilidade do material e o exercício do contraditório.
-  > 2. Quando os principais elementos probatórios de autoria consistem em dados digitais cuja fidedignidade necessita de confirmação mediante exame pericial, a proporcionalidade recomenda a substituição da prisão preventiva por medidas cautelares diversas até a conclusão da diligência técnica.
-  > (AgRg no HC n. 1.014.212/ES, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 10/2/2026, DJEN de 20/2/2026.)
-
-## 249. AgRg no AREsp nº 2583516 / TO (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
-- Crime / Tema: Lavagem de dinheiro
-- Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2583516.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL. LAVAGEM DE DINHEIRO. AUSÊNCIA DE DOLO ESPECÍFICO. SÚMULAS 7 E 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que, conhecendo do agravo, não conheceu do recurso especial, com fundamento nas Súmulas 7 e 83 do Superior Tribunal de Justiça, mantendo o acórdão do Tribunal Regional Federal da 1ª Região que absolveu os acusados quanto ao crime de lavagem de dinheiro (art. 1º da Lei nº 9.613/1998).
-  > 2. O agravante sustenta que os depósitos fracionados realizados em curto espaço de tempo, inclusive em contas de terceiros, logo após os crimes patrimoniais praticados contra agências dos Correios, seriam suficientes para caracterizar a conduta típica de ocultação ou dissimulação, configurando o delito de lavagem de capitais. Argumenta que a controvérsia envolveria mera revaloração jurídica das premissas fáticas, não incidindo o óbice da Súmula 7 do STJ, e que o acórdão recorrido não estaria em consonância com a jurisprudência desta Corte, afastando a aplicação da Súmula 83.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 3. A questão em discussão consiste em saber se os depósitos fracionados realizados em curto espaço de tempo, inclusive em contas de terceiros, logo após os crimes patrimoniais praticados contra agências dos Correios, configuram o delito de lavagem de capitais, considerando a necessidade de demonstração do dolo específico e do nexo causal entre o delito antecedente e os valores depositados.
-  > III. RAZÕES DE DECIDIR
-  > 4. O acórdão do Tribunal Regional Federal da 1ª Região concluiu pela ausência de demonstração do elemento subjetivo específico do tipo penal, consistente na finalidade de ocultar ou dissimular a origem ilícita dos valores, e pela inexistência de sofisticação, dissimulação ou desvinculação apta a emprestar aparência de licitude ao produto do crime.
-  > 5. O entendimento do Tribunal de origem está alinhado à jurisprudência consolidada do Superior Tribunal de Justiça, que estabelece que o simples depósito de valores ilícitos em conta própria não configura, por si só, o crime de lavagem de dinheiro.
-  > 6. Quanto aos depósitos realizados em contas de terceiros, o Tribunal de origem concluiu que não ficou suficientemente demonstrado o nexo entre o delito antecedente e os valores depositados, sendo inviável o revolvimento do conjunto fático-probatório na via do recurso especial, conforme Súmula 7 do STJ.
-  > 7. A pretensão ministerial de revaloração jurídica das circunstâncias concretas do caso exige nova apreciação de elementos já valorados pelas instâncias ordinárias, o que extrapola os limites da cognição excepcional.
-  > 8. O acórdão recorrido está em consonância com a orientação jurisprudencial do Superior Tribunal de Justiça, que distingue o mero depósito de valores ou sua utilização da efetiva estruturação voltada à ocultação ou dissimulação, atraindo corretamente a incidência da Súmula 83 do STJ.
-  > IV. DISPOSITIVO E TESE
-  > 9. Resultado do Julgamento: Agravo regimental não provido.
-  > Tese de julgamento:
-  > 1. O simples depósito de valores ilícitos em conta própria não configura, por si só, o crime de lavagem de dinheiro.
-  > 2. A pretensão de revaloração jurídica que exige nova apreciação de elementos já valorados pelas instâncias ordinárias extrapola os limites da cognição excepcional do recurso especial.
-  > 3. A Súmula 7 do STJ impede o revolvimento do conjunto fático-probatório na via do recurso especial.
-  > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
-  > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
-
-## 250. RHC nº 226065 / PA (STJ)
-- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 05/02/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri · Acesso da defesa às provas
-- Resumo: Provas das medidas cautelares sigilosas (interceptações, quebras de sigilo e buscas) acessadas só tardiamente: anulados os atos desde a citação, com reabertura do prazo da resposta à acusação e acesso integral aos apensos antes de qualquer novo ato.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-226065.pdf
+## 250. HC nº 1101979 / PE (STJ)
+- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 31/07/2026.
+- Crime / Tema: Homicídio qualificado · Dosimetria · Revisão criminal
+- Resumo: A revisão criminal pode ser ajuizada a qualquer tempo (art. 622 do CPP). Dolo e consciência da ilicitude não elevam a culpabilidade, e ação penal em curso não gera maus antecedentes (Súmula 444/STJ). Ordem concedida de ofício: pena-base no mínimo legal.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1101979.pdf

@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 29 de 33 (decisões 281 a 290)
+# Acervo de Jurisprudência — Cury Advogados — parte 29 de 36 (decisões 281 a 290)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 327 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,131 +8,107 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 281. HC nº 902195 / RS (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 13/08/2024.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Quebra da cadeia de custódia · Prova digital · Pronúncia
-- Resumo: A cadeia de custódia vale também para fatos anteriores ao Pacote Anticrime, porque decorre do conceito de corpo de delito (art. 158 do CPP). A perícia não conseguiu acessar o celular da vítima, e a defesa não pode verificar a integridade nem o contexto das mensagens extraídas dele: essas provas são inadmissíveis e devem ser desentranhadas (art. 157 do CPP). A tese de ilicitude, mesmo levantada só na fase do art. 422, deve ser conhecida. Determinada nova decisão de pronúncia; preventiva mantida. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-902195.pdf
-
-## 282. AgRg no HC nº 828054 / RN (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/04/2024.
-- Crime / Tema: Tráfico de drogas · Quebra da cadeia de custódia · Prova digital
-- Resumo: Extração de dados de celular sem metodologia que garanta a integridade (hash, software certificado; só prints de tela): a quebra da cadeia de custódia torna a prova digital inadmissível, e o ônus é do Estado. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-828054.pdf
-- Pedido de extensão: https://ladirf.github.io/acervo/pdfs/ext-hc-828054.pdf
+## 281. AgRg no HC nº 1004144 / SP (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 30/10/2025.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Quantidade e natureza da droga, falta de prova de trabalho lícito e apreensão em ponto de tráfico não afastam, cada uma sozinha, o tráfico privilegiado. Usar a quantidade para elevar a pena-base e para negar a minorante é bis in idem. Ordem de ofício mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1004144.pdf
 - Ementa oficial:
-  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE CELULAR. EXTRAÇÃO DE DADOS. CAPTURA DE TELAS. QUEBRA DA CADEIA DE CUSTÓDIA. INADMISSIBILIDADE DA PROVA DIGITAL. AGRAVO REGIMENTAL PROVIDO.
-  > 1. O instituto da cadeia de custódia visa a garantir que o tratamento dos elementos probatórios, desde sua arrecadação até a análise pela autoridade judicial, seja idôneo e livre de qualquer interferência que possa macular a confiabilidade da prova.
-  > 2. Diante da volatilidade dos dados telemáticos e da maior suscetibilidade a alterações, imprescindível se faz a adoção de mecanismos que assegurem a preservação integral dos vestígios probatórios, de forma que seja possível a constatação de eventuais alterações, intencionais ou não, dos elementos inicialmente coletados, demonstrando-se a higidez do caminho percorrido pelo material.
-  > 3. A auditabilidade, a repetibilidade, a reprodutibilidade e a justificabilidade são quatro aspectos essenciais das evidências digitais, os quais buscam ser garantidos pela utilização de metodologias e procedimentos certificados, como, e.g., os recomendados pela ABNT.
-  > 4. A observação do princípio da mesmidade visa a assegurar a confiabilidade da prova, a fim de que seja possível se verificar a correspondência entre aquilo que foi colhido e o que resultou de todo o processo de extração da prova de seu substrato digital. Uma forma de se garantir a mesmidade dos elementos digitais é a utilização da técnica de algoritmo hash, a qual deve vir acompanhada da utilização de um software confiável, auditável e amplamente certificado, que possibilite o acesso, a interpretação e a extração dos dados do arquivo digital.
-  > 5. De relevo trazer à baila o entendimento majoritário desta Quinta Turma no sentido de que “é ônus do Estado comprovar a integridade e confiabilidade das fontes de prova por ele apresentadas. É incabível, aqui, simplesmente presumir a veracidade das alegações estatais, quando descumpridos os procedimentos referentes à cadeia de custódia" (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, DJe de 2/3/2023).
-  > 6. Neste caso, não houve a adoção de procedimentos que assegurassem a idoneidade e a integridade dos elementos obtidos pela extração dos dados do celular apreendido. Logo, evidentes o prejuízo causado pela quebra da cadeia de custódia e a imprestabilidade da prova digital.
-  > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
-  > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
+  > DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu, de ofício, habeas corpus para aplicar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionando as penas do agravado para 1 ano e 8 meses de reclusão, além de 166 dias-multa, fixando o regime inicial aberto e substituindo a pena privativa de liberdade por duas restritivas de direitos.
+  > 2. O agravado foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. Em segunda instância, o Tribunal negou provimento ao apelo defensivo. Após o trânsito em julgado, revisão criminal foi indeferida liminarmente.
+  > 3. A decisão agravada considerou que a quantidade e a natureza das drogas apreendidas não extrapolam o tipo penal, não justificando o afastamento da minorante do art. 33, § 4º, da Lei nº 11.343/2006.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se a quantidade e a natureza das drogas apreendidas justificam o afastamento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006; e (ii) saber se a ausência de comprovação de ocupação lícita e a apreensão em local conhecido como ponto de tráfico são elementos suficientes para caracterizar a dedicação habitual do agravado à atividade criminosa.
+  > III. Razões de decidir
+  > 5. A quantidade e a natureza das drogas apreendidas não extrapolam o tipo penal, sendo insuficientes para justificar o afastamento da minorante do art. 33, § 4º, da Lei nº 11.343/2006.
+  > 6. A ausência de comprovação de ocupação lícita não permite presumir a dedicação do agravado à atividade criminosa, conforme precedentes do Superior Tribunal de Justiça.
+  > 7. A apreensão em local conhecido como ponto de tráfico, isoladamente, não constitui elemento suficiente para caracterizar a dedicação habitual do agravado à atividade ilícita, sendo necessária a demonstração de outros elementos fático-probatórios.
+  > 8. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e, concomitantemente, para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006, configura indevido bis in idem.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Agravo regimental não provido.
+  > Tese de julgamento:
+  > 1. A quantidade e a natureza das drogas apreendidas não justificam, por si só, o afastamento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+  > 2. A ausência de comprovação de ocupação lícita não permite presumir a dedicação do agente à atividade criminosa.
+  > 3. A apreensão em local conhecido como ponto de tráfico não constitui, isoladamente, elemento suficiente para caracterizar a dedicação habitual à atividade ilícita.
+  > 4. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006 configura indevido bis in idem.
+  > (AgRg no HC n. 1.004.144/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2025, DJEN de 30/10/2025.)
 
-## 283. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
-- Decisão colegiada. Relator: Des. Leme Garcia. 16ª Câmara de Direito Criminal. Publicado em 16/04/2024.
-- Crime / Tema: Tráfico de drogas
-- Resumo: Nenhuma droga foi encontrada com o réu nem houve venda presenciada; as drogas foram apreendidas em via pública e uma testemunha presencial confirmou a versão dele. Na dúvida sobre a autoria, mantida a absolvição (in dubio pro reo).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1500766-76-2020.pdf
+## 282. AgRg no REsp nº 2217162 / SC (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/10/2025.
+- **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
+- Crime / Tema: Execução penal
+- Resumo: A unificação de penas não altera a data-base; para benefícios, vale o último marco interruptivo, inclusive a progressão concedida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2217162.pdf
 - Ementa oficial:
-  > APELAÇÃO. Tráfico de drogas. Recurso ministerial. Apelado que foi absolvido pelo d. juízo a quo. Pleito de condenação do acusado nos termos exatos propostos na inicial acusatória. Inviabilidade. Nenhuma droga foi encontrada diretamente em poder do acusado, bem como nenhum ato de comercialização foi presenciado pelos policiais militares, de tal modo que não há elementos seguros que indiquem o seu envolvimento na prática da traficância. Substâncias ilícitas apreendidas em via pública. Testemunha presencial que confirmou a versão apresentada pelo acusado. Existência de dúvidas sobre a autoria do delito. Aplicação do princípio do in dubio pro reo. Sentença de primeiro grau mantida. Negado provimento ao recurso.
-  > (TJSP, Apelação Criminal n. 1500766-76.2020.8.26.0228, relator Desembargador Leme Garcia, 16ª Câmara de Direito Criminal, julgado em 9/4/2024, publicado em 16/4/2024.)
+  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. PROGRESSÃO DE REGIME. MARCO INTERRUPTIVO. LEGALIDADE. INDIVIDUALIZAÇÃO DA PENA. PRINCÍPIOS CONSTITUCIONAIS. TEMA 1006 E 1165/STJ. HARMONIA ENTRE AS TESES JURÍDICAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A orientação consolidada do Superior Tribunal de Justiça, firmada no Tema n. 1.006, determina que a superveniência de nova condenação, seja por crime anterior ou posterior, não implica alteração da data-base para concessão de benefícios executórios. Assim, a data do trânsito em julgado da nova sentença, a decisão que unifica ou soma as penas, ou a modificação do regime prisional não interrompem os cálculos da execução penal. São preservados os marcos interruptivos anteriores à unificação ou soma das penas (ProAfR no REsp n. 1.753.512/PR, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 18/12/2018, DJe de 11/3/2019).
+  > 2. A progressão de regime configura marco interruptivo para a contagem de prazos necessários à concessão de benefícios executórios, sendo a nova data-base fixada quando verificado o preenchimento dos requisitos objetivos e subjetivos previstos no art. 112 da Lei de Execução Penal, conforme decidido no Tema n. 1.165 do STJ (REsp n. 1.972.187/SP, relator Ministro Jesuíno Rissato, Terceira Seção, julgado em 14/8/2024, DJEN de 2/12/2024). A cada progressão de regime, a data-base é renovada, funcionando como marco interruptivo para a contagem de novos benefícios executórios que tenham respaldo na pena parcial.
+  > 3. Não há divergência entre as teses jurídicas aplicáveis. Para a definição da data-base destinada à contagem do prazo para novas progressões de regime, nos casos em que o reeducando tem múltiplas condenações unificadas ou somadas, deve-se considerar o último fato jurídico interruptivo. Esse marco pode corresponder à data da última prisão; à data da última infração disciplinar devidamente homologada pelo Juízo da execução; ou, à data da última progressão de regime concedida.
+  > 4. A superveniência de nova condenação e a sua unificação não implica alteração da data-base, independentemente da regressão de regime ou da soma das penas, em respeito aos princípios da legalidade, individualização da pena e dignidade da pessoa humana. Mantém-se o marco interruptivo correspondente à última progressão de regime concedida.
+  > 5. No caso, reconhece-se como válida a data-base vigente no momento da unificação das penas, para fins de concessão de futuros benefícios executórios, adotando-se como marco a data em que o sentenciado preencheu os requisitos para a progressão de regime anteriormente concedida.
+  > 6. Agravo regimental não provido.
+  > (AgRg no REsp n. 2.217.162/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/10/2025, DJEN de 29/10/2025.)
 
-## 284. RvCr nº 0063421-56.2023.8.19.0000 (TJRJ)
-- Decisão colegiada. Relator: Des. Alcides da Fonseca Neto. 3º Grupo de Câmaras Criminais. Publicado em 08/03/2024.
-- Crime / Tema: Roubo · Reconhecimento de pessoa · Revisão criminal
-- Resumo: Revisão deferida porque a condenação por roubo se apoiou só em reconhecimento fotográfico que não atendeu a nenhuma formalidade do art. 226 do CPP (prova isolada, nula). Rescindido o acórdão e réu absolvido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rvcr-0063421-56-2023.pdf
-- Ementa oficial:
-  > REVISÃO CRIMINAL. ROUBO. CONCURSO FORMAL DE DELITOS. CONDENÇÃO. PRONUNCIAMENTO MANTIDO POR UNANIMIDADE, PELA COLENDA 2ª CÂMARA CRIMINAL. INSURGÊNCIA DEFENSIVA BUSCA A DESCONSTITUIÇÃO DA CONDENAÇÃO, COM FULCRO NO ARTIGO 621, I, DO CÓDIGO DE PROCESSO PENAL, PARA ABSOLVER O REQUERENTE DO CRIME DE ROUBO, AO ARGUMENTO DE QUE HOUVE RECONHECIMENTO EXCLUSIVAMENTE FOTOGRÁFICO E EM DESCOMPASSO COM O DETERMINADO NO ARTIGO 226, DO CÓDIGO DE PROCESSO PENAL. PROCEDÊNCIA DO PEDIDO. PROVA SOLTEIRA NOS AUTOS. AUTORIA DELITIVA ANCORADA, EXCLUSIVAMENTE, EM RECONHECIMENTO DO ACUSADO QUE EM NADA ATENDEU ÀS FORMALIDADES LEGAIS, DE MODO QUE DEVE SER CONSIDERADO NULO. HIPÓTESE DOS AUTOS QUE AUTORIZA A EXCEPCIONAL DESCONSTITUIÇÃO DO ACÓRDÃO RESCINDENDO. PRECEDENTES DO STJ. CONHECIMENTO E PROVIMENTO DO PEDIDO REVISIONAL.
-  > (TJRJ, Revisão Criminal n. 0063421-56.2023.8.19.0000, relator Desembargador Alcides da Fonseca Neto, 3º Grupo de Câmaras Criminais, julgado em 8/3/2024, publicado em 8/3/2024.)
+## 283. AREsp nº 3045207 / MT (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
+- Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
+- Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
 
-## 285. RMS nº 38.983 / DF (STF)
-- Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Gilmar Mendes. Segunda Turma. Publicado em 28/02/2024.
-- Crime / Tema: PAD (administrativo)
-- Resumo: PAD: é ilegal a demissão por abandono de cargo sem prova da intenção de abandonar (art. 138 da Lei 8.112/90). Os motivos e pressupostos de fato da penalidade podem ser controlados pelo Judiciário, pois não são juízo de conveniência da Administração. Segurança concedida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rms-38983.pdf
-- Ementa oficial:
-  > RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO-DISCIPLINAR (PAD). SERVIDOR PUNIDO COM PENA DE DEMISSÃO. RECURSO PROVIDO PARA CONCEDER A SEGURANÇA.
-  > 1. A aplicação das penalidades previstas no art. 127 da Lei 8.112/1990 vincula-se ao cumprimento de prerrequisitos estritos previstos na legislação de regência, apurados mediante a apreciação das características particulares de cada caso concreto em sede de processo administrativo disciplinar. A caracterização de tais requisitos não se sujeita a juízos de conveniência ou oportunidade da Administração e, portanto, é sindicável pela via judicial.
-  > 2. No controle judicial dos atos administrativos de demissão de servidor público estável, “a legalidade do ato administrativo compreende, não só a competência para a prática do ato e as suas formalidades extrínsecas, como também os seus requisitos substanciais, os seus motivos, os seus pressupostos de direito e de fato”, sendo certo que “a inconformidade do ato com os fatos que a lei declara pressupostos dêle constitui ilegalidade, do mesmo modo que o constitui a forma inadequada que o ato porventura apresente” (LEAL, Victor Nunes. Atos administrativos - Exame da sua validade pelo poder judiciário. Revista de Direito Administrativo, v. 3, p. 69–98, 1946).
-  > 3. Caso em que a penalidade de demissão aplicada pela Administração se deu sem devida caracterização do elemento subjetivo referente ao intuito de abandonar o cargo ocupado (Lei 8.112/1990, art. 138). Na espécie, a aplicação da penalidade de demissão violou direito líquido e certo do impetrante, uma vez que, valendo-se de fundamentação inconsistente e contraditória, calcada em presunções não corroboradas pelo acervo fático-probatório dos autos do PAD, a União aplicou-lhe a penalidade de demissão deixando de considerar a data em que efetivamente se deu o término de sua cessão informal ao Senado.
-  > 4. Recurso ordinário provido para reformar o acórdão recorrido e conceder a segurança.
-  > (STF, RMS n. 38.983/DF, relator Ministro André Mendonça, redator do acórdão Ministro Gilmar Mendes, Segunda Turma, julgado em 13/11/2023, DJe de 28/2/2024.)
+## 284. AREsp nº 2968442 / ES (STJ)
+- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 15/10/2025.
+- Crime / Tema: Infanticídio · Tribunal do Júri
+- Resumo: Anulação do Júri mantida, para novo julgamento com quesito de infanticídio. Fato ocorrido imediatamente após o parto faz presumir o estado puerperal, e cabe à acusação afastá-lo (perda de uma chance probatória, art. 156 do CPP). Relatório médico feito mais de 2 meses depois não retrata o puerpério imediato.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2968442.pdf
 
-## 286. ApCrim nº 5001797-60.2023.8.24.0135 (TJSC)
-- Decisão colegiada. Relator: Des. Leopoldo Augusto Brüggemann. 3ª Câmara Criminal. Publicado em 06/02/2024.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Os policiais foram à casa apurar denúncia anônima de violência doméstica, não a confirmaram e, sem autorização, arrombaram a porta. A droga encontrada depois não legitima o ingresso, porque a flagrância foi constatada só a posteriori. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A entrada na casa do corréu, derivada da primeira, também é ilícita, e a absolvição dele foi mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-5001797-60-2023.pdf
-- Ementa oficial:
-  > APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). SENTENÇA DE PARCIAL PROCEDÊNCIA, COM A CONDENAÇÃO DE UM ACUSADO E ABSOLVIÇÃO DE OUTRO. RECURSOS DA DEFESA E DO MINISTÉRIO PÚBLICO.
-  > RECURSO DEFENSIVO. PRETENSO RECONHECIMENTO DA NULIDADE DA PROVA FACE À VIOLAÇÃO DE DOMICÍLIO. SUBSISTÊNCIA. NÃO OBSERVÂNCIA DO DISPOSTO NO ART. 240 E SEGUINTES DO CÓDIGO DE PROCESSO PENAL E EM AFRONTA AO DISPOSTO NO ART. 5º, XI, DA CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL. INGRESSO REALIZADO COM BASE EM DENÚNCIA ANÔNIMA ACERCA DE HIPOTÉTICO COMETIMENTO DE CRIME RELACIONADO À VIOLÊNCIA DOMÉSTICA. AGENTES PÚBLICOS QUE, AO CHEGAREM AO LOCAL, NÃO CONFIRMARAM O RELATADO. AUSÊNCIA DE AUTORIZAÇÃO PARA O INGRESSO NO LOCAL. LEGITIMAÇÃO POSTERIOR DA CONDUTA QUE NÃO TORNA LEGAL O FLAGRANTE. INOCORRÊNCIA DO ESTADO DE FLAGRÂNCIA PREVISTO NOS ARTS. 302 E 303 DO CPP. VERIFICAÇÃO DO CRIME PERMANENTE A POSTERIORI. INGRESSO ILEGAL, MEDIANTE ARROMBAMENTO DA PORTA DE ENTRADA DA CASA. AUSÊNCIA DE FUNDADAS RAZÕES (JUSTA CAUSA) A ENSEJAR A PRISÃO. PROVA VICIADA. ILEGALIDADE MANIFESTA. ENTENDIMENTO PACIFICADO PELO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. PRECEDENTES DESTA E DA COLENDA CORTE. ILEGALIDADE MANIFESTA. PROVA ILÍCITA. AUSÊNCIA DE MATERIALIDADE DELITIVA. PARECER DA PGJ EM IGUAL SENTIDO. ABSOLVIÇÃO DECRETADA.
-  > APELO ACUSATÓRIO. PRETENSA CONDENAÇÃO DO ACUSADO REMANESCENTE. INVIABILIDADE. NULIDADE DA PROVA OBTIDA. INGRESSO FORÇADO NA RESIDÊNCIA DO APELADO QUE DEU-SE POR DERIVAÇÃO DE PROVA ILÍCITA (VIOLAÇÃO DO DOMICÍLIO DO CODENUNCIADO). VERSÕES DOS POLICIAIS, ADEMAIS, QUE NÃO ENCONTRAM AMPARO NOS AUTOS. ACUSADOS QUE, A TODO MOMENTO, NEGARAM A TRAFICÂNCIA DO APELADO. AUSÊNCIA DE QUALQUER OUTRO ELEMENTO DE PROVA, ALÉM DA DROGA ENCONTRADA NA RESIDÊNCIA, APTA A CORROBORAR A VERSÃO ACUSATÓRIA. PARECER DA PGJ EM IGUAL SENTIDO. ABSOLVIÇÃO MANTIDA.
-  > RECURSO DEFENSIVO CONHECIDO E PROVIDO. RECLAMO ACUSATÓRIO CONHECIDO E DESPROVIDO.
-  > (TJSC, Apelação Criminal n. 5001797-60.2023.8.24.0135, relator Desembargador Leopoldo Augusto Brüggemann, 3ª Câmara Criminal, julgado em 6/2/2024, publicado em 6/2/2024.)
+## 285. REsp nº 2231330 / MG (STJ)
+- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 29/09/2025.
+- Crime / Tema: Infanticídio · Pronúncia
+- Resumo: Desclassificação para infanticídio já na pronúncia mantida: asfixia durante ou logo após o parto, sob forte alteração psicofísica, com a prova convergindo para essa única versão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2231330.pdf
 
-## 287. Súmula nº 665 (STJ)
-- Súmula aprovada pela Primeira Seção em 13/12/2023. Publicado em 14/12/2023.
-- Crime / Tema: PAD (administrativo)
-- Resumo: Controle judicial do PAD restringe-se à regularidade do procedimento e à legalidade do ato; mérito administrativo só em flagrante ilegalidade, teratologia ou sanção manifestamente desproporcional.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-sumula-665.pdf
-- Ementa oficial:
-  > O controle jurisdicional do processo administrativo disciplinar restringe-se ao exame da regularidade do procedimento e da legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, não sendo possível incursão no mérito administrativo, ressalvadas as hipóteses de flagrante ilegalidade, teratologia ou manifesta desproporcionalidade da sanção aplicada.
-  > (Súmula n. 665, Primeira Seção, julgado em 13/12/2023, DJe de 14/12/2023.)
+## 286. AREsp nº 2605530 / RS (STJ)
+- Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 25/09/2025.
+- Crime / Tema: RIF
+- Resumo: A polícia não pode pedir RIF diretamente ao COAF sem autorização judicial: o Tema 990/STF cobre só o envio espontâneo pelo COAF, e a encomenda é pescaria probatória que viola a reserva de jurisdição. AREsp do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2605530.pdf
 
-## 288. AREsp nº 2236994 / SP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/11/2023.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: A pronúncia exige autoria corroborada com alto grau de probabilidade (arts. 155, 413 e 414 do CPP); a palavra dos policiais, contrariada por cinco laudos periciais, não basta. Impronúncia restabelecida, com comunicação à Corregedoria da PM.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2236994.pdf
+## 287. AgRg no REsp nº 2206947 / PR (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/09/2025.
+- Crime / Tema: Infanticídio · Homicídio · Pronúncia
+- Resumo: Desclassificação para homicídio culposo mantida: o estado puerperal ficou provado, mas não o dolo (demora de cerca de 3 horas para levar o bebê ao hospital). Não existe infanticídio culposo (art. 18, parágrafo único, do CP), e o dolo deve ser examinado já na pronúncia. Rever isso esbarra na Súmula 7.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2206947.pdf
 - Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. PRONÚNCIA. INEXISTÊNCIA, NO CASO CONCRETO, DE INDÍCIOS MÍNIMOS PARA CORROBORAR COM ALTO GRAU DE PROBABILIDADE A HIPÓTESE DA ACUSAÇÃO SOBRE A AUTORIA. INTELIGÊNCIA DOS ARTS. 155, 156, 413 E 414 DO CPP. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, A FIM DE RESTABELECER A DECISÃO DE IMPRONÚNCIA, COM COMUNICAÇÃO DOS FATOS À CORREGEDORIA DA POLÍCIA.
-  > 1. Pelo entendimento deste colegiado, vale na etapa da pronúncia o brocardo in dubio pro societate. Em minha visão pessoal, a rigor, o in dubio pro societate não existe. Quando nos referimos a ele como "princípio", o utilizamos na verdade como uma simples metáfora ou um atalho argumentativo, para expressar, em poucas palavras, que a pronúncia tem standards probatórios próprios, não se confundindo com uma sentença condenatória.
-  > 2. De todo modo, não proponho alterarmos o entendimento da Turma sobre a aplicação do in dubio pro societate. Apenas registro aqui minha visão particular a seu respeito, alinhada à nova orientação da Sexta Turma firmada no julgamento do REsp 2.091.647/DF, finalizado em 26/9/2023, quando aquele colegiado baniu de seu léxico o in dubio pro societate.
-  > 3. Não obstante essa breve ressalva, permanece na fase de pronúncia o ônus da acusação (art. 156 do CPP) de comprovar, com provas produzidas sob o crivo do contraditório (art. 155 do CPP), a hipótese por ela vertida na denúncia, com um nível de corroboração suficiente para aquela etapa processual (art. 413 do CPP).
-  > 4. Quanto à materialidade, o art. 413 do CPP exige da pronúncia e da sentença o mesmo nível de segurança, de modo que ambas devem seguir, nesse ponto, o mais alto standard do processo penal. A incerteza quanto à existência do fato em si torna inviável o julgamento popular, como decidiu esta Turma no recente julgamento do AgRg no AgRg no REsp n. 1.991.574/SP, relator Ministro João Batista Moreira, DJe de 8/11/2023, em que recebeu a adesão da maioria do colegiado a fundamentação do voto-vista do Ministro Joel Ilan Paciornik.
-  > 5. Em relação à autoria, o que diferencia pronúncia e sentença é o standard probatório exigido para se ter como provada a hipótese acusatória e a profundidade da cognição judicial a ser exercida em cada etapa processual.
-  > 6. A pronúncia é uma garantia do réu contra o risco de ocorrência de erros judiciários. Para que o acusado seja pronunciado, então, não basta à hipótese acusatória sobre a autoria ser possível, coerente ou a melhor; além de tudo isso, a pronúncia exige que a imputação esteja fortemente corroborada, com alto grau de probabilidade, por provas claras e convincentes, e que o conjunto probatório seja completo, sem a omissão de provas importantes para a elucidação dos fatos. Suspeitas, boatos e a mera possibilidade de que o réu tenha sido o autor do crime não bastam para a pronúncia. Inteligência dos arts. 155, 156, 413 e 414 do CPP.
-  > 7. Segundo a denúncia, os policiais militares supostamente seguiram dois indivíduos "suspeitos" em patrulhamento de rotina e foram surpreendidos com disparos de arma de fogo efetuados pelo réu, mas conseguiram antes disso alvejá-lo. Já o acusado conta que esteve no local dos fatos para comprar maconha e foi pego no tiroteio entre policiais e traficantes.
-  > 8. O réu foi baleado com um fuzil da polícia pelas costas – o que já torna em alguma medida inverossímeis as alegações dos policiais –, e nenhum dos cinco exames periciais realizados na origem conseguiu confirmar a hipótese acusatória. Não havia impressões digitais do acusado na suposta arma do crime, suas mãos não tinham resíduos de pólvora, não era sua a grafia das "anotações de tráfico" cuja autoria o MP/SP lhe imputa e não se sabe, até agora, como transcorreu o tiroteio, pois o laudo no local dos fatos foi inconclusivo.
-  > 9. Este colegiado entende que a palavra dos policiais pode, ainda que seja o único dado probatório de determinado fato, fundamentar o proferimento de decisões desfavoráveis ao réu. Fica ressalvada a compreensão pessoal deste relator, para quem a palavra da polícia exige sempre a corroboração por outros meios de prova, notadamente a gravação audiovisual por câmeras corporais. Compreensão firmada no julgamento do AREsp 1.936.393/RJ, em que fiquei parcialmente vencido.
-  > 10. De todo modo, esta Turma decidiu, naquela ocasião, que o testemunho do policial não é superior a outras provas, sendo dever do juiz confrontá-las (quando existentes) com a palavra do agente estatal, para aferir a compatibilidade entre elas. Foi exatamente isso que fez aqui o juízo de primeiro grau, ao detectar as profundas contradições entre o testemunho dos policiais (que, reitero, balearam o réu pelas costas) e as cinco provas periciais e, por isso, impronunciar o acusado.
-  > 11. O Tribunal local não examinou minimamente os dados probatórios técnicos valorados pelo juiz singular, nem explicou o porquê de estar equivocada sua valoração. Na verdade, a Corte estadual apenas invocou genericamente o in dubio pro societate para pronunciar o recorrente, mas não dedicou uma linha sequer à análise das provas periciais, tampouco às contradições entre elas e o testemunho dos policiais.
-  > 12. Agravo conhecido e recurso especial provido, a fim de restabelecer a decisão de impronúncia, com determinação de comunicação dos fatos à Corregedoria da PM/SP.
-  > (AREsp n. 2.236.994/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023.)
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRETENDIDA PRONÚNCIA DA RÉ. AFERIÇÃO DO DOLO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que conheceu em parte e, nesta extensão, negou provimento ao recurso especial, mantendo o acórdão do Tribunal de origem que desclassificou o crime de homicídio doloso para culposo.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 2. A questão em discussão consiste em saber se há omissão no aresto recorrido e se incide ao caso a Súmula 7/STJ.
+  > III. RAZÕES DE DECIDIR
+  > 3. O acórdão recorrido se manifestou de maneira fundamentada sobre todos os pontos relevantes para a solução da causa, inexistindo ofensa ao art. 619 do CPP.
+  > 4. O Tribunal de origem concluiu pela inexistência de dolo na conduta da ré, após análise aprofundada e detalhada das provas documental, pericial e testemunhal.
+  > 5. A revisão do entendimento do Tribunal de origem sobre o dolo esbarra na Súmula 7/STJ, que veda o reexame de provas em recurso especial.
+  > IV. DISPOSITIVO E TESE
+  > 6. Agravo improvido.
+  > Tese de julgamento: "1. É inviável o reexame de fatos e provas em recurso especial".
+  > (AgRg no REsp n. 2.206.947/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.)
 
-## 289. REsp nº 2004051 / SC (STJ)
-- Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 22/08/2023.
-- Crime / Tema: Homicídio no trânsito · Tribunal do Júri
-- Resumo: Laudos periciais produzidos unilateralmente pelo MP e pela polícia, durante a instrução e sem controle judicial, são nulos e devem ser desentranhados, assim como o ofício do DNIT juntado após a pronúncia. A pronúncia foi mantida, porque não se baseou neles: embriaguez e direção perigosa indicam dolo eventual, que é compatível com a tentativa.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2004051.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. PROCESSUAL PENAL. OFENSA. DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. INVIABILIDADE. HOMICÍDIO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PRODUÇÃO UNILATERAL DE LAUDOS PERICIAIS PELA AUTORIDADE POLICIAL E PELO MINISTÉRIO PÚBLICO SEM CONHECIMENTO DO JUÍZO. INSTRUÇÃO CRIMINAL INICIADA. NULIDADE DOS EXAMES CONFIGURADA. JUNTADA NA FASE RECURSAL. INEXISTÊNCIA DE NULIDADE DA SENTENÇA DE PRONÚNCIA. AUSÊNCIA DE MENÇÃO AOS EXAMES NULOS. OFÍCIO DO DNIT. JUNTADA POSTERIOR À PRONÚNCIA. NULIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. ILEGALIDADE MANIFESTA NESSE PONTO. CORREÇÃO DE OFÍCIO. OFENSA AO CONTRADITÓRIO E À AMPLA DEFESA EVIDENCIADOS. EMBRIAGUEZ COMPROVADA POR EXAME DE ALCOOLEMIA. DEPOIMENTOS E VÍDEOS. DIREÇÃO PERIGOSA. INVASÃO DA CONTRAMÃO DE DIREÇÃO. DOLO EVENTUAL. INDÍCIOS CONFIGURADOS. COMPETÊNCIA DO TRIBUNAL DO JÚRI ESTABELECIDA. AGRAVO EM RECURSO ESPECIAL. DOLO EVENTUAL E FORMA TENTADA DO DELITO. INCOMPATIBILIDADE. INEXISTÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
-  > 1. A análise da alegação de ofensa a dispositivos constitucionais é inviável em recurso especial, destinada à uniformização da interpretação da lei federal.
-  > 2. É evidente a nulidade dos laudos periciais produzidos unilateralmente pelo Ministério Público e pela autoridade policial, quando já estava em curso a instrução criminal, e dos quais tomou conhecimento do Juízo quando já havia sido proferida a sentença de pronúncia, pois juntados aos autos tão-somente na fase em que a Defesa iria apresentar as razões ao seu recurso em sentido estrito dirigido contra a pronúncia.
-  > 3. Não houve controle judicial da produção das referidas perícias, e tampouco seguiram elas o regramento previsto no Código de Processo Penal, que inclui a nomeação do perito oficial ou compromissado, a possibilidade de indicação de assistentes técnicos e a formulação de quesitos, os quais são submetidos ao prévio exame judicial. Se cuida de ilegalidade na própria produção da prova. Devem tais perícias serem anuladas e desentranhadas dos autos.
-  > 4. A alegação de que também teria havido nulidade na juntada do "Ofício nº 55223/2019, enviado pelo DNIT em decorrência de diligência realizada secretamente pelo MP", após a pronúncia, não foi objeto de análise no acórdão recorrido, sem que tenha sido objeto dos embargos de declaração defensivos. Carece do necessário prequestionamento, nos termos da Súmula n. 356 do Supremo Tribunal Federal.
-  > 5. Constatação de ilegalidade manifesta nesse ponto, a ser reparada por força do art. 654, § 2.º, do Código de Processo Penal, pois a data em que foi assinado o referido Ofício é posterior à pronúncia, sendo ele juntado aos autos, a pedido do Parquet estadual, quando o feito estava em fase de recurso em sentido estrito. Ofensa ao contraditório e à ampla defesa evidenciados, nos termos da fundamentação que levou ao reconhecimento da nulidade da juntada dos laudos periciais.
-  > 6. Os referidos laudos periciais, produzidos unilateralmente pelo Ministério Público e pela autoridade policial, bem como os dados constantes do Ofício n. 55223/2019, do DNIT, não foram utilizados pelo Magistrado singular para fundamentar a pronúncia, mesmo porque foram juntados aos autos em momento a ela posterior. Assim, inexiste nulidade a ser reconhecida na pronúncia, que não se fundamentou na prova produzida unilateralmente e não submetida ao contraditório.
-  > 7. O fato de que a pronúncia mencionou imagens que já constavam dos autos, mas que também acabaram por ser analisadas nos referidos exames unilaterais, não configura nulidade ou cerceamento de defesa. Haveria nulidade da pronúncia se as conclusões contidas nesse laudos tivessem lastreado a pronúncia, o que não foi o caso. Tampouco o acórdão confirmatório da pronúncia deles lançou mão para justificar a remessa do julgamento ao Tribunal do Júri. As imagens já constavam dos autos antes da pronúncia, tendo sido colhidas ao longo da investigação policial e da instrução criminal.
-  > 8. Afirmaram as instâncias ordinárias que o Recorrente dirigia embriagado, segundo comprovado por exame de alcoolemia. E, ainda, trafegava em velocidade superior à permitida para a via, conduzindo em zigue-zague pela rodovia e invadindo a contramão de direção, por várias vezes, em uma das quais ocorreu a colisão, conforme apurado por vídeos e depoimentos de testemunhas e vítimas sobreviventes. O conjunto dessas circunstâncias configura extrapolação do dever de cuidado, próprio do crime culposo, e constitui indício de dolo eventual, de maneira a justificar a submissão do Acusado ao Tribunal do Júri.
-  > 9. Para rever as premissas fáticas apontadas como incontroversas no acórdão recorrido, bem assim verificar se haveria outros elementos probatórios que levariam a conclusão diversa, seria necessário o reexame de provas, o que se mostra inviável em recurso especial, nos termos da Súmula n. 7 do Superior Tribunal de Justiça.
-  > 10. O acórdão recorrido está em consonância com o entendimento desta Corte Superior, firmando no sentido de não haver incompatibilidade entre o dolo eventual e a forma tentada do delito de homicídio.
-  > 11. Agravo conhecido para negar provimento ao recurso especial interposto contra o acórdão proferido nos Embargos Infringentes. Recurso especial dirigido contra o acórdão proferido no Recurso em Sentido Estrito parcialmente conhecido e, nessa extensão, provido em parte, a fim de anular os exames periciais realizados pela autoridade policial e pelo Ministério Público e que foram juntados após a pronúncia, determinando que sejam desentranhados dos autos. Habeas corpus concedido, de ofício, para anular a prova produzida por meio da requisição de diligências feita pelo Ministério Público do Estado de Santa Catarina ao Departamento Nacional de Infraestrutura e Transportes - DNIT, determinando o desentranhamento do Ofício n. 55223/2019, do referido Órgão.
-  > (REsp n. 2.004.051/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+## 288. REsp nº 2195682 / SP (STJ)
+- Decisão monocrática. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 29/08/2025.
+- Crime / Tema: Lavagem de dinheiro · RIF
+- Resumo: RIFs enviados pelo COAF a pedido da polícia, sem autorização judicial, são nulos e devem sair dos autos com as provas deles derivadas; o juiz deve reavaliar o sequestro de bens à luz do que restar. REsp da defesa parcialmente provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2195682.pdf
 
-## 290. RvCr nº 5620 / SP (STJ)
-- Decisão colegiada. Relatora: Min.ª Laurita Vaz. Terceira Seção. Publicado em 30/06/2023.
-- **Resultado desfavorável à defesa:** Revisão criminal não conhecida (vale pela tese)
-- Crime / Tema: Tráfico de drogas · Revisão criminal
-- Resumo: Mudança de entendimento jurisprudencial não autoriza revisão criminal (art. 621, I, do CPP), salvo hipóteses excepcionalíssimas de entendimento pacífico e relevante.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rvcr-5620.pdf
-- Ementa oficial:
-  > REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PLEITO PELO RECONHECIMENTO DE REFORMATIO IN PEJUS INDIRETA. INSUBSISTENTE. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. IMPOSSIBILIDADE. REVISÃO CRIMINAL NÃO CONHECIDA.
-  > 1. Não subsiste o pleito pelo reconhecimento de reformatio in pejus indireta, porquanto a sucumbência do Parquet estadual quanto à matéria veiculada no recurso especial ocorreu quando do julgamento e provimento parcial da apelação defensiva.
-  > 2. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que a mudança de entendimento jurisprudencial não autoriza o ajuizamento de revisão criminal, ressalvadas hipóteses excepcionalíssimas de entendimento pacífico e relevante, o que não se vislumbra na espécie.
-  > 3. Revisão criminal não conhecida.
-  > (RvCr n. 5.620/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/6/2023, DJe de 30/6/2023.)
+## 289. RHC nº 221603 / RS (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/08/2025.
+- Crime / Tema: RIF
+- Resumo: O Tema 990/STF não autoriza a requisição direta de dados financeiros pela polícia sem ordem judicial. RIF pedido pela autoridade policial em verificação preliminar declarado ilícito e desentranhado, com as provas derivadas (TRF4).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-221603.pdf
+
+## 290. RHC nº 153706 / RS (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 25/07/2025.
+- Crime / Tema: Crimes contra o sistema financeiro · Lavagem de dinheiro · Organização criminosa · Acesso da defesa às provas
+- Resumo: Relatório complementar da PF com novos elementos, juntado depois da resposta à acusação, exige restituir o prazo da resposta, com acesso integral aos elementos que o embasaram; reinquirir as testemunhas não basta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-153706.pdf

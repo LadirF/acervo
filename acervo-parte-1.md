@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 1 de 33 (decisões 1 a 10)
+# Acervo de Jurisprudência — Cury Advogados — parte 1 de 36 (decisões 1 a 10)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 327 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,173 +8,135 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 1. REsp nº 2294353 / PR (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Furto
-- Resumo: No furto privilegiado, o pequeno valor considera só a coisa furtada, sem somar o custo de reparar obstáculo danificado (art. 155, § 2º, do CP). Minorante reconhecida; REsp da defesa parcialmente provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2294353.pdf
-- Ementa oficial:
-  > DIREITO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO E ESCALADA. ART. 155, § 2º, DO CP. FURTO PRIVILEGIADO. PEQUENO VALOR DA COISA FURTADA. PARÂMETRO DE AFERIÇÃO. RES FURTIVA. IMPOSSIBILIDADE DE CONSIDERAÇÃO DOS PREJUÍZOS DECORRENTES DA EXECUÇÃO DO DELITO. INTERPRETAÇÃO EXTENSIVA IN MALAM PARTEM. PRIMARIEDADE RECONHECIDA. QUALIFICADORAS DE NATUREZA OBJETIVA. COMPATIBILIDADE. SÚMULA 511/STJ. INCIDÊNCIA DA MINORANTE. RETORNO DOS AUTOS À ORIGEM PARA DEFINIÇÃO DA FRAÇÃO DE REDUÇÃO E REDIMENSIONAMENTO DA PENA.
-  > 1. A controvérsia consiste em definir se, para a incidência da causa de diminuição prevista no art. 155, § 2º, do Código Penal, o requisito do pequeno valor deve ser aferido exclusivamente pelo valor da coisa furtada ou se podem ser considerados os prejuízos patrimoniais decorrentes da execução do delito.
-  > 2. A expressão legal “pequeno valor da coisa furtada” refere-se ao valor da res furtiva, inexistindo autorização normativa para a inclusão de danos produzidos durante a prática delitiva, ainda que relacionados ao rompimento de obstáculo ou a outros meios de execução do crime.
-  > 3. A utilização dos prejuízos decorrentes da reparação dos obstáculos danificados para afastar o furto privilegiado amplia indevidamente o alcance restritivo da norma penal, mediante interpretação desfavorável ao acusado, em desconformidade com o princípio da legalidade estrita.
-  > 4. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o pequeno valor da coisa furtada, para os fins do art. 155, § 2º, do Código Penal, deve ser aferido, em regra, a partir do valor da res furtiva, usualmente em comparação com o salário mínimo vigente à época dos fatos.
-  > 5. Hipótese em que os bens subtraídos foram avaliados em R$ 320,00, quantia inferior ao salário mínimo vigente ao tempo do delito, estando igualmente presente a primariedade técnica do agente.
-  > 6. As qualificadoras do rompimento de obstáculo e da escalada possuem natureza objetiva, circunstância que não impede o reconhecimento do furto qualificado-privilegiado, nos termos da Súmula 511/STJ.
-  > 7. Reconhecida a incidência do privilégio, a definição da modalidade da benesse e da fração de redução prevista no art. 155, § 2º, do Código Penal deve ser realizada pelas instâncias ordinárias, à luz das peculiaridades do caso concreto e das circunstâncias relevantes para a individualização da pena.
-  > 8. Recurso especial parcialmente provido para reconhecer a incidência da causa de diminuição prevista no art. 155, § 2º, do Código Penal e determinar o retorno dos autos ao Tribunal de origem para aplicação da minorante e consequente redimensionamento da pena, mantidos os demais termos do acórdão recorrido.
-  > (REsp n. 2.294.353/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
+## 1. AREsp nº 3349933 / MG (STJ)
+- Decisão monocrática. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima, mesmo com nome e endereço, sem diligência prévia que a confirme, não é fundada suspeita para busca pessoal (art. 244 do CPP), e a ilicitude contamina a entrada no domicílio que veio depois. HC de ofício absolve o réu.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3349933.pdf
 
-## 2. AgRg no REsp nº 2294354 / SC (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Violência doméstica · Dosimetria
-- Resumo: A agravante do art. 61, II, “f”, do CP não se soma à qualificadora do art. 129, § 13, quando ambas se baseiam na violência contra a mulher: é bis in idem (distinção do Tema 1.197/STJ). Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2294354.pdf
+## 2. AREsp nº 3321210 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Reconhecimento feito só na delegacia, sem as regras do art. 226 do CPP e apenas reafirmado pela vítima em juízo, não prova a autoria sem outra prova independente (Tema 1.258/STJ). REsp da defesa provido para absolver, com extensão ao corréu (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3321210.pdf
+
+## 3. AREsp nº 3266856 / SP (STJ)
+- Decisão monocrática. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Receptação · Fundada suspeita · Busca e apreensão
+- Resumo: Mudar de direção ou atravessar a rua ao avistar a polícia, sem outro dado objetivo, não é fundada suspeita para busca pessoal (art. 244 do CPP); a apreensão do celular e a consulta do IMEI são ilícitas por derivação. REsp da defesa provido; réu absolvido de receptação.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3266856.pdf
+
+## 4. AgRg no AREsp nº 3244311 / MG (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · ANPP
+- Resumo: Reconhecido o tráfico privilegiado, a redução entra no cálculo da pena mínima para o ANPP (art. 28-A do CPP), e a recusa do MP baseada só na gravidade abstrata do crime é inválida. Agravo do MP desprovido; autos voltam para o MP examinar o acordo de forma motivada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3244311.pdf
 - Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. VIOLÊNCIA DOMÉSTICA. LESÃO CORPORAL QUALIFICADA (§ 13 DO ART. 129 DO CP). AGRAVANTE DO ART. 61, II, “F”. BIS IN IDEM. DISSÍDIO JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL. TRÁFICO PRIVILEGIADO. RECUSA MINISTERIAL GENÉRICA. RETORNO DOS AUTOS PARA ANÁLISE DO ANPP. AGRAVO REGIMENTAL DESPROVIDO.
   > I. Caso em exame
-  > 1. Agravo regimental interposto pelo órgão acusatório contra decisão que conheceu em parte de recurso especial e, nessa extensão, negou-lhe provimento, mantendo o afastamento da agravante do art. 61, II, “f”, do Código Penal na condenação pelo art. 129, § 13, do mesmo diploma.
-  > 2. Condenação pelos arts. 129, § 13, e 147, do Código Penal, c.c. arts. 5º, III, e 7º, I, da Lei n. 11.340/2006. Em apelação, foi afastada a agravante do art. 61, II, “f”, do Código Penal, com redução da pena do crime de lesão corporal.
+  > 1. Agravo regimental interposto pelo órgão ministerial estadual contra decisão que deu provimento a recurso defensivo para determinar o retorno dos autos ao Ministério Público, a fim de que analise concretamente e justifique a (im)possibilidade de propositura de acordo de não persecução penal (ANPP) em favor do agravado.
+  > 2. Reconhecimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006 (tráfico privilegiado), com redução que autoriza, em tese, a aferição da pena mínima em abstrato inferior a 4 anos, nos termos do art. 28-A, § 1º, do CPP.
+  > 3. Recusa ministerial ao ANPP motivada de forma genérica e fundada em gravidade abstrata do delito. Decisão agravada mantida para oportunizar, na origem, a inauguração do procedimento de ANPP e a motivação concreta quanto à sua viabilidade, como requisito para manutenção dos efeitos da condenação.
   > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se o dissídio jurisprudencial poderia ser conhecido pela alínea “c” do art. 105, III, da Constituição, diante da ausência de cotejo analítico e da indicação de paradigmas adequados; e (ii) saber se a aplicação cumulativa da agravante do art. 61, II, “f”, do Código Penal com a qualificadora do art. 129, § 13, do Código Penal, em crime de lesão corporal cometido em contexto de violência doméstica e de gênero contra a mulher, configura bis in idem.
+  > 4. Há duas questões em discussão: (i) saber se, reconhecida a causa de diminuição do tráfico privilegiado, deve-se considerar as causas de redução para aferir a pena mínima em abstrato do art. 28-A do CPP e oportunizar ao Ministério Público a análise do ANPP; e (ii) saber se a recusa ministerial ao ANPP, fundada em gravidade abstrata e sem individualização de elementos concretos do caso, é suficiente para afastar a medida despenalizadora.
   > III. Razões de decidir
-  > 5. Consta dos autos que o recurso especial foi interposto com fundamento no art. 105, III, “a” e “c”, da Constituição Federal. A ausência de cotejo analítico e a indicação de paradigmas impróprios impedem o conhecimento do dissídio pela alínea “c”, sendo insuficiente a mera transcrição de ementas ou a invocação de julgados em habeas corpus.
-  > 6. A orientação do Tema 1.197/STJ admite a incidência da agravante do art. 61, II, “f”, do Código Penal com o art. 129, § 9º, do Código Penal, porque as elementares desse tipo não contemplam o gênero da vítima; contudo, tal ratio não se estende às hipóteses do art. 129, § 13, do Código Penal.
-  > 7. O art. 129, § 13, do Código Penal qualifica a lesão corporal quando praticada contra a mulher, por razões da condição do sexo feminino, nos termos do art. 121, § 2º-A, do Código Penal, abrangendo, entre outras, a violência doméstica e familiar, incorporando o contexto de violência de gênero como elemento do tipo penal. A aplicação da agravante do art. 61, II, “f”, do Código Penal sobre fato já qualificado pelo § 13 recai na mesma circunstância fático-normativa (violência de doméstica e de gênero contra a mulher), implicando duplicidade punitiva vedadaa, por implicar bis in idem e violar os princípios da proporcionalidade e da especialidade na aplicação da lei penal.
+  > 5. O ANPP é faculdade do Ministério Público condicionada aos requisitos legais, mas a recusa deve ser motivada com dados concretos do caso. Fundamentação genérica, baseada na gravidade abstrata do tipo penal e em circunstâncias inerentes ao delito, não se mostra idônea para afastar a possibilidade de oferecimento do acordo.
+  > 6. O reconhecimento do tráfico privilegiado exige considerar, para fins do art. 28-A do CPP, as causas de diminuição aplicáveis, podendo resultar em pena mínima em abstrato inferior a 4 anos, o que autoriza a análise da viabilidade de ANPP.
+  > 7. A jurisprudência das Turmas do STJ reconhece a necessidade de retorno dos autos à origem para oportunizar a proposta de ANPP quando há desclassificação para o tráfico privilegiado, a fim de evitar o excesso de acusação (overcharging) em prejuízo da defesa.
+  > 8. No caso, ausentes elementos individualizados que demonstrem a insuficiência ou desnecessidade do ANPP, impõe-se manter a determinação de que o Ministério Público examine e motive, concretamente, a (im)possibilidade de propositura do acordo.
   > IV. Dispositivo e tese
-  > 6. Resultado do Julgamento: Agravo regimental desprovido.
+  > 9. Resultado do Julgamento: Agravo regimental desprovido, mantida a determinação de retorno dos autos à origem para análise motivada da viabilidade de ANPP pelo Ministério Público.
   > Tese de julgamento:
-  > 1. O conhecimento do dissídio pela alínea “c” do art. 105, III, da Constituição exige cotejo analítico, similitude fática e jurídica e paradigmas adequados.
-  > 2. A aplicação cumulativa da agravante do art. 61, II, “f”, do Código Penal com a qualificadora do art. 129, § 13, do Código Penal configura bis in idem, uma vez que a violência de gênero contra a mulher, em contexto doméstico ou familiar, já constitui elementar do tipo penal qualificado.
-  > 3. A tese firmada no Tema 1.197/STJ não se aplica às hipóteses do art. 129, § 13, do Código Penal, em que a condição de mulher e a violência de gênero já integram o tipo qualificado.
-  > (AgRg no REsp n. 2.294.354/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
+  > 1. O reconhecimento do tráfico privilegiado impõe considerar as causas de diminuição para aferição da pena mínima em abstrato do art. 28-A do CPP, permitindo a análise da viabilidade de ANPP.
+  > 2. A recusa ministerial ao ANPP deve ser motivada com elementos concretos do caso; fundamentação genérica ou baseada em gravidade abstrata não é suficiente para afastar o oferecimento do acordo.
+  > 3. Havendo possível excesso de acusação decorrente da desclassificação para tráfico privilegiado, os autos devem retornar à origem para que o Ministério Público examine, de forma motivada, a proposta de ANPP.
+  > (AgRg no AREsp n. 3.244.311/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 3. AgRg no AgRg no REsp nº 2246840 / MG (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Tráfico de drogas
-- Resumo: A reparação mínima por dano moral coletivo exige pedido expresso, indicação do valor e instrução específica sobre o dano (art. 387, IV, do CPP). Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2246840.pdf
+## 5. AgRg no AREsp nº 3270585 / BA (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Roubo · Dosimetria
+- Resumo: No concurso formal próprio, o aumento vai de 1/6 a 1/2 conforme o número de crimes: com 6 ou mais, aplica-se 1/2, nunca 2/3 (art. 70 do CP). Agravo da defesa desprovido (Súmula 284/STF), mas HC de ofício reduz a pena dos três réus.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3270585.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. DANO MORAL COLETIVO. FIXAÇÃO DE VALOR MÍNIMO NA SENTENÇA PENAL CONDENATÓRIA (CPP, ART. 387, IV). NECESSIDADE DE INSTRUÇÃO ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 284/STF. AUSÊNCIA DE INDICAÇÃO CLARA DE DISPOSITIVO LEGAL VIOLADO. CONCURSO FORMAL DE CRIMES. APLICAR FRAÇÃO DE 1/2. AGRAVO REGIMENTAL NÃO PROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO PARA REDUÇÃO DA PENA.
   > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que conheceu em parte e negou provimento a recurso especial.
+  > 1. Agravo regimental contra decisão da Presidência que não conheceu o recurso especial, diante do óbice da Súmula 284/STF (ausência de indicação do dispositivo legal violado).
+  > 2. A defesa sustenta ter apontado expressamente o art. 70 do Código Penal e requer o conhecimento do recurso especial.
+  > 3. As instâncias ordinárias majoraram a pena em 2/3 pelo concurso formal de crimes, em roubo praticado mediante uma só ação com 10 vítimas.
   > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se a fixação de valor mínimo para reparação de danos morais coletivos, em sentença penal condenatória com fundamento no art. 387, IV, do CPP, exige instrução probatória específica ou se basta o pedido expresso na denúncia.
+  > 4. Há duas questões em discussão: (i) saber se a ausência de indicação clara e precisa dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, com incidência da Súmula 284/STF; e (ii) saber se é possível, diante de flagrante ilegalidade na dosimetria pela aplicação de fração de 2/3 no concurso formal de crimes, conceder, de ofício, habeas corpus para aplicar a fração de 1/2 prevista no art. 70 do Código Penal.
   > III. Razões de decidir
-  > 3. A fixação de valor mínimo a título de dano moral coletivo, nos termos do art. 387, IV, do CPP, exige cumulativamente: (i) pedido expresso na peça acusatória; (ii) indicação do montante pretendido; e (iii) realização de instrução probatória específica, para assegurar o contraditório e a ampla defesa.
-  > 4. Em crimes de tráfico de drogas, cujo sujeito passivo é indeterminado, é indispensável instrução específica para demonstrar o abalo à esfera moral coletiva e a extensão do dano; ausente essa instrução, inviável a definição do quantum indenizatório.
-  > 5. O acórdão recorrido está alinhado à jurisprudência do STJ quanto aos requisitos para a indenização mínima do art. 387, IV, do CPP, incidindo a Súmula 83/STJ.
+  > 5. A ausência de indicação clara e precisa dos dispositivos legais federais violados nas razões do recurso especial caracteriza deficiência de fundamentação e atrai a incidência da Súmula 284/STF, o que impede o conhecimento do especial.
+  > 6. O art. 647-A do Código de Processo Penal autoriza a concessão de habeas corpus de ofício, quando verificada flagrante ilegalidade no curso do processo.
+  > 7. O art. 70 do Código Penal fixa a fração de aumento pelo concurso formal entre 1/6 e 1/2, devendo, em hipóteses de 6 ou mais infrações, aplicar-se a fração de 1/2; a majoração de 2/3 extrapola o limite legal.
+  > 8. Configurada a ilegalidade na fração do concurso formal, impõe-se a readequação da pena, com aplicação da fração de 1/2, mantendo-se, no mais, a condenação.
   > IV. Dispositivo e tese
-  > 6. Resultado do Julgamento: Agravo regimental não provido.
+  > 9. Resultado do Julgamento: Agravo regimental não provido; ordem de habeas corpus concedida de ofício para reduzir a pena mediante aplicação da fração de 1/2 no concurso formal de crimes.
   > Tese de julgamento:
-  > 1. A fixação de danos morais coletivos, com base no art. 387, IV, do CPP, exige pedido expresso, indicação do montante pretendido e instrução probatória específica para assegurar contraditório e ampla defesa.
-  > (AgRg no AgRg no REsp n. 2.246.840/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2026, DJEN de 27/10/2026.)
+  > 1. A ausência de indicação clara e precisa dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, por incidência da Súmula 284/STF.
+  > 2. O órgão julgador pode conceder habeas corpus de ofício, nos termos do art. 647-A do CPP, quando verificada flagrante ilegalidade no curso do processo.
+  > 3. A fração de aumento pelo concurso formal de crimes deve observar os limites do art. 70 do CP, aplicando-se 1/2 quando praticadas 6 ou mais infrações, vedada a majoração acima desse patamar.
+  > (AgRg no AREsp n. 3.270.585/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 4. AgRg no AREsp nº 3246028 / RS (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Crimes contra a saúde pública · Dosimetria
-- Resumo: Importar anabolizantes sem registro na Anvisa se enquadra no art. 273, § 1º-B, I, do CP, com a pena anterior repristinada (Tema 1.003/STF). Agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3246028.pdf
+## 6. AgRg no AREsp nº 3248667 / PA (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Crimes ambientais
+- Resumo: No crime do art. 50-A da Lei 9.605/1998, a natureza pública ou devoluta da área deve estar certificada antes do desmatamento; com a demarcação da terra indígena suspensa, a dúvida sobre a área e sobre o dolo leva à absolvição. Agravo do MPF desprovido (Súmula 7/STJ).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3248667.pdf
 - Ementa oficial:
-  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPORTAÇÃO IRREGULAR DE ANABOLIZANTES. SUBSTÂNCIAS CONSTANTES DA LISTA C5 DA PORTARIA SVS/MS N. 344/1998. DESCLASSIFICAÇÃO PARA O ART. 273, § 1º-B, I, DO CÓDIGO PENAL. MEDICAMENTOS SEM REGISTRO NA ANVISA. ADEQUAÇÃO TÍPICA. APLICAÇÃO DO PRECEITO SECUNDÁRIO REPRISTINADO. TEMA N. 1.003/STF. AGRAVO REGIMENTAL DESPROVIDO.
-  > 1. A controvérsia consiste em definir o enquadramento jurídico da importação irregular de medicamentos anabolizantes cujos princípios ativos integram a Lista C5 da Portaria SVS/MS n. 344/1998, bem como a disciplina sancionatória aplicável à conduta.
-  > 2. A inclusão dos princípios ativos identificados pela perícia na relação de substâncias sujeitas a controle especial não afasta, nas circunstâncias do caso, o enquadramento da importação irregular de produtos destinados a fins terapêuticos ou medicinais, sem registro na Anvisa, no art. 273, § 1º-B, I, do Código Penal, conforme reconhecido na decisão agravada.
-  > 3. Mantida a desclassificação para o art. 273, § 1º-B, I, do Código Penal, aplica-se o preceito secundário repristinado, em observância à orientação firmada pelo Supremo Tribunal Federal no Tema n. 1.003 da repercussão geral, que reconheceu a inconstitucionalidade da pena cominada pela Lei n. 9.677/1998 à referida hipótese típica.
-  > 4. A alteração da capitulação jurídica impõe o retorno dos autos ao Tribunal de origem para o redimensionamento da pena, observados os parâmetros legais correspondentes ao delito reconhecido.
-  > 5. Agravo regimental a que se nega provimento.
-  > (AgRg no AREsp n. 3.246.028/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
-
-## 5. AgRg no AREsp nº 3364974 / DF (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Receptação · Dosimetria
-- Resumo: Fato anterior ao trânsito em julgado de outra condenação não eleva a culpabilidade como se cometido durante o cumprimento de pena. Agravo desprovido, mas ordem concedida de ofício: pena redimensionada, regime aberto e substituição.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3364974.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. CELULAR ROUBADO ADQUIRIDO POR COMERCIANTE DO RAMO. NEGATIVA DE SUBSTITUIÇÃO DA PENA. MANUTENÇÃO NO RECURSO ESPECIAL. ALEGADA PREMISSA FÁTICA INEXISTENTE NA CULPABILIDADE. INOVAÇÃO RECURSAL. CULPABILIDADE NEGATIVADA POR CRIME SUPOSTAMENTE COMETIDO DURANTE O CUMPRIMENTO DE PENA. ILEGALIDADE FLAGRANTE CONFIGURADA. FATO ANTERIOR AO TRÂNSITO EM JULGADO DA CONDENAÇÃO PRECEDENTE. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 50-A DA LEI 9.605. TERRAS DE DOMÍNIO PÚBLICO OU DEVOLUTAS. DEMARCAÇÃO DE TERRA INDÍGENA. CERTIFICAÇÃO PRÉVIA. INSUFICIÊNCIA PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
   > I. Caso em exame
-  > 1. Agravo regimental contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento. O agravante foi condenado por receptação qualificada. Em sua loja de conserto e venda de celulares, adquiriu aparelho produto de roubo. A pena ficou em 3 (três) anos e 4 (quatro) dias de reclusão, em regime semiaberto, depois do afastamento da reincidência. A decisão agravada manteve a negativa de substituição da pena, porque a culpabilidade negativa basta, por si, para afastá-la.
-  > 2. O agravante sustenta que a culpabilidade foi negativada por crime cometido durante o cumprimento de pena. Afirma que o fato ocorreu antes do trânsito em julgado da condenação anterior. Pede a substituição da pena ou a concessão de habeas corpus de ofício.
+  > 1. Agravo regimental no agravo em recurso especial interposto pela acusação contra decisão que não conheceu do recurso especial, em face de acórdão absolutório quanto ao crime do Art. 50-A da Lei 9.605.
+  > 2. Instâncias ordinárias reconheceram inexistência de prova, em nível acima de dúvida razoável, de que o desmatamento ocorreu em “terras de domínio público ou devolutas” na data dos fatos, bem como incerteza quanto à natureza jurídica da área, afastando o dolo. Absolvição com fundamento no CPP, Art. 386, VII.
+  > 3. Decisão agravada manteve o acórdão absolutório e não conheceu do recurso especial por incidência da Súmula 7/STJ, ante a necessidade de revolvimento do conjunto fático-probatório.
   > II. Questão em discussão
-  > 3. Há duas questões em discussão: (i) saber se o agravo regimental pode veicular tese não deduzida no recurso especial; e (ii) saber se há ilegalidade flagrante na valoração negativa da culpabilidade por crime cometido durante o cumprimento de pena, quando o fato antecede o trânsito em julgado da condenação anterior.
+  > 4. A questão em discussão consiste em saber se o conhecimento do recurso especial é obstado pela Súmula 7/STJ, por demandar reexame de fatos e provas para desconstituir a conclusão absolutória das instâncias ordinárias.
   > III. Razões de decidir
-  > 4. O recurso especial impugnou apenas a reutilização da culpabilidade negativa para negar a substituição da pena. A alegação de premissa fática inexistente surgiu somente no agravo regimental. A inovação recursal é inviável nessa via.
-  > 5. O acórdão recorrido assentou que o crime ocorreu entre 14 e 15 de janeiro de 2024. Assentou também que a condenação anterior foi proferida e transitou em julgado em 18 de janeiro de 2024. Na data do fato, portanto, o agravante não cumpria pena nem fruía benefícios da execução. A contradição resulta das próprias premissas do acórdão e configura ilegalidade flagrante, sanável de ofício (art. 654, § 2º, do CPP).
-  > 6. Afastada a única circunstância judicial desfavorável, a pena-base volta ao mínimo legal de 3 (três) anos de reclusão. A confissão espontânea não reduz a pena aquém do mínimo (Súmula n. 231/STJ). O agravante não é reincidente e tem todas as circunstâncias judiciais favoráveis. Faz jus, assim, ao regime aberto e à substituição da pena por duas restritivas de direitos (arts. 33, § 2º, alínea “c”, e 44 do CP).
-  > IV. Dispositivo
-  > 7. Agravo regimental desprovido. Habeas corpus concedido de ofício para fixar a pena em 3 (três) anos de reclusão e 10 (dez) dias-multa, em regime aberto, substituída a pena privativa de liberdade por duas restritivas de direitos.
-  > (AgRg no AREsp n. 3.364.974/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
+  > 5. Incide a Súmula 7/STJ, pois a reforma da conclusão do Tribunal de origem sobre insuficiência probatória e ausência de dolo exigiria novo exame do conjunto fático-probatório, providência inviável na via estreita do recurso especial.
+  > 6. A condenação penal exige prova robusta, segura e harmônica de autoria e materialidade, inclusive quanto ao elemento normativo do tipo; persistindo dúvida razoável sobre a natureza jurídica da área e o dolo, impõe-se a absolvição nos termos do CPP, Art. 386, VII.
+  > IV. Dispositivo e tese
+  > 7. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que não conheceu do recurso especial.
+  > Tese de julgamento:
+  > 1. O reexame de fatos e provas para infirmar acórdão absolutório encontra óbice na Súmula 7/STJ em sede de recurso especial.
+  > 2. Persistindo dúvida razoável sobre a natureza jurídica da área e sobre o dolo, a absolvição deve ser mantida com fundamento no CPP, Art. 386, VII.
+  > (AgRg no AREsp n. 3.248.667/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 6. AgRg no REsp nº 2280820 / MG (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri · Confissão espontânea
-- Resumo: No Júri, a atenuante da confissão pode ser reconhecida mesmo sem debate em plenário, se a confissão consta dos autos, ainda que qualificada (Tema 1.194/STJ). Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2280820.pdf
+## 7. HC nº 279.008 / SP (STF)
+- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
+- Resumo: Pequena quantidade de maconha (9,89 g), sem flagrante de venda nem petrechos de comércio, não sustenta a condenação por tráfico: aplica-se a presunção de uso do Tema 506/STF (RE 635.659). HC concedido após o trânsito em julgado para absolver (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279008.pdf
+
+## 8. ARE nº 1.630.118 / GO (STF)
+- Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 03/11/2026.
+- Crime / Tema: Perturbação do sossego
+- Resumo: A perturbação do sossego (art. 42, III, da LCP) exige atingir uma multiplicidade de pessoas; o incômodo a uma só vítima não configura a contravenção. O STF negou seguimento ao ARE do MP (Súmula 279/STF e ofensa reflexa) e manteve a absolvição.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630118.pdf
+
+## 9. RHC nº 278.721 / ES (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Ato infracional (ECA)
+- Resumo: No procedimento do ECA, o adolescente deve ser notificado pessoalmente para a audiência e ouvido como último ato da instrução (arts. 184 e 187 do ECA; art. 400 do CPP); a falta de oitiva é nulidade absoluta, que a defesa técnica não supre. RHC provido para anular a instrução e a sentença.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278721.pdf
+
+## 10. AgRg no REsp nº 2265602 / MG (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Condenação com punibilidade extinta há mais de 10 anos antes do novo crime não serve como maus antecedentes, ainda que o crime anterior seja grave (art. 59 do CP). Sem outros elementos, 68 g de crack e uma balança não justificam fração menor que 2/3 no tráfico privilegiado. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2265602.pdf
 - Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. CONFISSÃO. ATENUANTE NÃO DEBATIDA EM PLENÁRIO. TEMA 1.194/STJ. RECURSO ESPECIAL INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. No julgamento do REsp n. 2.001.973/RS, relator Ministro Og Fernandes, ocorrido em 10/9/2025, DJEN de 16/9/2025, submetido à sistemática dos recursos repetitivos, Tema n. 1194, a Terceira Seção firmou o seguinte entendimento:
-  > 1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, 'd', do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos;
-  > 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade
-  > 2. Com o referido julgamento, a Terceira Seção deliberou pela revisão do enunciado da Súmula n. 545/STJ, ficando esta no seguintes termos: A confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do Código Penal, independentemente de ser utilizada na formação do convencimento do julgador.
-  > 3. A controvérsia que persiste, entretanto, refere-se à maneira de conciliar essa orientação com as particularidades do procedimento aplicável aos crimes dolosos contra a vida, notadamente em razão da divisão de atribuições entre o Conselho de Sentença e o juiz presidente.
-  > 4. A respeito da matéria, verifica-se que a jurisprudência desta Corte Superior ainda não alcançou entendimento plenamente uniforme. De um lado, encontram-se precedentes no sentido de que o Tema Repetitivo n. 1.194 e a nova redação conferida à Súmula n. 545 do STJ não teriam dispensado a necessidade de que a confissão seja efetivamente submetida à apreciação e ao debate em plenário, uma vez que se trata de circunstância de natureza subjetiva, cuja valoração estaria inserida na esfera de competência exclusiva do Conselho de Sentença. Em sentido diverso, existe jurisprudência no sentido de que o reconhecimento da atenuante da confissão espontânea prescinde de sua submissão ao debate perante o Conselho de Sentença, bastando, para tanto, que a confissão esteja formalmente registrada nos autos, posição que, no meu entender, melhor se harmoniza com o Tema Repetitivo n. 1.194 e com a atual redação da Súmula n. 545 do STJ.
-  > 5. Portanto, a atenuante da confissão espontânea deve ser reconhecida pelo juiz presidente, mesmo que a confissão não haja sido debatida em plenário, desde que conste dos autos, em consonância com o Tema Repetitivo n. 1.194 e com a atual redação da Súmula n. 545 do STJ (REsp n. 2.262.407/MG, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 1/9/2026, DJEN de 9/9/2026).
-  > 6. No presente caso, verifica-se que o Tribunal de origem reconheceu corretamente a incidência da atenuante da confissão, pois o acusado admitiu haver desferido os golpes que causaram a morte da vítima, embora haja alegado ter agido em legítima defesa, hipótese de confissão qualificada cuja eficácia atenuadora foi expressamente assegurada pelo Tema Repetitivo n. 1.194.
-  > 7. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.280.820/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
-
-## 7. AgRg no AREsp nº 3177789 / RS (STJ)
-- Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri
-- Resumo: No Júri, as séries de quesitos de vítimas distintas são autônomas e podem ter respostas diferentes; feita nova votação (art. 490 do CPP), prevalece a absolvição reafirmada. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3177789.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. ALEGADA CONTRADIÇÃO NAS RESPOSTAS DOS JURADOS. PROVIDÊNCIAS DO ART. 490 DO CPP OBSERVADAS. NOVA VOTAÇÃO REALIZADA. MANUTENÇÃO SOBERANA DO VEREDICTO ABSOLUTÓRIO. AUTONOMIA DAS SÉRIES DE QUESITOS. POSSIBILIDADE DE CONCLUSÕES DISTINTAS PARA VÍTIMAS DIVERSAS. ATUAÇÃO DEFENSIVA AMPLA E ACOLHIDA PELO CONSELHO DE SENTENÇA. INEXISTÊNCIA DE VÍCIO FORMAL. JURISPRUDÊNCIA PACÍFICA DO STJ. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A INFIRMAR A DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão monocrática que deu provimento ao recurso especial para restabelecer o veredicto absolutório proferido pelo Conselho de Sentença no processo 5043880-26.2022.8.21.0001/RS.
-  > 2. O agravante sustenta que as respostas dos jurados seriam inconciliáveis, pois reconheceram a autoria do réu em uma das tentativas de homicídio e a negaram nas demais, todas ocorridas no mesmo contexto fático, configurando contradição insanável nos termos do art. 564, parágrafo único, do CPP. Requer, assim, o provimento do agravo para restabelecer a decisão do Tribunal de Justiça que anulou o julgamento.
-  > II. Questão em discussão
-  > 3. Discute-se se houve, de fato, contradição apta a ensejar nulidade do julgamento do Tribunal do Júri e se a decisão monocrática observou corretamente a jurisprudência desta Corte ao reconhecer a soberania dos veredictos e a autonomia das séries de quesitos.
-  > III. Razões de decidir
-  > 4. Foi consignado na decisão agravada que a suposta contradição foi enfrentada na própria sessão plenária, com observância ao procedimento previsto no art. 490 do CPP. O Juiz Presidente esclareceu aos jurados a incongruência apontada pelo Ministério Público e submeteu novamente os quesitos à votação, ocasião em que o Conselho de Sentença, de forma soberana, manteve o resultado absolutório.
-  > 5. A decisão monocrática destacou que a defesa sustentou múltiplas teses – insuficiência probatória, negativa de autoria e coação moral irresistível – todas acolhidas pelos jurados, afastando a premissa de que a absolvição teria sido fundada exclusivamente em negativa de autoria.
-  > 6. Ressaltou-se, ainda, que não há contradição lógica ou jurídica no fato de os jurados reconhecerem a autoria em relação a uma vítima e rejeitarem tal reconhecimento quanto às demais, sobretudo porque cada série de quesitos é autônoma e permite conclusões distintas, preservando-se o livre convencimento dos jurados. A estrutura da quesitação impede que o reconhecimento da autoria em um fato implique automaticamente sua afirmação em todos os demais.
-  > 7. A decisão agravada também observou que a soberania dos veredictos, prevista no art. 5º, XXXVIII, da Constituição Federal, impede a substituição da deliberação dos jurados quando estes, cientes da controvérsia e após nova votação, reafirmam a absolvição. Não se trata de vício formal não sanado, mas de opção soberana do corpo de jurados.
-  > 8. Por fim, registrou-se que a jurisprudência desta Corte admite conclusões distintas em séries de quesitos relativas a vítimas diversas, afastando a nulidade quando a questão é reapreciada pelo Conselho de Sentença e este mantém conscientemente o resultado proclamado.
-  > IV. Agravo regimental desprovido.
-  > (AgRg no AREsp n. 3.177.789/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
-
-## 8. AREsp nº 2939207 / MG (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Abuso de autoridade · Posse ilegal de arma de fogo
-- Resumo: Policial sem atribuição para instaurar investigação ou ação penal não comete o crime do art. 30 da Lei 13.869/2019. REsp parcialmente provido: absolvição nesse crime.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2939207.pdf
-
-## 9. AgRg no HC nº 1124375 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Descaminho · Corrupção ativa · Associação criminosa · Dosimetria
-- Resumo: Fato posterior e autônomo não agrava a culpabilidade, e prejuízo tributário não individualizado não eleva as consequências do crime. Dosimetria corrigida; agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124375.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DESCAMINHO. CORRUPÇÃO ATIVA. ASSOCIAÇÃO CRIMINOSA. DOSIMETRIA. ORDEM CONCEDIDA, EM PARTE, DE OFÍCIO. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. NULIDADE NÃO CONFIGURADA. AUSÊNCIA DE PREJUÍZO CONCRETO. UTILIZAÇÃO DO WRIT COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. FLAGRANTE ILEGALIDADE AFERÍVEL DE PLANO. POSSIBILIDADE DE CORREÇÃO EXCEPCIONAL. PRECLUSÃO TEMPORAL. CONSTRANGIMENTO ILEGAL COM REPERCUSSÃO ATUAL NA LIBERDADE. DEFICIÊNCIA DA INSTRUÇÃO. DOCUMENTOS SUFICIENTES. REVISÃO CRIMINAL EM CURSO NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA E USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADAS. CULPABILIDADE. FATO AUTÔNOMO POSTERIOR AOS DELITOS. CONSEQUÊNCIAS DO DESCAMINHO. PREJUÍZO TRIBUTÁRIO NÃO INDIVIDUALIZADO. CONSEQUÊNCIAS DA CORRUPÇÃO ATIVA. RESULTADO RELACIONADO A SETORES NÃO ABRANGIDOS PELA CONDENAÇÃO. PENA DE MULTA. NÚMERO DE DIAS-MULTA. ADEQUAÇÃO. VALOR UNITÁRIO DO DIA-MULTA. MATÉRIA NÃO CONHECIDA NA DECISÃO AGRAVADA. DECISÃO MANTIDA.
-  > 1. A ausência de prévia manifestação do Ministério Público não acarreta nulidade quando reconhecidas ilegalidades manifestas, aferíveis de plano, e não demonstrado prejuízo concreto decorrente da falta de prévia vista dos autos. Precedente.
-  > 2. A inadequação do habeas corpus como substitutivo de revisão criminal não impede, excepcionalmente, a correção de flagrante ilegalidade aferível de plano, sem necessidade de reexame fático-probatório. Precedente.
-  > 3. A preclusão temporal não obsta a atuação de ofício diante de vícios manifestos na individualização da pena, identificáveis a partir dos próprios fundamentos adotados pelas instâncias ordinárias e com repercussão atual sobre a liberdade do paciente.
-  > 4. A ausência da decisão proferida nos embargos de declaração não inviabiliza o exame quando os documentos disponíveis são suficientes à identificação das ilegalidades reconhecidas e o recurso não demonstra de que modo o conteúdo da decisão integrativa afastaria as premissas adotadas.
-  > 5. A existência de revisão criminal em curso no Tribunal de origem não impede, por si só, a aferição, em habeas corpus, de flagrante ilegalidade no ato apontado como coator nem a concessão de ordem de ofício nos limites próprios dessa via. Precedente.
-  > 6. Subsistem as ilegalidades reconhecidas na dosimetria: a valoração negativa da culpabilidade com fundamento em fato autônomo posterior aos delitos; a valoração das consequências do descaminho com base em prejuízo tributário não individualizado; e a atribuição, na corrupção ativa, de consequências relacionadas a setores não abrangidos pela condenação.
-  > 7. Mantém-se a adequação do número de dias-multa após a redução da pena corporal. A discussão sobre o valor unitário do dia-multa não foi conhecida na decisão agravada, de modo que sua referência na ação revisional não evidencia sobreposição de competência.
-  > 8. Agravo regimental improvido.
-  > (AgRg no HC n. 1.124.375/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
-
-## 10. REsp nº 2253748 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Homicídio qualificado · Homicídio · Dosimetria
-- Resumo: A pena-base do homicídio simples tentado não pode igualar a do qualificado consumado sem fundamento concreto para o acréscimo. REsp parcialmente provido: pena redimensionada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253748.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. RECURSO ESPECIAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO SIMPLES TENTADO. DOSIMETRIA. PENA-BASE. ANTECEDENTES, MOTIVOS E CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEIS. HOMICÍDIO QUALIFICADO. EXASPERAÇÃO COMPATÍVEL COM O PARÂMETRO DE 1/8 DO INTERVALO ENTRE AS PENAS MÍNIMA E MÁXIMA EM ABSTRATO. AUSÊNCIA DE ILEGALIDADE. HOMICÍDIO SIMPLES TENTADO. FIXAÇÃO DA PENA-BASE NO MESMO PATAMAR DO HOMICÍDIO QUALIFICADO. ACRÉSCIMO SEM FUNDAMENTAÇÃO CONCRETA IDÔNEA. ILEGALIDADE. REDIMENSIONAMENTO DA PENA.
-  > 1. A fixação da pena-base não se submete a critério matemático rígido, sendo as frações de 1/6 sobre a pena mínima ou de 1/8 sobre o intervalo entre os limites mínimo e máximo abstratamente cominados ao tipo penal meros referenciais adotados pela jurisprudência desta Corte para aferição da proporcionalidade da exasperação, admitida a utilização de critério diverso ou mais gravoso desde que amparado em fundamentação concreta e idônea.
-  > 2. No caso, a exasperação da pena-base do crime de homicídio qualificado consumado em montante correspondente a aproximadamente 1/8 do intervalo entre as penas mínima e máxima abstratamente cominadas ao tipo penal para cada circunstância judicial negativada não evidencia ilegalidade ou desproporcionalidade.
-  > 3. É desproporcional a fixação da pena-base do crime de homicídio simples tentado em patamar equivalente ao estabelecido para o homicídio qualificado consumado quando valoradas negativamente apenas três circunstâncias judiciais, resultando em incremento substancialmente superior ao parâmetro de referência ordinariamente adotado pela jurisprudência desta Corte, sem fundamentação concreta apta a justificá-lo.
-  > 4. Recurso especial parcialmente provido.
-  > (REsp n. 2.253.748/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. MAUS ANTECEDENTES. PARÂMETRO DECENAL JURISPRUDENCIAL. TRÁFICO PRIVILEGIADO. FRAÇÃO DA MINORANTE. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão monocrática que conheceu e deu provimento ao recurso especial defensivo, com concessão de ordem de habeas corpus de ofício, para afastar a valoração negativa dos antecedentes, fixar a pena-base no mínimo legal, reconhecer a causa de diminuição do art. 33, § 4º, da Lei nº 11.343/2006 na fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, em regime aberto, com substituição por duas penas restritivas de direitos.
+  > 2. O agravante pretende a reforma da decisão para restabelecer o acórdão do Tribunal de origem que havia mantido a pena de 5 anos e 10 meses de reclusão, em regime semiaberto, e 583 dias-multa, com afastamento do tráfico privilegiado em razão dos maus antecedentes decorrentes de condenação anterior por roubo majorado cuja punibilidade foi extinta em 24/3/2009, tendo o novo delito ocorrido em 18/11/2023; subsidiariamente, requer a aplicação de fração inferior à máxima da minorante em razão da apreensão de 350 pedras de crack (68,4 g) e balança de precisão.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 3. Há duas questões em discussão: (i) saber se, diante do lapso superior a dez anos entre a extinção da pena anterior e o novo delito, é juridicamente adequada a desconsideração dos maus antecedentes, à luz dos princípios da proporcionalidade, da razoabilidade, da vedação a penas de caráter perpétuo e do art. 59 do CP; e (ii) saber se, reconhecida a incidência do art. 33, § 4º, da Lei nº 11.343/2006, a fração máxima de 2/3 deve ser mantida ou modulada com base na natureza e quantidade da droga e na apreensão de balança de precisão, conforme o art. 42 da Lei nº 11.343/2006.
+  > III. RAZÕES DE DECIDIR
+  > 4. A uniformização jurisprudencial desta Corte admite, por critérios de proporcionalidade e isonomia, a neutralização dos maus antecedentes quando a extinção da punibilidade da condenação pretérita ocorreu há mais de dez anos em relação ao novo crime, vedando a perpetuidade dos efeitos penais negativos sem prazo legal e assegurando previsibilidade na dosimetria.
+  > 5. A gravidade abstrata do crime anterior não pode, por si só, prolongar indefinidamente a eficácia negativa dos antecedentes para além do parâmetro decenal, sob pena de esvaziar o limite temporal jurisprudencial e contrariar a vedação constitucional a penas de caráter perpétuo.
+  > 6. No caso, a extinção da punibilidade do roubo majorado ocorreu em 2009 e o novo crime foi praticado em 2023, com lapso superior a quatorze anos, razão pela qual é juridicamente adequada a desconsideração dos maus antecedentes e a fixação da pena-base no mínimo legal.
+  > 7. A incidência do art. 33, § 4º, da Lei nº 11.343/2006 é devida quando presentes a primariedade técnica, os bons antecedentes e a ausência de dedicação a atividades criminosas ou integração a organização criminosa, não havendo, na espécie, fundamento autônomo remanescente para afastar o benefício.
+  > 8. A modulação da fração da minorante não pode recriar, na terceira fase, agravamento já afastado na primeira fase sem base concreta adicional; a apreensão de 68,4 g de crack e de balança de precisão, dissociada de outros elementos, não justifica reduzir a fração ao mínimo e não supera o enquadramento típico, sendo adequada a aplicação da fração de 2/3 diante do perfil subjetivo do agente.
+  > IV. DISPOSITIVO
+  > 9. Agravo regimental não provido.
+  > (AgRg no REsp n. 2.265.602/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
