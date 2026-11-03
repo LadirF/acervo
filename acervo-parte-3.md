@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 3 de 36 (decisões 21 a 30)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,31 +8,37 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 21. RHC nº 277.683 / SC (STF)
+## 21. ARE nº 1.628.735 / SP (STF)
+- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 28/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Direito ao silêncio
+- Resumo: Mantida a decisão do STJ segundo a qual o silêncio do acusado e o lucro, inerente ao tráfico, não afastam nem reduzem o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). O STF negou provimento ao ARE do MP (ofensa reflexa e Súmula 279/STF), e ficou mantida a fração de 2/3.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628735.pdf
+
+## 22. RHC nº 277.683 / SC (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 28/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: O furto privilegiado (art. 155, § 2º, do CP) é compatível com qualquer qualificadora, inclusive a subjetiva do abuso de confiança, em sentido contrário à Súmula 511/STJ. A escusa do art. 181, II, não alcança padrasto e enteado. RHC parcialmente provido para redimensionar a pena.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277683.pdf
 
-## 22. HC nº 278.547 / SP (STF)
+## 23. HC nº 278.547 / SP (STF)
 - Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Ato infracional (ECA) · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: A internação provisória (art. 108, parágrafo único, do ECA) exige necessidade imperiosa e uma das hipóteses do art. 122; ato análogo ao tráfico, sem violência nem reiteração, não a autoriza. HC concedido, superada a Súmula 691/STF, para substituí-la por medida em meio aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278547.pdf
 
-## 23. HC nº 278.717 / MS (STF)
+## 24. HC nº 278.717 / MS (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: A condição de “mula”, sem prova concreta de vínculo com organização criminosa, não justifica aplicar o redutor do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) no mínimo de 1/6. HC concedido para restabelecer a sentença, que aplicou 1/2.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278717.pdf
 
-## 24. HC nº 277.559 / MG (STF)
+## 25. HC nº 277.559 / MG (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: O juiz não pode impor a preventiva na sentença contra o pedido expresso do MP para o réu recorrer em liberdade (arts. 282, §§ 2º e 4º, e 311 do CPP); a reavaliação de ofício do art. 316 não alcança esse caso. Em reconsideração, ordem concedida de ofício para restabelecer o comparecimento mensal em juízo.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277559.pdf
 
-## 25. REsp nº 2294353 / PR (STJ)
+## 26. REsp nº 2294353 / PR (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Furto
 - Resumo: No furto privilegiado, o pequeno valor considera só a coisa furtada, sem somar o custo de reparar obstáculo danificado (art. 155, § 2º, do CP). Minorante reconhecida; REsp da defesa parcialmente provido.
@@ -49,7 +55,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Recurso especial parcialmente provido para reconhecer a incidência da causa de diminuição prevista no art. 155, § 2º, do Código Penal e determinar o retorno dos autos ao Tribunal de origem para aplicação da minorante e consequente redimensionamento da pena, mantidos os demais termos do acórdão recorrido.
   > (REsp n. 2.294.353/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 26. AgRg no REsp nº 2294354 / SC (STJ)
+## 27. AgRg no REsp nº 2294354 / SC (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Violência doméstica · Dosimetria
 - Resumo: A agravante do art. 61, II, “f”, do CP não se soma à qualificadora do art. 129, § 13, quando ambas se baseiam na violência contra a mulher: é bis in idem (distinção do Tema 1.197/STJ). Agravo do MP desprovido.
@@ -73,7 +79,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. A tese firmada no Tema 1.197/STJ não se aplica às hipóteses do art. 129, § 13, do Código Penal, em que a condição de mulher e a violência de gênero já integram o tipo qualificado.
   > (AgRg no REsp n. 2.294.354/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
 
-## 27. AgRg no AgRg no REsp nº 2246840 / MG (STJ)
+## 28. AgRg no AgRg no REsp nº 2246840 / MG (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas
 - Resumo: A reparação mínima por dano moral coletivo exige pedido expresso, indicação do valor e instrução específica sobre o dano (art. 387, IV, do CPP). Agravo do MP desprovido.
@@ -94,7 +100,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 1. A fixação de danos morais coletivos, com base no art. 387, IV, do CPP, exige pedido expresso, indicação do montante pretendido e instrução probatória específica para assegurar contraditório e ampla defesa.
   > (AgRg no AgRg no REsp n. 2.246.840/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2026, DJEN de 27/10/2026.)
 
-## 28. AgRg no AREsp nº 3246028 / RS (STJ)
+## 29. AgRg no AREsp nº 3246028 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Crimes contra a saúde pública · Dosimetria
 - Resumo: Importar anabolizantes sem registro na Anvisa se enquadra no art. 273, § 1º-B, I, do CP, com a pena anterior repristinada (Tema 1.003/STF). Agravo do MPF desprovido.
@@ -108,7 +114,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental a que se nega provimento.
   > (AgRg no AREsp n. 3.246.028/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
 
-## 29. AgRg no AREsp nº 3364974 / DF (STJ)
+## 30. AgRg no AREsp nº 3364974 / DF (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Receptação · Dosimetria
 - Resumo: Fato anterior ao trânsito em julgado de outra condenação não eleva a culpabilidade como se cometido durante o cumprimento de pena. Agravo desprovido, mas ordem concedida de ofício: pena redimensionada, regime aberto e substituição.
@@ -127,21 +133,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. Dispositivo
   > 7. Agravo regimental desprovido. Habeas corpus concedido de ofício para fixar a pena em 3 (três) anos de reclusão e 10 (dez) dias-multa, em regime aberto, substituída a pena privativa de liberdade por duas restritivas de direitos.
   > (AgRg no AREsp n. 3.364.974/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
-
-## 30. AgRg no REsp nº 2280820 / MG (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri · Confissão espontânea
-- Resumo: No Júri, a atenuante da confissão pode ser reconhecida mesmo sem debate em plenário, se a confissão consta dos autos, ainda que qualificada (Tema 1.194/STJ). Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2280820.pdf
-- Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. CONFISSÃO. ATENUANTE NÃO DEBATIDA EM PLENÁRIO. TEMA 1.194/STJ. RECURSO ESPECIAL INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. No julgamento do REsp n. 2.001.973/RS, relator Ministro Og Fernandes, ocorrido em 10/9/2025, DJEN de 16/9/2025, submetido à sistemática dos recursos repetitivos, Tema n. 1194, a Terceira Seção firmou o seguinte entendimento:
-  > 1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, 'd', do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos;
-  > 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade
-  > 2. Com o referido julgamento, a Terceira Seção deliberou pela revisão do enunciado da Súmula n. 545/STJ, ficando esta no seguintes termos: A confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do Código Penal, independentemente de ser utilizada na formação do convencimento do julgador.
-  > 3. A controvérsia que persiste, entretanto, refere-se à maneira de conciliar essa orientação com as particularidades do procedimento aplicável aos crimes dolosos contra a vida, notadamente em razão da divisão de atribuições entre o Conselho de Sentença e o juiz presidente.
-  > 4. A respeito da matéria, verifica-se que a jurisprudência desta Corte Superior ainda não alcançou entendimento plenamente uniforme. De um lado, encontram-se precedentes no sentido de que o Tema Repetitivo n. 1.194 e a nova redação conferida à Súmula n. 545 do STJ não teriam dispensado a necessidade de que a confissão seja efetivamente submetida à apreciação e ao debate em plenário, uma vez que se trata de circunstância de natureza subjetiva, cuja valoração estaria inserida na esfera de competência exclusiva do Conselho de Sentença. Em sentido diverso, existe jurisprudência no sentido de que o reconhecimento da atenuante da confissão espontânea prescinde de sua submissão ao debate perante o Conselho de Sentença, bastando, para tanto, que a confissão esteja formalmente registrada nos autos, posição que, no meu entender, melhor se harmoniza com o Tema Repetitivo n. 1.194 e com a atual redação da Súmula n. 545 do STJ.
-  > 5. Portanto, a atenuante da confissão espontânea deve ser reconhecida pelo juiz presidente, mesmo que a confissão não haja sido debatida em plenário, desde que conste dos autos, em consonância com o Tema Repetitivo n. 1.194 e com a atual redação da Súmula n. 545 do STJ (REsp n. 2.262.407/MG, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 1/9/2026, DJEN de 9/9/2026).
-  > 6. No presente caso, verifica-se que o Tribunal de origem reconheceu corretamente a incidência da atenuante da confissão, pois o acusado admitiu haver desferido os golpes que causaram a morte da vítima, embora haja alegado ter agido em legítima defesa, hipótese de confissão qualificada cuja eficácia atenuadora foi expressamente assegurada pelo Tema Repetitivo n. 1.194.
-  > 7. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.280.820/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)

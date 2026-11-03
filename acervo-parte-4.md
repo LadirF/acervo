@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 4 de 36 (decisões 31 a 40)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,25 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 31. AgRg no AREsp nº 3177789 / RS (STJ)
+## 31. AgRg no REsp nº 2280820 / MG (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Homicídio · Tribunal do Júri · Confissão espontânea
+- Resumo: No Júri, a atenuante da confissão pode ser reconhecida mesmo sem debate em plenário, se a confissão consta dos autos, ainda que qualificada (Tema 1.194/STJ). Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2280820.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. CONFISSÃO. ATENUANTE NÃO DEBATIDA EM PLENÁRIO. TEMA 1.194/STJ. RECURSO ESPECIAL INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. No julgamento do REsp n. 2.001.973/RS, relator Ministro Og Fernandes, ocorrido em 10/9/2025, DJEN de 16/9/2025, submetido à sistemática dos recursos repetitivos, Tema n. 1194, a Terceira Seção firmou o seguinte entendimento:
+  > 1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, 'd', do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos;
+  > 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade
+  > 2. Com o referido julgamento, a Terceira Seção deliberou pela revisão do enunciado da Súmula n. 545/STJ, ficando esta no seguintes termos: A confissão do autor possibilita a atenuação da pena prevista no art. 65, III, d, do Código Penal, independentemente de ser utilizada na formação do convencimento do julgador.
+  > 3. A controvérsia que persiste, entretanto, refere-se à maneira de conciliar essa orientação com as particularidades do procedimento aplicável aos crimes dolosos contra a vida, notadamente em razão da divisão de atribuições entre o Conselho de Sentença e o juiz presidente.
+  > 4. A respeito da matéria, verifica-se que a jurisprudência desta Corte Superior ainda não alcançou entendimento plenamente uniforme. De um lado, encontram-se precedentes no sentido de que o Tema Repetitivo n. 1.194 e a nova redação conferida à Súmula n. 545 do STJ não teriam dispensado a necessidade de que a confissão seja efetivamente submetida à apreciação e ao debate em plenário, uma vez que se trata de circunstância de natureza subjetiva, cuja valoração estaria inserida na esfera de competência exclusiva do Conselho de Sentença. Em sentido diverso, existe jurisprudência no sentido de que o reconhecimento da atenuante da confissão espontânea prescinde de sua submissão ao debate perante o Conselho de Sentença, bastando, para tanto, que a confissão esteja formalmente registrada nos autos, posição que, no meu entender, melhor se harmoniza com o Tema Repetitivo n. 1.194 e com a atual redação da Súmula n. 545 do STJ.
+  > 5. Portanto, a atenuante da confissão espontânea deve ser reconhecida pelo juiz presidente, mesmo que a confissão não haja sido debatida em plenário, desde que conste dos autos, em consonância com o Tema Repetitivo n. 1.194 e com a atual redação da Súmula n. 545 do STJ (REsp n. 2.262.407/MG, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 1/9/2026, DJEN de 9/9/2026).
+  > 6. No presente caso, verifica-se que o Tribunal de origem reconheceu corretamente a incidência da atenuante da confissão, pois o acusado admitiu haver desferido os golpes que causaram a morte da vítima, embora haja alegado ter agido em legítima defesa, hipótese de confissão qualificada cuja eficácia atenuadora foi expressamente assegurada pelo Tema Repetitivo n. 1.194.
+  > 7. Agravo regimental não provido.
+  > (AgRg no REsp n. 2.280.820/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
+
+## 32. AgRg no AREsp nº 3177789 / RS (STJ)
 - Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio · Tribunal do Júri
 - Resumo: No Júri, as séries de quesitos de vítimas distintas são autônomas e podem ter respostas diferentes; feita nova votação (art. 490 do CPP), prevalece a absolvição reafirmada. Agravo do MP desprovido.
@@ -29,13 +47,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. Agravo regimental desprovido.
   > (AgRg no AREsp n. 3.177.789/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
 
-## 32. AREsp nº 2939207 / MG (STJ)
+## 33. AREsp nº 2939207 / MG (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Abuso de autoridade · Posse ilegal de arma de fogo
 - Resumo: Policial sem atribuição para instaurar investigação ou ação penal não comete o crime do art. 30 da Lei 13.869/2019. REsp parcialmente provido: absolvição nesse crime.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2939207.pdf
 
-## 33. AgRg no HC nº 1124375 / SP (STJ)
+## 34. AgRg no HC nº 1124375 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Descaminho · Corrupção ativa · Associação criminosa · Dosimetria
 - Resumo: Fato posterior e autônomo não agrava a culpabilidade, e prejuízo tributário não individualizado não eleva as consequências do crime. Dosimetria corrigida; agravo do MPF desprovido.
@@ -52,7 +70,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental improvido.
   > (AgRg no HC n. 1.124.375/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 34. REsp nº 2253748 / MG (STJ)
+## 35. REsp nº 2253748 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio qualificado · Homicídio · Dosimetria
 - Resumo: A pena-base do homicídio simples tentado não pode igualar a do qualificado consumado sem fundamento concreto para o acréscimo. REsp parcialmente provido: pena redimensionada.
@@ -65,7 +83,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso especial parcialmente provido.
   > (REsp n. 2.253.748/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 35. REsp nº 2239370 / PE (STJ)
+## 36. REsp nº 2239370 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Excesso de prazo
 - Resumo: Os prazos do art. 131, I, do CPP não são peremptórios, mas o sequestro de bens mantido por mais de 2 anos sem denúncia contra os investigados é excesso de prazo. REsp do MPF desprovido.
@@ -79,38 +97,26 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
   > (REsp n. 2.239.370/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 36. HC nº 1119746 / SP (STJ)
+## 37. HC nº 1119746 / SP (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri · Prisão e medidas cautelares
 - Resumo: A execução imediata da pena do Júri (Tema 1.068/STF) pode ser suspensa até a apelação quando há plausibilidade concreta de nulidade ou de decisão contrária à prova. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1119746.pdf
 
-## 37. HC nº 1140133 / SP (STJ)
+## 38. HC nº 1140133 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Anulada a condenação e comprovada a materialidade só de parte das drogas, conjecturas sobre reiteração ou fuga não mantêm a preventiva de réu primário. Ordem concedida: preventiva revogada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1140133.pdf
 
-## 38. HC nº 1139230 / TO (STJ)
+## 39. HC nº 1139230 / TO (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Porte de drogas para consumo pessoal
 - Resumo: Pouca maconha, sem balança nem material de fracionamento, não presume tráfico, e confissão informal não confirmada em juízo não prova a mercancia. Ordem concedida: desclassificação para o art. 28 restabelecida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139230.pdf
 
-## 39. RHC nº 247075 / RJ (STJ)
+## 40. RHC nº 247075 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Adulteração de sinal identificador de veículo · Justa causa
 - Resumo: A simples falta da placa, com regularização iniciada antes da abordagem, sem outro sinal adulterado, não indica dolo de suprimir o sinal identificador (art. 311 do CP). RHC provido: ação penal trancada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-247075.pdf
-
-## 40. AgRg no HC nº 277.418 / RJ (STF)
-- Decisão colegiada. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 26/10/2026.
-- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
-- Resumo: A prisão preventiva é incompatível com o regime semiaberto fixado na condenação, por ofender a proporcionalidade. A Segunda Turma, por maioria, negou provimento ao agravo do MPF e manteve a revogação da preventiva concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277418.pdf
-- Ementa oficial:
-  > Agravo regimental em habeas corpus interposto pelo Ministério Público Federal. Prisão preventiva. Regime semiaberto estabelecido no título penal condenatório. Concessão da ordem de ofício. Compatibilização da custódia cautelar com o regime imposto no decreto condenatório. Afronta ao princípio da proporcionalidade. Revogação da prisão preventiva. Decisão agravada em harmonia com entendimento consolidado pela Suprema Corte. Manutenção da decisão por seus próprios fundamentos. Agravo ao qual se nega provimento.
-  > 1. A decisão atacada não merece reforma, uma vez que seus fundamentos se harmonizam estritamente com o entendimento consolidado pela Suprema Corte.
-  > 2. O recurso mostra-se inviável, na medida em que contém apenas a reiteração dos argumentos anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões expressas na decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
-  > 3. Agravo ao qual se nega provimento.
-  > (STF, AgRg no HC n. 277.418/RJ, relator Ministro Dias Toffoli, Segunda Turma, julgado em 19/10/2026, DJe de 26/10/2026.)

@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 15 de 36 (decisões 141 a 150)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,19 +8,32 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 141. ARE nº 1.627.894 / SP (STF)
+## 141. HC nº 1128832 / CE (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 13/10/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Resumo: Errar a alínea do art. 593, III, do CPP no termo da apelação contra o Júri é mera irregularidade se as razões delimitam os pedidos. Recusar-se a julgar a apelação por isso é negativa de prestação jurisdicional. Ordem de ofício para o TJ julgar.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128832.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRIBUNAL DO JÚRI. APELAÇÃO CRIMINAL. INDICAÇÃO EQUIVOCADA DO DISPOSITIVO LEGAL NO TERMO DE INTERPOSIÇÃO. DELIMITAÇÃO DOS PEDIDOS NAS RAZÕES RECURSAIS. MERA IRREGULARIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO.
+  > 1. O Superior Tribunal de Justiça não conhece de habeas corpus utilizado como sucedâneo de recurso próprio, ressalvada a possibilidade de concessão da ordem de ofício diante de flagrante ilegalidade.
+  > 2. A falta ou a indicação incorreta das alíneas do art. 593, III, do CPP constitui mera irregularidade quando as razões recursais apresentam os fundamentos do recurso e delimitam adequadamente as pretensões da defesa.
+  > 3. A recusa de apreciação da apelação criminal, nas circunstâncias em que o vício formal não impede a identificação dos fundamentos e pedidos recursais, configura indevida negativa de prestação jurisdicional.
+  > 4. Impetração não conhecida. Ordem concedida de ofício.
+  > (HC n. 1.128.832/CE, relator Ministro Og Fernandes, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
+
+## 142. ARE nº 1.627.894 / SP (STF)
 - Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 09/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Quantidade e natureza da droga, sozinhas, não afastam o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Recurso da defesa parcialmente provido para o TJSP aplicar o redutor e fundamentar a fração (cultivo de cerca de 480 pés de maconha).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1627894.pdf
 
-## 142. RHC nº 248906 / BA (STJ)
+## 143. RHC nº 248906 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/10/2026.
 - Crime / Tema: Tráfico de drogas · Dosimetria
 - Resumo: A detração do art. 387, § 2º, do CPP tem de ser feita já na sentença para fixar o regime inicial; não pode ser deixada para a Vara de Execuções. Descontada a prisão provisória, a pena de 9 anos caía abaixo de 8, e o tribunal se recusou a examinar isso. Autos devolvidos ao TJBA para refazer o regime, com reflexo na preventiva.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248906.pdf
 
-## 143. ARE nº 1.600.294 / RJ (STF)
+## 144. ARE nº 1.600.294 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relator: Ministro Presidente. Plenário. Publicado em 08/10/2026.
 - Crime / Tema: Estupro de vulnerável · Repercussão geral
 - Resumo: Tema 1.485/STF (repercussão geral reconhecida, mérito pendente). Vai decidir se é constitucional absolver por estupro de vulnerável (art. 217-A do CP), contra vítima menor de 14 anos, por erro de tipo baseado no consentimento ou comportamento da vítima e na declaração do réu de que desconhecia a idade, e qual o padrão de prova para reconhecer esse erro.
@@ -37,7 +50,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Repercussão geral reconhecida para as seguintes questões constitucionais: (i) a possibilidade de afastamento da condenação penal no crime previsto no art. 217-A do Código Penal mediante o reconhecimento de erro de tipo invencível fundamentado no consentimento da vítima e na declaração do ofensor de desconhecimento da idade real da ofendida; (ii) o padrão probatório exigido para o reconhecimento de erro de tipo sobre a idade da vítima no crime de estupro de vulnerável.
   > (STF, ARE n. 1.600.294 RG/RJ, relator Ministro Presidente, Tribunal Pleno, julgado em 25/9/2026, DJe de 8/10/2026.)
 
-## 144. AgRg no RHC nº 218928 / GO (STJ)
+## 145. AgRg no RHC nº 218928 / GO (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas; redator do acórdão: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 08/10/2026.
 - Crime / Tema: Tráfico de drogas · Corrupção de menores · Fundada suspeita · Inviolabilidade de domicílio · Justa causa
 - Resumo: Ficar numa praça não é fundada suspeita para revistar adolescente (art. 244 do CPP). As provas derivadas, inclusive as do ingresso na casa do réu, sem fundadas razões e sem consentimento documentado, são ilícitas. O tráfico ser crime permanente não basta. Sem justa causa restante, ação penal trancada. Vencidos a relatora e o Min. Messod Azulay Neto.
@@ -65,25 +78,25 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Removidas as provas ilícitas e derivadas, ausente justa causa, impõe-se o trancamento da ação penal.
   > (AgRg no RHC n. 218.928/GO, relatora Ministra Maria Marluce Caldas, relator para acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/9/2026, DJEN de 8/10/2026.)
 
-## 145. HC nº 277.922 / MG (STF)
+## 146. HC nº 277.922 / MG (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 07/10/2026.
 - Crime / Tema: Furto · Prisão e medidas cautelares
 - Resumo: Preventiva por furto de bens de cerca de R$ 100 exige risco concreto (art. 312 do CPP). Prisão revogada, com possibilidade de cautelares diversas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277922.pdf
 
-## 146. REsp nº 2220958 / RS (STJ)
+## 147. REsp nº 2220958 / RS (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Estelionato
 - Resumo: O “estelionato judicial” (enganar o juiz no processo) é atípico; afastadas essas condenações, fica só a do fato 2, com pena reduzida. REsp parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2220958.pdf
 
-## 147. HC nº 1111235 / DF (STJ)
+## 148. HC nº 1111235 / DF (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Revisão criminal · Cabimento do HC
 - Resumo: Negar a justificação criminal para ouvir testemunhas que podem ser prova nova impede preparar a revisão criminal. HC não conhecido, mas ordem concedida de ofício para realizá-la.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111235.pdf
 
-## 148. HC nº 275.289 / SP (STF)
+## 149. HC nº 275.289 / SP (STF)
 - Decisão colegiada. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 07/10/2026.
 - Crime / Tema: Crimes contra a ordem tributária · Dosimetria
 - Resumo: Pena reduzida abaixo de 4 anos sem fundamentação para regime mais grave impõe o regime aberto. Ordem concedida de ofício (sonegação de contribuição previdenciária, art. 337-A do CP), com análise da substituição por restritivas de direitos e extensão ao corréu.
@@ -99,7 +112,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Habeas corpus não conhecido. Ordem concedida de ofício, nos termos da manifestação do Ministério Público Federal, para confirmar a medida liminar anteriormente deferida pela Presidência desta Corte, fixando o regime inicial aberto e determinando ao Juízo da Execução que analise a possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos, estendendo-se os efeitos da decisão ao corréu.
   > (STF, HC n. 275.289/SP, relator Ministro Luiz Fux, Segunda Turma, julgado em 2/10/2026, DJe de 7/10/2026.)
 
-## 149. AgRg no REsp nº 2271906 / RS (STJ)
+## 150. AgRg no REsp nº 2271906 / RS (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Denúncia anônima com descrição que bate com o abordado, somada à mera presença em ponto de venda de drogas, sem elemento objetivo verificável na hora, não é fundada suspeita (arts. 240, § 2º, e 244 do CPP). Provas nulas e absolvição mantida; agravo do MP desprovido.
@@ -121,24 +134,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. Dispositivo e tese
   > 10. Resultado do Julgamento: Agravo regimental desprovido.
   > (AgRg no REsp n. 2.271.906/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
-
-## 150. AgRg no HC nº 1104246 / SP (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 07/10/2026.
-- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
-- Resumo: Com denúncia restrita a 8,28 g de cocaína (a parte da maconha foi arquivada), réu primário e crime sem violência, a preventiva não se sustenta. Medidas cautelares do art. 319, I e IV, do CPP são suficientes. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104246.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. DELIMITAÇÃO ACUSATÓRIA À PEQUENA QUANTIDADE DE DROGAS. PRIMARIEDADE. MEDIDAS CAUTELARES ALTERNATIVAS SUFICIENTES. ORDEM CONCEDIDA E MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > I. CASO EM EXAME:
-  > 1. Agravo regimental interposto pelo órgão ministerial estadual contra decisão monocrática que concedeu a ordem em habeas corpus para substituir a prisão preventiva do paciente por medidas cautelares previstas no art. 319, incisos I e IV, do Código de Processo Penal.
-  > 2. Prisão em flagrante e posterior decretação da prisão preventiva por suposta prática do art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 541,93 g de maconha e 18 porções de cocaína (8,28 g). Posteriormente, denúncia ofertada apenas pela posse das 18 porções de cocaína (8.28 g) e arquivamento do inquérito quanto às porções de maconha. Paciente primário. Crime sem violência ou grave ameaça.
-  > 3. Tribunal de origem denegou a ordem. Nesta Corte, decisão monocrática concedeu o habeas corpus e aplicou medidas cautelares alternativas do art. 319, I e IV, do CPP, contra a qual se volta o agravante.
-  > II. QUESTÃO EM DISCUSSÃO:
-  > 4. Há duas questões em discussão: (i) se diante da denúncia restrita à posse de 18 porções de cocaína (8,28 g), da primariedade e da inexistência de violência ou grave ameaça, estão presentes fundamentos concretos e contemporâneos do art. 312 do CPP aptos a justificar a manutenção da prisão preventiva; e (ii) se medidas cautelares diversas da prisão, nos termos do art. 319 do CPP, mostram-se suficientes e proporcionais para resguardar a ordem pública no caso concreto.
-  > III. RAZÕES DE DECIDIR:
-  > 5. A prisão preventiva, como ultima ratio, exige fundamentação concreta e atual do periculum libertatis, nos termos do art. 312 do CPP, não se bastando na gravidade em abstrato do delito ou em elementos que não integrem o objeto efetivo da acusação.
-  > 6. A delimitação acusatória às 18 porções de cocaína (8,28 g), aliada à primariedade e à ausência de violência ou grave ameaça, não revela, por si, indispensabilidade da custódia cautelar, sendo adequada a substituição por medidas alternativas menos gravosas previstas no art. 319, incisos I e IV, do CPP, as quais se mostram-se suficientes para resguardar a ordem pública e a eficácia do processo.
-  > 7. O agravante não apresentou elementos contemporâneos que evidenciem risco atual específico ou descumprimento das cautelares impostas, razão pela qual mantém-se a decisão agravada.
-  > IV. DISPOSITIVO:
-  > 8. Agravo regimental não provido.
-  > (AgRg no HC n. 1.104.246/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)

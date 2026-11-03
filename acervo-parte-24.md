@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 24 de 36 (decisões 231 a 240)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,19 +8,25 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 231. RHC nº 243155 / SP (STJ)
+## 231. HC nº 1104105 / SP (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
+- Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
+- Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
+
+## 232. RHC nº 243155 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
 
-## 232. HC nº 276.144 / MS (STF)
+## 233. HC nº 276.144 / MS (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
 - Crime / Tema: Corrupção passiva · Dosimetria
 - Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
 
-## 233. AgRg no HC nº 1089462 / MG (STJ)
+## 234. AgRg no HC nº 1089462 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
 - Crime / Tema: Embriaguez ao volante · Excesso de prazo
 - Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
@@ -41,19 +47,19 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental desprovido.
   > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)
 
-## 234. HC nº 1124321 / PR (STJ)
+## 235. HC nº 1124321 / PR (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
 
-## 235. RHC nº 243213 / SP (STJ)
+## 236. RHC nº 243213 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
 - Crime / Tema: Tráfico de drogas · Quebra de sigilo
 - Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
 
-## 236. EDcl no AREsp nº 3028845 / PR (STJ)
+## 237. EDcl no AREsp nº 3028845 / PR (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/08/2026.
 - Crime / Tema: Acesso da defesa às provas
 - Resumo: Juntada tardia e incompleta das gravações ambientais sob custódia do Estado causa prejuízo concreto: a defesa perdeu oportunidades na resposta à acusação, na inquirição de testemunhas e na contraprova, e reabrir prazo só para complementar as alegações finais não recompõe essas fases. Mantida a nulidade a partir da resposta à acusação; embargos do MP rejeitados.
@@ -81,26 +87,20 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória não afastam o direito de acesso integral e o controle defensivo sobre a íntegra da fonte probatória.
   > (EDcl no AREsp n. 3.028.845/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2026, DJEN de 25/8/2026.)
 
-## 237. HC nº 1123362 / RJ (STJ)
+## 238. HC nº 1123362 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/08/2026.
 - Crime / Tema: Vias de fato · Ameaça · Violência doméstica · Dosimetria
 - Resumo: O aumento pela agravante do art. 61, II, 'f', do CP sem motivação deve ficar na fração usual de 1/6. Penas reduzidas: ameaça para 1 mês e 5 dias e vias de fato de 25 para 17 dias de prisão simples.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123362.pdf
 
-## 238. HC nº 1114613 / MG (STJ)
+## 239. HC nº 1114613 / MG (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/08/2026.
 - Crime / Tema: Vias de fato · Violência doméstica · Confissão espontânea
 - Resumo: Quem admite a conduta das vias de fato (art. 21, § 2º, da LCP) tem direito à atenuante da confissão, compensada com a reincidência, como o próprio TJ fez quanto à lesão corporal no mesmo julgado. Pena redimensionada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114613.pdf
 
-## 239. HC nº 1121206 / PI (STJ)
+## 240. HC nº 1121206 / PI (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
 - Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
-
-## 240. HC nº 275.317 / BA (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 20/08/2026.
-- Crime / Tema: Crimes contra a honra
-- Resumo: Matéria jornalística de interesse público que critica magistrados, ainda que dura, não é difamação: falta o animus diffamandi, e prevalece a liberdade de imprensa (ADPF 130). Mesmo com a condenação já transitada em julgado, o jornalista foi absolvido por atipicidade manifesta.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-275317.pdf

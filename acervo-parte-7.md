@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 7 de 36 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. AgRg no AREsp nº 3298877 / PI (STJ)
+## 61. RHC nº 250052 / GO (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
+- Crime / Tema: Falsidade ideológica · Justa causa · Revisão criminal
+- Resumo: Retratação da vítima por escritura pública, sem eficácia probatória própria, não tem potencial lesivo para configurar falsidade ideológica (art. 299 do CP). RHC parcialmente provido: investigação trancada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-250052.pdf
+
+## 62. AgRg no AREsp nº 3298877 / PI (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 21/10/2026.
 - Crime / Tema: Homicídio · Tribunal do Júri
 - Resumo: A absolvição pelo quesito genérico pode acolher a clemência sustentada em plenário e registrada em ata, com apoio nas circunstâncias do caso. Veredito mantido; agravo do MP desprovido.
@@ -27,31 +33,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Agravo regimental desprovido.
   > (AgRg no AREsp n. 3.298.877/PI, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 15/10/2026, DJEN de 21/10/2026.)
 
-## 62. RHC nº 278.575 / DF (STF)
+## 63. RHC nº 278.575 / DF (STF)
 - Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 21/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Ato infracional anterior, sozinho, não afasta o tráfico privilegiado. RHC parcialmente provido para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278575.pdf
 
-## 63. RHC nº 278.498 / PR (STF)
+## 64. RHC nº 278.498 / PR (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 21/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Comutação anterior não impede nova comutação pelo Decreto 11.846/2023: os arts. 3º e 4º tratam de hipóteses distintas. RHC provido para reexame do pedido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278498.pdf
 
-## 64. HC nº 1138222 / MS (STJ)
+## 65. HC nº 1138222 / MS (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: Prisão temporária por crime fora do rol legal e com as diligências já cumpridas é ilegal. Custódia relaxada de ofício, superada a Súmula 691/STF.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1138222.pdf
 
-## 65. RE nº 1.623.966 / SC (STF)
+## 66. RE nº 1.623.966 / SC (STF)
 - Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 21/10/2026.
 - Crime / Tema: Crimes contra as relações de consumo · ANPP
 - Resumo: O ANPP cabe em processo sem trânsito em julgado, mesmo com denúncia recebida antes da Lei 13.964/2019 e condenação já em grau de recurso (HC 185.913/STF). RE da defesa provido: autos ao MP para avaliar o acordo.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1623966.pdf
 
-## 66. AgRg no REsp nº 2224434 / SP (STJ)
+## 67. AgRg no REsp nº 2224434 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: A aprovação no ENEM gera remição mesmo para quem já tem diploma de curso superior: o estudo atual é fato gerador autônomo. Agravo da defesa provido; autos voltam para o cálculo.
@@ -64,7 +70,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental provido para dar provimento ao recurso especial e, ao reformar o acórdão do Tribunal de Justiça do Estado de São Paulo, reconhecer o direito do agravante à remição de pena com base na aprovação parcial no ENEM, determinando-se o retorno dos autos ao Juízo da execução para o devido cômputo da remição correspondente.
   > (AgRg no REsp n. 2.224.434/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 67. REsp nº 2265467 / PR (STJ)
+## 68. REsp nº 2265467 / PR (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: A hipossuficiência declarada se presume verdadeira: cabe ao MP provar que o condenado pode pagar a multa para barrar a reabilitação (art. 94 do CP; Tema 931/STJ). REsp da defesa provido.
@@ -80,7 +86,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.265.467/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 68. AgRg no AREsp nº 3233531 / BA (STJ)
+## 69. AgRg no AREsp nº 3233531 / BA (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: Qualificadora sem prova judicial que a sustente deve ser afastada já na pronúncia. Mantida a exclusão; agravo do MP desprovido.
@@ -99,7 +105,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão monocrática que excluiu as qualificadoras.
   > (AgRg no AREsp n. 3.233.531/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 69. AgRg no AgRg no AREsp nº 3321341 / RJ (STJ)
+## 70. AgRg no AgRg no AREsp nº 3321341 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico
 - Resumo: Prisão em área de facção, droga e rádio comunicador, sem prova de vínculo estável e permanente, não sustentam a associação para o tráfico (art. 35 da Lei 11.343/2006). Absolvição mantida; agravo do MP desprovido.
@@ -120,16 +126,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. Dispositivo
   > 9. Resultado do Julgamento: Agravo regimental improvido.
   > (AgRg no AgRg no AREsp n. 3.321.341/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
-
-## 70. AgRg no AREsp nº 3331286 / CE (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Receptação · Posse ilegal de arma de fogo
-- Resumo: Arma com numeração suprimida não basta para condenar por receptação: a acusação tem de provar que ela é produto de crime. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3331286.pdf
-- Ementa oficial:
-  > PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. PRETENSÃO CONDENATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. O STJ tem entendimento de que em flagrante do agente na posse de bem, produto de crime, presume-se que este tinha ciência da sua origem ilícita. Nesses casos é que se impõe à defesa a comprovação do desconhecimento da ilicitude do bem, quando por ela alegado. Ou seja, a presunção admitida por esta Corte Superior não desobriga a acusação de comprovar que o objeto era produto de crime.
-  > 2. A argumentação do Ministério Público justificaria a condenação pelo crime de posse ilegal de arma de fogo. Contudo, se pretende a condenação pelo crime de receptação, deve demonstrar a presença de todas as elementares.
-  > 3. O acórdão recorrido destacou não ter havido comprovação da ilicitude da arma, ou seja, que o artefato era produto de crime. A modificação dessa premissa implicaria reexame de fatos e de provas constantes dos autos, procedimento não permitido em recurso especial pelo disposto na Súmula n. 7 do STJ.
-  > 4. Agravo regimental não provido.
-  > (AgRg no AREsp n. 3.331.286/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)

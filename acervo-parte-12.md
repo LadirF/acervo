@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 12 de 36 (decisões 111 a 120)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,21 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 111. HC nº 1111206 / RJ (STJ)
+## 111. REsp nº 2246666 / SP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
+- Crime / Tema: Violência doméstica
+- Resumo: Há controvérsia séria sobre o recurso cabível contra decisão sobre medidas protetivas de urgência (agravo de instrumento ou RESE). Por isso, usar o recurso 'errado' não é erro grosseiro, e ele deve ser aproveitado pela fungibilidade recursal (art. 579 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2246666.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. VIOLÊNCIA DOMÉSTICA E FAMILIAR. VIOLAÇÃO DOS ARTS. 1.015, I, PARÁGRAFO ÚNICO, DO CPC; 13 DA LEI N. 11.340/2006; E 579 DO CPP. MEDIDAS PROTETIVAS DE URGÊNCIA. REVOGAÇÃO. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. RECURSO EM SENTIDO ESTRITO. CONTROVÉRSIA DOUTRINÁRIA E JURISPRUDENCIAL. FUNGIBILIDADE RECURSAL. SUPERAÇÃO DO FUNDAMENTO DE ERRO GROSSEIRO QUE SE IMPÕE. APLICAÇÃO SUBSIDIÁRIA DO PROCESSO CIVIL.
+  > 1. A impugnação de medidas protetivas de urgência, pela sua natureza inibitória e repercussão penal, insere-se no sistema recursal penal, cabendo exame dentro das vias próprias desse subsistema.
+  > 2. O acórdão recorrido assentou a inadequação do agravo de instrumento para atacar decisão que manteve medidas protetivas, qualificando a via como erro grosseiro e indicando o recurso em sentido estrito como meio próprio.
+  > 3. O princípio da fungibilidade recursal autoriza, em situações de controvérsia objetiva sobre o recurso cabível e ausência de má-fé, o aproveitamento do recurso interposto, desde que observados os pressupostos de admissibilidade, sem transposição indevida entre sistemas recursais distintos.
+  > 4. O conjunto argumentativo revelou debate centrado na natureza penal das medidas, na delimitação da fungibilidade e na compatibilidade da via eleita, culminando na adoção da orientação favorável ao aproveitamento do recurso diante da controvérsia estabelecida.
+  > 5. Recurso especial provido nos termos do dispositivo.
+  > (REsp n. 2.246.666/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
+
+## 112. HC nº 1111206 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: Reincidência e habitualidade não impedem, por si sós, a insignificância quando o caso é excepcional: desodorante de R$ 17,99, restituído, e réu tecnicamente primário. Ação penal trancada.
@@ -21,7 +35,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Ordem concedida para determinar o trancamento da ação penal.
   > (HC n. 1.111.206/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 112. AgRg no REsp nº 2257004 / AL (STJ)
+## 113. AgRg no REsp nº 2257004 / AL (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: No furto de cabos, a referência genérica a 'prejuízo à coletividade' e o laudo que só mede a res furtiva não elevam a pena-base pelas consequências do crime: é preciso demonstrar impacto concreto e extraordinário ao serviço público. Agravo do MP desprovido.
@@ -34,7 +48,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no REsp n. 2.257.004/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 15/10/2026.)
 
-## 113. AgRg no HC nº 1077013 / RS (STJ)
+## 114. AgRg no HC nº 1077013 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Prisão e medidas cautelares
 - Resumo: A preventiva decretada em grau de recurso exige risco concreto e atual. O réu ficou mais de 4 meses solto cumprindo cautelares rigorosas, sem descumprimento: gravidade das imputações, repercussão social e posição acadêmica e profissional não bastam. Medidas do art. 319 do CPP mantidas; agravo do MP desprovido, por maioria.
@@ -49,7 +63,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Agravo regimental não provido.
   > (AgRg no HC n. 1.077.013/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/9/2026, DJEN de 15/10/2026.)
 
-## 114. AgRg no HC nº 1121609 / RS (STJ)
+## 115. AgRg no HC nº 1121609 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: A exigência de exame criminológico para toda progressão, trazida pela Lei 14.843/2024 ao art. 112, § 1º, da LEP, é norma mais gravosa e não retroage (art. 5º, XL, da CF, e art. 2º do CP). Agravo do MP desprovido.
@@ -61,7 +75,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Agravo regimental improvido.
   > (AgRg no HC n. 1.121.609/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 115. REsp nº 2265744 / RJ (STJ)
+## 116. REsp nº 2265744 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Corrupção ativa · Corrupção passiva
 - Resumo: Coisa julgada (art. 110, § 2º, do CPP): absolvido por atipicidade, o réu não pode ser denunciado de novo pelo mesmo fato principal, ainda que com outra capitulação (non bis in idem). Trancamento mantido no caso Casa da Moeda/SICPA; REsp do MPF desprovido.
@@ -76,32 +90,26 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
   > (REsp n. 2.265.744/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 116. HC nº 1136529 / SP (STJ)
+## 117. HC nº 1136529 / SP (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Falta grave por droga enviada por terceiro ao preso exige prova de que ele a pediu ou teve contato com ela. Punir só pelo destino da encomenda é responsabilidade objetiva (intranscendência da pena, art. 5º, XLV, da CF). Falta grave afastada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136529.pdf
 
-## 117. AgRg no HC nº 1105944 / SP (STJ)
+## 118. AgRg no HC nº 1105944 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Associação para o tráfico
 - Resumo: Divisão de tarefas, drogas com embalagens iguais e abastecimento do mesmo ponto mostram coautoria no tráfico, não o vínculo estável e permanente da associação (art. 35 da Lei 11.343/2006). Revaloração jurídica dos fatos, sem reexame de prova. Absolvição, com extensão aos corréus.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1105944.pdf
 
-## 118. HC nº 1136754 / SP (STJ)
+## 119. HC nº 1136754 / SP (STJ)
 - Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Execução penal
 - Resumo: Mãe de crianças menores de 12 anos, presa em regime fechado por crime sem violência, pode ter prisão domiciliar mesmo fora das hipóteses do art. 117 da LEP. Falta de previsão legal e de prova de dependência exclusiva dos filhos não bastam para negar. Domiciliar concedida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136754.pdf
 
-## 119. HC nº 1132401 / ES (STJ)
+## 120. HC nº 1132401 / ES (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Falsidade ideológica · Prisão e medidas cautelares
 - Resumo: Se o fato novo que motivou o restabelecimento da preventiva (suposto descumprimento de cautelares empresariais) foi desmentido pela própria Fazenda, o restante do decreto, que era só reforço, não sustenta a prisão. Cautelares restabelecidas; nova reavaliação exige contraditório prévio (art. 282, § 3º, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1132401.pdf
-
-## 120. RE nº 1.624.621 / RS (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 14/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: Prisão domiciliar sem monitoração eletrônica para quem progrediu ao regime aberto, por falta de vagas, é compatível com a SV 56 e o Tema 423/RG: a tornozeleira se destina sobretudo ao semiaberto. RE do MP com seguimento negado, mantida a decisão do TJRS.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1624621.pdf

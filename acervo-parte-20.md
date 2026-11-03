@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 20 de 36 (decisões 191 a 200)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,19 +8,25 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 191. RHC nº 248048 / MG (STJ)
+## 191. HC nº 1113498 / MA (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 25/09/2026.
+- Crime / Tema: Homicídio qualificado · Organização criminosa · Tribunal do Júri
+- Resumo: É nulo o julgamento de recurso em sentido estrito em sessão virtual sem prévia intimação do defensor constituído, que fica impedido de sustentar oralmente. Ordem concedida: trânsito em julgado desconstituído e novo julgamento do recurso contra a pronúncia.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1113498.pdf
+
+## 192. RHC nº 248048 / MG (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Preventiva por tráfico revogada: pequena quantidade de droga não justifica a prisão, ainda que a ré responda a outra ação penal por tráfico. Medidas cautelares diversas são suficientes.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248048.pdf
 
-## 192. HC nº 1131734 / PB (STJ)
+## 193. HC nº 1131734 / PB (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
 - Resumo: Impronúncia de ofício: pronúncia baseada só em testemunhos indiretos (“ouvir dizer”) e em áudio de motorista de aplicativo não juntado aos autos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131734.pdf
 
-## 193. RE nº 1.615.925 / MG (STF)
+## 194. RE nº 1.615.925 / MG (STF)
 - Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 25/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Andar com a mão na cintura segurando as calças e olhando para o chão é suspeita subjetiva, não fundada suspeita para busca pessoal (art. 244 do CPP). Mantida a absolvição por tráfico; RE do MP desprovido.
@@ -39,31 +45,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Recurso extraordinário ao qual se nega provimento.
   > (STF, RE n. 1.615.925/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 14/9/2026, DJe de 25/9/2026.)
 
-## 194. RHC nº 277.409 / ES (STF)
+## 195. RHC nº 277.409 / ES (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 25/09/2026.
 - Crime / Tema: Tráfico de drogas · Falsa identidade · Cabimento do HC
 - Resumo: A unirrecorribilidade não se aplica ao HC: recurso especial ou agravo em recurso especial pendente não impede o STJ de conhecer do HC. Acórdão do STJ cassado para que julgue o mérito do HC.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277409.pdf
 
-## 195. AREsp nº 3115056 / RS (STJ)
+## 196. AREsp nº 3115056 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Prova digital · Quebra da cadeia de custódia
 - Resumo: Prints de WhatsApp extraídos sem perícia nem documentação da cadeia de custódia: anulado o acórdão dos embargos para o TJRS esclarecer como os dados foram arrecadados e extraídos e examinar a integridade da prova (arts. 158-A a 158-F do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115056.pdf
 
-## 196. HC nº 1131181 / PR (STJ)
+## 197. HC nº 1131181 / PR (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Violência doméstica · Prova digital · Quebra da cadeia de custódia
 - Resumo: Imagens digitais juntadas ao processo de violência doméstica: ordem concedida de ofício para assegurar à defesa o controle técnico delas (metadados), com desentranhamento se não forem auditáveis.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131181.pdf
 
-## 197. ARE nº 1.623.941 / GO (STF)
+## 198. ARE nº 1.623.941 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 24/09/2026.
 - Crime / Tema: Homicídio qualificado · Pronúncia
 - Resumo: Impronúncia por falta de indícios suficientes de autoria mantida: rever exige reexame de provas, e a impronúncia não ofende a competência do Júri (Tema 154/STF). ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623941.pdf
 
-## 198. REsp nº 2270023 / SC (STJ)
+## 199. REsp nº 2270023 / SC (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Peculato · Continuidade delitiva · Dosimetria
 - Resumo: "Rachadinha" (peculato-desvio): repasses mensais padronizados de servidores do mesmo gabinete configuram continuidade delitiva (art. 71 do CP), e não concurso material. A pluralidade de vítimas não afasta, por si só, o crime continuado. A habitualidade criminosa exige condutas autônomas com dolo renovado. Recurso do MP desprovido: mantidas as penas de 6 anos e 5 anos (a sentença tinha fixado 24 e 20).
@@ -91,35 +97,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Em esquema de peculato-desvio praticado no mesmo gabinete, com repasses mensais padronizados e atuação conjunta, incide o art. 71 do Código Penal, afastando o concurso material do art. 69.
   > (REsp n. 2.270.023/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/9/2026, DJEN de 24/9/2026.)
 
-## 199. AgRg no HC nº 1115674 / SP (STJ)
+## 200. AgRg no HC nº 1115674 / SP (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Busca pessoal ilícita: blusa de frio com volume no bolso em dia quente e prévio conhecimento policial não configuram fundada suspeita. Absolvição de ofício (tráfico).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115674.pdf
-
-## 200. AgRg no AgRg no HC nº 1066684 / BA (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/09/2026.
-- Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
-- Resumo: Prisão cautelar por mais de 3 anos (domiciliar desde 2024) configura excesso de prazo, ainda que a causa seja complexa. Relaxamento mantido e estendido aos corréus (art. 580 do CPP); agravos do MP desprovidos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1066684.pdf
-- Pedido de extensão: https://ladirf.github.io/acervo/pdfs/ext-hc-1066684.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO DOMICILIAR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. AGRAVO IMPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo órgão ministerial contra decisão que concedeu a ordem de ofício para relaxar a prisão do agravado.
-  > 2. Alegações do agravante: (i) inexistência de excesso de prazo ante a elevada complexidade da causa, com pluralidade de réus, crimes dolosos contra a vida, acervo probatório digital volumoso e extensa instrução, sem desídia estatal; (ii) encerramento da instrução com abertura de prazo para alegações finais, atraindo a Súmula 52/STJ; (iii) persistência contemporânea dos fundamentos da preventiva, em razão da gravidade concreta, periculosidade e risco de reiteração; (iv) concessão anterior de prisão domiciliar por motivo de saúde; e (v) necessidade de prequestionamento de dispositivos constitucionais.
-  > 3. Fato relevante considerado no voto: prisão cautelar iniciada em 8/9/2022, substituída por prisão domiciliar em 9/2/2024, lapso capaz de desnaturar o caráter precário da prisão preventiva e evidenciar constrangimento ilegal à luz da duração razoável do processo.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se o excesso de prazo, aferido pelos princípios da razoabilidade e proporcionalidade, caracteriza constrangimento ilegal apto a justificar o relaxamento da prisão domiciliar diante do tempo de custódia cautelar e das particularidades do caso concreto.
-  > 5. Outra questão em discussão consiste em saber se compete ao Superior Tribunal de Justiça enfrentar dispositivos constitucionais para fins de prequestionamento.
-  > III. Razões de decidir
-  > 6. A aferição do excesso de prazo na instrução criminal observa os princípios da razoabilidade e da proporcionalidade, considerando as particularidades do caso, a atuação das partes e a condução do feito, não se tratando de critério aritmético; a mera extrapolação dos prazos legais não acarreta automaticamente o relaxamento da custódia cautelar.
-  > 7. O tempo de custódia cautelar, com prisão preventiva iniciada em 8/9/2022 e posteriormente convertida em prisão domiciliar em 9/2/2024, desnatura o caráter precário da medida e torna desproporcional e injustificada a sua manutenção, evidenciando constrangimento ilegal à luz da duração razoável do processo.
-  > 8. Não compete ao Superior Tribunal de Justiça manifestar-se explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.
-  > IV. Dispositivo e tese
-  > 9. Resultado do Julgamento: Agravo regimental improvido.
-  > Tese de julgamento:
-  > 1. A aferição do excesso de prazo na instrução criminal deve observar os princípios da razoabilidade e proporcionalidade, consideradas as particularidades do caso, a atuação das partes e a condução do feito.
-  > 2. A manutenção de prisão cautelar por lapso que desnatura o caráter precário configura constrangimento ilegal diante do princípio da duração razoável do processo.
-  > 3. Não cabe ao Superior Tribunal de Justiça apreciar dispositivos constitucionais para fins de prequestionamento.
-  > (AgRg no AgRg no HC n. 1.066.684/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2026, DJEN de 23/9/2026.)

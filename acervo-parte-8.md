@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 8 de 36 (decisões 71 a 80)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,20 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 71. AgRg no AREsp nº 2532255 / GO (STJ)
+## 71. AgRg no AREsp nº 3331286 / CE (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
+- Crime / Tema: Receptação · Posse ilegal de arma de fogo
+- Resumo: Arma com numeração suprimida não basta para condenar por receptação: a acusação tem de provar que ela é produto de crime. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3331286.pdf
+- Ementa oficial:
+  > PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. PRETENSÃO CONDENATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. O STJ tem entendimento de que em flagrante do agente na posse de bem, produto de crime, presume-se que este tinha ciência da sua origem ilícita. Nesses casos é que se impõe à defesa a comprovação do desconhecimento da ilicitude do bem, quando por ela alegado. Ou seja, a presunção admitida por esta Corte Superior não desobriga a acusação de comprovar que o objeto era produto de crime.
+  > 2. A argumentação do Ministério Público justificaria a condenação pelo crime de posse ilegal de arma de fogo. Contudo, se pretende a condenação pelo crime de receptação, deve demonstrar a presença de todas as elementares.
+  > 3. O acórdão recorrido destacou não ter havido comprovação da ilicitude da arma, ou seja, que o artefato era produto de crime. A modificação dessa premissa implicaria reexame de fatos e de provas constantes dos autos, procedimento não permitido em recurso especial pelo disposto na Súmula n. 7 do STJ.
+  > 4. Agravo regimental não provido.
+  > (AgRg no AREsp n. 3.331.286/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+
+## 72. AgRg no AREsp nº 2532255 / GO (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Imagens históricas do Google Maps exibidas em plenário, sem juntada no prazo do art. 479 do CPP, são prova surpresa. Júri anulado; agravo do MP desprovido.
@@ -22,7 +35,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.532.255/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 72. AgRg no AREsp nº 2858086 / DF (STJ)
+## 73. AgRg no AREsp nº 2858086 / DF (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Crimes contra o sistema financeiro · Justa causa
 - Resumo: Gestão temerária exige dolo e não admite responsabilidade penal objetiva; sem descrição concreta da conduta, mantido o trancamento da ação penal. Agravo do MP desprovido.
@@ -39,7 +52,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7.Agravo regimental não provido.
   > (AgRg no AREsp n. 2.858.086/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 73. AgRg no REsp nº 1939308 / DF (STJ)
+## 74. AgRg no REsp nº 1939308 / DF (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Roubo · Prova digital · Quebra da cadeia de custódia
 - Resumo: Acessar os dados do celular apreendido no flagrante sem ordem judicial nem consentimento é ilícito (Tema 977/STF), e a confissão em juízo, obtida só porque o réu foi identificado por essa devassa, é prova derivada e também ilícita. Sentença cassada para nova análise sem essas provas; agravo do MP desprovido.
@@ -53,31 +66,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 1.939.308/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/10/2026, DJEN de 20/10/2026.)
 
-## 74. RE nº 1.616.000 / SP (STF)
+## 75. RE nº 1.616.000 / SP (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 20/10/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Entrada na casa só por denúncia anônima, com consentimento do morador não documentado e contestado em juízo, é ilícita (Tema 280/STF). Mantida a absolvição concedida pelo STJ; RE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1616000.pdf
 
-## 75. ARE nº 1.623.674 / GO (STF)
+## 76. ARE nº 1.623.674 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
 - Crime / Tema: Homicídio · Tribunal do Júri
 - Resumo: Gravação inaudível da sessão plenária do Júri, por defeito técnico, prejudica a defesa e anula o julgamento a partir do plenário, como decidiu o TJGO. ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623674.pdf
 
-## 76. RE nº 1.629.803 / SP (STF)
+## 77. RE nº 1.629.803 / SP (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: O exame criminológico obrigatório para a progressão, trazido pela Lei 14.843/2024, é norma mais gravosa e não retroage; o juiz pode exigi-lo só por decisão fundamentada no caso concreto (SV 26). RE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1629803.pdf
 
-## 77. ARE nº 1.600.909 / RS (STF)
+## 78. ARE nº 1.600.909 / RS (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Tráfico privilegiado
 - Resumo: Ações penais em andamento, sozinhas, não afastam o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). RE do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1600909.pdf
 
-## 78. AgRg no AREsp nº 3101436 / ES (STJ)
+## 79. AgRg no AREsp nº 3101436 / ES (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento por show up (só o suspeito é mostrado), sem as regras do art. 226 do CPP, com vítimas inseguras em juízo e sem outra prova, não sustenta a condenação (Tema 1.258/STJ). Revaloração jurídica afasta a Súmula 7. Réu absolvido.
@@ -90,7 +103,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental provido para conhecer do agravo e dar provimento ao recurso especial.
   > (AgRg no AREsp n. 3.101.436/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 19/10/2026.)
 
-## 79. AgRg no HC nº 1061845 / SP (STJ)
+## 80. AgRg no HC nº 1061845 / SP (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Excesso de prazo · Justa causa
 - Resumo: A duração razoável do processo vale também para a investigação: procedimento do MP aberto há quase 7 anos, sem avanço concreto quanto ao investigado, foi trancado. A complexidade não justifica prazo indefinido. O juízo reavalia a devolução dos valores apreendidos.
@@ -116,24 +129,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. Dispositivo
   > 14. Agravo regimental desprovido.
   > (AgRg no HC n. 1.061.845/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
-
-## 80. AgRg no REsp nº 2282869 / SP (STJ)
-- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: Faltas graves antigas e já reabilitadas não podem impedir para sempre o livramento condicional (Tema 1.161/STJ), e o exame criminológico não vincula o juiz. Mais de 5 anos sem falta e o livramento cumprido sem problemas mostram o mérito. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2282869.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. FALTAS GRAVES ANTIGAS E REABILITADAS. EXAME CRIMINOLÓGICO. TEMA N. 1.161/STJ. AVALIAÇÃO GLOBAL DO MÉRITO. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que não conheceu de recurso especial em execução penal, no qual se buscava a reforma de acórdão que deferiu livramento condicional ao apenado.
-  > 2. Fato relevante. Última falta disciplinar grave praticada em 4/6/2021 e reabilitada em 4/6/2022; apenado passou mais de cinco anos sem faltas graves, com boa conduta carcerária; usufruto do livramento condicional desde 10/3/2026 sem intercorrências.
-  > 3. As decisões anteriores. Corte estadual deferiu o livramento condicional, assentando que faltas antigas e reabilitadas não podem eternizar efeitos e que o exame criminológico não vincula o Juízo da execução, sendo indevida negativa do benefício com base prejudicial na Lei n. 14.843/2024.
-  > II. Questão em discussão
-  > 4. Há três questões em discussão: (i) saber se faltas graves antigas e já reabilitadas podem, por si, impedir a concessão do livramento condicional sob o prisma do requisito subjetivo, à luz do Tema n. 1.161/STJ; (ii) saber se o exame criminológico desfavorável vincula o Juízo da execução e autoriza a negativa do benefício; e (iii) saber se o desempenho do apenado no usufruto do livramento condicional deve ser considerado na avaliação do mérito subjetivo.
-  > III. Razões de decidir
-  > 5. O requisito objetivo de ausência de falta grave nos últimos 12 meses (art. 83, III, b, do Código Penal), conforme o Tema n. 1.161/STJ, não limita a análise do requisito subjetivo, mas não autoriza a atribuição de efeitos permanentes a faltas antigas e reabilitadas; histórico positivo por período superior a cinco anos evidencia bom comportamento carcerário suficiente.
-  > 6. O exame criminológico não vincula o Juízo da execução; a avaliação do mérito subjetivo deve ser global, sendo indevida a negativa do livramento condicional com base exclusiva em parecer administrativo, notadamente quando invocada alteração legislativa de forma prejudicial ao apenado.
-  > 7. O usufruto do livramento condicional sem intercorrências desde 10/3/2026 demonstra aptidão ao convívio social e reforça o atendimento do requisito subjetivo, tornando desarrazoado o retorno ao cárcere e uma violação ao caráter ressocializador da pena.
-  > IV. Dispositivo
-  > 8. Resultado do Julgamento: Agravo regimental desprovido.
-  > (AgRg no REsp n. 2.282.869/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)

@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto para ferramentas de IA)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -25,7 +25,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Índice STJ e STF (1 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf.md
 - Índice STJ e STF (2 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md
 - Índice STJ e STF (3 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md
-- Índice STJ e STF (4 de 4) (35 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md
+- Índice STJ e STF (4 de 4) (36 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md
 - Índice TRFs e tribunais estaduais (17 decisões): https://ladirf.github.io/acervo/acervo-indice-tribunais.md
 
 **Partes** (ementas oficiais, referências e links de PDF; 10 decisões cada, na mesma numeração do índice):
@@ -64,6 +64,6 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Parte 33: decisões 321 a 330 — https://ladirf.github.io/acervo/acervo-parte-33.md
 - Parte 34: decisões 331 a 340 — https://ladirf.github.io/acervo/acervo-parte-34.md
 - Parte 35: decisões 341 a 350 — https://ladirf.github.io/acervo/acervo-parte-35.md
-- Parte 36: decisões 351 a 352 — https://ladirf.github.io/acervo/acervo-parte-36.md
+- Parte 36: decisões 351 a 353 — https://ladirf.github.io/acervo/acervo-parte-36.md
 
 Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md

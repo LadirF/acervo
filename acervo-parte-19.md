@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 19 de 36 (decisões 181 a 190)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,25 +8,45 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 181. HC nº 1133535 / TO (STJ)
+## 181. AgRg no HC nº 268.633 / MG (STF)
+- Decisão colegiada. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 01/10/2026.
+- Crime / Tema: Furto · Princípio da insignificância
+- Resumo: Furto de valor pouco relevante, sem violência ou grave ameaça, é insignificante mesmo com réu reincidente. Absolvição mantida; agravo do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-268633.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM HABEAS CORPUS. FURTO. VALOR NÃO EXPRESSIVO. REINCIDÊNCIA. IRRELEVÂNCIA. PARTICULARIDADES DO CASO CONCRETO. MÍNIMA OFENSIVIDADE DA CONDUTA. INEXPRESSIVIDADE DA LESÃO JURÍDICA PROVOCADA. PRINCÍPIO DA INSIGNIFICÂNCIA. ABSOLVIÇÃO. ORDEM DEFERIDA. RECURSO DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo interno interposto de decisão que concedeu a ordem de habeas corpus para, em razão da ausência de tipicidade material da conduta, absolver o paciente.
+  > 2. A parte agravante sustenta adotada motivação suficiente para o afastamento do princípio da insignificância pelas instâncias anteriores, diante das peculiaridades do caso, especialmente a reincidência do acusado.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 3. A questão em discussão consiste em saber se cabe observar no caso, considerado o contexto em que praticado o delito, o princípio da insignificância.
+  > III. RAZÕES DE DECIDIR
+  > 4. É aplicável o princípio da insignificância no sistema penal brasileiro desde que preenchidos, cumulativamente, os seguintes requisitos: (i) mínima ofensividade da conduta do agente; (ii) nenhuma periculosidade social da ação; (iii) reduzidíssimo grau de reprovabilidade do comportamento; e (iv) inexpressividade da lesão jurídica provocada.
+  > 5. Na presença desses quatro vetores, o princípio da insignificância incidirá para afastar, no plano material, a própria tipicidade da conduta diante da ausência de lesão ou perigo de lesão ao bem jurídico tutelado.
+  > 6. No caso concreto, o valor pouco relevante da coisa furtada e a inexistência de uso de violência ou grave ameaça conduzem ao reconhecimento de fato insignificante, mostrando-se para esse fim irrelevante a reincidência.
+  > IV. DISPOSITIVO
+  > 7. Agravo interno desprovido.
+  > (STF, AgRg no HC n. 268.633/MG, relator Ministro Nunes Marques, Segunda Turma, julgado em 21/8/2026, DJe de 1/10/2026.)
+
+## 182. HC nº 1133535 / TO (STJ)
 - Decisão monocrática (liminar). Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Prisão e medidas cautelares
 - Resumo: A defesa só soube na véspera do paradeiro da testemunha presencial arrolada como imprescindível pelas duas partes, e o adiamento foi negado em plenário. Com dúvida plausível sobre a validade do veredicto, a execução provisória baseada só no Tema 1.068/STF foi suspensa: os réus aguardam o mérito em liberdade, com cautelares.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133535.pdf
 
-## 182. HC nº 1120948 / ES (STJ)
+## 183. HC nº 1120948 / ES (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
 - Resumo: Pronúncia baseada só em depoimento do inquérito e em testemunhos de "ouvir dizer" é nula, mesmo depois da condenação pelo Júri (art. 155 do CPP; Tema 1.260/STJ). Processo anulado desde a pronúncia e réu impronunciado de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1120948.pdf
 
-## 183. HC nº 276.580 / GO (STF)
+## 184. HC nº 276.580 / GO (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 01/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Cabimento do HC
 - Resumo: Reincidência em crime culposo (homicídio culposo de trânsito) não impede o tráfico privilegiado, e quantidade e natureza da droga, sozinhas, não provam dedicação ao crime (art. 33, § 4º, da Lei 11.343/06). HC substitutivo de revisão criminal não conhecido, mas redutor aplicado de ofício na fração de 2/3.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276580.pdf
 
-## 184. HC nº 1.0000.26.509274-2/000 (TJMG)
+## 185. HC nº 1.0000.26.509274-2/000 (TJMG)
 - Decisão colegiada. Relator: Des. Alberto Deodato Neto. 1ª Câmara Criminal. Publicado em 30/09/2026.
 - Crime / Tema: Homicídio qualificado · Inépcia da denúncia
 - Resumo: Denúncia inepta: no concurso de agentes, a acusação precisa indicar ao menos uma conduta de cada denunciado e o vínculo dele com o crime (art. 41 do CPP). Ter estado reunido com o atirador e ter o celular encontrado no local não basta. Ação penal trancada quanto ao paciente e mandado de prisão recolhido. Voto vencido (V.V.): o trancamento exige ausência manifesta de justa causa; as alegações dependeriam de dilação probatória.
@@ -36,13 +56,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > V.V. Como é cediço, o trancamento do inquérito policial ou da ação penal por meio do Habeas Corpus deve ocorrer em casos excepcionais e somente quando se encontrar manifestadamente ausente justa causa para o seu prosseguimento, seja pela comprovação de existência de alguma excludente de tipicidade, extinção da punibilidade ou inexistência de prova da materialidade do crime ou indícios de sua autoria. Contudo, se as alegações defensivas demandam dilação probatória, inviável a concessão da ordem, especialmente diante da sumária instrução do Habeas Corpus.
   > (TJMG, Habeas Corpus Criminal n. 1.0000.26.509274-2/000, relator Desembargador Alberto Deodato Neto, 1ª Câmara Criminal, julgado em 29/9/2026, publicado em 30/9/2026.)
 
-## 185. HC nº 1081081 / AL (STJ)
+## 186. HC nº 1081081 / AL (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Porte ilegal de arma de fogo · Fundada suspeita · Busca e apreensão
 - Resumo: Nervosismo e “atitude suspeita”, sem dado objetivo, não autorizam a busca pessoal (art. 244 do CPP); provas ilícitas e réu absolvido. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1081081.pdf
 
-## 186. AgRg no REsp nº 2266487 / MG (STJ)
+## 187. AgRg no REsp nº 2266487 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Busca e apreensão
 - Resumo: Entrar na casa para apreender o veículo furtado visto na garagem foi lícito (Tema 280/STF), mas vasculhar depois cômodo interno e armário desvia da finalidade da diligência (fishing expedition). A arma achada ali é prova ilícita: réu absolvido do art. 16, § 1º, IV, da Lei 10.826/2003. Receptação, adulteração de sinal e corrupção ativa mantidas, com prova independente.
@@ -64,26 +84,20 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Agravo regimental parcialmente provido para reconsiderar, em parte, a decisão agravada e dar parcial provimento ao recurso especial, a fim de reconhecer a ilicitude da prova obtida no interior da residência quanto à arma de fogo apreendida, absolvendo o agravante da imputação relativa ao art. 16, § 1º, IV, da Lei nº 10.826/2003.
   > (AgRg no REsp n. 2.266.487/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 24/9/2026, DJEN de 29/9/2026.)
 
-## 187. HC nº 1132260 / MS (STJ)
+## 188. HC nº 1132260 / MS (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia, monitoramento ou venda presenciada, não autoriza o ingresso no domicílio. O suposto consentimento do morador, abordado por policiais armados, não é crível (coação ambiental), e cabia ao Estado prová-lo. Provas ilícitas e réu absolvido do tráfico (15 g de cocaína).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1132260.pdf
 
-## 188. EDcl no RHC nº 248299 / PA (STJ)
+## 189. EDcl no RHC nº 248299 / PA (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Usurpação de bem da União · Prisão e medidas cautelares
 - Resumo: A manutenção de medida cautelar diversa da prisão exige demonstração concreta e atual da sua necessidade (art. 282, § 5º, do CPP). Monitoração eletrônica cassada: imposta sem fundamentação específica e mantida por mais de 6 meses sem reavaliação. A ausência de fato novo não basta para mantê-la, e o tribunal não pode suprir a falta de fundamento no julgamento do HC. Demais cautelares mantidas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248299.pdf
 
-## 189. HC nº 997670 / SP (STJ)
+## 190. HC nº 997670 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Confissão informal na rua de que há droga em casa não autoriza, sozinha, o ingresso no domicílio sem indício concreto de que a casa serve ao tráfico. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A abordagem pela guarda municipal foi considerada válida (flagrante aparente, art. 301 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-997670.pdf
-
-## 190. HC nº 1113498 / MA (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 25/09/2026.
-- Crime / Tema: Homicídio qualificado · Organização criminosa · Tribunal do Júri
-- Resumo: É nulo o julgamento de recurso em sentido estrito em sessão virtual sem prévia intimação do defensor constituído, que fica impedido de sustentar oralmente. Ordem concedida: trânsito em julgado desconstituído e novo julgamento do recurso contra a pronúncia.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1113498.pdf

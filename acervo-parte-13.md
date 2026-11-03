@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 13 de 36 (decisões 121 a 130)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,13 +8,19 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 121. ARE nº 1.521.716 / PR (STF)
+## 121. RE nº 1.624.621 / RS (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 14/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: Prisão domiciliar sem monitoração eletrônica para quem progrediu ao regime aberto, por falta de vagas, é compatível com a SV 56 e o Tema 423/RG: a tornozeleira se destina sobretudo ao semiaberto. RE do MP com seguimento negado, mantida a decisão do TJRS.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1624621.pdf
+
+## 122. ARE nº 1.521.716 / PR (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 14/10/2026.
 - Crime / Tema: Apologia de crime
 - Resumo: A fala na tribuna da Assembleia, em debate político, está coberta pela imunidade material do deputado; mantida a rejeição do pedido de investigação por apologia de crime (art. 287 do CP). ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1521716.pdf
 
-## 122. AgRg no HC nº 232.300 / PE (STF)
+## 123. AgRg no HC nº 232.300 / PE (STF)
 - Decisão colegiada. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 14/10/2026.
 - Crime / Tema: Excesso de prazo · Justa causa · Colaboração premiada
 - Resumo: Excesso de prazo e falta de corroboração das declarações do colaborador justificam trancar o inquérito. Terceiro agravo do MPF desprovido, por maioria.
@@ -34,19 +40,19 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental desprovido.
   > (STF, HC n. 232.300 AgR-terceiro/PE, relator Ministro Gilmar Mendes, Segunda Turma, julgado em 14/9/2026, DJe de 14/10/2026.)
 
-## 123. HC nº 1114927 / RJ (STJ)
+## 124. HC nº 1114927 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Organização criminosa · Estelionato · Lavagem de dinheiro · Assistente de acusação · Prisão e medidas cautelares
 - Resumo: O assistente de acusação não pode recorrer da revogação de medidas cautelares, fora das hipóteses legais. Ordem concedida: revogadas as cautelares restabelecidas por recurso dele.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114927.pdf
 
-## 124. REsp nº 2286390 / SP (STJ)
+## 125. REsp nº 2286390 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: A visita com contato direto não pode ser negada de forma genérica só pela condição penal da visitante. REsp provido: autorizada a visita da companheira.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2286390.pdf
 
-## 125. AgRg no HC nº 1109495 / SP (STJ)
+## 126. AgRg no HC nº 1109495 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Colaboração premiada
 - Resumo: As informações que o advogado obteve pela relação de confiança com o cliente continuam protegidas pelo sigilo profissional, mesmo que ele também seja investigado. A colaboração premiada do advogado que delatou o antigo cliente é inválida quanto a este, preservadas as provas de fonte autônoma. O Tema 1.441/STF não muda a jurisprudência aplicável.
@@ -64,7 +70,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Agravo regimental não provido.
   > (AgRg no HC n. 1.109.495/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 126. AgRg no AREsp nº 2373732 / RS (STJ)
+## 127. AgRg no AREsp nº 2373732 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
 - Resumo: Depois dos debates, o juiz presidente não pode dizer aos jurados que as qualificadoras se aplicam 'ao caso' nem citar decisão anterior: o esclarecimento do art. 480, §§ 1º e 2º, do CPP se limita a questões de fato. A interferência compromete a imparcialidade do Conselho de Sentença, e o prejuízo ficou demonstrado (art. 563 do CPP). Júri anulado.
@@ -77,7 +83,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.373.732/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 127. AREsp nº 3146788 / AP (STJ)
+## 128. AREsp nº 3146788 / AP (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · ANPP
 - Resumo: A recusa do MP em oferecer o ANPP precisa ser fundamentada. Recusada sem motivo, a defesa tem direito à remessa ao órgão revisor do MP (art. 28-A, § 14, do CPP), inclusive na fase recursal, com a execução da pena suspensa até lá. O caso era de tráfico privilegiado.
@@ -110,7 +116,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Diante de recusa imotivada em termos concretos, o Poder Judiciário não pode impor diretamente a celebração do acordo de não persecução penal, devendo determinar a remessa dos autos ao órgão revisor do Ministério Público, na forma do art. 28-A, § 14, c/ c art. 28 do CPP, com sobrestamento da execução da pena até a decisão revisional.
   > (AREsp n. 3.146.788/AP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 128. AgRg no AREsp nº 3241389 / SC (STJ)
+## 129. AgRg no AREsp nº 3241389 / SC (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Crimes contra a ordem tributária
 - Resumo: Ser sócio-administrador da empresa devedora não basta para condenar por sonegação: presumir a autoria pelo cargo é responsabilidade penal objetiva. Sem prova individualizada, o réu foi absolvido por HC de ofício, e a Súmula 7 não impede revalorar fatos incontroversos do acórdão.
@@ -133,7 +139,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 1. A condição de sócio-administrador é penalmente atípica e não autoriza, por si só, a presunção de autoria delitiva.
   > (AgRg no AREsp n. 3.241.389/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 129. AgRg no RHC nº 245514 / CE (STJ)
+## 130. AgRg no RHC nº 245514 / CE (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Corrupção passiva · Justa causa
 - Resumo: A denúncia por corrupção passiva precisa de suporte probatório mínimo do núcleo 'solicitar'. Boletim de ocorrência, declaração da noticiante e um protocolo administrativo não bastam. Sem justa causa material (art. 395, III, do CPP), a ação penal foi trancada.
@@ -153,20 +159,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. A única testemunha presencial afirmou não ter ouvido a suposta solicitação, constituindo elemento probatório contrário à imputação e revelando fragilidade do lastro indiciário.
   > IV. Dispositivo Resultado do Julgamento: Agravo regimental provido para determinar o trancamento da ação penal n. 0201305-07.2025.8.06.0296.
   > (AgRg no RHC n. 245.514/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/10/2026, DJEN de 14/10/2026.)
-
-## 130. AgRg no AREsp nº 3274327 / SP (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
-- Crime / Tema: Homicídio qualificado · Dosimetria
-- Resumo: Condenação antiga, com pena extinta mais de 10 anos antes do novo fato, pode deixar de gerar maus antecedentes, pelo direito ao esquecimento, em juízo de proporcionalidade. Maus antecedentes afastados, e pena redimensionada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3274327.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIOS DUPLAMENTE QUALIFICADOS TENTADOS, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, COAÇÃO NO CURSO DO PROCESSO. MAUS ANTECEDENTES. AFASTAMENTO. DIREITO AO ESQUECIMENTO. TENTATIVA. ITER CRIMINIS. FRAÇAO. REVISÃO. AFASTAMENTO DO CONCURSO MATERIAL E INCIDÊNCIA DO PRINCÍPIO DA CONSUNÇÃO DO CRIME DE PORTE ILEGAL DE ARMA DE FOGO PELOS DELITOS DE HOMICÍDIO TENTADO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
-  > 1. É firme a jurisprudência desta Corte Superior de Justiça no sentido de que as condenações atingidas pelo período depurador de 5 (cinco) anos, previsto no art. 64, inciso I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração dos maus antecedentes, nos termos do art. 59, do CP. No mesmo sentido, o Supremo Tribunal Federal, no exame do RE n. 593.818 (Tema n. 150 - repercussão geral), de relatoria do Ministro LUÍS ROBERTO BARROSO, publicado no DJE de 23/11/2020, fixou a tese de que não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal.
-  > 2. No referido julgamento, em Sessão Virtual de 14.4.2023 a 24.4.2023, o Supremo Tribunal Federal, por unanimidade, acolheu os embargos de declaração apresentados, tão somente para corrigir omissão, e fazer constar no Tema 150 da repercussão geral a fixação da tese nos seguintes moldes: Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal, DJE de 5/5/2023. Dessa forma, pode o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime.
-  > 3. Assim, quanto à aplicação do denominado "direito ao esquecimento", ambas as Turmas que compõem a Terceira Seção desta Corte Superior posicionaram-se no sentido de que a avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade, levando-se em consideração o lapso temporal transcorrido entre extinção da pena anteriormente imposta e a prática do novo delito, qual seja mais de 10 anos.
-  > 4. O presente caso, após análise detida dos autos e conforme demonstrado pela parte agravante, comporta a pretendida relativização excepcional da condenação antiga, fundada na teoria do direito ao esquecimento. É que não se verifica arrazoado o reconhecimento dos maus antecedentes, uma vez que a extinção da pena nos autos nº 0003821-87.1999.8.26.0441 ocorreu em 16/4/2012, tendo transcorrido mais de 10 anos entre a extinção da referida pena e o fato criminoso que ora se analisa (6/5/2022). Dessa forma, devem ser afastados os maus antecedentes do acusado.
-  > 5. Quanto à tentativa, o Código Penal, em seu art. 14, inciso II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição (HC n. 502.584/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 6/6/2019, DJe 11/6/2019).
-  > 6. No presente caso, a Corte local manteve a redução pela tentativa do crime no patamar de 1/3, tendo em vista o iter criminis percorrido pelo agente. Ora, rever tal conclusão, como requer a parte recorrente, no sentido da aplicação da fração em patamar maior, em relação à tentativa, demandaria o revolvimento de matéria fático-probatória dos autos, o que é inviável em sede de recurso especial, por força da incidência da Súmula n. 7/STJ. Precedentes.
-  > 7. O Tribunal a quo, em decisão devidamente motivada, entendeu pela manutenção do concurso material e da não incidência do princípio da consunção do crime de porte ilegal de arma de fogo pelos delitos de homicídio tentado. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pelo reconhecimento da continuidade delitiva entre os delitos, bem como pela consunção entre os delitos de porte de arma de fogo e homicídio, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
-  > 8. Agravo regimental parcialmente provido para afastar os maus antecedentes, redimensionando a pena final do acusado para 23 anos, 2 meses e 20 dias de reclusão.
-  > (AgRg no AREsp n. 3.274.327/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)

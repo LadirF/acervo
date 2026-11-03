@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 5 de 36 (decisões 41 a 50)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,19 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 41. REsp nº 2245806 / MG (STJ)
+## 41. AgRg no HC nº 277.418 / RJ (STF)
+- Decisão colegiada. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 26/10/2026.
+- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
+- Resumo: A prisão preventiva é incompatível com o regime semiaberto fixado na condenação, por ofender a proporcionalidade. A Segunda Turma, por maioria, negou provimento ao agravo do MPF e manteve a revogação da preventiva concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277418.pdf
+- Ementa oficial:
+  > Agravo regimental em habeas corpus interposto pelo Ministério Público Federal. Prisão preventiva. Regime semiaberto estabelecido no título penal condenatório. Concessão da ordem de ofício. Compatibilização da custódia cautelar com o regime imposto no decreto condenatório. Afronta ao princípio da proporcionalidade. Revogação da prisão preventiva. Decisão agravada em harmonia com entendimento consolidado pela Suprema Corte. Manutenção da decisão por seus próprios fundamentos. Agravo ao qual se nega provimento.
+  > 1. A decisão atacada não merece reforma, uma vez que seus fundamentos se harmonizam estritamente com o entendimento consolidado pela Suprema Corte.
+  > 2. O recurso mostra-se inviável, na medida em que contém apenas a reiteração dos argumentos anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões expressas na decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+  > 3. Agravo ao qual se nega provimento.
+  > (STF, AgRg no HC n. 277.418/RJ, relator Ministro Dias Toffoli, Segunda Turma, julgado em 19/10/2026, DJe de 26/10/2026.)
+
+## 42. REsp nº 2245806 / MG (STJ)
 - Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Natureza e quantidade da droga, sem outros dados concretos, não justificam fração do privilégio abaixo de 2/3 (art. 33, § 4º, da Lei 11.343/2006). REsp da defesa provido.
@@ -21,7 +33,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso especial conhecido e provido para aplicar a fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, mantido o regime aberto e a substituição por penas restritivas de direitos.
   > (REsp n. 2.245.806/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
 
-## 42. AREsp nº 3137169 / RS (STJ)
+## 43. AREsp nº 3137169 / RS (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Abandono de posto (CPM) · ANPP
 - Resumo: O ANPP pode ser analisado no processo penal militar, mesmo após condenação confirmada em 2º grau. Recurso especial provido: autos ao MP para avaliar o acordo.
@@ -35,13 +47,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo conhecido. Recurso especial provido a fim de que o Tribunal de origem adote as providências necessárias para possibilitar a discussão do acordo de não persecução penal entre as partes da ação penal.
   > (AREsp n. 3.137.169/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 43. AREsp nº 3371938 / RJ (STJ)
+## 44. AREsp nº 3371938 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Violência doméstica · Acesso da defesa às provas
 - Resumo: Negar assistente técnico para contraditar o laudo oficial é cerceamento de defesa. Recurso especial provido: processo anulado desde o indeferimento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3371938.pdf
 
-## 44. AgRg no REsp nº 2265973 / AL (STJ)
+## 45. AgRg no REsp nº 2265973 / AL (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria
 - Resumo: “Dolo intenso” e “desprezo pela vítima” são fundamentos genéricos e não elevam a pena-base pela culpabilidade. Agravo do MP desprovido.
@@ -53,7 +65,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Agravo regimental não provido.
   > (AgRg no REsp n. 2.265.973/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
 
-## 45. AgRg no AREsp nº 3317291 / RN (STJ)
+## 46. AgRg no AREsp nº 3317291 / RN (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Exame criminológico favorável ampara a progressão de regime; o MP não pode rediscutir essa avaliação em recurso especial. Agravo do MP desprovido.
@@ -67,7 +79,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental improvido.
   > (AgRg no AREsp n. 3.317.291/RN, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 46. AgRg no AREsp nº 3279467 / PE (STJ)
+## 47. AgRg no AREsp nº 3279467 / PE (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A absolvição pelos jurados que acolhe a negativa de autoria, com suporte probatório mínimo, deve ser preservada (soberania dos veredictos). Agravo do MP desprovido.
@@ -80,7 +92,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 3.279.467/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 47. AgRg no AREsp nº 2029364 / SP (STJ)
+## 48. AgRg no AREsp nº 2029364 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado
 - Resumo: A Lei de Anistia (Lei 6.683/1979, ADPF 153/STF) impede a persecução dos fatos que abrange, e não se tipifica retroativamente crime contra a humanidade sem lei anterior. Rejeição da denúncia mantida; agravo do MP desprovido.
@@ -93,7 +105,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.029.364/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 48. EDcl no AgRg no REsp nº 2231348 / RS (STJ)
+## 49. EDcl no AgRg no REsp nº 2231348 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: Sem indícios mínimos de autoria, mantém-se a despronúncia. Embargos de declaração do MP rejeitados.
@@ -105,7 +117,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Embargos de declaração rejeitados.
   > (EDcl no AgRg no REsp n. 2.231.348/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 49. AgRg no AREsp nº 2495761 / BA (STJ)
+## 50. AgRg no AREsp nº 2495761 / BA (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Estupro de vulnerável · Dosimetria
 - Resumo: A agravante do art. 61, II, “h”, do CP no estupro de vulnerável é bis in idem, e acrescentá-la em recurso só da defesa é reformatio in pejus. Agravo do MP desprovido.
@@ -117,23 +129,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. O reconhecimento de agravante não considerada na sentença, em recurso exclusivo da defesa, configura reformatio in pejus.
   > 4. Agravo regimental improvido.
   > (AgRg no AREsp n. 2.495.761/BA, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
-
-## 50. AgRg no AREsp nº 3317228 / SP (STJ)
-- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 23/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: Informante, drogas variadas em pouca quantidade e dinheiro achado com o corréu não provam dedicação a atividades criminosas, e ação penal em curso também não (Tema 1.139/STJ). Agravo desprovido, mas HC de ofício: redutor de 2/3, regime aberto e penas restritivas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3317228.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. PARADIGMA PROFERIDO EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO INDEVIDAMENTE AFASTADO. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
-  > I. Caso em exame
-  > 1. Agravo regimental contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial pela incidência da Súmula n. 284/STF e pela falta de comprovação do dissídio jurisprudencial, em recurso especial interposto apenas com base na alínea c do permissivo constitucional. O agravante foi condenado a 5 (cinco) anos de reclusão, em regime inicial fechado, por manter em depósito, em sua residência, 4,57 g de cocaína, 4,13 g de crack e porções de 1,39 g e 2,69 g de maconha, com R$ 50,00 em dinheiro, e sustenta ter indicado o art. 33, § 4º, da Lei n. 11.343/2006 e impugnado o óbice do dissídio, pedindo, subsidiariamente, a concessão de habeas corpus de ofício.
-  > II. Questão em discussão
-  > 2. Há duas questões em discussão: (i) saber se subsiste o óbice da falta de comprovação do dissídio jurisprudencial; e (ii) saber se o afastamento do tráfico privilegiado com base em informação de informante, na variedade das drogas e em dinheiro apreendido na casa do corréu configura flagrante ilegalidade apta à concessão de habeas corpus de ofício.
-  > III. Razões de decidir
-  > 3. O único julgado indicado como paradigma no recurso especial foi proferido em habeas corpus, ação que não se presta à demonstração da divergência, e não houve cotejo analítico: o paradigma trata da fração do redutor já reconhecido, ao passo que o acórdão recorrido negou a própria minorante. A falta de comprovação do dissídio basta, por si, para o não conhecimento do recurso interposto apenas pela alínea c.
-  > 4. A informação do informante, reproduzida pelos policiais, foi tida pelo próprio acórdão como insuficiente para a associação para o tráfico; a quantidade de droga foi considerada dentro da normalidade do tipo; e a quantia expressiva de dinheiro estava na residência do corréu. Esses dados não demonstram dedicação a atividades criminosas.
-  > 5. A ação penal em curso mencionada na sentença não foi adotada pelo acórdão e não impede a aplicação da minorante, nos termos do Tema n. 1.139/STJ.
-  > 6. Sem fundamento concreto para fração menor, o redutor incide em 2/3, com pena de 1 (um) ano e 8 (oito) meses de reclusão e 166 (cento e sessenta e seis) dias-multa, regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos, conforme a Súmula Vinculante n. 59/STF.
-  > IV. Dispositivo
-  > 7. Agravo regimental desprovido. Habeas corpus concedido de ofício.
-  > (AgRg no AREsp n. 3.317.228/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026.)

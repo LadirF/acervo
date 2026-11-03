@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 25 de 36 (decisões 241 a 250)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 241. REsp nº 2204349 / MG (STJ)
+## 241. HC nº 275.317 / BA (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 20/08/2026.
+- Crime / Tema: Crimes contra a honra
+- Resumo: Matéria jornalística de interesse público que critica magistrados, ainda que dura, não é difamação: falta o animus diffamandi, e prevalece a liberdade de imprensa (ADPF 130). Mesmo com a condenação já transitada em julgado, o jornalista foi absolvido por atipicidade manifesta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-275317.pdf
+
+## 242. REsp nº 2204349 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Terceira Seção. Publicado em 20/08/2026.
 - Crime / Tema: Associação para o tráfico · Execução penal · Tema repetitivo
 - Resumo: Tema 1.374/STJ — O art. 112, § 3º, V, da LEP (progressão especial para gestante, mãe ou responsável por criança ou pessoa com deficiência) se interpreta de modo restritivo: "organização criminosa" é só a condenação nos termos da Lei 12.850/2013, e não abrange associação criminosa (art. 288 do CP) nem associação para o tráfico (art. 35 da Lei 11.343/2006). Recurso provido para retificar o cálculo de pena.
@@ -32,25 +38,25 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 15. Recurso especial provido para determinar ao Juízo das Execuções Penais que retifique o cálculo de penas da recorrente, abstendo-se de considerar a condenação pelo crime de associação para o tráfico de drogas para fins de análise do requisito contido no art. 112, § 3º, V, da Lei n. 7.210/1984.
   > (REsp n. 2.204.349/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/8/2026, DJEN de 20/8/2026.)
 
-## 242. RHC nº 244894 / MG (STJ)
+## 243. RHC nº 244894 / MG (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
 - Resumo: Preventiva só pela contravenção de vias de fato, contra réu sem medida protetiva anterior nem descumprimento, é excessiva: a pena máxima não autoriza a prisão (art. 313 do CPP). Preventiva revogada, com medidas cautelares.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-244894.pdf
 
-## 243. HC nº 1112820 / RJ (STJ)
+## 244. HC nº 1112820 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
 - Resumo: Vias de fato contra adolescentes sem nenhuma lesão e hematomas leves na companheira não mostram gravidade concreta. Manter a preventiva fere a homogeneidade, porque a pena provável seria em regime aberto ou suspensa. Prisão substituída por cautelares, com parecer favorável do MPF.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112820.pdf
 
-## 244. HC nº 1122510 / BA (STJ)
+## 245. HC nº 1122510 / BA (STJ)
 - Decisão monocrática (liminar). Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: Superação excepcional da Súmula 691/STF — liminar para soltura imediata, paciente mantido preso em flagrante por mais de 72h sem qualquer controle jurisdicional da custódia, sem prejuízo de nova decretação de preventiva pelo Juízo natural, se fundamentada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1122510.pdf
 
-## 245. AgRg no AREsp nº 3136066 / MG (STJ)
+## 246. AgRg no AREsp nº 3136066 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 14/08/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Dosimetria
 - Resumo: Afastadas, em apelação só da defesa, circunstâncias judiciais negativas, a pena-base deve ser reduzida na mesma proporção (Tema 1.214/STJ). Agravo desprovido, mas HC de ofício para refazer a dosimetria.
@@ -59,25 +65,25 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 7/STJ. INSURGÊNCIA GENÉRICA. APLICAÇÃO DA SÚMULA 182/STJ MANTIDA. HABEAS CORPUS DE OFÍCIO. DOSIMETRIA. TEMA 1.214/STJ. AFASTAMENTO DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS NA SENTENÇA. AUSÊNCIA DE REDUÇÃO PROPORCIONAL DA PENA-BASE. ILEGALIDADE MANIFESTA. Agravo regimental improvido. Concedido habeas corpus de ofício, nos termos do dispositivo.
   > (AgRg no AREsp n. 3.136.066/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2026, DJEN de 14/8/2026.)
 
-## 246. RHC nº 224142 / SE (STJ)
+## 247. RHC nº 224142 / SE (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/08/2026.
 - Crime / Tema: Estelionato · Lavagem de dinheiro · Acesso da defesa às provas
 - Resumo: Laudo dos dispositivos apreendidos e dados bancários que embasaram a denúncia não franqueados à defesa: processo anulado a partir da intimação para a resposta à acusação, com juntada e acesso imediato a esse material.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-224142.pdf
 
-## 247. REsp nº 2261350 / AL (STJ)
+## 248. REsp nº 2261350 / AL (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 12/08/2026.
 - Crime / Tema: Roubo · Organização criminosa · Corrupção de menores · Reconhecimento de pessoa
 - Resumo: Reconhecimento feito pela simples exibição de oito fotos, sem alinhar pessoas parecidas, viola o art. 226 do CPP. A confirmação em juízo não o convalida, porque a memória da vítima já estava contaminada, e em juízo ela admitiu que o assaltante estava de rosto coberto e que reconheceu o réu pelo "biótipo parecido". O TJAL divergiu do Tema 1.258. Sem outras provas independentes, o réu foi absolvido (art. 386, VII, do CPP), com pena de 18 anos e 4 meses afastada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2261350.pdf
 
-## 248. RHC nº 238535 / RS (STJ)
+## 249. RHC nº 238535 / RS (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/08/2026.
 - Crime / Tema: Organização criminosa · Extorsão · Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
 - Resumo: Defesa sem acesso aos arquivos das extrações (UFDR): audiência suspensa até o acesso efetivo, com entrega das mídias e declaração formal sobre armazenamento e histórico de manipulação, para permitir o controle da cadeia de custódia.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-238535.pdf
 
-## 249. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
+## 250. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
 - Decisão colegiada. Relator: Des. Carlos Eduardo Contar. 2ª Câmara Criminal. Publicado em 04/08/2026.
 - Crime / Tema: Extorsão · Quebra da cadeia de custódia · Prova digital
 - Resumo: Absolvição por insuficiência de provas: prints de WhatsApp sem perícia não bastam para condenar. Ausência de integridade do material digital.
@@ -85,9 +91,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 - Ementa oficial:
   > APELAÇÃO – DIREITO PROCESSUAL PENAL – EXTORSÃO – ABSOLVIÇÃO – PROVA DIGITAL – APONTAMENTO DE SÉRIA DÚVIDA QUANTO À ORIGEM E ELABORAÇÃO – IMPOSSIBILIDADE DE AFERIÇÃO TÉCNICA DE SUA CONFIABILIDADE – ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSITIVA – PROVIMENTO. Ainda que o conjunto de indícios apontem para a possível responsabilidade do acusado, não sendo possível aferir-se tecnicamente a rastreabilidade da prova digital coligida e fundamentadamente impugnada pela defesa, de rigor a absolvição, em homenagem ao princípio do in dubio pro reo. Apelação defensiva a que se dá provimento, a fim de acolher o pleito absolutório.
   > (TJMS, Apelação Criminal n. 0027305-77.2022.8.12.0001, relator Desembargador Carlos Eduardo Contar, 2ª Câmara Criminal, julgado em 31/7/2026, publicado em 4/8/2026.)
-
-## 250. HC nº 1101979 / PE (STJ)
-- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 31/07/2026.
-- Crime / Tema: Homicídio qualificado · Dosimetria · Revisão criminal
-- Resumo: A revisão criminal pode ser ajuizada a qualquer tempo (art. 622 do CPP). Dolo e consciência da ilicitude não elevam a culpabilidade, e ação penal em curso não gera maus antecedentes (Súmula 444/STJ). Ordem concedida de ofício: pena-base no mínimo legal.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1101979.pdf

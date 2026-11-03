@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 9 de 36 (decisões 81 a 90)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,28 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 81. HC nº 1104329 / PE (STJ)
+## 81. AgRg no REsp nº 2282869 / SP (STJ)
+- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: Faltas graves antigas e já reabilitadas não podem impedir para sempre o livramento condicional (Tema 1.161/STJ), e o exame criminológico não vincula o juiz. Mais de 5 anos sem falta e o livramento cumprido sem problemas mostram o mérito. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2282869.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. FALTAS GRAVES ANTIGAS E REABILITADAS. EXAME CRIMINOLÓGICO. TEMA N. 1.161/STJ. AVALIAÇÃO GLOBAL DO MÉRITO. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que não conheceu de recurso especial em execução penal, no qual se buscava a reforma de acórdão que deferiu livramento condicional ao apenado.
+  > 2. Fato relevante. Última falta disciplinar grave praticada em 4/6/2021 e reabilitada em 4/6/2022; apenado passou mais de cinco anos sem faltas graves, com boa conduta carcerária; usufruto do livramento condicional desde 10/3/2026 sem intercorrências.
+  > 3. As decisões anteriores. Corte estadual deferiu o livramento condicional, assentando que faltas antigas e reabilitadas não podem eternizar efeitos e que o exame criminológico não vincula o Juízo da execução, sendo indevida negativa do benefício com base prejudicial na Lei n. 14.843/2024.
+  > II. Questão em discussão
+  > 4. Há três questões em discussão: (i) saber se faltas graves antigas e já reabilitadas podem, por si, impedir a concessão do livramento condicional sob o prisma do requisito subjetivo, à luz do Tema n. 1.161/STJ; (ii) saber se o exame criminológico desfavorável vincula o Juízo da execução e autoriza a negativa do benefício; e (iii) saber se o desempenho do apenado no usufruto do livramento condicional deve ser considerado na avaliação do mérito subjetivo.
+  > III. Razões de decidir
+  > 5. O requisito objetivo de ausência de falta grave nos últimos 12 meses (art. 83, III, b, do Código Penal), conforme o Tema n. 1.161/STJ, não limita a análise do requisito subjetivo, mas não autoriza a atribuição de efeitos permanentes a faltas antigas e reabilitadas; histórico positivo por período superior a cinco anos evidencia bom comportamento carcerário suficiente.
+  > 6. O exame criminológico não vincula o Juízo da execução; a avaliação do mérito subjetivo deve ser global, sendo indevida a negativa do livramento condicional com base exclusiva em parecer administrativo, notadamente quando invocada alteração legislativa de forma prejudicial ao apenado.
+  > 7. O usufruto do livramento condicional sem intercorrências desde 10/3/2026 demonstra aptidão ao convívio social e reforça o atendimento do requisito subjetivo, tornando desarrazoado o retorno ao cárcere e uma violação ao caráter ressocializador da pena.
+  > IV. Dispositivo
+  > 8. Resultado do Julgamento: Agravo regimental desprovido.
+  > (AgRg no REsp n. 2.282.869/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
+
+## 82. HC nº 1104329 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: A pronúncia exige indícios de autoria produzidos em juízo; o in dubio pro societate não supre a falta deles. O TJ restaurou a pronúncia com elementos do inquérito, contra a impronúncia baseada em falta de reconhecimento, ERB compatível com o álibi e ausência de perícia na arma. Impronúncia restabelecida de ofício.
@@ -22,7 +43,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Habeas corpus não conhecido. Ordem concedida de ofício.
   > (HC n. 1.104.329/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 19/10/2026.)
 
-## 82. AgRg no HC nº 1099090 / RS (STJ)
+## 83. AgRg no HC nº 1099090 / RS (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria
 - Resumo: Frieza, promessas de morte e extensão dos ferimentos são inerentes ao homicídio e não elevam a culpabilidade; sofrimento da família e vítima de 29 anos tratada como de tenra idade não pesam nas consequências. O AREsp barrado na admissibilidade não impede o HC. Agravo do MP desprovido.
@@ -51,7 +72,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A negativação das consequências do crime demanda prova de efeitos extraordinários que transcendam o resultado típico, não sendo idôneos, por si, o sofrimento dos familiares e a qualificação de vítima de 29 anos como de tenra idade.
   > (AgRg no HC n. 1.099.090/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
 
-## 83. AgRg no REsp nº 2230033 / MG (STJ)
+## 84. AgRg no REsp nº 2230033 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · Dosimetria
 - Resumo: Afastada uma circunstância judicial em recurso só da defesa, a pena-base deve cair proporcionalmente (Tema 1.214/STJ), sem frações matemáticas fixas. Redução feita pelo TJ mantida; agravo do MP desprovido.
@@ -75,7 +96,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Resultado do Julgamento: Agravo regimental desprovido.
   > (AgRg no REsp n. 2.230.033/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
 
-## 84. AgRg nos EDcl no REsp nº 2117444 / RS (STJ)
+## 85. AgRg nos EDcl no REsp nº 2117444 / RS (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Corrupção passiva · Falsidade ideológica · ANPP · Prescrição
 - Resumo: O ANPP cabe em processos em curso até o trânsito em julgado, sem confissão prévia, e a recusa do MP tem de ser motivada e revista internamente (aqui foi). Reconhecida a prescrição superveniente da corrupção passiva privilegiada; mantida a falsidade ideológica.
@@ -99,38 +120,32 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Agravo regimental parcialmente provido para declarar extinta a punibilidade do agravante quanto ao crime do art. 317, § 2º, do Código Penal, pela prescrição da pretensão punitiva superveniente, mantida a condenação pelo art. 299, parágrafo único, do Código Penal.
   > (AgRg nos EDcl no REsp n. 2.117.444/RS, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 85. HC nº 1134069 / SP (STJ)
+## 86. HC nº 1134069 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Furto · Prisão e medidas cautelares
 - Resumo: O juiz não pode decretar a preventiva de ofício, sem pedido do MP ou representação da polícia (art. 311 do CPP; Súmula 676/STJ). Preventiva anulada num furto de 8 latas de Pringles, avaliadas em R$ 72.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134069.pdf
 
-## 86. HC nº 1109888 / SP (STJ)
+## 87. HC nº 1109888 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Para o desaforamento basta dúvida fundada sobre a imparcialidade do Júri (art. 427 do CPP): cidade de 20 mil habitantes, grande repercussão e o poder público local tomando partido, com parecer favorável da Procuradoria de Justiça. Júri anulado e desaforado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109888.pdf
 
-## 87. HC nº 1114459 / PR (STJ)
+## 88. HC nº 1114459 / PR (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Violência doméstica · Justa causa
 - Resumo: Lesão corporal culposa (art. 129, § 6º, do CP) exige a demonstração da violação do dever objetivo de cuidado e da previsibilidade; a dinâmica descrita era a de um acidente com o veículo. Réu absolvido por atipicidade (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114459.pdf
 
-## 88. HC nº 1112935 / ES (STJ)
+## 89. HC nº 1112935 / ES (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Sem atos de ocultação ou dissimulação da origem ilícita dos valores, a conduta descrita não é lavagem de dinheiro (art. 1º da Lei 9.613/1998). Ação penal trancada quanto à paciente por atipicidade.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112935.pdf
 
-## 89. HC nº 942619 / GO (STJ)
+## 90. HC nº 942619 / GO (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · ANPP
 - Resumo: Negar o ANPP por falta de confissão no inquérito é inválido: a confissão pode ser formalizada na assinatura do acordo (Tema 1.303/STJ). Autos devolvidos para o MP examinar a proposta, com recusa fundamentada se for o caso.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-942619.pdf
-
-## 90. AREsp nº 3274597 / TO (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Ameaça · Violência doméstica · Testemunho indireto
-- Resumo: A declaração da vítima só na delegacia e o testemunho de quem apenas a repete em juízo vêm da mesma fonte e não se corroboram (art. 155 do CPP). Sem prova judicial autônoma, réu absolvido da ameaça (art. 386, VII).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3274597.pdf

@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 21 de 36 (decisões 201 a 210)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,34 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 201. AgExPen nº 9000340-23.2026.4.04.7017 / PR (TRF4)
+## 201. AgRg no AgRg no HC nº 1066684 / BA (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/09/2026.
+- Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
+- Resumo: Prisão cautelar por mais de 3 anos (domiciliar desde 2024) configura excesso de prazo, ainda que a causa seja complexa. Relaxamento mantido e estendido aos corréus (art. 580 do CPP); agravos do MP desprovidos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1066684.pdf
+- Pedido de extensão: https://ladirf.github.io/acervo/pdfs/ext-hc-1066684.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO DOMICILIAR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. AGRAVO IMPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo órgão ministerial contra decisão que concedeu a ordem de ofício para relaxar a prisão do agravado.
+  > 2. Alegações do agravante: (i) inexistência de excesso de prazo ante a elevada complexidade da causa, com pluralidade de réus, crimes dolosos contra a vida, acervo probatório digital volumoso e extensa instrução, sem desídia estatal; (ii) encerramento da instrução com abertura de prazo para alegações finais, atraindo a Súmula 52/STJ; (iii) persistência contemporânea dos fundamentos da preventiva, em razão da gravidade concreta, periculosidade e risco de reiteração; (iv) concessão anterior de prisão domiciliar por motivo de saúde; e (v) necessidade de prequestionamento de dispositivos constitucionais.
+  > 3. Fato relevante considerado no voto: prisão cautelar iniciada em 8/9/2022, substituída por prisão domiciliar em 9/2/2024, lapso capaz de desnaturar o caráter precário da prisão preventiva e evidenciar constrangimento ilegal à luz da duração razoável do processo.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em saber se o excesso de prazo, aferido pelos princípios da razoabilidade e proporcionalidade, caracteriza constrangimento ilegal apto a justificar o relaxamento da prisão domiciliar diante do tempo de custódia cautelar e das particularidades do caso concreto.
+  > 5. Outra questão em discussão consiste em saber se compete ao Superior Tribunal de Justiça enfrentar dispositivos constitucionais para fins de prequestionamento.
+  > III. Razões de decidir
+  > 6. A aferição do excesso de prazo na instrução criminal observa os princípios da razoabilidade e da proporcionalidade, considerando as particularidades do caso, a atuação das partes e a condução do feito, não se tratando de critério aritmético; a mera extrapolação dos prazos legais não acarreta automaticamente o relaxamento da custódia cautelar.
+  > 7. O tempo de custódia cautelar, com prisão preventiva iniciada em 8/9/2022 e posteriormente convertida em prisão domiciliar em 9/2/2024, desnatura o caráter precário da medida e torna desproporcional e injustificada a sua manutenção, evidenciando constrangimento ilegal à luz da duração razoável do processo.
+  > 8. Não compete ao Superior Tribunal de Justiça manifestar-se explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Agravo regimental improvido.
+  > Tese de julgamento:
+  > 1. A aferição do excesso de prazo na instrução criminal deve observar os princípios da razoabilidade e proporcionalidade, consideradas as particularidades do caso, a atuação das partes e a condução do feito.
+  > 2. A manutenção de prisão cautelar por lapso que desnatura o caráter precário configura constrangimento ilegal diante do princípio da duração razoável do processo.
+  > 3. Não cabe ao Superior Tribunal de Justiça apreciar dispositivos constitucionais para fins de prequestionamento.
+  > (AgRg no AgRg no HC n. 1.066.684/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2026, DJEN de 23/9/2026.)
+
+## 202. AgExPen nº 9000340-23.2026.4.04.7017 / PR (TRF4)
 - Decisão colegiada. Relator: Des. Fed. Luiz Carlos Canalli. 7ª Turma. Publicado em 23/09/2026.
 - Crime / Tema: Execução penal
 - Resumo: A reconversão das penas restritivas em privativa de liberdade (art. 181, § 1º, da LEP) exige descumprimento injustificado. É nula a intimação por edital feita depois de tentar a intimação pessoal em endereço errado, sem esgotar os meios de localização. Sem ocultação deliberada, não há falta grave (art. 50, II, da LEP). Reconversão e regressão ao regime fechado anuladas, e restabelecidas as penas restritivas.
@@ -30,7 +57,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: 9. É nula a reconversão de penas restritivas de direitos em privativa de liberdade quando a intimação por edital é realizada de forma prematura, sem a prévia tentativa de intimação pessoal no endereço correto constante dos autos.
   > (TRF4, Agravo de Execução Penal n. 9000340-23.2026.4.04.7017/PR, relator Desembargador Federal Luiz Carlos Canalli, 7ª Turma, julgado em 25/8/2026, publicado em 23/9/2026.)
 
-## 202. REsp nº 2204206 / PE (STJ)
+## 203. REsp nº 2204206 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/09/2026.
 - Crime / Tema: Prova digital · Quebra da cadeia de custódia · Justa causa
 - Resumo: Sem fonte independente, a denúncia baseada só nos sistemas Drousys e My Web Day B, declarados imprestáveis pelo STF por comprometimento da cadeia de custódia, não tem justa causa. Mantida a rejeição da denúncia; REsp do MPF desprovido.
@@ -45,43 +72,43 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
   > (REsp n. 2.204.206/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/9/2026, DJEN de 22/9/2026.)
 
-## 203. HC nº 1125136 / PB (STJ)
+## 204. HC nº 1125136 / PB (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 22/09/2026.
 - Crime / Tema: Crimes contra a ordem tributária · Prescrição
 - Resumo: Crime tributário material (art. 1º, II, da Lei 8.137/90): a prescrição corre da constituição definitiva do crédito (SV 24), conta a pena sem o acréscimo da continuidade (Súmula 497/STF) e cai pela metade para maior de 70 anos na data do acórdão (art. 115 do CP). Prescrição reconhecida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1125136.pdf
 
-## 204. Rcl nº 99.520 / AC (STF)
+## 205. Rcl nº 99.520 / AC (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 21/09/2026.
 - Crime / Tema: Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito de copiar, em meio físico ou digital, as conversas de WhatsApp já documentadas e a documentação da cadeia de custódia dos laudos; só poder consultá-las no instituto de perícia, sem extrair, não basta. Reclamação procedente.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-99520.pdf
 
-## 205. HC nº 1129639 / SP (STJ)
+## 206. HC nº 1129639 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/09/2026.
 - Crime / Tema: Ameaça · Violência doméstica · Prisão e medidas cautelares
 - Resumo: Preventiva por ameaça em violência doméstica (pena máxima inferior a 4 anos): o art. 313, III, do CPP exige descumprimento prévio de medida protetiva, e o réu nem havia sido intimado dela. Prisão substituída por medidas protetivas e cautelares diversas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129639.pdf
 
-## 206. HC nº 1130315 / SP (STJ)
+## 207. HC nº 1130315 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Busca pessoal em usuário por "comportamento suspeito" genérico, em patrulhamento de rotina, é ilícita (art. 244 do CPP) e contamina o que veio depois: a indicação da casa do vendedor e as apreensões feitas lá (art. 157, § 1º). A ilicitude vale mesmo com a busca feita em terceiro. Paciente e corréu absolvidos de ofício (art. 580 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1130315.pdf
 
-## 207. PET no AREsp nº 2593373 / AM (STJ)
+## 208. PET no AREsp nº 2593373 / AM (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2026.
 - Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
 - Resumo: ANPP retroativo (HC 185.913/STF): sem trânsito em julgado, cabe ao MP de primeiro grau avaliar o acordo, e não ao MPF no STJ. Autos remetidos à origem para o MP estadual se manifestar motivadamente sobre o ANPP (art. 28-A do CPP), com direito à revisão do § 14 se houver recusa. O relator não antecipou juízo sobre requisitos nem preclusão.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2593373.pdf
 
-## 208. HC nº 1102439 / SP (STJ)
+## 209. HC nº 1102439 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 18/09/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Prisão e medidas cautelares
 - Resumo: A campana feita depois de informação anônima, a venda vista no portão da casa e confirmada pelo comprador abordado, e a droga achada no carro do réu formam fundadas razões para a busca domiciliar sem mandado; nulidade afastada. Mas maus antecedentes, com penas já extintas, e pouca droga (34 g de cocaína), num crime sem violência, não justificam a preventiva, substituída por medidas cautelares (art. 319 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1102439.pdf
 
-## 209. AgRg no AREsp nº 3203005 / MT (STJ)
+## 210. AgRg no AREsp nº 3203005 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 17/09/2026.
 - Crime / Tema: Porte ilegal de munição · Fundada suspeita
 - Resumo: Busca veicular ilícita: vidros escuros, região associada ao tráfico e fiscalização de rotina não configuram fundada suspeita. Provas desentranhadas e absolvição (porte de munição).
@@ -109,9 +136,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 1. A abordagem administrativa de trânsito não autoriza, por si só, busca pessoal ou veicular, que exige fundada suspeita objetiva, concreta e anterior, referível à posse de corpo de delito.
   > 2. Circunstâncias genéricas como película escura nos vidros, circulação em região periférica e fiscalização de rotina não constituem justa causa para busca pessoal/veicular de natureza probatória.
   > (AgRg no AREsp n. 3.203.005/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/8/2026, DJEN de 17/9/2026.)
-
-## 210. REsp nº 2279989 / PR (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/09/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
-- Resumo: A pronúncia não pode se apoiar só em elementos do inquérito e em testemunho indireto (art. 155 do CPP): sem prova judicial de autoria, impõe-se a impronúncia. Restabelecida a sentença de impronúncia (homicídio qualificado).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2279989.pdf

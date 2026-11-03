@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 14 de 36 (decisões 131 a 140)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 352 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,24 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 131. AgRg no AgRg no HC nº 1066102 / MG (STJ)
+## 131. AgRg no AREsp nº 3274327 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
+- Crime / Tema: Homicídio qualificado · Dosimetria
+- Resumo: Condenação antiga, com pena extinta mais de 10 anos antes do novo fato, pode deixar de gerar maus antecedentes, pelo direito ao esquecimento, em juízo de proporcionalidade. Maus antecedentes afastados, e pena redimensionada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3274327.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIOS DUPLAMENTE QUALIFICADOS TENTADOS, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, COAÇÃO NO CURSO DO PROCESSO. MAUS ANTECEDENTES. AFASTAMENTO. DIREITO AO ESQUECIMENTO. TENTATIVA. ITER CRIMINIS. FRAÇAO. REVISÃO. AFASTAMENTO DO CONCURSO MATERIAL E INCIDÊNCIA DO PRINCÍPIO DA CONSUNÇÃO DO CRIME DE PORTE ILEGAL DE ARMA DE FOGO PELOS DELITOS DE HOMICÍDIO TENTADO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+  > 1. É firme a jurisprudência desta Corte Superior de Justiça no sentido de que as condenações atingidas pelo período depurador de 5 (cinco) anos, previsto no art. 64, inciso I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração dos maus antecedentes, nos termos do art. 59, do CP. No mesmo sentido, o Supremo Tribunal Federal, no exame do RE n. 593.818 (Tema n. 150 - repercussão geral), de relatoria do Ministro LUÍS ROBERTO BARROSO, publicado no DJE de 23/11/2020, fixou a tese de que não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal.
+  > 2. No referido julgamento, em Sessão Virtual de 14.4.2023 a 24.4.2023, o Supremo Tribunal Federal, por unanimidade, acolheu os embargos de declaração apresentados, tão somente para corrigir omissão, e fazer constar no Tema 150 da repercussão geral a fixação da tese nos seguintes moldes: Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal, DJE de 5/5/2023. Dessa forma, pode o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime.
+  > 3. Assim, quanto à aplicação do denominado "direito ao esquecimento", ambas as Turmas que compõem a Terceira Seção desta Corte Superior posicionaram-se no sentido de que a avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade, levando-se em consideração o lapso temporal transcorrido entre extinção da pena anteriormente imposta e a prática do novo delito, qual seja mais de 10 anos.
+  > 4. O presente caso, após análise detida dos autos e conforme demonstrado pela parte agravante, comporta a pretendida relativização excepcional da condenação antiga, fundada na teoria do direito ao esquecimento. É que não se verifica arrazoado o reconhecimento dos maus antecedentes, uma vez que a extinção da pena nos autos nº 0003821-87.1999.8.26.0441 ocorreu em 16/4/2012, tendo transcorrido mais de 10 anos entre a extinção da referida pena e o fato criminoso que ora se analisa (6/5/2022). Dessa forma, devem ser afastados os maus antecedentes do acusado.
+  > 5. Quanto à tentativa, o Código Penal, em seu art. 14, inciso II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição (HC n. 502.584/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 6/6/2019, DJe 11/6/2019).
+  > 6. No presente caso, a Corte local manteve a redução pela tentativa do crime no patamar de 1/3, tendo em vista o iter criminis percorrido pelo agente. Ora, rever tal conclusão, como requer a parte recorrente, no sentido da aplicação da fração em patamar maior, em relação à tentativa, demandaria o revolvimento de matéria fático-probatória dos autos, o que é inviável em sede de recurso especial, por força da incidência da Súmula n. 7/STJ. Precedentes.
+  > 7. O Tribunal a quo, em decisão devidamente motivada, entendeu pela manutenção do concurso material e da não incidência do princípio da consunção do crime de porte ilegal de arma de fogo pelos delitos de homicídio tentado. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pelo reconhecimento da continuidade delitiva entre os delitos, bem como pela consunção entre os delitos de porte de arma de fogo e homicídio, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+  > 8. Agravo regimental parcialmente provido para afastar os maus antecedentes, redimensionando a pena final do acusado para 23 anos, 2 meses e 20 dias de reclusão.
+  > (AgRg no AREsp n. 3.274.327/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
+
+## 132. AgRg no AgRg no HC nº 1066102 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri · Pronúncia
 - Resumo: Embriaguez ao volante, mesmo com velocidade excessiva, não basta para indicar dolo eventual: são precisos elementos concretos de que o motorista aceitou o resultado morte. Desclassificação dos homicídios para culposos mantida, sem usurpar a competência do Júri.
@@ -30,7 +47,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. A desclassificação de homicídio doloso para crime culposo, quando ausentes circunstâncias concretas robustas de assentimento ao resultado morte, não usurpa a competência do Tribunal do Júri.
   > (AgRg no AgRg no HC n. 1.066.102/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 132. AgRg no AREsp nº 3062314 / ES (STJ)
+## 133. AgRg no AREsp nº 3062314 / ES (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: O princípio da insignificância vale mesmo no furto qualificado pelo concurso de agentes: dois chocolates de R$ 55, restituídos, sem violência. Atipicidade material e absolvição (art. 386, III, do CPP).
@@ -59,7 +76,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. A subtração, sem violência ou grave ameaça, de bem de ínfimo valor, restituído à vítima, é materialmente atípica e autoriza a absolvição com base no art. 386, III, do Código de Processo Penal.
   > (AgRg no AREsp n. 3.062.314/ES, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 133. AgRg no AREsp nº 3216337 / RN (STJ)
+## 134. AgRg no AREsp nº 3216337 / RN (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Se o Estado não tem tornozeleira e o apenado fica em recolhimento domiciliar noturno, esse período entra na detração (art. 42 do CP). A falha estatal não pode prejudicar o sentenciado; agravo do MP desprovido.
@@ -81,7 +98,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Agravo regimental desprovido.
   > (AgRg no AREsp n. 3.216.337/RN, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 134. AgRg no HC nº 1124320 / RJ (STJ)
+## 135. AgRg no HC nº 1124320 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Prisão e medidas cautelares
 - Resumo: Preventiva e regime semiaberto são incompatíveis, em regra (entendimento do STF), salvo reiteração ou violência. Réu primário, condenado por tráfico privilegiado na fração máxima: prisão revogada, com cautelares do art. 319 do CPP; agravo do MPF desprovido.
@@ -94,13 +111,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no HC n. 1.124.320/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 135. ARE nº 1.628.158 / CE (STF)
+## 136. ARE nº 1.628.158 / CE (STF)
 - Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 13/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: O trabalho externo não pode ser negado pela gravidade abstrata dos crimes, pelo saldo de pena ou por ser “prematuro”. ARE do MP com seguimento negado: mantida a reavaliação com base em elementos concretos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628158.pdf
 
-## 136. AgRg no AgRg no HC nº 938203 / RO (STJ)
+## 137. AgRg no AgRg no HC nº 938203 / RO (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Organização criminosa · Competência · Quebra de sigilo
 - Resumo: Cautelares invasivas (interceptações e quebra de sigilos bancário, fiscal e de dados) decretadas por vara federal sem competência, quando a investigação já apontava organização criminosa e lavagem, da competência de vara especializada, são nulas. A teoria do juízo aparente não as salva. Provas derivadas desentranhadas; agravo do MPF desprovido.
@@ -126,7 +143,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 13. Agravo regimental conhecido e desprovido, mantida a decisão que declarou a nulidade dos atos decisórios praticados pelo Juízo da 7ª Vara Federal a partir de 12/04/2021 e determinou o desentranhamento das provas diretamente derivadas, com preservação do exame pelo juízo competente quanto a fontes independentes e ausência de nexo causal.
   > (AgRg no AgRg no HC n. 938.203/RO, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 8/10/2026, DJEN de 13/10/2026.)
 
-## 137. AgRg no REsp nº 2263423 / MG (STJ)
+## 138. AgRg no REsp nº 2263423 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Só pedir que alguém leve droga ao presídio, sem a entrega efetiva, é ato preparatório impunível. Absolvição pelo tráfico (art. 33 da Lei 11.343/2006) mantida; agravo do MPF desprovido.
@@ -145,7 +162,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: A mera solicitação de entrega de entorpecente, sem a efetiva entrega no estabelecimento prisional, configura ato preparatório e é impunível.
   > (AgRg no REsp n. 2.263.423/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2026, DJEN de 13/10/2026.)
 
-## 138. REsp nº 2234555 / AC (STJ)
+## 139. REsp nº 2234555 / AC (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Prescrição
 - Resumo: Pena definitiva de até 2 anos prescreve em 4 anos (art. 109, V, do CP). Passados mais de 4 anos desde o acórdão da apelação, ocorreu a prescrição intercorrente. Punibilidade extinta.
@@ -154,7 +171,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > RECURSO ESPECIAL. PEDIDO DE DECLARAÇÃO DA EXTINÇÃO DE PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA INTERCORRENTE. VERIFICAÇÃO. OCORRÊNCIA. PENA DEFINITIVA DISPOSTA EM PATAMAR IGUAL OU INFERIOR A 2 ANOS DE RECLUSÃO. TRANSCURSO DE PRAZO SUPERIOR A 4 ANOS DESDE O JULGAMENTO DO ACÓRDÃO DA APELAÇÃO CRIMINAL. APLICAÇÃO DO ART. 109, V, DO CP. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.234.555/AC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
 
-## 139. HC nº 1109575 / MS (STJ)
+## 140. HC nº 1109575 / MS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Organização criminosa · Corrupção ativa · Prisão e medidas cautelares
 - Resumo: As cautelas devem ser progressivas (art. 282, §§ 4º e 6º, do CPP). Diante de fatos novos (denúncia rejeitada em outro processo e suspensão da OAB negada), ré primária, crime sem violência e instrução demorada, a domiciliar foi substituída por medidas do art. 319 do CPP.
@@ -167,16 +184,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A pretensão defensiva quanto à inexistência de interceptações diretamente vinculadas à paciente, à interpretação de diálogos de terceiros sobre a alcunha “dona” e à alegada incapacidade física e cognitiva exige revolvimento do conjunto fático-probatório, incompatível com a cognição sumária e a via estreita do habeas corpus.
   > 5. Ordem concedida nos termos do dispositivo.
   > (HC n. 1.109.575/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
-
-## 140. HC nº 1128832 / CE (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 13/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Errar a alínea do art. 593, III, do CPP no termo da apelação contra o Júri é mera irregularidade se as razões delimitam os pedidos. Recusar-se a julgar a apelação por isso é negativa de prestação jurisdicional. Ordem de ofício para o TJ julgar.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128832.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRIBUNAL DO JÚRI. APELAÇÃO CRIMINAL. INDICAÇÃO EQUIVOCADA DO DISPOSITIVO LEGAL NO TERMO DE INTERPOSIÇÃO. DELIMITAÇÃO DOS PEDIDOS NAS RAZÕES RECURSAIS. MERA IRREGULARIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO.
-  > 1. O Superior Tribunal de Justiça não conhece de habeas corpus utilizado como sucedâneo de recurso próprio, ressalvada a possibilidade de concessão da ordem de ofício diante de flagrante ilegalidade.
-  > 2. A falta ou a indicação incorreta das alíneas do art. 593, III, do CPP constitui mera irregularidade quando as razões recursais apresentam os fundamentos do recurso e delimitam adequadamente as pretensões da defesa.
-  > 3. A recusa de apreciação da apelação criminal, nas circunstâncias em que o vício formal não impede a identificação dos fundamentos e pedidos recursais, configura indevida negativa de prestação jurisdicional.
-  > 4. Impetração não conhecida. Ordem concedida de ofício.
-  > (HC n. 1.128.832/CE, relator Ministro Og Fernandes, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
