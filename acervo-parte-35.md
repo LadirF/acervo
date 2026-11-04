@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 35 de 36 (decisões 341 a 350)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 354 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,20 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 341. REsp nº 1795341 / RS (STJ)
+## 341. AgRg no HC nº 157.627 / PR (STF)
+- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
+- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
+- Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-157627.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL EM HABEAS CORPUS. CONHECIMENTO. POSSIBILIDADE. APRESENTAÇÃO DE MEMORIAIS ESCRITOS POR RÉUS COLABORADORES E DELATADOS. PRAZO COMUM. INADMISSIBILIDADE. OFENSA ÀS REGRAS DO CONTRADITÓRIO E DA AMPLA DEFESA. NULIDADE. EXISTÊNCIA DE PREJUÍZO. EXEGESE IMEDIATA DOS DIREITOS FUNDAMENTAIS INDEPENDENTEMENTE DA NORMA INFRACONSTITUCIONAL. INTELIGÊNCIA DOS ARTS. 5º, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA DE 1988, E 603, DO CPP. ORDEM CONCEDIDA.
+  > I – Possibilidade de impetração de habeas corpus nos casos em que, configurada flagrante ilegalidade do provimento jurisdicional, descortina-se premente o risco atual ou iminente à liberdade de locomoção, apta, pois, a gerar constrangimento ilegal. Precedentes desta Suprema Corte (HC 87.926/SP, Rel. Min. Cezar Peluso; HC 136.331, Rel. Min. Ricardo Lewandowski).
+  > II - Decisão de primeiro grau de jurisdição que indefere pedido para apresentação de memoriais escritos após o prazo dos réus colaboradores. Prejuízo demonstrado.
+  > III – Memoriais escritos de réus colaboradores, com nítida carga acusatória, deverão preceder aos dos réus delatados, sob pena de nulidade do julgamento. Exegese imediata dos preceitos fundamentais do contraditório e da ampla defesa (art. 5º, LV, da CF/88) que prescindem da previsão expressa de regras infraconstitucionais.
+  > IV – Agravo regimental provido, para conhecer e conceder a ordem.
+  > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
+
+## 342. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -22,7 +35,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 342. Inq nº 3.994 / DF (STF)
+## 343. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -42,7 +55,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 343. AgRg no Inq nº 1093 / DF (STJ)
+## 344. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -60,7 +73,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 344. REsp nº 1574681 / RS (STJ)
+## 345. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -84,7 +97,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 345. APn nº 746 / MT (STJ)
+## 346. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -101,7 +114,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 346. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
+## 347. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
 - Decisão colegiada. Relator: Des. Doorgal Borges de Andrada. 4ª Câmara Criminal. Publicado em 23/08/2016.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Acesso da defesa às provas
 - Resumo: O acórdão foi omisso sobre os documentos juntados pela acusação nas contrarrazões sem vista à defesa. Embargos acolhidos para decretar a nulidade por cerceamento de defesa.
@@ -112,7 +125,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > - Embargos acolhidos para decretar a nulidade.
   > (TJMG, Embargos de Declaração Criminal n. 1.0134.09.129196-0/002, relator Desembargador Doorgal Borges de Andrada, 4ª Câmara Criminal, julgado em 17/8/2016, publicado em 23/8/2016.)
 
-## 347. RE nº 603.616 / RO (STF)
+## 348. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -128,7 +141,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 348. HC nº 341790 / PR (STJ)
+## 349. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -144,7 +157,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 349. HC nº 127.483 / PR (STF)
+## 350. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -165,32 +178,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Os princípios da segurança jurídica e da proteção da confiança tornam indeclinável o dever estatal de honrar o compromisso assumido no acordo de colaboração, concedendo a sanção premial estipulada, legítima contraprestação ao adimplemento da obrigação por parte do colaborador.
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
-
-## 350. Inq nº 4.130 QO / PR (STF)
-- Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
-- Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-4130-qo.pdf
-- Ementa oficial:
-  > Questão de ordem no inquérito. Processual Penal. Crimes relacionados ao Ministério do Planejamento, Orçamento e Gestão. Indícios de participação de Senadora da República em ilícito penal. Remessa dos autos ao Supremo Tribunal Federal. Desmembramento do feito em relação a investigados não detentores de prerrogativa de foro. Possibilidade. Inexistência de prejuízo para a causa. Precedentes. Prevenção de Ministro da Corte que supervisiona as investigações de crimes relacionados à Petrobras. Inexistência. Ausência de conexão entre os fatos reconhecida pela Presidência da Corte. Imbricação da matéria com o desmembramento do feito e seus consectários. Necessidade de seu exame para a determinação do juízo de primeiro grau competente para processar e julgar o feito desmembrado. Crimes de organização criminosa, lavagem de dinheiro, falsidade ideológica e corrupção passiva. Colaboração premiada. Delação de crimes não conexos com a investigação primária. Equiparação ao encontro fortuito de prova. Aplicação das regras de determinação, de modificação e de concentração da competência. Inexistência de prevenção, pelas mesmas razões, tanto de Ministro da Corte quanto de juízo de origem. Crimes que, em sua maioria, se consumaram em São Paulo. Circunstância que justifica a sua atração para a Seção Judiciária daquele estado. Ressalva quanto à posterior apuração de outras infrações conexas que, por força das regras do art. 78 do Código de Processo Penal, justifiquem conclusão diversa quanto ao foro competente. Remessa do feito desmembrado à Seção Judiciária de São Paulo para livre distribuição, independentemente da publicação do acórdão. Intangibilidade dos atos praticados na origem, tendo em vista a aplicação da teoria do juízo aparente. Precedente.
-  > 1. O Supremo Tribunal Federal assentou o entendimento de que o desmembramento do feito em relação a imputados que não possuam prerrogativa de foro deve ser a regra, diante da manifesta excepcionalidade da competência ratione muneris, ressalvadas as hipóteses em que a separação possa causar prejuízo relevante. Precedentes.
-  > 2. Ausente potencial e relevante prejuízo que justifique o simultaneus processus, impõe-se o desmembramento do inquérito em relação a todos os investigados que não detêm prerrogativa de foro, a fim de que a investigação prossiga perante a Suprema Corte tão somente em relação à Senadora da República.
-  > 3. A colaboração premiada, como meio de obtenção de prova, não constitui critério de determinação, de modificação ou de concentração de competência.
-  > 4. A competência para processar e julgar os crimes delatados pelo colaborador que não sejam conexos com os fatos objeto da investigação matriz dependerá do local em que consumados, de sua natureza e da condição das pessoas incriminadas (prerrogativa de foro).
-  > 5. Os elementos de informação trazidos pelo colaborador a respeito de crimes que não sejam conexos ao objeto da investigação primária devem receber o mesmo tratamento conferido à descoberta fortuita ou ao encontro fortuito de provas em outros meios de obtenção de prova, como a busca e apreensão e a interceptação telefônica.
-  > 6. A prevenção, essencialmente, não é um critério primário de determinação da competência, mas sim de sua concentração, razão por que, inicialmente, devem ser observadas as regras ordinárias de determinação da competência, tanto ratione loci (art. 70, CPP) quanto ratione materiae.
-  > 7. Nos casos de infrações conexas, praticadas em locais diversos, hão de ser observadas as regras de determinação do foro prevalente previstas no art. 78 do Código de Processo Penal, uma vez que a conexão e a continência importam em unidade de processo e julgamento.
-  > 8. A prevenção, nos termos do art. 78, II, c, do Código de Processo Penal, constitui critério residual de aferição da competência.
-  > 9. Não haverá prorrogação da competência do juiz processante - alargando-a para que conheça de uma causa para a qual, isoladamente, não seria competente -, se não estiverem presentes i) uma das hipóteses de conexão ou de continência (arts. 76 e 77, CPP) e ii) uma das hipóteses do art. 78, II, do Código de Processo Penal.
-  > 10. Como já decidido pelo Supremo Tribunal Federal, “a conexão intersubjetiva ou instrumental decorrente do simples encontro fortuito de prova que nada tem a ver com o objeto da investigação principal não tem o condão de impor o unum et idem judex”. Do mesmo modo, “o simples encontro fortuito de prova de infração que não possui relação com o objeto da investigação em andamento não enseja o simultaneus processus” (RHC nº 120.379/RO, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 24/10/14).
-  > 11. Ainda que o juízo de origem, com base nos depoimentos do imputado colaborador e nas provas por ele apresentadas, tenha decretado prisões cautelares e ordenado a quebra de sigilos bancário ou fiscal e a realização de busca e apreensão ou de interceptação telefônica, essas medidas, por si sós, não geram sua prevenção, com base no art. 83 do Código de Processo Penal, caso devam ser primariamente aplicadas as regras de competência do art. 70 do Código de Processo Penal (local da consumação) ou do art. 78, II, a ou b, do Código de Processo Penal (determinação do foro prevalente, no caso de conexão ou continência).
-  > 12. Os ilícitos em apuração nos procedimentos encaminhados pelo juízo da 13ª Vara da Seção Judiciária do Paraná se referem, dentre outros fatos, a repasses de valores por empresa prestadora de serviços de informática na gestão de empréstimos consignados de servidores federais, no âmbito do Ministério do Planejamento, Orçamento e Gestão, com a utilização, em tese, de notas fiscais falsas e de empresas de fachada.
-  > 13. Não há relação de dependência entre a apuração desses fatos e a investigação de fraudes e desvios de recursos no âmbito da Petrobras, a afastar a existência de conexão (art. 76, CPP) e de continência (art. 77, CPP) que pudessem ensejar o simultaneus processus, ainda que os esquemas fraudulentos possam eventualmente ter um operador comum e destinação semelhante (repasse de recursos a partido político ou candidato a cargo eletivo).
-  > 14. O fato de a polícia judiciária ou o Ministério Público Federal denominarem de “fases da operação Lava-jato” uma sequência de investigações sobre crimes diversos - ainda que sua gênese seja a obtenção de recursos escusos para a obtenção de vantagens pessoais e financiamento de partidos políticos ou candidaturas - não se sobrepõe às normas disciplinadoras da competência.
-  > 15. Nenhum órgão jurisdicional pode-se arvorar de juízo universal de todo e qualquer crime relacionado a desvio de verbas para fins político-partidários, à revelia das regras de competência.
-  > 16. A mesma razão (inexistência de conexão) que motivou o não reconhecimento da prevenção de Ministro da Suprema Corte que supervisiona a investigação de crimes relacionados à Petrobras estende-se ao juízo de primeiro grau.
-  > 17. Na determinação do foro prevalente, constata-se a existência de veementes indícios de que a suposta organização criminosa, ora investigada, estaria radicada em São Paulo, onde também teria sido emitida a maior parte das notas fiscais supostamente falsas e ocorrido a maior parte das movimentações e repasses de recursos, por meio de condutas que, em tese, poderiam tipificar crimes de lavagem de dinheiro.
-  > 18. Ademais, a denúncia já oferecida perante o Supremo Tribunal Federal pela Procuradoria-Geral da República, contra investigado não detentor de prerrogativa de foro, por infração ao art. 2º, § 1º, da Lei nº 12.850/13, descreve que esse crime se consumou em São Paulo (capital).
-  > 19. Considerando que o ilícito tipificado no art. 12.850/13 e a maior parte dos crimes de lavagem de dinheiro e de falsidade ideológica se consumaram em São Paulo, justifica-se a atração de todos eles para a Seção Judiciária do Estado de São Paulo, ressalvada a posterior apuração de outras infrações conexas que, por força das regras do art. 78 do Código de Processo Penal, justifiquem conclusão diversa quanto ao foro prevalente.
-  > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
-  > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)

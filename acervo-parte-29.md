@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 29 de 36 (decisões 281 a 290)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 353 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 354 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -98,7 +98,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 - Resumo: A polícia não pode pedir RIF diretamente ao COAF sem autorização judicial: o Tema 990/STF cobre só o envio espontâneo pelo COAF, e a encomenda é pescaria probatória que viola a reserva de jurisdição. AREsp do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2605530.pdf
 
-## 288. AgRg no REsp nº 2206947 / PR (STJ)
+## 288. REsp nº 2001973 / RS (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 16/09/2025.
+- Crime / Tema: Descaminho · Confissão espontânea · Dosimetria · Tema repetitivo
+- Resumo: Tema 1.194/STJ e revisão da Súmula 545/STJ: na redação de 2015, a confissão só atenuava a pena quando usada para formar o convencimento do julgador; na nova, de 2025, atenua (art. 65, III, d, do CP) independentemente disso, mesmo com outras provas, salvo retratação que não tenha servido à apuração dos fatos. Confissão parcial ou qualificada atenua em menor proporção e não prepondera sobre agravantes. Efeitos prejudiciais só para fatos posteriores ao acórdão. REsp da defesa parcialmente provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2001973.pdf
+- Ementa oficial:
+  > DIREITO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.194 DO STJ. CONFISSÃO ESPONTÂNEA. INFLUÊNCIA NA FORMAÇÃO DO CONVENCIMENTO DO JULGADOR. DESNECESSIDADE. RETRATAÇÃO. EFEITOS. CONFISSÃO PARCIAL E QUALIFICADA. PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO. TESES FIXADAS COM MODULAÇÃO DE EFEITOS.
+  > I. CASO EM EXAME
+  > 1. Recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região que rejeitou a aplicação da atenuante da confissão espontânea, prevista no art. 65, III, d, do Código Penal, sob o fundamento de que a confissão não foi utilizada na formação do convencimento do julgador, porque retratada.
+  > 2. O recorrente busca a redução da pena com base na aplicação da atenuante da confissão espontânea e a revisão do aumento de pena derivado dos maus antecedentes.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 3. Há duas questões em discussão: (i) saber se a confissão espontânea do réu não utilizada para a formação do convencimento do julgador ou para o desdobramento das investigações, bem como a confissão parcial ou qualificada, autoriza o reconhecimento da atenuante prevista no art. 65, III, d, do Código Penal, discussões objeto de recurso especial repetitivo; e (ii) saber se o aumento da pena em razão dos maus antecedentes foi aplicado de forma proporcional e razoável.
+  > III. RAZÕES DE DECIDIR
+  > 4. A confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a promover o abrandamento da pena independentemente de ter sido utilizada na formação do convencimento do julgador, desde que não tenha havido retratação ou, no caso de retratação, que a confissão tenha servido à apuração dos fatos.
+  > 5. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+  > 6. O aumento da pena em razão dos maus antecedentes deve observar os princípios da proporcionalidade e não obedece a critérios estritamente matemáticos, sendo possível uma elevação mais acentuada quando o agente apresentar múltiplos registros criminais.
+  > 7. Fixação de teses para o Tema n. 1.194 do STJ, conforme arts. 927, III, e 1.036 do Código de Processo Civil, com modulação de efeitos definida com fundamento no § 3º do art. 927 do mesmo diploma legal.
+  > IV. DISPOSITIVO E TESE
+  > 8. Resultado do Julgamento: Recurso parcialmente provido para aplicar a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, fixando a pena definitiva em 1 ano e 7 meses de reclusão. Teses fixadas para o Tema n. 1.194 com modulação de efeitos.
+  > Teses do Tema n. 1.194 do STJ:
+  > 1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos.
+  > 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+  > (REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
+
+## 289. AgRg no REsp nº 2206947 / PR (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/09/2025.
 - Crime / Tema: Infanticídio · Homicídio · Pronúncia
 - Resumo: Desclassificação para homicídio culposo mantida: o estado puerperal ficou provado, mas não o dolo (demora de cerca de 3 horas para levar o bebê ao hospital). Não existe infanticídio culposo (art. 18, parágrafo único, do CP), e o dolo deve ser examinado já na pronúncia. Rever isso esbarra na Súmula 7.
@@ -118,14 +142,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: "1. É inviável o reexame de fatos e provas em recurso especial".
   > (AgRg no REsp n. 2.206.947/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.)
 
-## 289. REsp nº 2195682 / SP (STJ)
+## 290. REsp nº 2195682 / SP (STJ)
 - Decisão monocrática. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 29/08/2025.
 - Crime / Tema: Lavagem de dinheiro · RIF
 - Resumo: RIFs enviados pelo COAF a pedido da polícia, sem autorização judicial, são nulos e devem sair dos autos com as provas deles derivadas; o juiz deve reavaliar o sequestro de bens à luz do que restar. REsp da defesa parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2195682.pdf
-
-## 290. RHC nº 221603 / RS (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/08/2025.
-- Crime / Tema: RIF
-- Resumo: O Tema 990/STF não autoriza a requisição direta de dados financeiros pela polícia sem ordem judicial. RIF pedido pela autoridade policial em verificação preliminar declarado ilícito e desentranhado, com as provas derivadas (TRF4).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-221603.pdf
