@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 1 de 38 (decisões 1 a 10)
+# Acervo de Jurisprudência — Cury Advogados — parte 1 de 39 (decisões 1 a 10)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -100,7 +100,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 - Resumo: Para multirreincidente condenado a pena baixíssima, inferior a quatro anos, o regime fechado é excessivo no caso concreto. Fixado o semiaberto, sem prejuízo de agravamento na unificação de penas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279244.pdf
 
-## 8. REsp nº 2257858 / GO (STJ)
+## 8. HC nº 1129246 / MS (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
+- Crime / Tema: Organização criminosa · Dosimetria
+- Resumo: A função de batedor, já usada para demonstrar a integração à organização criminosa, não sustenta a culpabilidade negativa sem circunstância concreta e individualizada. HC não conhecido; ordem de ofício: pena de 3 anos, 7 meses e 15 dias e 53 dias-multa; mantidos a condenação e o semiaberto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129246.pdf
+
+## 9. REsp nº 2257858 / GO (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Estupro de vulnerável · Revisão criminal
 - Resumo: Na justificação criminal, o áudio atribuído à vítima pode ser apurado por perícia e oitiva de terceiros, sem exigir retratação; a vítima só é ouvida se consentir e só sobre o áudio. Recurso do MP desprovido.
@@ -116,7 +122,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Recurso especial improvido.
   > (REsp n. 2.257.858/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
 
-## 9. REsp nº 2259915 / RS (STJ)
+## 10. REsp nº 2259915 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Ato infracional (ECA) · Prescrição
 - Resumo: Liberdade assistida com prazo certo prescreve pela medida fixada, com a redução legal, e não pelo limite de três anos (arts. 109, VI, e 115 do CP). Recurso provido.
@@ -128,16 +134,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. No caso, a liberdade assistida foi estipulada por seis meses, impondo o reconhecimento da prescrição pelo transcurso de um ano e seis meses, em conformidade com o entendimento consolidado e com o parecer ministerial.
   > 4. Recurso especial provido para reconhecer a prescrição da pretensão punitiva da liberdade assistida.
   > (REsp n. 2.259.915/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
-
-## 10. REsp nº 2241472 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
-- Crime / Tema: Vias de fato · Violência doméstica
-- Resumo: Nas contravenções, fixar o sursis acima do mínimo exige motivação concreta (art. 11 da LCP). Recurso provido para fixar um ano; condenação mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2241472.pdf
-- Ementa oficial:
-  > DIREITO PENAL E DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. CONTRAVENÇÃO PENAL DE VIAS DE FATO. SUSPENSÃO CONDICIONAL DA PENA. PRAZO DO SURSIS. NORMA ESPECIAL. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA PARA FIXAÇÃO ACIMA DO MÍNIMO.
-  > 1. A suspensão condicional da pena nas contravenções penais observa regra específica quanto ao prazo, devendo a escolha dentro do intervalo legal ser motivada de forma idônea pelas circunstâncias do caso.
-  > 2. A elevação do período de prova acima do mínimo legal exige fundamentação concreta, baseada em elementos objetivos do caso, não bastando a afirmação genérica de compatibilidade com parâmetros legais.
-  > 3. No caso, a decisão fixou pena no mínimo e reconheceu circunstâncias favoráveis, mas estabeleceu a suspensão por dois anos sem justificar, de modo concreto, as razões para superar o prazo mínimo.
-  > 4. Recurso especial provido para fixar o sursis pelo prazo de 1 ano, em condições que serão oportunamente estabelecidas pelo juízo competente para execução.
-  > (REsp n. 2.241.472/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)

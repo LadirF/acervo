@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 19 de 38 (decisões 181 a 190)
+# Acervo de Jurisprudência — Cury Advogados — parte 19 de 39 (decisões 181 a 190)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,19 +8,56 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 181. HC nº 277.643 / MA (STF)
+## 181. AgRg no HC nº 1117308 / GO (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Estupro de vulnerável · Dosimetria · Continuidade delitiva · Cabimento do HC
+- Resumo: Culpabilidade e motivo valorados com elementos genéricos do tipo não elevam a pena-base; já abuso de confiança e dano psíquico à vítima de tenra idade elevam. Fração de 1/3 pela continuidade mantida (Súmula 659/STJ). Teses não examinadas na origem esbarram em supressão de instância e reiteração. Pena redimensionada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1117308.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE WRIT. DOSIMETRIA. CONTINUIDADE DELITIVA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+  > I. Caso em exame
+  > 1. O agravo regimental. Agravo regimental interposto contra decisão que não conheceu do habeas corpus e manteve o indeferimento da liminar, sob os fundamentos de supressão de instância e reiteração de pedidos em writs anteriores.
+  > 2. Fatos relevantes. A Agravante sustenta: (i) nulidade decorrente do encerramento da instrução sem o interrogatório do réu, realizado tardiamente por videoconferência e por magistrado diverso; (ii) ilicitude do relatório do CREAS por quebra de sigilo profissional (CF, art. 5º, LVI; CPP, arts. 157 e 207); (iii) absolvição por insuficiência probatória (CPP, art. 386, VII), diante de laudo oficial reputado exculpatório; e (iv) redução da fração de continuidade delitiva ao mínimo de 1/6, em consonância com a Súmula 659/STJ e o Tema Repetitivo 1.202/STJ. A decisão agravada apontou reiteração de pedidos e supressão de instância quanto às teses não apreciadas nas instâncias ordinárias.
+  > 3. Decisões anteriores. O Tribunal de origem, em revisão criminal, apreciou a natureza jurídica do relatório do CREAS (elemento informativo não submetido às exigências do art. 159 do CPP), sem enfrentar a tese de ilicitude por quebra de sigilo profissional. Identificou-se, ainda, violação ao princípio da unirrecorribilidade por reiteração de habeas corpus com identidade de partes, pedido e causa de pedir, e registro de que a discussão sobre interrogatório tardio não foi previamente submetida nem decidida pelas instâncias ordinárias.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em: (i) saber se o conhecimento das teses relativas ao interrogatório tardio e à licitude do relatório do CREAS é obstado por supressão de instância, por ausência de prévio enfrentamento pelas instâncias ordinárias; (ii) saber se a reiteração de writ afronta ao princípio da unirrecorribilidade, impedindo o conhecimento do habeas corpus; e (iii) saber se a dosimetria deve ser corrigida (pena-base, circunstâncias judiciais e fração de continuidade delitiva), com eventual redimensionamento da pena.
+  > III. Razões de decidir
+  > 5. Configura-se supressão de instância quanto às teses não previamente apreciadas pelas instâncias ordinárias (interrogatório tardio e licitude do relatório do CREAS), inviabilizando conhecimento originário nesta Corte (CF/1988, art. 105).
+  > 6. Constatada a identidade de partes, pedido e causa de pedir com habeas corpus anteriormente distribuído, incide o princípio da unirrecorribilidade, obstando o processamento de reiteração de writ e de seus recursos nesta Corte.
+  > 7. Verifica-se erro material na dosimetria originária; a pena-base não estava no mínimo legal. A valoração negativa de culpabilidade e motivo baseada em elementos genéricos do tipo penal é indevida e não autoriza exasperação.
+  > 8. As circunstâncias e consequências do crime, concretamente fundamentadas no abuso de confiança e na tenra idade da vítima com danos psíquicos e emocionais, extrapolam as elementares do tipo e legitimam exasperação da pena-base.
+  > 9. Mantém-se a fração de 1/3 pela continuidade delitiva, inexistindo flagrante ilegalidade, à luz do critério objetivo de gradação consolidado (Súmula 659/STJ; Tema Repetitivo 1.202/ STJ), sendo possível, em hipóteses de longa duração e recorrência, fração superior.
+  > 10. O pedido de absolvição por insuficiência probatória não comporta exame em habeas corpus quando demanda revolvimento do conjunto fático-probatório, além de se identificar reiteração da causa de pedir em writ anterior.
+  > 11. Redimensiona-se a pena, mantendo duas circunstâncias desfavoráveis (circunstâncias e consequências), fixando a pena-base em 8 anos, 1 mês e 15 dias, e, com a continuidade delitiva na fração de 1/3, a pena definitiva em 10 anos e 10 meses de reclusão, preservado o regime inicial.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para redimensionar a pena para 10 anos e 10 meses de reclusão, preservado o regime inicial, mantendo-se o não conhecimento dos demais pontos por supressão de instância e reiteração de pedidos.
+  > (AgRg no HC n. 1.117.308/GO, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
+
+## 182. Rp nº 1001943-80.2026.8.26.0048 (TJSP)
+- Sentença. Juiz de Direito: Leonardo Marzola Colombini. 3ª Vara Criminal de Atibaia. Publicado em 07/10/2026.
+- Crime / Tema: Crimes contra a honra · Prova digital
+- Resumo: Crimes contra a honra exigem dolo específico de ofender. Postagens sarcásticas criticando a nomeação e o salário de servidora comissionada (animus criticandi, com dados do Portal da Transparência) e excessos de linguagem em mensagens privadas, no calor de desavenças antigas, não são crime: a reparação é na esfera cível. Prova digital por ata notarial com hash e blockchain validada. Querelada absolvida (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rp-1001943-80-2026.pdf
+
+## 183. HC nº 276.485 / RS (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 06/10/2026.
+- Crime / Tema: Homicídio qualificado · Corrupção de menores · Dosimetria
+- Resumo: Atos infracionais não servem para valorar negativamente a conduta social na pena-base. Ordem parcialmente concedida para redimensionar a pena.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276485.pdf
+
+## 184. HC nº 277.643 / MA (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 06/10/2026.
 - Crime / Tema: Telecomunicação clandestina · Princípio da insignificância
 - Resumo: Rádio comunitária sem prova de interferência efetiva nos serviços de telecomunicação pode ser materialmente insignificante (art. 183 da Lei 9.472/1997). Ordem concedida; absolvição restabelecida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277643.pdf
 
-## 182. AREsp nº 3363707 / DF (STJ)
+## 185. AREsp nº 3363707 / DF (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Estelionato · Manipulação de resultado esportivo
 - Resumo: A omissão do TJ sobre teses da defesa nos embargos de declaração exige novo julgamento. Acórdão dos embargos cassado; REsp provido em parte.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3363707.pdf
 
-## 183. AgRg no AgRg no HC nº 1089351 / BA (STJ)
+## 186. AgRg no AgRg no HC nº 1089351 / BA (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: A pronúncia não pode se apoiar só em elementos do inquérito não confirmados em juízo (art. 155 do CPP), e o in dubio pro societate não supre a falta de indícios suficientes de autoria (art. 413). Impronúncia restabelecida por HC de ofício; agravo do MP desprovido.
@@ -46,7 +83,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Ausentes indícios suficientes de autoria confirmados em juízo, deve ser proferida a impronúncia, nos termos do art. 414 do CPP.
   > (AgRg no AgRg no HC n. 1.089.351/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 184. AgRg no AREsp nº 2854199 / TO (STJ)
+## 187. AgRg no AREsp nº 2854199 / TO (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Estupro de vulnerável
 - Resumo: O erro de tipo quanto à idade da vítima exclui o dolo do estupro de vulnerável. A irrelevância do consentimento (Súmula 593 e Tema 918/STJ) não impede discutir se o agente sabia que ela tinha menos de 14 anos. A absolvição do TJTO, baseada em mentira sobre a idade e aparente maturidade, não se revê em REsp (Súmula 7); agravo do MP desprovido.
@@ -60,7 +97,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental improvido.
   > (AgRg no AREsp n. 2.854.199/TO, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 185. AgRg no HC nº 1118254 / SP (STJ)
+## 188. AgRg no HC nº 1118254 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Mãe de filhos menores de 12 anos tem direito à domiciliar no lugar da preventiva (arts. 318, V, e 318-A do CPP). O cuidado materno é presumido, e o tráfico interestadual sem violência não é situação excepcionalíssima. Substituição condicionada à indicação de endereço no Brasil; agravo do MP desprovido.
@@ -76,7 +113,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Agravo regimental não provido
   > (AgRg no HC n. 1.118.254/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 186. AgRg no AgRg no HC nº 1099318 / RS (STJ)
+## 189. AgRg no AgRg no HC nº 1099318 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: O monitoramento eletrônico no regime aberto ou domiciliar é possível (arts. 115, 116 e 146-B, IV, da LEP), mas exige motivação concreta e proporcional. A referência genérica à situação do sistema prisional não basta para impô-lo contra a decisão individualizada do juízo da execução; agravo do MPF desprovido.
@@ -89,7 +126,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental improvido.
   > (AgRg no AgRg no HC n. 1.099.318/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 187. AgRg no HC nº 1055445 / SP (STJ)
+## 190. AgRg no HC nº 1055445 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Para negar a progressão (art. 112 da LEP), o juiz precisa apontar fato concreto da execução que mostre falta de aptidão subjetiva; gravidade do crime e pena longa não servem. O juízo repetiu, agora para negar o benefício, os fundamentos que o STJ já tinha rejeitado para exigir exame criminológico (HC 1.034.654/SP). Constrangimento ilegal; agravo do MP desprovido.
@@ -102,40 +139,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Reiterado o vício já reconhecido por esta Corte Superior, evidencia-se o constrangimento ilegal.
   > 5. Agravo regimental não provido.
   > (AgRg no HC n. 1.055.445/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
-
-## 188. AgRg no HC nº 1056515 / SP (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
-- Crime / Tema: Estupro de vulnerável · Dosimetria · Cabimento do HC
-- Resumo: HC não substitui revisão criminal. Mas regime fechado fixado só pela gravidade abstrata do crime viola as Súmulas 440/STJ e 718 e 719/STF. Réus primários, com pena-base no mínimo: regime semiaberto concedido de ofício (art. 33, § 2º, b, do CP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1056515.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE NÃO VERIFICADA. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. ESTUPRO DE VULNERÁVEL. REGIME FECHADO. CONSTRANGIMENTO ILEGAL. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO IMPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
-  > 1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
-  > 2. Existência de ilegalidade flagrante que permite a concessão da ordem de ofício, pois o regime inicial fechado foi estabelecido com amparo na gravidade abstrata do delito, sem que fossem apresentados fundamentos jurídicos capazes de justificar o recrudescimento do modo prisional, em contrariedade ao disposto nas Súmulas n. 440 do STJ e 718 e 719 do STF.
-  > 3. Diante da quantidade de pena aplicada e considerando que os recorrentes são primários e todas as circunstâncias judiciais do art. 59 do Código Penal foram valoradas positivamente, estando a pena-base no mínimo legal, deve ser fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
-  > 4. Agravo regimental improvido. Ordem concedida de ofício para alterar o regime de cumprimento de pena para o semiaberto.
-  > (AgRg no HC n. 1.056.515/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
-
-## 189. AgRg no HC nº 1060844 / SP (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: Cabe remição pela aprovação no ENCCEJA mesmo se o preso já tinha o certificado do mesmo nível ao entrar no sistema: a aprovação é esforço educacional autônomo (Tema 1.357/STJ). Ordem de ofício mantida; agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1060844.pdf
-- Ementa oficial:
-  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. WRIT SUBSTITUTIVO DE RECURSO. FLAGRANTE ILEGALIDADE. ORDEM CONCEDIDA DE OFÍCIO. REMIÇÃO DE PENA. ENCCEJA. APENADO QUE JÁ POSSUÍA CERTIFICAÇÃO DE CONCLUSÃO DE ENSINO FUNDAMENTAL. POSSIBILIDADE. AGRAVO IMPROVIDO.
-  > 1. É pacífica a jurisprudência do Superior Tribunal de Justiça quanto à possibilidade de concessão de habeas corpus de ofício quando substitutivo de recurso, no caso de ser constatada ilegalidade flagrante, como é o caso.
-  > 2. No julgamento do Tema Repetitivo n. 1.357, a Terceira Seção do STJ, entre outros entendimentos, firmou a tese no sentido de que "[é] cabível a remição da pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), ainda que o sentenciado já possuísse, ao ingressar no sistema prisional, certificação de conclusão do mesmo nível de ensino avaliado, pois a aprovação no exame durante o cumprimento da pena configura esforço educacional autônomo apto a justificar a remição".
-  > 3. Agravo regimental improvido.
-  > (AgRg no HC n. 1.060.844/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
-
-## 190. AgRg no PExt no RHC nº 219617 / RS (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Agravo regimental não serve para impugnar acórdão colegiado. De ofício, foi flexibilizada a cautelar que proibia a ré, primária, de visitar o companheiro preso, porque a medida já durava mais de um ano. Ela pode levar o filho de 2 anos para ver o pai, com agendamento e acompanhamento de assistente social (proporcionalidade e vínculos familiares).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-219617.pdf
-- Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM RECURSO EM HABEAS CORPUS. INADEQUAÇÃO RECURSAL. AUSÊNCIA DE PREVISÃO LEGAL E REGIMENTAL PARA IMPUGNAR ACÓRDÃO COLEGIADO. DIREITO DE VISITA. PRESERVAÇÃO DE VÍNCULOS FAMILIARES. PRINCÍPIO DA PROPORCIONALIDADE. FLEXIBILIZAÇÃO DE MEDIDA CAUTELAR, COM CONDIÇÕES.
-  > 1. O agravo regimental não é meio idôneo para impugnar acórdão proferido por órgão colegiado, ante a falta de previsão legal e regimental, consoante a jurisprudência desta Corte.
-  > 2. É possível a concessão de ordem de ofício, considerados o direito de visita e a preservação dos vínculos familiares da recorrente com o companheiro recolhido ao estabelecimento prisional, em especial para viabilizar o convívio do filho menor, observados critérios de necessidade e proporcionalidade.
-  > 3. Agravo regimental não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
-  > (AgRg no PExt no RHC n. 219.617/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)

@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 2 de 38 (decisões 11 a 20)
+# Acervo de Jurisprudência — Cury Advogados — parte 2 de 39 (decisões 11 a 20)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,13 +8,26 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 11. REsp nº 2289130 / SP (STJ)
+## 11. REsp nº 2241472 / MG (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
+- Crime / Tema: Vias de fato · Violência doméstica
+- Resumo: Nas contravenções, fixar o sursis acima do mínimo exige motivação concreta (art. 11 da LCP). Recurso provido para fixar um ano; condenação mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2241472.pdf
+- Ementa oficial:
+  > DIREITO PENAL E DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. CONTRAVENÇÃO PENAL DE VIAS DE FATO. SUSPENSÃO CONDICIONAL DA PENA. PRAZO DO SURSIS. NORMA ESPECIAL. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA PARA FIXAÇÃO ACIMA DO MÍNIMO.
+  > 1. A suspensão condicional da pena nas contravenções penais observa regra específica quanto ao prazo, devendo a escolha dentro do intervalo legal ser motivada de forma idônea pelas circunstâncias do caso.
+  > 2. A elevação do período de prova acima do mínimo legal exige fundamentação concreta, baseada em elementos objetivos do caso, não bastando a afirmação genérica de compatibilidade com parâmetros legais.
+  > 3. No caso, a decisão fixou pena no mínimo e reconheceu circunstâncias favoráveis, mas estabeleceu a suspensão por dois anos sem justificar, de modo concreto, as razões para superar o prazo mínimo.
+  > 4. Recurso especial provido para fixar o sursis pelo prazo de 1 ano, em condições que serão oportunamente estabelecidas pelo juízo competente para execução.
+  > (REsp n. 2.241.472/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
+
+## 12. REsp nº 2289130 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Roubo · Confissão espontânea · Dosimetria
 - Resumo: Na multirreincidência, a confissão se compensa de forma proporcional, não integral (arts. 65, III, d, e 67 do CP; Tema 585/STJ). Recurso provido; pena reduzida e regime fechado mantido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2289130.pdf
 
-## 12. ARE nº 1.619.064 / PR (STF)
+## 13. ARE nº 1.619.064 / PR (STF)
 - Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Luiz Fux. Segunda Turma. Publicado em 05/11/2026.
 - Crime / Tema: Tráfico internacional de arma de fogo · Execução penal
 - Resumo: A hediondez que afasta benefício na execução se afere pela lei da data do fato, não pela do decreto. ARE provido para reanalisar o indulto.
@@ -33,72 +46,44 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Recurso provido.
   > (STF, ARE n. 1.619.064/PR, relator Ministro André Mendonça, redator do acórdão Ministro Luiz Fux, Segunda Turma, julgado em 19/10/2026, DJe de 5/11/2026.)
 
-## 13. ARE nº 1.315.025 / ES (STF)
+## 14. ARE nº 1.315.025 / ES (STF)
 - Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 05/11/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Negado seguimento ao agravo do MP contra acórdão que anulou o júri por qualificadora (art. 121, § 2º, IV, do CP) contrária à prova: sem repercussão geral demonstrada, ofensa reflexa e Súmula 279/STF. Anulação mantida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1315025.pdf
 
-## 14. HC nº 278.460 / SP (STF)
+## 15. HC nº 278.460 / SP (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 05/11/2026.
 - Crime / Tema: Homicídio qualificado · Ocultação de cadáver · Continuidade delitiva
 - Resumo: A continuidade específica do art. 71, parágrafo único, do CP não alcança a ocultação de cadáver, sem violência à pessoa; aplica-se a comum. Ordem parcial, mantida a dosimetria dos homicídios.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278460.pdf
 
-## 15. HC nº 278.718 / PR (STF)
+## 16. HC nº 278.718 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Descaminho
 - Resumo: A prestação pecuniária pode ser parcelada se comprovada a dificuldade financeira, a ser apurada pelo juízo; a redução do valor não foi acolhida. Ordem parcial.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278718.pdf
 
-## 16. RHC nº 278.722 / AL (STF)
+## 17. RHC nº 278.722 / AL (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: Reiteração ou antecedentes não afastam, por si sós, a insignificância: furto de alimentos e guloseimas de valor irrisório, sem violência e com restituição integral, é atípico. Paciente absolvida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278722.pdf
 
-## 17. HC nº 279.064 / SP (STF)
+## 18. HC nº 279.064 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
 - Resumo: A preventiva é, em regra, incompatível com o regime semiaberto ou aberto fixado na sentença, salvo crime com violência ou grave ameaça. Prisão revogada, com cautelares do art. 319 do CPP. Ordem de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279064.pdf
 
-## 18. HC nº 278.903 / SP (STF)
+## 19. HC nº 278.903 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Porte ilegal de arma de fogo
 - Resumo: A reincidência, por si só, não impede a substituição por restritivas ao reincidente não específico (art. 44, § 3º, do CP), e o juízo deve avaliá-la fundamentadamente. Ordem parcial, de ofício; mantido o semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278903.pdf
 
-## 19. HC nº 278.451 / SP (STF)
+## 20. HC nº 278.451 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Quantidade e natureza da droga, dinheiro e mensagens sobre "produto não especificado" não bastam, por si sós, para provar dedicação ao crime e afastar o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Ordem de ofício para aplicar o redutor, em fração motivada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278451.pdf
-
-## 20. AgRg no HC nº 1029565 / ES (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik; redator do acórdão: Min. Messod Azulay Neto. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Corrupção passiva · Quebra da cadeia de custódia · Prova digital
-- Resumo: A senha surgida no celular e a falta de lacre durante a custódia estatal tornam imprestável a prova digital extraída em outro processo e usada contra terceiro, pois a perícia não pode mais ser repetida sob contraditório; o ônus de provar a integridade é do Estado, e o hash da extração original não supre a falha posterior (art. 158 do CPP). Agravo parcialmente provido por maioria; ordem concedida para vedar o uso da prova.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1029565.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PROVA DIGITAL. CADEIA DE CUSTÓDIA. BLOQUEIO POR SENHA SUPERVENIENTE E AUSÊNCIA DE LACRE. IMPOSSIBILIDADE DE REPETIÇÃO DA PERÍCIA. ÔNUS DO ESTADO SOBRE INTEGRIDADE E CONFIABILIDADE DA PROVA. IMPRESTABILIDADE PROBATÓRIA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. ORDEM CONCEDIDA.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto em habeas corpus, impugnando decisão monocrática que denegou a ordem e revogou liminar, em ação penal que apura, em tese, corrupção passiva majorada (art. 317, caput e § 1º, c/c arts. 29 e 71 do Código Penal), com denúncia lastreada em dados telemáticos extraídos, em processo diverso e sem a participação do paciente, de aparelho celular de corréu.
-  > 2. Fato relevante. Em decisão colegiada, foi determinada nova perícia com a possibilidade de apresentação de quesitos pelas partes. O Laudo Pericial n. 18.500/2023 registrou, no entanto, bloqueio por senha no dispositivo, inviabilizando nova extração do conteúdo. Consta divergência documental quanto à conservação do vestígio: laudo anterior registrou devolução em sacola lacrada com número específico, enquanto o novo exame encontrou apenas fita adesiva e grampeamento, sem lacre formal.
-  > 3. As decisões anteriores. Órgão julgador estadual rejeitou nulidade por suposta quebra da cadeia de custódia, sob fundamento de licitude da extração originária (mandado judicial, peritos oficiais e certificação por hash). Na via do habeas corpus, decisão monocrática entendeu inexistente adulteração efetiva e reputou eventual falha superveniente insuficiente para contaminar a prova, apontando acervo probatório autônomo. A defesa agravou buscando reconhecer a inadmissibilidade ou, sucessivamente, a imprestabilidade da prova digital e o cerceamento de defesa pelo impedimento de contraprova técnica.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se a impossibilidade de repetição da perícia, decorrente do aparecimento de senha no aparelho durante a custódia estatal e da ausência de lacre formal, justifica o reconhecimento de quebra da cadeia de custódia e a consequente imprestabilidade da prova digital para a ação penal em curso; e (ii) saber se a impossibilidade de nova extração impõe ao Estado o ônus de afirmar e demonstrar a integralidade, identidade e confiabilidade da prova, afastando a presunção de veracidade quando descumpridos procedimentos de conservação do vestígio.
-  > III. Razões de decidir
-  > 5. A superveniência de bloqueio por senha enquanto o aparelho permaneceu sob custódia estatal e a ausência de lacre formal rompem a mesmidade do vestígio, geram desconfiança epistêmica e comprometem a autenticidade e a comparabilidade do conteúdo, inviabilizando o contraditório técnico na reprodução da prova.
-  > 6. A conservação do corpo de delito é dever estatal contínuo; a divergência documental entre o lacre certificado no laudo originário e o estado do aparelho no novo exame evidencia inobservância da preservação adequada, o que afasta a confiabilidade da prova digital para fins de persecução penal contra terceiro não participante da relação processual originária.
-  > 7. Diante da irrepetibilidade criada pela própria custódia estatal, não se pode exigir da defesa demonstração específica de adulteração do conteúdo; o ônus de comprovar integridade e confiabilidade das fontes de prova apresentadas recai sobre o Estado.
-  > 8. A certificação por hash na extração originária atesta apenas a correspondência naquele momento histórico específico e, portanto, não elide incertezas supervenientes nem substitui a necessidade de repetição em atenção ao contraditório efetivo de quem não fez parte da relação jurídica que deu causa à descoberta fortuita; a irrepetibilidade esvazia o valor probatório do conteúdo para a ação penal decorrente da descoberta de indícios na perícia originária de outro delito.
-  > 9. Na via do habeas corpus, não se examina a suficiência do acervo probatório autônomo remanescente, limitando-se ao reconhecimento da imprestabilidade da prova digital impugnada e dos efeitos correlatos sobre o contraditório e a ampla defesa.
-  > IV. Dispositivo e tese
-  > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para reconhecer a imprestabilidade da prova digital extraída do aparelho celular e conceder a ordem, vedando sua utilização na ação penal decorrente da descoberta fortuita.
-  > Tese de julgamento:
-  > 1. O Estado deve conservar, com integridade, identidade e autenticidade, vestígios sob sua custódia; a inobservância dessa preservação compromete a confiabilidade e impede o uso da prova na persecução penal.
-  > 2. A impossibilidade de repetição da perícia, ocasionada por bloqueio por senha superveniente e ausência de lacre, torna imprestável a prova digital para acusação contra terceiro e impede o contraditório técnico efetivo.
-  > 3. O ônus de comprovar a integridade e a confiabilidade das fontes de prova apresentadas recai sobre o Estado, especialmente quando descumpridos procedimentos de cadeia de custódia.
-  > 4. A certificação por hash na extração originária não supre falhas posteriores de custódia nem afasta dúvidas sobre autenticidade e comparabilidade do conteúdo em contexto diverso.
-  > (AgRg no HC n. 1.029.565/ES, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/10/2026, DJEN de 4/11/2026.)

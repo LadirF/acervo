@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 20 de 38 (decisões 191 a 200)
+# Acervo de Jurisprudência — Cury Advogados — parte 20 de 39 (decisões 191 a 200)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,44 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 191. REsp nº 2245812 / MG (STJ)
+## 191. AgRg no HC nº 1056515 / SP (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
+- Crime / Tema: Estupro de vulnerável · Dosimetria · Cabimento do HC
+- Resumo: HC não substitui revisão criminal. Mas regime fechado fixado só pela gravidade abstrata do crime viola as Súmulas 440/STJ e 718 e 719/STF. Réus primários, com pena-base no mínimo: regime semiaberto concedido de ofício (art. 33, § 2º, b, do CP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1056515.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE NÃO VERIFICADA. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. ESTUPRO DE VULNERÁVEL. REGIME FECHADO. CONSTRANGIMENTO ILEGAL. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO IMPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+  > 1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+  > 2. Existência de ilegalidade flagrante que permite a concessão da ordem de ofício, pois o regime inicial fechado foi estabelecido com amparo na gravidade abstrata do delito, sem que fossem apresentados fundamentos jurídicos capazes de justificar o recrudescimento do modo prisional, em contrariedade ao disposto nas Súmulas n. 440 do STJ e 718 e 719 do STF.
+  > 3. Diante da quantidade de pena aplicada e considerando que os recorrentes são primários e todas as circunstâncias judiciais do art. 59 do Código Penal foram valoradas positivamente, estando a pena-base no mínimo legal, deve ser fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+  > 4. Agravo regimental improvido. Ordem concedida de ofício para alterar o regime de cumprimento de pena para o semiaberto.
+  > (AgRg no HC n. 1.056.515/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
+
+## 192. AgRg no HC nº 1060844 / SP (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: Cabe remição pela aprovação no ENCCEJA mesmo se o preso já tinha o certificado do mesmo nível ao entrar no sistema: a aprovação é esforço educacional autônomo (Tema 1.357/STJ). Ordem de ofício mantida; agravo do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1060844.pdf
+- Ementa oficial:
+  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. WRIT SUBSTITUTIVO DE RECURSO. FLAGRANTE ILEGALIDADE. ORDEM CONCEDIDA DE OFÍCIO. REMIÇÃO DE PENA. ENCCEJA. APENADO QUE JÁ POSSUÍA CERTIFICAÇÃO DE CONCLUSÃO DE ENSINO FUNDAMENTAL. POSSIBILIDADE. AGRAVO IMPROVIDO.
+  > 1. É pacífica a jurisprudência do Superior Tribunal de Justiça quanto à possibilidade de concessão de habeas corpus de ofício quando substitutivo de recurso, no caso de ser constatada ilegalidade flagrante, como é o caso.
+  > 2. No julgamento do Tema Repetitivo n. 1.357, a Terceira Seção do STJ, entre outros entendimentos, firmou a tese no sentido de que "[é] cabível a remição da pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), ainda que o sentenciado já possuísse, ao ingressar no sistema prisional, certificação de conclusão do mesmo nível de ensino avaliado, pois a aprovação no exame durante o cumprimento da pena configura esforço educacional autônomo apto a justificar a remição".
+  > 3. Agravo regimental improvido.
+  > (AgRg no HC n. 1.060.844/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
+
+## 193. AgRg no PExt no RHC nº 219617 / RS (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
+- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
+- Resumo: Agravo regimental não serve para impugnar acórdão colegiado. De ofício, foi flexibilizada a cautelar que proibia a ré, primária, de visitar o companheiro preso, porque a medida já durava mais de um ano. Ela pode levar o filho de 2 anos para ver o pai, com agendamento e acompanhamento de assistente social (proporcionalidade e vínculos familiares).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-219617.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM RECURSO EM HABEAS CORPUS. INADEQUAÇÃO RECURSAL. AUSÊNCIA DE PREVISÃO LEGAL E REGIMENTAL PARA IMPUGNAR ACÓRDÃO COLEGIADO. DIREITO DE VISITA. PRESERVAÇÃO DE VÍNCULOS FAMILIARES. PRINCÍPIO DA PROPORCIONALIDADE. FLEXIBILIZAÇÃO DE MEDIDA CAUTELAR, COM CONDIÇÕES.
+  > 1. O agravo regimental não é meio idôneo para impugnar acórdão proferido por órgão colegiado, ante a falta de previsão legal e regimental, consoante a jurisprudência desta Corte.
+  > 2. É possível a concessão de ordem de ofício, considerados o direito de visita e a preservação dos vínculos familiares da recorrente com o companheiro recolhido ao estabelecimento prisional, em especial para viabilizar o convívio do filho menor, observados critérios de necessidade e proporcionalidade.
+  > 3. Agravo regimental não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
+  > (AgRg no PExt no RHC n. 219.617/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
+
+## 194. REsp nº 2245812 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital
 - Resumo: Policial que atende ligação no celular do abordado, sem consentimento nem ordem judicial, produz prova ilícita. A apreensão posterior de 54,27 g de cocaína com o adolescente que ligou deriva disso, sem fonte independente nem descoberta inevitável. Condenação anulada.
@@ -22,25 +59,25 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso especial provido.
   > (REsp n. 2.245.812/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 192. HC nº 1134665 / SP (STJ)
+## 195. HC nº 1134665 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Homicídio qualificado · Execução penal
 - Resumo: A lei não exige passagem pelo regime semiaberto para o livramento condicional (art. 83 do CP). Negar o benefício para "observar" o condenado no regime intermediário cria requisito que a lei não prevê. Ordem concedida para o juízo da execução reapreciar o pedido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134665.pdf
 
-## 193. RHC nº 277.840 / SC (STF)
+## 196. RHC nº 277.840 / SC (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 05/10/2026.
 - Crime / Tema: Furto
 - Resumo: Reincidência e habitualidade, sozinhas, não justificam regime mais gravoso do que o proporcional à pena e às circunstâncias judiciais. Fixado o regime inicial aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277840.pdf
 
-## 194. REsp nº 2291906 / SP (STJ)
+## 197. REsp nº 2291906 / SP (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Contrabando · Dosimetria
 - Resumo: Contrabando cometido em abril de 2014, antes da Lei 13.008/2014 (que criou o art. 334-A, com pena de 2 a 5 anos), segue a pena do antigo art. 334 do CP (1 a 4 anos): a lei mais grave não retroage. Pena reduzida de 2 para 1 ano; sursis processual negado por condenação anterior.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2291906.pdf
 
-## 195. AgRg no HC nº 1109944 / RJ (STJ)
+## 198. AgRg no HC nº 1109944 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Mudar de rota ao avistar a viatura, em patrulhamento de rotina, não é fundada suspeita para busca pessoal (art. 244 do CPP), e o flagrante descoberto depois não convalida a revista. Prova ilícita (radiotransmissor) e absolvição do "olheiro" (art. 37 da Lei 11.343/2006) mantida; agravo do MP desprovido.
@@ -67,7 +104,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Reconhecida a ilicitude da busca, as provas apreendidas e as derivadas devem ser desentranhadas, impondo-se a absolvição (CPP, art. 386, VII).
   > (AgRg no HC n. 1.109.944/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 196. AgRg no HC nº 956700 / SP (STJ)
+## 199. AgRg no HC nº 956700 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Guarda municipal pode fazer policiamento ostensivo, mas não atividade de polícia judiciária (Tema 656/STF). Ver o réu entregar uma sacola à corré, que morava numa barraca, não é flagrante que autorize os guardas a entrar ali. Provas ilícitas e absolvição de ambos (art. 386, II, do CPP) mantidas; agravo do MP desprovido.
@@ -88,7 +125,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: "As guardas municipais não possuem atribuições de polícia judiciária, sendo-lhes vedada a entrada em domicílios fora dos limites do flagrante delito."
   > (AgRg no HC n. 956.700/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 197. AgRg no AgRg no HC nº 1071161 / SP (STJ)
+## 200. AgRg no AgRg no HC nº 1071161 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
 - Resumo: Tempo de prisão, medidas patrimoniais e suspensão das empresas esvaziaram o risco de reiteração. Sem fundamento atual (art. 312 do CPP), a preventiva dá lugar a cautelares alternativas, numa organização criminosa de adulteração de combustíveis; agravo do MP desprovido.
@@ -109,47 +146,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento:
   > 1. O decurso do tempo e a desarticulação das atividades ilícitas atribuídas à organização criminosa esvaziam o periculum libertatis e autorizam a substituição da prisão preventiva por medidas cautelares alternativas.
   > (AgRg no AgRg no HC n. 1.071.161/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 198. AgRg no HC nº 1118236 / CE (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Homicídio qualificado · Corrupção de menores · Dosimetria
-- Resumo: Condenações anteriores não usadas para a reincidência só valem como antecedentes, não para desabonar a personalidade (Tema 1.077/STJ). Usar nas circunstâncias o mesmo contexto da qualificadora é bis in idem. O HC corrige a dosimetria mesmo após o trânsito em julgado, e a liminar concedida antes do parecer do MPF não gera nulidade; agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1118236.pdf
-- Ementa oficial:
-  > DIREITO PENAL E DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. DOSIMETRIA. CONDENAÇÃO TRANSITADA EM JULGADO. UTILIZAÇÃO INDEVIDA DO WRIT PARA AMPLA REVISÃO DA CONDENAÇÃO. ILEGALIDADES MANIFESTAS. PRELIMINAR DE NULIDADE. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL. NULIDADE NÃO CONFIGURADA. PERSONALIDADE. CONDENAÇÕES ANTERIORES. FUNDAMENTO INIDÔNEO. TEMA REPETITIVO N. 1.077/STJ. FUNDAMENTAÇÃO REMANESCENTE INSUFICIENTE. CIRCUNSTÂNCIAS DO CRIME. REUTILIZAÇÃO DO MESMO CONTEXTO FÁTICO EMPREGADO NA QUALIFICADORA. BIS IN IDEM. DECISÃO AGRAVADA MANTIDA.
-  > 1. Não há nulidade na concessão liminar da ordem antes da manifestação do Ministério Público Federal quando a controvérsia estiver amparada por jurisprudência consolidada e evidenciada ilegalidade manifesta, sobretudo se a posterior ciência do Parquet e a interposição de agravo regimental assegurarem a submissão da matéria ao órgão colegiado, sem demonstração de prejuízo concreto.
-  > 2. Embora o habeas corpus não se preste à ampla revisão de condenação transitada em julgado, admite-se a intervenção excepcional desta Corte Superior para corrigir ilegalidade manifesta na dosimetria da pena.
-  > 3. Nos termos do Tema Repetitivo n. 1.077/STJ, condenações transitadas em julgado não utilizadas para caracterizar a reincidência somente podem ser valoradas como antecedentes criminais, vedado seu emprego para desabonar a personalidade do agente. As referências remanescentes ao autoritarismo, ao machismo, ao sentimento de posse e à existência de medidas protetivas, tais como empregadas no caso, não tornam idônea a fundamentação dessa circunstância judicial.
-  > 4. Configura bis in idem a valoração negativa das circunstâncias do crime com fundamento na restrição da liberdade, no transporte da vítima e na angústia experimentada durante a execução delitiva quando o mesmo contexto fático integrou o mecanismo executivo empregado para dificultar a defesa da ofendida, posteriormente valorado na segunda fase da dosimetria.
-  > 5. A referência, no agravo regimental, a terror psicológico, chantagens e ameaças não afasta a duplicidade quando esses elementos apenas descrevem, sob outra perspectiva, a mesma base fática considerada pelas instâncias ordinárias.
-  > 6. A alegação genérica de proporcionalidade da reprimenda e de discricionariedade motivada não afasta as ilegalidades concretamente identificadas na dosimetria.
-  > 7. Agravo regimental improvido.
-  > (AgRg no HC n. 1.118.236/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 199. AgRg no HC nº 1121320 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: a dedicação a atividades criminosas não se presume e exige elementos concretos. Regime mais gravoso e negativa de substituição por restritivas também exigem fundamentação concreta, não bastando a natureza do crime ou a quantidade. Sentença restabelecida, com a fração de 1/2; agravos do MPSP e do MPF desprovidos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121320.pdf
-- Agravo do MPF: https://ladirf.github.io/acervo/pdfs/mpf-hc-1121320.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM HABEAS CORPUS. ORDEM CONCEDIDA LIMINARMENTE. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. REGIME INICIAL. SUBSTITUIÇÃO DA PENA. CONSTRANGIMENTO ILEGAL. FUNDAMENTAÇÃO INSUFICIENTE. QUANTIDADE DE DROGA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PRESUNÇÃO. JURISPRUDÊNCIA.
-  > 1. A aplicação da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 pressupõe a ausência de dedicação a atividades criminosas, vedada a conclusão por presunção, devendo apoiar-se em elementos concretos do caso.
-  > 2. A quantidade de droga apreendida, isoladamente, não autoriza o afastamento do tráfico privilegiado, exigindo-se motivação específica que demonstre a inserção estável do agente na prática delitiva; hipótese em que se manteve a fração de 1/2 da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, conforme a sentença restabelecida.
-  > 3. O regime inicial mais gravoso reclama fundamentação concreta, relacionada às circunstâncias judiciais e à gravidade efetiva da conduta, não bastando remissão genérica à natureza do crime ou à quantidade de entorpecente.
-  > 4. A negativa de substituição da pena privativa de liberdade por restritivas de direitos exige motivação idônea quanto à inadequação da medida ao caso, considerada a pena aplicada, as circunstâncias judiciais e as diretrizes legais.
-  > 5. Agravo regimental improvido.
-  > (AgRg no HC n. 1.121.320/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
-
-## 200. AgRg no AgRg no HC nº 1042570 / SP (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Tráfico de drogas · Execução penal
-- Resumo: Mãe de criança menor de 12 anos tem direito à prisão domiciliar, mesmo no regime semiaberto, sem precisar provar que os cuidados maternos são imprescindíveis, salvo situação excepcional. Tráfico sem violência e sem faltas disciplinares. Domiciliar com monitoramento mantida; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1042570.pdf
-- Ementa oficial:
-  > PROCESSO PENAL. AGRAVO REGIMENTAL MINISTERIAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. MÃE DE CRIANÇA MENOR DE 12 ANOS. PRESUNÇÃO DA NECESSIDADE DE CUIDADOS MATERNOS. AUSÊNCIA DE SITUAÇÃO EXCEPCIONAL CONTRAINDICATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. O habeas corpus não foi conhecido por se tratar de substitutivo de recurso próprio. Diante de flagrante constrangimento ilegal, a ordem foi concedida de ofício para substituir o encarceramento por prisão domiciliar, com monitoramento eletrônico, se possível.
-  > 2. A concessão da prisão domiciliar foi amparada na condição da agravada como mãe de criança menor de 12 anos, na natureza do delito (tráfico de entorpecentes) sem violência ou grave ameaça, e na inexistência de faltas disciplinares ou registros negativos.
-  > 3. "A jurisprudência do STJ admite a concessão de prisão domiciliar a mães de crianças menores de 12 anos, mesmo em regime semiaberto, sem necessidade de comprovação da imprescindibilidade dos cuidados maternos, desde que não haja situação excepcional que contraindique a medida." (AgRg no AgRg no HC n. 949.232/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
-  > 4. Agravo regimental não provido.
-  > (AgRg no AgRg no HC n. 1.042.570/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)

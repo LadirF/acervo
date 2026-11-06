@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 32 de 38 (decisões 311 a 320)
+# Acervo de Jurisprudência — Cury Advogados — parte 32 de 39 (decisões 311 a 320)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,25 +8,97 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 311. AREsp nº 2968442 / ES (STJ)
+## 311. REsp nº 2167128 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
+- **Resultado desfavorável à defesa:** Recurso do MP provido (vale pela tese)
+- Crime / Tema: Execução penal · Tema repetitivo
+- Resumo: Tema 1.347/STJ — A regressão cautelar de regime é provisória e cabe no poder geral de cautela do juízo da execução, sem prévia oitiva do apenado, que o art. 118, § 2º, da LEP exige só na regressão definitiva. Exige fundamentação idônea e vale até a apuração definitiva da falta. O TJRJ exigia a oitiva prévia; recurso do MP provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2167128.pdf
+- Ementa oficial:
+  > DIREITO PENAL. EXECUÇÃO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.347 DO STJ. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. DESNECESSIDADE DE PRÉVIA OITIVA DO APENADO. RECURSO PROVIDO. TESE FIXADA.
+  > I. CASO EM EXAME
+  > 1. Recurso especial interposto pelo Ministério Público do Estado do Rio de Janeiro contra acórdão da Quinta Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro que concluiu pela necessidade de prévia oitiva do apenado para a regressão cautelar de regime prisional determinada em caráter provisório quando constatado o cometimento de falta grave.
+  > 2. O acórdão recorrido entendeu que a regressão de regime prisional sem prévia oitiva do apenado, ainda que determinada de modo cautelar ou provisório, viola o princípio da legalidade e o devido processo legal, não se encontrando amparada pela Lei de Execução Penal.
+  > 3. Afetação como Recurso Especial Repetitivo dos paradigmas REsps n. 2.166.900/SP, 2.153.215/RJ e 2.167.128/RJ, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil, como Tema n. 1.347 do STJ, para formação de precedente vinculante (CPC, art. 927, III).
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. A questão em discussão, afetada no tema repetitivo, consiste em: "Definir se é necessária a prévia oitiva da pessoa apenada para que lhe seja imposta a suspensão cautelar (regressão provisória) do regime prisional mais favorável quando constatado o possível cometimento de falta disciplinar grave ou de fato definido como crime doloso."
+  > III. RAZÕES DE DECIDIR
+  > 5. A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, razão pela qual se mostra possível sua decretação sem a necessidade de prévia oitiva do apenado.
+  > 6. A decisão que determina a regressão cautelar deve ser devidamente fundamentada, observando os elementos de interesse do caso, aplicando-se a exigência de prévia oitiva do apenado, prevista no art. 118, § 2º, da Lei de Execução Penal, apenas à regressão definitiva de regime.
+  > 7. A regressão cautelar é válida até a apuração definitiva da falta, devendo ser instaurado o procedimento cabível para apuração do fato, com observância dos princípios do contraditório, da ampla defesa e do devido processo legal.
+  > IV. DISPOSITIVO E TESE
+  > 8. Resultado do Julgamento: Recurso provido para reformar o acórdão recorrido e afastar a necessidade de prévia oitiva do apenado na regressão cautelar de regime prisional.
+  > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
+  > (REsp n. 2.167.128/RJ, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
+
+## 312. AgRg no HC nº 1004144 / SP (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 30/10/2025.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Quantidade e natureza da droga, falta de prova de trabalho lícito e apreensão em ponto de tráfico não afastam, cada uma sozinha, o tráfico privilegiado. Usar a quantidade para elevar a pena-base e para negar a minorante é bis in idem. Ordem de ofício mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1004144.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público contra decisão que concedeu, de ofício, habeas corpus para aplicar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionando as penas do agravado para 1 ano e 8 meses de reclusão, além de 166 dias-multa, fixando o regime inicial aberto e substituindo a pena privativa de liberdade por duas restritivas de direitos.
+  > 2. O agravado foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. Em segunda instância, o Tribunal negou provimento ao apelo defensivo. Após o trânsito em julgado, revisão criminal foi indeferida liminarmente.
+  > 3. A decisão agravada considerou que a quantidade e a natureza das drogas apreendidas não extrapolam o tipo penal, não justificando o afastamento da minorante do art. 33, § 4º, da Lei nº 11.343/2006.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se a quantidade e a natureza das drogas apreendidas justificam o afastamento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006; e (ii) saber se a ausência de comprovação de ocupação lícita e a apreensão em local conhecido como ponto de tráfico são elementos suficientes para caracterizar a dedicação habitual do agravado à atividade criminosa.
+  > III. Razões de decidir
+  > 5. A quantidade e a natureza das drogas apreendidas não extrapolam o tipo penal, sendo insuficientes para justificar o afastamento da minorante do art. 33, § 4º, da Lei nº 11.343/2006.
+  > 6. A ausência de comprovação de ocupação lícita não permite presumir a dedicação do agravado à atividade criminosa, conforme precedentes do Superior Tribunal de Justiça.
+  > 7. A apreensão em local conhecido como ponto de tráfico, isoladamente, não constitui elemento suficiente para caracterizar a dedicação habitual do agravado à atividade ilícita, sendo necessária a demonstração de outros elementos fático-probatórios.
+  > 8. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e, concomitantemente, para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006, configura indevido bis in idem.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Agravo regimental não provido.
+  > Tese de julgamento:
+  > 1. A quantidade e a natureza das drogas apreendidas não justificam, por si só, o afastamento da minorante prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+  > 2. A ausência de comprovação de ocupação lícita não permite presumir a dedicação do agente à atividade criminosa.
+  > 3. A apreensão em local conhecido como ponto de tráfico não constitui, isoladamente, elemento suficiente para caracterizar a dedicação habitual à atividade ilícita.
+  > 4. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006 configura indevido bis in idem.
+  > (AgRg no HC n. 1.004.144/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2025, DJEN de 30/10/2025.)
+
+## 313. AgRg no REsp nº 2217162 / SC (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/10/2025.
+- **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
+- Crime / Tema: Execução penal
+- Resumo: A unificação de penas não altera a data-base; para benefícios, vale o último marco interruptivo, inclusive a progressão concedida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2217162.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. PROGRESSÃO DE REGIME. MARCO INTERRUPTIVO. LEGALIDADE. INDIVIDUALIZAÇÃO DA PENA. PRINCÍPIOS CONSTITUCIONAIS. TEMA 1006 E 1165/STJ. HARMONIA ENTRE AS TESES JURÍDICAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A orientação consolidada do Superior Tribunal de Justiça, firmada no Tema n. 1.006, determina que a superveniência de nova condenação, seja por crime anterior ou posterior, não implica alteração da data-base para concessão de benefícios executórios. Assim, a data do trânsito em julgado da nova sentença, a decisão que unifica ou soma as penas, ou a modificação do regime prisional não interrompem os cálculos da execução penal. São preservados os marcos interruptivos anteriores à unificação ou soma das penas (ProAfR no REsp n. 1.753.512/PR, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 18/12/2018, DJe de 11/3/2019).
+  > 2. A progressão de regime configura marco interruptivo para a contagem de prazos necessários à concessão de benefícios executórios, sendo a nova data-base fixada quando verificado o preenchimento dos requisitos objetivos e subjetivos previstos no art. 112 da Lei de Execução Penal, conforme decidido no Tema n. 1.165 do STJ (REsp n. 1.972.187/SP, relator Ministro Jesuíno Rissato, Terceira Seção, julgado em 14/8/2024, DJEN de 2/12/2024). A cada progressão de regime, a data-base é renovada, funcionando como marco interruptivo para a contagem de novos benefícios executórios que tenham respaldo na pena parcial.
+  > 3. Não há divergência entre as teses jurídicas aplicáveis. Para a definição da data-base destinada à contagem do prazo para novas progressões de regime, nos casos em que o reeducando tem múltiplas condenações unificadas ou somadas, deve-se considerar o último fato jurídico interruptivo. Esse marco pode corresponder à data da última prisão; à data da última infração disciplinar devidamente homologada pelo Juízo da execução; ou, à data da última progressão de regime concedida.
+  > 4. A superveniência de nova condenação e a sua unificação não implica alteração da data-base, independentemente da regressão de regime ou da soma das penas, em respeito aos princípios da legalidade, individualização da pena e dignidade da pessoa humana. Mantém-se o marco interruptivo correspondente à última progressão de regime concedida.
+  > 5. No caso, reconhece-se como válida a data-base vigente no momento da unificação das penas, para fins de concessão de futuros benefícios executórios, adotando-se como marco a data em que o sentenciado preencheu os requisitos para a progressão de regime anteriormente concedida.
+  > 6. Agravo regimental não provido.
+  > (AgRg no REsp n. 2.217.162/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/10/2025, DJEN de 29/10/2025.)
+
+## 314. AREsp nº 3045207 / MT (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
+- Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
+- Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
+
+## 315. AREsp nº 2968442 / ES (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 15/10/2025.
 - Crime / Tema: Infanticídio · Tribunal do Júri
 - Resumo: Anulação do Júri mantida, para novo julgamento com quesito de infanticídio. Fato ocorrido imediatamente após o parto faz presumir o estado puerperal, e cabe à acusação afastá-lo (perda de uma chance probatória, art. 156 do CPP). Relatório médico feito mais de 2 meses depois não retrata o puerpério imediato.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2968442.pdf
 
-## 312. REsp nº 2231330 / MG (STJ)
+## 316. REsp nº 2231330 / MG (STJ)
 - Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 29/09/2025.
 - Crime / Tema: Infanticídio · Pronúncia
 - Resumo: Desclassificação para infanticídio já na pronúncia mantida: asfixia durante ou logo após o parto, sob forte alteração psicofísica, com a prova convergindo para essa única versão.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2231330.pdf
 
-## 313. AREsp nº 2605530 / RS (STJ)
+## 317. AREsp nº 2605530 / RS (STJ)
 - Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 25/09/2025.
 - Crime / Tema: RIF
 - Resumo: A polícia não pode pedir RIF diretamente ao COAF sem autorização judicial: o Tema 990/STF cobre só o envio espontâneo pelo COAF, e a encomenda é pescaria probatória que viola a reserva de jurisdição. AREsp do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2605530.pdf
 
-## 314. REsp nº 2001973 / RS (STJ)
+## 318. REsp nº 2001973 / RS (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 16/09/2025.
 - Crime / Tema: Descaminho · Confissão espontânea · Dosimetria · Tema repetitivo
 - Resumo: Tema 1.194/STJ e revisão da Súmula 545/STJ: na redação de 2015, a confissão só atenuava a pena quando usada para formar o convencimento do julgador; na nova, de 2025, atenua (art. 65, III, d, do CP) independentemente disso, mesmo com outras provas, salvo retratação que não tenha servido à apuração dos fatos. Confissão parcial ou qualificada atenua em menor proporção e não prepondera sobre agravantes. Efeitos prejudiciais só para fatos posteriores ao acórdão. REsp da defesa parcialmente provido.
@@ -50,7 +122,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
   > (REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
 
-## 315. AgRg no REsp nº 2206947 / PR (STJ)
+## 319. AgRg no REsp nº 2206947 / PR (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/09/2025.
 - Crime / Tema: Infanticídio · Homicídio · Pronúncia
 - Resumo: Desclassificação para homicídio culposo mantida: o estado puerperal ficou provado, mas não o dolo (demora de cerca de 3 horas para levar o bebê ao hospital). Não existe infanticídio culposo (art. 18, parágrafo único, do CP), e o dolo deve ser examinado já na pronúncia. Rever isso esbarra na Súmula 7.
@@ -70,63 +142,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: "1. É inviável o reexame de fatos e provas em recurso especial".
   > (AgRg no REsp n. 2.206.947/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.)
 
-## 316. REsp nº 2195682 / SP (STJ)
+## 320. REsp nº 2195682 / SP (STJ)
 - Decisão monocrática. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 29/08/2025.
 - Crime / Tema: Lavagem de dinheiro · RIF
 - Resumo: RIFs enviados pelo COAF a pedido da polícia, sem autorização judicial, são nulos e devem sair dos autos com as provas deles derivadas; o juiz deve reavaliar o sequestro de bens à luz do que restar. REsp da defesa parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2195682.pdf
-
-## 317. RHC nº 221603 / RS (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/08/2025.
-- Crime / Tema: RIF
-- Resumo: O Tema 990/STF não autoriza a requisição direta de dados financeiros pela polícia sem ordem judicial. RIF pedido pela autoridade policial em verificação preliminar declarado ilícito e desentranhado, com as provas derivadas (TRF4).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-221603.pdf
-
-## 318. RHC nº 153706 / RS (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 25/07/2025.
-- Crime / Tema: Crimes contra o sistema financeiro · Lavagem de dinheiro · Organização criminosa · Acesso da defesa às provas
-- Resumo: Relatório complementar da PF com novos elementos, juntado depois da resposta à acusação, exige restituir o prazo da resposta, com acesso integral aos elementos que o embasaram; reinquirir as testemunhas não basta.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-153706.pdf
-
-## 319. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
-- Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
-- Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
-- Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0803817-76-2023.pdf
-- Ementa oficial:
-  > APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. SENTENÇA CONDENATÓRIA. VIOLAÇÃO DE DOMICÍLIO. DENÚNCIA ANÔNIMA. INEXISTÊNCIA DE INDÍCIOS DA PRÁTICA DELITIVA. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. NULIDADE DA PROVA OBTIDA E DAQUELAS DELA DERIVADAS. ABSOLVIÇÃO DECRETADA. RECURSO PROVIDO. IMPÕE. PROVIMENTO.
-  > I. CASO EM EXAME.
-  > 1. Recurso defensivo em razão da condenação do réu pela prática do delito previsto no artigo 16, §1º, inciso IV, da Lei nº 10.826/03.
-  > II. QUESTÕES EM DISCUSSÃO.
-  > 2. As questões em discussão consistem em: (i) verificar se houve violação de domicílio; e (ii) se há prova suficiente para a condenação.
-  > III. RAZÕES DE DECIDIR.
-  > 3. No caso dos autos, restou caracterizada a violação da garantia constitucional da inviolabilidade domiciliar.
-  > 4. Sabe-se que o entendimento firmado pelo Supremo Tribunal Federal em sede de repercussão geral é no sentido de que “a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados” [STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, j: 8/10/2010].
-  > 5. Na hipótese, a diligência decorreu de denúncia anônima, desacompanhada de outros elementos preliminares indicativos de crime, não legitimando o ingresso de policiais no domicílio do réu, estando, ausente, assim, a justa causa.
-  > 6. Por certo, os policiais militares, conscientemente, optaram pela diligência exploratória, sem a necessária ciência prévia da efetiva ocorrência de crime permanente, contaminando assim toda a sua atuação posterior.
-  > 7. Assim, ainda que se trate de crime permanente, necessária é a existência de fundamentos razoáveis anteriores à busca para justificar o ingresso na residência do agente sem autorização judicial, o que não se verificou na espécie. Não houve, in casu, condição alguma prévia que demonstrasse que o apelante estivesse praticando algum crime no interior da sua residência, motivada a incursão policial por meio de meras “informações” anônimas.
-  > 8. Nesse contexto, constatada a ilegalidade do ingresso dos policiais na residência do réu sem prévia autorização judicial, devem ser declaradas ilícitas as provas colhidas.
-  > 9. Diante desse cenário, é impositiva a absolvição do apelante, com fulcro no artigo 386, II, do Código de Processo Penal. Prejudicados os demais pleitos defensivos.
-  > IV. DISPOSITIVO.
-  > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
-  > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
-
-## 320. REsp nº 1953602 / SP (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
-- Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
-- Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1953602.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PROCESSUAL PENAL. RECONHECIMENTO DE PESSOA (FOTOGRÁFICO E/OU PRESENCIAL). OBSERVÂNCIA DOS PRECEITOS DO ART. 226 DO CÓDIGO DE PROCESSO PENAL: OBRIGATORIEDADE. CONSEQUÊNCIAS DO RECONHECIMENTO FALHO OU VICIADO: (1) IRREPETIBILIDADE. (2) IMPOSSIBILIDADE DE UTILIZAÇÃO, POR SI SÓ, COMO INDÍCIO MÍNIMO DE AUTORIA NECESSÁRIO PARA DECRETAÇÃO DE PRISÃO CAUTELAR, RECEBIMENTO DE DENÚNCIA OU PRONÚNCIA. (3) INADMISSIBILIDADE COMO PROVA DE AUTORIA. POSSIBILIDADE, ENTRETANTO, DE FORMAÇÃO DO CONVENCIMENTO DO MAGISTRADO COM BASE EM PROVAS AUTÔNOMAS. CASO CONCRETO: ROUBO QUALIFICADO DE AGÊNCIA DOS CORREIOS. RECONHECIMENTO PESSOAL VICIADO. CONDENAÇÃO QUE NÃO SE AMPARA EM OUTRAS PROVAS. RECURSO ESPECIAL DA DEFESA PROVIDO.
-  > 1. Recurso representativo de controvérsia, para atender ao disposto no art. 1.036 e seguintes do CPC/2015.
-  > 2. Delimitação da controvérsia: “Definir o alcance da determinação contida no art. 226 do Código de Processo Penal e se a inobservância do quanto nele estatuído configura nulidade do ato processual”.
-  > 3. TESE: 3.1 – As regras postas no art. 226 do CPP são de observância obrigatória tanto em sede inquisitorial quanto em juízo, sob pena de invalidade da prova destinada a demonstrar a autoria delitiva, em alinhamento com as normas do Conselho Nacional de Justiça sobre o tema. O reconhecimento fotográfico e/ou pessoal inválido não poderá servir de lastro nem a condenação nem a decisões que exijam menor rigor quanto ao standard probatório, tais como a decretação de prisão preventiva, o recebimento de denúncia ou a pronúncia. 3.2 – Deverão ser alinhadas pessoas semelhantes ao lado do suspeito para a realização do reconhecimento pessoal. Ainda que a regra do inciso II do art. 226 do CPP admita a mitigação da semelhança entre os suspeitos alinhados quando, justificadamente, não puderem ser encontradas pessoas com o mesmo fenótipo, eventual discrepância acentuada entre as pessoas comparadas poderá esvaziar a confiabilidade probatória do reconhecimento feito nessas condições. 3.3 – O reconhecimento de pessoas é prova irrepetível, na medida em que um reconhecimento inicialmente falho ou viciado tem o potencial de contaminar a memória do reconhecedor, esvaziando de certeza o procedimento realizado posteriormente com o intuito de demonstrar a autoria delitiva, ainda que o novo procedimento atenda os ditames do art. 226 do CPP. 3.4 – Poderá o magistrado se convencer da autoria delitiva a partir do exame de provas ou evidências independentes que não guardem relação de causa e efeito com o ato viciado de reconhecimento. 3.5 – Mesmo o reconhecimento pessoal válido deve guardar congruência com as demais provas existentes nos autos. 3.6 – Desnecessário realizar o procedimento formal de reconhecimento de pessoas, previsto no art. 226 do CPP, quando não se tratar de apontamento de indivíduo desconhecido com base na memória visual de suas características físicas percebidas no momento do crime, mas, sim, de mera identificação de pessoa que o depoente já conhecia anteriormente.
-  > 4. Sobre o tema, a jurisprudência desta Corte vinha entendendo que “as disposições contidas no art. 226 do Código de Processo Penal configuram uma recomendação legal, e não uma exigência absoluta, não se cuidando, portanto, de nulidade quando praticado o ato processual (reconhecimento pessoal) de forma diversa da prevista em lei” (AgRg no AREsp n. 1.054.280/PE, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe de 13/6/2017).
-  > 5. Em guinada jurisprudencial recente, no entanto, a Sexta Turma desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 598.886 /SC, realizado em 27/10/2020, endossando o voto do Relator, Min. Rogerio Schietti Cruz, propôs nova interpretação do art. 226 do CPP, para estabelecer que “1.1) O reconhecimento de pessoas deve observar o procedimento previsto no art. 226 do Código de Processo Penal, cujas formalidades constituem garantia mínima para quem se encontra na condição de suspeito da prática de um crime; 1.2) À vista dos efeitos e dos riscos de um reconhecimento falho, a inobservância do procedimento descrito na referida norma processual torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o reconhecimento em juízo; 1.3) Pode o magistrado realizar, em juízo, o ato de reconhecimento formal, desde que observado o devido procedimento probatório, bem como pode ele se convencer da autoria delitiva com base no exame de outras provas que não guardem relação de causa e efeito com o ato viciado de reconhecimento”. O entendimento foi acompanhado pela Quinta Turma desta Corte, no julgamento do Habeas Corpus n. 652.284/SC (de minha relatoria, Quinta Turma, julgado em 27/4/2021, DJe de 3/5/2021).
-  > 6. A nova proposta partiu da premissa de que o reconhecimento efetuado pela vítima, em sede inquisitorial, não constitui evidência segura da autoria do delito, dada a falibilidade da memória humana, que se sujeita aos efeitos tanto do esquecimento quanto de emoções e de sugestões vindas de outras pessoas que podem gerar “falsas memórias” (fenômeno esse documentado em estudos acadêmicos respeitáveis), além da influência decorrente de outros fatores, como, por exemplo, o tempo em que a vítima esteve exposta ao delito e ao agressor (tempo de duração do evento criminoso); o trauma gerado pela gravidade do fato; o tempo decorrido entre o contato com o autor do delito e a realização do reconhecimento; as condições ambientais (tais como visibilidade do local no momento dos fatos); estereótipos culturais (como cor, classe social, sexo, etnia etc.).
-  > 7. Posteriormente, ao julgar o HC n. 712.781/RJ (relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/3/2022), a Sexta Turma avançou ainda mais, para consignar que o reconhecimento produzido em desacordo com o disposto no art. 226 do CPP deve ser considerado prova inválida e não pode lastrear outras decisões, ainda que de menor rigor quanto ao standard probatório exigido, tais como a decretação de prisão preventiva, o recebimento de denúncia e a pronúncia, entendimento esse que encontra eco em julgado da 2ª Turma do Supremo Tribunal Federal no RHC n. 206.846/SP (relator Min. Gilmar Mendes, julgado em 22/02/2022; DJe de 25/05/2022). Em harmonia com essa ratio decidendi, a Quinta Turma desta Corte já se pronunciou no sentido de que “A certeza da vítima no reconhecimento e a firmeza de seu testemunho não constituem provas independentes suficientes para justificar a pronúncia, já que apenas o reconhecimento viciado é que vincula o réu aos fatos descritos na denúncia” (AgRg no AREsp n. 2.721.123/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/11/2024, DJEN de 3/12/2024).
-  > 8. Na mesma assentada, o voto condutor do HC n. 712.781/RJ defendeu que o reconhecimento de pessoas é prova “cognitivamente irrepetível”, diante do potencial que o ato inicial falho tem de contaminar todos os subsequentes, mesmo que os posteriores observem as balizas do art. 226 do CPP. Com efeito, estudos mostram que, após um reconhecimento, a testemunha pode incorporar a imagem do suspeito em sua memória como sendo a do autor – mesmo que estivesse incerta antes –, fenômeno conhecido como “efeito do reforço da confiança”. Assim, se a primeira identificação foi errônea ou conduzida de forma inadequada, todas as subsequentes estarão comprometidas. De consequência, é de se reconhecer que eventual “ratificação” posterior de reconhecimento (fotográfico ou pessoal) falho não convalida os vícios pretéritos. Precedentes da Quinta Turma no mesmo sentido: AgRg no HC n. 822.696/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/9/2023, DJe de 22/9/2023; AgRg no HC n. 819.550/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024.
-  > 9. CASO CONCRETO: Situação em que o recorrente foi condenado pelo crime previsto no art. 157, § 2º, I e II, do Código Penal, na redação anterior à Lei 13.654/2018, à pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, no regime inicial fechado, além de 14 (quatorze) dias-multa. É de se reconhecer a invalidade do reconhecimento pessoal do réu efetuado por duas das testemunhas do delito, se, durante a realização do procedimento, em sede inquisitorial, dentre as quatro pessoas alinhadas, o réu era cerca de 15 cm mais alto que as demais, sem que tivesse sido apresentada qualquer justificativa para o não alinhamento de pessoas de alturas semelhantes. Ademais, esvazia de certeza o reconhecimento pessoal efetuado pelas testemunhas, dias após a prisão em flagrante do recorrente por um roubo subsequente ocorrido na mesma agência dos Correios, o fato de que, em um primeiro momento, ambas as testemunhas afirmaram, em sede inquisitorial, que, durante o evento delitivo que não durou mais que 10 (dez) minutos, os dois perpetradores do delito usavam boné que encobria parte de seu rosto, mantinham a cabeça abaixada o tempo todo e ordenavam que as pessoas presentes no local não olhassem para eles. Mesmo tendo uma das testemunhas afirmado, em juízo, ter sido possível identificar, posteriormente, o recorrente com base em consulta às imagens de câmera da agência assaltada, tais imagens não chegaram a ser juntadas aos autos, e enfraquece o grau de certeza da identificação o fato de que a outra testemunha também teve acesso às mesmas imagens, antes de ser ouvida pela primeira vez na delegacia e, naquela ocasião, asseverou não ter condições de reconhecer os autores do roubo, lançando dúvida sobre a nitidez das imagens consultadas.
-  > 10. Não existindo outras provas além do depoimento das duas vítimas e do reconhecimento pessoal viciado, é de se reconhecer a fragilidade dos elementos probatórios que levaram à condenação do réu, sendo de rigor sua absolvição.
-  > 11. Recurso especial provido, para absolver o réu.
-  > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)

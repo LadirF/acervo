@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 17 de 38 (decisões 161 a 170)
+# Acervo de Jurisprudência — Cury Advogados — parte 17 de 39 (decisões 161 a 170)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,80 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 161. AgRg no HC nº 1124320 / RJ (STJ)
+## 161. AgRg no AgRg no HC nº 1066102 / MG (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 14/10/2026.
+- Crime / Tema: Homicídio no trânsito · Tribunal do Júri · Pronúncia
+- Resumo: Embriaguez ao volante, mesmo com velocidade excessiva, não basta para indicar dolo eventual: são precisos elementos concretos de que o motorista aceitou o resultado morte. Desclassificação dos homicídios para culposos mantida, sem usurpar a competência do Júri.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1066102.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIOS NA DIREÇÃO DE VEÍCULO AUTOMOTOR. DOLO EVENTUAL. DESCLASSIFICAÇÃO PARA CRIME CULPOSO. AGRAVO IMPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo órgão acusador contra decisão que não conheceu do habeas corpus, mas concedeu a ordem de ofício para desclassificar as imputações de homicídios dolosos para crimes culposos.
+  > 2. Pretensão recursal. Restabelecimento da pronúncia e reconhecimento da competência do Conselho de Sentença para decidir sobre dolo eventual ou culpa consciente.
+  > II. Questão em discussão
+  > 3. Há duas questões principais em discussão: (i) saber se os elementos indicados configuram, à luz da jurisprudência do Superior Tribunal de Justiça, indícios de dolo eventual suficientes para manter a pronúncia por homicídio doloso na direção de veículo automotor; e (ii) saber se a desclassificação para crime culposo, na via excepcional, usurpa a competência constitucional do Tribunal do Júri.
+  > III. Razões de decidir
+  > 4. A jurisprudência do Superior Tribunal de Justiça firmou entendimento de que a simples embriaguez ao volante, ainda que aliada à condução em velocidade superior ou não compatível com a via, não basta, por si só, para caracterizar indícios mínimos de dolo eventual, exigindo-se circunstâncias concretas adicionais que evidenciem o assentimento do agente com o resultado morte.
+  > 5. A desclassificação para crime culposo, à luz dos fatos fixados e da valoração jurídica das circunstâncias, não usurpa a competência do Tribunal do Júri.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental improvido.
+  > Tese de julgamento:
+  > 1. Embriaguez ao volante, ainda que somada à condução em velocidade não compatível com a via, não constitui, por si só, indício mínimo suficiente de dolo eventual na fase de pronúncia.
+  > 2. A desclassificação de homicídio doloso para crime culposo, quando ausentes circunstâncias concretas robustas de assentimento ao resultado morte, não usurpa a competência do Tribunal do Júri.
+  > (AgRg no AgRg no HC n. 1.066.102/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
+
+## 162. AgRg no AREsp nº 3062314 / ES (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 14/10/2026.
+- Crime / Tema: Furto · Princípio da insignificância
+- Resumo: O princípio da insignificância vale mesmo no furto qualificado pelo concurso de agentes: dois chocolates de R$ 55, restituídos, sem violência. Atipicidade material e absolvição (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3062314.pdf
+- Ementa oficial:
+  > Direito penal. Agravo regimental no agravo em recurso especial. Furto qualificado pelo concurso de agentes. Pequeno valor. Princípio da insignificância. Atipicidade material. Absolvição. Agravo regimental provido. Recurso especial provido.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental contra decisão monocrática que conheceu do agravo e negou provimento ao recurso especial, aplicando o óbice da Súmula 83/STJ.
+  > 2. Fato relevante. Condenação pelo crime de furto qualificado pelo concurso de pessoas (art. 155, § 4º, IV, do Código Penal), pela subtração, sem violência ou grave ameaça, de uma caixa de chocolate e cinco unidades de chocolate, avaliadas em R$ 55,00, com restituição dos bens à vítima, sociedade empresária do ramo varejista. Pena fixada em 2 anos, 6 meses e 29 dias de reclusão, regime inicial aberto, e 11 dias-multa.
+  > 3. O pedido. Pretensão de processamento, conhecimento e provimento do recurso especial para reconhecer a incidência do princípio da insignificância e absolver com fundamento no art. 386, III, do Código de Processo Penal.
+  > 4. As decisões anteriores. Tribunal de origem manteve a condenação, afastando a insignificância pela contumácia delitiva e pelo concurso de agentes; Ministério Público estadual opinou pelo desprovimento do agravo regimental, com manutenção da decisão agravada e incidência da Súmula 83/STJ.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se, na hipótese de subtração de bem de pequeno valor, sem violência ou grave ameaça e com restituição à vítima, a incidência do princípio da insignificância deve prevalecer a partir de critérios objetivos, não sendo afastada, por si só, por contumácia delitiva ou pelo concurso de agentes, autorizando a absolvição por atipicidade material (art. 386, III, do CPP).
+  > III. Razões de decidir
+  > 4. A controvérsia é estritamente jurídica e admite revaloração de premissas fáticas incontroversas, sem revolvimento probatório.
+  > 5. A incidência do princípio da insignificância, como causa de exclusão da tipicidade material, deve se concentrar nos vetores objetivos: mínima ofensividade da conduta, ausência de periculosidade social, reduzido grau de reprovabilidade e inexpressividade da lesão jurídica.
+  > 6. No caso, a res furtiva de ínfimo valor (R$ 55,00), a ausência de violência ou grave ameaça e a restituição dos bens à vítima evidenciam mínima ofensividade, nenhuma periculosidade social e reduzido grau de reprovabilidade, configurando inexpressividade da lesão jurídica.
+  > 7. A contumácia delitiva e o concurso de agentes, isoladamente, não afastam a insignificância quando presentes, de forma robusta, os vetores objetivos do instituto, em homenagem ao direito penal do fato, conforme orientação consolidada.
+  > 8. Precedentes reafirmam a análise preponderantemente objetiva para aplicação da bagatela penal e reconhecem a atipicidade material em hipóteses análogas de subtração de bens de baixo valor, sem violência, inclusive com determinação de trancamento de ação penal.
+  > 9. Reconhecida a atipicidade material, impõe-se a absolvição, nos termos do art. 386, III, do Código de Processo Penal.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental provido para conhecer do agravo em recurso especial e dar provimento ao recurso especial, com absolvição por atipicidade material, com fundamento no art. 386, III, do Código de Processo Penal.
+  > Tese de julgamento:
+  > 1. A aplicação do princípio da insignificância deve considerar, prioritariamente, os critérios objetivos de mínima ofensividade, ausência de periculosidade social, reduzido grau de reprovabilidade e inexpressividade da lesão jurídica.
+  > 2. A contumácia delitiva, a reincidência, maus antecedentes ou o concurso de agentes não afastam, por si sós, a insignificância penal quando presentes os vetores objetivos do instituto.
+  > 3. A subtração, sem violência ou grave ameaça, de bem de ínfimo valor, restituído à vítima, é materialmente atípica e autoriza a absolvição com base no art. 386, III, do Código de Processo Penal.
+  > (AgRg no AREsp n. 3.062.314/ES, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
+
+## 163. AgRg no AREsp nº 3216337 / RN (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 14/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: Se o Estado não tem tornozeleira e o apenado fica em recolhimento domiciliar noturno, esse período entra na detração (art. 42 do CP). A falha estatal não pode prejudicar o sentenciado; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3216337.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. DETRAÇÃO. INDISPONIBILIDADE DE TORNOZELEIRA ELETRÔNICA. RECOLHIMENTO DOMICILIAR NOTURNO. IMPOSSIBILIDADE DE PREJUÍZO AO APENADO POR DEFICIÊNCIA ESTATAL. RECURSO DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+  > 2. Na origem, em agravo em execução penal, o TJ/RN deu provimento ao recurso defensivo para detrair na pena o período em que o apenado deixou de usar tornozeleira eletrônica por culpa exclusiva do Estado, assentando que, ausente o aparelho de monitoramento eletrônico, deveriam ser impostas medidas alternativas, como o recolhimento domiciliar noturno, e que a deficiência estatal não pode postergar benefícios da execução nem penalizar o sentenciado por entraves burocráticos.
+  > 3. O agravante sustenta a violação do art. 42 do Código Penal e distinção em relação ao Tema 1.155/STJ, afirmando que houve liberdade plena durante a suspensão da execução por indisponibilidade da tornozeleira; o parecer ministerial federal foi pelo desprovimento do agravo regimental.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 4. Há duas questões em discussão: (i) saber se a indisponibilidade do equipamento de monitoramento eletrônico, decorrente de deficiência estatal, autoriza o cômputo, para fins de detração, do período em que a execução não se iniciou ou foi suspensa; e (ii) saber se a ausência de monitoramento eletrônico impede o reconhecimento de restrição de liberdade para fins do art. 42 do Código Penal, à luz do Tema 1.155/STJ.
+  > III. RAZÕES DE DECIDIR
+  > 5. A deficiência estatal não pode prejudicar o apenado, seja postergando o início ou os benefícios da execução, seja transferindo-lhe o ônus de entraves burocráticos. Na falta de monitoramento eletrônico, impõe-se a adoção de medidas alternativas (como recolhimento domiciliar noturno), não a suspensão da execução.
+  > 6. O Tema 1.155/STJ firmou que a tornozeleira eletrônica é instrumento de fiscalização, e não requisito indispensável à caracterização da restrição à liberdade, sendo possível a detração do período de recolhimento domiciliar noturno mesmo sem monitoramento, especialmente quando a indisponibilidade do equipamento decorre de deficiência estatal.
+  > 7. No caso, o Tribunal de origem atribuiu relevância jurídica à interrupção da execução por indisponibilidade do equipamento e reconheceu que a situação não poderia produzir prejuízo ao sentenciado. A alegação de liberdade plena não demonstra violação ao art. 42 do Código Penal, ante a conclusão de que não se pode afastar o cômputo do período por motivo exclusivamente imputável ao Estado.
+  > 8. A jurisprudência desta Corte corrobora a possibilidade de afastar exigência de monitoramento eletrônico para assegurar direitos executórios enquanto não disponibilizado o aparelho, prevenindo excesso de execução e tratamento desigual.
+  > IV. DISPOSITIVO
+  > 9. Agravo regimental desprovido.
+  > (AgRg no AREsp n. 3.216.337/RN, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
+
+## 164. AgRg no HC nº 1124320 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Prisão e medidas cautelares
 - Resumo: Preventiva e regime semiaberto são incompatíveis, em regra (entendimento do STF), salvo reiteração ou violência. Réu primário, condenado por tráfico privilegiado na fração máxima: prisão revogada, com cautelares do art. 319 do CPP; agravo do MPF desprovido.
@@ -21,13 +94,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no HC n. 1.124.320/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 162. ARE nº 1.628.158 / CE (STF)
+## 165. ARE nº 1.628.158 / CE (STF)
 - Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 13/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: O trabalho externo não pode ser negado pela gravidade abstrata dos crimes, pelo saldo de pena ou por ser “prematuro”. ARE do MP com seguimento negado: mantida a reavaliação com base em elementos concretos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628158.pdf
 
-## 163. AgRg no AgRg no HC nº 938203 / RO (STJ)
+## 166. AgRg no AgRg no HC nº 938203 / RO (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Organização criminosa · Competência · Quebra de sigilo
 - Resumo: Cautelares invasivas (interceptações e quebra de sigilos bancário, fiscal e de dados) decretadas por vara federal sem competência, quando a investigação já apontava organização criminosa e lavagem, da competência de vara especializada, são nulas. A teoria do juízo aparente não as salva. Provas derivadas desentranhadas; agravo do MPF desprovido.
@@ -53,7 +126,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 13. Agravo regimental conhecido e desprovido, mantida a decisão que declarou a nulidade dos atos decisórios praticados pelo Juízo da 7ª Vara Federal a partir de 12/04/2021 e determinou o desentranhamento das provas diretamente derivadas, com preservação do exame pelo juízo competente quanto a fontes independentes e ausência de nexo causal.
   > (AgRg no AgRg no HC n. 938.203/RO, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 8/10/2026, DJEN de 13/10/2026.)
 
-## 164. AgRg no REsp nº 2263423 / MG (STJ)
+## 167. AgRg no REsp nº 2263423 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Só pedir que alguém leve droga ao presídio, sem a entrega efetiva, é ato preparatório impunível. Absolvição pelo tráfico (art. 33 da Lei 11.343/2006) mantida; agravo do MPF desprovido.
@@ -72,7 +145,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: A mera solicitação de entrega de entorpecente, sem a efetiva entrega no estabelecimento prisional, configura ato preparatório e é impunível.
   > (AgRg no REsp n. 2.263.423/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2026, DJEN de 13/10/2026.)
 
-## 165. REsp nº 2234555 / AC (STJ)
+## 168. REsp nº 2234555 / AC (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Prescrição
 - Resumo: Pena definitiva de até 2 anos prescreve em 4 anos (art. 109, V, do CP). Passados mais de 4 anos desde o acórdão da apelação, ocorreu a prescrição intercorrente. Punibilidade extinta.
@@ -81,7 +154,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > RECURSO ESPECIAL. PEDIDO DE DECLARAÇÃO DA EXTINÇÃO DE PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA INTERCORRENTE. VERIFICAÇÃO. OCORRÊNCIA. PENA DEFINITIVA DISPOSTA EM PATAMAR IGUAL OU INFERIOR A 2 ANOS DE RECLUSÃO. TRANSCURSO DE PRAZO SUPERIOR A 4 ANOS DESDE O JULGAMENTO DO ACÓRDÃO DA APELAÇÃO CRIMINAL. APLICAÇÃO DO ART. 109, V, DO CP. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.234.555/AC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
 
-## 166. HC nº 1109575 / MS (STJ)
+## 169. HC nº 1109575 / MS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Organização criminosa · Corrupção ativa · Prisão e medidas cautelares
 - Resumo: As cautelas devem ser progressivas (art. 282, §§ 4º e 6º, do CPP). Diante de fatos novos (denúncia rejeitada em outro processo e suspensão da OAB negada), ré primária, crime sem violência e instrução demorada, a domiciliar foi substituída por medidas do art. 319 do CPP.
@@ -95,7 +168,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Ordem concedida nos termos do dispositivo.
   > (HC n. 1.109.575/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
 
-## 167. HC nº 1128832 / CE (STJ)
+## 170. HC nº 1128832 / CE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Errar a alínea do art. 593, III, do CPP no termo da apelação contra o Júri é mera irregularidade se as razões delimitam os pedidos. Recusar-se a julgar a apelação por isso é negativa de prestação jurisdicional. Ordem de ofício para o TJ julgar.
@@ -107,32 +180,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. A recusa de apreciação da apelação criminal, nas circunstâncias em que o vício formal não impede a identificação dos fundamentos e pedidos recursais, configura indevida negativa de prestação jurisdicional.
   > 4. Impetração não conhecida. Ordem concedida de ofício.
   > (HC n. 1.128.832/CE, relator Ministro Og Fernandes, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
-
-## 168. ARE nº 1.627.894 / SP (STF)
-- Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 09/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Quantidade e natureza da droga, sozinhas, não afastam o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Recurso da defesa parcialmente provido para o TJSP aplicar o redutor e fundamentar a fração (cultivo de cerca de 480 pés de maconha).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1627894.pdf
-
-## 169. RHC nº 248906 / BA (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/10/2026.
-- Crime / Tema: Tráfico de drogas · Dosimetria
-- Resumo: A detração do art. 387, § 2º, do CPP tem de ser feita já na sentença para fixar o regime inicial; não pode ser deixada para a Vara de Execuções. Descontada a prisão provisória, a pena de 9 anos caía abaixo de 8, e o tribunal se recusou a examinar isso. Autos devolvidos ao TJBA para refazer o regime, com reflexo na preventiva.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248906.pdf
-
-## 170. ARE nº 1.600.294 / RJ (STF)
-- Decisão colegiada (repercussão geral). Relator: Ministro Presidente. Plenário. Publicado em 08/10/2026.
-- Crime / Tema: Estupro de vulnerável · Repercussão geral
-- Resumo: Tema 1.485/STF (repercussão geral reconhecida, mérito pendente). Vai decidir se é constitucional absolver por estupro de vulnerável (art. 217-A do CP), contra vítima menor de 14 anos, por erro de tipo baseado no consentimento ou comportamento da vítima e na declaração do réu de que desconhecia a idade, e qual o padrão de prova para reconhecer esse erro.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1600294.pdf
-- Ementa oficial:
-  > EMENTA SOBRE REPERCUSSÃO GERAL: DIREITO CONSTITUCIONAL E PENAL. CRIME DE ESTUPRO DE VULNERÁVEL CONTRA MENOR DE 14 ANOS. ERRO DE TIPO INVENCÍVEL FUNDAMENTADO NO CONSENTIMENTO DA VÍTIMA E NA DECLARAÇÃO UNILATERAL DO OFENSOR SOBRE O DESCONHECIMENTO DA IDADE REAL DA OFENDIDA. PRESUNÇÃO DA VIOLÊNCIA. PRINCÍPIO DA PROTEÇÃO INTEGRAL DA CRIANÇA E DO ADOLESCENTE. TRATADOS INTERNACIONAIS SOBRE DIREITOS HUMANOS. QUESTÃO RELEVANTE DO PONTO DE VISTA SOCIAL E JURÍDICO. REPERCUSSÃO GERAL RECONHECIDA.
-  > I. CASO EM EXAME
-  > 1. Recurso extraordinário em que se discute a possibilidade de afastamento da condenação penal por crime de estupro de vulnerável contra vítima menor de 14 anos mediante o reconhecimento de erro de tipo fundamentado no consentimento da ofendida e no desconhecimento do ofensor acerca da real dela.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 2. A questão em discussão consiste em analisar se, no crime previsto no art. 217-A do Código Penal praticado contra vítima menor de 14 anos, a absolvição por erro de tipo fundamentado no consentimento e comportamento da vítima e no desconhecimento do ofensor acerca da idade real da ofendida viola os arts. 1º, III, 1º, III, 5º, LIV e LV, 93, IX e 227, da Constituição Federal.
-  > III. RAZÕES DE DECIDIR
-  > 3. Constitui questão constitucional relevante decidir, nos termos dos princípios mencionados, se é constitucional admitir absolvição pelo crime de estupro de vulnerável praticado contra vítima menor de 14 anos mediante mecanismo dogmático fundamentado no consentimento da vítima e na declaração do ofensor de desconhecimento acerca da idade real da ofendida, à luz do princípio da proteção integral da criança e do adolescente e dos deveres de prevenção, punição e erradicação da violência sexual contra crianças e adolescentes.
-  > IV. DISPOSITIVO E TESE
-  > 4. Repercussão geral reconhecida para as seguintes questões constitucionais: (i) a possibilidade de afastamento da condenação penal no crime previsto no art. 217-A do Código Penal mediante o reconhecimento de erro de tipo invencível fundamentado no consentimento da vítima e na declaração do ofensor de desconhecimento da idade real da ofendida; (ii) o padrão probatório exigido para o reconhecimento de erro de tipo sobre a idade da vítima no crime de estupro de vulnerável.
-  > (STF, ARE n. 1.600.294 RG/RJ, relator Ministro Presidente, Tribunal Pleno, julgado em 25/9/2026, DJe de 8/10/2026.)

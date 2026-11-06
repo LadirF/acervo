@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 10 de 38 (decisões 91 a 100)
+# Acervo de Jurisprudência — Cury Advogados — parte 10 de 39 (decisões 91 a 100)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,19 +8,50 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 91. HC nº 1138222 / MS (STJ)
+## 91. AgRg no AREsp nº 3298877 / PI (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 21/10/2026.
+- Crime / Tema: Homicídio · Tribunal do Júri
+- Resumo: A absolvição pelo quesito genérico pode acolher a clemência sustentada em plenário e registrada em ata, com apoio nas circunstâncias do caso. Veredito mantido; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3298877.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO SIMPLES. TRIBUNAL DO JÚRI. ABSOLVIÇÃO POR QUESITO GENÉRICO. TESE DE CLEMÊNCIA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que não conheceu do recurso especial, em razão do óbice da Súmula n. 7/STJ.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 2. A questão em discussão consiste em saber se a incidência da Súmula 7/STJ impede o exame, em recurso especial, da alegação de decisão do júri manifestamente contrária à prova dos autos, quando a absolvição decorre de quesito genérico, acolhendo tese de clemência.
+  > III. RAZÕES DE DECIDIR
+  > 3. O acórdão de origem registrou a apresentação em ata da tese de clemência e a sua compatibilidade com a Constituição Federal, com o Tema 1.087/STF e com as circunstâncias fáticas do caso, relativas a homicídio simples.
+  > 4. O Tribunal de origem reconheceu a existência de vertente probatória e de circunstâncias fáticas e pessoais mínimas que justificam a tese de clemência, registrada em ata de julgamento, em harmonia com os limites estabelecidos pelo Supremo Tribunal Federal.
+  > 5. A pretensão de anular o julgamento do Tribunal do Júri sob o argumento de decisão contrária à prova dos autos demanda o reavaliação do acervo fático-probatório, providência vedada pela Súmula 7/STJ.
+  > IV. DISPOSITIVO
+  > 6. Agravo regimental desprovido.
+  > (AgRg no AREsp n. 3.298.877/PI, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 15/10/2026, DJEN de 21/10/2026.)
+
+## 92. RHC nº 278.575 / DF (STF)
+- Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 21/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
+- Resumo: Ato infracional anterior, sozinho, não afasta o tráfico privilegiado. RHC parcialmente provido para nova dosimetria.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278575.pdf
+
+## 93. RHC nº 278.498 / PR (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 21/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: Comutação anterior não impede nova comutação pelo Decreto 11.846/2023: os arts. 3º e 4º tratam de hipóteses distintas. RHC provido para reexame do pedido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278498.pdf
+
+## 94. HC nº 1138222 / MS (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: Prisão temporária por crime fora do rol legal e com as diligências já cumpridas é ilegal. Custódia relaxada de ofício, superada a Súmula 691/STF.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1138222.pdf
 
-## 92. RE nº 1.623.966 / SC (STF)
+## 95. RE nº 1.623.966 / SC (STF)
 - Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 21/10/2026.
 - Crime / Tema: Crimes contra as relações de consumo · ANPP
 - Resumo: O ANPP cabe em processo sem trânsito em julgado, mesmo com denúncia recebida antes da Lei 13.964/2019 e condenação já em grau de recurso (HC 185.913/STF). RE da defesa provido: autos ao MP para avaliar o acordo.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1623966.pdf
 
-## 93. AgRg no REsp nº 2224434 / SP (STJ)
+## 96. AgRg no REsp nº 2224434 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: A aprovação no ENEM gera remição mesmo para quem já tem diploma de curso superior: o estudo atual é fato gerador autônomo. Agravo da defesa provido; autos voltam para o cálculo.
@@ -33,7 +64,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental provido para dar provimento ao recurso especial e, ao reformar o acórdão do Tribunal de Justiça do Estado de São Paulo, reconhecer o direito do agravante à remição de pena com base na aprovação parcial no ENEM, determinando-se o retorno dos autos ao Juízo da execução para o devido cômputo da remição correspondente.
   > (AgRg no REsp n. 2.224.434/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 94. REsp nº 2265467 / PR (STJ)
+## 97. REsp nº 2265467 / PR (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: A hipossuficiência declarada se presume verdadeira: cabe ao MP provar que o condenado pode pagar a multa para barrar a reabilitação (art. 94 do CP; Tema 931/STJ). REsp da defesa provido.
@@ -49,7 +80,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.265.467/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 95. AgRg no AREsp nº 3233531 / BA (STJ)
+## 98. AgRg no AREsp nº 3233531 / BA (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: Qualificadora sem prova judicial que a sustente deve ser afastada já na pronúncia. Mantida a exclusão; agravo do MP desprovido.
@@ -68,7 +99,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão monocrática que excluiu as qualificadoras.
   > (AgRg no AREsp n. 3.233.531/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 96. AgRg no AgRg no AREsp nº 3321341 / RJ (STJ)
+## 99. AgRg no AgRg no AREsp nº 3321341 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico
 - Resumo: Prisão em área de facção, droga e rádio comunicador, sem prova de vínculo estável e permanente, não sustentam a associação para o tráfico (art. 35 da Lei 11.343/2006). Absolvição mantida; agravo do MP desprovido.
@@ -90,7 +121,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Resultado do Julgamento: Agravo regimental improvido.
   > (AgRg no AgRg no AREsp n. 3.321.341/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 97. AgRg no AREsp nº 3331286 / CE (STJ)
+## 100. AgRg no AREsp nº 3331286 / CE (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Receptação · Posse ilegal de arma de fogo
 - Resumo: Arma com numeração suprimida não basta para condenar por receptação: a acusação tem de provar que ela é produto de crime. Agravo do MP desprovido.
@@ -102,48 +133,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. O acórdão recorrido destacou não ter havido comprovação da ilicitude da arma, ou seja, que o artefato era produto de crime. A modificação dessa premissa implicaria reexame de fatos e de provas constantes dos autos, procedimento não permitido em recurso especial pelo disposto na Súmula n. 7 do STJ.
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 3.331.286/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
-
-## 98. AgRg no AREsp nº 2532255 / GO (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Imagens históricas do Google Maps exibidas em plenário, sem juntada no prazo do art. 479 do CPP, são prova surpresa. Júri anulado; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2532255.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ART. 479 DO CPP. EXIBIÇÃO DE DOCUMENTOS EM PLENÁRIO SEM JUNTADA PRÉVIA. NULIDADE RELATIVA. PREJUÍZO DEMONSTRADO. GOOGLE MAPS. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. O art. 479 do CPP impõe a juntada, com antecedência mínima de três dias úteis, dos documentos e objetos que serão exibidos no plenário do Júri, como exceção ao art. 231 do CPP, a fim de evitar surpresa e assegurar contraditório e paridade de armas; a inobservância do prazo acarreta nulidade de natureza relativa, que exige demonstração de efetivo prejuízo.
-  > 2. A jurisprudência desta Corte reconhece que o uso do Google Maps, quando limitado a dados públicos e notórios (localização, distâncias e tempos de percurso), não afronta o art. 479 do CPP; contudo, a utilização de imagens para afirmar condições físicas do local em momento diverso do fato, com potencial de influir no convencimento dos jurados, ultrapassa a mera visualização geográfica e demanda observância do tríduo legal, sob pena de nulidade relativa.
-  > 3. No caso concreto, a acusação exibiu, em réplica, imagens do Google Maps referentes aos anos de 2015 e 2018 para sustentar a inexistência de guard rail na rodovia à época do crime (2014), tendo a defesa arguido, oportunamente, a nulidade; a exibição inesperada, na fase final dos debates, impediu resposta técnica adequada e constituiu inovação probatória apta a surpreender a defesa e a influenciar o convencimento dos jurados.
-  > 4. Reconhece-se o prejuízo concreto, pois a prova técnico-geográfica foi introduzida sem a antecedência legal, a obstar o contraditório pleno e a produção de contraprova; não se aplica, na espécie, a orientação que admite o uso da ferramenta apenas para confirmar informações geográficas ostensivas. Mantida, por conseguinte, a anulação do julgamento do Júri por violação do art. 479 do CPP.
-  > 5. Agravo regimental não provido.
-  > (AgRg no AREsp n. 2.532.255/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
-
-## 99. AgRg no AREsp nº 2858086 / DF (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Crimes contra o sistema financeiro · Justa causa
-- Resumo: Gestão temerária exige dolo e não admite responsabilidade penal objetiva; sem descrição concreta da conduta, mantido o trancamento da ação penal. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2858086.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. GESTÃO TEMERÁRIA. TRANCAMENTO DA AÇÃO PENAL. ATIPICIDADE DA CONDUTA. DOLO ESPECÍFICO. INÉPCIA DA DENÚNCIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1.O trancamento da ação penal ou a suspensão de uma investigação criminal pela via do habeas corpus somente é autorizado na evidência de situação de excepcionalidade, vista como “a manifesta atipicidade da conduta, a presença de causa de extinção da punibilidade do paciente ou a ausência de indícios mínimos de autoria e materialidade delitivas” (HC 110.698 - STF).
-  > 2.Na via estreita do recurso especial, o acolhimento da tese ministerial, com o consequente afastamento da conclusão do Tribunal Regional sobre a ausência de tipicidade da conduta, exigiria imprescindível reexame do conjunto fático-probatório dos autos, o que é vedado pelo óbice da Súmula 7 do STJ.
-  > 3.No tocante à alegada violação do art. 619 do CPP, verifica-se que a decisão foi explícita quanto aos fundamentos do trancamento do processo, evidenciando-se apenas o inconformismo da parte com o resultado do julgamento, não havendo omissão, contradição ou obscuridade a ser sanada.
-  > 4.O crime do art. 4º da Lei 7.492/86 exige dolo específico, entendido como a vontade consciente do agente em praticar conduta que, aparentemente, confere viés de legalidade a negócio jurídico que, em sua natureza e concretude, é ilegal; não se afigura possível a responsabilização objetiva na seara penal, sendo necessária a comprovação da culpabilidade como elemento constitutivo da responsabilidade.
-  > 5.A falta de justa causa para a ação penal, em face da atipicidade da conduta, constitui motivo suficiente para o trancamento do processo quando não se comprovam prática delitiva ou dolo específico, não havendo dado concreto que atribua aos agentes responsabilidade pelo injusto penal imputado.
-  > 6.A gravidade de eventuais irregularidades, para fins administrativos, demanda os critérios do art. 4º da Lei 13.506/2017, que define como infrações graves aquelas que produzam ou possam produzir efeitos como: “I - causar dano à liquidez, à solvência ou à higidez ou assumir risco incompatível com a estrutura patrimonial […] II - contribuir para gerar indisciplina no mercado financeiro ou para afetar a estabilidade ou o funcionamento regular do Sistema Financeiro Nacional […] III - dificultar o conhecimento da real situação patrimonial ou financeira […] IV - afetar severamente a finalidade e a continuidade das atividades ou das operações no âmbito do Sistema Financeiro Nacional […]”, pressupostos não evidenciados no caso.
-  > 6. Ausentes fatos novos ou teses jurídicas diversas no agravo regimental que permitam alteração do entendimento anteriormente firmado.
-  > 7.Agravo regimental não provido.
-  > (AgRg no AREsp n. 2.858.086/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
-
-## 100. AgRg no REsp nº 1939308 / DF (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Roubo · Prova digital · Quebra da cadeia de custódia
-- Resumo: Acessar os dados do celular apreendido no flagrante sem ordem judicial nem consentimento é ilícito (Tema 977/STF), e a confissão em juízo, obtida só porque o réu foi identificado por essa devassa, é prova derivada e também ilícita. Sentença cassada para nova análise sem essas provas; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1939308.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. ACESSO A DADOS DE APARELHO CELULAR. RESERVA DE JURISDIÇÃO. ENCONTRO FORTUITO. CADEIA DE CUSTÓDIA. AUSÊNCIA DE ELEMENTOS SEGUROS DE AUTORIA. ILICITUDE DA PROVA. CONFIGURAÇÃO. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. CONFISSÃO JUDICIAL COMO PROVA DERIVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. A jurisprudência das Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça firmou-se no sentido de considerar ilícita a devassa de dados constantes de celular, obtidas diretamente pela polícia em aparelho apreendido, por ocasião da prisão em flagrante, sem prévia autorização judicial. O Supremo Tribunal Federal, ao julgar o ARE n. 1.042.075 (Tema n. 977 da Repercussão Geral), fixou a tese de que, em se tratando de aparelho celular apreendido na forma do art. 6º do CPP ou por ocasião de prisão em flagrante, o acesso aos respectivos dados será condicionado ao consentimento expresso e livre do titular dos dados ou de prévia decisão judicial, que justifique, com base em elementos concretos, a proporcionalidade da medida e delimite sua abrangência à luz dos direitos fundamentais à intimidade, à privacidade, à proteção dos dados pessoais e à autodeterminação informacional, inclusive nos meios digitais (art. 5º, X e LXXIX, da CRFB/88).
-  > 2. A mera apreensão do dispositivo não autoriza, por si só, o acesso aos dados nele armazenados. Tratam-se de atos juridicamente distintos: enquanto a apreensão constitui providência cautelar destinada a preservar a fonte de prova, o acesso ao conteúdo do aparelho configura verdadeira medida de busca de prova, sujeita à reserva de jurisdição, por implicar restrição a direitos fundamentais. Na sociedade contemporânea, o aparelho celular deixou de ser mero instrumento de comunicação por voz para se tornar verdadeiro repositório da vida privada de seu usuário, pois nele estão armazenados, além dos registros de chamadas e mensagens, fotografias pessoais, dados bancários, informações de saúde, histórico de localização, correspondências eletrônicas e interações em redes sociais — conjunto de informações que, reunido, permite traçar perfil detalhado da intimidade, dos hábitos e das relações pessoais do indivíduo. A razão do Supremo ao criar a hipótese do item 1.1 do Tema n. 977 foi precisamente a de contemplar situação em que a polícia, sem nenhuma medida coercitiva prévia, encontra objeto abandonado no espaço público ou na cena do crime, sem nenhuma intervenção sobre a pessoa do suspeito. Ainda que se admitisse o enquadramento do caso concreto na hipótese de encontro fortuito prevista no item 1.1 do Tema n. 977, a dispensa de autorização judicial ali consagrada não é absoluta nem incondicionada: o próprio enunciado da tese exige a) que o acesso tenha por finalidade exclusiva o esclarecimento da autoria do fato criminoso ou da identidade do proprietário do aparelho e b) que a adoção da medida seja justificada posteriormente.
-  > 3. No caso concreto, o aparelho celular não foi encontrado pela polícia na cena do crime durante inspeção de rotina ou em local público. Foi resgatado pela própria vítima, que o avistou durante a perseguição que empreendeu contra os autores do delito, e posteriormente entregue à autoridade policial na delegacia, por ocasião do registro da ocorrência. O intervalo entre o resgate do aparelho pela vítima e a sua efetiva entrega à autoridade policial, sem nenhum registro formal de lacramento ou preservação da cadeia de custódia dos dados telemáticos, compromete a integridade e a confiabilidade do material probatório. Ademais, a moldura fática delineada nos autos evidencia a total ausência de elementos que permitam concluir, com a segurança mínima exigida pelo processo penal, que o aparelho celular encontrado durante a fuga pertencia, efetivamente, a um dos autores do roubo e, mais especificamente, ao recorrente. A própria vítima declarou expressamente que não foi possível reconhecer o postulante como um dos autores do roubo, uma vez que este se encontrava com o rosto coberto por uma máscara durante a ação delituosa, de forma que sua identificação se fundou exclusivamente na existência de fotografias suas armazenadas no aparelho celular encontrado — circunstância que, no máximo, indica a titularidade do dispositivo, mas que é insuficiente para demonstrar o envolvimento na ação delituosa. O acesso aos dados do celular foi, simultaneamente, o único meio disponível para identificar o suspeito e a única prova de sua participação no delito.
-  > 4. A confissão judicial foi colhida em momento posterior à identificação do agravado por meio do acesso ilícito ao celular. Sem a devassa nos dados do aparelho, o agravado jamais teria sido identificado, jamais haveria sido investigado, jamais haveria sido denunciado e, portanto, jamais haveria prestado declarações em juízo. A confissão é, nessa perspectiva, um fruto derivado da prova ilícita, alcançada pela teoria dos frutos da árvore envenenada (art. 157, § 1º, do CPP). O reconhecimento da ilicitude da prova originária não afasta, per se, a condenação: a cassação da sentença foi determinada para que o Juízo de primeiro grau proceda a nova análise do conjunto probatório remanescente, devendo expurgar as provas ilícitas e suas derivadas e verificar se, sem elas, ainda há suporte suficiente para a manutenção da condenação. A teoria da descoberta inevitável (art. 157, § 2º, do CPP), invocável quando a prova seria produzida de qualquer modo como resultado das atividades investigativas regulares, não se aplica ao caso, pois não há nos autos nenhum elemento que indique que a identificação do agravado seria inevitavelmente alcançada por outro meio independente; ao contrário, as diligências realizadas foram infrutíferas e a vítima era incapaz de reconhecê-lo.
-  > 5. Agravo regimental não provido.
-  > (AgRg no REsp n. 1.939.308/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/10/2026, DJEN de 20/10/2026.)

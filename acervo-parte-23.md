@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 23 de 38 (decisões 221 a 230)
+# Acervo de Jurisprudência — Cury Advogados — parte 23 de 39 (decisões 221 a 230)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,31 +8,62 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 221. RHC nº 277.409 / ES (STF)
+## 221. RHC nº 248048 / MG (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
+- Resumo: Preventiva por tráfico revogada: pequena quantidade de droga não justifica a prisão, ainda que a ré responda a outra ação penal por tráfico. Medidas cautelares diversas são suficientes.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248048.pdf
+
+## 222. HC nº 1131734 / PB (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
+- Resumo: Impronúncia de ofício: pronúncia baseada só em testemunhos indiretos (“ouvir dizer”) e em áudio de motorista de aplicativo não juntado aos autos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131734.pdf
+
+## 223. RE nº 1.615.925 / MG (STF)
+- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 25/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Andar com a mão na cintura segurando as calças e olhando para o chão é suspeita subjetiva, não fundada suspeita para busca pessoal (art. 244 do CPP). Mantida a absolvição por tráfico; RE do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1615925.pdf
+- Ementa oficial:
+  > DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO EM FACE DE ACÓRDÃO DO STJ. TRÁFICO DE DROGAS. ABSOLVIÇÃO. AUSÊNCIA DE FUNDADAS SUSPEITAS PARA A ABORDAGEM. RECURSO DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Trata-se de recurso extraordinário apresentado pelo MPMG contra acórdão do STJ que deu provimento a recurso especial para absolver o réu da acusação de tráfico de drogas, tendo em vista o reconhecimento da ilegalidade e da ausência de justa causa da abordagem policial que resultou no encontro dos entorpecentes. No recurso, o MPMG aduz que a abordagem e a revista foram justificadas e que o julgado do STJ violou o art. 5º, LVI, e o art. 144, §5º, ambos da Constituição Federal.
+  > II. QUESTÕES EM DISCUSSÃO
+  > 2. Verificar se estão presentes os óbices ao conhecimento e eventual provimento do recurso e se, de fato, o acórdão recorrido violou frontalmente os dispositivos constitucionais invocados.
+  > III. RAZÕES DE DECIDIR
+  > 3. Não há que se confundir, por evidente, justa causa com prova suficiente para a condenação. Menos ainda há que se confundir justa causa com certeza absoluta do crime. Trata-se, porém, de exigir fundadas razões a serem devidamente justificadas a posteriori, objetiva ou descritivamente e para além de mera ou vã suspeita.
+  > 4. O julgado recorrido, relatado pelo e. Ministro Reynaldo Soares da Fonseca, foi bem fundamentado e apontou a ausência de fundadas suspeitas para a revista, tendo a ação policial se pautado por razões subjetivas, mal explicadas. Nesse sentido, da própria sentença que inicialmente absolveu o acusado, se extrai a narrativa do policial de que viu “o indivíduo andando com a mão na cintura, segurando as calças”, “olhando para o chão” e que isso “levantou suspeita”.
+  > 5. A atitude descrita pelo próprio policial, por certo, não configura, objetivamente, uma postura suspeita da prática de crimes e que justifique que alguém seja abordado na rua e revistado. Ao contrário, revela uma vã suspeita, com alto grau de subjetividade, um mero tirocínio, o que esta Corte refuta em defesa das garantias dos direitos fundamentais dos cidadãos.
+  > IV. DISPOSITIVO
+  > 6. Recurso extraordinário ao qual se nega provimento.
+  > (STF, RE n. 1.615.925/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 14/9/2026, DJe de 25/9/2026.)
+
+## 224. RHC nº 277.409 / ES (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 25/09/2026.
 - Crime / Tema: Tráfico de drogas · Falsa identidade · Cabimento do HC
 - Resumo: A unirrecorribilidade não se aplica ao HC: recurso especial ou agravo em recurso especial pendente não impede o STJ de conhecer do HC. Acórdão do STJ cassado para que julgue o mérito do HC.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277409.pdf
 
-## 222. AREsp nº 3115056 / RS (STJ)
+## 225. AREsp nº 3115056 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Prova digital · Quebra da cadeia de custódia
 - Resumo: Prints de WhatsApp extraídos sem perícia nem documentação da cadeia de custódia: anulado o acórdão dos embargos para o TJRS esclarecer como os dados foram arrecadados e extraídos e examinar a integridade da prova (arts. 158-A a 158-F do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115056.pdf
 
-## 223. HC nº 1131181 / PR (STJ)
+## 226. HC nº 1131181 / PR (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Violência doméstica · Prova digital · Quebra da cadeia de custódia
 - Resumo: Imagens digitais juntadas ao processo de violência doméstica: ordem concedida de ofício para assegurar à defesa o controle técnico delas (metadados), com desentranhamento se não forem auditáveis.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131181.pdf
 
-## 224. ARE nº 1.623.941 / GO (STF)
+## 227. ARE nº 1.623.941 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 24/09/2026.
 - Crime / Tema: Homicídio qualificado · Pronúncia
 - Resumo: Impronúncia por falta de indícios suficientes de autoria mantida: rever exige reexame de provas, e a impronúncia não ofende a competência do Júri (Tema 154/STF). ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623941.pdf
 
-## 225. REsp nº 2270023 / SC (STJ)
+## 228. REsp nº 2270023 / SC (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Peculato · Continuidade delitiva · Dosimetria
 - Resumo: "Rachadinha" (peculato-desvio): repasses mensais padronizados de servidores do mesmo gabinete configuram continuidade delitiva (art. 71 do CP), e não concurso material. A pluralidade de vítimas não afasta, por si só, o crime continuado. A habitualidade criminosa exige condutas autônomas com dolo renovado. Recurso do MP desprovido: mantidas as penas de 6 anos e 5 anos (a sentença tinha fixado 24 e 20).
@@ -60,13 +91,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Em esquema de peculato-desvio praticado no mesmo gabinete, com repasses mensais padronizados e atuação conjunta, incide o art. 71 do Código Penal, afastando o concurso material do art. 69.
   > (REsp n. 2.270.023/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/9/2026, DJEN de 24/9/2026.)
 
-## 226. AgRg no HC nº 1115674 / SP (STJ)
+## 229. AgRg no HC nº 1115674 / SP (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Busca pessoal ilícita: blusa de frio com volume no bolso em dia quente e prévio conhecimento policial não configuram fundada suspeita. Absolvição de ofício (tráfico).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115674.pdf
 
-## 227. AgRg no AgRg no HC nº 1066684 / BA (STJ)
+## 230. AgRg no AgRg no HC nº 1066684 / BA (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/09/2026.
 - Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
 - Resumo: Prisão cautelar por mais de 3 anos (domiciliar desde 2024) configura excesso de prazo, ainda que a causa seja complexa. Relaxamento mantido e estendido aos corréus (art. 580 do CPP); agravos do MP desprovidos.
@@ -92,46 +123,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. A manutenção de prisão cautelar por lapso que desnatura o caráter precário configura constrangimento ilegal diante do princípio da duração razoável do processo.
   > 3. Não cabe ao Superior Tribunal de Justiça apreciar dispositivos constitucionais para fins de prequestionamento.
   > (AgRg no AgRg no HC n. 1.066.684/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2026, DJEN de 23/9/2026.)
-
-## 228. AgExPen nº 9000340-23.2026.4.04.7017 / PR (TRF4)
-- Decisão colegiada. Relator: Des. Fed. Luiz Carlos Canalli. 7ª Turma. Publicado em 23/09/2026.
-- Crime / Tema: Execução penal
-- Resumo: A reconversão das penas restritivas em privativa de liberdade (art. 181, § 1º, da LEP) exige descumprimento injustificado. É nula a intimação por edital feita depois de tentar a intimação pessoal em endereço errado, sem esgotar os meios de localização. Sem ocultação deliberada, não há falta grave (art. 50, II, da LEP). Reconversão e regressão ao regime fechado anuladas, e restabelecidas as penas restritivas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-agexpen-9000340-23-2026.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO DE EXECUÇÃO PENAL. RECONVERSÃO DE PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. INTIMAÇÃO POR EDITAL PREMATURA. NULIDADE RECONHECIDA. PROVIMENTO DO RECURSO.
-  > I. CASO EM EXAME:
-  > 1. Agravo de execução penal interposto contra decisão que determinou a reconversão das penas restritivas de direitos em pena privativa de liberdade, em regime inicial fechado, sob o fundamento de que o apenado se encontrava em local incerto e não atendeu à intimação por edital.
-  > II. QUESTÃO EM DISCUSSÃO:
-  > 2. A questão em discussão consiste em saber se é válida a reconversão das penas restritivas de direitos em privativa de liberdade quando a intimação pessoal foi tentada em endereço incorreto e realizada por edital de forma prematura, sem o esgotamento dos meios de localização do apenado.
-  > III. RAZÕES DE DECIDIR:
-  > 3. A conversão da pena restritiva de direitos em privativa de liberdade exige o descumprimento injustificado da obrigação imposta, nos termos do art. 181, § 1º, da LEP, em observância às garantias do contraditório e da ampla defesa previstas no art. 5º, LV, da CF/1988.
-  > 4. Há nulidade na intimação por edital quando a tentativa de intimação pessoal do apenado é realizada em endereço incorreto, diverso daquele constante nos autos e indicado pelo Ministério Público Federal.
-  > 5. A intimação por edital possui natureza ficta e excepcional, sendo cabível apenas após o esgotamento de todos os meios razoáveis para a localização presencial do apenado.
-  > 6. Inexistindo intimação pessoal válida e não demonstrada a ocultação deliberada do apenado, não se caracteriza a frustração injustificada do cumprimento da pena ou a prática de falta grave prevista no art. 50, II, da LEP.
-  > 7. A ausência de esgotamento dos meios de localização do apenado impõe a anulação da decisão de reconversão das penas e o restabelecimento das penas restritivas de direitos originalmente impostas.
-  > IV. DISPOSITIVO E TESE:
-  > 8. Recurso provido.
-  > Tese de julgamento: 9. É nula a reconversão de penas restritivas de direitos em privativa de liberdade quando a intimação por edital é realizada de forma prematura, sem a prévia tentativa de intimação pessoal no endereço correto constante dos autos.
-  > (TRF4, Agravo de Execução Penal n. 9000340-23.2026.4.04.7017/PR, relator Desembargador Federal Luiz Carlos Canalli, 7ª Turma, julgado em 25/8/2026, publicado em 23/9/2026.)
-
-## 229. REsp nº 2204206 / PE (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/09/2026.
-- Crime / Tema: Prova digital · Quebra da cadeia de custódia · Justa causa
-- Resumo: Sem fonte independente, a denúncia baseada só nos sistemas Drousys e My Web Day B, declarados imprestáveis pelo STF por comprometimento da cadeia de custódia, não tem justa causa. Mantida a rejeição da denúncia; REsp do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2204206.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. AÇÃO PENAL. REJEIÇÃO DA DENÚNCIA POR FALTA DE JUSTA CAUSA. DECISÃO DO STF SOBRE IMPRESTABILIDADE DOS SISTEMAS DROUSYS E MY WEB DAY B. DERIVAÇÃO DAS PROVAS. AUSÊNCIA DE FONTE INDEPENDENTE. ART. 157, § 1º, SEGUNDA PARTE, DO CPP. PROVA ILÍCITA POR DERIVAÇÃO. REVALORAÇÃO JURÍDICA INVIÁVEL. SÚMULA 7/STJ. ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS. PRESTAÇÃO JURISDICIONAL ADEQUADA. TESE DO IN DUBIO PRO SOCIETATE REFUTADA. MANUTENÇÃO DOS ACÓRDÃOS QUE AFASTARAM A JUSTA CAUSA. PRETENSÃO DE PROSSEGUIMENTO DA AÇÃO PENAL SEM LASTRO AUTÔNOMO.
-  > 1. A ação penal foi trancada em relação à recorrida por falta de justa causa após decisão que reconheceu a imprestabilidade dos sistemas Drousys e My Web Day B. O Tribunal de origem confirmou que todas as provas relativas à recorrida derivavam desses sistemas.
-  > 2. O Ministério Público Federal sustenta a existência de provas independentes e a aplicação do art. 157, § 1º, do Código de Processo Penal, além de alegar omissão quanto ao art. 619 do Código de Processo Penal.
-  > 3. O acórdão recorrido refuta a tese de fonte independente e afirma que pedidos de cooperação internacional, quebras de sigilo e demais elementos também decorrem dos sistemas invalidados.
-  > 4. A revisão da origem e da autonomia das provas demanda reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ, conforme precedente do Superior Tribunal de Justiça.
-  > 5. Não procede a alegação de prestação jurisdicional deficiente, pois a Corte de origem enfrentou a ilicitude por derivação, rejeitou a existência de provas independentes e afastou a tese do in dubio pro societate, em consonância com a jurisprudência do Superior Tribunal de Justiça.
-  > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
-  > (REsp n. 2.204.206/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/9/2026, DJEN de 22/9/2026.)
-
-## 230. HC nº 1125136 / PB (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 22/09/2026.
-- Crime / Tema: Crimes contra a ordem tributária · Prescrição
-- Resumo: Crime tributário material (art. 1º, II, da Lei 8.137/90): a prescrição corre da constituição definitiva do crédito (SV 24), conta a pena sem o acréscimo da continuidade (Súmula 497/STF) e cai pela metade para maior de 70 anos na data do acórdão (art. 115 do CP). Prescrição reconhecida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1125136.pdf

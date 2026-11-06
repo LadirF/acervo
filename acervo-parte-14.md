@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 14 de 38 (decisões 131 a 140)
+# Acervo de Jurisprudência — Cury Advogados — parte 14 de 39 (decisões 131 a 140)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,25 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 131. ApCrim nº 0204142-84.2025.8.06.0312 (TJCE)
+## 131. HC nº 1136779 / BA (STJ)
+- Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Violência doméstica · Prisão e medidas cautelares · Superação da Súmula 691
+- Resumo: Quem recebe liberdade provisória com fiança e continua preso por não poder pagar, assistido pela Defensoria, não pode ficar preso por pobreza (art. 350 do CPP; HC coletivo 568.693/ES). Fiança dispensada, mantidas as protetivas e cautelares; Súmula 691 superada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136779.pdf
+
+## 132. HC nº 1128385 / PR (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Furto · Execução penal
+- Resumo: No indulto do Decreto 12.338/2024 (art. 9º, XV), a assistência pela Defensoria presume a incapacidade econômica (art. 12, § 2º) e dispensa a reparação do dano, sem exigir arrependimento posterior. Indulto restabelecido nas condenações por furto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128385.pdf
+
+## 133. HC nº 1114885 / BA (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Reconhecimento feito sem as cautelas do art. 226 do CPP, só confirmado em juízo, sem flagrante, apreensão de bens ou outra prova independente, não sustenta a condenação (Tema 1.258/STJ). Réu absolvido de roubo e importunação sexual (art. 386, VII, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114885.pdf
+
+## 134. ApCrim nº 0204142-84.2025.8.06.0312 (TJCE)
 - Decisão colegiada. Relatora: Des.ª Lira Ramos de Oliveira. 1ª Câmara Criminal. Publicado em 16/10/2026.
 - Crime / Tema: Tráfico de drogas · Porte ilegal de munição · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Busca pessoal só porque o réu 'olhava para trás e parecia nervoso', sem elemento objetivo, é ilícita (art. 244 do CPP), assim como o ingresso na casa que dela decorreu. Local ermo e notícias genéricas de tráfico na região não suprem a falta de fundada suspeita. Sem outras provas, réu absolvido de tráfico e porte de munição (art. 386, VII, do CPP).
@@ -44,25 +62,25 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: "1. A busca pessoal sem mandado judicial exige fundada suspeita objetiva e concreta, não sendo suficientes para sua legitimação meras percepções subjetivas, comportamentos ambíguos ou o simples o fato de se encontrar em local conhecido pelo intenso tráfico de drogas. 2. Quando a busca pessoal é realizada sem fundada suspeita, em violação ao art. 244 do CPP, as provas dela decorrentes são ilícitas e devem ser desentranhadas do processo, conforme art. 157 do CPP e art. 5º, LVI, da Constituição Federal. 3. O fato de terem sido encontradas drogas após a revista ilegal não convalida a ilegalidade prévia, sendo necessário que o elemento "fundada suspeita" seja aferido com base nas circunstâncias anteriores à diligência."
   > (TJCE, Apelação Criminal n. 0204142-84.2025.8.06.0312, relatora Desembargadora Lira Ramos de Oliveira, 1ª Câmara Criminal, julgado em 6/10/2026, publicado em 16/10/2026.)
 
-## 132. AREsp nº 3352144 / SP (STJ)
+## 135. AREsp nº 3352144 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Porte de drogas para consumo pessoal · Justa causa
 - Resumo: Porte de 0,9 g de cocaína para consumo pessoal, sem ofensividade penalmente relevante, é materialmente atípico (art. 28 da Lei 11.343/2006). Agravo não conhecido, mas HC de ofício: restabelecida a rejeição da denúncia (art. 395, II, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3352144.pdf
 
-## 133. RHC nº 277.819 / SC (STF)
+## 136. RHC nº 277.819 / SC (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
 - Crime / Tema: Roubo · Dosimetria
 - Resumo: Frações sucessivas sobre resultados parciais na primeira fase da dosimetria geram efeito cascata: devem incidir sobre a pena mínima. Ordem parcialmente concedida para redimensionar a pena.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277819.pdf
 
-## 134. ARE nº 1.627.640 / RJ (STF)
+## 137. ARE nº 1.627.640 / RJ (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 15/10/2026.
 - Crime / Tema: Extorsão · Execução penal
 - Resumo: A hediondez que impede indulto ou comutação é aferida pela lei vigente na data dos fatos (irretroatividade da lei penal mais gravosa). RE da defesa provido para reexame do benefício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1627640.pdf
 
-## 135. RE nº 1.621.705 / MG (STF)
+## 138. RE nº 1.621.705 / MG (STF)
 - Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Absolvição por tráfico sem apreensão nem perícia da droga, só com interceptações sobre a negociação, mantida: a Segunda Turma negou seguimento ao RE do MP, porque a suficiência da prova da materialidade é questão infraconstitucional (Súmulas 282 e 356/STF).
@@ -82,13 +100,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Recurso com seguimento negado.
   > (STF, RE n. 1.621.705/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 2/10/2026, DJe de 15/10/2026.)
 
-## 136. ARE nº 1.621.303 / GO (STF)
+## 139. ARE nº 1.621.303 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 15/10/2026.
 - Crime / Tema: Homicídio · Excesso de prazo · Justa causa
 - Resumo: Mantido o trancamento de ofício de inquérito por homicídio, pela demora excessiva do MP em denunciar e pela falta de indícios mínimos de autoria; a investigação pode ser reaberta com prova nova. ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1621303.pdf
 
-## 137. REsp nº 2246666 / SP (STJ)
+## 140. REsp nº 2246666 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Violência doméstica
 - Resumo: Há controvérsia séria sobre o recurso cabível contra decisão sobre medidas protetivas de urgência (agravo de instrumento ou RESE). Por isso, usar o recurso 'errado' não é erro grosseiro, e ele deve ser aproveitado pela fungibilidade recursal (art. 579 do CPP).
@@ -101,44 +119,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. O conjunto argumentativo revelou debate centrado na natureza penal das medidas, na delimitação da fungibilidade e na compatibilidade da via eleita, culminando na adoção da orientação favorável ao aproveitamento do recurso diante da controvérsia estabelecida.
   > 5. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.246.666/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
-
-## 138. HC nº 1111206 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Furto · Princípio da insignificância
-- Resumo: Reincidência e habitualidade não impedem, por si sós, a insignificância quando o caso é excepcional: desodorante de R$ 17,99, restituído, e réu tecnicamente primário. Ação penal trancada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111206.pdf
-- Ementa oficial:
-  > DIREITO PENAL. HABEAS CORPUS. FURTO SIMPLES. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. INEXPRESSIVIDADE DA LESÃO JURÍDICA. PEQUENO VALOR DO BEM SUBTRAÍDO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE.
-  > 1. Ainda que se reconheça a inadmissibilidade do habeas corpus substitutivo de recurso especial, é possível a concessão da ordem para sanar constrangimento ilegal manifesto.
-  > 2. A reincidência e a habitualidade delitiva constituem óbices iniciais à incidência do princípio da insignificância, mas não impedem seu reconhecimento diante de peculiaridades excepcionais do caso concreto. Precedentes.
-  > 3. Na espécie, embora conste que o paciente tenha sido preso em flagrante ao menos três vezes, no mesmo ano, por subtrações patrimoniais, as demais circunstâncias objetivas – pequeno valor do bem (frasco de desodorante avaliado em R$ 17,99 – dezessete reais e noventa e nove centavos), restituição da res furtiva e primariedade técnica – revelam reduzido desvalor da conduta e tornam desproporcional o prosseguimento da ação penal.
-  > 4. Ordem concedida para determinar o trancamento da ação penal.
-  > (HC n. 1.111.206/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
-
-## 139. AgRg no REsp nº 2257004 / AL (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Furto · Dosimetria
-- Resumo: No furto de cabos, a referência genérica a 'prejuízo à coletividade' e o laudo que só mede a res furtiva não elevam a pena-base pelas consequências do crime: é preciso demonstrar impacto concreto e extraordinário ao serviço público. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2257004.pdf
-- Ementa oficial:
-  > PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO GENÉRICA. AUSÊNCIA DE SUPORTE PROBATÓRIO CONCRETO DE IMPACTO EXTRAORDINÁRIO AO SERVIÇO PÚBLICO. LAUDO PERICIAL QUE APENAS QUANTIFICA A RES FURTIVA. DECISÃO MONOCRÁTICA EM CONFORMIDADE COM A JURISPRUDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. A valoração negativa das consequências do crime exige motivação concreta que demonstre resultado que extrapole os efeitos inerentes ao tipo penal, não sendo suficiente a referência genérica a “prejuízo à coletividade”.
-  > 2. O laudo pericial que apenas quantifica a extensão da res furtiva, desacompanhado de elementos objetivos que evidenciem impacto extraordinário ao serviço público (como interrupções efetivas ou danos específicos), não autoriza a exasperação da pena-base pela vetorial “consequências do crime”.
-  > 3. Não fere o princípio da colegialidade a decisão monocrática proferida em conformidade com a jurisprudência desta Corte, preservada a apreciação colegiada mediante agravo regimental (AgRg no AREsp n. 2.271.242/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 27/8/2024).
-  > 4. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.257.004/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 15/10/2026.)
-
-## 140. AgRg no HC nº 1077013 / RS (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Prisão e medidas cautelares
-- Resumo: A preventiva decretada em grau de recurso exige risco concreto e atual. O réu ficou mais de 4 meses solto cumprindo cautelares rigorosas, sem descumprimento: gravidade das imputações, repercussão social e posição acadêmica e profissional não bastam. Medidas do art. 319 do CPP mantidas; agravo do MP desprovido, por maioria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1077013.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA DECRETADA EM SEDE RECURSAL. CRIMES CONTRA A DIGNIDADE SEXUAL, CÁRCERE PRIVADO E VIOLÊNCIA PSICOLÓGICA. GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE ELEMENTOS CONCRETOS E CONTEMPORÂNEOS. PERÍODO SUPERIOR A QUATRO MESES EM LIBERDADE. CUMPRIMENTO REGULAR DE RIGOROSAS MEDIDAS CAUTELARES. GRAVIDADE DAS IMPUTAÇÕES, REPERCUSSÃO SOCIAL E POSIÇÃO ACADÊMICA E PROFISSIONAL DO ACUSADO. FUNDAMENTOS INSUFICIENTES, ISOLADAMENTE, PARA A SEGREGAÇÃO CAUTELAR. MEDIDAS ALTERNATIVAS ADEQUADAS E PROPORCIONAIS. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. A prisão preventiva, por constituir medida excepcional, exige demonstração concreta da prova da materialidade, de indícios suficientes de autoria e do perigo gerado pelo estado de liberdade do imputado, além da presença de fundamento previsto no art. 312 do Código de Processo Penal.
-  > 2. No caso, entre 21/10/2025 e 2/3/2026, o agravado permaneceu em liberdade por período superior a quatro meses, submetido a medidas cautelares rigorosas e sem notícia de descumprimento ou de reiteração delitiva. A exigência de contemporaneidade não se satisfaz com a mera gravidade das imputações ou com a repercussão social do caso.
-  > 3. A correlação temporal entre o aumento de relatos durante a prisão temporária e a interrupção de novas denúncias após a liberdade não autoriza, por si só, a decretação da prisão preventiva, ausente demonstração empírica de risco atual. A segregação cautelar não pode apoiar-se em causalidade presumida.
-  > 4. A influência acadêmico-profissional do agravado, desacompanhada de atos concretos contemporâneos de ameaça, contato indevido ou interferência na colheita da prova, não basta para legitimar a custódia extrema, sobretudo quando já impostas medidas do art. 319 do CPP voltadas a mitigar tais riscos.
-  > 5. As medidas cautelares diversas se mostraram adequadas e suficientes no período em liberdade, podendo ser readequadas pelo Juízo competente, sem prejuízo de nova decretação da prisão caso sobrevenham fatos concretos e contemporâneos.
-  > 6. Agravo regimental não provido.
-  > (AgRg no HC n. 1.077.013/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/9/2026, DJEN de 15/10/2026.)

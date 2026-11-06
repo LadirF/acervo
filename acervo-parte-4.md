@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 4 de 38 (decisões 31 a 40)
+# Acervo de Jurisprudência — Cury Advogados — parte 4 de 39 (decisões 31 a 40)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,19 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 31. AgRg no AREsp nº 3244311 / MG (STJ)
+## 31. AREsp nº 3321210 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Reconhecimento feito só na delegacia, sem as regras do art. 226 do CPP e apenas reafirmado pela vítima em juízo, não prova a autoria sem outra prova independente (Tema 1.258/STJ). REsp da defesa provido para absolver, com extensão ao corréu (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3321210.pdf
+
+## 32. AREsp nº 3266856 / SP (STJ)
+- Decisão monocrática. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Receptação · Fundada suspeita · Busca e apreensão
+- Resumo: Mudar de direção ou atravessar a rua ao avistar a polícia, sem outro dado objetivo, não é fundada suspeita para busca pessoal (art. 244 do CPP); a apreensão do celular e a consulta do IMEI são ilícitas por derivação. REsp da defesa provido; réu absolvido de receptação.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3266856.pdf
+
+## 33. AgRg no AREsp nº 3244311 / MG (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · ANPP
 - Resumo: Reconhecido o tráfico privilegiado, a redução entra no cálculo da pena mínima para o ANPP (art. 28-A do CPP), e a recusa do MP baseada só na gravidade abstrata do crime é inválida. Agravo do MP desprovido; autos voltam para o MP examinar o acordo de forma motivada.
@@ -34,7 +46,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Havendo possível excesso de acusação decorrente da desclassificação para tráfico privilegiado, os autos devem retornar à origem para que o Ministério Público examine, de forma motivada, a proposta de ANPP.
   > (AgRg no AREsp n. 3.244.311/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 32. AgRg no AREsp nº 3270585 / BA (STJ)
+## 34. AgRg no AREsp nº 3270585 / BA (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Roubo · Dosimetria
 - Resumo: No concurso formal próprio, o aumento vai de 1/6 a 1/2 conforme o número de crimes: com 6 ou mais, aplica-se 1/2, nunca 2/3 (art. 70 do CP). Agravo da defesa desprovido (Súmula 284/STF), mas HC de ofício reduz a pena dos três réus.
@@ -60,7 +72,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. A fração de aumento pelo concurso formal de crimes deve observar os limites do art. 70 do CP, aplicando-se 1/2 quando praticadas 6 ou mais infrações, vedada a majoração acima desse patamar.
   > (AgRg no AREsp n. 3.270.585/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 33. AgRg no AREsp nº 3248667 / PA (STJ)
+## 35. AgRg no AREsp nº 3248667 / PA (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Crimes ambientais
 - Resumo: No crime do art. 50-A da Lei 9.605/1998, a natureza pública ou devoluta da área deve estar certificada antes do desmatamento; com a demarcação da terra indígena suspensa, a dúvida sobre a área e sobre o dolo leva à absolvição. Agravo do MPF desprovido (Súmula 7/STJ).
@@ -83,25 +95,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Persistindo dúvida razoável sobre a natureza jurídica da área e sobre o dolo, a absolvição deve ser mantida com fundamento no CPP, Art. 386, VII.
   > (AgRg no AREsp n. 3.248.667/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 34. HC nº 279.008 / SP (STF)
+## 36. HC nº 279.008 / SP (STF)
 - Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 03/11/2026.
 - Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
 - Resumo: Pequena quantidade de maconha (9,89 g), sem flagrante de venda nem petrechos de comércio, não sustenta a condenação por tráfico: aplica-se a presunção de uso do Tema 506/STF (RE 635.659). HC concedido após o trânsito em julgado para absolver (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279008.pdf
 
-## 35. ARE nº 1.630.118 / GO (STF)
+## 37. ARE nº 1.630.118 / GO (STF)
 - Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 03/11/2026.
 - Crime / Tema: Perturbação do sossego
 - Resumo: A perturbação do sossego (art. 42, III, da LCP) exige atingir uma multiplicidade de pessoas; o incômodo a uma só vítima não configura a contravenção. O STF negou seguimento ao ARE do MP (Súmula 279/STF e ofensa reflexa) e manteve a absolvição.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630118.pdf
 
-## 36. RHC nº 278.721 / ES (STF)
+## 38. RHC nº 278.721 / ES (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 03/11/2026.
 - Crime / Tema: Tráfico de drogas · Ato infracional (ECA)
 - Resumo: No procedimento do ECA, o adolescente deve ser notificado pessoalmente para a audiência e ouvido como último ato da instrução (arts. 184 e 187 do ECA; art. 400 do CPP); a falta de oitiva é nulidade absoluta, que a defesa técnica não supre. RHC provido para anular a instrução e a sentença.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278721.pdf
 
-## 37. AgRg no REsp nº 2265602 / MG (STJ)
+## 39. AgRg no HC nº 1126685 / SP (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 29/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: Prévio recolhimento à prisão dispensado, em caso excepcional, para analisar a transferência da execução (art. 105 da LEP): o paciente reside com a família em outro estado. Agravo provido; ordem concedida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1126685.pdf
+
+## 40. AgRg no REsp nº 2265602 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Condenação com punibilidade extinta há mais de 10 anos antes do novo crime não serve como maus antecedentes, ainda que o crime anterior seja grave (art. 59 do CP). Sem outros elementos, 68 g de crack e uma balança não justificam fração menor que 2/3 no tráfico privilegiado. Agravo do MP desprovido.
@@ -122,52 +140,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. DISPOSITIVO
   > 9. Agravo regimental não provido.
   > (AgRg no REsp n. 2.265.602/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
-
-## 38. AgRg no REsp nº 2243946 / MG (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
-- Crime / Tema: Tráfico de drogas · Execução penal
-- Resumo: O apenado assistido pela Defensoria tem presunção relativa de hipossuficiência; cabe ao MP provar que ele pode pagar a multa (art. 51 do CP; Tema 931/STJ), e a ADI 7.032/STF não muda isso. Agravo do MP desprovido; mantida a extinção da punibilidade sem o pagamento da multa.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2243946.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. HIPOSSUFICIÊNCIA. ASSISTÊNCIA PELA DEFENSORIA PÚBLICA. PRESUNÇÃO RELATIVA. ÔNUS DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE PROVA DA CAPACIDADE ECONÔMICA. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto contra decisão monocrática que conheceu do recurso especial e negou-lhe provimento. O acórdão recorrido manteve a extinção da punibilidade após o cumprimento da pena privativa de liberdade, apesar do inadimplemento da multa, diante da hipossuficiência do apenado, assistido pela Defensoria Pública. O agravante requer a reforma da decisão para determinar novo exame da situação econômica do sentenciado, nos termos do art. 51 do Código Penal.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 2. A questão em discussão consiste em saber se a hipossuficiência reconhecida pelas instâncias ordinárias, considerada a assistência pela Defensoria Pública, pode ser afastada sem demonstração concreta, pelo Ministério Público, da capacidade econômica do apenado.
-  > III. RAZÕES DE DECIDIR
-  > 3. A Terceira Seção, ao revisitar o Tema 931/STJ, estabeleceu que o inadimplemento da pena de multa, após o cumprimento da pena privativa de liberdade ou restritiva de direitos, não impede a extinção da punibilidade diante da alegada hipossuficiência, salvo decisão suficientemente motivada que indique concretamente a possibilidade de pagamento.
-  > 4. A orientação mais recente da Sexta Turma reconhece que a hipossuficiência do condenado assistido pela Defensoria Pública constitui presunção relativa, passível de ser afastada mediante prova concreta de sua capacidade econômica.
-  > 5. Incumbe ao Ministério Público apresentar elementos capazes de demonstrar que o apenado possui condições de pagar a sanção pecuniária. Ausente prova nesse sentido, deve ser mantida a extinção da punibilidade.
-  > 6. O julgamento da ADI 7.032/DF não afasta essa conclusão, pois a exigência de demonstração da impossibilidade de pagamento é compatível com o reconhecimento de presunção relativa de hipossuficiência, suscetível de prova em contrário.
-  > 7. Não tendo o Ministério Público produzido, nas instâncias ordinárias, elementos concretos capazes de demonstrar a capacidade econômica do sentenciado, não cabe determinar o retorno dos autos para nova instrução destinada a suprir a ausência dessa prova.
-  > IV. DISPOSITIVO
-  > 8. Agravo regimental desprovido.
-  > (AgRg no REsp n. 2.243.946/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
-
-## 39. AgRg no REsp nº 2210727 / SC (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
-- Crime / Tema: Furto · Dosimetria
-- Resumo: Afastada a majorante do repouso noturno no furto qualificado (Tema 1.087/STJ), levá-lo para a pena-base é faculdade do juiz e exige fundamentação concreta; não é automático (art. 59 do CP). Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2210727.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. REPOUSO NOTURNO AFASTADO COMO CAUSA DE AUMENTO. MIGRAÇÃO PARA A PRIMEIRA FASE. POSSIBILIDADE. AUSÊNCIA DE OBRIGATORIEDADE. NECESSIDADE DE VALORAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto pelo Ministério Público estadual contra decisão monocrática que conheceu do recurso especial e negou-lhe provimento.
-  > 2. A pretensão recursal busca determinar a migração da causa de aumento do repouso noturno, afastada pelo Tribunal de origem, para a primeira fase da dosimetria, com a negativação das circunstâncias do crime, sem piora material ou qualitativa da situação do condenado.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 3. A questão em discussão consiste em definir se, afastada a causa de aumento prevista no art. 155, § 1º, do Código Penal, o órgão julgador está obrigado a considerar o repouso noturno como circunstância judicial desfavorável na primeira fase da dosimetria, ainda que a migração possa, em tese, ser realizada sem reformatio in pejus.
-  > III. RAZÕES DE DECIDIR
-  > 4. A exclusão da causa de aumento do repouso noturno no furto qualificado não impõe, automaticamente, sua consideração como circunstância judicial desfavorável na primeira fase da dosimetria, por se tratar de faculdade sujeita à apreciação fundamentada do julgador.
-  > 5. O julgamento do Tema nº 1.087/STJ ressalvou a possibilidade de consideração do repouso noturno na primeira fase da dosimetria, diante das circunstâncias concretas do caso, sem estabelecer obrigatoriedade de migração sempre que afastada a causa de aumento.
-  > 6. A valoração negativa das circunstâncias do crime exige juízo concreto acerca da maior reprovabilidade da conduta, não decorrendo automaticamente do simples fato de o delito ter sido praticado durante o repouso noturno.
-  > 7. A circunstância de o Ministério Público não ter formulado, nas contrarrazões à apelação defensiva, pedido de migração não torna, por si só, inviável a providência, mas reforça que a pretensão foi deduzida apenas posteriormente, sem que, no julgamento da apelação, tivesse sido realizada valoração concreta do repouso noturno como circunstância judicial desfavorável.
-  > 8. O Tema nº 1.214/STJ, ao admitir determinadas readequações dos fundamentos da dosimetria sem reformatio in pejus, não estabelece dever de migrar o repouso noturno para a primeira fase nem dispensa a correspondente valoração concreta das circunstâncias do crime.
-  > IV. DISPOSITIVO
-  > 9. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.210.727/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
-
-## 40. HC nº 279.042 / ES (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 29/10/2026.
-- Crime / Tema: Roubo · Confissão espontânea · Dosimetria · Revisão criminal
-- Resumo: Reconhecida a confissão espontânea (art. 65, III, d, do CP), reduzir menos de 1/6 exige fundamentação concreta na sentença, mesmo que a confissão seja qualificada; a motivação dada depois pelas instâncias revisoras não supre a falta. HC concedido para o juízo da execução aplicar 1/6.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279042.pdf

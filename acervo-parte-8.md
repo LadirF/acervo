@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 8 de 38 (decisões 71 a 80)
+# Acervo de Jurisprudência — Cury Advogados — parte 8 de 39 (decisões 71 a 80)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,40 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 71. AgRg no REsp nº 2265973 / AL (STJ)
+## 71. REsp nº 2245806 / MG (STJ)
+- Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 26/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Natureza e quantidade da droga, sem outros dados concretos, não justificam fração do privilégio abaixo de 2/3 (art. 33, § 4º, da Lei 11.343/2006). REsp da defesa provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245806.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI 11.343/2006. TRÁFICO PRIVILEGIADO. FIXAÇÃO DA FRAÇÃO REDUTORA EM 3/5. RÉU PRIMÁRIO, DE BONS ANTECEDENTES. PEQUENA QUANTIDADE DE COCAÍNA. FUNDAMENTAÇÃO INIDÔNEA PARA REDUÇÃO INFERIOR À MÁXIMA. NECESSIDADE DE APLICAÇÃO DA FRAÇÃO DE 2/3. PRECEDENTES DO STJ. RECURSO PROVIDO.
+  > 1. É pacífica a jurisprudência desta Corte no sentido de que a quantidade e a natureza da droga apreendida, por si sós, não constituem fundamentos suficientes para afastar a aplicação da fração máxima (2/3) da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, quando preenchidos os demais requisitos legais.
+  > 2. No caso concreto, embora a Corte local tenha reconhecido a incidência do redutor, fixou a fração em 3/5, com base exclusiva na natureza (cocaína) e na quantidade da droga apreendida (14,73g), sem demonstrar outros elementos concretos que evidenciem maior gravidade da conduta.
+  > 3. Preenchidos os requisitos subjetivos e objetivos exigidos pelo § 4º do art. 33 da Lei de Drogas — primariedade, bons antecedentes, inexistência de vínculo com organização criminosa ou dedicação a atividades criminosas — impõe-se a aplicação da fração máxima.
+  > 4. Recurso especial conhecido e provido para aplicar a fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, mantido o regime aberto e a substituição por penas restritivas de direitos.
+  > (REsp n. 2.245.806/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
+
+## 72. AREsp nº 3137169 / RS (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
+- Crime / Tema: Abandono de posto (CPM) · ANPP
+- Resumo: O ANPP pode ser analisado no processo penal militar, mesmo após condenação confirmada em 2º grau. Recurso especial provido: autos ao MP para avaliar o acordo.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3137169.pdf
+- Ementa oficial:
+  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL – ANPP. JUSTIÇA MILITAR. INTERPRETAÇÃO SISTEMÁTICA. RETROATIVIDADE BENÉFICA. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+  > 1. A incidência do art. 28-A do Código de Processo Penal ao processo penal militar é possível mediante interpretação sistemática com o art. 3º do Código de Processo Penal Militar, sendo inadequada a vedação abstrata do instituto em razão da natureza militar da infração.
+  > 2. No caso, o Tribunal de origem afastou a análise do ANPP por suposta incompatibilidade com o estágio processual (condenação confirmada em apelação), fundamento que deve ser revisto ante a orientação consolidada.
+  > 3. A retroatividade benéfica do art. 28-A do CPP, norma de natureza híbrida, autoriza a avaliação do ANPP mesmo após a prolação de sentença e confirmação em segundo grau, cabendo ao Ministério Público analisar o preenchimento dos requisitos legais.
+  > 4. Esta Corte Superior reconhece a possibilidade de aplicação do ANPP em processo penal militar, inclusive diante de condenação já proferida, com retorno dos autos à origem para oportunizar a manifestação ministerial. Precedente.
+  > 5. Agravo conhecido. Recurso especial provido a fim de que o Tribunal de origem adote as providências necessárias para possibilitar a discussão do acordo de não persecução penal entre as partes da ação penal.
+  > (AREsp n. 3.137.169/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
+
+## 73. AREsp nº 3371938 / RJ (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
+- Crime / Tema: Violência doméstica · Acesso da defesa às provas
+- Resumo: Negar assistente técnico para contraditar o laudo oficial é cerceamento de defesa. Recurso especial provido: processo anulado desde o indeferimento.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3371938.pdf
+
+## 74. AgRg no REsp nº 2265973 / AL (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria
 - Resumo: “Dolo intenso” e “desprezo pela vítima” são fundamentos genéricos e não elevam a pena-base pela culpabilidade. Agravo do MP desprovido.
@@ -20,7 +53,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Agravo regimental não provido.
   > (AgRg no REsp n. 2.265.973/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
 
-## 72. AgRg no AREsp nº 3317291 / RN (STJ)
+## 75. AgRg no AREsp nº 3317291 / RN (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Exame criminológico favorável ampara a progressão de regime; o MP não pode rediscutir essa avaliação em recurso especial. Agravo do MP desprovido.
@@ -34,7 +67,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental improvido.
   > (AgRg no AREsp n. 3.317.291/RN, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 73. AgRg no AREsp nº 3279467 / PE (STJ)
+## 76. AgRg no AREsp nº 3279467 / PE (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A absolvição pelos jurados que acolhe a negativa de autoria, com suporte probatório mínimo, deve ser preservada (soberania dos veredictos). Agravo do MP desprovido.
@@ -47,7 +80,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 3.279.467/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 74. AgRg no AREsp nº 2029364 / SP (STJ)
+## 77. AgRg no AREsp nº 2029364 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado
 - Resumo: A Lei de Anistia (Lei 6.683/1979, ADPF 153/STF) impede a persecução dos fatos que abrange, e não se tipifica retroativamente crime contra a humanidade sem lei anterior. Rejeição da denúncia mantida; agravo do MP desprovido.
@@ -60,7 +93,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.029.364/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 75. EDcl no AgRg no REsp nº 2231348 / RS (STJ)
+## 78. EDcl no AgRg no REsp nº 2231348 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: Sem indícios mínimos de autoria, mantém-se a despronúncia. Embargos de declaração do MP rejeitados.
@@ -72,7 +105,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Embargos de declaração rejeitados.
   > (EDcl no AgRg no REsp n. 2.231.348/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 76. AgRg no AREsp nº 2495761 / BA (STJ)
+## 79. AgRg no AREsp nº 2495761 / BA (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Estupro de vulnerável · Dosimetria
 - Resumo: A agravante do art. 61, II, “h”, do CP no estupro de vulnerável é bis in idem, e acrescentá-la em recurso só da defesa é reformatio in pejus. Agravo do MP desprovido.
@@ -85,7 +118,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental improvido.
   > (AgRg no AREsp n. 2.495.761/BA, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 77. AgRg no AREsp nº 3317228 / SP (STJ)
+## 80. AgRg no AREsp nº 3317228 / SP (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 23/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Informante, drogas variadas em pouca quantidade e dinheiro achado com o corréu não provam dedicação a atividades criminosas, e ação penal em curso também não (Tema 1.139/STJ). Agravo desprovido, mas HC de ofício: redutor de 2/3, regime aberto e penas restritivas.
@@ -104,38 +137,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. Dispositivo
   > 7. Agravo regimental desprovido. Habeas corpus concedido de ofício.
   > (AgRg no AREsp n. 3.317.228/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026.)
-
-## 78. HC nº 1139236 / RJ (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/10/2026.
-- Crime / Tema: Estupro de vulnerável · Abuso sexual infantojuvenil (ECA) · Prova digital · Quebra da cadeia de custódia
-- Resumo: A confiabilidade da prova digital (capturas de tela de conta em nuvem) é questão distinta da licitude do acesso: cabe ao Estado demonstrar a integridade da prova, sem exigir da defesa prova de adulteração. Ordem concedida de ofício: novo julgamento da apelação.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139236.pdf
-
-## 79. AREsp nº 2352634 / BA (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 23/10/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Justa causa
-- Resumo: “Atitude suspeita” e pouca droga, sem sinal de mercancia, não dão justa causa para a ação penal por tráfico. Restabelecida a absolvição sumária.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2352634.pdf
-
-## 80. AgRg no AREsp nº 3352058 / SP (STJ)
-- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 23/10/2026.
-- Crime / Tema: Adulteração de sinal identificador de veículo · Dosimetria
-- Resumo: Condenação anterior extinta há mais de 5 anos (art. 64, I, do CP) não gera reincidência. Agravo desprovido, mas ordem concedida de ofício para redimensionar a pena.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3352058.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE INADMISSÃO. REINCIDÊNCIA. PERÍODO DEPURADOR. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
-  > I. Caso em exame
-  > 1. Agravo regimental contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial por falta de impugnação específica de dois dos três fundamentos da decisão de inadmissão, a Súmula n. 284/STF e a ausência de comprovação do dissídio. O agravante foi condenado à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, por ter aposto fita isolante no último algarismo da placa do veículo que conduzia, transformando o número 5 em 8, para escapar do rodízio municipal.
-  > 2. O agravante sustenta que o agravo em recurso especial combateu em substância o óbice da Súmula n. 284/STF e que a insurgência sempre se limitou à alínea a. Subsidiariamente, pede a concessão de habeas corpus de ofício para afastar da reincidência condenação cuja punibilidade foi extinta em 2017, para afastar a valoração negativa da culpabilidade, por suposto bis in idem com a reincidência, e para fixar o regime semiaberto.
-  > II. Questão em discussão
-  > 3. Há duas questões em discussão: (i) saber se o agravo em recurso especial impugnou especificamente todos os fundamentos da decisão de inadmissão; e (ii) saber se há ilegalidade flagrante na dosimetria que autorize a concessão de habeas corpus de ofício.
-  > III. Razões de decidir
-  > 4. A decisão de inadmissão do recurso especial é incindível e deve ser impugnada em sua integralidade. O agravo em recurso especial enfrentou apenas a Súmula n. 7/STJ e reiterou a tese de atipicidade, sem rebater a deficiência de fundamentação nem a falta de comprovação do dissídio, embora o recurso especial tivesse sido interposto pelas alíneas a e c.
-  > 5. A renúncia à alínea c e a complementação da impugnação apenas no agravo regimental não suprem a deficiência, alcançada pela preclusão consumativa.
-  > 6. A condenação por furto qualificado tentado, cuja punibilidade foi extinta por indulto em 8/8/2017, não gera reincidência quanto ao crime praticado em 9/4/2025, porque decorrido o prazo de 5 (cinco) anos do art. 64, I, do CP.
-  > 7. Remanescem duas condenações aptas a gerar a reincidência, uma delas compensada com a confissão espontânea. A agravante incide, assim, na fração de 1/6, e não de 1/3, o que reduz a pena a 4 (quatro) anos e 8 (oito) meses de reclusão e 15 (quinze) dias-multa.
-  > 8. O cometimento do crime em gozo de livramento condicional justifica a valoração negativa da culpabilidade e não se confunde com a condenação anterior que fundamenta a reincidência, de modo que não há bis in idem.
-  > 9. O regime inicial fechado subsiste, porque a pena supera 4 (quatro) anos, o agravante é reincidente e há circunstâncias judiciais desfavoráveis.
-  > IV. Dispositivo
-  > 10. Agravo regimental desprovido. Habeas corpus concedido de ofício.
-  > (AgRg no AREsp n. 3.352.058/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026.)

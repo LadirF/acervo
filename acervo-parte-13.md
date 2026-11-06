@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 13 de 38 (decisões 121 a 130)
+# Acervo de Jurisprudência — Cury Advogados — parte 13 de 39 (decisões 121 a 130)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,25 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 121. AgRg no RHC nº 210983 / DF (STJ)
+## 121. HC nº 1137700 / SP (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Tráfico de drogas · Busca e apreensão
+- Resumo: Mandado de busca deferido apenas 'considerando os documentos' e o parecer do MP, sem fundamentação própria, é nulo; não se trata nem de fundamentação per relationem. A droga achada depois não convalida a busca. Provas ilícitas, preventiva revogada e justa causa a reexaminar na origem.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1137700.pdf
+
+## 122. HC nº 1115285 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Prova digital · Busca e apreensão
+- Resumo: Celulares apreendidos durante o cumprimento de mandado de prisão contra outra pessoa, sem mandado de busca, flagrante ou consentimento, são prova ilícita; a autorização posterior para extrair os dados não corrige a apreensão. O juízo delimita as provas derivadas e reavalia a preventiva.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115285.pdf
+
+## 123. HC nº 1111126 / RS (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
+- Resumo: Preso preventivamente desde 2021 e pronunciado em 2023, sem previsão de Júri: o excesso de prazo na formação da culpa torna a prisão ilegal. Preventiva relaxada, com cautelares do art. 319 do CPP.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111126.pdf
+
+## 124. AgRg no RHC nº 210983 / DF (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes; redator do acórdão: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Organização criminosa · Acesso da defesa às provas
 - Resumo: A defesa tem direito de acessar todo o procedimento investigatório do MP já documentado, mesmo antes de a investigação terminar (Súmula Vinculante 14). Só as diligências em curso podem ser restringidas, e o risco de 'frustrar o trabalho' não justifica negar o acesso.
@@ -21,7 +39,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Agravo regimental provido para dar provimento ao recurso em habeas corpus, a fim de determinar que o Juízo de Direito da 1ª Vara Criminal de Brasília/DF permita o acesso da defesa do recorrente às diligências já documentadas no Procedimento n. 0721056-73.2023.8.07.0001.
   > (AgRg no RHC n. 210.983/DF, relator Ministro Og Fernandes, relator para acórdão Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 16/10/2026.)
 
-## 122. AgRg no RHC nº 238817 / MG (STJ)
+## 125. AgRg no RHC nº 238817 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Prisão e medidas cautelares
 - Resumo: Notícia de disparos, fama de envolvimento em brigas, nervosismo e fuga na área externa não são fundadas razões para entrar na casa (Tema 280/STF). Consentimento e confissão informal apoiados só no relato policial não provam a legalidade da entrada: o ônus é do Estado. Provas ilícitas e preventiva revogada; agravo do MP desprovido.
@@ -42,7 +60,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental desprovido.
   > (AgRg no RHC n. 238.817/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
 
-## 123. AgRg no REsp nº 2052674 / MG (STJ)
+## 126. AgRg no REsp nº 2052674 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Inserção de dados falsos em sistema de informações
 - Resumo: Absolvição pelo art. 313-A do CP mantida: o TJ reconheceu a falta de dolo específico e a fragilidade da prova, e rever isso exige reexame de provas (Súmula 7). Perda da função pública não prequestionada; agravo do MP desprovido.
@@ -62,44 +80,26 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Agravo regimental não provido.
   > (AgRg no REsp n. 2.052.674/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
 
-## 124. AREsp nº 3317207 / SP (STJ)
+## 127. AREsp nº 3317207 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Receptação · Fundada suspeita
 - Resumo: Abordagem do motorista só pelo nervosismo, sem elemento objetivo, é ilegal (art. 244 do CPP). A descoberta posterior do veículo adulterado não convalida a busca, e as provas derivadas são ilícitas. Réu absolvido da receptação (art. 386, II, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3317207.pdf
 
-## 125. RHC nº 237625 / PA (STJ)
+## 128. RHC nº 237625 / PA (STJ)
 - Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Usurpação de bem da União · Inépcia da denúncia
 - Resumo: Denúncia inepta quanto aos crimes da Lei 8.176/1991 (ouro e combustível), por não descrever a conduta. E ordem de desocupação não é 'suspensão de direito': enquadrá-la no art. 359 do CP seria interpretação extensiva contra o réu. Ação penal trancada nesses pontos; segue quanto aos demais crimes.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-237625.pdf
 
-## 126. PExt no AREsp nº 2714514 / SP (STJ)
+## 129. PExt no AREsp nº 2714514 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Quebra de sigilo
 - Resumo: A nulidade das interceptações reconhecida para corréus se estende a quem está na mesma situação (art. 580 do CPP), mesmo em processo desmembrado e com recurso extraordinário pendente contra o acórdão-paradigma. Provas desentranhadas; o juízo de origem verifica as fontes independentes (Operação Materello).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2714514.pdf
 
-## 127. HC nº 1133453 / SP (STJ)
+## 130. HC nº 1133453 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Contrabando · Prisão e medidas cautelares
 - Resumo: Tornozeleira e recolhimento domiciliar noturno mantidos por longo período, sem motivação concreta, são desproporcionais. Revogados, mantidas as demais cautelares de ônus reduzido (caso de contrabando).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133453.pdf
-
-## 128. HC nº 1136779 / BA (STJ)
-- Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Violência doméstica · Prisão e medidas cautelares · Superação da Súmula 691
-- Resumo: Quem recebe liberdade provisória com fiança e continua preso por não poder pagar, assistido pela Defensoria, não pode ficar preso por pobreza (art. 350 do CPP; HC coletivo 568.693/ES). Fiança dispensada, mantidas as protetivas e cautelares; Súmula 691 superada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136779.pdf
-
-## 129. HC nº 1128385 / PR (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Furto · Execução penal
-- Resumo: No indulto do Decreto 12.338/2024 (art. 9º, XV), a assistência pela Defensoria presume a incapacidade econômica (art. 12, § 2º) e dispensa a reparação do dano, sem exigir arrependimento posterior. Indulto restabelecido nas condenações por furto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128385.pdf
-
-## 130. HC nº 1114885 / BA (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento feito sem as cautelas do art. 226 do CPP, só confirmado em juízo, sem flagrante, apreensão de bens ou outra prova independente, não sustenta a condenação (Tema 1.258/STJ). Réu absolvido de roubo e importunação sexual (art. 386, VII, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114885.pdf

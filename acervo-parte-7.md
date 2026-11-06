@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 7 de 38 (decisões 61 a 70)
+# Acervo de Jurisprudência — Cury Advogados — parte 7 de 39 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,51 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. REsp nº 2253748 / MG (STJ)
+## 61. AgRg no AREsp nº 3177789 / RS (STJ)
+- Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Homicídio · Tribunal do Júri
+- Resumo: No Júri, as séries de quesitos de vítimas distintas são autônomas e podem ter respostas diferentes; feita nova votação (art. 490 do CPP), prevalece a absolvição reafirmada. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3177789.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. ALEGADA CONTRADIÇÃO NAS RESPOSTAS DOS JURADOS. PROVIDÊNCIAS DO ART. 490 DO CPP OBSERVADAS. NOVA VOTAÇÃO REALIZADA. MANUTENÇÃO SOBERANA DO VEREDICTO ABSOLUTÓRIO. AUTONOMIA DAS SÉRIES DE QUESITOS. POSSIBILIDADE DE CONCLUSÕES DISTINTAS PARA VÍTIMAS DIVERSAS. ATUAÇÃO DEFENSIVA AMPLA E ACOLHIDA PELO CONSELHO DE SENTENÇA. INEXISTÊNCIA DE VÍCIO FORMAL. JURISPRUDÊNCIA PACÍFICA DO STJ. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A INFIRMAR A DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão monocrática que deu provimento ao recurso especial para restabelecer o veredicto absolutório proferido pelo Conselho de Sentença no processo 5043880-26.2022.8.21.0001/RS.
+  > 2. O agravante sustenta que as respostas dos jurados seriam inconciliáveis, pois reconheceram a autoria do réu em uma das tentativas de homicídio e a negaram nas demais, todas ocorridas no mesmo contexto fático, configurando contradição insanável nos termos do art. 564, parágrafo único, do CPP. Requer, assim, o provimento do agravo para restabelecer a decisão do Tribunal de Justiça que anulou o julgamento.
+  > II. Questão em discussão
+  > 3. Discute-se se houve, de fato, contradição apta a ensejar nulidade do julgamento do Tribunal do Júri e se a decisão monocrática observou corretamente a jurisprudência desta Corte ao reconhecer a soberania dos veredictos e a autonomia das séries de quesitos.
+  > III. Razões de decidir
+  > 4. Foi consignado na decisão agravada que a suposta contradição foi enfrentada na própria sessão plenária, com observância ao procedimento previsto no art. 490 do CPP. O Juiz Presidente esclareceu aos jurados a incongruência apontada pelo Ministério Público e submeteu novamente os quesitos à votação, ocasião em que o Conselho de Sentença, de forma soberana, manteve o resultado absolutório.
+  > 5. A decisão monocrática destacou que a defesa sustentou múltiplas teses – insuficiência probatória, negativa de autoria e coação moral irresistível – todas acolhidas pelos jurados, afastando a premissa de que a absolvição teria sido fundada exclusivamente em negativa de autoria.
+  > 6. Ressaltou-se, ainda, que não há contradição lógica ou jurídica no fato de os jurados reconhecerem a autoria em relação a uma vítima e rejeitarem tal reconhecimento quanto às demais, sobretudo porque cada série de quesitos é autônoma e permite conclusões distintas, preservando-se o livre convencimento dos jurados. A estrutura da quesitação impede que o reconhecimento da autoria em um fato implique automaticamente sua afirmação em todos os demais.
+  > 7. A decisão agravada também observou que a soberania dos veredictos, prevista no art. 5º, XXXVIII, da Constituição Federal, impede a substituição da deliberação dos jurados quando estes, cientes da controvérsia e após nova votação, reafirmam a absolvição. Não se trata de vício formal não sanado, mas de opção soberana do corpo de jurados.
+  > 8. Por fim, registrou-se que a jurisprudência desta Corte admite conclusões distintas em séries de quesitos relativas a vítimas diversas, afastando a nulidade quando a questão é reapreciada pelo Conselho de Sentença e este mantém conscientemente o resultado proclamado.
+  > IV. Agravo regimental desprovido.
+  > (AgRg no AREsp n. 3.177.789/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
+
+## 62. AREsp nº 2939207 / MG (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Abuso de autoridade · Posse ilegal de arma de fogo
+- Resumo: Policial sem atribuição para instaurar investigação ou ação penal não comete o crime do art. 30 da Lei 13.869/2019. REsp parcialmente provido: absolvição nesse crime.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2939207.pdf
+
+## 63. AgRg no HC nº 1124375 / SP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Descaminho · Corrupção ativa · Associação criminosa · Dosimetria
+- Resumo: Fato posterior e autônomo não agrava a culpabilidade, e prejuízo tributário não individualizado não eleva as consequências do crime. Dosimetria corrigida; agravo do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124375.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DESCAMINHO. CORRUPÇÃO ATIVA. ASSOCIAÇÃO CRIMINOSA. DOSIMETRIA. ORDEM CONCEDIDA, EM PARTE, DE OFÍCIO. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. NULIDADE NÃO CONFIGURADA. AUSÊNCIA DE PREJUÍZO CONCRETO. UTILIZAÇÃO DO WRIT COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. FLAGRANTE ILEGALIDADE AFERÍVEL DE PLANO. POSSIBILIDADE DE CORREÇÃO EXCEPCIONAL. PRECLUSÃO TEMPORAL. CONSTRANGIMENTO ILEGAL COM REPERCUSSÃO ATUAL NA LIBERDADE. DEFICIÊNCIA DA INSTRUÇÃO. DOCUMENTOS SUFICIENTES. REVISÃO CRIMINAL EM CURSO NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA E USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADAS. CULPABILIDADE. FATO AUTÔNOMO POSTERIOR AOS DELITOS. CONSEQUÊNCIAS DO DESCAMINHO. PREJUÍZO TRIBUTÁRIO NÃO INDIVIDUALIZADO. CONSEQUÊNCIAS DA CORRUPÇÃO ATIVA. RESULTADO RELACIONADO A SETORES NÃO ABRANGIDOS PELA CONDENAÇÃO. PENA DE MULTA. NÚMERO DE DIAS-MULTA. ADEQUAÇÃO. VALOR UNITÁRIO DO DIA-MULTA. MATÉRIA NÃO CONHECIDA NA DECISÃO AGRAVADA. DECISÃO MANTIDA.
+  > 1. A ausência de prévia manifestação do Ministério Público não acarreta nulidade quando reconhecidas ilegalidades manifestas, aferíveis de plano, e não demonstrado prejuízo concreto decorrente da falta de prévia vista dos autos. Precedente.
+  > 2. A inadequação do habeas corpus como substitutivo de revisão criminal não impede, excepcionalmente, a correção de flagrante ilegalidade aferível de plano, sem necessidade de reexame fático-probatório. Precedente.
+  > 3. A preclusão temporal não obsta a atuação de ofício diante de vícios manifestos na individualização da pena, identificáveis a partir dos próprios fundamentos adotados pelas instâncias ordinárias e com repercussão atual sobre a liberdade do paciente.
+  > 4. A ausência da decisão proferida nos embargos de declaração não inviabiliza o exame quando os documentos disponíveis são suficientes à identificação das ilegalidades reconhecidas e o recurso não demonstra de que modo o conteúdo da decisão integrativa afastaria as premissas adotadas.
+  > 5. A existência de revisão criminal em curso no Tribunal de origem não impede, por si só, a aferição, em habeas corpus, de flagrante ilegalidade no ato apontado como coator nem a concessão de ordem de ofício nos limites próprios dessa via. Precedente.
+  > 6. Subsistem as ilegalidades reconhecidas na dosimetria: a valoração negativa da culpabilidade com fundamento em fato autônomo posterior aos delitos; a valoração das consequências do descaminho com base em prejuízo tributário não individualizado; e a atribuição, na corrupção ativa, de consequências relacionadas a setores não abrangidos pela condenação.
+  > 7. Mantém-se a adequação do número de dias-multa após a redução da pena corporal. A discussão sobre o valor unitário do dia-multa não foi conhecida na decisão agravada, de modo que sua referência na ação revisional não evidencia sobreposição de competência.
+  > 8. Agravo regimental improvido.
+  > (AgRg no HC n. 1.124.375/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
+
+## 64. REsp nº 2253748 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio qualificado · Homicídio · Dosimetria
 - Resumo: A pena-base do homicídio simples tentado não pode igualar a do qualificado consumado sem fundamento concreto para o acréscimo. REsp parcialmente provido: pena redimensionada.
@@ -21,7 +65,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso especial parcialmente provido.
   > (REsp n. 2.253.748/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 62. REsp nº 2239370 / PE (STJ)
+## 65. REsp nº 2239370 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Excesso de prazo
 - Resumo: Os prazos do art. 131, I, do CPP não são peremptórios, mas o sequestro de bens mantido por mais de 2 anos sem denúncia contra os investigados é excesso de prazo. REsp do MPF desprovido.
@@ -35,31 +79,31 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
   > (REsp n. 2.239.370/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 63. HC nº 1119746 / SP (STJ)
+## 66. HC nº 1119746 / SP (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri · Prisão e medidas cautelares
 - Resumo: A execução imediata da pena do Júri (Tema 1.068/STF) pode ser suspensa até a apelação quando há plausibilidade concreta de nulidade ou de decisão contrária à prova. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1119746.pdf
 
-## 64. HC nº 1140133 / SP (STJ)
+## 67. HC nº 1140133 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Anulada a condenação e comprovada a materialidade só de parte das drogas, conjecturas sobre reiteração ou fuga não mantêm a preventiva de réu primário. Ordem concedida: preventiva revogada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1140133.pdf
 
-## 65. HC nº 1139230 / TO (STJ)
+## 68. HC nº 1139230 / TO (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Porte de drogas para consumo pessoal
 - Resumo: Pouca maconha, sem balança nem material de fracionamento, não presume tráfico, e confissão informal não confirmada em juízo não prova a mercancia. Ordem concedida: desclassificação para o art. 28 restabelecida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139230.pdf
 
-## 66. RHC nº 247075 / RJ (STJ)
+## 69. RHC nº 247075 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Adulteração de sinal identificador de veículo · Justa causa
 - Resumo: A simples falta da placa, com regularização iniciada antes da abordagem, sem outro sinal adulterado, não indica dolo de suprimir o sinal identificador (art. 311 do CP). RHC provido: ação penal trancada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-247075.pdf
 
-## 67. AgRg no HC nº 277.418 / RJ (STF)
+## 70. AgRg no HC nº 277.418 / RJ (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 26/10/2026.
 - Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
 - Resumo: A prisão preventiva é incompatível com o regime semiaberto fixado na condenação, por ofender a proporcionalidade. A Segunda Turma, por maioria, negou provimento ao agravo do MPF e manteve a revogação da preventiva concedida de ofício.
@@ -70,36 +114,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. O recurso mostra-se inviável, na medida em que contém apenas a reiteração dos argumentos anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões expressas na decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
   > 3. Agravo ao qual se nega provimento.
   > (STF, AgRg no HC n. 277.418/RJ, relator Ministro Dias Toffoli, Segunda Turma, julgado em 19/10/2026, DJe de 26/10/2026.)
-
-## 68. REsp nº 2245806 / MG (STJ)
-- Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 26/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: Natureza e quantidade da droga, sem outros dados concretos, não justificam fração do privilégio abaixo de 2/3 (art. 33, § 4º, da Lei 11.343/2006). REsp da defesa provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245806.pdf
-- Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI 11.343/2006. TRÁFICO PRIVILEGIADO. FIXAÇÃO DA FRAÇÃO REDUTORA EM 3/5. RÉU PRIMÁRIO, DE BONS ANTECEDENTES. PEQUENA QUANTIDADE DE COCAÍNA. FUNDAMENTAÇÃO INIDÔNEA PARA REDUÇÃO INFERIOR À MÁXIMA. NECESSIDADE DE APLICAÇÃO DA FRAÇÃO DE 2/3. PRECEDENTES DO STJ. RECURSO PROVIDO.
-  > 1. É pacífica a jurisprudência desta Corte no sentido de que a quantidade e a natureza da droga apreendida, por si sós, não constituem fundamentos suficientes para afastar a aplicação da fração máxima (2/3) da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, quando preenchidos os demais requisitos legais.
-  > 2. No caso concreto, embora a Corte local tenha reconhecido a incidência do redutor, fixou a fração em 3/5, com base exclusiva na natureza (cocaína) e na quantidade da droga apreendida (14,73g), sem demonstrar outros elementos concretos que evidenciem maior gravidade da conduta.
-  > 3. Preenchidos os requisitos subjetivos e objetivos exigidos pelo § 4º do art. 33 da Lei de Drogas — primariedade, bons antecedentes, inexistência de vínculo com organização criminosa ou dedicação a atividades criminosas — impõe-se a aplicação da fração máxima.
-  > 4. Recurso especial conhecido e provido para aplicar a fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, mantido o regime aberto e a substituição por penas restritivas de direitos.
-  > (REsp n. 2.245.806/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
-
-## 69. AREsp nº 3137169 / RS (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
-- Crime / Tema: Abandono de posto (CPM) · ANPP
-- Resumo: O ANPP pode ser analisado no processo penal militar, mesmo após condenação confirmada em 2º grau. Recurso especial provido: autos ao MP para avaliar o acordo.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3137169.pdf
-- Ementa oficial:
-  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL – ANPP. JUSTIÇA MILITAR. INTERPRETAÇÃO SISTEMÁTICA. RETROATIVIDADE BENÉFICA. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
-  > 1. A incidência do art. 28-A do Código de Processo Penal ao processo penal militar é possível mediante interpretação sistemática com o art. 3º do Código de Processo Penal Militar, sendo inadequada a vedação abstrata do instituto em razão da natureza militar da infração.
-  > 2. No caso, o Tribunal de origem afastou a análise do ANPP por suposta incompatibilidade com o estágio processual (condenação confirmada em apelação), fundamento que deve ser revisto ante a orientação consolidada.
-  > 3. A retroatividade benéfica do art. 28-A do CPP, norma de natureza híbrida, autoriza a avaliação do ANPP mesmo após a prolação de sentença e confirmação em segundo grau, cabendo ao Ministério Público analisar o preenchimento dos requisitos legais.
-  > 4. Esta Corte Superior reconhece a possibilidade de aplicação do ANPP em processo penal militar, inclusive diante de condenação já proferida, com retorno dos autos à origem para oportunizar a manifestação ministerial. Precedente.
-  > 5. Agravo conhecido. Recurso especial provido a fim de que o Tribunal de origem adote as providências necessárias para possibilitar a discussão do acordo de não persecução penal entre as partes da ação penal.
-  > (AREsp n. 3.137.169/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
-
-## 70. AREsp nº 3371938 / RJ (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
-- Crime / Tema: Violência doméstica · Acesso da defesa às provas
-- Resumo: Negar assistente técnico para contraditar o laudo oficial é cerceamento de defesa. Recurso especial provido: processo anulado desde o indeferimento.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3371938.pdf

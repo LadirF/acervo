@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 21 de 38 (decisões 201 a 210)
+# Acervo de Jurisprudência — Cury Advogados — parte 21 de 39 (decisões 201 a 210)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,51 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 201. AgRg no HC nº 1108896 / SP (STJ)
+## 201. AgRg no HC nº 1118236 / CE (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
+- Crime / Tema: Homicídio qualificado · Corrupção de menores · Dosimetria
+- Resumo: Condenações anteriores não usadas para a reincidência só valem como antecedentes, não para desabonar a personalidade (Tema 1.077/STJ). Usar nas circunstâncias o mesmo contexto da qualificadora é bis in idem. O HC corrige a dosimetria mesmo após o trânsito em julgado, e a liminar concedida antes do parecer do MPF não gera nulidade; agravo do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1118236.pdf
+- Ementa oficial:
+  > DIREITO PENAL E DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. DOSIMETRIA. CONDENAÇÃO TRANSITADA EM JULGADO. UTILIZAÇÃO INDEVIDA DO WRIT PARA AMPLA REVISÃO DA CONDENAÇÃO. ILEGALIDADES MANIFESTAS. PRELIMINAR DE NULIDADE. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL. NULIDADE NÃO CONFIGURADA. PERSONALIDADE. CONDENAÇÕES ANTERIORES. FUNDAMENTO INIDÔNEO. TEMA REPETITIVO N. 1.077/STJ. FUNDAMENTAÇÃO REMANESCENTE INSUFICIENTE. CIRCUNSTÂNCIAS DO CRIME. REUTILIZAÇÃO DO MESMO CONTEXTO FÁTICO EMPREGADO NA QUALIFICADORA. BIS IN IDEM. DECISÃO AGRAVADA MANTIDA.
+  > 1. Não há nulidade na concessão liminar da ordem antes da manifestação do Ministério Público Federal quando a controvérsia estiver amparada por jurisprudência consolidada e evidenciada ilegalidade manifesta, sobretudo se a posterior ciência do Parquet e a interposição de agravo regimental assegurarem a submissão da matéria ao órgão colegiado, sem demonstração de prejuízo concreto.
+  > 2. Embora o habeas corpus não se preste à ampla revisão de condenação transitada em julgado, admite-se a intervenção excepcional desta Corte Superior para corrigir ilegalidade manifesta na dosimetria da pena.
+  > 3. Nos termos do Tema Repetitivo n. 1.077/STJ, condenações transitadas em julgado não utilizadas para caracterizar a reincidência somente podem ser valoradas como antecedentes criminais, vedado seu emprego para desabonar a personalidade do agente. As referências remanescentes ao autoritarismo, ao machismo, ao sentimento de posse e à existência de medidas protetivas, tais como empregadas no caso, não tornam idônea a fundamentação dessa circunstância judicial.
+  > 4. Configura bis in idem a valoração negativa das circunstâncias do crime com fundamento na restrição da liberdade, no transporte da vítima e na angústia experimentada durante a execução delitiva quando o mesmo contexto fático integrou o mecanismo executivo empregado para dificultar a defesa da ofendida, posteriormente valorado na segunda fase da dosimetria.
+  > 5. A referência, no agravo regimental, a terror psicológico, chantagens e ameaças não afasta a duplicidade quando esses elementos apenas descrevem, sob outra perspectiva, a mesma base fática considerada pelas instâncias ordinárias.
+  > 6. A alegação genérica de proporcionalidade da reprimenda e de discricionariedade motivada não afasta as ilegalidades concretamente identificadas na dosimetria.
+  > 7. Agravo regimental improvido.
+  > (AgRg no HC n. 1.118.236/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
+
+## 202. AgRg no HC nº 1121320 / SP (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: a dedicação a atividades criminosas não se presume e exige elementos concretos. Regime mais gravoso e negativa de substituição por restritivas também exigem fundamentação concreta, não bastando a natureza do crime ou a quantidade. Sentença restabelecida, com a fração de 1/2; agravos do MPSP e do MPF desprovidos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121320.pdf
+- Agravo do MPF: https://ladirf.github.io/acervo/pdfs/mpf-hc-1121320.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL EM HABEAS CORPUS. ORDEM CONCEDIDA LIMINARMENTE. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. REGIME INICIAL. SUBSTITUIÇÃO DA PENA. CONSTRANGIMENTO ILEGAL. FUNDAMENTAÇÃO INSUFICIENTE. QUANTIDADE DE DROGA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PRESUNÇÃO. JURISPRUDÊNCIA.
+  > 1. A aplicação da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 pressupõe a ausência de dedicação a atividades criminosas, vedada a conclusão por presunção, devendo apoiar-se em elementos concretos do caso.
+  > 2. A quantidade de droga apreendida, isoladamente, não autoriza o afastamento do tráfico privilegiado, exigindo-se motivação específica que demonstre a inserção estável do agente na prática delitiva; hipótese em que se manteve a fração de 1/2 da causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, conforme a sentença restabelecida.
+  > 3. O regime inicial mais gravoso reclama fundamentação concreta, relacionada às circunstâncias judiciais e à gravidade efetiva da conduta, não bastando remissão genérica à natureza do crime ou à quantidade de entorpecente.
+  > 4. A negativa de substituição da pena privativa de liberdade por restritivas de direitos exige motivação idônea quanto à inadequação da medida ao caso, considerada a pena aplicada, as circunstâncias judiciais e as diretrizes legais.
+  > 5. Agravo regimental improvido.
+  > (AgRg no HC n. 1.121.320/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
+
+## 203. AgRg no AgRg no HC nº 1042570 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
+- Crime / Tema: Tráfico de drogas · Execução penal
+- Resumo: Mãe de criança menor de 12 anos tem direito à prisão domiciliar, mesmo no regime semiaberto, sem precisar provar que os cuidados maternos são imprescindíveis, salvo situação excepcional. Tráfico sem violência e sem faltas disciplinares. Domiciliar com monitoramento mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1042570.pdf
+- Ementa oficial:
+  > PROCESSO PENAL. AGRAVO REGIMENTAL MINISTERIAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. MÃE DE CRIANÇA MENOR DE 12 ANOS. PRESUNÇÃO DA NECESSIDADE DE CUIDADOS MATERNOS. AUSÊNCIA DE SITUAÇÃO EXCEPCIONAL CONTRAINDICATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. O habeas corpus não foi conhecido por se tratar de substitutivo de recurso próprio. Diante de flagrante constrangimento ilegal, a ordem foi concedida de ofício para substituir o encarceramento por prisão domiciliar, com monitoramento eletrônico, se possível.
+  > 2. A concessão da prisão domiciliar foi amparada na condição da agravada como mãe de criança menor de 12 anos, na natureza do delito (tráfico de entorpecentes) sem violência ou grave ameaça, e na inexistência de faltas disciplinares ou registros negativos.
+  > 3. "A jurisprudência do STJ admite a concessão de prisão domiciliar a mães de crianças menores de 12 anos, mesmo em regime semiaberto, sem necessidade de comprovação da imprescindibilidade dos cuidados maternos, desde que não haja situação excepcional que contraindique a medida." (AgRg no AgRg no HC n. 949.232/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+  > 4. Agravo regimental não provido.
+  > (AgRg no AgRg no HC n. 1.042.570/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
+
+## 204. AgRg no HC nº 1108896 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Confissão espontânea · Dosimetria
 - Resumo: Confissão informal aos policiais, usada para condenar, gera a atenuante do art. 65, III, d, do CP. Ela se compensa integralmente com a reincidência, salvo multirreincidência. HC de ofício corrige a dosimetria; agravo do MP desprovido.
@@ -34,7 +78,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. É possível conceder habeas corpus de ofício para corrigir flagrante ilegalidade na dosimetria da pena, mesmo quando o writ não é conhecido por ser incabível como sucedâneo recursal.
   > (AgRg no HC n. 1.108.896/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 202. AgRg no HC nº 1123541 / PR (STJ)
+## 205. AgRg no HC nº 1123541 / PR (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Estelionato · Prisão e medidas cautelares · Cabimento do HC
 - Resumo: Não há supressão de instância quando o HC no tribunal de origem ataca diretamente o decreto de preventiva: não se exige pedido prévio de revogação ao juiz que o decretou. Ordem de ofício para o TJPR examinar as teses da defesa, mas o STJ não revoga a prisão sem ilegalidade teratológica.
@@ -49,7 +93,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Agravo regimental desprovido.
   > (AgRg no HC n. 1.123.541/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 203. REsp nº 2232648 / MG (STJ)
+## 206. REsp nº 2232648 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: No recurso exclusivo da defesa, o novo júri não pode alcançar fatos já desclassificados ou com punibilidade extinta. Seria reformatio in pejus indireta (art. 617 do CPP), e a soberania dos veredictos não autoriza repetir o julgamento inteiro. Novo júri limitado ao homicídio tentado remanescente.
@@ -62,7 +106,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.232.648/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 204. REsp nº 2256734 / RS (STJ)
+## 207. REsp nº 2256734 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento fotográfico sem o art. 226 do CPP contamina o reconhecimento pessoal feito depois, porque é prova irrepetível (Tema 1.258/STJ). Condenação apoiada só nesses dois atos, sem prova independente de autoria. Sentença absolutória restabelecida.
@@ -74,13 +118,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Recurso especial provido.
   > (REsp n. 2.256.734/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 205. AgRg no RHC nº 275.857 / MS (STF)
+## 208. AgRg no RHC nº 275.857 / MS (STF)
 - Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 02/10/2026.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Prisão e medidas cautelares
 - Resumo: O agravamento do quadro clínico do preso exige reavaliar a preventiva (art. 316, par. único, do CPP), com análise de cautelares diversas ou prisão domiciliar. Reavaliação determinada de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-275857.pdf
 
-## 206. AgRg no HC nº 245.446 / AL (STF)
+## 209. AgRg no HC nº 245.446 / AL (STF)
 - Decisão colegiada. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 01/10/2026.
 - Crime / Tema: Quebra de sigilo · Competência
 - Resumo: Surgindo indícios contra autoridade com foro (prefeito), a investigação deve ir ao tribunal competente; interceptação autorizada por juízo incompetente é nula (juiz natural). Mantida a ordem de ofício que desconstituiu o trânsito em julgado e anulou as provas; agravo do MPF desprovido, vencidos Fux e Mendonça.
@@ -101,7 +145,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo interno desprovido.
   > (STF, AgRg no HC n. 245.446/AL, relator Ministro Nunes Marques, Segunda Turma, julgado em 21/8/2026, DJe de 1/10/2026.)
 
-## 207. AgRg no HC nº 268.633 / MG (STF)
+## 210. AgRg no HC nº 268.633 / MG (STF)
 - Decisão colegiada. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 01/10/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: Furto de valor pouco relevante, sem violência ou grave ameaça, é insignificante mesmo com réu reincidente. Absolvição mantida; agravo do MPF desprovido.
@@ -120,21 +164,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. DISPOSITIVO
   > 7. Agravo interno desprovido.
   > (STF, AgRg no HC n. 268.633/MG, relator Ministro Nunes Marques, Segunda Turma, julgado em 21/8/2026, DJe de 1/10/2026.)
-
-## 208. HC nº 1133535 / TO (STJ)
-- Decisão monocrática (liminar). Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Prisão e medidas cautelares
-- Resumo: A defesa só soube na véspera do paradeiro da testemunha presencial arrolada como imprescindível pelas duas partes, e o adiamento foi negado em plenário. Com dúvida plausível sobre a validade do veredicto, a execução provisória baseada só no Tema 1.068/STF foi suspensa: os réus aguardam o mérito em liberdade, com cautelares.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133535.pdf
-
-## 209. HC nº 1120948 / ES (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
-- Resumo: Pronúncia baseada só em depoimento do inquérito e em testemunhos de "ouvir dizer" é nula, mesmo depois da condenação pelo Júri (art. 155 do CPP; Tema 1.260/STJ). Processo anulado desde a pronúncia e réu impronunciado de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1120948.pdf
-
-## 210. HC nº 276.580 / GO (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 01/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Cabimento do HC
-- Resumo: Reincidência em crime culposo (homicídio culposo de trânsito) não impede o tráfico privilegiado, e quantidade e natureza da droga, sozinhas, não provam dedicação ao crime (art. 33, § 4º, da Lei 11.343/06). HC substitutivo de revisão criminal não conhecido, mas redutor aplicado de ofício na fração de 2/3.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276580.pdf
