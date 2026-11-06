@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 24 de 36 (decisões 231 a 240)
+# Acervo de Jurisprudência — Cury Advogados — parte 24 de 38 (decisões 231 a 240)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 354 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,99 +8,106 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 231. HC nº 1104105 / SP (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
-- Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
-- Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
+## 231. Rcl nº 99.520 / AC (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 21/09/2026.
+- Crime / Tema: Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
+- Resumo: Súmula Vinculante 14: a defesa tem direito de copiar, em meio físico ou digital, as conversas de WhatsApp já documentadas e a documentação da cadeia de custódia dos laudos; só poder consultá-las no instituto de perícia, sem extrair, não basta. Reclamação procedente.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-99520.pdf
 
-## 232. RHC nº 243155 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
-- Crime / Tema: Furto · Execução penal
-- Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
+## 232. HC nº 1129639 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Ameaça · Violência doméstica · Prisão e medidas cautelares
+- Resumo: Preventiva por ameaça em violência doméstica (pena máxima inferior a 4 anos): o art. 313, III, do CPP exige descumprimento prévio de medida protetiva, e o réu nem havia sido intimado dela. Prisão substituída por medidas protetivas e cautelares diversas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129639.pdf
 
-## 233. HC nº 276.144 / MS (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
-- Crime / Tema: Corrupção passiva · Dosimetria
-- Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
+## 233. HC nº 1130315 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Busca pessoal em usuário por "comportamento suspeito" genérico, em patrulhamento de rotina, é ilícita (art. 244 do CPP) e contamina o que veio depois: a indicação da casa do vendedor e as apreensões feitas lá (art. 157, § 1º). A ilicitude vale mesmo com a busca feita em terceiro. Paciente e corréu absolvidos de ofício (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1130315.pdf
 
-## 234. AgRg no HC nº 1089462 / MG (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
-- Crime / Tema: Embriaguez ao volante · Excesso de prazo
-- Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089462.pdf
+## 234. PET no AREsp nº 2593373 / AM (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
+- Resumo: ANPP retroativo (HC 185.913/STF): sem trânsito em julgado, cabe ao MP de primeiro grau avaliar o acordo, e não ao MPF no STJ. Autos remetidos à origem para o MP estadual se manifestar motivadamente sobre o ANPP (art. 28-A do CPP), com direito à revisão do § 14 se houver recusa. O relator não antecipou juízo sobre requisitos nem preclusão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2593373.pdf
+
+## 235. HC nº 1102439 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 18/09/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Prisão e medidas cautelares
+- Resumo: A campana feita depois de informação anônima, a venda vista no portão da casa e confirmada pelo comprador abordado, e a droga achada no carro do réu formam fundadas razões para a busca domiciliar sem mandado; nulidade afastada. Mas maus antecedentes, com penas já extintas, e pouca droga (34 g de cocaína), num crime sem violência, não justificam a preventiva, substituída por medidas cautelares (art. 319 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1102439.pdf
+
+## 236. AgRg no AREsp nº 3203005 / MT (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 17/09/2026.
+- Crime / Tema: Porte ilegal de munição · Fundada suspeita
+- Resumo: Busca veicular ilícita: vidros escuros, região associada ao tráfico e fiscalização de rotina não configuram fundada suspeita. Provas desentranhadas e absolvição (porte de munição).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3203005.pdf
+- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-aresp-3203005.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXCESSO DE PRAZO. TRANCAMENTO DE INQUÉRITO POLICIAL. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA VEICULAR SEM FUNDADAS SUSPEITAS. PROVAS ILÍCITAS. ABSOLVIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
   > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público Estadual contra decisão monocrática que não conheceu do habeas corpus, mas concedeu a ordem, de ofício, para determinar o trancamento de inquérito policial, sem prejuízo de reabertura com surgimento de novas provas.
-  > 2. Trata-se de um único investigado por suposta embriaguez ao volante ocorrida em abril de 2022. Inquérito policial em curso há mais de três anos, sem justificativa plausível para a mora e sem complexidade aparente, com investigado em liberdade. Alegação ministerial de diligências pendentes e de impropriedade do prazo para conclusão do inquérito quando o investigado não está preso.
-  > 3. O Tribunal de origem denegou a ordem no habeas corpus originário. A decisão agravada reconheceu constrangimento ilegal por excesso de prazo e determinou o trancamento do inquérito policial.
+  > 1. Agravo regimental interposto pelo Parquet federal contra decisão que, no agravo em recurso especial, conheceu do recurso especial da defesa e deu-lhe provimento para reconhecer a ilicitude das provas decorrentes de busca veicular, com a consequente absolvição do acusado da imputação da prática do delito previsto no art. 14, caput, da Lei n. 10.826/2003.
+  > 2. O acórdão recorrido do Tribunal local afastou a nulidade das provas obtidas em contexto de busca veicular, entendendo legitimadas pela combinação de: vidros demasiadamente escuros no veículo; circulação em região periférica associada ao tráfico de entorpecentes; e fiscalização de rotina, tendo havido apreensão de munições. O Agravante sustenta a existência de fundadas suspeitas e afirma que as munições estariam no bolso do réu.
+  > 3. A decisão agravada reformou o acórdão ao concluir inexistirem elementos objetivos, concretos e anteriores à diligência aptos a justificar a busca pessoal/veicular.
   > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se o excesso de prazo na conclusão de inquérito policial, sem justificativa plausível e sem complexidade, caracteriza constrangimento ilegal apto a ensejar o trancamento, ainda que o investigado esteja solto; e (ii) saber se o agravo regimental trouxe argumentos suficientes para infirmar a decisão que concedeu a ordem de ofício.
+  > 4. A questão em discussão consiste em saber as alegações de infração de trânsito (vidros escuros), de localidade suspeita (região periférica comumente associada ao tráfico) e de fiscalização de rotina autorizariam a realização de busca pessoal/veicular sem mandado judicial, à luz dos arts. 240, § 2º, e 244 do CPP.
+  > 5. A questão em discussão consiste, ainda, em saber se a ilicitude da diligência acarreta o desentranhamento dos elementos de convicção e a absolvição, nos termos do art. 386, II, do CPP.
   > III. Razões de decidir
-  > 5. A demora superior a três anos, sem justificativa plausível e em feito sem complexidade, viola o direito fundamental à duração razoável do processo (CF/1988, art. 5º, LXXVIII) e configura constrangimento ilegal, autorizando o trancamento do inquérito policial.
-  > 6. O prazo para conclusão do inquérito é impróprio quando o investigado está solto, porém o excesso desarrazoado e injustificado não se legitima pela simples liberdade do investigado; diligências pendentes não afastam a necessidade de conclusão quando não demonstrada a complexidade ou a imprescindibilidade, sendo possível a concessão da ordem, de ofício, diante de flagrante coação ilegal (CPP, art. 654, § 2º).
-  > 7. O agravo regimental não apresentou argumentos capazes de infirmar a decisão agravada, impondo a manutenção do decisum pelos próprios fundamentos.
-  > IV. Dispositivo
-  > 8. Agravo regimental desprovido.
-  > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)
-
-## 235. HC nº 1124321 / PR (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
-
-## 236. RHC nº 243213 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
-- Crime / Tema: Tráfico de drogas · Quebra de sigilo
-- Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
-
-## 237. EDcl no AREsp nº 3028845 / PR (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/08/2026.
-- Crime / Tema: Acesso da defesa às provas
-- Resumo: Juntada tardia e incompleta das gravações ambientais sob custódia do Estado causa prejuízo concreto: a defesa perdeu oportunidades na resposta à acusação, na inquirição de testemunhas e na contraprova, e reabrir prazo só para complementar as alegações finais não recompõe essas fases. Mantida a nulidade a partir da resposta à acusação; embargos do MP rejeitados.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3028845.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. DIREITO DE ACESSO A PROVA MANTIDA SOB CUSTÓDIA ESTATAL. JUNTADA TARDIA DE GRAVAÇÕES AMBIENTAIS. CONTRADITÓRIO SUBSTANCIAL. AUSÊNCIA DE VÍCIOS DO ART. 619 DO CPP. EMBARGOS REJEITADOS.
-  > I. Caso em exame
-  > 1. Embargos de declaração opostos pelo embargante contra acórdão que, em agravo em recurso especial, conheceu o agravo e deu parcial provimento ao recurso especial para declarar a nulidade dos atos praticados a partir da resposta à acusação, diante do acesso não integral e tardio pela defesa às gravações ambientais mantidas sob custódia estatal, com determinação de retorno dos autos à origem para assegurar acesso integral ao acervo e renovação dos atos instrutórios afetados.
-  > 2. Fato relevante. O embargante sustenta omissão do acórdão por ausência de demonstração concreta de prejuízo, afirma acesso integral antes da sentença com reabertura de prazo para complementação das alegações finais e aduz que as mídias não fundamentaram diretamente a condenação e convergiriam com a narrativa acusatória.
-  > II. Questão em discussão
-  > 3. A questão em discussão consiste em saber se: (i) houve omissão quanto à demonstração de prejuízo concreto exigido pelos arts. 563 e 566 do CPP; (ii) a reabertura do prazo para complementação das alegações finais neutraliza o prejuízo e convalida os atos praticados sem acesso integral e tempestivo às gravações; e (iii) a ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória afastam o interesse defensivo e a nulidade reconhecida.
-  > III. Razões de decidir
-  > 4. Os embargos de declaração possuem fundamentação vinculada às hipóteses do art. 619 do CPP e não se prestam à rediscussão do mérito nem à obtenção de efeitos infringentes sem indicação de ambiguidade, obscuridade, contradição ou omissão.
-  > 5. O acórdão embargado enfrentou expressamente a necessidade de prejuízo concreto e o identificou na perda efetiva de oportunidades processuais já consumadas, decorrente do acesso não integral e tardio às gravações ambientais, com repercussões sobre a resposta à acusação, a orientação da inquirição de testemunhas, a formulação de requerimentos probatórios, a produção de contraprova, a avaliação de perícia e a definição da estratégia defensiva, em observância ao princípio do pas de nullité sans grief.
-  > 6. A reabertura de prazo para complementação das alegações finais não recompõe as oportunidades próprias das fases anteriores nem permite reproduzir atos instrutórios realizados sem conhecimento integral da fonte probatória, não sendo exigível da defesa a demonstração de cenários contrafactuais inviabilizados pelo acesso tardio.
-  > 7. O interesse defensivo alcança a integralidade da fonte probatória, independentemente de seleção acusatória ou de uso explícito na sentença, pois somente o acesso ao acervo completo possibilita o controle defensivo do contexto, continuidade e critérios de seleção das conversas.
-  > 8. A ausência de requerimentos defensivos de prorrogação de prazo, perícia ou renovação imediata de atos após a juntada tardia não convalida o vício, dado que a resposta à acusação e a instrução já estavam encerradas, e o prejuízo incidiu sobre a própria estruturação da atividade defensiva.
-  > 9. Os aclaratórios buscam rediscutir matéria decidida sem apontar vício integrativo, impondo-se sua rejeição.
+  > 6. Busca pessoal, e por analogia busca veicular, sem mandado judicial exige fundada suspeita demonstrada por elementos objetivos, concretos e anteriores à diligência, referíveis à posse de arma proibida, objetos ou papéis que constituam corpo de delito; impressões subjetivas, diligência exploratória, circulação em local reputado como de tráfico ou circunstâncias administrativas desvinculadas da suspeita de prática delitiva não satisfazem o standard legal (CPP, arts. 240, § 2º, e 244).
+  > 7. A existência de película automotiva irregular justifica abordagem e fiscalização administrativa do veículo no exercício do poder de polícia de trânsito, mas não autoriza, por si só, a realização de busca pessoal/veicular de natureza probatória penal sem fundadas suspeitas.
+  > 8. Referência genérica ao tráfego em região periférica ou conhecida pela prática de tráfico de entorpecentes não configura fundada suspeita concreta, sob pena de legitimar abordagens invasivas com motivação exploratória incompatíveis com as garantias do art. 244 do CPP.
+  > 9. Ausentes, na moldura fática estabelecida, elementos objetivos anteriores à busca (v.g., tentativa de fuga, comportamento evasivo, denúncia específica, informação concreta sobre veículo/ocupantes, visualização de objeto ilícito, descarte de material suspeito, odor de entorpecente, nervosismo incomum associado a outros dados), não há amparo para as diligências policiais.
+  > 10. A irregularidade da diligência impõe o desentranhamento das provas obtidas e das delas derivadas, com a absolvição por ausência de provas lícitas suficientes, nos termos do art. 386, II, do CPP.
+  > 11. O Agravante não apresentou elementos capazes de infirmar os fundamentos da decisão agravada, razão pela qual se mantém a reforma do acórdão recorrido.
   > IV. Dispositivo e tese
-  > 10. Resultado do Julgamento: Embargos de declaração rejeitados.
+  > 12. Resultado do Julgamento: Agravo regimental desprovido.
   > Tese de julgamento:
-  > 1. Os embargos de declaração somente são cabíveis para sanar ambiguidade, obscuridade, contradição ou omissão, não se prestando à rediscussão do mérito nem à obtenção de efeitos infringentes sem vício integrativo.
-  > 2. A demonstração de prejuízo concreto pode decorrer da perda de oportunidades processuais essenciais causada pelo acesso não integral e tardio à prova sob custódia estatal, afetando contraditório substancial e ampla defesa.
-  > 3. A reabertura de prazo para alegações finais não neutraliza prejuízos relativos a fases anteriores do processo nem recompõe oportunidades defensivas já esgotadas.
-  > 4. A ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória não afastam o direito de acesso integral e o controle defensivo sobre a íntegra da fonte probatória.
-  > (EDcl no AREsp n. 3.028.845/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2026, DJEN de 25/8/2026.)
+  > 1. A abordagem administrativa de trânsito não autoriza, por si só, busca pessoal ou veicular, que exige fundada suspeita objetiva, concreta e anterior, referível à posse de corpo de delito.
+  > 2. Circunstâncias genéricas como película escura nos vidros, circulação em região periférica e fiscalização de rotina não constituem justa causa para busca pessoal/veicular de natureza probatória.
+  > (AgRg no AREsp n. 3.203.005/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/8/2026, DJEN de 17/9/2026.)
 
-## 238. HC nº 1123362 / RJ (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/08/2026.
-- Crime / Tema: Vias de fato · Ameaça · Violência doméstica · Dosimetria
-- Resumo: O aumento pela agravante do art. 61, II, 'f', do CP sem motivação deve ficar na fração usual de 1/6. Penas reduzidas: ameaça para 1 mês e 5 dias e vias de fato de 25 para 17 dias de prisão simples.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123362.pdf
+## 237. REsp nº 2279989 / PR (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/09/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
+- Resumo: A pronúncia não pode se apoiar só em elementos do inquérito e em testemunho indireto (art. 155 do CPP): sem prova judicial de autoria, impõe-se a impronúncia. Restabelecida a sentença de impronúncia (homicídio qualificado).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2279989.pdf
 
-## 239. HC nº 1114613 / MG (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/08/2026.
-- Crime / Tema: Vias de fato · Violência doméstica · Confissão espontânea
-- Resumo: Quem admite a conduta das vias de fato (art. 21, § 2º, da LCP) tem direito à atenuante da confissão, compensada com a reincidência, como o próprio TJ fez quanto à lesão corporal no mesmo julgado. Pena redimensionada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114613.pdf
+## 238. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
+- Decisão colegiada. Relator: Des. Fed. Ângelo Roberto Ilha da Silva. 7ª Turma. Publicado em 16/09/2026.
+- Crime / Tema: Quebra de sigilo · RIF · Acesso da defesa às provas
+- Resumo: Súmula Vinculante 14: a defesa tem direito de acessar o registro, no sistema SEI-C, do pedido que originou o RIF, para verificar se já havia investigação formal instaurada quando o relatório foi solicitado ao COAF. Isso não dá acesso aos sistemas da acusação nem antecipa juízo sobre a licitude do RIF.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-5027157.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. INQUÉRITO POLICIAL. SÚMULA VINCULANTE Nº 14. RELATÓRIO DE INTELIGÊNCIA FINANCEIRA.
+  > 1. A Súmula Vinculante nº 14 assegura à defesa amplo acesso aos elementos de prova já documentados no procedimento investigatório e relacionados ao exercício do direito de defesa, não decorrendo dessa garantia, de forma imediata, o direito à utilização dos mesmos sistemas institucionais empregados pelos órgãos de persecução penal ou à reprodução do ambiente tecnológico por meio do qual os dados foram originalmente transmitidos.
+  > 2. No caso concreto, em que os elementos constantes dos autos não permitem identificar a data da solicitação que deu origem ao RIF nem aferir se, naquele momento, havia procedimento investigatório formalmente instaurado, mostra-se cabível assegurar à defesa o acesso ao registro da comunicação realizada por meio do Sistema Eletrônico de Intercâmbio – SEI-C. A providência não implica produção de nova prova nem importa antecipação de juízo acerca da validade ou licitude do relatório, destinando-se, nas circunstâncias específicas da hipótese, a viabilizar o controle da regularidade do compartilhamento.
+  > (TRF4, HC n. 5027157-97.2026.4.04.0000/PR, relator Desembargador Federal Ângelo Roberto Ilha da Silva, 7ª Turma, julgado em 15/9/2026, publicado em 16/9/2026.)
 
-## 240. HC nº 1121206 / PI (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
-- Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
+## 239. ARE nº 1.610.959 / RS (STF)
+- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
+- Resumo: Contradições nos depoimentos dos policiais sobre a abordagem e a entrada na casa, sem campana nem investigação prévia, justificaram a absolvição pelo TJRS. A Segunda Turma negou provimento ao recurso do MP (Súmula 279/STF).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1610959.pdf
+- Ementa oficial:
+  > DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. ABORDAGEM POLICIAL. ACÓRDÃO RECORRIDO QUE APONTOU INCONGRUÊNCIAS NOS DEPOIMENTOS POLICIAIS. DÚVIDAS SOBRE AS RAZÕES DA DINÂMICA DA ABORDAGEM. AUSÊNCIA DE CAMPANA OU INVESTIGAÇÃO PRÉVIA. REVOLVIMENTO PROBATÓRIO. RECURSO NÃO PROVIDO.
+  > I. CASO EM EXAME
+  > 1. Trata-se de recurso extraordinário com agravo interposto pelo MPRS contra acórdão do TJRS que absolveu o recorrido da acusação dos delitos do art. 33, “caput”, da Lei 11.343/06 e do art. 14 da Lei 10.826/2003. No recurso, o MPRS alega, em suma, que o acórdão recorrido violou o art. 5º, incisos X e XI, da Constituição Federal. Aduz que a abordagem policial do acusado em via pública foi justificada, bem como a sequencial entrada em sua residência, a qual, ademais, teria sido autorizada, de forma que não haveria ilegalidade nas apreensões dos entorpecentes e da arma de fogo que culminaram com a condenação.
+  > II. QUESTÕES EM DISCUSSÃO
+  > 2. Verificar se estão presentes os óbices ao conhecimento e eventual provimento do recurso e se, de fato, o acórdão recorrido violou frontalmente os dispositivos constitucionais invocados.
+  > III. RAZÕES DE DECIDIR
+  > 3. O acórdão recorrido consignou expressamente uma série de contradições nos depoimentos dos policiais que participaram da ocorrência, colocando sérias dúvidas sobre a real dinâmica dos eventos e maculando o conjunto probatório acusatório.
+  > 4. O acórdão do TJRS apontou que um dos policiais disse que havia um mandado em desfavor do réu (documento que não aportou aos autos e que jamais foi mencionado durante a investigação); que tinha conhecimento acerca do acusado, porém não o conhecia pessoalmente; que não se recordava de ter havido ou não busca domiciliar. Outro policial, contudo, teria dito que abordaram o réu por conta de se tratar de indivíduo já conhecido, o qual se encontrava em cumprimento de prisão domiciliar; que solicitaram a entrada na residência para a esposa do acusado, a qual permitiu que a guarnição entrasse, mas que lá nada encontraram.
+  > 5. A verificação das discordâncias da parte em relação às conclusões do acórdão exigiria inegável revolvimento fático probatório, sabidamente vedado em sede de recurso extraordinário, conforme enunciado nº 279 da Súmula desta Corte. Nesse sentido, de fato, “não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal” (RE 128.1990, Rel. Ministro Celso de Mello, julg. 25/05/2020).
+  > IV. DISPOSITIVO
+  > 6. Recurso extraordinário ao qual se nega seguimento.
+  > (STF, ARE n. 1.610.959/RS, relator Ministro André Mendonça, Segunda Turma, julgado em 28/8/2026, DJe de 15/9/2026.)
+
+## 240. RE nº 1.608.434 / ES (STF)
+- Decisão colegiada (repercussão geral). Relator: Min. Dias Toffoli. Plenário. Publicado em 15/09/2026.
+- Crime / Tema: Quebra de sigilo · Repercussão geral
+- Resumo: Tema 1.474/STF (repercussão geral reconhecida, mérito pendente). Discute se ordem judicial pode quebrar o sigilo telemático (conteúdo de e-mail e nuvem) para subsidiar fiscalização tributária, fora da investigação criminal (art. 5º, XII, da CF).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1608434.pdf
+- Ementa oficial:
+  > Repercussão geral em recurso extraordinário. Direito constitucional e tributário. Fiscalização da Administração Tributária para cobrança de tributo. Quebra de sigilo telemático por ordem judicial. Obtenção de conteúdo armazenado em conta de e-mail ou nuvem vinculada. Presença de matéria constitucional e de repercussão geral.
+  > (STF, RE n. 1.608.434 RG/ES, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 24/8/2026, DJe de 15/9/2026.)

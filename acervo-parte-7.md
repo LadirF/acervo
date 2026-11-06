@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 7 de 36 (decisões 61 a 70)
+# Acervo de Jurisprudência — Cury Advogados — parte 7 de 38 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 354 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 380 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,121 +8,98 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. RHC nº 250052 / GO (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
-- Crime / Tema: Falsidade ideológica · Justa causa · Revisão criminal
-- Resumo: Retratação da vítima por escritura pública, sem eficácia probatória própria, não tem potencial lesivo para configurar falsidade ideológica (art. 299 do CP). RHC parcialmente provido: investigação trancada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-250052.pdf
-
-## 62. AgRg no AREsp nº 3298877 / PI (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 21/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri
-- Resumo: A absolvição pelo quesito genérico pode acolher a clemência sustentada em plenário e registrada em ata, com apoio nas circunstâncias do caso. Veredito mantido; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3298877.pdf
+## 61. REsp nº 2253748 / MG (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Homicídio qualificado · Homicídio · Dosimetria
+- Resumo: A pena-base do homicídio simples tentado não pode igualar a do qualificado consumado sem fundamento concreto para o acréscimo. REsp parcialmente provido: pena redimensionada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253748.pdf
 - Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO SIMPLES. TRIBUNAL DO JÚRI. ABSOLVIÇÃO POR QUESITO GENÉRICO. TESE DE CLEMÊNCIA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que não conheceu do recurso especial, em razão do óbice da Súmula n. 7/STJ.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 2. A questão em discussão consiste em saber se a incidência da Súmula 7/STJ impede o exame, em recurso especial, da alegação de decisão do júri manifestamente contrária à prova dos autos, quando a absolvição decorre de quesito genérico, acolhendo tese de clemência.
-  > III. RAZÕES DE DECIDIR
-  > 3. O acórdão de origem registrou a apresentação em ata da tese de clemência e a sua compatibilidade com a Constituição Federal, com o Tema 1.087/STF e com as circunstâncias fáticas do caso, relativas a homicídio simples.
-  > 4. O Tribunal de origem reconheceu a existência de vertente probatória e de circunstâncias fáticas e pessoais mínimas que justificam a tese de clemência, registrada em ata de julgamento, em harmonia com os limites estabelecidos pelo Supremo Tribunal Federal.
-  > 5. A pretensão de anular o julgamento do Tribunal do Júri sob o argumento de decisão contrária à prova dos autos demanda o reavaliação do acervo fático-probatório, providência vedada pela Súmula 7/STJ.
-  > IV. DISPOSITIVO
-  > 6. Agravo regimental desprovido.
-  > (AgRg no AREsp n. 3.298.877/PI, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 15/10/2026, DJEN de 21/10/2026.)
+  > PENAL E PROCESSO PENAL. RECURSO ESPECIAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO SIMPLES TENTADO. DOSIMETRIA. PENA-BASE. ANTECEDENTES, MOTIVOS E CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEIS. HOMICÍDIO QUALIFICADO. EXASPERAÇÃO COMPATÍVEL COM O PARÂMETRO DE 1/8 DO INTERVALO ENTRE AS PENAS MÍNIMA E MÁXIMA EM ABSTRATO. AUSÊNCIA DE ILEGALIDADE. HOMICÍDIO SIMPLES TENTADO. FIXAÇÃO DA PENA-BASE NO MESMO PATAMAR DO HOMICÍDIO QUALIFICADO. ACRÉSCIMO SEM FUNDAMENTAÇÃO CONCRETA IDÔNEA. ILEGALIDADE. REDIMENSIONAMENTO DA PENA.
+  > 1. A fixação da pena-base não se submete a critério matemático rígido, sendo as frações de 1/6 sobre a pena mínima ou de 1/8 sobre o intervalo entre os limites mínimo e máximo abstratamente cominados ao tipo penal meros referenciais adotados pela jurisprudência desta Corte para aferição da proporcionalidade da exasperação, admitida a utilização de critério diverso ou mais gravoso desde que amparado em fundamentação concreta e idônea.
+  > 2. No caso, a exasperação da pena-base do crime de homicídio qualificado consumado em montante correspondente a aproximadamente 1/8 do intervalo entre as penas mínima e máxima abstratamente cominadas ao tipo penal para cada circunstância judicial negativada não evidencia ilegalidade ou desproporcionalidade.
+  > 3. É desproporcional a fixação da pena-base do crime de homicídio simples tentado em patamar equivalente ao estabelecido para o homicídio qualificado consumado quando valoradas negativamente apenas três circunstâncias judiciais, resultando em incremento substancialmente superior ao parâmetro de referência ordinariamente adotado pela jurisprudência desta Corte, sem fundamentação concreta apta a justificá-lo.
+  > 4. Recurso especial parcialmente provido.
+  > (REsp n. 2.253.748/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 63. RHC nº 278.575 / DF (STF)
-- Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 21/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Ato infracional anterior, sozinho, não afasta o tráfico privilegiado. RHC parcialmente provido para nova dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278575.pdf
-
-## 64. RHC nº 278.498 / PR (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 21/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: Comutação anterior não impede nova comutação pelo Decreto 11.846/2023: os arts. 3º e 4º tratam de hipóteses distintas. RHC provido para reexame do pedido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278498.pdf
-
-## 65. HC nº 1138222 / MS (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares · Superação da Súmula 691
-- Resumo: Prisão temporária por crime fora do rol legal e com as diligências já cumpridas é ilegal. Custódia relaxada de ofício, superada a Súmula 691/STF.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1138222.pdf
-
-## 66. RE nº 1.623.966 / SC (STF)
-- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 21/10/2026.
-- Crime / Tema: Crimes contra as relações de consumo · ANPP
-- Resumo: O ANPP cabe em processo sem trânsito em julgado, mesmo com denúncia recebida antes da Lei 13.964/2019 e condenação já em grau de recurso (HC 185.913/STF). RE da defesa provido: autos ao MP para avaliar o acordo.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1623966.pdf
-
-## 67. AgRg no REsp nº 2224434 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: A aprovação no ENEM gera remição mesmo para quem já tem diploma de curso superior: o estudo atual é fato gerador autônomo. Agravo da defesa provido; autos voltam para o cálculo.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2224434.pdf
+## 62. REsp nº 2239370 / PE (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Excesso de prazo
+- Resumo: Os prazos do art. 131, I, do CPP não são peremptórios, mas o sequestro de bens mantido por mais de 2 anos sem denúncia contra os investigados é excesso de prazo. REsp do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2239370.pdf
 - Ementa oficial:
-  > AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA PELO ESTUDO. APROVAÇÃO PARCIAL NO ENEM. APENADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR ANTERIOR AO CUMPRIMENTO DA PENA. IRRELEVÂNCIA. SUPERVENIÊNCIA DO TEMA REPETITIVO 1.357/STJ. FATO GERADOR AUTÔNOMO.
-  > 1. O recurso especial não foi conhecido com fundamento na Súmula 83/STJ, à luz de precedentes segundo os quais o apenado portador de diploma de curso superior anterior ao início do cumprimento da pena não faria jus à remição pela aprovação no ENEM, por inexistir aquisição de conhecimento novo.
-  > 2. Referido entendimento foi superado pela Terceira Seção desta Corte, que, ao julgar o Tema Repetitivo 1.357 (REsp n. 2.072.985/DF, relator Ministro Reynaldo Soares da Fonseca, julgado em 18/6/2026, DJEN de 16/7/2026), fixou a tese de que a aprovação no ENEM é cabível para fins de remição ainda que o sentenciado já tenha concluído o Ensino Médio anteriormente ao início do cumprimento da pena, porquanto o exame demanda estudo por conta própria e representa fato gerador autônomo, distinto da mera certificação de escolaridade pretérita – raciocínio que, por identidade de fundamento, afasta também o óbice relativo à prévia conclusão de curso superior, na linha já consolidada pela Quinta Turma (REsp n. 2.156.059/MS, relator Ministro Ribeiro Dantas, julgado em 5/11/2024; AgRg no REsp n. 2.132.114/MG, relator. Ministro Reynaldo Soares da Fonseca, julgado em 18/6/2024).
-  > 3. O art. 126 da LEP e a Resolução CNJ n. 391/2021 não condicionam a remição pelo estudo à inexistência de escolaridade prévia, seja em Nível Médio, seja em Nível Superior. A remição não representa crédito automático pela posse de diploma, mas reconhecimento do esforço educacional autônomo e atual, comprovado objetivamente pela aprovação no exame durante a execução da pena.
-  > 4. Agravo regimental provido para dar provimento ao recurso especial e, ao reformar o acórdão do Tribunal de Justiça do Estado de São Paulo, reconhecer o direito do agravante à remição de pena com base na aprovação parcial no ENEM, determinando-se o retorno dos autos ao Juízo da execução para o devido cômputo da remição correspondente.
-  > (AgRg no REsp n. 2.224.434/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+  > RECURSO ESPECIAL. PROCESSUAL PENAL. MEDIDAS ASSECURATÓRIAS. SEQUESTRO E INDISPONIBILIDADE DE BENS. OPERAÇÃO LÁCTEOS. AUSÊNCIA DE DENÚNCIA EM RELAÇÃO AOS INVESTIGADOS. EXCESSO DE PRAZO RECONHECIDO PELA CORTE DE ORIGEM. ART. 131, I, DO CPP. PRAZO NÃO PEREMPTÓRIO. ARTS. 3º E 4º DO DECRETO-LEI N. 3.240/1941.
+  > 1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que os prazos previstos no art. 131, I, do Código de Processo Penal não possuem natureza peremptória, devendo a manutenção das medidas assecuratórias ser aferida à luz dos princípios da proporcionalidade, da razoabilidade e da duração razoável do processo.
+  > 2. Hipótese em que o Tribunal de origem reconheceu a ocorrência de excesso de prazo, diante da manutenção das constrições patrimoniais por mais de dois anos sem oferecimento de denúncia em relação aos investigados atingidos pelas medidas, concluindo pela ausência de justa causa para a continuidade das restrições.
+  > 3. A pretensão recursal de reconhecer que a complexidade da investigação seria suficiente para justificar a permanência das constrições demanda a revisão do juízo de razoabilidade realizado pelas instâncias ordinárias com base nas circunstâncias concretas da causa, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
+  > 4. Embora o sequestro previsto nos arts. 3º e 4º do Decreto-Lei n. 3.240/1941 possa alcançar bens de origem lícita, a demonstração da licitude patrimonial não constituiu fundamento determinante do acórdão recorrido, que se apoiou precipuamente no reconhecimento do excesso de prazo.
+  > 5. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
+  > (REsp n. 2.239.370/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 68. REsp nº 2265467 / PR (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Tráfico de drogas · Execução penal
-- Resumo: A hipossuficiência declarada se presume verdadeira: cabe ao MP provar que o condenado pode pagar a multa para barrar a reabilitação (art. 94 do CP; Tema 931/STJ). REsp da defesa provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2265467.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. PENAL. REABILITAÇÃO CRIMINAL. INADIMPLEMENTO DE PENA DE MULTA. HIPOSSUFICIÊNCIA ECONÔMICA DECLARADA. PRESUNÇÃO RELATIVA DE VERACIDADE. ÔNUS DA PROVA ATRIBUÍDO AO MINISTÉRIO PÚBLICO. TEMA 931/STJ.
-  > 1. Trata-se de recurso especial interposto contra acórdão que negou provimento à apelação defensiva e manteve o indeferimento do pedido de reabilitação criminal, sob o fundamento de que o recorrente não comprovou de forma suficiente sua hipossuficiência econômica para justificar o inadimplemento de pena de multa atualizada em R$ 85.908,09.
-  > 2. A questão em discussão consiste em definir: (i) se o inadimplemento da pena de multa, diante de alegação de hipossuficiência econômica, obsta a concessão da reabilitação criminal; e (ii) a quem incumbe o ônus de provar a capacidade ou a incapacidade de pagamento da sanção pecuniária, à luz da tese revisada do Tema 931/STJ.
-  > 3. A tese firmada no Tema Repetitivo 931/STJ (REsp n. 2.024.901/SP e REsp n. 2.090.454/SP), revisada pela Terceira Seção em 28/2/2024, estabelece que o inadimplemento da pena de multa, após o cumprimento da pena privativa de liberdade, não obsta a extinção da punibilidade diante da hipossuficiência do condenado, salvo decisão judicial suficientemente motivada que indique concretamente a possibilidade de pagamento.
-  > 4. Por coerência sistêmica, o mesmo entendimento aplica-se ao instituto da reabilitação criminal, cujo cabimento pressupõe, nos termos do art. 94 do Código Penal, a prévia extinção da punibilidade. Se o inadimplemento da multa, decorrente de comprovada hipossuficiência, não obsta o reconhecimento da extinção da punibilidade, com maior razão não pode obstar a reabilitação, que dela é consequência lógica e cronológica, sob pena de impor ao egresso hipossuficiente restrição desproporcional e perpétua ao gozo de seus direitos.
-  > 5. A declaração de hipossuficiência econômica, amparada no art. 99, § 3º, do Código de Processo Civil, goza de presunção relativa de veracidade. Cabe ao Ministério Público, na condição de fiscal da execução penal, comprovar, com base em elementos concretos, que o condenado possui capacidade financeira de adimplir a sanção pecuniária.
-  > 6. No caso concreto, o recorrente apresentou declaração de hipossuficiência e o Ministério Público não produziu qualquer prova capaz de infirmá-la. O acórdão recorrido, ao exigir do reabilitando prova robusta de sua pobreza e dispensar o Parquet dessa incumbência, inverteu indevidamente o ônus probatório, contrariando o art. 94, III, do Código Penal, interpretado à luz do art. 51 do mesmo diploma e da orientação vinculante fixada no Tema 931/STJ.
-  > 7. Recurso especial provido nos termos do dispositivo.
-  > (REsp n. 2.265.467/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+## 63. HC nº 1119746 / SP (STJ)
+- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Homicídio no trânsito · Tribunal do Júri · Prisão e medidas cautelares
+- Resumo: A execução imediata da pena do Júri (Tema 1.068/STF) pode ser suspensa até a apelação quando há plausibilidade concreta de nulidade ou de decisão contrária à prova. Ordem concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1119746.pdf
 
-## 69. AgRg no AREsp nº 3233531 / BA (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
-- Resumo: Qualificadora sem prova judicial que a sustente deve ser afastada já na pronúncia. Mantida a exclusão; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3233531.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. EXCLUSÃO DE QUALIFICADORAS POR AUSÊNCIA DE PROVA JUDICIAL. REVALORAÇÃO JURÍDICA DOS FATOS. SÚMULA 7/STJ. PREQUESTIONAMENTO CONSTITUCIONAL. AGRAVO REGIMENTAL IMPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto contra decisão monocrática que, acompanhando parecer do MPF, conheceu em parte e deu provimento ao recurso especial defensivo para excluir qualificadoras do crime, relativas ao motivo torpe e ao recurso que dificultou a defesa da vítima.
-  > II. Questão em discussão
-  > 2. Há três questões em discussão: (i) saber se, diante do quadro fático delineado no acórdão recorrido, é possível manter as qualificadoras de motivo torpe e de recurso que dificultou a defesa da vítima sem indicação de prova direta produzida em juízo; (ii) saber se a conclusão pela exclusão das qualificadoras demanda vedado reexame de provas (Súmula 7/STJ) ou se se trata de revaloração jurídica; e (iii) saber se é possível o prequestionamento de dispositivo constitucional (art. 5º, XXXVIII, “d”, da CR/1988) no âmbito do recurso especial perante o STJ.
-  > III. Razões de decidir
-  > 3. O acórdão recorrido não apontou prova direta e produzida em juízo que justifique o motivo torpe e o recurso que dificultou a defesa da vítima, sendo inviável a manutenção das qualificadoras nesta etapa processual.
-  > 4. A conclusão pela exclusão das qualificadoras decorre de revaloração jurídica da fundamentação do acórdão recorrido, não exigindo reexame de provas, razão pela qual não incide a Súmula 7/STJ.
-  > 5. Não compete ao STJ enfrentar matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do STF.
-  > IV. Dispositivo
-  > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão monocrática que excluiu as qualificadoras.
-  > (AgRg no AREsp n. 3.233.531/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+## 64. HC nº 1140133 / SP (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
+- Resumo: Anulada a condenação e comprovada a materialidade só de parte das drogas, conjecturas sobre reiteração ou fuga não mantêm a preventiva de réu primário. Ordem concedida: preventiva revogada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1140133.pdf
 
-## 70. AgRg no AgRg no AREsp nº 3321341 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico
-- Resumo: Prisão em área de facção, droga e rádio comunicador, sem prova de vínculo estável e permanente, não sustentam a associação para o tráfico (art. 35 da Lei 11.343/2006). Absolvição mantida; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3321341.pdf
+## 65. HC nº 1139230 / TO (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Porte de drogas para consumo pessoal
+- Resumo: Pouca maconha, sem balança nem material de fracionamento, não presume tráfico, e confissão informal não confirmada em juízo não prova a mercancia. Ordem concedida: desclassificação para o art. 28 restabelecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139230.pdf
+
+## 66. RHC nº 247075 / RJ (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Adulteração de sinal identificador de veículo · Justa causa
+- Resumo: A simples falta da placa, com regularização iniciada antes da abordagem, sem outro sinal adulterado, não indica dolo de suprimir o sinal identificador (art. 311 do CP). RHC provido: ação penal trancada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-247075.pdf
+
+## 67. AgRg no HC nº 277.418 / RJ (STF)
+- Decisão colegiada. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 26/10/2026.
+- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
+- Resumo: A prisão preventiva é incompatível com o regime semiaberto fixado na condenação, por ofender a proporcionalidade. A Segunda Turma, por maioria, negou provimento ao agravo do MPF e manteve a revogação da preventiva concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277418.pdf
 - Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PROVA DE ESTABILIDADE E PERMANÊNCIA. ILAÇÕES AMBIENTAIS INSUFICIENTES. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental em agravo em recurso especial interposto pelo Agravante contra decisão monocrática que conheceu do agravo e deu parcial provimento ao recurso especial para absolver o Recorrente do delito do art. 35 da Lei n. 11.343/2006, mantendo a condenação pelo art. 33 e reajustando a pena e o regime.
-  > 2. Fato relevante. O Agravante sustenta que a posse de rádio comunicador em área dominada por facção criminosa, aliada às circunstâncias da prisão e à apreensão de drogas embaladas para venda, comprova a estabilidade e a permanência da associação para o tráfico.
-  > 3. As decisões anteriores. O Tribunal de origem manteve a condenação pelo art. 35, afastando a minorante do art. 33, § 4º, ao fundamento de habitualidade criminosa; a decisão agravada reconheceu a ilegalidade da condenação por ausência de demonstração concreta do animus associativo e absolveu o Recorrente quanto ao art. 35, preservando a condenação por tráfico.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se os elementos colhidos (prisão em área dominada por facção criminosa, posse de drogas e de rádio comunicador, depoimentos policiais e material embalado para venda) são suficientes para demonstrar o vínculo associativo estável e permanente exigido pelo art. 35 da Lei n. 11.343/2006, apto a manter a condenação por associação para o tráfico de drogas.
-  > III. Razões de decidir
-  > 5. O art. 35 da Lei n. 11.343/2006 exige a demonstração concreta de vínculo permanente e estável entre duas ou mais pessoas, dirigido à prática dos delitos previstos no art. 33, caput e § 1º, e/ou no art. 34 da Lei de Drogas.
-  > 6. A condenação não pode se apoiar em meras ilações sobre o ambiente do tráfico ou na circunstância de prisão em área dominada por facção, somada à posse de drogas e rádio comunicador, sem elementos objetivos que evidenciem o animus associativo.
-  > 7. Ausente prova da estabilidade e permanência da associação, impõe-se a absolvição quanto ao art. 35, mantendo-se apenas a condenação pelo tráfico, nos moldes fixados na decisão agravada.
-  > 8. O agravo regimental não apresenta fundamentos capazes de modificar o entendimento adotado, devendo ser preservada a conclusão pela ilicitude da condenação por associação para o tráfico.
-  > IV. Dispositivo
-  > 9. Resultado do Julgamento: Agravo regimental improvido.
-  > (AgRg no AgRg no AREsp n. 3.321.341/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
+  > Agravo regimental em habeas corpus interposto pelo Ministério Público Federal. Prisão preventiva. Regime semiaberto estabelecido no título penal condenatório. Concessão da ordem de ofício. Compatibilização da custódia cautelar com o regime imposto no decreto condenatório. Afronta ao princípio da proporcionalidade. Revogação da prisão preventiva. Decisão agravada em harmonia com entendimento consolidado pela Suprema Corte. Manutenção da decisão por seus próprios fundamentos. Agravo ao qual se nega provimento.
+  > 1. A decisão atacada não merece reforma, uma vez que seus fundamentos se harmonizam estritamente com o entendimento consolidado pela Suprema Corte.
+  > 2. O recurso mostra-se inviável, na medida em que contém apenas a reiteração dos argumentos anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões expressas na decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+  > 3. Agravo ao qual se nega provimento.
+  > (STF, AgRg no HC n. 277.418/RJ, relator Ministro Dias Toffoli, Segunda Turma, julgado em 19/10/2026, DJe de 26/10/2026.)
+
+## 68. REsp nº 2245806 / MG (STJ)
+- Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 26/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Natureza e quantidade da droga, sem outros dados concretos, não justificam fração do privilégio abaixo de 2/3 (art. 33, § 4º, da Lei 11.343/2006). REsp da defesa provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245806.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI 11.343/2006. TRÁFICO PRIVILEGIADO. FIXAÇÃO DA FRAÇÃO REDUTORA EM 3/5. RÉU PRIMÁRIO, DE BONS ANTECEDENTES. PEQUENA QUANTIDADE DE COCAÍNA. FUNDAMENTAÇÃO INIDÔNEA PARA REDUÇÃO INFERIOR À MÁXIMA. NECESSIDADE DE APLICAÇÃO DA FRAÇÃO DE 2/3. PRECEDENTES DO STJ. RECURSO PROVIDO.
+  > 1. É pacífica a jurisprudência desta Corte no sentido de que a quantidade e a natureza da droga apreendida, por si sós, não constituem fundamentos suficientes para afastar a aplicação da fração máxima (2/3) da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, quando preenchidos os demais requisitos legais.
+  > 2. No caso concreto, embora a Corte local tenha reconhecido a incidência do redutor, fixou a fração em 3/5, com base exclusiva na natureza (cocaína) e na quantidade da droga apreendida (14,73g), sem demonstrar outros elementos concretos que evidenciem maior gravidade da conduta.
+  > 3. Preenchidos os requisitos subjetivos e objetivos exigidos pelo § 4º do art. 33 da Lei de Drogas — primariedade, bons antecedentes, inexistência de vínculo com organização criminosa ou dedicação a atividades criminosas — impõe-se a aplicação da fração máxima.
+  > 4. Recurso especial conhecido e provido para aplicar a fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, mantido o regime aberto e a substituição por penas restritivas de direitos.
+  > (REsp n. 2.245.806/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
+
+## 69. AREsp nº 3137169 / RS (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
+- Crime / Tema: Abandono de posto (CPM) · ANPP
+- Resumo: O ANPP pode ser analisado no processo penal militar, mesmo após condenação confirmada em 2º grau. Recurso especial provido: autos ao MP para avaliar o acordo.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3137169.pdf
+- Ementa oficial:
+  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL – ANPP. JUSTIÇA MILITAR. INTERPRETAÇÃO SISTEMÁTICA. RETROATIVIDADE BENÉFICA. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+  > 1. A incidência do art. 28-A do Código de Processo Penal ao processo penal militar é possível mediante interpretação sistemática com o art. 3º do Código de Processo Penal Militar, sendo inadequada a vedação abstrata do instituto em razão da natureza militar da infração.
+  > 2. No caso, o Tribunal de origem afastou a análise do ANPP por suposta incompatibilidade com o estágio processual (condenação confirmada em apelação), fundamento que deve ser revisto ante a orientação consolidada.
+  > 3. A retroatividade benéfica do art. 28-A do CPP, norma de natureza híbrida, autoriza a avaliação do ANPP mesmo após a prolação de sentença e confirmação em segundo grau, cabendo ao Ministério Público analisar o preenchimento dos requisitos legais.
+  > 4. Esta Corte Superior reconhece a possibilidade de aplicação do ANPP em processo penal militar, inclusive diante de condenação já proferida, com retorno dos autos à origem para oportunizar a manifestação ministerial. Precedente.
+  > 5. Agravo conhecido. Recurso especial provido a fim de que o Tribunal de origem adote as providências necessárias para possibilitar a discussão do acordo de não persecução penal entre as partes da ação penal.
+  > (AREsp n. 3.137.169/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
+
+## 70. AREsp nº 3371938 / RJ (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
+- Crime / Tema: Violência doméstica · Acesso da defesa às provas
+- Resumo: Negar assistente técnico para contraditar o laudo oficial é cerceamento de defesa. Recurso especial provido: processo anulado desde o indeferimento.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3371938.pdf
