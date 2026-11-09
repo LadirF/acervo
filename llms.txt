@@ -6,8 +6,8 @@
 - [Índice STJ e STF (1 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice STJ e STF (2 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice STJ e STF (3 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
-- [Índice STJ e STF (4 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md): 73 decisões com tipo de decisão, data, relator, crime / tema e resumo.
-- [Índice TRFs e tribunais estaduais](https://ladirf.github.io/acervo/acervo-indice-tribunais.md): 17 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice STJ e STF (4 de 4)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md): 82 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice TRFs e tribunais estaduais](https://ladirf.github.io/acervo/acervo-indice-tribunais.md): 20 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Parte 1](https://ladirf.github.io/acervo/acervo-parte-1.md): ementas oficiais, referências e PDFs das decisões 1 a 10.
 - [Parte 2](https://ladirf.github.io/acervo/acervo-parte-2.md): ementas oficiais, referências e PDFs das decisões 11 a 20.
 - [Parte 3](https://ladirf.github.io/acervo/acervo-parte-3.md): ementas oficiais, referências e PDFs das decisões 21 a 30.
@@ -47,5 +47,7 @@
 - [Parte 37](https://ladirf.github.io/acervo/acervo-parte-37.md): ementas oficiais, referências e PDFs das decisões 361 a 370.
 - [Parte 38](https://ladirf.github.io/acervo/acervo-parte-38.md): ementas oficiais, referências e PDFs das decisões 371 a 380.
 - [Parte 39](https://ladirf.github.io/acervo/acervo-parte-39.md): ementas oficiais, referências e PDFs das decisões 381 a 390.
+- [Parte 40](https://ladirf.github.io/acervo/acervo-parte-40.md): ementas oficiais, referências e PDFs das decisões 391 a 400.
+- [Parte 41](https://ladirf.github.io/acervo/acervo-parte-41.md): ementas oficiais, referências e PDFs das decisões 401 a 402.
 - [Arquivo único](https://ladirf.github.io/acervo/acervo-completo.md): tudo junto (grande; para enviar a projetos).
 - [Página do acervo](https://ladirf.github.io/acervo/): busca e filtros (interface para pessoas).

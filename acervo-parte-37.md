@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 37 de 39 (decisões 361 a 370)
+# Acervo de Jurisprudência — Cury Advogados — parte 37 de 41 (decisões 361 a 370)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 390 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 402 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -129,15 +129,16 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 - Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
 
-## 370. RHC nº 147043 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
-- Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-147043.pdf
+## 370. HC nº 683878 / RS (STJ)
+- Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 23/05/2022.
+- Crime / Tema: Homicídio qualificado · Pronúncia · Tribunal do Júri
+- Resumo: Pronúncia não pode se lastrear somente em elementos do inquérito não ratificados em juízo. Ordem concedida para restabelecer a impronúncia.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-683878.pdf
 - Ementa oficial:
-  > RECURSO EM HABEAS CORPUS. OPERAÇÃO CUSTO BRASIL. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E TRÁFICO DE INFLUÊNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA E NA CONSTRIÇÃO CAUTELAR DE BENS. AJUIZAMENTO DE MANDADO DE SEGURANÇA PELO CORRÉU NA ORIGEM. DETERMINAÇÃO, PELA CORTE REGIONAL, DE LEVANTAMENTO DO BLOQUEIO PATRIMONIAL. DEMORA NA FINALIZAÇAO DAS INVESTIGAÇÕES. TRATAMENTO ISONÔMICO. NECESSIDADE.
-  > 1. Hipótese em que medidas cautelares assecuratórias impostas ao acusado persistem desde 3/6/2016, sendo que o oferecimento da denúncia ocorreu somente em 30/4/2019, e seu recebimento, no dia 7/5/2019. Pedido de desbloqueio de bens pendente de apreciação em primeiro grau. Marcha processual sem previsão de início.
-  > 2. Frente à quadra processual na origem ainda indefinida e dado o lapso temporal sobejamente transcorrido, soa desarrazoado manter por mais tempo as providências cautelares então estabelecidas.
-  > 3. Ante a concessão de segurança, em feito ajuizado pelo corréu na origem, a fim de determinar o levantamento da constrição patrimonial, à vista delonga no trâmite das investigações (mesmo com recebimento da denúncia em data anterior pelo Juízo singular), é de rigor a liberação do patrimônio do recorrente, a fim de assegurar tratamento isonômico entre os acusados.
-  > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
-  > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
+  > HABEAS CORPUS. PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA DERIVADA DE ELEMENTOS OBTIDOS EXCLUSIVAMENTE NO INQUÉRITO POLICIAL. EVIDÊNCIA NÃO CONFIRMADA EM JUÍZO. IMPOSSIBILIDADE. PRECEDENTES. PARECER MINISTERIAL ACOLHIDO. ORDEM DE HABEAS CORPUS CONCEDIDA PARA RESTABELECER A SENTENÇA DE IMPRONÚNCIA DO PACIENTE.
+  > 1. É certo que, por demandar revolvimento de matéria fático-probatória, a via estreita do habeas corpus não é adequada para examinar teses sobre ausência de provas ou sobre falta de indícios suficientes de autoria e de materialidade delitiva. Todavia, esta Corte firmou orientação no sentido de que não se admite que a pronúncia esteja lastreada somente em elementos probatórios colhidos na fase investigativa e que não foram ratificados em juízo. Desse entendimento destoou a Corte de origem.
+  > 2. Com efeito, no caso em análise, ao impronunciar o Paciente, o Magistrado singular afirmou que os elementos de autoria se restringem a informações que "não foram confirmadas, em sede judicial, tampouco corroboradas por outras provas".
+  > 3. O Tribunal a quo, porém, reformou a decisão de primeira instância, afirmando que, "em sede de pronúncia, a decisão pode estar amparada nos elementos informativos produzidos durante a fase investigativa", e que o acervo probatório colhido na esfera inquisitorial é suficiente para submeter o Paciente a julgamento perante o Tribunal do Júri.
+  > 4. Nesse contexto, em que os relatos das testemunhas não foram assertivos sobre a suposta prática de tentativa de homicídio pelo Paciente, e a própria vítima, em juízo, limitou-se a informar que, "segundo o que ficou sabendo, teria sido o acusado o autor dos disparos", está evidenciado o constrangimento ilegal resultante da decisão de pronúncia baseada em meros elementos de informação, os quais não são suficientes para fundamentar a decisão de pronúncia. Precedentes.
+  > 5. Ordem de habeas corpus concedida, em conformidade com o parecer ministerial, para restabelecer a sentença de impronúncia.
+  > (HC n. 683.878/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/5/2022, DJe de 23/5/2022.)

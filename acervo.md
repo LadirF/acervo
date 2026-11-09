@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto para ferramentas de IA)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 390 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 402 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -25,8 +25,8 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Índice STJ e STF (1 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf.md
 - Índice STJ e STF (2 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md
 - Índice STJ e STF (3 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md
-- Índice STJ e STF (4 de 4) (73 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md
-- Índice TRFs e tribunais estaduais (17 decisões): https://ladirf.github.io/acervo/acervo-indice-tribunais.md
+- Índice STJ e STF (4 de 4) (82 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md
+- Índice TRFs e tribunais estaduais (20 decisões): https://ladirf.github.io/acervo/acervo-indice-tribunais.md
 
 **Partes** (ementas oficiais, referências e links de PDF; 10 decisões cada, na mesma numeração do índice):
 - Parte 1: decisões 1 a 10 — https://ladirf.github.io/acervo/acervo-parte-1.md
@@ -68,5 +68,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Parte 37: decisões 361 a 370 — https://ladirf.github.io/acervo/acervo-parte-37.md
 - Parte 38: decisões 371 a 380 — https://ladirf.github.io/acervo/acervo-parte-38.md
 - Parte 39: decisões 381 a 390 — https://ladirf.github.io/acervo/acervo-parte-39.md
+- Parte 40: decisões 391 a 400 — https://ladirf.github.io/acervo/acervo-parte-40.md
+- Parte 41: decisões 401 a 402 — https://ladirf.github.io/acervo/acervo-parte-41.md
 
 Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md
