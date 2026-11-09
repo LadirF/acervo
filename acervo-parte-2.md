@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 2 de 39 (decisões 11 a 20)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 390 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,60 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 11. REsp nº 2241472 / MG (STJ)
+## 11. AREsp nº 3342895 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Retirado o reconhecimento fotográfico fora do art. 226 do CPP, sem prova autônoma de autoria, não resta base para a condenação (Tema 1.258/STJ). Réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3342895.pdf
+
+## 12. AgRg no AREsp nº 3269997 / GO (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Estupro de vulnerável · Prescrição
+- Resumo: Citação por edital sem esgotar as diligências (mandado dirigido a outra comarca, não ao endereço dos autos) é inválida; cai a suspensão do art. 366 do CPP e a prescrição corre desde o recebimento da denúncia. Punibilidade extinta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3269997.pdf
+
+## 13. HC nº 279.244 / PR (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 06/11/2026.
+- Crime / Tema: Contrabando
+- Resumo: Para multirreincidente condenado a pena baixíssima, inferior a quatro anos, o regime fechado é excessivo no caso concreto. Fixado o semiaberto, sem prejuízo de agravamento na unificação de penas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279244.pdf
+
+## 14. HC nº 1129246 / MS (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
+- Crime / Tema: Organização criminosa · Dosimetria
+- Resumo: A função de batedor, já usada para demonstrar a integração à organização criminosa, não sustenta a culpabilidade negativa sem circunstância concreta e individualizada. HC não conhecido; ordem de ofício: pena de 3 anos, 7 meses e 15 dias e 53 dias-multa; mantidos a condenação e o semiaberto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129246.pdf
+
+## 15. REsp nº 2257858 / GO (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
+- Crime / Tema: Estupro de vulnerável · Revisão criminal
+- Resumo: Na justificação criminal, o áudio atribuído à vítima pode ser apurado por perícia e oitiva de terceiros, sem exigir retratação; a vítima só é ouvida se consentir e só sobre o áudio. Recurso do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2257858.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. ESTUPRO DE VULNERÁVEL. JUSTIFICAÇÃO CRIMINAL. VIOLAÇÃO DOS ARTS. 381, III E § 5º, DO CCPC; 3º E 621, PRODUÇÃO ANTECIPADA DE PROVA. ÁUDIO ATRIBUÍDO À VÍTIMA. PROVA DOCUMENTAL AUTÔNOMA. INSTRUÇÃO PROBATÓRIA LIMITADA. OITIVA DO RECEPTOR DO ÁUDIO. PERÍCIA TÉCNICA. REVITIMIZAÇÃO. CONSENTIMENTO DA VÍTIMA. CONTRADITÓRIO E AMPLA DEFESA.
+  > 1. A justificação criminal é instrumento vocacionado à produção antecipada de prova, processada sob o crivo do contraditório e da ampla defesa, quando necessária para embasar eventual revisão criminal.
+  > 2. A verificação de prova nova demanda instrução adequada para aferir autenticidade, integridade, contexto e potencialidade de influenciar o julgamento, sem exigir, como condição de prosseguimento, a retratação da vítima.
+  > 3. A proteção contra a revitimização impõe delimitar o conteúdo da oitiva da vítima e condicioná-la ao consentimento, admitindo perguntas estritas ao novo elemento apresentado, sem reabertura da discussão dos fatos delitivos.
+  > 4. A realização de perícia técnica e a oitiva de terceiros diretamente relacionados ao material probatório identificado são medidas idôneas para assegurar confiabilidade e completude da prova, evitando cerceamento de defesa.
+  > 5. A decisão recorrida reconheceu o áudio como prova documental autônoma e relevante e determinou instrução probatória limitada, com oitiva do receptor da mensagem, eventual perícia técnica e oitiva da vítima apenas se houver consentimento, com perguntas estritas sobre o áudio, afastando revitimização.
+  > 6. As razões do recurso especial pretendem condicionar toda a instrução à retratação da vítima e desqualificar o áudio por suposta falta de autenticidade e identificação do interlocutor, mas não infirmam os fundamentos do acórdão quanto à necessidade de instrução mínima para aferir a idoneidade do material sob contraditório.
+  > 7. Recurso especial improvido.
+  > (REsp n. 2.257.858/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
+
+## 16. REsp nº 2259915 / RS (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
+- Crime / Tema: Ato infracional (ECA) · Prescrição
+- Resumo: Liberdade assistida com prazo certo prescreve pela medida fixada, com a redução legal, e não pelo limite de três anos (arts. 109, VI, e 115 do CP). Recurso provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2259915.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ATO INFRACIONAL ANÁLOGO AO ART. 218-A DO CÓDIGO PENAL. MEDIDA SOCIOEDUCATIVA. PRESCRIÇÃO DA LIBERDADE ASSISTIDA FIXADA EM SEIS MESES. PRAZO PRESCRICIONAL DE UM ANO E SEIS MESES. VIOLAÇÃO DOS ARTS. 109, VI, E 115, AMBOS DO CP. DELIMITAÇÃO DA JURISPRUDÊNCIA QUANTO ÀS MEDIDAS SEM TERMO FINAL. PARECER MINISTERIAL CONVERGENTE COM A TESE ACOLHIDA.
+  > 1. O Superior Tribunal de Justiça adota, para medidas socioeducativas impostas sem termo final, o parâmetro do período máximo de três anos da internação para o cálculo da prescrição da pretensão socioeducativa.
+  > 2. Fixada a medida socioeducativa com termo final determinado, aplica-se o prazo prescricional correspondente ao máximo da reprimenda, com a redução prevista em lei, sendo indevida a utilização do parâmetro das medidas sem termo final.
+  > 3. No caso, a liberdade assistida foi estipulada por seis meses, impondo o reconhecimento da prescrição pelo transcurso de um ano e seis meses, em conformidade com o entendimento consolidado e com o parecer ministerial.
+  > 4. Recurso especial provido para reconhecer a prescrição da pretensão punitiva da liberdade assistida.
+  > (REsp n. 2.259.915/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
+
+## 17. REsp nº 2241472 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Vias de fato · Violência doméstica
 - Resumo: Nas contravenções, fixar o sursis acima do mínimo exige motivação concreta (art. 11 da LCP). Recurso provido para fixar um ano; condenação mantida.
@@ -21,13 +74,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso especial provido para fixar o sursis pelo prazo de 1 ano, em condições que serão oportunamente estabelecidas pelo juízo competente para execução.
   > (REsp n. 2.241.472/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
 
-## 12. REsp nº 2289130 / SP (STJ)
+## 18. REsp nº 2289130 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Roubo · Confissão espontânea · Dosimetria
 - Resumo: Na multirreincidência, a confissão se compensa de forma proporcional, não integral (arts. 65, III, d, e 67 do CP; Tema 585/STJ). Recurso provido; pena reduzida e regime fechado mantido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2289130.pdf
 
-## 13. ARE nº 1.619.064 / PR (STF)
+## 19. ARE nº 1.619.064 / PR (STF)
 - Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Luiz Fux. Segunda Turma. Publicado em 05/11/2026.
 - Crime / Tema: Tráfico internacional de arma de fogo · Execução penal
 - Resumo: A hediondez que afasta benefício na execução se afere pela lei da data do fato, não pela do decreto. ARE provido para reanalisar o indulto.
@@ -46,44 +99,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Recurso provido.
   > (STF, ARE n. 1.619.064/PR, relator Ministro André Mendonça, redator do acórdão Ministro Luiz Fux, Segunda Turma, julgado em 19/10/2026, DJe de 5/11/2026.)
 
-## 14. ARE nº 1.315.025 / ES (STF)
+## 20. ARE nº 1.315.025 / ES (STF)
 - Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 05/11/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Negado seguimento ao agravo do MP contra acórdão que anulou o júri por qualificadora (art. 121, § 2º, IV, do CP) contrária à prova: sem repercussão geral demonstrada, ofensa reflexa e Súmula 279/STF. Anulação mantida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1315025.pdf
-
-## 15. HC nº 278.460 / SP (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 05/11/2026.
-- Crime / Tema: Homicídio qualificado · Ocultação de cadáver · Continuidade delitiva
-- Resumo: A continuidade específica do art. 71, parágrafo único, do CP não alcança a ocultação de cadáver, sem violência à pessoa; aplica-se a comum. Ordem parcial, mantida a dosimetria dos homicídios.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278460.pdf
-
-## 16. HC nº 278.718 / PR (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Descaminho
-- Resumo: A prestação pecuniária pode ser parcelada se comprovada a dificuldade financeira, a ser apurada pelo juízo; a redução do valor não foi acolhida. Ordem parcial.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278718.pdf
-
-## 17. RHC nº 278.722 / AL (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Furto · Princípio da insignificância
-- Resumo: Reiteração ou antecedentes não afastam, por si sós, a insignificância: furto de alimentos e guloseimas de valor irrisório, sem violência e com restituição integral, é atípico. Paciente absolvida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278722.pdf
-
-## 18. HC nº 279.064 / SP (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
-- Resumo: A preventiva é, em regra, incompatível com o regime semiaberto ou aberto fixado na sentença, salvo crime com violência ou grave ameaça. Prisão revogada, com cautelares do art. 319 do CPP. Ordem de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279064.pdf
-
-## 19. HC nº 278.903 / SP (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Posse ilegal de arma de fogo · Porte ilegal de arma de fogo
-- Resumo: A reincidência, por si só, não impede a substituição por restritivas ao reincidente não específico (art. 44, § 3º, do CP), e o juízo deve avaliá-la fundamentadamente. Ordem parcial, de ofício; mantido o semiaberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278903.pdf
-
-## 20. HC nº 278.451 / SP (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Quantidade e natureza da droga, dinheiro e mensagens sobre "produto não especificado" não bastam, por si sós, para provar dedicação ao crime e afastar o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Ordem de ofício para aplicar o redutor, em fração motivada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278451.pdf

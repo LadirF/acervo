@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 28 de 39 (decisões 271 a 280)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 390 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,65 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 271. REsp nº 2204349 / MG (STJ)
+## 271. RHC nº 243213 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
+- Crime / Tema: Tráfico de drogas · Quebra de sigilo
+- Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
+
+## 272. EDcl no AREsp nº 3028845 / PR (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/08/2026.
+- Crime / Tema: Acesso da defesa às provas
+- Resumo: Juntada tardia e incompleta das gravações ambientais sob custódia do Estado causa prejuízo concreto: a defesa perdeu oportunidades na resposta à acusação, na inquirição de testemunhas e na contraprova, e reabrir prazo só para complementar as alegações finais não recompõe essas fases. Mantida a nulidade a partir da resposta à acusação; embargos do MP rejeitados.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3028845.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. DIREITO DE ACESSO A PROVA MANTIDA SOB CUSTÓDIA ESTATAL. JUNTADA TARDIA DE GRAVAÇÕES AMBIENTAIS. CONTRADITÓRIO SUBSTANCIAL. AUSÊNCIA DE VÍCIOS DO ART. 619 DO CPP. EMBARGOS REJEITADOS.
+  > I. Caso em exame
+  > 1. Embargos de declaração opostos pelo embargante contra acórdão que, em agravo em recurso especial, conheceu o agravo e deu parcial provimento ao recurso especial para declarar a nulidade dos atos praticados a partir da resposta à acusação, diante do acesso não integral e tardio pela defesa às gravações ambientais mantidas sob custódia estatal, com determinação de retorno dos autos à origem para assegurar acesso integral ao acervo e renovação dos atos instrutórios afetados.
+  > 2. Fato relevante. O embargante sustenta omissão do acórdão por ausência de demonstração concreta de prejuízo, afirma acesso integral antes da sentença com reabertura de prazo para complementação das alegações finais e aduz que as mídias não fundamentaram diretamente a condenação e convergiriam com a narrativa acusatória.
+  > II. Questão em discussão
+  > 3. A questão em discussão consiste em saber se: (i) houve omissão quanto à demonstração de prejuízo concreto exigido pelos arts. 563 e 566 do CPP; (ii) a reabertura do prazo para complementação das alegações finais neutraliza o prejuízo e convalida os atos praticados sem acesso integral e tempestivo às gravações; e (iii) a ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória afastam o interesse defensivo e a nulidade reconhecida.
+  > III. Razões de decidir
+  > 4. Os embargos de declaração possuem fundamentação vinculada às hipóteses do art. 619 do CPP e não se prestam à rediscussão do mérito nem à obtenção de efeitos infringentes sem indicação de ambiguidade, obscuridade, contradição ou omissão.
+  > 5. O acórdão embargado enfrentou expressamente a necessidade de prejuízo concreto e o identificou na perda efetiva de oportunidades processuais já consumadas, decorrente do acesso não integral e tardio às gravações ambientais, com repercussões sobre a resposta à acusação, a orientação da inquirição de testemunhas, a formulação de requerimentos probatórios, a produção de contraprova, a avaliação de perícia e a definição da estratégia defensiva, em observância ao princípio do pas de nullité sans grief.
+  > 6. A reabertura de prazo para complementação das alegações finais não recompõe as oportunidades próprias das fases anteriores nem permite reproduzir atos instrutórios realizados sem conhecimento integral da fonte probatória, não sendo exigível da defesa a demonstração de cenários contrafactuais inviabilizados pelo acesso tardio.
+  > 7. O interesse defensivo alcança a integralidade da fonte probatória, independentemente de seleção acusatória ou de uso explícito na sentença, pois somente o acesso ao acervo completo possibilita o controle defensivo do contexto, continuidade e critérios de seleção das conversas.
+  > 8. A ausência de requerimentos defensivos de prorrogação de prazo, perícia ou renovação imediata de atos após a juntada tardia não convalida o vício, dado que a resposta à acusação e a instrução já estavam encerradas, e o prejuízo incidiu sobre a própria estruturação da atividade defensiva.
+  > 9. Os aclaratórios buscam rediscutir matéria decidida sem apontar vício integrativo, impondo-se sua rejeição.
+  > IV. Dispositivo e tese
+  > 10. Resultado do Julgamento: Embargos de declaração rejeitados.
+  > Tese de julgamento:
+  > 1. Os embargos de declaração somente são cabíveis para sanar ambiguidade, obscuridade, contradição ou omissão, não se prestando à rediscussão do mérito nem à obtenção de efeitos infringentes sem vício integrativo.
+  > 2. A demonstração de prejuízo concreto pode decorrer da perda de oportunidades processuais essenciais causada pelo acesso não integral e tardio à prova sob custódia estatal, afetando contraditório substancial e ampla defesa.
+  > 3. A reabertura de prazo para alegações finais não neutraliza prejuízos relativos a fases anteriores do processo nem recompõe oportunidades defensivas já esgotadas.
+  > 4. A ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória não afastam o direito de acesso integral e o controle defensivo sobre a íntegra da fonte probatória.
+  > (EDcl no AREsp n. 3.028.845/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2026, DJEN de 25/8/2026.)
+
+## 273. HC nº 1123362 / RJ (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/08/2026.
+- Crime / Tema: Vias de fato · Ameaça · Violência doméstica · Dosimetria
+- Resumo: O aumento pela agravante do art. 61, II, 'f', do CP sem motivação deve ficar na fração usual de 1/6. Penas reduzidas: ameaça para 1 mês e 5 dias e vias de fato de 25 para 17 dias de prisão simples.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123362.pdf
+
+## 274. HC nº 1114613 / MG (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/08/2026.
+- Crime / Tema: Vias de fato · Violência doméstica · Confissão espontânea
+- Resumo: Quem admite a conduta das vias de fato (art. 21, § 2º, da LCP) tem direito à atenuante da confissão, compensada com a reincidência, como o próprio TJ fez quanto à lesão corporal no mesmo julgado. Pena redimensionada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114613.pdf
+
+## 275. HC nº 1121206 / PI (STJ)
+- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
+- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
+- Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
+
+## 276. HC nº 275.317 / BA (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 20/08/2026.
+- Crime / Tema: Crimes contra a honra
+- Resumo: Matéria jornalística de interesse público que critica magistrados, ainda que dura, não é difamação: falta o animus diffamandi, e prevalece a liberdade de imprensa (ADPF 130). Mesmo com a condenação já transitada em julgado, o jornalista foi absolvido por atipicidade manifesta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-275317.pdf
+
+## 277. REsp nº 2204349 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Terceira Seção. Publicado em 20/08/2026.
 - Crime / Tema: Associação para o tráfico · Execução penal · Tema repetitivo
 - Resumo: Tema 1.374/STJ — O art. 112, § 3º, V, da LEP (progressão especial para gestante, mãe ou responsável por criança ou pessoa com deficiência) se interpreta de modo restritivo: "organização criminosa" é só a condenação nos termos da Lei 12.850/2013, e não abrange associação criminosa (art. 288 do CP) nem associação para o tráfico (art. 35 da Lei 11.343/2006). Recurso provido para retificar o cálculo de pena.
@@ -32,62 +90,20 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 15. Recurso especial provido para determinar ao Juízo das Execuções Penais que retifique o cálculo de penas da recorrente, abstendo-se de considerar a condenação pelo crime de associação para o tráfico de drogas para fins de análise do requisito contido no art. 112, § 3º, V, da Lei n. 7.210/1984.
   > (REsp n. 2.204.349/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/8/2026, DJEN de 20/8/2026.)
 
-## 272. RHC nº 244894 / MG (STJ)
+## 278. RHC nº 244894 / MG (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
 - Resumo: Preventiva só pela contravenção de vias de fato, contra réu sem medida protetiva anterior nem descumprimento, é excessiva: a pena máxima não autoriza a prisão (art. 313 do CPP). Preventiva revogada, com medidas cautelares.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-244894.pdf
 
-## 273. HC nº 1112820 / RJ (STJ)
+## 279. HC nº 1112820 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
 - Resumo: Vias de fato contra adolescentes sem nenhuma lesão e hematomas leves na companheira não mostram gravidade concreta. Manter a preventiva fere a homogeneidade, porque a pena provável seria em regime aberto ou suspensa. Prisão substituída por cautelares, com parecer favorável do MPF.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112820.pdf
 
-## 274. HC nº 1122510 / BA (STJ)
+## 280. HC nº 1122510 / BA (STJ)
 - Decisão monocrática (liminar). Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: Superação excepcional da Súmula 691/STF — liminar para soltura imediata, paciente mantido preso em flagrante por mais de 72h sem qualquer controle jurisdicional da custódia, sem prejuízo de nova decretação de preventiva pelo Juízo natural, se fundamentada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1122510.pdf
-
-## 275. AgRg no AREsp nº 3136066 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 14/08/2026.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Dosimetria
-- Resumo: Afastadas, em apelação só da defesa, circunstâncias judiciais negativas, a pena-base deve ser reduzida na mesma proporção (Tema 1.214/STJ). Agravo desprovido, mas HC de ofício para refazer a dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3136066.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 7/STJ. INSURGÊNCIA GENÉRICA. APLICAÇÃO DA SÚMULA 182/STJ MANTIDA. HABEAS CORPUS DE OFÍCIO. DOSIMETRIA. TEMA 1.214/STJ. AFASTAMENTO DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS NA SENTENÇA. AUSÊNCIA DE REDUÇÃO PROPORCIONAL DA PENA-BASE. ILEGALIDADE MANIFESTA. Agravo regimental improvido. Concedido habeas corpus de ofício, nos termos do dispositivo.
-  > (AgRg no AREsp n. 3.136.066/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2026, DJEN de 14/8/2026.)
-
-## 276. RHC nº 224142 / SE (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/08/2026.
-- Crime / Tema: Estelionato · Lavagem de dinheiro · Acesso da defesa às provas
-- Resumo: Laudo dos dispositivos apreendidos e dados bancários que embasaram a denúncia não franqueados à defesa: processo anulado a partir da intimação para a resposta à acusação, com juntada e acesso imediato a esse material.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-224142.pdf
-
-## 277. REsp nº 2261350 / AL (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 12/08/2026.
-- Crime / Tema: Roubo · Organização criminosa · Corrupção de menores · Reconhecimento de pessoa
-- Resumo: Reconhecimento feito pela simples exibição de oito fotos, sem alinhar pessoas parecidas, viola o art. 226 do CPP. A confirmação em juízo não o convalida, porque a memória da vítima já estava contaminada, e em juízo ela admitiu que o assaltante estava de rosto coberto e que reconheceu o réu pelo "biótipo parecido". O TJAL divergiu do Tema 1.258. Sem outras provas independentes, o réu foi absolvido (art. 386, VII, do CPP), com pena de 18 anos e 4 meses afastada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2261350.pdf
-
-## 278. RHC nº 238535 / RS (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/08/2026.
-- Crime / Tema: Organização criminosa · Extorsão · Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
-- Resumo: Defesa sem acesso aos arquivos das extrações (UFDR): audiência suspensa até o acesso efetivo, com entrega das mídias e declaração formal sobre armazenamento e histórico de manipulação, para permitir o controle da cadeia de custódia.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-238535.pdf
-
-## 279. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
-- Decisão colegiada. Relator: Des. Carlos Eduardo Contar. 2ª Câmara Criminal. Publicado em 04/08/2026.
-- Crime / Tema: Extorsão · Quebra da cadeia de custódia · Prova digital
-- Resumo: Absolvição por insuficiência de provas: prints de WhatsApp sem perícia não bastam para condenar. Ausência de integridade do material digital.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0027305-77-2022.pdf
-- Ementa oficial:
-  > APELAÇÃO – DIREITO PROCESSUAL PENAL – EXTORSÃO – ABSOLVIÇÃO – PROVA DIGITAL – APONTAMENTO DE SÉRIA DÚVIDA QUANTO À ORIGEM E ELABORAÇÃO – IMPOSSIBILIDADE DE AFERIÇÃO TÉCNICA DE SUA CONFIABILIDADE – ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSITIVA – PROVIMENTO. Ainda que o conjunto de indícios apontem para a possível responsabilidade do acusado, não sendo possível aferir-se tecnicamente a rastreabilidade da prova digital coligida e fundamentadamente impugnada pela defesa, de rigor a absolvição, em homenagem ao princípio do in dubio pro reo. Apelação defensiva a que se dá provimento, a fim de acolher o pleito absolutório.
-  > (TJMS, Apelação Criminal n. 0027305-77.2022.8.12.0001, relator Desembargador Carlos Eduardo Contar, 2ª Câmara Criminal, julgado em 31/7/2026, publicado em 4/8/2026.)
-
-## 280. HC nº 1101979 / PE (STJ)
-- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 31/07/2026.
-- Crime / Tema: Homicídio qualificado · Dosimetria · Revisão criminal
-- Resumo: A revisão criminal pode ser ajuizada a qualquer tempo (art. 622 do CPP). Dolo e consciência da ilicitude não elevam a culpabilidade, e ação penal em curso não gera maus antecedentes (Súmula 444/STJ). Ordem concedida de ofício: pena-base no mínimo legal.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1101979.pdf

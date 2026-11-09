@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 5 de 39 (decisões 41 a 50)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 390 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,76 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 41. AgRg no REsp nº 2243946 / MG (STJ)
+## 41. AgRg no AREsp nº 3248667 / PA (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Crimes ambientais
+- Resumo: No crime do art. 50-A da Lei 9.605/1998, a natureza pública ou devoluta da área deve estar certificada antes do desmatamento; com a demarcação da terra indígena suspensa, a dúvida sobre a área e sobre o dolo leva à absolvição. Agravo do MPF desprovido (Súmula 7/STJ).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3248667.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 50-A DA LEI 9.605. TERRAS DE DOMÍNIO PÚBLICO OU DEVOLUTAS. DEMARCAÇÃO DE TERRA INDÍGENA. CERTIFICAÇÃO PRÉVIA. INSUFICIÊNCIA PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental no agravo em recurso especial interposto pela acusação contra decisão que não conheceu do recurso especial, em face de acórdão absolutório quanto ao crime do Art. 50-A da Lei 9.605.
+  > 2. Instâncias ordinárias reconheceram inexistência de prova, em nível acima de dúvida razoável, de que o desmatamento ocorreu em “terras de domínio público ou devolutas” na data dos fatos, bem como incerteza quanto à natureza jurídica da área, afastando o dolo. Absolvição com fundamento no CPP, Art. 386, VII.
+  > 3. Decisão agravada manteve o acórdão absolutório e não conheceu do recurso especial por incidência da Súmula 7/STJ, ante a necessidade de revolvimento do conjunto fático-probatório.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em saber se o conhecimento do recurso especial é obstado pela Súmula 7/STJ, por demandar reexame de fatos e provas para desconstituir a conclusão absolutória das instâncias ordinárias.
+  > III. Razões de decidir
+  > 5. Incide a Súmula 7/STJ, pois a reforma da conclusão do Tribunal de origem sobre insuficiência probatória e ausência de dolo exigiria novo exame do conjunto fático-probatório, providência inviável na via estreita do recurso especial.
+  > 6. A condenação penal exige prova robusta, segura e harmônica de autoria e materialidade, inclusive quanto ao elemento normativo do tipo; persistindo dúvida razoável sobre a natureza jurídica da área e o dolo, impõe-se a absolvição nos termos do CPP, Art. 386, VII.
+  > IV. Dispositivo e tese
+  > 7. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que não conheceu do recurso especial.
+  > Tese de julgamento:
+  > 1. O reexame de fatos e provas para infirmar acórdão absolutório encontra óbice na Súmula 7/STJ em sede de recurso especial.
+  > 2. Persistindo dúvida razoável sobre a natureza jurídica da área e sobre o dolo, a absolvição deve ser mantida com fundamento no CPP, Art. 386, VII.
+  > (AgRg no AREsp n. 3.248.667/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
+
+## 42. HC nº 279.008 / SP (STF)
+- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
+- Resumo: Pequena quantidade de maconha (9,89 g), sem flagrante de venda nem petrechos de comércio, não sustenta a condenação por tráfico: aplica-se a presunção de uso do Tema 506/STF (RE 635.659). HC concedido após o trânsito em julgado para absolver (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279008.pdf
+
+## 43. ARE nº 1.630.118 / GO (STF)
+- Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 03/11/2026.
+- Crime / Tema: Perturbação do sossego
+- Resumo: A perturbação do sossego (art. 42, III, da LCP) exige atingir uma multiplicidade de pessoas; o incômodo a uma só vítima não configura a contravenção. O STF negou seguimento ao ARE do MP (Súmula 279/STF e ofensa reflexa) e manteve a absolvição.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630118.pdf
+
+## 44. RHC nº 278.721 / ES (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Ato infracional (ECA)
+- Resumo: No procedimento do ECA, o adolescente deve ser notificado pessoalmente para a audiência e ouvido como último ato da instrução (arts. 184 e 187 do ECA; art. 400 do CPP); a falta de oitiva é nulidade absoluta, que a defesa técnica não supre. RHC provido para anular a instrução e a sentença.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278721.pdf
+
+## 45. AgRg no HC nº 1126685 / SP (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 29/10/2026.
+- Crime / Tema: Execução penal
+- Resumo: Prévio recolhimento à prisão dispensado, em caso excepcional, para analisar a transferência da execução (art. 105 da LEP): o paciente reside com a família em outro estado. Agravo provido; ordem concedida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1126685.pdf
+
+## 46. AgRg no REsp nº 2265602 / MG (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Condenação com punibilidade extinta há mais de 10 anos antes do novo crime não serve como maus antecedentes, ainda que o crime anterior seja grave (art. 59 do CP). Sem outros elementos, 68 g de crack e uma balança não justificam fração menor que 2/3 no tráfico privilegiado. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2265602.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. MAUS ANTECEDENTES. PARÂMETRO DECENAL JURISPRUDENCIAL. TRÁFICO PRIVILEGIADO. FRAÇÃO DA MINORANTE. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão monocrática que conheceu e deu provimento ao recurso especial defensivo, com concessão de ordem de habeas corpus de ofício, para afastar a valoração negativa dos antecedentes, fixar a pena-base no mínimo legal, reconhecer a causa de diminuição do art. 33, § 4º, da Lei nº 11.343/2006 na fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, em regime aberto, com substituição por duas penas restritivas de direitos.
+  > 2. O agravante pretende a reforma da decisão para restabelecer o acórdão do Tribunal de origem que havia mantido a pena de 5 anos e 10 meses de reclusão, em regime semiaberto, e 583 dias-multa, com afastamento do tráfico privilegiado em razão dos maus antecedentes decorrentes de condenação anterior por roubo majorado cuja punibilidade foi extinta em 24/3/2009, tendo o novo delito ocorrido em 18/11/2023; subsidiariamente, requer a aplicação de fração inferior à máxima da minorante em razão da apreensão de 350 pedras de crack (68,4 g) e balança de precisão.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 3. Há duas questões em discussão: (i) saber se, diante do lapso superior a dez anos entre a extinção da pena anterior e o novo delito, é juridicamente adequada a desconsideração dos maus antecedentes, à luz dos princípios da proporcionalidade, da razoabilidade, da vedação a penas de caráter perpétuo e do art. 59 do CP; e (ii) saber se, reconhecida a incidência do art. 33, § 4º, da Lei nº 11.343/2006, a fração máxima de 2/3 deve ser mantida ou modulada com base na natureza e quantidade da droga e na apreensão de balança de precisão, conforme o art. 42 da Lei nº 11.343/2006.
+  > III. RAZÕES DE DECIDIR
+  > 4. A uniformização jurisprudencial desta Corte admite, por critérios de proporcionalidade e isonomia, a neutralização dos maus antecedentes quando a extinção da punibilidade da condenação pretérita ocorreu há mais de dez anos em relação ao novo crime, vedando a perpetuidade dos efeitos penais negativos sem prazo legal e assegurando previsibilidade na dosimetria.
+  > 5. A gravidade abstrata do crime anterior não pode, por si só, prolongar indefinidamente a eficácia negativa dos antecedentes para além do parâmetro decenal, sob pena de esvaziar o limite temporal jurisprudencial e contrariar a vedação constitucional a penas de caráter perpétuo.
+  > 6. No caso, a extinção da punibilidade do roubo majorado ocorreu em 2009 e o novo crime foi praticado em 2023, com lapso superior a quatorze anos, razão pela qual é juridicamente adequada a desconsideração dos maus antecedentes e a fixação da pena-base no mínimo legal.
+  > 7. A incidência do art. 33, § 4º, da Lei nº 11.343/2006 é devida quando presentes a primariedade técnica, os bons antecedentes e a ausência de dedicação a atividades criminosas ou integração a organização criminosa, não havendo, na espécie, fundamento autônomo remanescente para afastar o benefício.
+  > 8. A modulação da fração da minorante não pode recriar, na terceira fase, agravamento já afastado na primeira fase sem base concreta adicional; a apreensão de 68,4 g de crack e de balança de precisão, dissociada de outros elementos, não justifica reduzir a fração ao mínimo e não supera o enquadramento típico, sendo adequada a aplicação da fração de 2/3 diante do perfil subjetivo do agente.
+  > IV. DISPOSITIVO
+  > 9. Agravo regimental não provido.
+  > (AgRg no REsp n. 2.265.602/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
+
+## 47. AgRg no REsp nº 2243946 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: O apenado assistido pela Defensoria tem presunção relativa de hipossuficiência; cabe ao MP provar que ele pode pagar a multa (art. 51 do CP; Tema 931/STJ), e a ADI 7.032/STF não muda isso. Agravo do MP desprovido; mantida a extinção da punibilidade sem o pagamento da multa.
@@ -29,7 +98,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.243.946/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
 
-## 42. AgRg no REsp nº 2210727 / SC (STJ)
+## 48. AgRg no REsp nº 2210727 / SC (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: Afastada a majorante do repouso noturno no furto qualificado (Tema 1.087/STJ), levá-lo para a pena-base é faculdade do juiz e exige fundamentação concreta; não é automático (art. 59 do CP). Agravo do MP desprovido.
@@ -51,95 +120,14 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Agravo regimental não provido.
   > (AgRg no REsp n. 2.210.727/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
 
-## 43. HC nº 279.042 / ES (STF)
+## 49. HC nº 279.042 / ES (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 29/10/2026.
 - Crime / Tema: Roubo · Confissão espontânea · Dosimetria · Revisão criminal
 - Resumo: Reconhecida a confissão espontânea (art. 65, III, d, do CP), reduzir menos de 1/6 exige fundamentação concreta na sentença, mesmo que a confissão seja qualificada; a motivação dada depois pelas instâncias revisoras não supre a falta. HC concedido para o juízo da execução aplicar 1/6.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279042.pdf
 
-## 44. REsp nº 2234241 / SC (STJ)
+## 50. REsp nº 2234241 / SC (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Crimes contra a ordem tributária
 - Resumo: Deixar de recolher ICMS declarado só é crime se houver contumácia e dolo de apropriação, demonstrados por elementos concretos (art. 2º, II, da Lei 8.137/1990; RHC 163.334/STF). HC de ofício absolve por atipicidade (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2234241.pdf
-
-## 45. AgRg no REsp nº 2288472 / SP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Estupro de vulnerável · Dosimetria
-- Resumo: Réu primário com pena-base no mínimo não pode receber regime mais severo que o indicado pela pena sem fundamento concreto além da gravidade do próprio crime (art. 33, §§ 2º e 3º, do CP). Agravo do MP desprovido; mantido o regime semiaberto para pena de 8 anos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2288472.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REGIME PRISIONAL INICIAL. FUNDAMENTAÇÃO CONCRETA PARA AGRAVAMENTO. AUSÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que deu provimento ao recurso especial para fixar o regime inicial semiaberto.
-  > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se, ausentes circunstâncias judiciais desfavoráveis e fixada a pena-base no mínimo legal, é legítima a imposição de regime inicial mais gravoso do que o indicado pelo critério temporal do art. 33, § 2º, do Código Penal sem fundamentação idônea baseada em elementos concretos dos autos.
-  > III. Razões de decidir
-  > 3. A imposição de regime prisional mais severo que o correspondente à pena aplicada exige fundamentação idônea, com indicação de circunstâncias judiciais desfavoráveis ou gravidade concreta do delito, não bastando a gravidade abstrata do tipo penal (CP, art. 33, §§ 2º e 3º).
-  > 4. No caso, réu primário, pena-base no mínimo legal e inexistência de vetores judiciais negativos impedem o agravamento do regime inicial, que deve observar o critério temporal do art. 33, § 2º, alínea “b”, do Código Penal.
-  > IV. Dispositivo e tese
-  > 5. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão que fixou o regime inicial semiaberto.
-  > Tese de julgamento:
-  > 1. A imposição de regime inicial mais gravoso do que o indicado pelo art. 33, § 2º, do Código Penal exige fundamentação concreta baseada em circunstâncias judiciais desfavoráveis.
-  > (AgRg no REsp n. 2.288.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2026, DJEN de 28/10/2026.)
-
-## 46. AgRg no AREsp nº 3196600 / AP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
-- Resumo: A pronúncia não pode se apoiar só em confissões extrajudiciais e testemunhos indiretos (arts. 155 e 413 do CPP); sem fonte identificada nem prova de que era impossível produzir a prova em juízo, não se aplica a exceção do Tema 1.260/STJ. Agravo do MP desprovido; despronúncia mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3196600.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRIBUNAL DO JÚRI. PRONÚNCIA. ELEMENTOS DO INQUÉRITO E TESTEMUNHO INDIRETO. ARTS. 155 E 413 DO CPP. DESPRONÚNCIA. AGRAVO IMPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental contra decisão monocrática que não conheceu do agravo em recurso especial, mas concedeu ordem de ofício para despronunciar o réu Matheus.
-  > II. Questão em discussão
-  > 2. Saber se a pronúncia pode se fundamentar exclusivamente em elementos do inquérito e testemunhos indiretos.
-  > III. Razões de decidir
-  > 3. A pronúncia exige indícios suficientes de autoria e materialidade (art. 413 do CPP), amparados em prova direta produzida em juízo, ressalvadas as provas irrepetíveis, cautelares e antecipadas (art. 155 do CPP). Elementos do inquérito e testemunhos indiretos não são aptos, por si, a comprovar qualquer elemento do crime na etapa da pronúncia.
-  > 4. O depoimento indireto, inclusive o do policial que relata o que ouviu no inquérito, não "judicializa" informações extrajudiciais; os dados probatórios obtidos na investigação devem aportar diretamente ao processo, sob contraditório, sendo inviável substituí-los por relatos indiretos.
-  > 5. No caso concreto, inexistem provas diretas e individualizadas quanto à autoria imputada ao réu (condução do veículo), havendo apenas confissões extrajudiciais e testemunhos indiretos; inaplicável a exceção do Tema 1.260, por ausência de identificação da fonte e de demonstração de impossibilidade de produção da prova.
-  > IV. Dispositivo
-  > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a despronúncia.
-  > (AgRg no AREsp n. 3.196.600/AP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/10/2026, DJEN de 28/10/2026.)
-
-## 47. AgRg no REsp nº 2276538 / RS (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento fotográfico feito só na polícia, sem as formalidades do art. 226 do CPP, não confirmado em juízo e sem prova independente, não sustenta condenação (Tema 1.258/STJ). Agravo do MP desprovido; absolvição por roubo mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2276538.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CPP. INSUFICIÊNCIA PROBATÓRIA. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de recurso especial por incidência da Súmula 7/STJ e afastou alegada negativa de prestação jurisdicional quanto ao art. 619 do CPP.
-  > 2. Fato relevante. Pretensão de reforma do acórdão estadual para condenar os recorridos por roubo majorado, sustentando a aplicação do Tema 1258/STJ e a possibilidade de condenação fundada em reconhecimento realizado na fase investigatória, em consonância com outras provas.
-  > 3. As decisões anteriores. Tribunal de origem manteve absolvição por insuficiência probatória, destacando a fragilidade do reconhecimento fotográfico não confirmado em juízo, a descrição genérica dos assaltantes, a brevidade da ação delitiva e a inexistência de elementos autônomos produzidos sob contraditório capazes de firmar a autoria, em observância aos arts. 226 e 155 do CPP e ao princípio in dubio pro reo.
-  > II. Questão em discussão
-  > 4. As questões em discussão cingem-se a saber: (i) se é possível, em recurso especial, infirmar a conclusão do Tribunal de origem quanto à insuficiência de provas de autoria para o crime de roubo majorado sem incidir no vedado revolvimento do conjunto fático-probatório (Súmula 7/STJ); e (ii)se o reconhecimento fotográfico realizado na fase policial, sem observância das formalidades do art. 226 do CPP, não confirmado em juízo e desacompanhado de provas independentes robustas, pode sustentar condenação à luz do Tema 1258/STJ.
-  > III. Razões de decidir
-  > 5. A conclusão do acórdão recorrido quanto à insuficiência probatória e à fragilidade do reconhecimento decorre da análise do acervo fático-probatório, cujo reexame é vedado em recurso especial, nos termos da Súmula 7/STJ.
-  > 6. O reconhecimento fotográfico realizado apenas na fase investigatória, não corroborado por reconhecimento pessoal em juízo e sem outros elementos autônomos e independentes produzidos sob o contraditório, não afasta a presunção de inocência e impõe a manutenção da absolvição, em atenção ao princípio in dubio pro reo.
-  > 7. A aplicação do Tema 1258/STJ pressupõe a existência de provas autônomas e independentes robustas a corroborar eventual reconhecimento feito na fase policial, circunstância não verificada no caso.
-  > IV. Dispositivo e tese
-  > 8. Resultado do Julgamento: Agravo regimental improvido.
-  > Tese de julgamento:
-  > 1. É inviável, em recurso especial, rediscutir a suficiência probatória para condenação ou afastar absolvição por insuficiência de provas, ante o óbice da Súmula 7/STJ.
-  > 2. O reconhecimento fotográfico realizado na fase policial, sem observância do art. 226 do CPP, não confirmado em juízo e desacompanhado de provas independentes robustas, não sustenta a condenação, impondo a manutenção da absolvição por in dubio pro reo.
-  > (AgRg no REsp n. 2.276.538/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2026, DJEN de 28/10/2026.)
-
-## 48. AREsp nº 3366575 / SP (STJ)
-- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Busca e apreensão
-- Resumo: Mandado de prisão não autoriza vasculhar a casa: a arma achada debaixo do colchão revela busca exploratória, e permitir a entrada para a prisão não é consentir com busca geral (art. 5º, XI, da CF; art. 157 do CPP). REsp da defesa provido; absolvição restabelecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3366575.pdf
-
-## 49. REsp nº 2266241 / SC (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: Natureza e quantidade da droga se valoram em conjunto: é inidônea a fração de 1/2 no tráfico privilegiado fundada só na natureza da droga (art. 33, § 4º, da Lei 11.343/2006; Temas 1.154 e 1.241/STJ). REsp da defesa provido para nova dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2266241.pdf
-
-## 50. ARE nº 1.628.735 / SP (STF)
-- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 28/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Direito ao silêncio
-- Resumo: Mantida a decisão do STJ segundo a qual o silêncio do acusado e o lucro, inerente ao tráfico, não afastam nem reduzem o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). O STF negou provimento ao ARE do MP (ofensa reflexa e Súmula 279/STF), e ficou mantida a fração de 2/3.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628735.pdf

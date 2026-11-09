@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 3 de 39 (decisões 21 a 30)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 390 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,43 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 21. AgRg no HC nº 1029565 / ES (STJ)
+## 21. HC nº 278.460 / SP (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 05/11/2026.
+- Crime / Tema: Homicídio qualificado · Ocultação de cadáver · Continuidade delitiva
+- Resumo: A continuidade específica do art. 71, parágrafo único, do CP não alcança a ocultação de cadáver, sem violência à pessoa; aplica-se a comum. Ordem parcial, mantida a dosimetria dos homicídios.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278460.pdf
+
+## 22. HC nº 278.718 / PR (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Descaminho
+- Resumo: A prestação pecuniária pode ser parcelada se comprovada a dificuldade financeira, a ser apurada pelo juízo; a redução do valor não foi acolhida. Ordem parcial.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278718.pdf
+
+## 23. RHC nº 278.722 / AL (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Furto · Princípio da insignificância
+- Resumo: Reiteração ou antecedentes não afastam, por si sós, a insignificância: furto de alimentos e guloseimas de valor irrisório, sem violência e com restituição integral, é atípico. Paciente absolvida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278722.pdf
+
+## 24. HC nº 279.064 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
+- Resumo: A preventiva é, em regra, incompatível com o regime semiaberto ou aberto fixado na sentença, salvo crime com violência ou grave ameaça. Prisão revogada, com cautelares do art. 319 do CPP. Ordem de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279064.pdf
+
+## 25. HC nº 278.903 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Posse ilegal de arma de fogo · Porte ilegal de arma de fogo
+- Resumo: A reincidência, por si só, não impede a substituição por restritivas ao reincidente não específico (art. 44, § 3º, do CP), e o juízo deve avaliá-la fundamentadamente. Ordem parcial, de ofício; mantido o semiaberto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278903.pdf
+
+## 26. HC nº 278.451 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
+- Resumo: Quantidade e natureza da droga, dinheiro e mensagens sobre "produto não especificado" não bastam, por si sós, para provar dedicação ao crime e afastar o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Ordem de ofício para aplicar o redutor, em fração motivada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278451.pdf
+
+## 27. AgRg no HC nº 1029565 / ES (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik; redator do acórdão: Min. Messod Azulay Neto. Quinta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Corrupção passiva · Quebra da cadeia de custódia · Prova digital
 - Resumo: A senha surgida no celular e a falta de lacre durante a custódia estatal tornam imprestável a prova digital extraída em outro processo e usada contra terceiro, pois a perícia não pode mais ser repetida sob contraditório; o ônus de provar a integridade é do Estado, e o hash da extração original não supre a falha posterior (art. 158 do CPP). Agravo parcialmente provido por maioria; ordem concedida para vedar o uso da prova.
@@ -36,7 +72,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A certificação por hash na extração originária não supre falhas posteriores de custódia nem afasta dúvidas sobre autenticidade e comparabilidade do conteúdo em contexto diverso.
   > (AgRg no HC n. 1.029.565/ES, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/10/2026, DJEN de 4/11/2026.)
 
-## 22. RHC nº 244387 / PE (STJ)
+## 28. RHC nº 244387 / PE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Estupro de vulnerável · Ameaça
 - Resumo: A decisão que confirma o recebimento da denúncia deve enfrentar, ainda que de forma sucinta, as teses da resposta à acusação; despacho genérico que só designa audiência é nulo (art. 93, IX, da CF). RHC provido; ação anulada desde essa decisão.
@@ -49,67 +85,14 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso em habeas corpus provido para anular a ação penal a partir da decisão que confirmou o recebimento da denúncia e determinar a prolação de nova decisão, com apreciação das teses defensivas, como se entender de direito.
   > (RHC n. 244.387/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 29/10/2026, DJEN de 4/11/2026.)
 
-## 23. HC nº 1124087 / RJ (STJ)
+## 29. HC nº 1124087 / RJ (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Receptação · Inviolabilidade de domicílio · Prisão e medidas cautelares
 - Resumo: Declaração de terceiro em outra investigação, sem diligência prévia, não autoriza ingresso domiciliar, nem em crime permanente (Tema 280/STF; art. 157 do CPP). Provas ilícitas desentranhadas e preventiva revogada; a ação segue, para sentença só com prova autônoma.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124087.pdf
 
-## 24. HC nº 1089695 / SP (STJ)
+## 30. HC nº 1089695 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Ato infracional (ECA) · Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento sem as formalidades do art. 226 do CPP (show-up, fotos mostradas antes) é inválido e não serve nem como prova suplementar, também no ato infracional (Tema 1.258/STJ). Ordem parcial para novo julgamento sem os reconhecimentos, podendo a medida se sustentar em prova independente.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089695.pdf
-
-## 25. AgRg no HC nº 1089770 / DF (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Crimes contra a ordem tributária · Cabimento do HC
-- Resumo: Ser sócio-administrador não basta para condenar por sonegação: é preciso demonstrar a contribuição dolosa individual (art. 1º, II, da Lei 8.137/1990), e o domínio do fato não supre essa prova. Mesmo após o trânsito em julgado, HC de ofício (art. 647-A do CPP) absolve.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089770.pdf
-
-## 26. HC nº 1083969 / SP (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Prisão e medidas cautelares
-- Resumo: Ser "conhecido no meio policial" por tráfico não é fundada suspeita para busca pessoal (art. 244 do CPP), e o encontro posterior da droga não convalida a diligência. HC concedido de ofício para trancar a ação penal e revogar a prisão.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1083969.pdf
-
-## 27. HC nº 1123210 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento por exibição isolada (show-up), sem alinhamento nem prova independente, é nulo e contamina os depoimentos em juízo, e o tribunal não pode anular a absolvição para "sanar" o vício com novo reconhecimento (art. 226 do CPP). Ordem de ofício; absolvição restabelecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123210.pdf
-
-## 28. HC nº 1129431 / AL (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Estupro de vulnerável · Corrupção de menores · Revisão criminal
-- Resumo: A retratação da vítima depois do trânsito em julgado autoriza a justificação criminal para instruir futura revisão, sem que o juízo antecipe o valor da prova. Ordem concedida para processar a justificação e ouvir a ofendida, com as cautelas dos arts. 201 e 400-A do CPP; condenação mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129431.pdf
-
-## 29. AgRg no AREsp nº 3175114 / RS (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão
-- Resumo: Nervosismo do condutor e estar parado em local conhecido pelo tráfico não são fundada suspeita para busca veicular (arts. 240, § 2º, e 244 do CPP), e a apreensão posterior não convalida a diligência. Agravo do MP desprovido, por maioria; absolvição por tráfico mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3175114.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA VEICULAR. NERVOSISMO E LOCAL ASSOCIADO À TRAFICÂNCIA. AUSÊNCIA DE FUNDADAS RAZÕES. ILICITUDE DA PROVA. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo órgão acusador estadual contra decisão que, ao conhecer do agravo, conheceu do recurso especial e negou-lhe provimento, mantendo acórdão que reconheceu a nulidade das provas obtidas a partir de busca veicular reputada ilegal e absolveu os recorridos do delito de tráfico de drogas.
-  > 2. A Abordagem e busca veicular foram motivadas por nervosismo do condutor em local usualmente associado à traficância, sem a presença de elementos objetivos e concretos pré-existentes. Assim, o Tribunal de origem reconheceu a ilicitude das provas e absolveu os acusados com fundamento no art. 386 do CPP.
-  > II. Questão em discussão
-  > 3. As questões em discussão consistem em saber se: a) à luz dos arts. 240, § 2º, e 244 do CPP, o mero nervosismo do abordado e a proximidade de local comum de tráfico consubstanciam elementos objetivos e concretos para legitimar a busca veicular; e b) a ilicitude da diligência inicial contamina as provas subsequentes, impondo a absolvição.
-  > III. Razões de decidir
-  > 4. A busca veicular sem mandado exige fundada suspeita ancorada em elementos objetivos e verificáveis; o nervosismo do abordado, a movimentação interna no veículo e a proximidade de área conhecida por tráfico não constituem, isoladamente, justa causa nos termos dos arts. 240, § 2º, e 244 do CPP.
-  > 5. A posterior apreensão de objetos ilícitos não convalida a ilegalidade antecedente da diligência, sob pena de retroatividade da causa de justificação; incide a teoria dos frutos da árvore envenenada, que contamina as provas derivadas.
-  > 6. Ausentes elementos concretos e objetivos pré-existentes à diligência, correta a conclusão pela ilicitude das provas e pela manutenção da absolvição, em consonância com a jurisprudência consolidada do STJ.
-  > IV. Dispositivo e tese
-  > 7. Resultado do Julgamento: Agravo regimental desprovido. Teses de julgamento:
-  > 1. A busca veicular sem mandado judicial exige fundada suspeita baseada em elementos objetivos e concretos, não bastando o nervosismo, a movimentação interna no veículo ou a proximidade de local comum de tráfico.
-  > 2. A ilicitude da diligência inicial contamina as provas subsequentes, nos termos da teoria dos frutos da árvore envenenada, impondo a absolvição.
-  > 3. A apreensão posterior de entorpecentes não convalida a ilegalidade prévia da busca, devendo o controle judicial recair sobre os elementos ex ante da medida.
-  > (AgRg no AREsp n. 3.175.114/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
-
-## 30. AREsp nº 3349933 / MG (STJ)
-- Decisão monocrática. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Inviolabilidade de domicílio
-- Resumo: Denúncia anônima, mesmo com nome e endereço, sem diligência prévia que a confirme, não é fundada suspeita para busca pessoal (art. 244 do CPP), e a ilicitude contamina a entrada no domicílio que veio depois. HC de ofício absolve o réu.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3349933.pdf

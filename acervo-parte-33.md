@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 33 de 39 (decisões 321 a 330)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 384 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 390 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,19 +8,87 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 321. RHC nº 221603 / RS (STJ)
+## 321. AREsp nº 2968442 / ES (STJ)
+- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 15/10/2025.
+- Crime / Tema: Infanticídio · Tribunal do Júri
+- Resumo: Anulação do Júri mantida, para novo julgamento com quesito de infanticídio. Fato ocorrido imediatamente após o parto faz presumir o estado puerperal, e cabe à acusação afastá-lo (perda de uma chance probatória, art. 156 do CPP). Relatório médico feito mais de 2 meses depois não retrata o puerpério imediato.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2968442.pdf
+
+## 322. REsp nº 2231330 / MG (STJ)
+- Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 29/09/2025.
+- Crime / Tema: Infanticídio · Pronúncia
+- Resumo: Desclassificação para infanticídio já na pronúncia mantida: asfixia durante ou logo após o parto, sob forte alteração psicofísica, com a prova convergindo para essa única versão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2231330.pdf
+
+## 323. AREsp nº 2605530 / RS (STJ)
+- Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 25/09/2025.
+- Crime / Tema: RIF
+- Resumo: A polícia não pode pedir RIF diretamente ao COAF sem autorização judicial: o Tema 990/STF cobre só o envio espontâneo pelo COAF, e a encomenda é pescaria probatória que viola a reserva de jurisdição. AREsp do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2605530.pdf
+
+## 324. REsp nº 2001973 / RS (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 16/09/2025.
+- Crime / Tema: Descaminho · Confissão espontânea · Dosimetria · Tema repetitivo
+- Resumo: Tema 1.194/STJ e revisão da Súmula 545/STJ: na redação de 2015, a confissão só atenuava a pena quando usada para formar o convencimento do julgador; na nova, de 2025, atenua (art. 65, III, d, do CP) independentemente disso, mesmo com outras provas, salvo retratação que não tenha servido à apuração dos fatos. Confissão parcial ou qualificada atenua em menor proporção e não prepondera sobre agravantes. Efeitos prejudiciais só para fatos posteriores ao acórdão. REsp da defesa parcialmente provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2001973.pdf
+- Ementa oficial:
+  > DIREITO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.194 DO STJ. CONFISSÃO ESPONTÂNEA. INFLUÊNCIA NA FORMAÇÃO DO CONVENCIMENTO DO JULGADOR. DESNECESSIDADE. RETRATAÇÃO. EFEITOS. CONFISSÃO PARCIAL E QUALIFICADA. PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO. TESES FIXADAS COM MODULAÇÃO DE EFEITOS.
+  > I. CASO EM EXAME
+  > 1. Recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região que rejeitou a aplicação da atenuante da confissão espontânea, prevista no art. 65, III, d, do Código Penal, sob o fundamento de que a confissão não foi utilizada na formação do convencimento do julgador, porque retratada.
+  > 2. O recorrente busca a redução da pena com base na aplicação da atenuante da confissão espontânea e a revisão do aumento de pena derivado dos maus antecedentes.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 3. Há duas questões em discussão: (i) saber se a confissão espontânea do réu não utilizada para a formação do convencimento do julgador ou para o desdobramento das investigações, bem como a confissão parcial ou qualificada, autoriza o reconhecimento da atenuante prevista no art. 65, III, d, do Código Penal, discussões objeto de recurso especial repetitivo; e (ii) saber se o aumento da pena em razão dos maus antecedentes foi aplicado de forma proporcional e razoável.
+  > III. RAZÕES DE DECIDIR
+  > 4. A confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a promover o abrandamento da pena independentemente de ter sido utilizada na formação do convencimento do julgador, desde que não tenha havido retratação ou, no caso de retratação, que a confissão tenha servido à apuração dos fatos.
+  > 5. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+  > 6. O aumento da pena em razão dos maus antecedentes deve observar os princípios da proporcionalidade e não obedece a critérios estritamente matemáticos, sendo possível uma elevação mais acentuada quando o agente apresentar múltiplos registros criminais.
+  > 7. Fixação de teses para o Tema n. 1.194 do STJ, conforme arts. 927, III, e 1.036 do Código de Processo Civil, com modulação de efeitos definida com fundamento no § 3º do art. 927 do mesmo diploma legal.
+  > IV. DISPOSITIVO E TESE
+  > 8. Resultado do Julgamento: Recurso parcialmente provido para aplicar a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, fixando a pena definitiva em 1 ano e 7 meses de reclusão. Teses fixadas para o Tema n. 1.194 com modulação de efeitos.
+  > Teses do Tema n. 1.194 do STJ:
+  > 1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos.
+  > 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+  > (REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
+
+## 325. AgRg no REsp nº 2206947 / PR (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/09/2025.
+- Crime / Tema: Infanticídio · Homicídio · Pronúncia
+- Resumo: Desclassificação para homicídio culposo mantida: o estado puerperal ficou provado, mas não o dolo (demora de cerca de 3 horas para levar o bebê ao hospital). Não existe infanticídio culposo (art. 18, parágrafo único, do CP), e o dolo deve ser examinado já na pronúncia. Rever isso esbarra na Súmula 7.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2206947.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRETENDIDA PRONÚNCIA DA RÉ. AFERIÇÃO DO DOLO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que conheceu em parte e, nesta extensão, negou provimento ao recurso especial, mantendo o acórdão do Tribunal de origem que desclassificou o crime de homicídio doloso para culposo.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 2. A questão em discussão consiste em saber se há omissão no aresto recorrido e se incide ao caso a Súmula 7/STJ.
+  > III. RAZÕES DE DECIDIR
+  > 3. O acórdão recorrido se manifestou de maneira fundamentada sobre todos os pontos relevantes para a solução da causa, inexistindo ofensa ao art. 619 do CPP.
+  > 4. O Tribunal de origem concluiu pela inexistência de dolo na conduta da ré, após análise aprofundada e detalhada das provas documental, pericial e testemunhal.
+  > 5. A revisão do entendimento do Tribunal de origem sobre o dolo esbarra na Súmula 7/STJ, que veda o reexame de provas em recurso especial.
+  > IV. DISPOSITIVO E TESE
+  > 6. Agravo improvido.
+  > Tese de julgamento: "1. É inviável o reexame de fatos e provas em recurso especial".
+  > (AgRg no REsp n. 2.206.947/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.)
+
+## 326. REsp nº 2195682 / SP (STJ)
+- Decisão monocrática. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 29/08/2025.
+- Crime / Tema: Lavagem de dinheiro · RIF
+- Resumo: RIFs enviados pelo COAF a pedido da polícia, sem autorização judicial, são nulos e devem sair dos autos com as provas deles derivadas; o juiz deve reavaliar o sequestro de bens à luz do que restar. REsp da defesa parcialmente provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2195682.pdf
+
+## 327. RHC nº 221603 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/08/2025.
 - Crime / Tema: RIF
 - Resumo: O Tema 990/STF não autoriza a requisição direta de dados financeiros pela polícia sem ordem judicial. RIF pedido pela autoridade policial em verificação preliminar declarado ilícito e desentranhado, com as provas derivadas (TRF4).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-221603.pdf
 
-## 322. RHC nº 153706 / RS (STJ)
+## 328. RHC nº 153706 / RS (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 25/07/2025.
 - Crime / Tema: Crimes contra o sistema financeiro · Lavagem de dinheiro · Organização criminosa · Acesso da defesa às provas
 - Resumo: Relatório complementar da PF com novos elementos, juntado depois da resposta à acusação, exige restituir o prazo da resposta, com acesso integral aos elementos que o embasaram; reinquirir as testemunhas não basta.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-153706.pdf
 
-## 323. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+## 329. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
 - Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
@@ -43,7 +111,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
   > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 324. REsp nº 1953602 / SP (STJ)
+## 330. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -62,89 +130,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 10. Não existindo outras provas além do depoimento das duas vítimas e do reconhecimento pessoal viciado, é de se reconhecer a fragilidade dos elementos probatórios que levaram à condenação do réu, sendo de rigor sua absolvição.
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
-
-## 325. AgRg no REsp nº 2132630 / RS (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/06/2025.
-- Crime / Tema: Infanticídio · Tribunal do Júri
-- Resumo: Desclassificação para infanticídio tentado mantida: a prova indicava que a mãe agiu sob a influência do estado puerperal (parto sozinha no banheiro de um ônibus, gravidez oculta, sem pré-natal), e rever isso esbarra na Súmula 7. O in dubio pro societate não tem amparo legal. A decisão monocrática anterior transcreve o TJRS: o estado puerperal é perturbação sutil e transitória, e laudo feito meses depois não o afasta.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2132630.pdf
-- Decisão monocrática: https://ladirf.github.io/acervo/pdfs/mono-resp-2132630.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCLASSIFICAÇÃO DE HOMICÍDIO QUALIFICADO TENTADO PARA INFANTICÍDIO TENTADO. IMPOSSIBILIDADE DE REEXAME FÁTICO-. PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
-  > 1. O Tribunal a quo desclassificou a conduta da recorrida para infanticídio tentado por entender que a prova dos autos não permitia suficientemente reconhecer hipótese de homicídio qualificado tentado, havendo, no entendo, clara indicação de que a conduta imputada ocorreu sob a influência do estado puerperal. Assim, a revisão do entendimento firmado na origem demanda reexame de fatos e provas, providência que esbarra no óbice da Súmula 7 do STJ.
-  > 2. Esta Corte Superior de Justiça já se manifestou no sentido de que o "princípio in dubio pro societate não encontra amparo constitucional ou legal no sistema processual penal brasileiro, sendo incompatível com o ônus probatório que recai exclusivamente sobre a acusação e com o papel contramajoritário do Poder Judiciário na proteção de direitos fundamentais" (AgRg no AREsp n. 2.566.173/AM, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
-  > 3. Agravo regimental desprovido.
-  > (AgRg no REsp n. 2.132.630/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
-
-## 326. RHC nº 213637 / BA (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
-- Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
-
-## 327. AgRg no REsp nº 2173273 / MG (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
-- Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2173273.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. AUSÊNCIA. DENÚNCIA ANÔNIMA. NERVOSISMO. ELEMENTOS SUBJETIVOS INSUFICIENTES. CONSENTIMENTO DO MORADOR. NÃO COMPROVAÇÃO. ILICITUDE DA PROVA. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. O Plenário do Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, com repercussão geral previamente reconhecida (Tema n. 280), assentou que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados" (Rel. Ministro Gilmar Mendes, DJe 10/5/2016).
-  > 2. Consoante entendimento do Supremo Tribunal Federal, a notícia anônima de crime, por si só, não é apta para instaurar inquérito policial; ela pode servir de base válida à investigação e à persecução criminal, desde que haja prévia verificação de sua credibilidade em apurações preliminares, ou seja, desde que haja investigações prévias para verificar a verossimilhança da notitia criminis anônima. Assim, com muito mais razão, não há como se admitir que denúncia anônima seja elemento válido para violar franquias constitucionais (à liberdade, ao domicílio, à intimidade).
-  > 3. No caso concreto, segundo consta dos autos, policiais militares receberam denúncia anônima quanto à comercialização de drogas em determinado endereço. Ao lá chegarem, encontraram o acusado na porta da residência, o qual supostamente demonstrou nervosismo. Abordaram-no e este haveria confessado o armazenamento de drogas, bem como franqueado o acesso dos policiais ao imóvel.
-  > 4. No caso dos autos, não há comprovação do consentimento livre e voluntário para o ingresso em domicílio. Com efeito, soa completamente inverossímil a versão policial, ao narrar que o réu, depois de ser abordado em via pública, haveria livre e espontaneamente confessado ter drogas em casa e franqueado o ingresso no domicílio para uma varredura à procura de substâncias ilícitas. Ora, um mínimo de vivência e de bom senso sugerem a falta de credibilidade de tal versão. Pelas circunstâncias em que ocorreram os fatos –, quantidade de policiais, todos armados etc. –, não se mostra crível a voluntariedade e a liberdade para consentir no ingresso. Ademais, O suposto nervosismo genérico do acusado, isoladamente, não é suficiente para justificar o imediato ingresso em domicílio.
-  > 5. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
-
-## 328. Rcl nº 80.133 / PR (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
-- Crime / Tema: Prova digital · Acesso da defesa às provas
-- Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf
-
-## 329. AREsp nº 2895381 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/05/2025.
-- Crime / Tema: Infanticídio · Pronúncia · Testemunho indireto
-- Resumo: A pronúncia por infanticídio não pode se apoiar só em elementos do inquérito nem em testemunho de 'ouvir dizer', sem prova mínima produzida em juízo. Ré despronunciada (art. 123 do CP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2895381.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. INFANTICÍDIO. DESPRONÚNCIA. RECURSO PROVIDO.
-  > I. Caso em exame
-  > 1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que manteve a sentença de pronúncia da recorrente pelo crime de infanticídio, nos termos do artigo 123 do Código Penal.
-  > 2. A sentença de pronúncia foi mantida com base, essencialmente, em elementos de prova colhidos durante a fase investigativa.
-  > II. Questão em discussão
-  > 3. A questão em discussão consiste em saber se a pronúncia pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial.
-  > 4. A questão também envolve a análise da validade de testemunho indireto como prova idônea para fundamentar a pronúncia.
-  > III. Razões de decidir
-  > 5. A pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial, sem lastro probatório mínimo produzido em juízo, conforme orientação jurisprudencial do STJ.
-  > 6. Testemunho indireto (prova de "ouvir dizer") não é considerado prova suficiente para um juízo positivo na fase da pronúncia, em conformidade com o entendimento do STJ.
-  > 7. O contexto delineado no acórdão impugnado indica a ausência de lastro probatório mínimo em elementos judicializados, impondo-se a despronúncia da recorrente.
-  > IV. Dispositivo e tese
-  > 8. Recurso provido para despronunciar a recorrente do crime contra a vida a ela imputado (art. 123 do Código Penal).
-  > Tese de julgamento: "1. A pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial, sem lastro probatório mínimo produzido em juízo.
-  > 2. Testemunho indireto não é considerado prova suficiente para um juízo positivo na fase da pronúncia".
-  > (AREsp n. 2.895.381/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
-
-## 330. AgRg no AREsp nº 2243364 / MG (STJ)
-- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2243364.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO DE INADMISSIBILIDADE. AGRAVO NÃO PROVIDO. TRÁFICO PRIVILEGIADO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial em virtude do óbice da Súmula n. 182/STJ. A parte agravante alega ter impugnado a Súmula n. 83/STJ.
-  > II. Questão em discussão
-  > 2. A discussão consiste em saber se a conduta de oferecer droga gratuitamente a pessoa reclusa em estabelecimento prisional pode ser desclassificada para o tipo penal do art. 33, § 2º, da Lei n. 11.343/2006 ou se deve ser enquadrada no caput do mesmo artigo.
-  > 3. Outro ponto diz respeito à possibilidade de concessão de habeas corpus de ofício para reconhecer a minorante do tráfico privilegiado, considerando a quantidade ínfima de droga e os maus antecedentes do acusado.
-  > III. Razões de decidir
-  > 4. A conduta de oferecer droga gratuitamente amolda-se ao caput do art. 33 da Lei n. 11.343/2006, não se enquadrando nos núcleos verbais do § 2º, que exigem induzir, instigar ou auxiliar ao uso indevido de droga.
-  > 5. A ínfima quantidade de droga apreendida e a ausência de intuito lucrativo justificam a aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei n. 11.343/2006, mesmo diante de maus antecedentes não específicos.
-  > 6. A pena foi redimensionada para 02 (dois) anos e 06 (seis) meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direito, considerando a confissão do acusado e a interpretação sistemática dos arts. 33, § 3º, e 67 do Código Penal.
-  > IV. Dispositivo e tese
-  > 7. Agravo regimental não provido e ordem de habeas corpus concedida de ofício.
-  > Tese de julgamento:
-  > 1. A conduta de oferecer droga gratuitamente a pessoa reclusa amolda-se ao caput do art. 33 da Lei n. 11.343/2006.
-  > 2. A aplicação da minorante do tráfico privilegiado é excepcionalmente justificada pela ínfima quantidade de droga e ausência de intuito lucrativo, mesmo diante dos maus antecedentes não específicos.
-  > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
-  > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
