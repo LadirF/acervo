@@ -1,10 +1,10 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 39 de 41 (decisões 381 a 390)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 402 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 403 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
-Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
+Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese. **Verificar antes de citar** = a decisão consta do acervo só pela tese indicada; há ressalva a conferir.
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
@@ -87,7 +87,22 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Agravo regimental desprovido.
   > (AgRg no REsp n. 1.838.513/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/11/2019, DJe de 21/11/2019.)
 
-## 387. REsp nº 1795341 / RS (STJ)
+## 387. ApCrim nº 1.0024.17.131538-5/001 (TJMG)
+- Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 07/10/2019.
+- **Verificar antes de citar:** Esta decisão consta do acervo somente pela tese: policiais que apenas repetem o relato extrajudicial da vítima, não confirmado em juízo, não provam a grave ameaça do roubo. O acórdão é inconsistente quanto à extinção da punibilidade: o voto fala em cumprimento da pena e o dispositivo, em prescrição. Não a cite por esse ponto e confira o inteiro teor antes de usar.
+- Crime / Tema: Roubo · Furto · Testemunho indireto · Dosimetria
+- Resumo: Policiais que só repetem o relato da vítima na fase policial, não confirmado em juízo, não provam a grave ameaça: roubo desclassificado para furto. Pena reduzida; regime fechado mantido pela reincidência.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0024-17-131538.pdf
+- Ementa oficial:
+  > APELAÇÃO CRIMINAL - ROUBO - DESCLASSIFICAÇÃO PARA O DELITO DE FURTO - NECESSIDADE - GRAVE AMEAÇA E VIOLÊNCIA NÃO COMPROVAS EM JUÍZO - TESTEMUNHAS DE OUVIR DIZER - REDUÇÃO DA PENA - VIABILIDADE - REPRIMENDA FIXADA DE FORMA DESPROPORCIONAL - ALTERAÇÃO DO REGIME - INADMISSIBILIDADE - NECESSIDADE DE FIXAÇÃO DO REGIME FECHADO - APELANTE REINCIDENTE - ISENÇÃO DAS CUSTAS - PEDIDO PREJUDICADO - RECURSO PARCIALMENTE PROVIDO.
+  > 1. Necessária é a desclassificação da conduta para as sanções do artigo 155 do Código Penal eis que a grave ameaça ou a violência não foram comprovadas em juízo, havendo apenas testemunhas de ouvir dizer.
+  > 2. Reduz-se a pena corporal e de multa porquanto fixadas de forma desproporcional com as balizas judiciais do artigo 59 do Código Penal.
+  > 3. Mantém-se o regime fechado diante da pena e da reincidência do apelante.
+  > 4. Prejudicado se encontra o pedido de isenção das custas já que deferido pelo magistrado primevo.
+  > 05. Recurso parcialmente provido.
+  > (TJMG, Apelação Criminal n. 1.0024.17.131538-5/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/10/2019, publicado em 7/10/2019.)
+
+## 388. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -101,7 +116,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 388. Inq nº 3.994 / DF (STF)
+## 389. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -121,7 +136,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 389. REsp nº 1674198 / MG (STJ)
+## 390. REsp nº 1674198 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 12/12/2017.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: É inadmissível pronúncia fundada exclusivamente em boatos e testemunho indireto (por ouvir dizer). Recorrentes despronunciados, sem prejuízo de nova denúncia diante de provas novas.
@@ -134,21 +149,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A primeira etapa do procedimento bifásico do Tribunal do Júri tem o objetivo de avaliar a suficiência ou não de razões (justa causa) para levar o acusado ao seu juízo natural. O juízo da acusação (iudicium accusationis) funciona como um filtro pelo qual somente passam as acusações fundadas, viáveis, plausíveis, idôneas a serem objeto de decisão pelo juízo da causa (iudicium causae). A instrução preliminar realizada na primeira fase do procedimento do Júri, leciona Mendes de Almeida, é indispensável para evitar imputações temerárias e levianas. Ao proteger o inocente, "dá à defesa a faculdade de dissipar as suspeitas, de combater os indícios, de explicar os atos e de destruir a prevenção no nascedouro; propicia-lhe meios de desvendar prontamente a mentira e de evitar a escandalosa publicidade do julgamento".
   > 5. Recurso especial parcialmente conhecido e, nessa extensão, provido, para reformar o acórdão recorrido de modo a despronunciar os recorrentes nos autos do Processo n. 0702.08.432189-3, em trâmite no Juízo de Direito da Vara de Crimes contra a Pessoa da Comarca de Uberlândia, sem prejuízo do oferecimento de nova denúncia em eventual superveniência de provas.
   > (REsp n. 1.674.198/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2017, DJe de 12/12/2017.)
-
-## 390. AgRg no Inq nº 1093 / DF (STJ)
-- Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
-- **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
-- Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
-- Resumo: O delatado não tem legitimidade nem interesse para impugnar o acordo de colaboração, que não atinge terceiros; a colaboração é delatio criminis, não prova. Agravo desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-1093.pdf
-- Ementa oficial:
-  > PROCESSUAL PENAL. INQUÉRITO. COLABORAÇÃO PREMIADA. ART. 4º DA LEI 12.850/13. EXISTÊNCIA, VALIDADE E EFICÁCIA. QUESTIONAMENTO. DELATADO. LEGITIMIDADE E INTERESSE. AUSÊNCIA. NEGÓCIO JURÍDICO PROCESSUAL. EFEITOS. RESTRIÇÃO. NATUREZA JURÍDICA PROCESSUAL. DELATIO CRIMINIS. CONTEÚDO. ELEMENTOS DE CONVICÇÃO. DESTINATÁRIO. ÓRGÃO DA ACUSAÇÃO.
-  > 1. O propósito recursal é determinar se o agravante, citado nas informações prestadas por colaborador, tem interesse e legitimidade para impugnar a existência, validade e eficácia de acordo de colaboração premiada ou se existem razões para o imediato trancamento do presente inquérito por meio da concessão de habeas corpus de ofício.
-  > 2. Como reflexo dos princípios do devido processo legal, da presunção de inocência e da ampla defesa, impõe-se à acusação o ônus de colher, preambularmente, um lastro indiciário mínimo para o exercício da pretensão penal punitiva, o que corresponde ao dever de demonstrar a justa causa, conforme previsto no art. 395, III, do CPP.
-  > 3. A colaboração premiada somou à já existente previsão de qualquer pessoa do povo contribuir com a investigação criminal de crime de ação penal pública incondicionada (arts. 5º, § 3º, e 27 do CPP) a possibilidade de, quando se tratar de coautor ou partícipe, obter benefícios processuais e materiais penais.
-  > 4. Quanto ao aspecto processual, a natureza jurídica da colaboração premiada é de delatio criminis, porquanto é mero recurso à formação da convicção da acusação e não elemento de prova, sendo insuficiente para subsidiar, por si só, a condenação de alguém.
-  > 5. O acordo de colaboração não se confunde com seu conteúdo e as cláusulas de referido acordo não repercutem, nem sequer remotamente, na esfera jurídica de terceiros, razão pela qual não têm esses terceiros interesse jurídico nem legitimidade para sua impugnação.
-  > 6. Na presente hipótese, o agravante questiona a validade de acordo de colaboração, por ter sido firmado por órgão do Ministério Público que não possuiria atribuições e homologado por juiz que não possuiria competência para tratar de fatos que envolvessem autoridade com prerrogativa de foro no STJ. Argumenta, ademais, que a colaboração se referiria a crime diverso daquele envolvido do acordo, o que evidenciaria a ilicitude de seu objeto.
-  > 7. As indagações referentes à atribuição do membro do Parquet ou do juiz que o homologa o acordo não afetam a existência, validade ou veracidade dos elementos de convicção fornecidos ao órgão de acusação, os quais podem ser contraditados no momento processual adequado. Ademais, os crimes objeto do acordo têm íntima relação com aquele supostamente praticado pelo agravante.
-  > 8. Agravo regimental improvido.
-  > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)

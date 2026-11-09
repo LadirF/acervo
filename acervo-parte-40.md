@@ -1,14 +1,32 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 40 de 41 (decisões 391 a 400)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 402 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 403 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
-Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese.
+Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não é texto oficial). **Ementa oficial** = texto do tribunal, seguido da referência no padrão do STJ (pronta para citar). Decisões monocráticas não têm ementa oficial. **Resultado desfavorável à defesa** = pedido da defesa rejeitado por inteiro; a decisão está no acervo pela tese. **Verificar antes de citar** = a decisão consta do acervo só pela tese indicada; há ressalva a conferir.
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 391. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
+## 391. AgRg no Inq nº 1093 / DF (STJ)
+- Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
+- **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
+- Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
+- Resumo: O delatado não tem legitimidade nem interesse para impugnar o acordo de colaboração, que não atinge terceiros; a colaboração é delatio criminis, não prova. Agravo desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-1093.pdf
+- Ementa oficial:
+  > PROCESSUAL PENAL. INQUÉRITO. COLABORAÇÃO PREMIADA. ART. 4º DA LEI 12.850/13. EXISTÊNCIA, VALIDADE E EFICÁCIA. QUESTIONAMENTO. DELATADO. LEGITIMIDADE E INTERESSE. AUSÊNCIA. NEGÓCIO JURÍDICO PROCESSUAL. EFEITOS. RESTRIÇÃO. NATUREZA JURÍDICA PROCESSUAL. DELATIO CRIMINIS. CONTEÚDO. ELEMENTOS DE CONVICÇÃO. DESTINATÁRIO. ÓRGÃO DA ACUSAÇÃO.
+  > 1. O propósito recursal é determinar se o agravante, citado nas informações prestadas por colaborador, tem interesse e legitimidade para impugnar a existência, validade e eficácia de acordo de colaboração premiada ou se existem razões para o imediato trancamento do presente inquérito por meio da concessão de habeas corpus de ofício.
+  > 2. Como reflexo dos princípios do devido processo legal, da presunção de inocência e da ampla defesa, impõe-se à acusação o ônus de colher, preambularmente, um lastro indiciário mínimo para o exercício da pretensão penal punitiva, o que corresponde ao dever de demonstrar a justa causa, conforme previsto no art. 395, III, do CPP.
+  > 3. A colaboração premiada somou à já existente previsão de qualquer pessoa do povo contribuir com a investigação criminal de crime de ação penal pública incondicionada (arts. 5º, § 3º, e 27 do CPP) a possibilidade de, quando se tratar de coautor ou partícipe, obter benefícios processuais e materiais penais.
+  > 4. Quanto ao aspecto processual, a natureza jurídica da colaboração premiada é de delatio criminis, porquanto é mero recurso à formação da convicção da acusação e não elemento de prova, sendo insuficiente para subsidiar, por si só, a condenação de alguém.
+  > 5. O acordo de colaboração não se confunde com seu conteúdo e as cláusulas de referido acordo não repercutem, nem sequer remotamente, na esfera jurídica de terceiros, razão pela qual não têm esses terceiros interesse jurídico nem legitimidade para sua impugnação.
+  > 6. Na presente hipótese, o agravante questiona a validade de acordo de colaboração, por ter sido firmado por órgão do Ministério Público que não possuiria atribuições e homologado por juiz que não possuiria competência para tratar de fatos que envolvessem autoridade com prerrogativa de foro no STJ. Argumenta, ademais, que a colaboração se referiria a crime diverso daquele envolvido do acordo, o que evidenciaria a ilicitude de seu objeto.
+  > 7. As indagações referentes à atribuição do membro do Parquet ou do juiz que o homologa o acordo não afetam a existência, validade ou veracidade dos elementos de convicção fornecidos ao órgão de acusação, os quais podem ser contraditados no momento processual adequado. Ademais, os crimes objeto do acordo têm íntima relação com aquele supostamente praticado pelo agravante.
+  > 8. Agravo regimental improvido.
+  > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
+
+## 392. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
 - Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 09/08/2017.
 - Crime / Tema: Roubo · Testemunho indireto · Reconhecimento de pessoa
 - Resumo: Reconhecimento fotográfico não confirmado em juízo e testemunhas que só repetem o que ouviram não bastam para condenar por roubo. Réu absolvido (in dubio pro reo).
@@ -19,7 +37,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Recurso provido.
   > (TJMG, Apelação Criminal n. 1.0079.15.056165-6/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/8/2017, publicado em 9/8/2017.)
 
-## 392. REsp nº 1574681 / RS (STJ)
+## 393. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -43,7 +61,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 393. APn nº 746 / MT (STJ)
+## 394. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -60,7 +78,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 394. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
+## 395. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
 - Decisão colegiada. Relator: Des. Nelson Missias de Morais. 2ª Câmara Criminal. Publicado em 17/10/2016.
 - Crime / Tema: Homicídio qualificado · Testemunho indireto · Tribunal do Júri
 - Resumo: Condenação do Júri sustentada só em boatos e ouvir dizer de uma única fonte de credibilidade duvidosa, com álibi não desconstituído, é manifestamente contrária à prova dos autos. Julgamento anulado, com novo Júri.
@@ -71,7 +89,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. O acervo probatório inteiramente constituído através da palavra de uma testemunha cujas palavras têm duvidosa credibilidade não é apto a sustentar minimamente a tese acusatória, sendo imperioso reconhecer o divórcio entre as provas dos autos e a decisão do Conselho de Sentença, o que autoriza a anulação do julgamento com a consequente submissão do acusado a novo Júri.
   > (TJMG, Apelação Criminal n. 1.0313.13.008010-1/002, relator Desembargador Nelson Missias de Morais, 2ª Câmara Criminal, julgado em 6/10/2016, publicado em 17/10/2016.)
 
-## 395. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
+## 396. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
 - Decisão colegiada. Relator: Des. Doorgal Borges de Andrada. 4ª Câmara Criminal. Publicado em 23/08/2016.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Acesso da defesa às provas
 - Resumo: O acórdão foi omisso sobre os documentos juntados pela acusação nas contrarrazões sem vista à defesa. Embargos acolhidos para decretar a nulidade por cerceamento de defesa.
@@ -82,7 +100,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > - Embargos acolhidos para decretar a nulidade.
   > (TJMG, Embargos de Declaração Criminal n. 1.0134.09.129196-0/002, relator Desembargador Doorgal Borges de Andrada, 4ª Câmara Criminal, julgado em 17/8/2016, publicado em 23/8/2016.)
 
-## 396. RE nº 603.616 / RO (STF)
+## 397. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -98,7 +116,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 397. HC nº 341790 / PR (STJ)
+## 398. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -114,7 +132,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 398. HC nº 127.483 / PR (STF)
+## 399. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -136,7 +154,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 399. Inq nº 4.130 QO / PR (STF)
+## 400. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
@@ -164,17 +182,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 19. Considerando que o ilícito tipificado no art. 12.850/13 e a maior parte dos crimes de lavagem de dinheiro e de falsidade ideológica se consumaram em São Paulo, justifica-se a atração de todos eles para a Seção Judiciária do Estado de São Paulo, ressalvada a posterior apuração de outras infrações conexas que, por força das regras do art. 78 do Código de Processo Penal, justifiquem conclusão diversa quanto ao foro prevalente.
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
-
-## 400. REsp nº 1388440 / ES (STJ)
-- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
-- Crime / Tema: Crimes contra as relações de consumo · Prescrição
-- Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1388440.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. CRIME CONTRA AS RELAÇÕES DE CONSUMO. EXPOR À VENDA MERCADORIAS IMPRÓPRIAS AO CONSUMO. VIOLAÇÃO AO ART. 619 DO CPP. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. FUNDAMENTAÇÃO SUFICIENTE AO DESLINDE DA CONTROVÉRSIA. SENTENÇA. DESCLASSIFICAÇÃO DA CONDUTA DOLOSA PARA CULPOSA. INOBSERVÂNCIA DO ART. 384, CAPUT, DO CPP. MUTATIO LIBELLI. VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO ENTRE A ACUSAÇÃO E A SENTENÇA. ANULAÇÃO DA SENTENÇA. SUPERVENIÊNCIA DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EXTINÇÃO DA PUNIBILIDADE.
-  > 1. Não importa negativa de prestação jurisdicional o acórdão que adota fundamentação contrária aos interesses da parte, mas suficiente ao deslinde da controvérsia.
-  > 2. O fato imputado aos réus na inicial acusatória, em especial a forma de cometimento do delito, da qual se infere o elemento subjetivo, deve guardar correspondência com aquele reconhecido na sentença, a teor do princípio da correlação entre a acusação e a sentença.
-  > 3. Encerrada a instrução criminal, concluindo-se que as condutas dos recorrentes subsumem-se à modalidade culposa do tipo penal e ausente a descrição de circunstância elementar, atinente ao elemento subjetivo do injusto na denúncia, imperativa a observância da regra inserta no art. 384, caput, do CPP, ainda que a nova modalidade de delito comine pena inferior, baixando-se os autos ao Ministério Público para aditar a inicial, sob pena violação ao princípio da ampla defesa e contraditório.
-  > 4. Transcorrido o prazo prescricional de 4 anos (art. 109, V, c/c 110, § 1º, do CP), desde o recebimento da denúncia até a presente data, considerando-se a inexistência de outro marco interruptivo em face da anulação da sentença condenatória, verifica-se a prescrição da pretensão punitiva do Estado.
-  > 5. Recurso parcialmente provido para anular a sentença condenatória e julgar extinta a punibilidade dos recorrentes.
-  > (REsp n. 1.388.440/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/3/2015, DJe de 17/3/2015.)
