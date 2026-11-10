@@ -3774,7 +3774,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 303. AREsp nº 3126435 / MT (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/04/2026.
-- Crime / Tema: Crimes contra a honra · Ameaça · Perseguição · Violência doméstica · Prova digital · Quebra da cadeia de custódia
+- Crime / Tema: Crimes contra a honra · Ameaça · Perseguição · Violência psicológica contra a mulher · Prova digital · Quebra da cadeia de custódia
 - Resumo: Prints unilaterais de conversa, sem perícia nem rastreabilidade, são inadmissíveis como prova. Acórdão anulado para novo julgamento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3126435.pdf
 - Ementa oficial:
