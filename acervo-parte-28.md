@@ -50,7 +50,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 274. HC nº 1114613 / MG (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/08/2026.
-- Crime / Tema: Vias de fato · Violência doméstica · Confissão espontânea
+- Crime / Tema: Vias de fato · Confissão espontânea
 - Resumo: Quem admite a conduta das vias de fato (art. 21, § 2º, da LCP) tem direito à atenuante da confissão, compensada com a reincidência, como o próprio TJ fez quanto à lesão corporal no mesmo julgado. Pena redimensionada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114613.pdf
 

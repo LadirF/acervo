@@ -87,7 +87,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 79. AREsp nº 3371938 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
-- Crime / Tema: Violência doméstica · Acesso da defesa às provas
+- Crime / Tema: Violência doméstica
 - Resumo: Negar assistente técnico para contraditar o laudo oficial é cerceamento de defesa. Recurso especial provido: processo anulado desde o indeferimento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3371938.pdf
 

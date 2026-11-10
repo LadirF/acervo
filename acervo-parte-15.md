@@ -10,7 +10,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 141. AREsp nº 3352144 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Porte de drogas para consumo pessoal · Justa causa
+- Crime / Tema: Porte de drogas para consumo pessoal
 - Resumo: Porte de 0,9 g de cocaína para consumo pessoal, sem ofensividade penalmente relevante, é materialmente atípico (art. 28 da Lei 11.343/2006). Agravo não conhecido, mas HC de ofício: restabelecida a rejeição da denúncia (art. 395, II, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3352144.pdf
 
@@ -94,7 +94,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 149. AgRg no HC nº 1077013 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Prisão e medidas cautelares
+- Crime / Tema: Violência psicológica contra a mulher · Prisão e medidas cautelares
 - Resumo: A preventiva decretada em grau de recurso exige risco concreto e atual. O réu ficou mais de 4 meses solto cumprindo cautelares rigorosas, sem descumprimento: gravidade das imputações, repercussão social e posição acadêmica e profissional não bastam. Medidas do art. 319 do CPP mantidas; agravo do MP desprovido, por maioria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1077013.pdf
 - Ementa oficial:

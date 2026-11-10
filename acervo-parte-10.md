@@ -53,7 +53,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 97. AgRg no AREsp nº 3298877 / PI (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 21/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A absolvição pelo quesito genérico pode acolher a clemência sustentada em plenário e registrada em ata, com apoio nas circunstâncias do caso. Veredito mantido; agravo do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3298877.pdf
 - Ementa oficial:

@@ -23,7 +23,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 372. AgRg no HC nº 703960 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/02/2022.
-- Crime / Tema: Homicídio · Pronúncia · Testemunho indireto · Tribunal do Júri
+- Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: Pronúncia não pode se fundar exclusivamente em elementos do inquérito (art. 155 do CPP); testemunho indireto também não a embasa. Agravo do MPRS desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-703960.pdf
 - Ementa oficial:

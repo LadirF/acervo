@@ -35,7 +35,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 252. AgRg no HC nº 1112658 / PR (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
-- Crime / Tema: Denunciação caluniosa · Perseguição · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
+- Crime / Tema: Denunciação caluniosa · Perseguição · Violência psicológica contra a mulher · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
 - Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112658.pdf
 - Ementa oficial:
@@ -86,7 +86,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 258. AgRg no REsp nº 2245002 / RS (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/09/2026.
-- Crime / Tema: Perseguição · Violência doméstica · Dosimetria
+- Crime / Tema: Perseguição · Violência doméstica · Violência psicológica contra a mulher · Dosimetria
 - Resumo: A agravante do art. 61, II, 'f', do CP não incide na perseguição contra a mulher (art. 147-A, § 1º, II) nem na violência psicológica (art. 147-B): a violência contra a mulher já é elementar, e aplicá-la seria bis in idem. Distinção do Tema 1.197/STJ, que vale para a lesão do art. 129, § 9º. Agravo do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245002.pdf
 - Ementa oficial:

@@ -167,7 +167,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 309. REsp nº 2194002 / MS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 04/03/2026.
-- Crime / Tema: Contrabando · Organização criminosa · Continuidade delitiva
+- Crime / Tema: Contrabando · Continuidade delitiva
 - Resumo: Intervalo de mais de 30 dias entre os crimes não afasta, por si, a continuidade delitiva: reconhecida entre ciclos de contrabando com o mesmo modo de agir. REsp do MPF desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2194002.pdf
 - Ementa oficial:

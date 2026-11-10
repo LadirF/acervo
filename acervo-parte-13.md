@@ -16,13 +16,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 122. HC nº 1109888 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Crime / Tema: Tribunal do Júri
 - Resumo: Para o desaforamento basta dúvida fundada sobre a imparcialidade do Júri (art. 427 do CPP): cidade de 20 mil habitantes, grande repercussão e o poder público local tomando partido, com parecer favorável da Procuradoria de Justiça. Júri anulado e desaforado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109888.pdf
 
 ## 123. HC nº 1114459 / PR (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Violência doméstica · Justa causa
+- Crime / Tema: Violência doméstica
 - Resumo: Lesão corporal culposa (art. 129, § 6º, do CP) exige a demonstração da violação do dever objetivo de cuidado e da previsibilidade; a dinâmica descrita era a de um acidente com o veículo. Réu absolvido por atipicidade (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114459.pdf
 

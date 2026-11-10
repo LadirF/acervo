@@ -106,7 +106,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 66. AgRg no REsp nº 2280820 / MG (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri · Confissão espontânea
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Confissão espontânea
 - Resumo: No Júri, a atenuante da confissão pode ser reconhecida mesmo sem debate em plenário, se a confissão consta dos autos, ainda que qualificada (Tema 1.194/STJ). Agravo do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2280820.pdf
 - Ementa oficial:

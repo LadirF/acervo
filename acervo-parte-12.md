@@ -10,7 +10,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 111. ARE nº 1.623.674 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Gravação inaudível da sessão plenária do Júri, por defeito técnico, prejudica a defesa e anula o julgamento a partir do plenário, como decidiu o TJGO. ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623674.pdf
 
@@ -41,7 +41,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 
 ## 115. AgRg no HC nº 1061845 / SP (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Excesso de prazo · Justa causa
+- Crime / Tema: Excesso de prazo
 - Resumo: A duração razoável do processo vale também para a investigação: procedimento do MP aberto há quase 7 anos, sem avanço concreto quanto ao investigado, foi trancado. A complexidade não justifica prazo indefinido. O juízo reavalia a devolução dos valores apreendidos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1061845.pdf
 - Ementa oficial:

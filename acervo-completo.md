@@ -832,7 +832,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 66. AgRg no REsp nº 2280820 / MG (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri · Confissão espontânea
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Confissão espontânea
 - Resumo: No Júri, a atenuante da confissão pode ser reconhecida mesmo sem debate em plenário, se a confissão consta dos autos, ainda que qualificada (Tema 1.194/STJ). Agravo do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2280820.pdf
 - Ementa oficial:
@@ -984,7 +984,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 79. AREsp nº 3371938 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
-- Crime / Tema: Violência doméstica · Acesso da defesa às provas
+- Crime / Tema: Violência doméstica
 - Resumo: Negar assistente técnico para contraditar o laudo oficial é cerceamento de defesa. Recurso especial provido: processo anulado desde o indeferimento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3371938.pdf
 
@@ -1171,7 +1171,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 97. AgRg no AREsp nº 3298877 / PI (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 21/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A absolvição pelo quesito genérico pode acolher a clemência sustentada em plenário e registrada em ata, com apoio nas circunstâncias do caso. Veredito mantido; agravo do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3298877.pdf
 - Ementa oficial:
@@ -1348,7 +1348,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 111. ARE nº 1.623.674 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
-- Crime / Tema: Homicídio · Tribunal do Júri
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Gravação inaudível da sessão plenária do Júri, por defeito técnico, prejudica a defesa e anula o julgamento a partir do plenário, como decidiu o TJGO. ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623674.pdf
 
@@ -1379,7 +1379,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 115. AgRg no HC nº 1061845 / SP (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Excesso de prazo · Justa causa
+- Crime / Tema: Excesso de prazo
 - Resumo: A duração razoável do processo vale também para a investigação: procedimento do MP aberto há quase 7 anos, sem avanço concreto quanto ao investigado, foi trancado. A complexidade não justifica prazo indefinido. O juízo reavalia a devolução dos valores apreendidos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1061845.pdf
 - Ementa oficial:
@@ -1524,13 +1524,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 122. HC nº 1109888 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Crime / Tema: Tribunal do Júri
 - Resumo: Para o desaforamento basta dúvida fundada sobre a imparcialidade do Júri (art. 427 do CPP): cidade de 20 mil habitantes, grande repercussão e o poder público local tomando partido, com parecer favorável da Procuradoria de Justiça. Júri anulado e desaforado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109888.pdf
 
 ## 123. HC nº 1114459 / PR (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
-- Crime / Tema: Violência doméstica · Justa causa
+- Crime / Tema: Violência doméstica
 - Resumo: Lesão corporal culposa (art. 129, § 6º, do CP) exige a demonstração da violação do dever objetivo de cuidado e da previsibilidade; a dinâmica descrita era a de um acidente com o veículo. Réu absolvido por atipicidade (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114459.pdf
 
@@ -1704,7 +1704,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 141. AREsp nº 3352144 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Porte de drogas para consumo pessoal · Justa causa
+- Crime / Tema: Porte de drogas para consumo pessoal
 - Resumo: Porte de 0,9 g de cocaína para consumo pessoal, sem ofensividade penalmente relevante, é materialmente atípico (art. 28 da Lei 11.343/2006). Agravo não conhecido, mas HC de ofício: restabelecida a rejeição da denúncia (art. 395, II, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3352144.pdf
 
@@ -1788,7 +1788,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 149. AgRg no HC nº 1077013 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Prisão e medidas cautelares
+- Crime / Tema: Violência psicológica contra a mulher · Prisão e medidas cautelares
 - Resumo: A preventiva decretada em grau de recurso exige risco concreto e atual. O réu ficou mais de 4 meses solto cumprindo cautelares rigorosas, sem descumprimento: gravidade das imputações, repercussão social e posição acadêmica e profissional não bastam. Medidas do art. 319 do CPP mantidas; agravo do MP desprovido, por maioria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1077013.pdf
 - Ementa oficial:
@@ -3133,7 +3133,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 252. AgRg no HC nº 1112658 / PR (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
-- Crime / Tema: Denunciação caluniosa · Perseguição · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
+- Crime / Tema: Denunciação caluniosa · Perseguição · Violência psicológica contra a mulher · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
 - Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112658.pdf
 - Ementa oficial:
@@ -3184,7 +3184,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 258. AgRg no REsp nº 2245002 / RS (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/09/2026.
-- Crime / Tema: Perseguição · Violência doméstica · Dosimetria
+- Crime / Tema: Perseguição · Violência doméstica · Violência psicológica contra a mulher · Dosimetria
 - Resumo: A agravante do art. 61, II, 'f', do CP não incide na perseguição contra a mulher (art. 147-A, § 1º, II) nem na violência psicológica (art. 147-B): a violência contra a mulher já é elementar, e aplicá-la seria bis in idem. Distinção do Tema 1.197/STJ, que vale para a lesão do art. 129, § 9º. Agravo do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245002.pdf
 - Ementa oficial:
@@ -3407,7 +3407,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 274. HC nº 1114613 / MG (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/08/2026.
-- Crime / Tema: Vias de fato · Violência doméstica · Confissão espontânea
+- Crime / Tema: Vias de fato · Confissão espontânea
 - Resumo: Quem admite a conduta das vias de fato (art. 21, § 2º, da LCP) tem direito à atenuante da confissão, compensada com a reincidência, como o próprio TJ fez quanto à lesão corporal no mesmo julgado. Pena redimensionada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114613.pdf
 
@@ -3909,7 +3909,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 309. REsp nº 2194002 / MS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 04/03/2026.
-- Crime / Tema: Contrabando · Organização criminosa · Continuidade delitiva
+- Crime / Tema: Contrabando · Continuidade delitiva
 - Resumo: Intervalo de mais de 30 dias entre os crimes não afasta, por si, a continuidade delitiva: reconhecida entre ciclos de contrabando com o mesmo modo de agir. REsp do MPF desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2194002.pdf
 - Ementa oficial:
@@ -4765,7 +4765,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## 372. AgRg no HC nº 703960 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/02/2022.
-- Crime / Tema: Homicídio · Pronúncia · Testemunho indireto · Tribunal do Júri
+- Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: Pronúncia não pode se fundar exclusivamente em elementos do inquérito (art. 155 do CPP); testemunho indireto também não a embasa. Agravo do MPRS desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-703960.pdf
 - Ementa oficial:
