@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 22 de 41 (decisões 211 a 220)
+# Acervo de Jurisprudência — Cury Advogados — parte 22 de 44 (decisões 211 a 220)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 403 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 434 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,117 +8,123 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 211. AgRg no HC nº 1123541 / PR (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Estelionato · Prisão e medidas cautelares · Cabimento do HC
-- Resumo: Não há supressão de instância quando o HC no tribunal de origem ataca diretamente o decreto de preventiva: não se exige pedido prévio de revogação ao juiz que o decretou. Ordem de ofício para o TJPR examinar as teses da defesa, mas o STJ não revoga a prisão sem ilegalidade teratológica.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123541.pdf
+## 211. REsp nº 2220958 / RS (STJ)
+- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Estelionato
+- Resumo: O “estelionato judicial” (enganar o juiz no processo) é atípico; afastadas essas condenações, fica só a do fato 2, com pena reduzida. REsp parcialmente provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2220958.pdf
+
+## 212. HC nº 1111235 / DF (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Revisão criminal · Cabimento do HC
+- Resumo: Negar a justificação criminal para ouvir testemunhas que podem ser prova nova impede preparar a revisão criminal. HC não conhecido, mas ordem concedida de ofício para realizá-la.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111235.pdf
+
+## 213. HC nº 275.289 / SP (STF)
+- Decisão colegiada. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 07/10/2026.
+- Crime / Tema: Crimes contra a ordem tributária · Dosimetria
+- Resumo: Pena reduzida abaixo de 4 anos sem fundamentação para regime mais grave impõe o regime aberto. Ordem concedida de ofício (sonegação de contribuição previdenciária, art. 337-A do CP), com análise da substituição por restritivas de direitos e extensão ao corréu.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-275289.pdf
 - Ementa oficial:
-  > AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. PREVENÇÃO. INOCORRÊNCIA. PROCESSOS DE ORIGEM DISTINTOS. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO. IMPETRAÇÃO ORIGINÁRIA DIRIGIDA CONTRA O PRÓPRIO DECRETO PRISIONAL. DESNECESSIDADE DE PRÉVIO PEDIDO DE REVOGAÇÃO AO JUÍZO DE PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA NÃO CONFIGURADA. PRETENSÃO DE REVOGAÇÃO DIRETA DA PRISÃO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INVIABILIDADE. CORREÇÃO DE ERRO MATERIAL. AGRAVO REGIMENTAL DESPROVIDO.
-  > 1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
-  > 2. A prevenção, embora constitua nulidade relativa e deva ser arguida na primeira oportunidade processual, não se configura quando as impetrações, ainda que formuladas em favor do mesmo paciente, decorrem de processos de origem distintos, examinados na instância antecedente por órgãos fracionários e relatores diversos, sem reunião dos feitos.
-  > 3. Não configura supressão de instância a impetração de habeas corpus perante o Tribunal de origem diretamente contra decreto de prisão preventiva já proferido pelo Juízo de primeiro grau. O controle da legalidade do próprio título constritivo não pode ser condicionado à formulação prévia de pedido de revogação ou substituição da custódia perante o mesmo magistrado que a decretou.
-  > 4. Reconhecida a inadequação do óbice adotado pelo Tribunal estadual, mostra-se suficiente a concessão da ordem de ofício para determinar que aquela Corte examine as alegações defensivas relativas à prisão preventiva, não cabendo ao Superior Tribunal de Justiça revogar diretamente a custódia quando não evidenciada, de plano, ilegalidade teratológica apta a justificar a excepcional intervenção.
-  > 5. Correção de erro material para precisar a identificação dos processos e o alcance da ordem concedida, sem modificação da conclusão anteriormente adotada.
-  > 6. Agravo regimental desprovido.
-  > (AgRg no HC n. 1.123.541/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
+  > HABEAS CORPUS. EXECUÇÃO PENAL. CRIME DE SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. ARTIGO 337-A, III, DO CÓDIGO PENAL. PARCELAMENTO DE DÉBITO TRIBUTÁRIO. PLEITO DE SUSPENSÃO DA PRETENSÃO EXECUTÓRIA. PENA PRIVATIVA DE LIBERDADE INFERIOR A 4 (QUATRO) ANOS. REGIME INICIAL MAIS GRAVOSO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. DEFERIMENTO DE LIMINAR PELA PRESIDÊNCIA DURANTE O RECESSO FORENSE, PARA FIXAR O REGIME INICIAL ABERTO. PARECER DO MINISTÉRIO PÚBLICO FEDERAL PELA CONFIRMAÇÃO DA LIMINAR.
+  > 1. A fixação do regime inicial de cumprimento da pena deve observar o quantum da reprimenda e as circunstâncias concretas do caso, exigindo-se motivação idônea para a imposição de regime mais gravoso. Precedentes: HC 92.274, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 7/3/2008; AP 565-ED-ED, Tribunal Pleno, Red. p/ acórdão Min. Dias Toffoli, DJe de 12/4/2018; HC 131.129-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 03/8/2017.
+  > 2. A redução da reprimenda para patamar inferior a 04 (quatro) anos, sem a correspondente adequação do regime prisional ou fundamentação específica para a manutenção do regime semiaberto, autoriza a fixação do regime aberto, nos termos da manifestação do Ministério Público Federal.
+  > 3. In casu, o paciente foi condenado à pena de 3 (três) anos, 1 (um) mês e 15 (quinze) dias de reclusão, em regime inicial semiaberto, bem como ao pagamento de 15 (quinze) dias-multa, pela prática do crime previsto no artigo 337-A, III, do Código Penal.
+  > 4. A supressão de instância impede o conhecimento de habeas corpus quando ausente o exame do mérito da matéria posta sob exame da Corte Superior. Precedentes: HC nº 210.524-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 20/7/2022; HC nº 216.782-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 31/8/2022.
+  > 5. O mandamus é ação inadequada para impugnação de decisum monocrático proferido pelo Superior Tribunal de Justiça. Precedentes: HC nº 218.896-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 16/9/2022; e HC nº 216.856-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 15/9/2022.
+  > 6. O writ é impassível de ser manejado como sucedâneo de recurso ou revisão criminal.
+  > 7. Habeas corpus não conhecido. Ordem concedida de ofício, nos termos da manifestação do Ministério Público Federal, para confirmar a medida liminar anteriormente deferida pela Presidência desta Corte, fixando o regime inicial aberto e determinando ao Juízo da Execução que analise a possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos, estendendo-se os efeitos da decisão ao corréu.
+  > (STF, HC n. 275.289/SP, relator Ministro Luiz Fux, Segunda Turma, julgado em 2/10/2026, DJe de 7/10/2026.)
 
-## 212. REsp nº 2232648 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: No recurso exclusivo da defesa, o novo júri não pode alcançar fatos já desclassificados ou com punibilidade extinta. Seria reformatio in pejus indireta (art. 617 do CPP), e a soberania dos veredictos não autoriza repetir o julgamento inteiro. Novo júri limitado ao homicídio tentado remanescente.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2232648.pdf
+## 214. AgRg no REsp nº 2271906 / RS (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Denúncia anônima com descrição que bate com o abordado, somada à mera presença em ponto de venda de drogas, sem elemento objetivo verificável na hora, não é fundada suspeita (arts. 240, § 2º, e 244 do CPP). Provas nulas e absolvição mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2271906.pdf
 - Ementa oficial:
-  > RECURSO ESPECIAL. PROCESSUAL PENAL. TRIBUNAL DO JÚRI. VIOLAÇÃO DO ART. 617 DO CPP. REFORMATIO IN PEJUS INDIRETA. VERIFICAÇÃO. OCORRÊNCIA. PREVALÊNCIA DA COISA JULGADA PARCIAL EM RECURSO EXCLUSIVO DA DEFESA. LIMITAÇÃO DO NOVO JULGAMENTO QUE SE IMPÕE.
-  > 1. A vedação da reformatio in pejus impede o agravamento da situação do acusado quando o novo julgamento decorre de recurso exclusivo da defesa. A preservação da coisa julgada parcial e das causas de extinção da punibilidade é compatível com a lógica do sistema recursal e com a segurança jurídica. A soberania dos veredictos não autoriza repetir integralmente o julgamento para alcançar pontos já firmados por desclassificação e prescrição, ausente insurgência da acusação.
-  > 2. O acórdão recorrido determinou novo julgamento integral, abrangendo fatos já desclassificados e com punibilidade extinta, sem recurso ministerial, o que agrava a situação do réu e viola a vedação de reformatio in pejus. O parecer ministerial confirmou essa compreensão e apontou a necessidade de restringir o novo júri aos fatos remanescentes sem coisa julgada e sem extinção da punibilidade.
-  > 3. Limitação do novo julgamento ao crime de homicídio tentado remanescente, com resguardo da coisa julgada parcial e das decisões extintivas da punibilidade que se impõe.
-  > 4. Recurso especial provido nos termos do dispositivo.
-  > (REsp n. 2.232.648/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BUSCA PESSOAL FUNDADA EXCLUSIVAMENTE EM DENÚNCIA ANÔNIMA. AUSÊNCIA DE FUNDADA SUSPEITA. NULIDADE DAS PROVAS. ABSOLVIÇÃO MANTIDA. AGRAVO DESPROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto pelo Ministério Público estadual contra decisão que deu provimento ao recurso especial defensivo, reconheceu a nulidade das provas colhidas em busca pessoal e absolveu o acusado.
+  > 2. Fato relevante. Denúncia anônima sobre comércio de drogas nas redondezas de escola motivou diligência policial e abordagem do agravado, cuja descrição correspondia às informações recebidas; na busca pessoal, foram apreendidas porções de maconha e crack, além de balança de precisão.
+  > 3. As decisões anteriores. Instâncias ordinárias consignaram ausência de justificativa objetiva para a abordagem, realizada apenas pela presença do agravado em local apontado como ponto de venda de entorpecentes; a decisão agravada concluiu pela nulidade da diligência e das provas dela derivadas e pela absolvição por falta de provas válidas.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em saber se a denúncia anônima, ainda que qualificada, aliada à mera presença do abordado em local apontado como ponto de venda de drogas, sem elementos objetivos imediatamente verificáveis, configura fundada suspeita apta a autorizar busca pessoal (CPP, arts. 240, § 2º, e 244).
+  > 5. A questão em discussão consiste em saber se, reconhecida a ilicitude da busca pessoal, as provas dela derivadas devem ser excluídas e se a absolvição é medida impositiva por ausência de provas remanescentes válidas (CPP, art. 157, caput e § 1º).
+  > III. Razões de decidir
+  > 6. A busca pessoal exige fundada suspeita, nos termos do § 2º do art. 240 do Código de Processo Penal, não sendo suficiente a denúncia anônima desacompanhada de elementos objetivos imediatamente constatáveis para legitimar medida invasiva.
+  > 7. A mera presença do abordado em local conhecido pelo tráfico de drogas e a compatibilidade de características com as informações recebidas configuram juízo subjetivo, insuficiente para autorizar a revista sem indicação concreta de corpo de delito ou de posse de arma proibida.
+  > 8. Reconhecida a ilicitude da busca pessoal, aplicam-se as regras de exclusão probatória e de contaminação dos elementos dela derivados (CPP, art. 157, caput e § 1º), o que invalida as apreensões e demais elementos informativos subsequentes.
+  > 9. Inexistindo provas válidas suficientes, impõe-se manter a absolvição, não sendo os argumentos de eficiência administrativa ou de segurança pública aptos a dispensar as garantias legais para a realização de busca pessoal.
+  > IV. Dispositivo e tese
+  > 10. Resultado do Julgamento: Agravo regimental desprovido.
+  > (AgRg no REsp n. 2.271.906/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
 
-## 213. REsp nº 2256734 / RS (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento fotográfico sem o art. 226 do CPP contamina o reconhecimento pessoal feito depois, porque é prova irrepetível (Tema 1.258/STJ). Condenação apoiada só nesses dois atos, sem prova independente de autoria. Sentença absolutória restabelecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2256734.pdf
+## 215. AgRg no HC nº 1104246 / SP (STJ)
+- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
+- Resumo: Com denúncia restrita a 8,28 g de cocaína (a parte da maconha foi arquivada), réu primário e crime sem violência, a preventiva não se sustenta. Medidas cautelares do art. 319, I e IV, do CPP são suficientes. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104246.pdf
 - Ementa oficial:
-  > PENAL E PROCESSO PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO REALIZADO EM DESCONFORMIDADE COM O ART. 226 DO CPP. RECONHECIMENTO PESSOAL POSTERIOR. PROVA IRREPETÍVEL. CONTAMINAÇÃO DA MEMÓRIA DO RECONHECEDOR. TEMA 1.258/STJ. AUSÊNCIA DE PROVAS INDEPENDENTES DE AUTORIA. SENTENÇA ABSOLUTÓRIA RESTABELECIDA. PARECER ACOLHIDO.
-  > 1. Nos termos da tese firmada no Tema 1.258/STJ, o reconhecimento de pessoas constitui prova irrepetível, de modo que o reconhecimento inicialmente falho ou viciado tem potencial para contaminar a memória do reconhecedor e comprometer procedimento posteriormente realizado.
-  > 2. Caso em que a condenação foi amparada exclusivamente em reconhecimento fotográfico realizado em desconformidade com o art. 226 do CPP e em reconhecimento pessoal subsequente, inexistindo elementos probatórios independentes aptos a demonstrar a autoria delitiva.
-  > 3. Recurso especial provido.
-  > (REsp n. 2.256.734/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. DELIMITAÇÃO ACUSATÓRIA À PEQUENA QUANTIDADE DE DROGAS. PRIMARIEDADE. MEDIDAS CAUTELARES ALTERNATIVAS SUFICIENTES. ORDEM CONCEDIDA E MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > I. CASO EM EXAME:
+  > 1. Agravo regimental interposto pelo órgão ministerial estadual contra decisão monocrática que concedeu a ordem em habeas corpus para substituir a prisão preventiva do paciente por medidas cautelares previstas no art. 319, incisos I e IV, do Código de Processo Penal.
+  > 2. Prisão em flagrante e posterior decretação da prisão preventiva por suposta prática do art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 541,93 g de maconha e 18 porções de cocaína (8,28 g). Posteriormente, denúncia ofertada apenas pela posse das 18 porções de cocaína (8.28 g) e arquivamento do inquérito quanto às porções de maconha. Paciente primário. Crime sem violência ou grave ameaça.
+  > 3. Tribunal de origem denegou a ordem. Nesta Corte, decisão monocrática concedeu o habeas corpus e aplicou medidas cautelares alternativas do art. 319, I e IV, do CPP, contra a qual se volta o agravante.
+  > II. QUESTÃO EM DISCUSSÃO:
+  > 4. Há duas questões em discussão: (i) se diante da denúncia restrita à posse de 18 porções de cocaína (8,28 g), da primariedade e da inexistência de violência ou grave ameaça, estão presentes fundamentos concretos e contemporâneos do art. 312 do CPP aptos a justificar a manutenção da prisão preventiva; e (ii) se medidas cautelares diversas da prisão, nos termos do art. 319 do CPP, mostram-se suficientes e proporcionais para resguardar a ordem pública no caso concreto.
+  > III. RAZÕES DE DECIDIR:
+  > 5. A prisão preventiva, como ultima ratio, exige fundamentação concreta e atual do periculum libertatis, nos termos do art. 312 do CPP, não se bastando na gravidade em abstrato do delito ou em elementos que não integrem o objeto efetivo da acusação.
+  > 6. A delimitação acusatória às 18 porções de cocaína (8,28 g), aliada à primariedade e à ausência de violência ou grave ameaça, não revela, por si, indispensabilidade da custódia cautelar, sendo adequada a substituição por medidas alternativas menos gravosas previstas no art. 319, incisos I e IV, do CPP, as quais se mostram-se suficientes para resguardar a ordem pública e a eficácia do processo.
+  > 7. O agravante não apresentou elementos contemporâneos que evidenciem risco atual específico ou descumprimento das cautelares impostas, razão pela qual mantém-se a decisão agravada.
+  > IV. DISPOSITIVO:
+  > 8. Agravo regimental não provido.
+  > (AgRg no HC n. 1.104.246/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
 
-## 214. AgRg no RHC nº 275.857 / MS (STF)
-- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 02/10/2026.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Prisão e medidas cautelares
-- Resumo: O agravamento do quadro clínico do preso exige reavaliar a preventiva (art. 316, par. único, do CPP), com análise de cautelares diversas ou prisão domiciliar. Reavaliação determinada de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-275857.pdf
-
-## 215. AgRg no HC nº 245.446 / AL (STF)
-- Decisão colegiada. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 01/10/2026.
-- Crime / Tema: Quebra de sigilo · Competência
-- Resumo: Surgindo indícios contra autoridade com foro (prefeito), a investigação deve ir ao tribunal competente; interceptação autorizada por juízo incompetente é nula (juiz natural). Mantida a ordem de ofício que desconstituiu o trânsito em julgado e anulou as provas; agravo do MPF desprovido, vencidos Fux e Mendonça.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-245446.pdf
+## 216. AgRg no HC nº 1117308 / GO (STJ)
+- Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
+- Crime / Tema: Estupro de vulnerável · Dosimetria · Continuidade delitiva · Cabimento do HC
+- Resumo: Culpabilidade e motivo valorados com elementos genéricos do tipo não elevam a pena-base; já abuso de confiança e dano psíquico à vítima de tenra idade elevam. Fração de 1/3 pela continuidade mantida (Súmula 659/STJ). Teses não examinadas na origem esbarram em supressão de instância e reiteração. Pena redimensionada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1117308.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM HABEAS CORPUS. IMPETRAÇÃO ANTERIOR. REITERAÇÃO. INOCORRÊNCIA. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADEQUAÇÃO. INVESTIGAÇÃO CRIMINAL. ENVOLVIDO. FORO POR PRERROGATIVA DE FUNÇÃO. PRINCÍPIO DO JUIZ NATURAL. DESRESPEITO. INTERCEPTAÇÃO TELEFÔNICA. JUÍZO INCOMPETENTE. DETERMINAÇÃO. ILEGALIDADE CONFIGURADA. ORDEM CONCEDIDA DE OFÍCIO. RECURSO DESPROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo interno interposto de decisão por meio da qual, embora não conhecido o habeas corpus, concedeu-se a ordem de ofício para desconstituir o trânsito em julgado da condenação, bem como declarar a nulidade, em relação ao paciente, das provas obtidas mediante interceptação telefônica.
-  > 2. A parte agravante argumenta tratar-se de reiteração de razões lançadas em impetração anterior e sustenta não configurada ilegalidade porque surgidos fortuitamente, no curso de interceptações regularmente autorizadas contra investigados sem foro, indícios de envolvimento do então prefeito, no que submetida a investigação ao Tribunal competente.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 3. Há três questões em discussão: (i) aferir se a pretensão consiste em reiteração de razões veiculadas em impetração anterior; (ii) saber se o habeas corpus pode ser utilizado como sucedâneo de revisão criminal; e (iii) verificar se houve afronta ao princípio do juiz natural, a respaldar a concessão da ordem de ofício.
-  > III. RAZÕES DE DECIDIR
-  > 4. Ante a distinção da causa de pedir, não está configurada reiteração de razões veiculadas em impetração anterior.
-  > 5. O STF consolidou entendimento pela inviabilidade do habeas corpus como sucedâneo de revisão criminal.
-  > 6. O surgimento de indícios claros de participação de autoridade com prerrogativa de foro impõe a remessa dos autos ao Tribunal competente, sob pena de afronta ao princípio do juiz natural.
-  > 7. São nulas as provas produzidas por meio de interceptação telefônica determinada por autoridade judiciária incompetente.
-  > IV. DISPOSITIVO
-  > 8. Agravo interno desprovido.
-  > (STF, AgRg no HC n. 245.446/AL, relator Ministro Nunes Marques, Segunda Turma, julgado em 21/8/2026, DJe de 1/10/2026.)
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE WRIT. DOSIMETRIA. CONTINUIDADE DELITIVA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+  > I. Caso em exame
+  > 1. O agravo regimental. Agravo regimental interposto contra decisão que não conheceu do habeas corpus e manteve o indeferimento da liminar, sob os fundamentos de supressão de instância e reiteração de pedidos em writs anteriores.
+  > 2. Fatos relevantes. A Agravante sustenta: (i) nulidade decorrente do encerramento da instrução sem o interrogatório do réu, realizado tardiamente por videoconferência e por magistrado diverso; (ii) ilicitude do relatório do CREAS por quebra de sigilo profissional (CF, art. 5º, LVI; CPP, arts. 157 e 207); (iii) absolvição por insuficiência probatória (CPP, art. 386, VII), diante de laudo oficial reputado exculpatório; e (iv) redução da fração de continuidade delitiva ao mínimo de 1/6, em consonância com a Súmula 659/STJ e o Tema Repetitivo 1.202/STJ. A decisão agravada apontou reiteração de pedidos e supressão de instância quanto às teses não apreciadas nas instâncias ordinárias.
+  > 3. Decisões anteriores. O Tribunal de origem, em revisão criminal, apreciou a natureza jurídica do relatório do CREAS (elemento informativo não submetido às exigências do art. 159 do CPP), sem enfrentar a tese de ilicitude por quebra de sigilo profissional. Identificou-se, ainda, violação ao princípio da unirrecorribilidade por reiteração de habeas corpus com identidade de partes, pedido e causa de pedir, e registro de que a discussão sobre interrogatório tardio não foi previamente submetida nem decidida pelas instâncias ordinárias.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em: (i) saber se o conhecimento das teses relativas ao interrogatório tardio e à licitude do relatório do CREAS é obstado por supressão de instância, por ausência de prévio enfrentamento pelas instâncias ordinárias; (ii) saber se a reiteração de writ afronta ao princípio da unirrecorribilidade, impedindo o conhecimento do habeas corpus; e (iii) saber se a dosimetria deve ser corrigida (pena-base, circunstâncias judiciais e fração de continuidade delitiva), com eventual redimensionamento da pena.
+  > III. Razões de decidir
+  > 5. Configura-se supressão de instância quanto às teses não previamente apreciadas pelas instâncias ordinárias (interrogatório tardio e licitude do relatório do CREAS), inviabilizando conhecimento originário nesta Corte (CF/1988, art. 105).
+  > 6. Constatada a identidade de partes, pedido e causa de pedir com habeas corpus anteriormente distribuído, incide o princípio da unirrecorribilidade, obstando o processamento de reiteração de writ e de seus recursos nesta Corte.
+  > 7. Verifica-se erro material na dosimetria originária; a pena-base não estava no mínimo legal. A valoração negativa de culpabilidade e motivo baseada em elementos genéricos do tipo penal é indevida e não autoriza exasperação.
+  > 8. As circunstâncias e consequências do crime, concretamente fundamentadas no abuso de confiança e na tenra idade da vítima com danos psíquicos e emocionais, extrapolam as elementares do tipo e legitimam exasperação da pena-base.
+  > 9. Mantém-se a fração de 1/3 pela continuidade delitiva, inexistindo flagrante ilegalidade, à luz do critério objetivo de gradação consolidado (Súmula 659/STJ; Tema Repetitivo 1.202/ STJ), sendo possível, em hipóteses de longa duração e recorrência, fração superior.
+  > 10. O pedido de absolvição por insuficiência probatória não comporta exame em habeas corpus quando demanda revolvimento do conjunto fático-probatório, além de se identificar reiteração da causa de pedir em writ anterior.
+  > 11. Redimensiona-se a pena, mantendo duas circunstâncias desfavoráveis (circunstâncias e consequências), fixando a pena-base em 8 anos, 1 mês e 15 dias, e, com a continuidade delitiva na fração de 1/3, a pena definitiva em 10 anos e 10 meses de reclusão, preservado o regime inicial.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para redimensionar a pena para 10 anos e 10 meses de reclusão, preservado o regime inicial, mantendo-se o não conhecimento dos demais pontos por supressão de instância e reiteração de pedidos.
+  > (AgRg no HC n. 1.117.308/GO, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
 
-## 216. AgRg no HC nº 268.633 / MG (STF)
-- Decisão colegiada. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 01/10/2026.
-- Crime / Tema: Furto · Princípio da insignificância
-- Resumo: Furto de valor pouco relevante, sem violência ou grave ameaça, é insignificante mesmo com réu reincidente. Absolvição mantida; agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-268633.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM HABEAS CORPUS. FURTO. VALOR NÃO EXPRESSIVO. REINCIDÊNCIA. IRRELEVÂNCIA. PARTICULARIDADES DO CASO CONCRETO. MÍNIMA OFENSIVIDADE DA CONDUTA. INEXPRESSIVIDADE DA LESÃO JURÍDICA PROVOCADA. PRINCÍPIO DA INSIGNIFICÂNCIA. ABSOLVIÇÃO. ORDEM DEFERIDA. RECURSO DESPROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo interno interposto de decisão que concedeu a ordem de habeas corpus para, em razão da ausência de tipicidade material da conduta, absolver o paciente.
-  > 2. A parte agravante sustenta adotada motivação suficiente para o afastamento do princípio da insignificância pelas instâncias anteriores, diante das peculiaridades do caso, especialmente a reincidência do acusado.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 3. A questão em discussão consiste em saber se cabe observar no caso, considerado o contexto em que praticado o delito, o princípio da insignificância.
-  > III. RAZÕES DE DECIDIR
-  > 4. É aplicável o princípio da insignificância no sistema penal brasileiro desde que preenchidos, cumulativamente, os seguintes requisitos: (i) mínima ofensividade da conduta do agente; (ii) nenhuma periculosidade social da ação; (iii) reduzidíssimo grau de reprovabilidade do comportamento; e (iv) inexpressividade da lesão jurídica provocada.
-  > 5. Na presença desses quatro vetores, o princípio da insignificância incidirá para afastar, no plano material, a própria tipicidade da conduta diante da ausência de lesão ou perigo de lesão ao bem jurídico tutelado.
-  > 6. No caso concreto, o valor pouco relevante da coisa furtada e a inexistência de uso de violência ou grave ameaça conduzem ao reconhecimento de fato insignificante, mostrando-se para esse fim irrelevante a reincidência.
-  > IV. DISPOSITIVO
-  > 7. Agravo interno desprovido.
-  > (STF, AgRg no HC n. 268.633/MG, relator Ministro Nunes Marques, Segunda Turma, julgado em 21/8/2026, DJe de 1/10/2026.)
+## 217. Rp nº 1001943-80.2026.8.26.0048 (TJSP)
+- Sentença. Juiz de Direito: Leonardo Marzola Colombini. 3ª Vara Criminal de Atibaia. Publicado em 07/10/2026.
+- Crime / Tema: Crimes contra a honra · Prova digital
+- Resumo: Crimes contra a honra exigem dolo específico de ofender. Postagens sarcásticas criticando a nomeação e o salário de servidora comissionada (animus criticandi, com dados do Portal da Transparência) e excessos de linguagem em mensagens privadas, no calor de desavenças antigas, não são crime: a reparação é na esfera cível. Prova digital por ata notarial com hash e blockchain validada. Querelada absolvida (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rp-1001943-80-2026.pdf
 
-## 217. HC nº 1133535 / TO (STJ)
-- Decisão monocrática (liminar). Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Prisão e medidas cautelares
-- Resumo: A defesa só soube na véspera do paradeiro da testemunha presencial arrolada como imprescindível pelas duas partes, e o adiamento foi negado em plenário. Com dúvida plausível sobre a validade do veredicto, a execução provisória baseada só no Tema 1.068/STF foi suspensa: os réus aguardam o mérito em liberdade, com cautelares.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133535.pdf
+## 218. HC nº 276.485 / RS (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 06/10/2026.
+- Crime / Tema: Homicídio qualificado · Corrupção de menores · Dosimetria
+- Resumo: Atos infracionais não servem para valorar negativamente a conduta social na pena-base. Ordem parcialmente concedida para redimensionar a pena.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276485.pdf
 
-## 218. HC nº 1120948 / ES (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
-- Resumo: Pronúncia baseada só em depoimento do inquérito e em testemunhos de "ouvir dizer" é nula, mesmo depois da condenação pelo Júri (art. 155 do CPP; Tema 1.260/STJ). Processo anulado desde a pronúncia e réu impronunciado de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1120948.pdf
+## 219. HC nº 277.643 / MA (STF)
+- Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 06/10/2026.
+- Crime / Tema: Telecomunicação clandestina · Princípio da insignificância
+- Resumo: Rádio comunitária sem prova de interferência efetiva nos serviços de telecomunicação pode ser materialmente insignificante (art. 183 da Lei 9.472/1997). Ordem concedida; absolvição restabelecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277643.pdf
 
-## 219. HC nº 276.580 / GO (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 01/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Cabimento do HC
-- Resumo: Reincidência em crime culposo (homicídio culposo de trânsito) não impede o tráfico privilegiado, e quantidade e natureza da droga, sozinhas, não provam dedicação ao crime (art. 33, § 4º, da Lei 11.343/06). HC substitutivo de revisão criminal não conhecido, mas redutor aplicado de ofício na fração de 2/3.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276580.pdf
-
-## 220. HC nº 1.0000.26.509274-2/000 (TJMG)
-- Decisão colegiada. Relator: Des. Alberto Deodato Neto. 1ª Câmara Criminal. Publicado em 30/09/2026.
-- Crime / Tema: Homicídio qualificado · Inépcia da denúncia
-- Resumo: Denúncia inepta: no concurso de agentes, a acusação precisa indicar ao menos uma conduta de cada denunciado e o vínculo dele com o crime (art. 41 do CPP). Ter estado reunido com o atirador e ter o celular encontrado no local não basta. Ação penal trancada quanto ao paciente e mandado de prisão recolhido. Voto vencido (V.V.): o trancamento exige ausência manifesta de justa causa; as alegações dependeriam de dilação probatória.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1-0000-26-509274.pdf
-- Ementa oficial:
-  > HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - TRANCAMENTO DA AÇÃO PENAL - INÉPCIA DA DENÚNCIA - CONSTRANGIMENTO ILEGAL CONFIGURADO - ORDEM CONCEDIDA. O art. 41 do Código de Processo Penal, prevê que a denúncia deve expor o fato criminoso com todas as suas circunstâncias, qualificar o acusado ou fornecer elementos que permitam identificá-lo, classificar juridicamente a conduta e, quando necessário, apresentar o rol de testemunhas.
-  > V.V. Como é cediço, o trancamento do inquérito policial ou da ação penal por meio do Habeas Corpus deve ocorrer em casos excepcionais e somente quando se encontrar manifestadamente ausente justa causa para o seu prosseguimento, seja pela comprovação de existência de alguma excludente de tipicidade, extinção da punibilidade ou inexistência de prova da materialidade do crime ou indícios de sua autoria. Contudo, se as alegações defensivas demandam dilação probatória, inviável a concessão da ordem, especialmente diante da sumária instrução do Habeas Corpus.
-  > (TJMG, Habeas Corpus Criminal n. 1.0000.26.509274-2/000, relator Desembargador Alberto Deodato Neto, 1ª Câmara Criminal, julgado em 29/9/2026, publicado em 30/9/2026.)
+## 220. AREsp nº 3363707 / DF (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 06/10/2026.
+- Crime / Tema: Estelionato · Manipulação de resultado esportivo
+- Resumo: A omissão do TJ sobre teses da defesa nos embargos de declaração exige novo julgamento. Acórdão dos embargos cassado; REsp provido em parte.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3363707.pdf

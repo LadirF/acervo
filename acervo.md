@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto para ferramentas de IA)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 403 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 434 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -22,10 +22,11 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 ## Onde estão o índice e as ementas
 
 **Índice** (todas as decisões com tipo de decisão, data, relator, crime / tema e resumo, divididas por tribunal; numeração única). Leia **todos** os arquivos abaixo para a triagem:
-- Índice STJ e STF (1 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf.md
-- Índice STJ e STF (2 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md
-- Índice STJ e STF (3 de 4) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md
-- Índice STJ e STF (4 de 4) (82 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md
+- Índice STJ e STF (1 de 5) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf.md
+- Índice STJ e STF (2 de 5) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md
+- Índice STJ e STF (3 de 5) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md
+- Índice STJ e STF (4 de 5) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md
+- Índice STJ e STF (5 de 5) (13 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-5.md
 - Índice TRFs e tribunais estaduais (21 decisões): https://ladirf.github.io/acervo/acervo-indice-tribunais.md
 
 **Partes** (ementas oficiais, referências e links de PDF; 10 decisões cada, na mesma numeração do índice):
@@ -69,6 +70,9 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Parte 38: decisões 371 a 380 — https://ladirf.github.io/acervo/acervo-parte-38.md
 - Parte 39: decisões 381 a 390 — https://ladirf.github.io/acervo/acervo-parte-39.md
 - Parte 40: decisões 391 a 400 — https://ladirf.github.io/acervo/acervo-parte-40.md
-- Parte 41: decisões 401 a 403 — https://ladirf.github.io/acervo/acervo-parte-41.md
+- Parte 41: decisões 401 a 410 — https://ladirf.github.io/acervo/acervo-parte-41.md
+- Parte 42: decisões 411 a 420 — https://ladirf.github.io/acervo/acervo-parte-42.md
+- Parte 43: decisões 421 a 430 — https://ladirf.github.io/acervo/acervo-parte-43.md
+- Parte 44: decisões 431 a 434 — https://ladirf.github.io/acervo/acervo-parte-44.md
 
 Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md

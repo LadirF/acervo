@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto completa)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 403 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 434 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -21,7 +21,393 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 
 ## Decisões
 
-## 1. AgRg no AREsp nº 3250597 / RJ (STJ)
+## 1. AREsp nº 3214098 / MG (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Uso de documento falso · Prescrição
+- Resumo: Prescrição retroativa pela pena concreta (2 anos) consumada entre a sentença e o acórdão condenatório, depois do trânsito para a acusação; a tese, deduzida na apelação e enfrentada na origem, está prequestionada. Punibilidade extinta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3214098.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. TERMO DE ARROLAMENTO DE CINCO FAZENDAS INEXISTENTES APRESENTADO EM EXECUÇÃO FISCAL DE DÉBITO SUPERIOR A R$ 14 MILHÕES. REPRIMENDA REDUZIDA A 2 (DOIS) ANOS DE RECLUSÃO NOS EMBARGOS DE DECLARAÇÃO. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA PELA PENA EM CONCRETO. TESE DEDUZIDA NA APELAÇÃO E ENFRENTADA PELO TRIBUNAL DE ORIGEM. PRAZO QUADRIENAL SUPERADO ENTRE A PUBLICAÇÃO DA SENTENÇA E O ACÓRDÃO CONDENATÓRIO. EXTINÇÃO DA PUNIBILIDADE. PROVIMENTO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pela defesa contra decisão que inadmitiu o recurso especial por ausência de prequestionamento da tese de prescrição e pela Súmula n. 7/STJ.
+  > 2. O réu foi condenado por uso de documento falso. Em 17/8/2009, termo de arrolamento de bens com cinco fazendas inexistentes no Município de São Desidério/BA foi apresentado como garantia em execução fiscal de débito superior a R$ 14.000.000,00. A sentença fixou a pena em 1 (um) ano e 6 (seis) meses de reclusão. O Tribunal de origem elevou-a no julgamento da apelação do Ministério Público. Nos embargos de declaração da defesa, a pena foi redimensionada para 2 (dois) anos de reclusão, em regime aberto, com substituição por penas restritivas de direitos.
+  > II. Questão em discussão
+  > 3. A questão em discussão consiste em saber se a pretensão punitiva está prescrita pela pena em concreto de 2 (dois) anos de reclusão.
+  > III. Razões de decidir
+  > 4. O agravo impugnou de forma específica os dois fundamentos da decisão de inadmissão.
+  > 5. A prescrição é matéria de ordem pública e deve ser examinada antes das demais questões. A tese foi deduzida na apelação e enfrentada pelo Tribunal de origem. A redução da pena nos embargos de declaração não alterou a questão federal debatida.
+  > 6. Fixada a pena em 2 (dois) anos de reclusão sem impugnação da acusação, o prazo prescricional é de 4 anos (arts. 109, V, e 110, § 1º, do CP). Entre a publicação da sentença, em 16/12/2019, e o acórdão condenatório, em 16/9/2025, transcorreram mais de 4 anos sem causa interruptiva.
+  > 7. Extinta a punibilidade, fica prejudicado o exame das teses de atipicidade e de absolvição.
+  > IV. Dispositivo
+  > 8. Agravo conhecido para dar provimento ao recurso especial. Punibilidade extinta pela prescrição retroativa.
+  > (AREsp n. 3.214.098/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 2. AREsp nº 3355942 / RS (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Peculato · Execução penal · Competência
+- Resumo: A pena em regime semiaberto imposta pela Justiça Federal é executada pela Justiça Estadual, a quem cabe aferir vagas e aplicar a SV 56. Recurso provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3355942.pdf
+- Ementa oficial:
+  > EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. PECULATO. PENA IMPOSTA PELA JUSTIÇA FEDERAL EM REGIME SEMIABERTO. JUÍZO DA CONDENAÇÃO QUE RETEVE O PROCESSO EXECUTIVO E HARMONIZOU O CUMPRIMENTO COM MONITORAMENTO ELETRÔNICO ANTE A SUPERLOTAÇÃO DO SISTEMA PENITENCIÁRIO PARANAENSE. PREQUESTIONAMENTO CONFIGURADO. TESE DEBATIDA PELO ACÓRDÃO SOB O ENFOQUE DA DEFESA. QUESTÃO DE DIREITO SEM REEXAME DE PROVAS. COMPETÊNCIA ESTADUAL NOS TERMOS DA SÚMULA N. 192/STJ. AFERIÇÃO DE VAGAS E APLICAÇÃO DA SÚMULA VINCULANTE N. 56/STF RESERVADAS AO JUIZ ESTADUAL. MULTA QUE ACOMPANHA A PRIVAÇÃO DE LIBERDADE. PROVIMENTO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pelo réu contra decisão que inadmitiu o recurso especial por ausência de prequestionamento do art. 91 da Lei n. 7.210/1984. O agravante foi condenado pela Justiça Federal por peculato à pena de 5 (cinco) anos, 1 (um) mês e 15 (quinze) dias, no regime semiaberto, e 119 (cento e dezenove) dias-multa.
+  > 2. O juízo federal da execução reputou notória a pouca disponibilidade de vagas para o regime semiaberto no Paraná. Concedeu ao apenado o regime semiaberto harmonizado, com tornozeleira eletrônica, sob sua própria fiscalização. Recusou a declinação da competência para a Justiça Estadual. O Tribunal Regional Federal da 4ª Região manteve a decisão.
+  > II. Questão em discussão
+  > 3. Há duas questões em discussão: (i) saber se a tese do recurso especial foi prequestionada; e (ii) saber se compete ao juízo federal ou ao juízo estadual executar a pena privativa de liberdade em regime semiaberto, e a multa cumulativa, impostas pela Justiça Federal.
+  > III. Razões de decidir
+  > 4. O agravo enfrentou de modo específico o único fundamento da decisão de inadmissão. Demonstrou que o acórdão debateu a competência para executar a pena em regime semiaberto à luz da Súmula n. 192/STJ.
+  > 5. O prequestionamento implícito dispensa a menção expressa ao dispositivo legal quando o Tribunal de origem debate a matéria sob o enfoque do recurso especial. É o caso. A controvérsia é de direito e parte de premissas fáticas incontroversas.
+  > 6. A Terceira Seção firmou que a execução da pena imposta pela Justiça Federal a ser cumprida no regime semiaberto compete à Justiça Estadual, independentemente de o apenado estar preso. Somente o juízo estadual pode verificar a existência de vaga em estabelecimento adequado e aplicar a Súmula Vinculante n. 56/STF.
+  > 7. O juízo federal fez justamente a aferição reservada ao juízo estadual. Afirmou a ausência de vagas no sistema penitenciário do Estado e, com base nela, reteve a execução. Ato normativo da Corregedoria regional não altera a repartição de competência.
+  > 8. A Terceira Seção pacificou que a pena de multa deve ser executada perante o juízo estadual da execução penal quando a este couber a pena privativa de liberdade. A execução penal é una.
+  > IV. Dispositivo
+  > 9. Agravo conhecido para dar provimento ao recurso especial.
+  > (AREsp n. 3.355.942/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 3. AREsp nº 3425934 / SC (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Lesão corporal grave · Dosimetria
+- Resumo: Erro material na pena-base da lesão corporal grave (mínimo do art. 129, § 1º, do CP tomado como 2 anos, quando é 1) corrigido de ofício: pena de cada réu reduzida de 2 anos para 1 ano. Condenação mantida (Súmula 7/STJ).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3425934.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVOS EM RECURSO ESPECIAL. LESÃO CORPORAL GRAVE. VÍTIMA AGREDIDA COM SOCOS E CHUTES POR DOIS RÉUS NA CASA DA NAMORADA DE UM DELES. FRATURAS NO BRAÇO E NA COSTELA COM INCAPACIDADE PARA AS OCUPAÇÕES HABITUAIS POR MAIS DE 30 DIAS. ABSOLVIÇÃO EM PRIMEIRO GRAU REFORMADA EM APELAÇÃO. PEDIDO DE RESTABELECIMENTO DA SENTENÇA. REEXAME DE PROVAS VEDADO PELA SÚMULA N. 7/STJ. ALEGADA VIOLAÇÃO DO ART. 155 DO CPP. CONDENAÇÃO APOIADA EM LAUDO PERICIAL E EM ELEMENTOS COLHIDOS SOB O CONTRADITÓRIO. DIVERGÊNCIA JURISPRUDENCIAL SEM COTEJO ANALÍTICO E COM PARADIGMA PROFERIDO EM HABEAS CORPUS. PENA-BASE CALCULADA SOBRE MÍNIMO DE 2 ANOS NÃO PREVISTO NO PRECEITO SECUNDÁRIO DO ART. 129, § 1º, DO CÓDIGO PENAL. ERRO MATERIAL EVIDENTE. DESPROVIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravos em recurso especial interpostos pelos réus RODRIGO e WILLIAN contra decisão que inadmitiu o recurso especial, interposto em petição conjunta, pela Súmula n. 7/STJ e à míngua de cotejo analítico. A sentença absolveu ambos da imputação de lesão corporal grave por insuficiência de provas. O Tribunal de origem deu provimento à apelação do Ministério Público e condenou cada um à pena de 2 (dois) anos de reclusão, em regime aberto, pelas agressões com socos e chutes que causaram à vítima fraturas no braço e na costela, com incapacidade para as ocupações habituais por mais de 30 (trinta) dias.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se (i) o pedido de restabelecimento da absolvição dispensa o reexame de provas; (ii) a condenação se apoiou exclusivamente em elementos do inquérito, em violação do art. 155 do CPP; e (iii) o dissídio jurisprudencial foi demonstrado.
+  > III. Razões de decidir
+  > 3. Os agravos impugnaram especificamente os fundamentos da decisão de inadmissão e devem ser conhecidos.
+  > 4. O acórdão recorrido afastou as contradições apontadas na sentença. Apoiou-se no relato da vítima corroborado pelo laudo pericial e desacreditou a versão de legítima defesa pela ausência de lesões nos réus. Rever essa conclusão para restabelecer a absolvição exige reexame de provas, vedado pela Súmula n. 7/STJ.
+  > 5. O dissídio jurisprudencial não se demonstra pela mera transcrição de ementa, sem cotejo analítico, nem por paradigma proferido em habeas corpus.
+  > 6. Não há violação do art. 155 do CPP. A condenação apoiou-se em laudo pericial e em prova produzida em juízo, inclusive nos interrogatórios em que os réus admitiram ter participado da refrega. A narrativa do boletim de ocorrência foi tida por dissociada da realidade e não fundamentou a condenação.
+  > 7. Há erro material na dosimetria. O Tribunal de origem tomou 2 (dois) anos como mínimo legal, mas o art. 129, § 1º, do CP comina reclusão de 1 (um) a 5 (cinco) anos. Refeito o cálculo com os critérios do próprio acórdão, a pena de cada réu fica em 1 (um) ano de reclusão. A prescrição não se consumou.
+  > IV. Dispositivo
+  > 8. Agravos conhecidos para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. Ordem concedida de ofício para redimensionar a pena de cada agravante para 1 (um) ano de reclusão.
+  > (AREsp n. 3.425.934/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 4. AREsp nº 3255904 / RO (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Execução penal
+- Resumo: O requisito do art. 7º, parágrafo único, do Decreto 12.338/2024 considera o tempo total de pena cumprida, sem exigir ordem cronológica das guias. Indulto restabelecido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3255904.pdf
+- Ementa oficial:
+  > EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. INDULTO DO DECRETO N. 12.338/2024. CONDENAÇÕES POR CRIMES COMUNS E POR DELITOS IMPEDITIVOS DE VIOLÊNCIA DOMÉSTICA SOMANDO 2 (DOIS) MESES E 24 (VINTE E QUATRO) DIAS. 7 (SETE) ANOS, 2 (DOIS) MESES E 23 (VINTE E TRÊS) DIAS RESGATADOS ATÉ 25/12/2024. SUPOSTA AUSÊNCIA DE IMPUGNAÇÃO DA SÚMULA N. 83/STJ. ÓBICE ENFRENTADO COM PRECEDENTE CONTEMPORÂNEO E DISTINÇÃO DA TESE. REVALORAÇÃO DE PREMISSAS INCONTROVERSAS. FRAÇÃO DE 2/3 DO ART. 7º, PARÁGRAFO ÚNICO, DO DECRETO N. 12.338/2024 TIDA POR NÃO ALCANÇADA COM BASE NA LINHA DO TEMPO DO SEEU. ORDEM CRONOLÓGICA DE EXECUÇÃO SEM PREVISÃO NO ATO DE CLEMÊNCIA. REQUISITO OBJETIVO AFERIDO PELO TOTAL DE PENA CUMPRIDA. PRESSUPOSTOS PARA O INDULTO ATENDIDOS. PROVIMENTO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pela defesa contra decisão que inadmitiu o recurso especial pela Súmula n. 83/STJ. O recurso especial impugna acórdão que, em agravo em execução do Ministério Público, cassou o indulto do art. 9º, VIII, do Decreto n. 12.338/2024. O apenado cumpre penas por crimes comuns e por delitos impeditivos de violência doméstica, estes somando 2 (dois) meses e 24 (vinte e quatro) dias. Até 25/12/2024, resgatou 7 (sete) anos, 2 (dois) meses e 23 (vinte e três) dias. O Tribunal de origem entendeu que, segundo a linha do tempo do SEEU, ele cumprira apenas 1 (um) dia da pena impeditiva.
+  > II. Questão em discussão
+  > 2. Há duas questões em discussão: (i) saber se o agravo impugnou especificamente a Súmula n. 83/STJ; e (ii) saber se a fração de 2/3 da pena do crime impeditivo, exigida pelo art. 7º, parágrafo único, do Decreto n. 12.338/2024, se afere pela ordem cronológica de execução das guias ou pelo tempo total de pena cumprida.
+  > III. Razões de decidir
+  > 3. O agravo enfrentou o único fundamento da decisão de inadmissão. Sustentou que o recurso especial não discute a exigência dos 2/3, mas o critério de sua aferição, e invocou precedente contemporâneo da Quinta Turma. A restrição ao acórdão de habeas corpus como paradigma diz respeito à divergência da alínea “c”, não manejada no caso.
+  > 4. A controvérsia é jurídica. As penas e o tempo cumprido são premissas incontroversas, fixadas pelo juízo da execução e admitidas pelo Ministério Público. Sua revaloração não esbarra na Súmula n. 7/STJ.
+  > 5. O decreto manda somar as penas e exige o cumprimento de 2/3 da pena do crime impeditivo. Não impõe, porém, ordem de execução das guias. O requisito afere-se pelo confronto do tempo total cumprido com a soma das frações de cada grupo de crimes. A ordem cronológica do art. 76 do CP não disciplina os critérios do decreto presidencial.
+  > 6. O acórdão condicionou o indulto à distribuição do tempo cumprido feita pela linha do tempo do SEEU. Criou, assim, requisito não previsto no decreto. Os 7 (sete) anos, 2 (dois) meses e 23 (vinte e três) dias cumpridos superam a fração de 2/3 da pena impeditiva, equivalente a 1 (um) mês e 26 (vinte e seis) dias. Os demais requisitos reconhecidos pelo juízo da execução não foram impugnados.
+  > IV. Dispositivo
+  > 7. Agravo conhecido para dar provimento ao recurso especial.
+  > (AREsp n. 3.255.904/RO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 5. AREsp nº 3372006 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Violência doméstica · Dosimetria
+- Resumo: A reincidência específica, como único fundamento, não justifica aumento acima de 1/6 sem fundamentação concreta e excepcional (Tema 1.172/STJ). Pena da lesão corporal reduzida; condenação e regime mantidos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3372006.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL CONTRA MULHER POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO, AMEAÇA E VIAS DE FATO. RÉU QUE AGREDIU AS FILHAS EM VIA PÚBLICA E AS AMEAÇOU DE MORTE, ASSIM COMO A EX-COMPANHEIRA. CONTROVÉRSIA DE DIREITO SOBRE PREMISSAS INCONTROVERSAS. REINCIDÊNCIA ESPECÍFICA ÚNICA QUE ELEVOU A PENA INTERMEDIÁRIA EM 1/5. ACÓRDÃO QUE MANTEVE O AUMENTO SOB A PREMISSA EQUIVOCADA DE QUE SERIA DE 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. APLICAÇÃO DO TEMA N. 1.172/STJ. PROVIMENTO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pelo réu contra decisão que inadmitiu o recurso especial por ausência de prequestionamento, com base nas Súmulas n. 282 e 356/STF, e por necessidade de reexame de provas, nos termos da Súmula n. 7/STJ. O recurso especial impugna acórdão do Tribunal de Justiça do Estado de São Paulo que manteve a condenação do réu pela lesão corporal praticada contra uma filha por razões da condição do sexo feminino, pelas ameaças de morte dirigidas às filhas e à ex-companheira e pelas vias de fato contra a outra filha, em fatos ocorridos em 17/11/2024. Pelo crime de lesão corporal, a pena foi fixada em 2 (dois) anos, 9 (nove) meses e 18 (dezoito) dias de reclusão, em regime inicial semiaberto, com aumento de 1/5 na segunda fase pela reincidência específica.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se o agravo impugnou especificamente os fundamentos da decisão de inadmissão e se a reincidência específica, como único fundamento, justifica o aumento da pena intermediária em fração superior a 1/6.
+  > III. Razões de decidir
+  > 3. O agravo enfrentou de modo específico os dois fundamentos da decisão de inadmissão. Demonstrou que o acórdão recorrido emitiu juízo de valor sobre a fração da reincidência e que a controvérsia se resolve pelas premissas incontroversas da sentença e do acórdão.
+  > 4. A matéria foi prequestionada. O Tribunal de origem examinou a fração da agravante e manteve a dosimetria da sentença, ainda que sob a premissa equivocada de que o aumento seria de 1/6. A revaloração jurídica de fatos incontroversos não esbarra na Súmula n. 7/STJ.
+  > 5. Segundo o Tema n. 1.172/STJ, a reincidência específica como único fundamento somente justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso.
+  > 6. A sentença elevou a pena intermediária do crime de lesão corporal em 1/5 apenas porque a recidiva seria específica, sem indicar dado concreto que demonstrasse excepcionalidade. Aplicada a fração de 1/6 à pena-base de 2 (dois) anos e 4 (quatro) meses de reclusão, a pena definitiva desse crime fica em 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, mantidos o regime inicial semiaberto e as demais penas.
+  > IV. Dispositivo
+  > 7. Agravo conhecido para dar provimento ao recurso especial.
+  > (AREsp n. 3.372.006/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 6. AREsp nº 3226434 / AL (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Organização criminosa · Falsidade ideológica · Prescrição · Dosimetria
+- Resumo: No concurso de crimes, a prescrição incide sobre a pena de cada um (art. 119 do CP): extinta de ofício a da falsidade ideológica do líder. Afastada a soma das penas, regime aberto e restritivas de direitos para as penas remanescentes de réus sem antecedentes e com pena-base mínima. Condenação por organização criminosa mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3226434.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVOS EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA E FALSIDADE IDEOLÓGICA. EMPRESAS DE FACHADA EM NOME DE TESTAS DE FERRO PARA EMISSÃO DE NOTAS FISCAIS GRACIOSAS QUE SOMARAM R$ 10,4 MILHÕES. FUNDAMENTO DA DECISÃO DE INADMISSÃO NÃO IMPUGNADO POR UM DOS RECORRENTES. PEDIDOS DE ABSOLVIÇÃO. REEXAME DE PROVAS VEDADO PELA SÚMULA N. 7/STJ. ALEGADA APLICAÇÃO RETROATIVA DA LEI N. 12.850/2013. CRIME PERMANENTE PROLONGADO ATÉ DEZEMBRO DE 2013. LEI MAIS GRAVE APLICÁVEL PELA SÚMULA N. 711/STF. PRESCRIÇÃO DO FALSO AFERIDA ISOLADAMENTE. REGIME ABERTO E SUBSTITUIÇÃO DA REPRIMENDA PARA RÉUS SEM ANTECEDENTES COM PENA-BASE NO MÍNIMO LEGAL. DESPROVIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravos em recurso especial interpostos por três réus contra decisão que inadmitiu os recursos especiais. VICTOR foi condenado como líder de organização criminosa que usava empresas de fachada em nome de testas de ferro. As empresas emitiam notas fiscais ideologicamente falsas que somaram R$ 10.492.886,60. SILVÂNIO, contador, e SÉRGIO respondiam pela abertura das empresas.
+  > 2. VICTOR recebeu a pena de 5 (cinco) anos e 2 (dois) meses de reclusão, em regime semiaberto. Dela, 1 (um) ano e 8 (oito) meses correspondem à falsidade ideológica. SILVÂNIO e SÉRGIO receberam 4 (quatro) anos e 8 (oito) meses de reclusão, em regime semiaberto. O Tribunal de origem declarou prescrita a falsidade ideológica somente quanto a SILVÂNIO e SÉRGIO. A inadmissão aplicou a Súmula n. 284/STF a SILVÂNIO e SÉRGIO e a Súmula n. 7/STJ a VICTOR.
+  > II. Questão em discussão
+  > 3. Há quatro questões em discussão: (i) saber se os agravos impugnaram especificamente os fundamentos da decisão de inadmissão; (ii) saber se as teses de insuficiência de provas e de não configuração da organização criminosa dispensam o reexame do acervo probatório; (iii) saber se a condenação por organização criminosa aplicou retroativamente a Lei n. 12.850/2013; e (iv) saber se há ilegalidade flagrante na prescrição da falsidade ideológica e no regime das penas remanescentes.
+  > III. Razões de decidir
+  > 4. O agravo de SILVÂNIO não impugnou concretamente a Súmula n. 284/STF. Limitou-se a reiterar as teses de mérito do recurso especial. Incide a Súmula n. 182/STJ.
+  > 5. Os agravos de VICTOR e SÉRGIO atacaram de modo específico os óbices aplicados na origem.
+  > 6. A alegada ofensa a dispositivo constitucional não se examina em recurso especial.
+  > 7. As teses de VICTOR sobre insuficiência de provas, ausência de dolo e estrutura da organização contrariam as premissas fáticas do acórdão. Revê-las exigiria reexame de provas, vedado pela Súmula n. 7/STJ. A divergência jurisprudencial não foi demonstrada por cotejo analítico.
+  > 8. A organização criminosa é crime permanente. O acórdão fixou que a atuação do grupo perdurou até dezembro de 2013, após a vigência da Lei n. 12.850/2013. Aplica-se a lei mais grave, conforme a Súmula n. 711/STF.
+  > 9. No concurso de crimes, a prescrição incide sobre a pena de cada um, isoladamente (art. 119 do CP). A pena de 1 (um) ano e 8 (oito) meses de reclusão imposta a VICTOR pela falsidade ideológica prescreve em 4 anos. Esse prazo transcorreu entre o recebimento da denúncia, em 13/9/2018, e a publicação da sentença, em 10/10/2023.
+  > 10. Extinta a punibilidade da falsidade, restam 3 (três) anos e 6 (seis) meses de reclusão para VICTOR e 3 (três) anos de reclusão para SILVÂNIO e SÉRGIO. Os réus não têm antecedentes e tiveram a pena-base fixada no mínimo. O regime semiaberto e a recusa da substituição apoiaram-se apenas na soma das penas. Impõem-se o regime aberto e a substituição por penas restritivas de direitos.
+  > IV. Dispositivo
+  > 11. Agravo de SILVÂNIO não conhecido. Agravo de VICTOR conhecido e recurso especial não conhecido. Agravo de SÉRGIO conhecido e recurso especial conhecido em parte e, nessa extensão, desprovido. Ordem concedida de ofício aos três agravantes.
+  > (AREsp n. 3.226.434/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 7. AREsp nº 3121786 / DF (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Organização criminosa · Falsificação de documento público · Dosimetria
+- Resumo: Aliciamento e adesão ao grupo já valorados não podem pesar de novo na pena-base ou na agravante do art. 62, IV, do CP (bis in idem); no crime continuado, a multa segue o art. 71, e não o art. 72. Agravos não conhecidos; penas de três rés corrigidas de ofício, com extensão da multa a corréu.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3121786.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVOS EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. GRUPO QUE RECRUTAVA PESSOAS PARA ABRIR CONTAS BANCÁRIAS COM IDENTIDADES FALSAS DE TERCEIROS E OBTER CARTÕES E EMPRÉSTIMOS. RECURSOS ESPECIAIS INADMITIDOS POR EXIGIREM REEXAME DE PROVAS VEDADO PELA SÚMULA N. 7/STJ. IMPUGNAÇÃO GENÉRICA OU DISSOCIADA DESSE FUNDAMENTO. ILEGALIDADES FLAGRANTES NA DOSIMETRIA. ALICIAMENTO DE AMIGAS E DA PRÓPRIA MÃE VALORADO NA PENA-BASE E NA AGRAVANTE DO ART. 62, I, DO CP. ADESÃO REMUNERADA AO GRUPO JÁ PUNIDA PELA ORGANIZAÇÃO CRIMINOSA E REPETIDA NO ART. 62, IV, DO CP. BIS IN IDEM EM AMBOS OS CASOS. MULTA DO CRIME CONTINUADO INDEVIDAMENTE SOMADA NA FORMA DO ART. 72 DO CP. EXTENSÃO A CORRÉU QUE NÃO RECORREU. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravos em recurso especial interpostos por PAULO, JESSICA, ELIANE, GLEIDIANE e LOUHANY contra decisões que inadmitiram os recursos especiais pela incidência da Súmula n. 7/STJ. Os réus foram condenados por integrar organização criminosa que recrutava pessoas para abrir contas bancárias com dados de terceiros e documentos falsos, com o objetivo de obter cartões de crédito e empréstimos, e por falsificação de documento público. PAULO recebeu 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado. JESSICA recebeu 7 (sete) anos e 2 (dois) meses de reclusão. GLEIDIANE, ELIANE e LOUHANY receberam penas entre 5 (cinco) e 6 (seis) anos de reclusão.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se os agravos impugnaram, de forma específica, o fundamento das decisões de inadmissão e se há flagrante ilegalidade na dosimetria que autorize a concessão de habeas corpus de ofício, com extensão a corréu que não recorreu.
+  > III. Razões de decidir
+  > 3. Não se conhece do agravo que deixa de impugnar, de forma específica, todos os fundamentos da decisão de inadmissão (art. 932, III, do CPC; art. 253, parágrafo único, I, do RISTJ; Súmula n. 182/STJ). A impugnação da Súmula n. 7/STJ exige que se demonstre, tese a tese, que a solução prescinde do reexame de provas, com a indicação das premissas fáticas incontroversas do acórdão.
+  > 4. O agravo de PAULO trata da lavagem de capitais, crime do qual foi absolvido, e não da quebra da cadeia de custódia, única tese do seu recurso especial. O de JESSICA combate decisão proferida no recurso de outro réu e fundamento que não foi adotado na decisão que inadmitiu o seu recurso. Os de ELIANE, GLEIDIANE e LOUHANY afirmam genericamente a revaloração jurídica dos fatos e reiteram a discussão sobre a prova da estabilidade e da permanência do vínculo associativo.
+  > 5. Na dosimetria dos crimes de falsificação praticados por JESSICA, o aliciamento de amigas e da própria mãe para o fornecimento de fotografias e assinaturas negativou as circunstâncias do crime e também sustentou a agravante do art. 62, I, do CP. A dupla valoração configura bis in idem, e a vetorial é afastada.
+  > 6. ELIANE e LOUHANY passaram a responder por organização criminosa pela adesão remunerada ao grupo. O mesmo fato foi de novo valorado, nos crimes de falsificação, na agravante do art. 62, IV, do CP. O próprio Tribunal de origem afastou, pela mesma razão, a culpabilidade negativa. A agravante é decotada. Para ELIANE, a confissão não reduz a pena abaixo do mínimo legal, nos termos da Súmula n. 231/STJ.
+  > 7. No crime continuado, a multa segue a exasperação do art. 71 do CP, e não a soma do art. 72, restrita aos concursos material e formal. As penas ficam em 6 (seis) anos e 4 (quatro) meses de reclusão e 26 (vinte e seis) dias-multa para JESSICA e em 5 (cinco) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão e 22 (vinte e dois) dias-multa para ELIANE e para LOUHANY, no regime inicial semiaberto.
+  > 8. A correção da multa estende-se ao corréu WELLINGTON, que não recorreu, por não se fundar em motivo de caráter exclusivamente pessoal (art. 580 do CPP). A multa dele passa a 23 (vinte e três) dias-multa.
+  > IV. Dispositivo
+  > 9. Agravos de PAULO e GLEIDIANE não conhecidos. Agravos de JESSICA, ELIANE e LOUHANY não conhecidos, com ordem concedida de ofício para redimensionar as penas. Efeitos estendidos a WELLINGTON quanto à pena de multa.
+  > (AREsp n. 3.121.786/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 8. AREsp nº 3323852 / MG (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Roubo · Dosimetria
+- Resumo: Perda de celular de cerca de R$ 1 mil, não recuperado, é consequência ordinária do roubo e não autoriza negativar as consequências (art. 59 do CP): o prejuízo patrimonial só eleva a pena-base quando exacerbado. Agravo não conhecido; pena reduzida de ofício, regime fechado mantido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3323852.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO SIMPLES. APARELHO CELULAR DE CERCA DE R$ 1 MIL SUBTRAÍDO DE VÍTIMA EM VIA PÚBLICA E NÃO RECUPERADO. RECURSO ESPECIAL INADMITIDO PELA FALTA DE PREQUESTIONAMENTO DAS NULIDADES ALEGADAS. IMPUGNAÇÃO GENÉRICA LIMITADA A AFIRMAR O DEBATE DA MATÉRIA NA ORIGEM E A ATACAR ÓBICES NÃO APLICADOS. INCIDÊNCIA DA SÚMULA N. 182/STJ. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME NEGATIVADAS PELA MERA NÃO RESTITUIÇÃO DO BEM. PREJUÍZO INERENTE AO TIPO. ILEGALIDADE FLAGRANTE. PENA REDIMENSIONADA. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pelo réu contra decisão que inadmitiu o recurso especial pela ausência de prequestionamento, com base nas Súmulas n. 282 e 356/STF.
+  > 2. O réu foi condenado por roubo simples. Mediante violência e grave ameaça, subtraiu o aparelho celular de uma vítima que caminhava em via pública. O Tribunal de origem fixou a pena em 7 (sete) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime fechado, e 26 (vinte e seis) dias-multa. Manteve negativas as vetoriais dos antecedentes e das consequências do crime, esta pela não restituição do celular, de cerca de R$ 1.000,00.
+  > 3. O recurso especial sustentou a nulidade do reconhecimento pessoal por ofensa ao art. 226 do CPP. Alegou também cerceamento de defesa pela retirada do réu da audiência virtual durante a oitiva da vítima.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se o agravo impugnou de forma específica o fundamento da decisão de inadmissão; e (ii) saber se há ilegalidade flagrante na valoração negativa das consequências do crime apta à concessão de habeas corpus de ofício.
+  > III. Razões de decidir
+  > 5. A decisão de inadmissão deve ser impugnada em sua integralidade. A falta de impugnação específica de seu fundamento impede o conhecimento do agravo, nos termos da Súmula n. 182/STJ.
+  > 6. O agravo limitou-se a afirmar que o acórdão recorrido enfrentou as nulidades. Não indicou o trecho em que isso teria ocorrido. No mais, atacou óbices que a decisão agravada não aplicou, como a Súmula n. 7/STJ e a falta de cotejo analítico.
+  > 7. O valor do prejuízo, nos crimes patrimoniais, somente autoriza a exasperação da pena-base quando exacerbado. A perda de um celular de cerca de R$ 1.000,00 é consequência ordinária do roubo.
+  > 8. Afastada a vetorial, a pena-base é reduzida segundo o critério adotado pelo Tribunal de origem. A pena definitiva fica em 6 (seis) anos, 3 (três) meses e 10 (dez) dias de reclusão e 20 (vinte) dias-multa. Mantém-se o regime fechado diante da reincidência e dos maus antecedentes.
+  > IV. Dispositivo
+  > 9. Agravo em recurso especial não conhecido. Ordem concedida de ofício.
+  > (AREsp n. 3.323.852/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 9. AgRg no AREsp nº 3365478 / AP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Estelionato
+- Resumo: A citação por WhatsApp só vale com identificação segura do destinatário e ciência inequívoca, aferidas pela finalidade e pela falta de prejuízo; a ausência de contato entre a Defensoria e o réu demonstrou o prejuízo. Nulidade da citação mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3365478.pdf
+- Ementa oficial:
+  > PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. CITAÇÃO POR WHATSAPP. CERTIDÃO DO OFICIAL DE JUSTIÇA QUE NÃO INDICA O PROCEDIMENTO ADOTADO PARA IDENTIFICAR O CITANDO. AUTENTICIDADE DO DESTINATÁRIO E CIÊNCIA INEQUÍVOCA NÃO DEMONSTRADAS. DEFENSORIA PÚBLICA QUE NÃO LOGROU CONTATAR O ACUSADO. PREJUÍZO EVIDENCIADO. NULIDADE MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A citação por aplicativo de mensagens é válida quando demonstradas a identificação segura do destinatário e a ciência inequívoca do ato, aferindo-se sua validade pelo atingimento da finalidade e pela inexistência de prejuízo à defesa.
+  > 2. No caso, o Tribunal de origem consignou que a certidão do oficial de justiça se limitou a registrar que o réu foi citado por telefone e que lhe foi enviada a contrafé por WhatsApp para determinado número, sem a juntada de qualquer documento apto a comprovar o recebimento e sem a indicação do procedimento adotado para verificar a identidade do interlocutor. Assentou, ainda, que o acusado foi representado pela Defensoria Pública ante sua inércia, não foi localizado para a audiência de instrução e somente foi intimado pessoalmente após a sentença condenatória.
+  > 3. A fé pública da certidão alcança os atos nela descritos, mas, na espécie, a certidão não descreve elemento algum de autenticação do destinatário.
+  > 4. O prejuízo foi concretamente demonstrado, uma vez que a Defensoria Pública, nomeada em razão da ausência de manifestação do réu, não conseguiu contatá-lo para a resposta à acusação, ficando a defesa impossibilitada de arrolar testemunhas e apresentar documentos. A posterior constituição de advogado, apenas para a interposição de apelação contra a sentença condenatória, não supre a ausência de ciência inequívoca no momento da citação.
+  > 5. Agravo regimental não provido.
+  > (AgRg no AREsp n. 3.365.478/AP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 10. ARE nº 1.632.516 / CE (STF)
+- Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 13/11/2026.
+- Crime / Tema: Tribunal do Júri · Pronúncia · Reconhecimento de pessoa
+- Resumo: Recurso do MP contra a impronúncia sem seguimento, por exigir reexame de provas (Súmula 279/STF); mantido o acórdão do TJCE, que impronunciou por reconhecimento extrajudicial inválido e falta de prova autônoma judicializada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1632516.pdf
+
+## 11. HC nº 278.724 / DF (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 13/11/2026.
+- Crime / Tema: Prisão e medidas cautelares · Excesso de prazo
+- Resumo: Quase 2 anos de monitoramento eletrônico sem denúncia e sem demonstração concreta e atual de sua imprescindibilidade tornam a medida desproporcional: revogado o monitoramento, mantidas as demais cautelares, sem extensão automática a outros investigados. Ordem concedida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278724.pdf
+
+## 12. RE nº 1.631.265 / RS (STF)
+- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
+- Crime / Tema: Roubo · Execução penal
+- Resumo: A hediondez superveniente ao fato não impede o indulto: o TRF4 deve reanalisar o pedido de indulto da multa sem esse óbice. Recurso provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1631265.pdf
+
+## 13. ARE nº 1.628.737 / SP (STF)
+- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
+- Resumo: Agravo do MP em RE negado por falta de prequestionamento (Súmulas 282 e 356/STF); mantido o acórdão do STJ que restabeleceu a absolvição pelo júri.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628737.pdf
+
+## 14. ARE nº 1.630.299 / PR (STF)
+- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
+- Crime / Tema: Peculato
+- Resumo: Agravo do MP em RE negado por falta de prequestionamento (Súmula 282/STF); mantido o acórdão do TJPR que cassou a sentença por se basear em interceptação e quebra de sigilo declaradas ilícitas em HC de corréu, com nova sentença sem essa prova.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630299.pdf
+
+## 15. ARE nº 1.630.300 / RS (STF)
+- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
+- Crime / Tema: Execução penal
+- Resumo: Recurso do MP contra a progressão em prisão domiciliar sem monitoramento eletrônico desprovido, por falta de prequestionamento e reexame de fatos (Súmulas 282 e 279/STF); mantido o acórdão do TJRS.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630300.pdf
+
+## 16. EREsp nº 2211037 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 11/11/2026.
+- Resumo: Em recurso especial criminal, alegar negativa de prestação jurisdicional com base nos arts. 489, § 1º, e 1.022 do CPC não atrai, por si só, a Súmula 284/STF: o primeiro tem comando idêntico ao do art. 315, § 2º, do CPP e o segundo se aplica supletivamente ao art. 619 do CPP. Embargos providos; autos voltam à Sexta Turma, sem reconhecer omissão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-eresp-2211037.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. 1. DIVERGÊNCIA SOBRE INTERPRETAÇÃO ABSTRATA DE NORMA PROCESSUAL. ART. 1.043, III E § 2º, DO CPC. DISTINÇÃO EM RELAÇÃO AO EXAME CASUÍSTICO DE OMISSÃO. 2. ART. 489, § 1º, DO CPC. IDENTIDADE DE COMANDO COM O ART. 315, § 2º, DO CPP. ART. 1.022 DO CPC. APLICAÇÃO SUPLETIVA. ARTS. 3º E 619 DO CPP. 3. SÚMULA 284/STF. INAPLICABILIDADE. RETORNO DOS AUTOS À TURMA DE ORIGEM. 4. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+  > 1. O acórdão embargado não conheceu do capítulo do recurso especial relativo à negativa de prestação jurisdicional por entender que os arts. 489, § 1º, e 1.022 do CPC não incidem no processo penal, ante a disciplina específica dos arts. 315, § 2º, 381, III, e 619 do CPP, a atrair a Súmula 284/STF. Embora os embargos de divergência não se prestem a rediscutir a aplicação de regra técnica de admissibilidade nem a verificar, caso a caso, a ocorrência de omissão, a controvérsia, no caso, antecede o juízo concreto de admissibilidade e versa sobre a interpretação de normas processuais federais abstratamente consideradas, hipótese contemplada pelo art. 1.043, III e § 2º, do CPC.
+  > - A Corte Especial admite embargos de divergência quando o dissenso recai sobre a própria interpretação da regra processual, e não sobre sua aplicação ao caso concreto (AgInt nos EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 4/3/2020, DJe de 17/9/2020), tendo dado provimento, em matéria criminal, a embargos opostos contra acórdão da Sexta Turma que não conhecera de agravo em recurso especial por intempestividade, para reconhecer justa causa nos termos do art. 223, § 1º, do CPC (EAREsp n. 2.068.662/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 20/5/2026, DJEN de 26/5/2026).
+  > - Divergência demonstrada com acórdãos da Quinta Turma que aplicam os arts. 489, § 1º, e 1.022 do CPC, em conjunto com os arts. 315 e 619 do CPP e por força do art. 3º deste diploma, para examinar no mérito alegações de negativa de prestação jurisdicional em recursos criminais (AgRg no AREsp n. 2.680.396/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 5/5/2026, DJEN de 12/5/2026; AgRg no REsp n. 2.268.972/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/8/2026, DJEN de 13/8/2026). Inaplicabilidade da Súmula 168/STJ, ante a atualidade do dissenso e a existência de julgados da própria Sexta Turma no mesmo sentido dos paradigmas.
+  > 2. A Terceira Seção assentou que se aplica o Código de Processo Civil ao processo penal quando este for omisso sobre determinada matéria (REsp n. 1.568.445/PR, relator Ministro Rogerio Schietti Cruz, relator para acórdão Ministro Ribeiro Dantas, Terceira Seção, julgado em 24/6/2020, DJe de 20/8/2020). Diversamente do que ocorre com a contagem dos prazos, exaustivamente disciplinada pelo art. 798 do CPP, a existência de dispositivo processual penal sobre o mesmo tema não afasta, por si só, o suplemento do CPC quando aquele não esgota a disciplina da matéria. Entre os dispositivos do CPP invocados pelo acórdão embargado e os do CPC, não há relação de exclusão, mas de complementaridade, que se manifesta de modo distinto em relação a cada um deles.
+  > - Quanto ao art. 489, § 1º, do CPC, não há lacuna a suprir, pois o art. 315, § 2º, do CPP reproduz-lhe o conteúdo inciso por inciso, embora situado no capítulo da prisão preventiva. Trata-se de enunciados distintos que veiculam o mesmo comando normativo, de modo que a indicação de um ou de outro não altera a substância da tese recursal. "[O] regramento inserido de forma expressa no CPP já era observado na seara criminal, com fundamento no art. 489, § 1º, do CPC c/c o art. 3º do CPP" (AgRg nos EDcl no AREsp n. 1.361.814/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2020, DJe de 27/5/2020).
+  > - Quanto ao art. 1.022 do CPC, a aplicação é supletiva: o art. 619 do CPP enumera os vícios que autorizam os aclaratórios, mas não define quando a decisão deve ser considerada omissa, conceito densificado pelo art. 1.022, parágrafo único, II, do CPC, por remissão ao art. 489, § 1º.
+  > 3. A Súmula 284/STF não sanciona a escolha do diploma em que se localiza o enunciado normativo, mas a deficiência que impeça a exata compreensão da controvérsia. Quando o dispositivo indicado veicula o mesmo comando do preceito processual penal correspondente, ou o complementa, a tese recursal é plenamente inteligível, tanto que a própria Sexta Turma a compreendeu e a ela respondeu, ainda que sob a forma de juízo de admissibilidade. A indicação dos dispositivos do CPP constitui técnica mais adequada ao recurso de fundamentação vinculada, mas sua ausência não pode obstar o exame da pretensão, sob pena de "privilegiar a forma, em detrimento do conteúdo", exigência de instrumentalidade que assume relevo ainda maior no processo penal, em que está em jogo a liberdade.
+  > - O acolhimento da tese não implica reconhecimento de omissão no acórdão de origem, juízo casuístico que escapa ao âmbito dos embargos de divergência e compete ao órgão fracionário. Afastado o fundamento do não conhecimento, os autos devem retornar à Sexta Turma para prosseguimento do julgamento da matéria, ficando prejudicado o pedido subsidiário de aplicação do direito à espécie. O pedido de preservação da cláusula que condiciona a execução da pena ao trânsito em julgado não integra a divergência submetida à Seção.
+  > 4. Embargos de divergência providos para afastar o óbice da Súmula 284/STF no capítulo relativo à negativa de prestação jurisdicional e determinar o retorno dos autos à Sexta Turma, com a fixação da seguinte tese: "Em recurso especial criminal, a alegação de negativa de prestação jurisdicional fundada nos arts. 489, § 1º, e 1.022 do Código de Processo Civil não atrai, por si só, o óbice da Súmula 284/STF, porquanto o primeiro veicula comando idêntico ao do art. 315, § 2º, do Código de Processo Penal, e o segundo aplica-se supletivamente ao processo penal, por força do art. 3º deste diploma, para densificar o conceito de omissão previsto em seu art. 619".
+  > (EREsp n. 2.211.037/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 5/11/2026, DJEN de 11/11/2026.)
+
+## 17. AgRg no AREsp nº 3331551 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 11/11/2026.
+- Crime / Tema: Estelionato · Prescrição
+- Resumo: Esgotado o limite da suspensão do prazo prescricional pelo art. 366 do CPP (máximo da pena cominada, Súmula 415/STJ), a prescrição volta a correr e, pela pena em concreto, consumou-se antes da sentença. Agravo intempestivo; punibilidade extinta de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3331551.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE 15 DIAS CORRIDOS. ART. 798 DO CPP. INTEMPESTIVIDADE RECONHECIDA PELA PRÓPRIA DEFESA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CITAÇÃO POR EDITAL. SUSPENSÃO DO PRAZO PRESCRICIONAL (ART. 366 DO CPP). LIMITE MÁXIMO. SÚMULA 415/STJ. PENA EM CONCRETO. PRAZO DE QUATRO ANOS. LAPSO CONSUMADO ANTES DA SENTENÇA CONDENATÓRIA. ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+  > 1. Intimada a defesa da decisão de inadmissão do recurso especial em 4/5/2026, o agravo em recurso especial foi interposto apenas em 21/5/2026, fora do prazo de 15 dias corridos previsto no art. 994, VIII, c/ c os arts. 1.003, § 5º, e 1.042 do CPC, e no art. 798 do CPP. A intempestividade é reconhecida pelo próprio agravante e não foi comprovada causa de suspensão ou prorrogação do prazo, de modo que se mantém o não conhecimento do recurso.
+  > 2. A intempestividade do recurso não impede o exame, de ofício, de ilegalidade flagrante. Nos termos da Súmula 415/STJ, o período de suspensão do prazo prescricional decorrente do art. 366 do CPP é regulado pelo máximo da pena cominada, segundo as regras do art. 109 do Código Penal.
+  > 3. No caso, o recebimento da denúncia por estelionato (art. 171, caput, do CP, pena máxima de 5 anos) ocorreu em 5/11/2007, e o processo e o prazo prescricional foram suspensos em 10/7/2008, com fundamento no art. 366 do CPP. A suspensão do prazo prescricional estava limitada a 12 anos (art. 109, III, do CP), esgotando-se em 10/7/2020, data a partir da qual a prescrição voltou a correr, ainda que o processo tenha permanecido formalmente suspenso até 24/3/2023.
+  > 4. Fixada a pena definitiva em 1 ano, 4 meses e 10 dias de reclusão, com trânsito em julgado para a acusação, o prazo prescricional é de 4 anos (art. 109, V, c/c o art. 110, § 1º, do CP), não influindo a reincidência no prazo da prescrição da pretensão punitiva (Súmula 220/STJ). Entre 10/7/2020 e a publicação da sentença condenatória, em 19/8/2025, transcorreram mais de 4 anos, consumando-se a prescrição da pretensão punitiva, na modalidade retroativa.
+  > 5. Agravo regimental não provido. Habeas corpus concedido de ofício para declarar extinta a punibilidade do agravante, pela prescrição da pretensão punitiva, nos termos do art. 107, IV, do Código Penal.
+  > (AgRg no AREsp n. 3.331.551/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/11/2026, DJEN de 11/11/2026.)
+
+## 18. RE nº 1.612.829 / SP (STF)
+- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 11/11/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima isolada, sem investigação prévia, e autorização de ingresso negada pela mãe do réu não configuram fundadas razões (Tema 280/STF). Absolvição mantida por maioria; recurso do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1612829.pdf
+- Ementa oficial:
+  > DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO. CONDENAÇÃO POR CRIME DE TRÁFICO DE DROGAS. AUSÊNCIA DE FUNDADAS RAZÕES PARA O INGRESSO NO DOMICÍLIO. DENÚNCIA ANÔNIMA E AUTORIZAÇÃO DESMENTIDA. RECURSO DESPROVIDO.
+  > I. CASO EM EXAME Trata-se de recurso extraordinário contra acórdão do STJ que manteve negou agravo regimental e manteve a absolvição do recorrido, acusado de tráfico de drogas, tendo em vista a entrada domiciliar dos policiais não precedida de mandado e desprovida de fundadas razões.
+  > II. QUESTÕES EM DISCUSSÃO Verificar se estão presentes os óbices ao conhecimento e eventual provimento do recurso e se, de fato, o acórdão recorrido violou frontalmente os dispositivos constitucionais invocados.
+  > III. RAZÕES DE DECIDIR Consoante entendimento do Plenário desta Suprema Corte, assentado no julgamento do Tema nº 280 do ementário da Repercussão Geral, nos crimes de natureza permanente — como neste caso, o tráfico de drogas, cuja consumação e consequente flagrância se prolongam no tempo —, é dispensável o mandado judicial para o ingresso forçado na residência do acusado, desde que presentes fundadas razões, as quais devem ser justificadas a posteriori. Assim, afora a controversa autorização de entrada na residência pela mãe do recorrido, rechaçada pelo STJ, constata-se que, de fato, não houve investigação prévia, campana, visualização prévia do réu, atitude suspeita, tentativa de fuga. A denúncia anônima restou isolada. A mãe do réu negou a autorização de entrada, restando isoladas as palavras dos policiais, sem qualquer elemento de corroboração.
+  > IV. DISPOSITIVO E TESE Recurso extraordinário ao qual se nega provimento.
+  > (STF, RE n. 1.612.829/SP, relator Ministro André Mendonça, Segunda Turma, julgado em 19/10/2026, DJe de 11/11/2026.)
+
+## 19. ARE nº 1.607.672 / CE (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 11/11/2026.
+- Crime / Tema: Homicídio qualificado · Prisão e medidas cautelares · Excesso de prazo
+- Resumo: Recurso do MP contra a substituição da preventiva por cautelares, após cerca de 7 anos e meio sem júri, sem seguimento: matéria infraconstitucional e Súmula 279/STF.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1607672.pdf
+
+## 20. RE nº 1.630.580 / SC (STF)
+- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 11/11/2026.
+- Crime / Tema: Associação para o tráfico · ANPP
+- Resumo: Em processo sem trânsito em julgado, cabe ao MP avaliar, motivadamente, o ANPP (HC 185.913/MS): RE de um réu provido e autos à PGR. Agravo do corréu desprovido: transcrição integral e perícia de voz das interceptações dispensáveis e Súmula 279/STF quanto à associação.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1630580.pdf
+
+## 21. REsp nº 2286191 / RJ (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 10/11/2026.
+- Crime / Tema: Violência doméstica · Dosimetria
+- Resumo: A agravante do art. 61, II, f, do CP não se cumula com a qualificadora do art. 129, § 13 (bis in idem); o Tema 1.197/STJ só alcança o § 9º. Recurso provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2286191.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. LESÃO CORPORAL QUALIFICADA (ART. 129, § 13, DO CP). IMPOSSIBILIDADE DE CUMULAÇÃO DA AGRAVANTE GENÉRICA DO ART. 61, II, F, COM A QUALIFICADORA DO § 13. BIS IN IDEM. PROPORCIONALIDADE E ESPECIALIDADE. INAPLICABILIDADE DO TEMA REPETITIVO 1.197/STJ.
+  > 1. A controvérsia cinge-se à compatibilidade, na dosimetria, da agravante genérica prevista no art. 61, II, f, do Código Penal com a qualificadora do art. 129, § 13, do Código Penal. O acórdão recorrido admitiu a cumulação, sob o fundamento de que os dispositivos teriam âmbitos de tutela distintos.
+  > 2. Afasta-se a cumulação por configurar dupla valoração da mesma circunstância fático-normativa – violência de gênero contra a mulher em contexto doméstico ou familiar – já integrada como elementar do tipo qualificado do art. 129, § 13, do Código Penal, o que viola os princípios da proporcionalidade, da especialidade e da vedação do bis in idem.
+  > 3. O Tema Repetitivo 1.197/STJ, que admite a incidência da agravante do art. 61, II, f, com o art. 129, § 9º, do Código Penal, não se aplica às hipóteses do § 13, pois, neste, a condição de mulher e a violência de gênero constituem elementares do tipo, de modo que a mesma circunstância não pode ser novamente agravada.
+  > 4. Recurso especial provido para decotar a agravante do art. 61, II, f, do Código Penal e redimensionar a pena.
+  > (REsp n. 2.286.191/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/11/2026, DJEN de 10/11/2026.)
+
+## 22. RHC nº 243744 / DF (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/11/2026.
+- Crime / Tema: Lavagem de dinheiro · Inépcia da denúncia
+- Resumo: Autolavagem exige atos autônomos de ocultação; denúncia que descreve só o exaurimento do crime antecedente é inepta. Processo trancado quanto à lavagem, sem prejuízo de nova denúncia.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243744.pdf
+- Ementa oficial:
+  > RECURSO ORDINÁRIO EM HABEAS CORPUS. LAVAGEM DE CAPITAIS. INÉPCIA DA DENÚNCIA. AUTOLAVAGEM. AUSÊNCIA DE ATOS AUTÔNOMOS DE OCULTAÇÃO OU DISSIMULAÇÃO. CONFIGURAÇÃO. RECURSO ORDINÁRIO PROVIDO.
+  > 1. A jurisprudência desta Corte Superior assenta que a autolavagem é possível desde que demonstrados atos diversos e autônomos, em relação ao crime antecedente, voltados a ocultar ou dissimular a origem do proveito ilícito, e não se admite o mero prolongamento do iter criminis do delito antecedente. Precedentes.
+  > 2. No caso concreto, verifica-se que a denúncia imputou aos recorrentes, na qualidade de sócios-administradores da pessoa jurídica, a "falsificação ideológica de notas fiscais" e mencionou, como artifícios de lavagem, a pessoa jurídica, as notas fiscais simuladas, o fracionamento de depósitos e a "estrutura empresarial formal", porém registrou que os pagamentos ocorreram por "transferências diretas" para a conta da própria empresa, sem interposição de terceiros ou operações estruturadas. Não descreveu nenhuma conduta autônoma e distinta do exaurimento do suposto crime antecedente apta a quebrar, dificultar ou obstar a rastreabilidade da origem e da destinação dos valores.
+  > 3. Nessa moldura, reconhece-se a inépcia da denúncia quanto ao crime de lavagem de capitais, por ausência de descrição suficiente de atos autônomos de ocultação ou dissimulação, o que compromete o exercício do contraditório e da ampla defesa e impõe o trancamento do processo, sem prejuízo de nova denúncia com observância dos requisitos legais.
+  > 4. Recurso ordinário provido.
+  > (RHC n. 243.744/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/11/2026, DJEN de 10/11/2026.)
+
+## 23. AgRg no REsp nº 2194927 / RS (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/11/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
+- Resumo: A “lei do silêncio” não autoriza pronúncia só com depoimento policial retratado em juízo e relatos indiretos, sem outro elemento judicializado que corrobore (art. 155 do CPP). Despronúncia mantida; agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2194927.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. SUFICIÊNCIA PROBATÓRIA PARA PRONÚNCIA E CONDENAÇÃO. TESTEMUNHA PRESENCIAL QUE SE RETRATOU EM JUÍZO. DEPOIMENTO INDIRETO DE POLICIAL CIVIL. AUSÊNCIA DE ELEMENTOS CORROBORATIVOS AUTÔNOMOS. VIOLAÇÃO DO ART. 155 DO CPP. DESPRONÚNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A jurisprudência do STF e desta Corte não desconhece o fenômeno da "lei do silêncio" que acomete testemunhas em crimes praticados em ambientes de criminalidade organizada. É natural que testemunhas, diante de ameaças concretas ou potenciais, recuem de seus depoimentos quando chamadas a depor em juízo.
+  > 2. Os precedentes citados pelo agravante apresentam uma característica essencial que os diferencia radicalmente do presente caso: em todos eles, havia outros elementos probatórios judicializados, independentes do depoimento retratado, que corroboravam a versão acusatória. Os precedentes do STF não autorizam a pronúncia com base exclusiva em depoimento policial retratado, apenas porque havia alegação de represálias. Autorizam a pronúncia quando, além da retratação compreensível, há outros elementos judicializados que corroborem a versão acusatória.
+  > 3. No caso concreto, não há nenhum elemento corroborativo autônomo. O quadro probatório se resume à seguinte estrutura: a) o depoimento policial da testemunha Manoela, retratado integralmente em juízo; b) o depoimento judicial do policial Celso, que narra o que Manoela lhe disse durante a fase investigativa; c) o depoimento do pai da vítima, Valdecir, que igualmente narra o que Manoela haveria dito na fase policial. Toda a cadeia probatória gravita em torno de uma única fonte de informação, a testemunha Manoela que, ouvida sob o crivo do contraditório, negou categoricamente o teor de seu depoimento policial. Não há imagens, perícias, interceptações, apreensões ou outro elemento material que corrobore, de forma independente, a autoria atribuída ao recorrente.
+  > 4. A autoria, que é o único elemento controvertido nos autos, só foi afirmada por Manoela no depoimento policial por ela retratado. O policial Celso não presenciou o crime; ele apenas narrou que Manoela, naquele momento, identificou os acusados. É precisamente nesse ponto que o seu depoimento se converte em prova indireta: para que sirva como indício de autoria, é imprescindível que se acredite no conteúdo da afirmação de Manoela, afirmação essa que ela própria revogou sob o contraditório.
+  > 5.A tentativa de manter a força probatória de um relato extrajudicial retratado por meio de testemunho indireto (de auditu) representa, na prática, burla ao comando do art. 155 do Código de Processo Penal, que veda a formação do convencimento judicial exclusivamente a partir de elementos informativos produzidos na fase investigativa. Embora a análise aprofundada das provas seja feita somente pelo Tribunal Popular, não se pode admitir a pronúncia do réu, dada a sua carga decisória, sem que haja sido atingido um standard probatório suficiente, que se situa entre o da simples preponderância de provas incriminatórias sobre as absolutórias (mera probabilidade ou hipótese acusatória mais provável que a defensiva) – típico do recebimento da denúncia – e o da certeza além de qualquer dúvida razoável (bard ou outro standard que se tenha por equivalente) – necessário somente para a condenação.
+  > 6. Exige-se para a pronúncia, portanto, elevada probabilidade de que o réu seja autor ou partícipe do delito a ele imputado (REsp n. 2.091.647/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 3/10/2023). Esse standard não foi atingido. Os únicos elementos apontados para a autoria delitiva foram extraídos do inquérito policial e infirmados quando submetidos ao contraditório. Não havia como pronunciar o acusado com base nesse acervo, tampouco como mantê-lo submetido à jurisdição do Júri após a retratação integral da única testemunha que o vinculava ao crime. A despronúncia, portanto, não importa em impunidade definitiva: impede apenas que o acusado seja levado a julgamento sem o suporte probatório mínimo exigido pelo sistema processual penal constitucional.
+  > 7. Agravo regimental não provido.
+  > (AgRg no REsp n. 2.194.927/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/11/2026, DJEN de 10/11/2026.)
+
+## 24. AgRg no AgRg no AREsp nº 3019476 / RN (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/11/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: Fama de traficante no meio policial e dados de celular declarados ilícitos não afastam o tráfico privilegiado; prova ilícita não serve nem na dosimetria. Minorante em 2/3 reconhecida no tráfico de insumo (art. 33, § 1º, I). Agravo provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3019476.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE INSUMO DESTINADO À PREPARAÇÃO DE DROGAS. REVISÃO CRIMINAL. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. AFASTAMENTO COM BASE EM DADOS DE CELULAR DECLARADOS ILÍCITOS NA PRÓPRIA AÇÃO REVISIONAL E NA FAMA DE TRAFICANTE NO MEIO POLICIAL. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL PROVIDO.
+  > 1. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+  > 2. Se a existência de ações penais sem trânsito em julgado não pode justificar a negativa da minorante, com mais razão não é idôneo o afastamento do redutor com base na mera fama de traficante que o acusado teria no meio policial, desacompanhada de registro de incursões pretéritas apuradas ou de um mínimo de provas, sobretudo quando se trata de réu primário e de bons antecedentes.
+  > 3. A prova declarada ilícita é inadmissível no processo e deve ser desentranhada; não pode, por isso, servir de fundamento para nenhum juízo desfavorável ao acusado, inclusive na dosimetria da pena.
+  > 4. Não incide a Súmula n. 7 do STJ quando o exame da controvérsia prescinde do reexame de provas e basta a revaloração jurídica de fatos incontroversos, expressamente descritos no acórdão recorrido e nas demais decisões proferidas na própria ação.
+  > 5. Agravo regimental provido.
+  > (AgRg no AgRg no AREsp n. 3.019.476/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/11/2026, DJEN de 10/11/2026.)
+
+## 25. HC nº 1113006 / PR (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 10/11/2026.
+- Crime / Tema: Execução penal · Excesso de prazo
+- Resumo: A demora irrazoável do Estado em realizar o exame criminológico obrigatório (Lei 14.843/2024) é constrangimento ilegal: o apenado não pode ficar em regime mais gravoso por falta de estrutura, situação muito similar à da SV 56. Ordem concedida para restaurar a progressão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1113006.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. CRIME COMETIDO APÓS A VIGÊNCIA DA LEI N. 14.843/2024. PRECEDENTES. DEMORA IRRAZOÁVEL NA REALIZAÇÃO DO EXAME CRIMINOLÓGICO. EXCESSO DE PRAZO. PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO. PRINCÍPIO DA INDIVIDUALIZAÇÃO DAS PENAS.
+  > 1. A norma que tornou obrigatória a realização de exame criminológico para fins de progressão de regime, art. 112, § 1º, da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, possui caráter penal, não devendo retroagir para prejudicar os apenados. A regra se aplica ao caso concreto por ter o crime sido cometido depois da entrada em vigor da nova regra.
+  > 2. A retomada legal do exame criminológico como etapa obrigatória prévia à progressão de regime demanda estrutura adequada do sistema prisional. Sem melhoria nesse aparato, a consequência é que os apenados, mesmo com tempo para progredirem, suportarão regime prisional mais gravoso, circunstância essa muito parecida com aquela tratada na Súmula Vinculante 56/STF, que veda a manutenção dos apenados em regime mais gravoso por falta de vagas e determina medidas de desencarceramento.
+  > 3. No caso concreto, a progressão de regime foi concedida em 1º/12/2025, conforme assinatura digital da magistrada na decisão concessiva da progressão. Em 9/6/2026, o Tribunal local cassou a decisão concessiva e determinou a realização do exame criminológico. Em 14/8/2026 houve nomeação de psicóloga para realização da perícia. Ou seja, quase três meses após a determinação da realização do exame, o paciente ainda não teve apreciado o pedido de progressão de regime.
+  > 4. O apenado que permanece em regime fechado em razão da incapacidade do sistema em realizar a perícia suporta constrangimento ilegal por violação do princípio da individualização da pena e da duração razoável do processo.
+  > 5. Ordem concedida. Agravo regimental prejudicado.
+  > (HC n. 1.113.006/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/11/2026, DJEN de 10/11/2026.)
+
+## 26. REsp nº 2265953 / PR (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 10/11/2026.
+- Crime / Tema: Ameaça · Violência doméstica
+- Resumo: Repetir na apelação as teses das alegações finais não viola a dialeticidade quando elas atacam os fundamentos da sentença. Autos voltam ao TJ para julgar o mérito.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2265953.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PRINCÍPIO DA DIALETICIDADE NA APELAÇÃO CRIMINAL. VIOLAÇÃO DOS ARTS. 593, I, E 600, CAPUT, AMBOS DO CPP. REPETIÇÃO DE TESES DAS ALEGAÇÕES FINAIS NAS RAZÕES RECURSAIS. APTIDÃO PARA IMPUGNAR OS FUNDAMENTOS DA SENTENÇA. CONHECIMENTO DO RECURSO. EFEITO DEVOLUTIVO EM PROFUNDIDADE. PRECEDENTES DO STJ.
+  > 1. A controvérsia cinge-se à suposta violação dos arts. 593, inciso I, e 600, caput, do Código de Processo Penal, diante do não conhecimento, pelo Tribunal de origem, das teses absolutórias por ausência de dialeticidade, em razão da repetição, nas razões de apelação, de argumentos já apresentados nas alegações finais.
+  > 2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a reprodução das teses dos memoriais finais nas razões de apelação não configura ofensa do princípio da dialeticidade quando apta a infirmar os fundamentos da sentença condenatória, sendo suficiente para o conhecimento do recurso, à luz do efeito devolutivo em profundidade.
+  > 3. No caso, as razões recursais enfrentaram os fundamentos da condenação, de modo que o óbice processual reconhecido pelo Tribunal de origem deve ser afastado, impondo-se o exame do mérito da apelação defensiva.
+  > 4. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem, a fim de que conheça da apelação e prossiga no julgamento do mérito.
+  > (REsp n. 2.265.953/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/11/2026, DJEN de 10/11/2026.)
+
+## 27. REsp nº 2271088 / PR (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 10/11/2026.
+- Crime / Tema: Homicídio qualificado · Dosimetria
+- Resumo: O sofrimento de familiares e testemunhas, sem repercussão extraordinária, é inerente ao homicídio e não negativa as consequências do crime. Culpabilidade mantida (premeditação concreta, Tema 1.318/STJ, e múltiplos disparos). Recurso parcialmente provido; pena de 11 anos e 8 meses.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2271088.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. DIREITO PENAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. PREMEDITAÇÃO. TEMA 1.318/STJ. FUNDAMENTAÇÃO CONCRETA. MÚLTIPLOS DISPAROS DE ARMA DE FOGO. MAIOR REPROVABILIDADE (MODUS OPERANDI). CONSEQUÊNCIAS DO CRIME. SOFRIMENTO DOS FAMILIARES E DAS TESTEMUNHAS. EFEITO INERENTE AO DELITO. AUSÊNCIA DE REPERCUSSÃO EXTRAORDINÁRIA. AFASTAMENTO DA VETORIAL. REDIMENSIONAMENTO DA PENA.
+  > 1. Nos termos do Tema 1.318/STJ, a premeditação autoriza a valoração negativa da culpabilidade quando não constitui elementar ou circunstância ínsita ao tipo penal, nem pressuposto para a incidência de agravante ou qualificadora, e está concretamente associada à maior reprovabilidade da conduta.
+  > 2. A forma pela qual a vítima foi chamada por terceira pessoa e alvejada nas proximidades de sua residência evidencia preparação prévia do crime e constitui fundamento idôneo para a negativação da culpabilidade, sem sobreposição com a qualificadora do recurso que dificultou a defesa da vítima.
+  > 3. O emprego de múltiplos disparos de arma de fogo, dois pelas costas e três pela frente, revela maior censurabilidade do modus operandi e também justifica a negativação da culpabilidade.
+  > 4. O sofrimento e o abalo emocional dos familiares e das testemunhas, desacompanhados da demonstração de repercussões concretas extraordinárias, constituem desdobramentos normalmente inerentes ao crime de homicídio e não autorizam a valoração negativa das consequências do delito.
+  > 5. Recurso especial parcialmente provido.
+  > (REsp n. 2.271.088/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/11/2026, DJEN de 10/11/2026.)
+
+## 28. RHC nº 279.404 / SC (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 10/11/2026.
+- Crime / Tema: Furto · Dosimetria
+- Resumo: Regime inicial fechado é ilegítimo para pena de 3 anos, sem violência ou grave ameaça, em reincidente por furto qualificado: fixado o semiaberto de ofício. Insignificância afastada e condenação mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-279404.pdf
+
+## 29. RHC nº 277.484 / GO (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 09/11/2026.
+- Crime / Tema: Roubo · Corrupção de menores
+- Resumo: Condenação baseada só em depoimento extrajudicial retratado em juízo não se sustenta. Absolvição do roubo majorado e da corrupção de menores (art. 386, VII, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277484.pdf
+
+## 30. AgRg no AREsp nº 3250597 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/11/2026.
 - Crime / Tema: Prescrição
 - Resumo: Decisão da Corte IDH não afasta prescrição já consumada nem cria imprescritibilidade retroativa (art. 5º, XL, da CF); no caso, consumada em 2010, antes da denúncia e dos pronunciamentos internacionais. Agravo do MP desprovido.
@@ -57,7 +443,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. A qualificação de delitos como crimes contra a humanidade não afasta, por si só, a prescrição segundo o direito brasileiro; a prescritibilidade ou imprescritibilidade depende de previsão interna, ressalvadas as hipóteses do art. 5º, XLII e XLIV, da Constituição Federal.
   > (AgRg no AREsp n. 3.250.597/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/11/2026, DJEN de 9/11/2026.)
 
-## 2. AgRg no REsp nº 2282565 / MG (STJ)
+## 31. AgRg no REsp nº 2282565 / MG (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 09/11/2026.
 - Crime / Tema: Tráfico de drogas · Dosimetria
 - Resumo: Em recurso exclusivo da defesa, a multa não pode subir, mesmo com redução da pena corporal (art. 617 do CPP). Agravo provido só nesse ponto; pena-base mantida (Súmula 7/STJ).
@@ -78,7 +464,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental parcialmente provido.
   > (AgRg no REsp n. 2.282.565/MG, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 5/11/2026, DJEN de 9/11/2026.)
 
-## 3. AgRg nos EDcl no REsp nº 2220379 / SP (STJ)
+## 32. AgRg nos EDcl no REsp nº 2220379 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 09/11/2026.
 - Crime / Tema: Lesão corporal no trânsito
 - Resumo: Tese julgada prejudicada na origem não é inovação recursal: os autos voltam ao TJ para examinar dosimetria e regime, que o STJ não aprecia direto, para não suprimir instância. Agravo parcialmente provido.
@@ -93,7 +479,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Agravo regimental parcialmente provido.
   > (AgRg nos EDcl no REsp n. 2.220.379/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/11/2026, DJEN de 9/11/2026.)
 
-## 4. AgRg no AREsp nº 3282191 / DF (STJ)
+## 33. AgRg no AREsp nº 3282191 / DF (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/11/2026.
 - Crime / Tema: Justa causa
 - Resumo: Examinar materialidade e indícios de autoria, sem antecipar culpa, cabe no HC, e sem justa causa pode-se trancar a investigação (art. 648, I, do CPP). Mantido o trancamento pelo TRF1; agravo do MP desprovido.
@@ -116,19 +502,19 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. A ausência de indícios suficientes de autoria e materialidade caracteriza falta de justa causa e autoriza o trancamento do procedimento investigatório ou da ação penal, nos termos do CPP, art. 648, I.
   > (AgRg no AREsp n. 3.282.191/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/11/2026, DJEN de 9/11/2026.)
 
-## 5. AREsp nº 3378457 / SC (STJ)
+## 34. AREsp nº 3378457 / SC (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 09/11/2026.
 - Crime / Tema: Tráfico internacional de arma de fogo · Execução penal
 - Resumo: Semiaberto fixado só pelo tempo de pena (4 anos e 2 meses): descontada a prisão cautelar, a pena fica abaixo de 4 anos e cabe o regime aberto, mesmo com circunstância negativa na pena-base (art. 387, § 2º, do CPP). Recurso provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3378457.pdf
 
-## 6. REsp nº 2292117 / RS (STJ)
+## 35. REsp nº 2292117 / RS (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/11/2026.
 - Crime / Tema: Estelionato
 - Resumo: Embargos de declaração que não enfrentam teses defensivas relevantes (art. 619 do CPP) levam à cassação do acórdão dos embargos e a novo julgamento; a condenação segue por ora. Recurso provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2292117.pdf
 
-## 7. AgRg no AREsp nº 3271753 / SC (STJ)
+## 36. AgRg no AREsp nº 3271753 / SC (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Cabe apelação adesiva da defesa, por analogia ao art. 997, § 2º, do CPC (art. 3º do CPP), e da recusa em recebê-la cabe RESE (art. 581, XV, do CPP). Agravo do MP desprovido.
@@ -148,7 +534,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Resultado do Julgamento: Agravo regimental improvido.
   > (AgRg no AREsp n. 3.271.753/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2026, DJEN de 6/11/2026.)
 
-## 8. AgRg no AgRg no AREsp nº 3105882 / AP (STJ)
+## 37. AgRg no AgRg no AREsp nº 3105882 / AP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
 - Crime / Tema: Execução penal
 - Resumo: Restituídos os bens e sem perda patrimonial da vítima, não há dano a reparar para o indulto do art. 2º, XV, do Decreto 11.846/2023, ainda que a recuperação tenha sido pela polícia. Agravo do MP desprovido.
@@ -167,7 +553,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Agravo regimental improvido.
   > (AgRg no AgRg no AREsp n. 3.105.882/AP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2026, DJEN de 6/11/2026.)
 
-## 9. AgRg no AREsp nº 3211511 / PE (STJ)
+## 38. AgRg no AREsp nº 3211511 / PE (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
 - Resumo: A pronúncia não se apoia só em inquérito e testemunho indireto, nem em temor presumido da testemunha sem dado concreto (arts. 155 e 413 do CPP). Agravo do MP desprovido.
@@ -186,7 +572,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Resultado do Julgamento: Agravo regimental improvido.
   > (AgRg no AREsp n. 3.211.511/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2026, DJEN de 6/11/2026.)
 
-## 10. AgRg no AREsp nº 3137829 / RN (STJ)
+## 39. AgRg no AREsp nº 3137829 / RN (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/11/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: Violação do monitoramento não homologada como falta grave é falta média e não impede a progressão; o exame criminológico da Lei 14.843/2024 não alcança crime anterior à sua vigência (art. 112, § 1º, da LEP). Agravo do MP não provido.
@@ -202,31 +588,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo regimental não provido.
   > (AgRg no AREsp n. 3.137.829/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 6/11/2026.)
 
-## 11. AREsp nº 3342895 / SP (STJ)
+## 40. AREsp nº 3342895 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Retirado o reconhecimento fotográfico fora do art. 226 do CPP, sem prova autônoma de autoria, não resta base para a condenação (Tema 1.258/STJ). Réu absolvido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3342895.pdf
 
-## 12. AgRg no AREsp nº 3269997 / GO (STJ)
+## 41. AgRg no AREsp nº 3269997 / GO (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
 - Crime / Tema: Estupro de vulnerável · Prescrição
 - Resumo: Citação por edital sem esgotar as diligências (mandado dirigido a outra comarca, não ao endereço dos autos) é inválida; cai a suspensão do art. 366 do CPP e a prescrição corre desde o recebimento da denúncia. Punibilidade extinta.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3269997.pdf
 
-## 13. HC nº 279.244 / PR (STF)
+## 42. HC nº 279.244 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 06/11/2026.
 - Crime / Tema: Contrabando
 - Resumo: Para multirreincidente condenado a pena baixíssima, inferior a quatro anos, o regime fechado é excessivo no caso concreto. Fixado o semiaberto, sem prejuízo de agravamento na unificação de penas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279244.pdf
 
-## 14. HC nº 1129246 / MS (STJ)
+## 43. HC nº 1129246 / MS (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Organização criminosa · Dosimetria
 - Resumo: A função de batedor, já usada para demonstrar a integração à organização criminosa, não sustenta a culpabilidade negativa sem circunstância concreta e individualizada. HC não conhecido; ordem de ofício: pena de 3 anos, 7 meses e 15 dias e 53 dias-multa; mantidos a condenação e o semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129246.pdf
 
-## 15. REsp nº 2257858 / GO (STJ)
+## 44. REsp nº 2257858 / GO (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Estupro de vulnerável · Revisão criminal
 - Resumo: Na justificação criminal, o áudio atribuído à vítima pode ser apurado por perícia e oitiva de terceiros, sem exigir retratação; a vítima só é ouvida se consentir e só sobre o áudio. Recurso do MP desprovido.
@@ -242,7 +628,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Recurso especial improvido.
   > (REsp n. 2.257.858/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
 
-## 16. REsp nº 2259915 / RS (STJ)
+## 45. REsp nº 2259915 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Ato infracional (ECA) · Prescrição
 - Resumo: Liberdade assistida com prazo certo prescreve pela medida fixada, com a redução legal, e não pelo limite de três anos (arts. 109, VI, e 115 do CP). Recurso provido.
@@ -255,7 +641,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso especial provido para reconhecer a prescrição da pretensão punitiva da liberdade assistida.
   > (REsp n. 2.259.915/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
 
-## 17. REsp nº 2241472 / MG (STJ)
+## 46. REsp nº 2241472 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Vias de fato · Violência doméstica
 - Resumo: Nas contravenções, fixar o sursis acima do mínimo exige motivação concreta (art. 11 da LCP). Recurso provido para fixar um ano; condenação mantida.
@@ -268,13 +654,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso especial provido para fixar o sursis pelo prazo de 1 ano, em condições que serão oportunamente estabelecidas pelo juízo competente para execução.
   > (REsp n. 2.241.472/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
 
-## 18. REsp nº 2289130 / SP (STJ)
+## 47. REsp nº 2289130 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Roubo · Confissão espontânea · Dosimetria
 - Resumo: Na multirreincidência, a confissão se compensa de forma proporcional, não integral (arts. 65, III, d, e 67 do CP; Tema 585/STJ). Recurso provido; pena reduzida e regime fechado mantido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2289130.pdf
 
-## 19. ARE nº 1.619.064 / PR (STF)
+## 48. ARE nº 1.619.064 / PR (STF)
 - Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Luiz Fux. Segunda Turma. Publicado em 05/11/2026.
 - Crime / Tema: Tráfico internacional de arma de fogo · Execução penal
 - Resumo: A hediondez que afasta benefício na execução se afere pela lei da data do fato, não pela do decreto. ARE provido para reanalisar o indulto.
@@ -293,49 +679,49 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Recurso provido.
   > (STF, ARE n. 1.619.064/PR, relator Ministro André Mendonça, redator do acórdão Ministro Luiz Fux, Segunda Turma, julgado em 19/10/2026, DJe de 5/11/2026.)
 
-## 20. ARE nº 1.315.025 / ES (STF)
+## 49. ARE nº 1.315.025 / ES (STF)
 - Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 05/11/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Negado seguimento ao agravo do MP contra acórdão que anulou o júri por qualificadora (art. 121, § 2º, IV, do CP) contrária à prova: sem repercussão geral demonstrada, ofensa reflexa e Súmula 279/STF. Anulação mantida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1315025.pdf
 
-## 21. HC nº 278.460 / SP (STF)
+## 50. HC nº 278.460 / SP (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 05/11/2026.
 - Crime / Tema: Homicídio qualificado · Ocultação de cadáver · Continuidade delitiva
 - Resumo: A continuidade específica do art. 71, parágrafo único, do CP não alcança a ocultação de cadáver, sem violência à pessoa; aplica-se a comum. Ordem parcial, mantida a dosimetria dos homicídios.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278460.pdf
 
-## 22. HC nº 278.718 / PR (STF)
+## 51. HC nº 278.718 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Descaminho
 - Resumo: A prestação pecuniária pode ser parcelada se comprovada a dificuldade financeira, a ser apurada pelo juízo; a redução do valor não foi acolhida. Ordem parcial.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278718.pdf
 
-## 23. RHC nº 278.722 / AL (STF)
+## 52. RHC nº 278.722 / AL (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: Reiteração ou antecedentes não afastam, por si sós, a insignificância: furto de alimentos e guloseimas de valor irrisório, sem violência e com restituição integral, é atípico. Paciente absolvida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278722.pdf
 
-## 24. HC nº 279.064 / SP (STF)
+## 53. HC nº 279.064 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
 - Resumo: A preventiva é, em regra, incompatível com o regime semiaberto ou aberto fixado na sentença, salvo crime com violência ou grave ameaça. Prisão revogada, com cautelares do art. 319 do CPP. Ordem de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279064.pdf
 
-## 25. HC nº 278.903 / SP (STF)
+## 54. HC nº 278.903 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Porte ilegal de arma de fogo
 - Resumo: A reincidência, por si só, não impede a substituição por restritivas ao reincidente não específico (art. 44, § 3º, do CP), e o juízo deve avaliá-la fundamentadamente. Ordem parcial, de ofício; mantido o semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278903.pdf
 
-## 26. HC nº 278.451 / SP (STF)
+## 55. HC nº 278.451 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Quantidade e natureza da droga, dinheiro e mensagens sobre "produto não especificado" não bastam, por si sós, para provar dedicação ao crime e afastar o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Ordem de ofício para aplicar o redutor, em fração motivada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278451.pdf
 
-## 27. AgRg no HC nº 1029565 / ES (STJ)
+## 56. AgRg no HC nº 1029565 / ES (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik; redator do acórdão: Min. Messod Azulay Neto. Quinta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Corrupção passiva · Quebra da cadeia de custódia · Prova digital
 - Resumo: A senha surgida no celular e a falta de lacre durante a custódia estatal tornam imprestável a prova digital extraída em outro processo e usada contra terceiro, pois a perícia não pode mais ser repetida sob contraditório; o ônus de provar a integridade é do Estado, e o hash da extração original não supre a falha posterior (art. 158 do CPP). Agravo parcialmente provido por maioria; ordem concedida para vedar o uso da prova.
@@ -363,7 +749,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. A certificação por hash na extração originária não supre falhas posteriores de custódia nem afasta dúvidas sobre autenticidade e comparabilidade do conteúdo em contexto diverso.
   > (AgRg no HC n. 1.029.565/ES, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/10/2026, DJEN de 4/11/2026.)
 
-## 28. RHC nº 244387 / PE (STJ)
+## 57. RHC nº 244387 / PE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Estupro de vulnerável · Ameaça
 - Resumo: A decisão que confirma o recebimento da denúncia deve enfrentar, ainda que de forma sucinta, as teses da resposta à acusação; despacho genérico que só designa audiência é nulo (art. 93, IX, da CF). RHC provido; ação anulada desde essa decisão.
@@ -376,43 +762,43 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso em habeas corpus provido para anular a ação penal a partir da decisão que confirmou o recebimento da denúncia e determinar a prolação de nova decisão, com apreciação das teses defensivas, como se entender de direito.
   > (RHC n. 244.387/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 29/10/2026, DJEN de 4/11/2026.)
 
-## 29. HC nº 1124087 / RJ (STJ)
+## 58. HC nº 1124087 / RJ (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Receptação · Inviolabilidade de domicílio · Prisão e medidas cautelares
 - Resumo: Declaração de terceiro em outra investigação, sem diligência prévia, não autoriza ingresso domiciliar, nem em crime permanente (Tema 280/STF; art. 157 do CPP). Provas ilícitas desentranhadas e preventiva revogada; a ação segue, para sentença só com prova autônoma.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124087.pdf
 
-## 30. HC nº 1089695 / SP (STJ)
+## 59. HC nº 1089695 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Ato infracional (ECA) · Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento sem as formalidades do art. 226 do CPP (show-up, fotos mostradas antes) é inválido e não serve nem como prova suplementar, também no ato infracional (Tema 1.258/STJ). Ordem parcial para novo julgamento sem os reconhecimentos, podendo a medida se sustentar em prova independente.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089695.pdf
 
-## 31. AgRg no HC nº 1089770 / DF (STJ)
+## 60. AgRg no HC nº 1089770 / DF (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Crimes contra a ordem tributária · Cabimento do HC
 - Resumo: Ser sócio-administrador não basta para condenar por sonegação: é preciso demonstrar a contribuição dolosa individual (art. 1º, II, da Lei 8.137/1990), e o domínio do fato não supre essa prova. Mesmo após o trânsito em julgado, HC de ofício (art. 647-A do CPP) absolve.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089770.pdf
 
-## 32. HC nº 1083969 / SP (STJ)
+## 61. HC nº 1083969 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Prisão e medidas cautelares
 - Resumo: Ser "conhecido no meio policial" por tráfico não é fundada suspeita para busca pessoal (art. 244 do CPP), e o encontro posterior da droga não convalida a diligência. HC concedido de ofício para trancar a ação penal e revogar a prisão.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1083969.pdf
 
-## 33. HC nº 1123210 / RJ (STJ)
+## 62. HC nº 1123210 / RJ (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento por exibição isolada (show-up), sem alinhamento nem prova independente, é nulo e contamina os depoimentos em juízo, e o tribunal não pode anular a absolvição para "sanar" o vício com novo reconhecimento (art. 226 do CPP). Ordem de ofício; absolvição restabelecida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123210.pdf
 
-## 34. HC nº 1129431 / AL (STJ)
+## 63. HC nº 1129431 / AL (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Estupro de vulnerável · Corrupção de menores · Revisão criminal
 - Resumo: A retratação da vítima depois do trânsito em julgado autoriza a justificação criminal para instruir futura revisão, sem que o juízo antecipe o valor da prova. Ordem concedida para processar a justificação e ouvir a ofendida, com as cautelas dos arts. 201 e 400-A do CPP; condenação mantida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129431.pdf
 
-## 35. AgRg no AREsp nº 3175114 / RS (STJ)
+## 64. AgRg no AREsp nº 3175114 / RS (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão
 - Resumo: Nervosismo do condutor e estar parado em local conhecido pelo tráfico não são fundada suspeita para busca veicular (arts. 240, § 2º, e 244 do CPP), e a apreensão posterior não convalida a diligência. Agravo do MP desprovido, por maioria; absolvição por tráfico mantida.
@@ -435,25 +821,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. A apreensão posterior de entorpecentes não convalida a ilegalidade prévia da busca, devendo o controle judicial recair sobre os elementos ex ante da medida.
   > (AgRg no AREsp n. 3.175.114/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 36. AREsp nº 3349933 / MG (STJ)
+## 65. AREsp nº 3349933 / MG (STJ)
 - Decisão monocrática. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, mesmo com nome e endereço, sem diligência prévia que a confirme, não é fundada suspeita para busca pessoal (art. 244 do CPP), e a ilicitude contamina a entrada no domicílio que veio depois. HC de ofício absolve o réu.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3349933.pdf
 
-## 37. AREsp nº 3321210 / SP (STJ)
+## 66. AREsp nº 3321210 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento feito só na delegacia, sem as regras do art. 226 do CPP e apenas reafirmado pela vítima em juízo, não prova a autoria sem outra prova independente (Tema 1.258/STJ). REsp da defesa provido para absolver, com extensão ao corréu (art. 580 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3321210.pdf
 
-## 38. AREsp nº 3266856 / SP (STJ)
+## 67. AREsp nº 3266856 / SP (STJ)
 - Decisão monocrática. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Receptação · Fundada suspeita · Busca e apreensão
 - Resumo: Mudar de direção ou atravessar a rua ao avistar a polícia, sem outro dado objetivo, não é fundada suspeita para busca pessoal (art. 244 do CPP); a apreensão do celular e a consulta do IMEI são ilícitas por derivação. REsp da defesa provido; réu absolvido de receptação.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3266856.pdf
 
-## 39. AgRg no AREsp nº 3244311 / MG (STJ)
+## 68. AgRg no AREsp nº 3244311 / MG (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · ANPP
 - Resumo: Reconhecido o tráfico privilegiado, a redução entra no cálculo da pena mínima para o ANPP (art. 28-A do CPP), e a recusa do MP baseada só na gravidade abstrata do crime é inválida. Agravo do MP desprovido; autos voltam para o MP examinar o acordo de forma motivada.
@@ -479,7 +865,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Havendo possível excesso de acusação decorrente da desclassificação para tráfico privilegiado, os autos devem retornar à origem para que o Ministério Público examine, de forma motivada, a proposta de ANPP.
   > (AgRg no AREsp n. 3.244.311/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 40. AgRg no AREsp nº 3270585 / BA (STJ)
+## 69. AgRg no AREsp nº 3270585 / BA (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Roubo · Dosimetria
 - Resumo: No concurso formal próprio, o aumento vai de 1/6 a 1/2 conforme o número de crimes: com 6 ou mais, aplica-se 1/2, nunca 2/3 (art. 70 do CP). Agravo da defesa desprovido (Súmula 284/STF), mas HC de ofício reduz a pena dos três réus.
@@ -505,7 +891,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. A fração de aumento pelo concurso formal de crimes deve observar os limites do art. 70 do CP, aplicando-se 1/2 quando praticadas 6 ou mais infrações, vedada a majoração acima desse patamar.
   > (AgRg no AREsp n. 3.270.585/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 41. AgRg no AREsp nº 3248667 / PA (STJ)
+## 70. AgRg no AREsp nº 3248667 / PA (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
 - Crime / Tema: Crimes ambientais
 - Resumo: No crime do art. 50-A da Lei 9.605/1998, a natureza pública ou devoluta da área deve estar certificada antes do desmatamento; com a demarcação da terra indígena suspensa, a dúvida sobre a área e sobre o dolo leva à absolvição. Agravo do MPF desprovido (Súmula 7/STJ).
@@ -528,31 +914,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Persistindo dúvida razoável sobre a natureza jurídica da área e sobre o dolo, a absolvição deve ser mantida com fundamento no CPP, Art. 386, VII.
   > (AgRg no AREsp n. 3.248.667/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
 
-## 42. HC nº 279.008 / SP (STF)
+## 71. HC nº 279.008 / SP (STF)
 - Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 03/11/2026.
 - Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
 - Resumo: Pequena quantidade de maconha (9,89 g), sem flagrante de venda nem petrechos de comércio, não sustenta a condenação por tráfico: aplica-se a presunção de uso do Tema 506/STF (RE 635.659). HC concedido após o trânsito em julgado para absolver (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279008.pdf
 
-## 43. ARE nº 1.630.118 / GO (STF)
+## 72. ARE nº 1.630.118 / GO (STF)
 - Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 03/11/2026.
 - Crime / Tema: Perturbação do sossego
 - Resumo: A perturbação do sossego (art. 42, III, da LCP) exige atingir uma multiplicidade de pessoas; o incômodo a uma só vítima não configura a contravenção. O STF negou seguimento ao ARE do MP (Súmula 279/STF e ofensa reflexa) e manteve a absolvição.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630118.pdf
 
-## 44. RHC nº 278.721 / ES (STF)
+## 73. RHC nº 278.721 / ES (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 03/11/2026.
 - Crime / Tema: Tráfico de drogas · Ato infracional (ECA)
 - Resumo: No procedimento do ECA, o adolescente deve ser notificado pessoalmente para a audiência e ouvido como último ato da instrução (arts. 184 e 187 do ECA; art. 400 do CPP); a falta de oitiva é nulidade absoluta, que a defesa técnica não supre. RHC provido para anular a instrução e a sentença.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278721.pdf
 
-## 45. AgRg no HC nº 1126685 / SP (STJ)
+## 74. AgRg no HC nº 1126685 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Prévio recolhimento à prisão dispensado, em caso excepcional, para analisar a transferência da execução (art. 105 da LEP): o paciente reside com a família em outro estado. Agravo provido; ordem concedida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1126685.pdf
 
-## 46. AgRg no REsp nº 2265602 / MG (STJ)
+## 75. AgRg no REsp nº 2265602 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Condenação com punibilidade extinta há mais de 10 anos antes do novo crime não serve como maus antecedentes, ainda que o crime anterior seja grave (art. 59 do CP). Sem outros elementos, 68 g de crack e uma balança não justificam fração menor que 2/3 no tráfico privilegiado. Agravo do MP desprovido.
@@ -574,7 +960,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 9. Agravo regimental não provido.
   > (AgRg no REsp n. 2.265.602/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
 
-## 47. AgRg no REsp nº 2243946 / MG (STJ)
+## 76. AgRg no REsp nº 2243946 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: O apenado assistido pela Defensoria tem presunção relativa de hipossuficiência; cabe ao MP provar que ele pode pagar a multa (art. 51 do CP; Tema 931/STJ), e a ADI 7.032/STF não muda isso. Agravo do MP desprovido; mantida a extinção da punibilidade sem o pagamento da multa.
@@ -595,7 +981,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.243.946/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
 
-## 48. AgRg no REsp nº 2210727 / SC (STJ)
+## 77. AgRg no REsp nº 2210727 / SC (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: Afastada a majorante do repouso noturno no furto qualificado (Tema 1.087/STJ), levá-lo para a pena-base é faculdade do juiz e exige fundamentação concreta; não é automático (art. 59 do CP). Agravo do MP desprovido.
@@ -617,19 +1003,19 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 9. Agravo regimental não provido.
   > (AgRg no REsp n. 2.210.727/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
 
-## 49. HC nº 279.042 / ES (STF)
+## 78. HC nº 279.042 / ES (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 29/10/2026.
 - Crime / Tema: Roubo · Confissão espontânea · Dosimetria · Revisão criminal
 - Resumo: Reconhecida a confissão espontânea (art. 65, III, d, do CP), reduzir menos de 1/6 exige fundamentação concreta na sentença, mesmo que a confissão seja qualificada; a motivação dada depois pelas instâncias revisoras não supre a falta. HC concedido para o juízo da execução aplicar 1/6.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279042.pdf
 
-## 50. REsp nº 2234241 / SC (STJ)
+## 79. REsp nº 2234241 / SC (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Crimes contra a ordem tributária
 - Resumo: Deixar de recolher ICMS declarado só é crime se houver contumácia e dolo de apropriação, demonstrados por elementos concretos (art. 2º, II, da Lei 8.137/1990; RHC 163.334/STF). HC de ofício absolve por atipicidade (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2234241.pdf
 
-## 51. AgRg no REsp nº 2288472 / SP (STJ)
+## 80. AgRg no REsp nº 2288472 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Estupro de vulnerável · Dosimetria
 - Resumo: Réu primário com pena-base no mínimo não pode receber regime mais severo que o indicado pela pena sem fundamento concreto além da gravidade do próprio crime (art. 33, §§ 2º e 3º, do CP). Agravo do MP desprovido; mantido o regime semiaberto para pena de 8 anos.
@@ -649,7 +1035,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 1. A imposição de regime inicial mais gravoso do que o indicado pelo art. 33, § 2º, do Código Penal exige fundamentação concreta baseada em circunstâncias judiciais desfavoráveis.
   > (AgRg no REsp n. 2.288.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2026, DJEN de 28/10/2026.)
 
-## 52. AgRg no AREsp nº 3196600 / AP (STJ)
+## 81. AgRg no AREsp nº 3196600 / AP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
 - Resumo: A pronúncia não pode se apoiar só em confissões extrajudiciais e testemunhos indiretos (arts. 155 e 413 do CPP); sem fonte identificada nem prova de que era impossível produzir a prova em juízo, não se aplica a exceção do Tema 1.260/STJ. Agravo do MP desprovido; despronúncia mantida.
@@ -668,7 +1054,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a despronúncia.
   > (AgRg no AREsp n. 3.196.600/AP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/10/2026, DJEN de 28/10/2026.)
 
-## 53. AgRg no REsp nº 2276538 / RS (STJ)
+## 82. AgRg no REsp nº 2276538 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento fotográfico feito só na polícia, sem as formalidades do art. 226 do CPP, não confirmado em juízo e sem prova independente, não sustenta condenação (Tema 1.258/STJ). Agravo do MP desprovido; absolvição por roubo mantida.
@@ -692,49 +1078,49 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. O reconhecimento fotográfico realizado na fase policial, sem observância do art. 226 do CPP, não confirmado em juízo e desacompanhado de provas independentes robustas, não sustenta a condenação, impondo a manutenção da absolvição por in dubio pro reo.
   > (AgRg no REsp n. 2.276.538/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2026, DJEN de 28/10/2026.)
 
-## 54. AREsp nº 3366575 / SP (STJ)
+## 83. AREsp nº 3366575 / SP (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Busca e apreensão
 - Resumo: Mandado de prisão não autoriza vasculhar a casa: a arma achada debaixo do colchão revela busca exploratória, e permitir a entrada para a prisão não é consentir com busca geral (art. 5º, XI, da CF; art. 157 do CPP). REsp da defesa provido; absolvição restabelecida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3366575.pdf
 
-## 55. REsp nº 2266241 / SC (STJ)
+## 84. REsp nº 2266241 / SC (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Natureza e quantidade da droga se valoram em conjunto: é inidônea a fração de 1/2 no tráfico privilegiado fundada só na natureza da droga (art. 33, § 4º, da Lei 11.343/2006; Temas 1.154 e 1.241/STJ). REsp da defesa provido para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2266241.pdf
 
-## 56. ARE nº 1.628.735 / SP (STF)
+## 85. ARE nº 1.628.735 / SP (STF)
 - Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 28/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Direito ao silêncio
 - Resumo: Mantida a decisão do STJ segundo a qual o silêncio do acusado e o lucro, inerente ao tráfico, não afastam nem reduzem o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). O STF negou provimento ao ARE do MP (ofensa reflexa e Súmula 279/STF), e ficou mantida a fração de 2/3.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628735.pdf
 
-## 57. RHC nº 277.683 / SC (STF)
+## 86. RHC nº 277.683 / SC (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 28/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: O furto privilegiado (art. 155, § 2º, do CP) é compatível com qualquer qualificadora, inclusive a subjetiva do abuso de confiança, em sentido contrário à Súmula 511/STJ. A escusa do art. 181, II, não alcança padrasto e enteado. RHC parcialmente provido para redimensionar a pena.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277683.pdf
 
-## 58. HC nº 278.547 / SP (STF)
+## 87. HC nº 278.547 / SP (STF)
 - Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Ato infracional (ECA) · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: A internação provisória (art. 108, parágrafo único, do ECA) exige necessidade imperiosa e uma das hipóteses do art. 122; ato análogo ao tráfico, sem violência nem reiteração, não a autoriza. HC concedido, superada a Súmula 691/STF, para substituí-la por medida em meio aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278547.pdf
 
-## 59. HC nº 278.717 / MS (STF)
+## 88. HC nº 278.717 / MS (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: A condição de “mula”, sem prova concreta de vínculo com organização criminosa, não justifica aplicar o redutor do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) no mínimo de 1/6. HC concedido para restabelecer a sentença, que aplicou 1/2.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278717.pdf
 
-## 60. HC nº 277.559 / MG (STF)
+## 89. HC nº 277.559 / MG (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: O juiz não pode impor a preventiva na sentença contra o pedido expresso do MP para o réu recorrer em liberdade (arts. 282, §§ 2º e 4º, e 311 do CPP); a reavaliação de ofício do art. 316 não alcança esse caso. Em reconsideração, ordem concedida de ofício para restabelecer o comparecimento mensal em juízo.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277559.pdf
 
-## 61. REsp nº 2294353 / PR (STJ)
+## 90. REsp nº 2294353 / PR (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Furto
 - Resumo: No furto privilegiado, o pequeno valor considera só a coisa furtada, sem somar o custo de reparar obstáculo danificado (art. 155, § 2º, do CP). Minorante reconhecida; REsp da defesa parcialmente provido.
@@ -751,7 +1137,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Recurso especial parcialmente provido para reconhecer a incidência da causa de diminuição prevista no art. 155, § 2º, do Código Penal e determinar o retorno dos autos ao Tribunal de origem para aplicação da minorante e consequente redimensionamento da pena, mantidos os demais termos do acórdão recorrido.
   > (REsp n. 2.294.353/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 62. AgRg no REsp nº 2294354 / SC (STJ)
+## 91. AgRg no REsp nº 2294354 / SC (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Violência doméstica · Dosimetria
 - Resumo: A agravante do art. 61, II, “f”, do CP não se soma à qualificadora do art. 129, § 13, quando ambas se baseiam na violência contra a mulher: é bis in idem (distinção do Tema 1.197/STJ). Agravo do MP desprovido.
@@ -775,7 +1161,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. A tese firmada no Tema 1.197/STJ não se aplica às hipóteses do art. 129, § 13, do Código Penal, em que a condição de mulher e a violência de gênero já integram o tipo qualificado.
   > (AgRg no REsp n. 2.294.354/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
 
-## 63. AgRg no AgRg no REsp nº 2246840 / MG (STJ)
+## 92. AgRg no AgRg no REsp nº 2246840 / MG (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas
 - Resumo: A reparação mínima por dano moral coletivo exige pedido expresso, indicação do valor e instrução específica sobre o dano (art. 387, IV, do CPP). Agravo do MP desprovido.
@@ -796,7 +1182,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 1. A fixação de danos morais coletivos, com base no art. 387, IV, do CPP, exige pedido expresso, indicação do montante pretendido e instrução probatória específica para assegurar contraditório e ampla defesa.
   > (AgRg no AgRg no REsp n. 2.246.840/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2026, DJEN de 27/10/2026.)
 
-## 64. AgRg no AREsp nº 3246028 / RS (STJ)
+## 93. AgRg no AREsp nº 3246028 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Crimes contra a saúde pública · Dosimetria
 - Resumo: Importar anabolizantes sem registro na Anvisa se enquadra no art. 273, § 1º-B, I, do CP, com a pena anterior repristinada (Tema 1.003/STF). Agravo do MPF desprovido.
@@ -810,7 +1196,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental a que se nega provimento.
   > (AgRg no AREsp n. 3.246.028/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
 
-## 65. AgRg no AREsp nº 3364974 / DF (STJ)
+## 94. AgRg no AREsp nº 3364974 / DF (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Receptação · Dosimetria
 - Resumo: Fato anterior ao trânsito em julgado de outra condenação não eleva a culpabilidade como se cometido durante o cumprimento de pena. Agravo desprovido, mas ordem concedida de ofício: pena redimensionada, regime aberto e substituição.
@@ -830,7 +1216,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo regimental desprovido. Habeas corpus concedido de ofício para fixar a pena em 3 (três) anos de reclusão e 10 (dez) dias-multa, em regime aberto, substituída a pena privativa de liberdade por duas restritivas de direitos.
   > (AgRg no AREsp n. 3.364.974/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
 
-## 66. AgRg no REsp nº 2280820 / MG (STJ)
+## 95. AgRg no REsp nº 2280820 / MG (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Confissão espontânea
 - Resumo: No Júri, a atenuante da confissão pode ser reconhecida mesmo sem debate em plenário, se a confissão consta dos autos, ainda que qualificada (Tema 1.194/STJ). Agravo do MP desprovido.
@@ -848,7 +1234,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo regimental não provido.
   > (AgRg no REsp n. 2.280.820/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
 
-## 67. AgRg no AREsp nº 3177789 / RS (STJ)
+## 96. AgRg no AREsp nº 3177789 / RS (STJ)
 - Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio · Tribunal do Júri
 - Resumo: No Júri, as séries de quesitos de vítimas distintas são autônomas e podem ter respostas diferentes; feita nova votação (art. 490 do CPP), prevalece a absolvição reafirmada. Agravo do MP desprovido.
@@ -869,13 +1255,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > IV. Agravo regimental desprovido.
   > (AgRg no AREsp n. 3.177.789/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
 
-## 68. AREsp nº 2939207 / MG (STJ)
+## 97. AREsp nº 2939207 / MG (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Abuso de autoridade · Posse ilegal de arma de fogo
 - Resumo: Policial sem atribuição para instaurar investigação ou ação penal não comete o crime do art. 30 da Lei 13.869/2019. REsp parcialmente provido: absolvição nesse crime.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2939207.pdf
 
-## 69. AgRg no HC nº 1124375 / SP (STJ)
+## 98. AgRg no HC nº 1124375 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Descaminho · Corrupção ativa · Associação criminosa · Dosimetria
 - Resumo: Fato posterior e autônomo não agrava a culpabilidade, e prejuízo tributário não individualizado não eleva as consequências do crime. Dosimetria corrigida; agravo do MPF desprovido.
@@ -892,7 +1278,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental improvido.
   > (AgRg no HC n. 1.124.375/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 70. REsp nº 2253748 / MG (STJ)
+## 99. REsp nº 2253748 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio qualificado · Homicídio · Dosimetria
 - Resumo: A pena-base do homicídio simples tentado não pode igualar a do qualificado consumado sem fundamento concreto para o acréscimo. REsp parcialmente provido: pena redimensionada.
@@ -905,7 +1291,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso especial parcialmente provido.
   > (REsp n. 2.253.748/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 71. REsp nº 2239370 / PE (STJ)
+## 100. REsp nº 2239370 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Excesso de prazo
 - Resumo: Os prazos do art. 131, I, do CPP não são peremptórios, mas o sequestro de bens mantido por mais de 2 anos sem denúncia contra os investigados é excesso de prazo. REsp do MPF desprovido.
@@ -919,31 +1305,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
   > (REsp n. 2.239.370/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
 
-## 72. HC nº 1119746 / SP (STJ)
+## 101. HC nº 1119746 / SP (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri · Prisão e medidas cautelares
 - Resumo: A execução imediata da pena do Júri (Tema 1.068/STF) pode ser suspensa até a apelação quando há plausibilidade concreta de nulidade ou de decisão contrária à prova. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1119746.pdf
 
-## 73. HC nº 1140133 / SP (STJ)
+## 102. HC nº 1140133 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Anulada a condenação e comprovada a materialidade só de parte das drogas, conjecturas sobre reiteração ou fuga não mantêm a preventiva de réu primário. Ordem concedida: preventiva revogada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1140133.pdf
 
-## 74. HC nº 1139230 / TO (STJ)
+## 103. HC nº 1139230 / TO (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Porte de drogas para consumo pessoal
 - Resumo: Pouca maconha, sem balança nem material de fracionamento, não presume tráfico, e confissão informal não confirmada em juízo não prova a mercancia. Ordem concedida: desclassificação para o art. 28 restabelecida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139230.pdf
 
-## 75. RHC nº 247075 / RJ (STJ)
+## 104. RHC nº 247075 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 27/10/2026.
 - Crime / Tema: Adulteração de sinal identificador de veículo · Justa causa
 - Resumo: A simples falta da placa, com regularização iniciada antes da abordagem, sem outro sinal adulterado, não indica dolo de suprimir o sinal identificador (art. 311 do CP). RHC provido: ação penal trancada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-247075.pdf
 
-## 76. AgRg no HC nº 277.418 / RJ (STF)
+## 105. AgRg no HC nº 277.418 / RJ (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 26/10/2026.
 - Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
 - Resumo: A prisão preventiva é incompatível com o regime semiaberto fixado na condenação, por ofender a proporcionalidade. A Segunda Turma, por maioria, negou provimento ao agravo do MPF e manteve a revogação da preventiva concedida de ofício.
@@ -955,7 +1341,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo ao qual se nega provimento.
   > (STF, AgRg no HC n. 277.418/RJ, relator Ministro Dias Toffoli, Segunda Turma, julgado em 19/10/2026, DJe de 26/10/2026.)
 
-## 77. REsp nº 2245806 / MG (STJ)
+## 106. REsp nº 2245806 / MG (STJ)
 - Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Natureza e quantidade da droga, sem outros dados concretos, não justificam fração do privilégio abaixo de 2/3 (art. 33, § 4º, da Lei 11.343/2006). REsp da defesa provido.
@@ -968,7 +1354,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso especial conhecido e provido para aplicar a fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, mantido o regime aberto e a substituição por penas restritivas de direitos.
   > (REsp n. 2.245.806/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
 
-## 78. AREsp nº 3137169 / RS (STJ)
+## 107. AREsp nº 3137169 / RS (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Abandono de posto (CPM) · ANPP
 - Resumo: O ANPP pode ser analisado no processo penal militar, mesmo após condenação confirmada em 2º grau. Recurso especial provido: autos ao MP para avaliar o acordo.
@@ -982,13 +1368,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo conhecido. Recurso especial provido a fim de que o Tribunal de origem adote as providências necessárias para possibilitar a discussão do acordo de não persecução penal entre as partes da ação penal.
   > (AREsp n. 3.137.169/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 79. AREsp nº 3371938 / RJ (STJ)
+## 108. AREsp nº 3371938 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Violência doméstica
 - Resumo: Negar assistente técnico para contraditar o laudo oficial é cerceamento de defesa. Recurso especial provido: processo anulado desde o indeferimento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3371938.pdf
 
-## 80. AgRg no REsp nº 2265973 / AL (STJ)
+## 109. AgRg no REsp nº 2265973 / AL (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria
 - Resumo: “Dolo intenso” e “desprezo pela vítima” são fundamentos genéricos e não elevam a pena-base pela culpabilidade. Agravo do MP desprovido.
@@ -1000,7 +1386,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Agravo regimental não provido.
   > (AgRg no REsp n. 2.265.973/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
 
-## 81. AgRg no AREsp nº 3317291 / RN (STJ)
+## 110. AgRg no AREsp nº 3317291 / RN (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Exame criminológico favorável ampara a progressão de regime; o MP não pode rediscutir essa avaliação em recurso especial. Agravo do MP desprovido.
@@ -1014,7 +1400,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental improvido.
   > (AgRg no AREsp n. 3.317.291/RN, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 82. AgRg no AREsp nº 3279467 / PE (STJ)
+## 111. AgRg no AREsp nº 3279467 / PE (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A absolvição pelos jurados que acolhe a negativa de autoria, com suporte probatório mínimo, deve ser preservada (soberania dos veredictos). Agravo do MP desprovido.
@@ -1027,7 +1413,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 3.279.467/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 83. AgRg no AREsp nº 2029364 / SP (STJ)
+## 112. AgRg no AREsp nº 2029364 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado
 - Resumo: A Lei de Anistia (Lei 6.683/1979, ADPF 153/STF) impede a persecução dos fatos que abrange, e não se tipifica retroativamente crime contra a humanidade sem lei anterior. Rejeição da denúncia mantida; agravo do MP desprovido.
@@ -1040,7 +1426,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.029.364/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 84. EDcl no AgRg no REsp nº 2231348 / RS (STJ)
+## 113. EDcl no AgRg no REsp nº 2231348 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: Sem indícios mínimos de autoria, mantém-se a despronúncia. Embargos de declaração do MP rejeitados.
@@ -1052,7 +1438,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Embargos de declaração rejeitados.
   > (EDcl no AgRg no REsp n. 2.231.348/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 85. AgRg no AREsp nº 2495761 / BA (STJ)
+## 114. AgRg no AREsp nº 2495761 / BA (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
 - Crime / Tema: Estupro de vulnerável · Dosimetria
 - Resumo: A agravante do art. 61, II, “h”, do CP no estupro de vulnerável é bis in idem, e acrescentá-la em recurso só da defesa é reformatio in pejus. Agravo do MP desprovido.
@@ -1065,7 +1451,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental improvido.
   > (AgRg no AREsp n. 2.495.761/BA, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
 
-## 86. AgRg no AREsp nº 3317228 / SP (STJ)
+## 115. AgRg no AREsp nº 3317228 / SP (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 23/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Informante, drogas variadas em pouca quantidade e dinheiro achado com o corréu não provam dedicação a atividades criminosas, e ação penal em curso também não (Tema 1.139/STJ). Agravo desprovido, mas HC de ofício: redutor de 2/3, regime aberto e penas restritivas.
@@ -1085,19 +1471,19 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo regimental desprovido. Habeas corpus concedido de ofício.
   > (AgRg no AREsp n. 3.317.228/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026.)
 
-## 87. HC nº 1139236 / RJ (STJ)
+## 116. HC nº 1139236 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/10/2026.
 - Crime / Tema: Estupro de vulnerável · Abuso sexual infantojuvenil (ECA) · Prova digital · Quebra da cadeia de custódia
 - Resumo: A confiabilidade da prova digital (capturas de tela de conta em nuvem) é questão distinta da licitude do acesso: cabe ao Estado demonstrar a integridade da prova, sem exigir da defesa prova de adulteração. Ordem concedida de ofício: novo julgamento da apelação.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139236.pdf
 
-## 88. AREsp nº 2352634 / BA (STJ)
+## 117. AREsp nº 2352634 / BA (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 23/10/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Justa causa
 - Resumo: “Atitude suspeita” e pouca droga, sem sinal de mercancia, não dão justa causa para a ação penal por tráfico. Restabelecida a absolvição sumária.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2352634.pdf
 
-## 89. AgRg no AREsp nº 3352058 / SP (STJ)
+## 118. AgRg no AREsp nº 3352058 / SP (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 23/10/2026.
 - Crime / Tema: Adulteração de sinal identificador de veículo · Dosimetria
 - Resumo: Condenação anterior extinta há mais de 5 anos (art. 64, I, do CP) não gera reincidência. Agravo desprovido, mas ordem concedida de ofício para redimensionar a pena.
@@ -1120,25 +1506,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 10. Agravo regimental desprovido. Habeas corpus concedido de ofício.
   > (AgRg no AREsp n. 3.352.058/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026.)
 
-## 90. ARE nº 1.628.157 / SP (STF)
+## 119. ARE nº 1.628.157 / SP (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 23/10/2026.
 - Crime / Tema: Importunação sexual · Competência
 - Resumo: Onde não há vara especializada em crimes contra crianças e adolescentes, compete ao juizado de violência doméstica julgá-los (art. 23, par. único, da Lei 13.431/2017). ARE do MP com seguimento negado: mantida a decisão de origem.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628157.pdf
 
-## 91. Extn na Rcl nº 98.355 / SP (STF)
+## 120. Extn na Rcl nº 98.355 / SP (STF)
 - Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 23/10/2026.
 - Crime / Tema: Direito ao silêncio
 - Resumo: Quem é convocado à CPI como testemunha, mas está de fato na posição de investigado, pode não comparecer e não prestar compromisso. Sétima extensão concedida, com salvo-conduto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-98355.pdf
 
-## 92. HC nº 278.774 / AM (STF)
+## 121. HC nº 278.774 / AM (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 23/10/2026.
 - Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
 - Resumo: Na Justiça Militar, o ANPP não pode ser recusado por vedação abstrata: o juiz examina só a legalidade e a voluntariedade do acordo. Ordem concedida para novo exame da homologação.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278774.pdf
 
-## 93. Ext nº 1.995 / DF (STF)
+## 122. Ext nº 1.995 / DF (STF)
 - Decisão colegiada. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 23/10/2026.
 - Resumo: A extradição exige que o pedido descreva, para cada crime, a conduta do extraditando; imputação genérica não atende o art. 82, II, da Lei 13.445/2017. Extradição indeferida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-ext-1995.pdf
@@ -1151,25 +1537,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Extradição indeferida. Pedido de prisão preventiva julgado prejudicado.
   > (STF, Ext n. 1.995/DF, relator Ministro Flávio Dino, Primeira Turma, julgado em 19/10/2026, DJe de 23/10/2026.)
 
-## 94. Rcl nº 59.431 / DF (STF)
+## 123. Rcl nº 59.431 / DF (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 23/10/2026.
 - Crime / Tema: Crimes contra a honra · Competência
 - Resumo: Cabe ao STF decidir se a manifestação do parlamentar tem relação com o mandato, para definir o foro. Reclamação procedente: competência do STF para a queixa-crime contra senador.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-59431.pdf
 
-## 95. REsp nº 2286601 / SP (STJ)
+## 124. REsp nº 2286601 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 22/10/2026.
 - Crime / Tema: Dano qualificado · Execução penal
 - Resumo: Romper a tornozeleira para fugir não configura dano qualificado (art. 163, par. único, III, do CP) sem a intenção de causar prejuízo ao patrimônio (animus nocendi). REsp provido; réu absolvido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2286601.pdf
 
-## 96. RHC nº 250052 / GO (STJ)
+## 125. RHC nº 250052 / GO (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
 - Crime / Tema: Falsidade ideológica · Justa causa · Revisão criminal
 - Resumo: Retratação da vítima por escritura pública, sem eficácia probatória própria, não tem potencial lesivo para configurar falsidade ideológica (art. 299 do CP). RHC parcialmente provido: investigação trancada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-250052.pdf
 
-## 97. AgRg no AREsp nº 3298877 / PI (STJ)
+## 126. AgRg no AREsp nº 3298877 / PI (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 21/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A absolvição pelo quesito genérico pode acolher a clemência sustentada em plenário e registrada em ata, com apoio nas circunstâncias do caso. Veredito mantido; agravo do MP desprovido.
@@ -1188,31 +1574,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Agravo regimental desprovido.
   > (AgRg no AREsp n. 3.298.877/PI, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 15/10/2026, DJEN de 21/10/2026.)
 
-## 98. RHC nº 278.575 / DF (STF)
+## 127. RHC nº 278.575 / DF (STF)
 - Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 21/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Ato infracional anterior, sozinho, não afasta o tráfico privilegiado. RHC parcialmente provido para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278575.pdf
 
-## 99. RHC nº 278.498 / PR (STF)
+## 128. RHC nº 278.498 / PR (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 21/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Comutação anterior não impede nova comutação pelo Decreto 11.846/2023: os arts. 3º e 4º tratam de hipóteses distintas. RHC provido para reexame do pedido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278498.pdf
 
-## 100. HC nº 1138222 / MS (STJ)
+## 129. HC nº 1138222 / MS (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: Prisão temporária por crime fora do rol legal e com as diligências já cumpridas é ilegal. Custódia relaxada de ofício, superada a Súmula 691/STF.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1138222.pdf
 
-## 101. RE nº 1.623.966 / SC (STF)
+## 130. RE nº 1.623.966 / SC (STF)
 - Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 21/10/2026.
 - Crime / Tema: Crimes contra as relações de consumo · ANPP
 - Resumo: O ANPP cabe em processo sem trânsito em julgado, mesmo com denúncia recebida antes da Lei 13.964/2019 e condenação já em grau de recurso (HC 185.913/STF). RE da defesa provido: autos ao MP para avaliar o acordo.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1623966.pdf
 
-## 102. AgRg no REsp nº 2224434 / SP (STJ)
+## 131. AgRg no REsp nº 2224434 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: A aprovação no ENEM gera remição mesmo para quem já tem diploma de curso superior: o estudo atual é fato gerador autônomo. Agravo da defesa provido; autos voltam para o cálculo.
@@ -1225,7 +1611,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental provido para dar provimento ao recurso especial e, ao reformar o acórdão do Tribunal de Justiça do Estado de São Paulo, reconhecer o direito do agravante à remição de pena com base na aprovação parcial no ENEM, determinando-se o retorno dos autos ao Juízo da execução para o devido cômputo da remição correspondente.
   > (AgRg no REsp n. 2.224.434/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 103. REsp nº 2265467 / PR (STJ)
+## 132. REsp nº 2265467 / PR (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: A hipossuficiência declarada se presume verdadeira: cabe ao MP provar que o condenado pode pagar a multa para barrar a reabilitação (art. 94 do CP; Tema 931/STJ). REsp da defesa provido.
@@ -1241,7 +1627,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.265.467/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 104. AgRg no AREsp nº 3233531 / BA (STJ)
+## 133. AgRg no AREsp nº 3233531 / BA (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: Qualificadora sem prova judicial que a sustente deve ser afastada já na pronúncia. Mantida a exclusão; agravo do MP desprovido.
@@ -1260,7 +1646,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão monocrática que excluiu as qualificadoras.
   > (AgRg no AREsp n. 3.233.531/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 105. AgRg no AgRg no AREsp nº 3321341 / RJ (STJ)
+## 134. AgRg no AgRg no AREsp nº 3321341 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico
 - Resumo: Prisão em área de facção, droga e rádio comunicador, sem prova de vínculo estável e permanente, não sustentam a associação para o tráfico (art. 35 da Lei 11.343/2006). Absolvição mantida; agravo do MP desprovido.
@@ -1282,7 +1668,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 9. Resultado do Julgamento: Agravo regimental improvido.
   > (AgRg no AgRg no AREsp n. 3.321.341/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 106. AgRg no AREsp nº 3331286 / CE (STJ)
+## 135. AgRg no AREsp nº 3331286 / CE (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Receptação · Posse ilegal de arma de fogo
 - Resumo: Arma com numeração suprimida não basta para condenar por receptação: a acusação tem de provar que ela é produto de crime. Agravo do MP desprovido.
@@ -1295,7 +1681,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 3.331.286/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 107. AgRg no AREsp nº 2532255 / GO (STJ)
+## 136. AgRg no AREsp nº 2532255 / GO (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Imagens históricas do Google Maps exibidas em plenário, sem juntada no prazo do art. 479 do CPP, são prova surpresa. Júri anulado; agravo do MP desprovido.
@@ -1309,7 +1695,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.532.255/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 108. AgRg no AREsp nº 2858086 / DF (STJ)
+## 137. AgRg no AREsp nº 2858086 / DF (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Crimes contra o sistema financeiro · Justa causa
 - Resumo: Gestão temerária exige dolo e não admite responsabilidade penal objetiva; sem descrição concreta da conduta, mantido o trancamento da ação penal. Agravo do MP desprovido.
@@ -1326,7 +1712,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7.Agravo regimental não provido.
   > (AgRg no AREsp n. 2.858.086/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
 
-## 109. AgRg no REsp nº 1939308 / DF (STJ)
+## 138. AgRg no REsp nº 1939308 / DF (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 20/10/2026.
 - Crime / Tema: Roubo · Prova digital · Quebra da cadeia de custódia
 - Resumo: Acessar os dados do celular apreendido no flagrante sem ordem judicial nem consentimento é ilícito (Tema 977/STF), e a confissão em juízo, obtida só porque o réu foi identificado por essa devassa, é prova derivada e também ilícita. Sentença cassada para nova análise sem essas provas; agravo do MP desprovido.
@@ -1340,31 +1726,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 1.939.308/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/10/2026, DJEN de 20/10/2026.)
 
-## 110. RE nº 1.616.000 / SP (STF)
+## 139. RE nº 1.616.000 / SP (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 20/10/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Entrada na casa só por denúncia anônima, com consentimento do morador não documentado e contestado em juízo, é ilícita (Tema 280/STF). Mantida a absolvição concedida pelo STJ; RE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1616000.pdf
 
-## 111. ARE nº 1.623.674 / GO (STF)
+## 140. ARE nº 1.623.674 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Gravação inaudível da sessão plenária do Júri, por defeito técnico, prejudica a defesa e anula o julgamento a partir do plenário, como decidiu o TJGO. ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623674.pdf
 
-## 112. RE nº 1.629.803 / SP (STF)
+## 141. RE nº 1.629.803 / SP (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 20/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: O exame criminológico obrigatório para a progressão, trazido pela Lei 14.843/2024, é norma mais gravosa e não retroage; o juiz pode exigi-lo só por decisão fundamentada no caso concreto (SV 26). RE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1629803.pdf
 
-## 113. ARE nº 1.600.909 / RS (STF)
+## 142. ARE nº 1.600.909 / RS (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Tráfico privilegiado
 - Resumo: Ações penais em andamento, sozinhas, não afastam o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). RE do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1600909.pdf
 
-## 114. AgRg no AREsp nº 3101436 / ES (STJ)
+## 143. AgRg no AREsp nº 3101436 / ES (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento por show up (só o suspeito é mostrado), sem as regras do art. 226 do CPP, com vítimas inseguras em juízo e sem outra prova, não sustenta a condenação (Tema 1.258/STJ). Revaloração jurídica afasta a Súmula 7. Réu absolvido.
@@ -1377,7 +1763,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental provido para conhecer do agravo e dar provimento ao recurso especial.
   > (AgRg no AREsp n. 3.101.436/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 19/10/2026.)
 
-## 115. AgRg no HC nº 1061845 / SP (STJ)
+## 144. AgRg no HC nº 1061845 / SP (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Excesso de prazo
 - Resumo: A duração razoável do processo vale também para a investigação: procedimento do MP aberto há quase 7 anos, sem avanço concreto quanto ao investigado, foi trancado. A complexidade não justifica prazo indefinido. O juízo reavalia a devolução dos valores apreendidos.
@@ -1404,7 +1790,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 14. Agravo regimental desprovido.
   > (AgRg no HC n. 1.061.845/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 116. AgRg no REsp nº 2282869 / SP (STJ)
+## 145. AgRg no REsp nº 2282869 / SP (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Faltas graves antigas e já reabilitadas não podem impedir para sempre o livramento condicional (Tema 1.161/STJ), e o exame criminológico não vincula o juiz. Mais de 5 anos sem falta e o livramento cumprido sem problemas mostram o mérito. Agravo do MP desprovido.
@@ -1425,7 +1811,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Resultado do Julgamento: Agravo regimental desprovido.
   > (AgRg no REsp n. 2.282.869/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 117. HC nº 1104329 / PE (STJ)
+## 146. HC nº 1104329 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: A pronúncia exige indícios de autoria produzidos em juízo; o in dubio pro societate não supre a falta deles. O TJ restaurou a pronúncia com elementos do inquérito, contra a impronúncia baseada em falta de reconhecimento, ERB compatível com o álibi e ausência de perícia na arma. Impronúncia restabelecida de ofício.
@@ -1439,7 +1825,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Habeas corpus não conhecido. Ordem concedida de ofício.
   > (HC n. 1.104.329/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 19/10/2026.)
 
-## 118. AgRg no HC nº 1099090 / RS (STJ)
+## 147. AgRg no HC nº 1099090 / RS (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria
 - Resumo: Frieza, promessas de morte e extensão dos ferimentos são inerentes ao homicídio e não elevam a culpabilidade; sofrimento da família e vítima de 29 anos tratada como de tenra idade não pesam nas consequências. O AREsp barrado na admissibilidade não impede o HC. Agravo do MP desprovido.
@@ -1468,7 +1854,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. A negativação das consequências do crime demanda prova de efeitos extraordinários que transcendam o resultado típico, não sendo idôneos, por si, o sofrimento dos familiares e a qualificação de vítima de 29 anos como de tenra idade.
   > (AgRg no HC n. 1.099.090/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
 
-## 119. AgRg no REsp nº 2230033 / MG (STJ)
+## 148. AgRg no REsp nº 2230033 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · Dosimetria
 - Resumo: Afastada uma circunstância judicial em recurso só da defesa, a pena-base deve cair proporcionalmente (Tema 1.214/STJ), sem frações matemáticas fixas. Redução feita pelo TJ mantida; agravo do MP desprovido.
@@ -1492,7 +1878,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Resultado do Julgamento: Agravo regimental desprovido.
   > (AgRg no REsp n. 2.230.033/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/10/2026, DJEN de 19/10/2026.)
 
-## 120. AgRg nos EDcl no REsp nº 2117444 / RS (STJ)
+## 149. AgRg nos EDcl no REsp nº 2117444 / RS (STJ)
 - Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Corrupção passiva · Falsidade ideológica · ANPP · Prescrição
 - Resumo: O ANPP cabe em processos em curso até o trânsito em julgado, sem confissão prévia, e a recusa do MP tem de ser motivada e revista internamente (aqui foi). Reconhecida a prescrição superveniente da corrupção passiva privilegiada; mantida a falsidade ideológica.
@@ -1516,61 +1902,61 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 11. Agravo regimental parcialmente provido para declarar extinta a punibilidade do agravante quanto ao crime do art. 317, § 2º, do Código Penal, pela prescrição da pretensão punitiva superveniente, mantida a condenação pelo art. 299, parágrafo único, do Código Penal.
   > (AgRg nos EDcl no REsp n. 2.117.444/RS, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 121. HC nº 1134069 / SP (STJ)
+## 150. HC nº 1134069 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Furto · Prisão e medidas cautelares
 - Resumo: O juiz não pode decretar a preventiva de ofício, sem pedido do MP ou representação da polícia (art. 311 do CPP; Súmula 676/STJ). Preventiva anulada num furto de 8 latas de Pringles, avaliadas em R$ 72.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134069.pdf
 
-## 122. HC nº 1109888 / SP (STJ)
+## 151. HC nº 1109888 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tribunal do Júri
 - Resumo: Para o desaforamento basta dúvida fundada sobre a imparcialidade do Júri (art. 427 do CPP): cidade de 20 mil habitantes, grande repercussão e o poder público local tomando partido, com parecer favorável da Procuradoria de Justiça. Júri anulado e desaforado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109888.pdf
 
-## 123. HC nº 1114459 / PR (STJ)
+## 152. HC nº 1114459 / PR (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Violência doméstica
 - Resumo: Lesão corporal culposa (art. 129, § 6º, do CP) exige a demonstração da violação do dever objetivo de cuidado e da previsibilidade; a dinâmica descrita era a de um acidente com o veículo. Réu absolvido por atipicidade (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114459.pdf
 
-## 124. HC nº 1112935 / ES (STJ)
+## 153. HC nº 1112935 / ES (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Sem atos de ocultação ou dissimulação da origem ilícita dos valores, a conduta descrita não é lavagem de dinheiro (art. 1º da Lei 9.613/1998). Ação penal trancada quanto à paciente por atipicidade.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112935.pdf
 
-## 125. HC nº 942619 / GO (STJ)
+## 154. HC nº 942619 / GO (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · ANPP
 - Resumo: Negar o ANPP por falta de confissão no inquérito é inválido: a confissão pode ser formalizada na assinatura do acordo (Tema 1.303/STJ). Autos devolvidos para o MP examinar a proposta, com recusa fundamentada se for o caso.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-942619.pdf
 
-## 126. AREsp nº 3274597 / TO (STJ)
+## 155. AREsp nº 3274597 / TO (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Ameaça · Violência doméstica · Testemunho indireto
 - Resumo: A declaração da vítima só na delegacia e o testemunho de quem apenas a repete em juízo vêm da mesma fonte e não se corroboram (art. 155 do CPP). Sem prova judicial autônoma, réu absolvido da ameaça (art. 386, VII).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3274597.pdf
 
-## 127. HC nº 1137700 / SP (STJ)
+## 156. HC nº 1137700 / SP (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Tráfico de drogas · Busca e apreensão
 - Resumo: Mandado de busca deferido apenas 'considerando os documentos' e o parecer do MP, sem fundamentação própria, é nulo; não se trata nem de fundamentação per relationem. A droga achada depois não convalida a busca. Provas ilícitas, preventiva revogada e justa causa a reexaminar na origem.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1137700.pdf
 
-## 128. HC nº 1115285 / SP (STJ)
+## 157. HC nº 1115285 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Prova digital · Busca e apreensão
 - Resumo: Celulares apreendidos durante o cumprimento de mandado de prisão contra outra pessoa, sem mandado de busca, flagrante ou consentimento, são prova ilícita; a autorização posterior para extrair os dados não corrige a apreensão. O juízo delimita as provas derivadas e reavalia a preventiva.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115285.pdf
 
-## 129. HC nº 1111126 / RS (STJ)
+## 158. HC nº 1111126 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
 - Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
 - Resumo: Preso preventivamente desde 2021 e pronunciado em 2023, sem previsão de Júri: o excesso de prazo na formação da culpa torna a prisão ilegal. Preventiva relaxada, com cautelares do art. 319 do CPP.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111126.pdf
 
-## 130. AgRg no RHC nº 210983 / DF (STJ)
+## 159. AgRg no RHC nº 210983 / DF (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes; redator do acórdão: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Organização criminosa · Acesso da defesa às provas
 - Resumo: A defesa tem direito de acessar todo o procedimento investigatório do MP já documentado, mesmo antes de a investigação terminar (Súmula Vinculante 14). Só as diligências em curso podem ser restringidas, e o risco de 'frustrar o trabalho' não justifica negar o acesso.
@@ -1583,7 +1969,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental provido para dar provimento ao recurso em habeas corpus, a fim de determinar que o Juízo de Direito da 1ª Vara Criminal de Brasília/DF permita o acesso da defesa do recorrente às diligências já documentadas no Procedimento n. 0721056-73.2023.8.07.0001.
   > (AgRg no RHC n. 210.983/DF, relator Ministro Og Fernandes, relator para acórdão Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 16/10/2026.)
 
-## 131. AgRg no RHC nº 238817 / MG (STJ)
+## 160. AgRg no RHC nº 238817 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Prisão e medidas cautelares
 - Resumo: Notícia de disparos, fama de envolvimento em brigas, nervosismo e fuga na área externa não são fundadas razões para entrar na casa (Tema 280/STF). Consentimento e confissão informal apoiados só no relato policial não provam a legalidade da entrada: o ônus é do Estado. Provas ilícitas e preventiva revogada; agravo do MP desprovido.
@@ -1604,7 +1990,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental desprovido.
   > (AgRg no RHC n. 238.817/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
 
-## 132. AgRg no REsp nº 2052674 / MG (STJ)
+## 161. AgRg no REsp nº 2052674 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Inserção de dados falsos em sistema de informações
 - Resumo: Absolvição pelo art. 313-A do CP mantida: o TJ reconheceu a falta de dolo específico e a fragilidade da prova, e rever isso exige reexame de provas (Súmula 7). Perda da função pública não prequestionada; agravo do MP desprovido.
@@ -1624,49 +2010,49 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo regimental não provido.
   > (AgRg no REsp n. 2.052.674/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
 
-## 133. AREsp nº 3317207 / SP (STJ)
+## 162. AREsp nº 3317207 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Receptação · Fundada suspeita
 - Resumo: Abordagem do motorista só pelo nervosismo, sem elemento objetivo, é ilegal (art. 244 do CPP). A descoberta posterior do veículo adulterado não convalida a busca, e as provas derivadas são ilícitas. Réu absolvido da receptação (art. 386, II, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3317207.pdf
 
-## 134. RHC nº 237625 / PA (STJ)
+## 163. RHC nº 237625 / PA (STJ)
 - Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Usurpação de bem da União · Inépcia da denúncia
 - Resumo: Denúncia inepta quanto aos crimes da Lei 8.176/1991 (ouro e combustível), por não descrever a conduta. E ordem de desocupação não é 'suspensão de direito': enquadrá-la no art. 359 do CP seria interpretação extensiva contra o réu. Ação penal trancada nesses pontos; segue quanto aos demais crimes.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-237625.pdf
 
-## 135. PExt no AREsp nº 2714514 / SP (STJ)
+## 164. PExt no AREsp nº 2714514 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Quebra de sigilo
 - Resumo: A nulidade das interceptações reconhecida para corréus se estende a quem está na mesma situação (art. 580 do CPP), mesmo em processo desmembrado e com recurso extraordinário pendente contra o acórdão-paradigma. Provas desentranhadas; o juízo de origem verifica as fontes independentes (Operação Materello).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2714514.pdf
 
-## 136. HC nº 1133453 / SP (STJ)
+## 165. HC nº 1133453 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Contrabando · Prisão e medidas cautelares
 - Resumo: Tornozeleira e recolhimento domiciliar noturno mantidos por longo período, sem motivação concreta, são desproporcionais. Revogados, mantidas as demais cautelares de ônus reduzido (caso de contrabando).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133453.pdf
 
-## 137. HC nº 1136779 / BA (STJ)
+## 166. HC nº 1136779 / BA (STJ)
 - Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Violência doméstica · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: Quem recebe liberdade provisória com fiança e continua preso por não poder pagar, assistido pela Defensoria, não pode ficar preso por pobreza (art. 350 do CPP; HC coletivo 568.693/ES). Fiança dispensada, mantidas as protetivas e cautelares; Súmula 691 superada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136779.pdf
 
-## 138. HC nº 1128385 / PR (STJ)
+## 167. HC nº 1128385 / PR (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: No indulto do Decreto 12.338/2024 (art. 9º, XV), a assistência pela Defensoria presume a incapacidade econômica (art. 12, § 2º) e dispensa a reparação do dano, sem exigir arrependimento posterior. Indulto restabelecido nas condenações por furto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128385.pdf
 
-## 139. HC nº 1114885 / BA (STJ)
+## 168. HC nº 1114885 / BA (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento feito sem as cautelas do art. 226 do CPP, só confirmado em juízo, sem flagrante, apreensão de bens ou outra prova independente, não sustenta a condenação (Tema 1.258/STJ). Réu absolvido de roubo e importunação sexual (art. 386, VII, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114885.pdf
 
-## 140. ApCrim nº 0204142-84.2025.8.06.0312 (TJCE)
+## 169. ApCrim nº 0204142-84.2025.8.06.0312 (TJCE)
 - Decisão colegiada. Relatora: Des.ª Lira Ramos de Oliveira. 1ª Câmara Criminal. Publicado em 16/10/2026.
 - Crime / Tema: Tráfico de drogas · Porte ilegal de munição · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Busca pessoal só porque o réu 'olhava para trás e parecia nervoso', sem elemento objetivo, é ilícita (art. 244 do CPP), assim como o ingresso na casa que dela decorreu. Local ermo e notícias genéricas de tráfico na região não suprem a falta de fundada suspeita. Sem outras provas, réu absolvido de tráfico e porte de munição (art. 386, VII, do CPP).
@@ -1702,25 +2088,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento: "1. A busca pessoal sem mandado judicial exige fundada suspeita objetiva e concreta, não sendo suficientes para sua legitimação meras percepções subjetivas, comportamentos ambíguos ou o simples o fato de se encontrar em local conhecido pelo intenso tráfico de drogas. 2. Quando a busca pessoal é realizada sem fundada suspeita, em violação ao art. 244 do CPP, as provas dela decorrentes são ilícitas e devem ser desentranhadas do processo, conforme art. 157 do CPP e art. 5º, LVI, da Constituição Federal. 3. O fato de terem sido encontradas drogas após a revista ilegal não convalida a ilegalidade prévia, sendo necessário que o elemento "fundada suspeita" seja aferido com base nas circunstâncias anteriores à diligência."
   > (TJCE, Apelação Criminal n. 0204142-84.2025.8.06.0312, relatora Desembargadora Lira Ramos de Oliveira, 1ª Câmara Criminal, julgado em 6/10/2026, publicado em 16/10/2026.)
 
-## 141. AREsp nº 3352144 / SP (STJ)
+## 170. AREsp nº 3352144 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Porte de drogas para consumo pessoal
 - Resumo: Porte de 0,9 g de cocaína para consumo pessoal, sem ofensividade penalmente relevante, é materialmente atípico (art. 28 da Lei 11.343/2006). Agravo não conhecido, mas HC de ofício: restabelecida a rejeição da denúncia (art. 395, II, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3352144.pdf
 
-## 142. RHC nº 277.819 / SC (STF)
+## 171. RHC nº 277.819 / SC (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
 - Crime / Tema: Roubo · Dosimetria
 - Resumo: Frações sucessivas sobre resultados parciais na primeira fase da dosimetria geram efeito cascata: devem incidir sobre a pena mínima. Ordem parcialmente concedida para redimensionar a pena.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277819.pdf
 
-## 143. ARE nº 1.627.640 / RJ (STF)
+## 172. ARE nº 1.627.640 / RJ (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 15/10/2026.
 - Crime / Tema: Extorsão · Execução penal
 - Resumo: A hediondez que impede indulto ou comutação é aferida pela lei vigente na data dos fatos (irretroatividade da lei penal mais gravosa). RE da defesa provido para reexame do benefício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1627640.pdf
 
-## 144. RE nº 1.621.705 / MG (STF)
+## 173. RE nº 1.621.705 / MG (STF)
 - Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/10/2026.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Absolvição por tráfico sem apreensão nem perícia da droga, só com interceptações sobre a negociação, mantida: a Segunda Turma negou seguimento ao RE do MP, porque a suficiência da prova da materialidade é questão infraconstitucional (Súmulas 282 e 356/STF).
@@ -1740,13 +2126,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Recurso com seguimento negado.
   > (STF, RE n. 1.621.705/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 2/10/2026, DJe de 15/10/2026.)
 
-## 145. ARE nº 1.621.303 / GO (STF)
+## 174. ARE nº 1.621.303 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 15/10/2026.
 - Crime / Tema: Homicídio · Excesso de prazo · Justa causa
 - Resumo: Mantido o trancamento de ofício de inquérito por homicídio, pela demora excessiva do MP em denunciar e pela falta de indícios mínimos de autoria; a investigação pode ser reaberta com prova nova. ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1621303.pdf
 
-## 146. REsp nº 2246666 / SP (STJ)
+## 175. REsp nº 2246666 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Violência doméstica
 - Resumo: Há controvérsia séria sobre o recurso cabível contra decisão sobre medidas protetivas de urgência (agravo de instrumento ou RESE). Por isso, usar o recurso 'errado' não é erro grosseiro, e ele deve ser aproveitado pela fungibilidade recursal (art. 579 do CPP).
@@ -1760,7 +2146,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.246.666/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 147. HC nº 1111206 / RJ (STJ)
+## 176. HC nº 1111206 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: Reincidência e habitualidade não impedem, por si sós, a insignificância quando o caso é excepcional: desodorante de R$ 17,99, restituído, e réu tecnicamente primário. Ação penal trancada.
@@ -1773,7 +2159,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Ordem concedida para determinar o trancamento da ação penal.
   > (HC n. 1.111.206/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 148. AgRg no REsp nº 2257004 / AL (STJ)
+## 177. AgRg no REsp nº 2257004 / AL (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: No furto de cabos, a referência genérica a 'prejuízo à coletividade' e o laudo que só mede a res furtiva não elevam a pena-base pelas consequências do crime: é preciso demonstrar impacto concreto e extraordinário ao serviço público. Agravo do MP desprovido.
@@ -1786,7 +2172,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental não provido.
   > (AgRg no REsp n. 2.257.004/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 15/10/2026.)
 
-## 149. AgRg no HC nº 1077013 / RS (STJ)
+## 178. AgRg no HC nº 1077013 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Violência psicológica contra a mulher · Prisão e medidas cautelares
 - Resumo: A preventiva decretada em grau de recurso exige risco concreto e atual. O réu ficou mais de 4 meses solto cumprindo cautelares rigorosas, sem descumprimento: gravidade das imputações, repercussão social e posição acadêmica e profissional não bastam. Medidas do art. 319 do CPP mantidas; agravo do MP desprovido, por maioria.
@@ -1801,7 +2187,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Agravo regimental não provido.
   > (AgRg no HC n. 1.077.013/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/9/2026, DJEN de 15/10/2026.)
 
-## 150. AgRg no HC nº 1121609 / RS (STJ)
+## 179. AgRg no HC nº 1121609 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: A exigência de exame criminológico para toda progressão, trazida pela Lei 14.843/2024 ao art. 112, § 1º, da LEP, é norma mais gravosa e não retroage (art. 5º, XL, da CF, e art. 2º do CP). Agravo do MP desprovido.
@@ -1813,7 +2199,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental improvido.
   > (AgRg no HC n. 1.121.609/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 151. REsp nº 2265744 / RJ (STJ)
+## 180. REsp nº 2265744 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Corrupção ativa · Corrupção passiva
 - Resumo: Coisa julgada (art. 110, § 2º, do CPP): absolvido por atipicidade, o réu não pode ser denunciado de novo pelo mesmo fato principal, ainda que com outra capitulação (non bis in idem). Trancamento mantido no caso Casa da Moeda/SICPA; REsp do MPF desprovido.
@@ -1828,43 +2214,43 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
   > (REsp n. 2.265.744/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2026, DJEN de 15/10/2026.)
 
-## 152. HC nº 1136529 / SP (STJ)
+## 181. HC nº 1136529 / SP (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Falta grave por droga enviada por terceiro ao preso exige prova de que ele a pediu ou teve contato com ela. Punir só pelo destino da encomenda é responsabilidade objetiva (intranscendência da pena, art. 5º, XLV, da CF). Falta grave afastada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136529.pdf
 
-## 153. AgRg no HC nº 1105944 / SP (STJ)
+## 182. AgRg no HC nº 1105944 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Associação para o tráfico
 - Resumo: Divisão de tarefas, drogas com embalagens iguais e abastecimento do mesmo ponto mostram coautoria no tráfico, não o vínculo estável e permanente da associação (art. 35 da Lei 11.343/2006). Revaloração jurídica dos fatos, sem reexame de prova. Absolvição, com extensão aos corréus.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1105944.pdf
 
-## 154. HC nº 1136754 / SP (STJ)
+## 183. HC nº 1136754 / SP (STJ)
 - Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Execução penal
 - Resumo: Mãe de crianças menores de 12 anos, presa em regime fechado por crime sem violência, pode ter prisão domiciliar mesmo fora das hipóteses do art. 117 da LEP. Falta de previsão legal e de prova de dependência exclusiva dos filhos não bastam para negar. Domiciliar concedida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136754.pdf
 
-## 155. HC nº 1132401 / ES (STJ)
+## 184. HC nº 1132401 / ES (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 15/10/2026.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Falsidade ideológica · Prisão e medidas cautelares
 - Resumo: Se o fato novo que motivou o restabelecimento da preventiva (suposto descumprimento de cautelares empresariais) foi desmentido pela própria Fazenda, o restante do decreto, que era só reforço, não sustenta a prisão. Cautelares restabelecidas; nova reavaliação exige contraditório prévio (art. 282, § 3º, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1132401.pdf
 
-## 156. RE nº 1.624.621 / RS (STF)
+## 185. RE nº 1.624.621 / RS (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 14/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Prisão domiciliar sem monitoração eletrônica para quem progrediu ao regime aberto, por falta de vagas, é compatível com a SV 56 e o Tema 423/RG: a tornozeleira se destina sobretudo ao semiaberto. RE do MP com seguimento negado, mantida a decisão do TJRS.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1624621.pdf
 
-## 157. ARE nº 1.521.716 / PR (STF)
+## 186. ARE nº 1.521.716 / PR (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 14/10/2026.
 - Crime / Tema: Apologia de crime
 - Resumo: A fala na tribuna da Assembleia, em debate político, está coberta pela imunidade material do deputado; mantida a rejeição do pedido de investigação por apologia de crime (art. 287 do CP). ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1521716.pdf
 
-## 158. AgRg no HC nº 232.300 / PE (STF)
+## 187. AgRg no HC nº 232.300 / PE (STF)
 - Decisão colegiada. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 14/10/2026.
 - Crime / Tema: Excesso de prazo · Justa causa · Colaboração premiada
 - Resumo: Excesso de prazo e falta de corroboração das declarações do colaborador justificam trancar o inquérito. Terceiro agravo do MPF desprovido, por maioria.
@@ -1884,19 +2270,19 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental desprovido.
   > (STF, HC n. 232.300 AgR-terceiro/PE, relator Ministro Gilmar Mendes, Segunda Turma, julgado em 14/9/2026, DJe de 14/10/2026.)
 
-## 159. HC nº 1114927 / RJ (STJ)
+## 188. HC nº 1114927 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Organização criminosa · Estelionato · Lavagem de dinheiro · Assistente de acusação · Prisão e medidas cautelares
 - Resumo: O assistente de acusação não pode recorrer da revogação de medidas cautelares, fora das hipóteses legais. Ordem concedida: revogadas as cautelares restabelecidas por recurso dele.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114927.pdf
 
-## 160. REsp nº 2286390 / SP (STJ)
+## 189. REsp nº 2286390 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: A visita com contato direto não pode ser negada de forma genérica só pela condição penal da visitante. REsp provido: autorizada a visita da companheira.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2286390.pdf
 
-## 161. AgRg no HC nº 1109495 / SP (STJ)
+## 190. AgRg no HC nº 1109495 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Colaboração premiada
 - Resumo: As informações que o advogado obteve pela relação de confiança com o cliente continuam protegidas pelo sigilo profissional, mesmo que ele também seja investigado. A colaboração premiada do advogado que delatou o antigo cliente é inválida quanto a este, preservadas as provas de fonte autônoma. O Tema 1.441/STF não muda a jurisprudência aplicável.
@@ -1914,7 +2300,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 9. Agravo regimental não provido.
   > (AgRg no HC n. 1.109.495/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 162. AgRg no AREsp nº 2373732 / RS (STJ)
+## 191. AgRg no AREsp nº 2373732 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
 - Resumo: Depois dos debates, o juiz presidente não pode dizer aos jurados que as qualificadoras se aplicam 'ao caso' nem citar decisão anterior: o esclarecimento do art. 480, §§ 1º e 2º, do CPP se limita a questões de fato. A interferência compromete a imparcialidade do Conselho de Sentença, e o prejuízo ficou demonstrado (art. 563 do CPP). Júri anulado.
@@ -1927,7 +2313,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.373.732/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 163. AREsp nº 3146788 / AP (STJ)
+## 192. AREsp nº 3146788 / AP (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · ANPP
 - Resumo: A recusa do MP em oferecer o ANPP precisa ser fundamentada. Recusada sem motivo, a defesa tem direito à remessa ao órgão revisor do MP (art. 28-A, § 14, do CPP), inclusive na fase recursal, com a execução da pena suspensa até lá. O caso era de tráfico privilegiado.
@@ -1960,7 +2346,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Diante de recusa imotivada em termos concretos, o Poder Judiciário não pode impor diretamente a celebração do acordo de não persecução penal, devendo determinar a remessa dos autos ao órgão revisor do Ministério Público, na forma do art. 28-A, § 14, c/ c art. 28 do CPP, com sobrestamento da execução da pena até a decisão revisional.
   > (AREsp n. 3.146.788/AP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 164. AgRg no AREsp nº 3241389 / SC (STJ)
+## 193. AgRg no AREsp nº 3241389 / SC (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Crimes contra a ordem tributária
 - Resumo: Ser sócio-administrador da empresa devedora não basta para condenar por sonegação: presumir a autoria pelo cargo é responsabilidade penal objetiva. Sem prova individualizada, o réu foi absolvido por HC de ofício, e a Súmula 7 não impede revalorar fatos incontroversos do acórdão.
@@ -1983,7 +2369,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 1. A condição de sócio-administrador é penalmente atípica e não autoriza, por si só, a presunção de autoria delitiva.
   > (AgRg no AREsp n. 3.241.389/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 165. AgRg no RHC nº 245514 / CE (STJ)
+## 194. AgRg no RHC nº 245514 / CE (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Corrupção passiva · Justa causa
 - Resumo: A denúncia por corrupção passiva precisa de suporte probatório mínimo do núcleo 'solicitar'. Boletim de ocorrência, declaração da noticiante e um protocolo administrativo não bastam. Sem justa causa material (art. 395, III, do CPP), a ação penal foi trancada.
@@ -2004,7 +2390,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > IV. Dispositivo Resultado do Julgamento: Agravo regimental provido para determinar o trancamento da ação penal n. 0201305-07.2025.8.06.0296.
   > (AgRg no RHC n. 245.514/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/10/2026, DJEN de 14/10/2026.)
 
-## 166. AgRg no AREsp nº 3274327 / SP (STJ)
+## 195. AgRg no AREsp nº 3274327 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria
 - Resumo: Condenação antiga, com pena extinta mais de 10 anos antes do novo fato, pode deixar de gerar maus antecedentes, pelo direito ao esquecimento, em juízo de proporcionalidade. Maus antecedentes afastados, e pena redimensionada.
@@ -2021,7 +2407,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental parcialmente provido para afastar os maus antecedentes, redimensionando a pena final do acusado para 23 anos, 2 meses e 20 dias de reclusão.
   > (AgRg no AREsp n. 3.274.327/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 167. AgRg no AgRg no HC nº 1066102 / MG (STJ)
+## 196. AgRg no AgRg no HC nº 1066102 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri · Pronúncia
 - Resumo: Embriaguez ao volante, mesmo com velocidade excessiva, não basta para indicar dolo eventual: são precisos elementos concretos de que o motorista aceitou o resultado morte. Desclassificação dos homicídios para culposos mantida, sem usurpar a competência do Júri.
@@ -2043,7 +2429,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. A desclassificação de homicídio doloso para crime culposo, quando ausentes circunstâncias concretas robustas de assentimento ao resultado morte, não usurpa a competência do Tribunal do Júri.
   > (AgRg no AgRg no HC n. 1.066.102/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 168. AgRg no AREsp nº 3062314 / ES (STJ)
+## 197. AgRg no AREsp nº 3062314 / ES (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: O princípio da insignificância vale mesmo no furto qualificado pelo concurso de agentes: dois chocolates de R$ 55, restituídos, sem violência. Atipicidade material e absolvição (art. 386, III, do CPP).
@@ -2072,7 +2458,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. A subtração, sem violência ou grave ameaça, de bem de ínfimo valor, restituído à vítima, é materialmente atípica e autoriza a absolvição com base no art. 386, III, do Código de Processo Penal.
   > (AgRg no AREsp n. 3.062.314/ES, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 169. AgRg no AREsp nº 3216337 / RN (STJ)
+## 198. AgRg no AREsp nº 3216337 / RN (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Se o Estado não tem tornozeleira e o apenado fica em recolhimento domiciliar noturno, esse período entra na detração (art. 42 do CP). A falha estatal não pode prejudicar o sentenciado; agravo do MP desprovido.
@@ -2094,7 +2480,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 9. Agravo regimental desprovido.
   > (AgRg no AREsp n. 3.216.337/RN, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 170. AgRg no HC nº 1124320 / RJ (STJ)
+## 199. AgRg no HC nº 1124320 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Prisão e medidas cautelares
 - Resumo: Preventiva e regime semiaberto são incompatíveis, em regra (entendimento do STF), salvo reiteração ou violência. Réu primário, condenado por tráfico privilegiado na fração máxima: prisão revogada, com cautelares do art. 319 do CPP; agravo do MPF desprovido.
@@ -2107,13 +2493,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental não provido.
   > (AgRg no HC n. 1.124.320/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2026, DJEN de 14/10/2026.)
 
-## 171. ARE nº 1.628.158 / CE (STF)
+## 200. ARE nº 1.628.158 / CE (STF)
 - Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 13/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: O trabalho externo não pode ser negado pela gravidade abstrata dos crimes, pelo saldo de pena ou por ser “prematuro”. ARE do MP com seguimento negado: mantida a reavaliação com base em elementos concretos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628158.pdf
 
-## 172. AgRg no AgRg no HC nº 938203 / RO (STJ)
+## 201. AgRg no AgRg no HC nº 938203 / RO (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Organização criminosa · Competência · Quebra de sigilo
 - Resumo: Cautelares invasivas (interceptações e quebra de sigilos bancário, fiscal e de dados) decretadas por vara federal sem competência, quando a investigação já apontava organização criminosa e lavagem, da competência de vara especializada, são nulas. A teoria do juízo aparente não as salva. Provas derivadas desentranhadas; agravo do MPF desprovido.
@@ -2139,7 +2525,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 13. Agravo regimental conhecido e desprovido, mantida a decisão que declarou a nulidade dos atos decisórios praticados pelo Juízo da 7ª Vara Federal a partir de 12/04/2021 e determinou o desentranhamento das provas diretamente derivadas, com preservação do exame pelo juízo competente quanto a fontes independentes e ausência de nexo causal.
   > (AgRg no AgRg no HC n. 938.203/RO, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 8/10/2026, DJEN de 13/10/2026.)
 
-## 173. AgRg no REsp nº 2263423 / MG (STJ)
+## 202. AgRg no REsp nº 2263423 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Só pedir que alguém leve droga ao presídio, sem a entrega efetiva, é ato preparatório impunível. Absolvição pelo tráfico (art. 33 da Lei 11.343/2006) mantida; agravo do MPF desprovido.
@@ -2158,7 +2544,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento: A mera solicitação de entrega de entorpecente, sem a efetiva entrega no estabelecimento prisional, configura ato preparatório e é impunível.
   > (AgRg no REsp n. 2.263.423/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2026, DJEN de 13/10/2026.)
 
-## 174. REsp nº 2234555 / AC (STJ)
+## 203. REsp nº 2234555 / AC (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Prescrição
 - Resumo: Pena definitiva de até 2 anos prescreve em 4 anos (art. 109, V, do CP). Passados mais de 4 anos desde o acórdão da apelação, ocorreu a prescrição intercorrente. Punibilidade extinta.
@@ -2167,7 +2553,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > RECURSO ESPECIAL. PEDIDO DE DECLARAÇÃO DA EXTINÇÃO DE PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA INTERCORRENTE. VERIFICAÇÃO. OCORRÊNCIA. PENA DEFINITIVA DISPOSTA EM PATAMAR IGUAL OU INFERIOR A 2 ANOS DE RECLUSÃO. TRANSCURSO DE PRAZO SUPERIOR A 4 ANOS DESDE O JULGAMENTO DO ACÓRDÃO DA APELAÇÃO CRIMINAL. APLICAÇÃO DO ART. 109, V, DO CP. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.234.555/AC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
 
-## 175. HC nº 1109575 / MS (STJ)
+## 204. HC nº 1109575 / MS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Organização criminosa · Corrupção ativa · Prisão e medidas cautelares
 - Resumo: As cautelas devem ser progressivas (art. 282, §§ 4º e 6º, do CPP). Diante de fatos novos (denúncia rejeitada em outro processo e suspensão da OAB negada), ré primária, crime sem violência e instrução demorada, a domiciliar foi substituída por medidas do art. 319 do CPP.
@@ -2181,7 +2567,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Ordem concedida nos termos do dispositivo.
   > (HC n. 1.109.575/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
 
-## 176. HC nº 1128832 / CE (STJ)
+## 205. HC nº 1128832 / CE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 13/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Errar a alínea do art. 593, III, do CPP no termo da apelação contra o Júri é mera irregularidade se as razões delimitam os pedidos. Recusar-se a julgar a apelação por isso é negativa de prestação jurisdicional. Ordem de ofício para o TJ julgar.
@@ -2194,19 +2580,19 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Impetração não conhecida. Ordem concedida de ofício.
   > (HC n. 1.128.832/CE, relator Ministro Og Fernandes, Sexta Turma, julgado em 6/10/2026, DJEN de 13/10/2026.)
 
-## 177. ARE nº 1.627.894 / SP (STF)
+## 206. ARE nº 1.627.894 / SP (STF)
 - Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 09/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Quantidade e natureza da droga, sozinhas, não afastam o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Recurso da defesa parcialmente provido para o TJSP aplicar o redutor e fundamentar a fração (cultivo de cerca de 480 pés de maconha).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1627894.pdf
 
-## 178. RHC nº 248906 / BA (STJ)
+## 207. RHC nº 248906 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/10/2026.
 - Crime / Tema: Tráfico de drogas · Dosimetria
 - Resumo: A detração do art. 387, § 2º, do CPP tem de ser feita já na sentença para fixar o regime inicial; não pode ser deixada para a Vara de Execuções. Descontada a prisão provisória, a pena de 9 anos caía abaixo de 8, e o tribunal se recusou a examinar isso. Autos devolvidos ao TJBA para refazer o regime, com reflexo na preventiva.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248906.pdf
 
-## 179. ARE nº 1.600.294 / RJ (STF)
+## 208. ARE nº 1.600.294 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relator: Ministro Presidente. Plenário. Publicado em 08/10/2026.
 - Crime / Tema: Estupro de vulnerável · Repercussão geral
 - Resumo: Tema 1.485/STF (repercussão geral reconhecida, mérito pendente). Vai decidir se é constitucional absolver por estupro de vulnerável (art. 217-A do CP), contra vítima menor de 14 anos, por erro de tipo baseado no consentimento ou comportamento da vítima e na declaração do réu de que desconhecia a idade, e qual o padrão de prova para reconhecer esse erro.
@@ -2223,7 +2609,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Repercussão geral reconhecida para as seguintes questões constitucionais: (i) a possibilidade de afastamento da condenação penal no crime previsto no art. 217-A do Código Penal mediante o reconhecimento de erro de tipo invencível fundamentado no consentimento da vítima e na declaração do ofensor de desconhecimento da idade real da ofendida; (ii) o padrão probatório exigido para o reconhecimento de erro de tipo sobre a idade da vítima no crime de estupro de vulnerável.
   > (STF, ARE n. 1.600.294 RG/RJ, relator Ministro Presidente, Tribunal Pleno, julgado em 25/9/2026, DJe de 8/10/2026.)
 
-## 180. AgRg no RHC nº 218928 / GO (STJ)
+## 209. AgRg no RHC nº 218928 / GO (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas; redator do acórdão: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 08/10/2026.
 - Crime / Tema: Tráfico de drogas · Corrupção de menores · Fundada suspeita · Inviolabilidade de domicílio · Justa causa
 - Resumo: Ficar numa praça não é fundada suspeita para revistar adolescente (art. 244 do CPP). As provas derivadas, inclusive as do ingresso na casa do réu, sem fundadas razões e sem consentimento documentado, são ilícitas. O tráfico ser crime permanente não basta. Sem justa causa restante, ação penal trancada. Vencidos a relatora e o Min. Messod Azulay Neto.
@@ -2251,25 +2637,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Removidas as provas ilícitas e derivadas, ausente justa causa, impõe-se o trancamento da ação penal.
   > (AgRg no RHC n. 218.928/GO, relatora Ministra Maria Marluce Caldas, relator para acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/9/2026, DJEN de 8/10/2026.)
 
-## 181. HC nº 277.922 / MG (STF)
+## 210. HC nº 277.922 / MG (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 07/10/2026.
 - Crime / Tema: Furto · Prisão e medidas cautelares
 - Resumo: Preventiva por furto de bens de cerca de R$ 100 exige risco concreto (art. 312 do CPP). Prisão revogada, com possibilidade de cautelares diversas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277922.pdf
 
-## 182. REsp nº 2220958 / RS (STJ)
+## 211. REsp nº 2220958 / RS (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Estelionato
 - Resumo: O “estelionato judicial” (enganar o juiz no processo) é atípico; afastadas essas condenações, fica só a do fato 2, com pena reduzida. REsp parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2220958.pdf
 
-## 183. HC nº 1111235 / DF (STJ)
+## 212. HC nº 1111235 / DF (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Revisão criminal · Cabimento do HC
 - Resumo: Negar a justificação criminal para ouvir testemunhas que podem ser prova nova impede preparar a revisão criminal. HC não conhecido, mas ordem concedida de ofício para realizá-la.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111235.pdf
 
-## 184. HC nº 275.289 / SP (STF)
+## 213. HC nº 275.289 / SP (STF)
 - Decisão colegiada. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 07/10/2026.
 - Crime / Tema: Crimes contra a ordem tributária · Dosimetria
 - Resumo: Pena reduzida abaixo de 4 anos sem fundamentação para regime mais grave impõe o regime aberto. Ordem concedida de ofício (sonegação de contribuição previdenciária, art. 337-A do CP), com análise da substituição por restritivas de direitos e extensão ao corréu.
@@ -2285,7 +2671,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Habeas corpus não conhecido. Ordem concedida de ofício, nos termos da manifestação do Ministério Público Federal, para confirmar a medida liminar anteriormente deferida pela Presidência desta Corte, fixando o regime inicial aberto e determinando ao Juízo da Execução que analise a possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos, estendendo-se os efeitos da decisão ao corréu.
   > (STF, HC n. 275.289/SP, relator Ministro Luiz Fux, Segunda Turma, julgado em 2/10/2026, DJe de 7/10/2026.)
 
-## 185. AgRg no REsp nº 2271906 / RS (STJ)
+## 214. AgRg no REsp nº 2271906 / RS (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Denúncia anônima com descrição que bate com o abordado, somada à mera presença em ponto de venda de drogas, sem elemento objetivo verificável na hora, não é fundada suspeita (arts. 240, § 2º, e 244 do CPP). Provas nulas e absolvição mantida; agravo do MP desprovido.
@@ -2308,7 +2694,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 10. Resultado do Julgamento: Agravo regimental desprovido.
   > (AgRg no REsp n. 2.271.906/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
 
-## 186. AgRg no HC nº 1104246 / SP (STJ)
+## 215. AgRg no HC nº 1104246 / SP (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Com denúncia restrita a 8,28 g de cocaína (a parte da maconha foi arquivada), réu primário e crime sem violência, a preventiva não se sustenta. Medidas cautelares do art. 319, I e IV, do CPP são suficientes. Agravo do MP desprovido.
@@ -2329,7 +2715,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental não provido.
   > (AgRg no HC n. 1.104.246/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
 
-## 187. AgRg no HC nº 1117308 / GO (STJ)
+## 216. AgRg no HC nº 1117308 / GO (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 07/10/2026.
 - Crime / Tema: Estupro de vulnerável · Dosimetria · Continuidade delitiva · Cabimento do HC
 - Resumo: Culpabilidade e motivo valorados com elementos genéricos do tipo não elevam a pena-base; já abuso de confiança e dano psíquico à vítima de tenra idade elevam. Fração de 1/3 pela continuidade mantida (Súmula 659/STJ). Teses não examinadas na origem esbarram em supressão de instância e reiteração. Pena redimensionada.
@@ -2354,31 +2740,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para redimensionar a pena para 10 anos e 10 meses de reclusão, preservado o regime inicial, mantendo-se o não conhecimento dos demais pontos por supressão de instância e reiteração de pedidos.
   > (AgRg no HC n. 1.117.308/GO, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 1/10/2026, DJEN de 7/10/2026.)
 
-## 188. Rp nº 1001943-80.2026.8.26.0048 (TJSP)
+## 217. Rp nº 1001943-80.2026.8.26.0048 (TJSP)
 - Sentença. Juiz de Direito: Leonardo Marzola Colombini. 3ª Vara Criminal de Atibaia. Publicado em 07/10/2026.
 - Crime / Tema: Crimes contra a honra · Prova digital
 - Resumo: Crimes contra a honra exigem dolo específico de ofender. Postagens sarcásticas criticando a nomeação e o salário de servidora comissionada (animus criticandi, com dados do Portal da Transparência) e excessos de linguagem em mensagens privadas, no calor de desavenças antigas, não são crime: a reparação é na esfera cível. Prova digital por ata notarial com hash e blockchain validada. Querelada absolvida (art. 386, III, do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rp-1001943-80-2026.pdf
 
-## 189. HC nº 276.485 / RS (STF)
+## 218. HC nº 276.485 / RS (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 06/10/2026.
 - Crime / Tema: Homicídio qualificado · Corrupção de menores · Dosimetria
 - Resumo: Atos infracionais não servem para valorar negativamente a conduta social na pena-base. Ordem parcialmente concedida para redimensionar a pena.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276485.pdf
 
-## 190. HC nº 277.643 / MA (STF)
+## 219. HC nº 277.643 / MA (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 06/10/2026.
 - Crime / Tema: Telecomunicação clandestina · Princípio da insignificância
 - Resumo: Rádio comunitária sem prova de interferência efetiva nos serviços de telecomunicação pode ser materialmente insignificante (art. 183 da Lei 9.472/1997). Ordem concedida; absolvição restabelecida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277643.pdf
 
-## 191. AREsp nº 3363707 / DF (STJ)
+## 220. AREsp nº 3363707 / DF (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Estelionato · Manipulação de resultado esportivo
 - Resumo: A omissão do TJ sobre teses da defesa nos embargos de declaração exige novo julgamento. Acórdão dos embargos cassado; REsp provido em parte.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3363707.pdf
 
-## 192. AgRg no AgRg no HC nº 1089351 / BA (STJ)
+## 221. AgRg no AgRg no HC nº 1089351 / BA (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: A pronúncia não pode se apoiar só em elementos do inquérito não confirmados em juízo (art. 155 do CPP), e o in dubio pro societate não supre a falta de indícios suficientes de autoria (art. 413). Impronúncia restabelecida por HC de ofício; agravo do MP desprovido.
@@ -2404,7 +2790,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Ausentes indícios suficientes de autoria confirmados em juízo, deve ser proferida a impronúncia, nos termos do art. 414 do CPP.
   > (AgRg no AgRg no HC n. 1.089.351/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 193. AgRg no AREsp nº 2854199 / TO (STJ)
+## 222. AgRg no AREsp nº 2854199 / TO (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Estupro de vulnerável
 - Resumo: O erro de tipo quanto à idade da vítima exclui o dolo do estupro de vulnerável. A irrelevância do consentimento (Súmula 593 e Tema 918/STJ) não impede discutir se o agente sabia que ela tinha menos de 14 anos. A absolvição do TJTO, baseada em mentira sobre a idade e aparente maturidade, não se revê em REsp (Súmula 7); agravo do MP desprovido.
@@ -2418,7 +2804,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental improvido.
   > (AgRg no AREsp n. 2.854.199/TO, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 194. AgRg no HC nº 1118254 / SP (STJ)
+## 223. AgRg no HC nº 1118254 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Mãe de filhos menores de 12 anos tem direito à domiciliar no lugar da preventiva (arts. 318, V, e 318-A do CPP). O cuidado materno é presumido, e o tráfico interestadual sem violência não é situação excepcionalíssima. Substituição condicionada à indicação de endereço no Brasil; agravo do MP desprovido.
@@ -2434,7 +2820,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo regimental não provido
   > (AgRg no HC n. 1.118.254/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 195. AgRg no AgRg no HC nº 1099318 / RS (STJ)
+## 224. AgRg no AgRg no HC nº 1099318 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: O monitoramento eletrônico no regime aberto ou domiciliar é possível (arts. 115, 116 e 146-B, IV, da LEP), mas exige motivação concreta e proporcional. A referência genérica à situação do sistema prisional não basta para impô-lo contra a decisão individualizada do juízo da execução; agravo do MPF desprovido.
@@ -2447,7 +2833,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental improvido.
   > (AgRg no AgRg no HC n. 1.099.318/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 196. AgRg no HC nº 1055445 / SP (STJ)
+## 225. AgRg no HC nº 1055445 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Para negar a progressão (art. 112 da LEP), o juiz precisa apontar fato concreto da execução que mostre falta de aptidão subjetiva; gravidade do crime e pena longa não servem. O juízo repetiu, agora para negar o benefício, os fundamentos que o STJ já tinha rejeitado para exigir exame criminológico (HC 1.034.654/SP). Constrangimento ilegal; agravo do MP desprovido.
@@ -2461,7 +2847,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental não provido.
   > (AgRg no HC n. 1.055.445/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 197. AgRg no HC nº 1056515 / SP (STJ)
+## 226. AgRg no HC nº 1056515 / SP (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Estupro de vulnerável · Dosimetria · Cabimento do HC
 - Resumo: HC não substitui revisão criminal. Mas regime fechado fixado só pela gravidade abstrata do crime viola as Súmulas 440/STJ e 718 e 719/STF. Réus primários, com pena-base no mínimo: regime semiaberto concedido de ofício (art. 33, § 2º, b, do CP).
@@ -2474,7 +2860,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental improvido. Ordem concedida de ofício para alterar o regime de cumprimento de pena para o semiaberto.
   > (AgRg no HC n. 1.056.515/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 198. AgRg no HC nº 1060844 / SP (STJ)
+## 227. AgRg no HC nº 1060844 / SP (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Cabe remição pela aprovação no ENCCEJA mesmo se o preso já tinha o certificado do mesmo nível ao entrar no sistema: a aprovação é esforço educacional autônomo (Tema 1.357/STJ). Ordem de ofício mantida; agravo do MPF desprovido.
@@ -2486,7 +2872,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental improvido.
   > (AgRg no HC n. 1.060.844/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 199. AgRg no PExt no RHC nº 219617 / RS (STJ)
+## 228. AgRg no PExt no RHC nº 219617 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
 - Resumo: Agravo regimental não serve para impugnar acórdão colegiado. De ofício, foi flexibilizada a cautelar que proibia a ré, primária, de visitar o companheiro preso, porque a medida já durava mais de um ano. Ela pode levar o filho de 2 anos para ver o pai, com agendamento e acompanhamento de assistente social (proporcionalidade e vínculos familiares).
@@ -2498,7 +2884,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
   > (AgRg no PExt no RHC n. 219.617/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 200. REsp nº 2245812 / MG (STJ)
+## 229. REsp nº 2245812 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital
 - Resumo: Policial que atende ligação no celular do abordado, sem consentimento nem ordem judicial, produz prova ilícita. A apreensão posterior de 54,27 g de cocaína com o adolescente que ligou deriva disso, sem fonte independente nem descoberta inevitável. Condenação anulada.
@@ -2512,25 +2898,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recurso especial provido.
   > (REsp n. 2.245.812/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 6/10/2026.)
 
-## 201. HC nº 1134665 / SP (STJ)
+## 230. HC nº 1134665 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/10/2026.
 - Crime / Tema: Homicídio qualificado · Execução penal
 - Resumo: A lei não exige passagem pelo regime semiaberto para o livramento condicional (art. 83 do CP). Negar o benefício para "observar" o condenado no regime intermediário cria requisito que a lei não prevê. Ordem concedida para o juízo da execução reapreciar o pedido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134665.pdf
 
-## 202. RHC nº 277.840 / SC (STF)
+## 231. RHC nº 277.840 / SC (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 05/10/2026.
 - Crime / Tema: Furto
 - Resumo: Reincidência e habitualidade, sozinhas, não justificam regime mais gravoso do que o proporcional à pena e às circunstâncias judiciais. Fixado o regime inicial aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277840.pdf
 
-## 203. REsp nº 2291906 / SP (STJ)
+## 232. REsp nº 2291906 / SP (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Contrabando · Dosimetria
 - Resumo: Contrabando cometido em abril de 2014, antes da Lei 13.008/2014 (que criou o art. 334-A, com pena de 2 a 5 anos), segue a pena do antigo art. 334 do CP (1 a 4 anos): a lei mais grave não retroage. Pena reduzida de 2 para 1 ano; sursis processual negado por condenação anterior.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2291906.pdf
 
-## 204. AgRg no HC nº 1109944 / RJ (STJ)
+## 233. AgRg no HC nº 1109944 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Mudar de rota ao avistar a viatura, em patrulhamento de rotina, não é fundada suspeita para busca pessoal (art. 244 do CPP), e o flagrante descoberto depois não convalida a revista. Prova ilícita (radiotransmissor) e absolvição do "olheiro" (art. 37 da Lei 11.343/2006) mantida; agravo do MP desprovido.
@@ -2557,7 +2943,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Reconhecida a ilicitude da busca, as provas apreendidas e as derivadas devem ser desentranhadas, impondo-se a absolvição (CPP, art. 386, VII).
   > (AgRg no HC n. 1.109.944/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 205. AgRg no HC nº 956700 / SP (STJ)
+## 234. AgRg no HC nº 956700 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Guarda municipal pode fazer policiamento ostensivo, mas não atividade de polícia judiciária (Tema 656/STF). Ver o réu entregar uma sacola à corré, que morava numa barraca, não é flagrante que autorize os guardas a entrar ali. Provas ilícitas e absolvição de ambos (art. 386, II, do CPP) mantidas; agravo do MP desprovido.
@@ -2578,7 +2964,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento: "As guardas municipais não possuem atribuições de polícia judiciária, sendo-lhes vedada a entrada em domicílios fora dos limites do flagrante delito."
   > (AgRg no HC n. 956.700/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 206. AgRg no AgRg no HC nº 1071161 / SP (STJ)
+## 235. AgRg no AgRg no HC nº 1071161 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
 - Resumo: Tempo de prisão, medidas patrimoniais e suspensão das empresas esvaziaram o risco de reiteração. Sem fundamento atual (art. 312 do CPP), a preventiva dá lugar a cautelares alternativas, numa organização criminosa de adulteração de combustíveis; agravo do MP desprovido.
@@ -2600,7 +2986,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 1. O decurso do tempo e a desarticulação das atividades ilícitas atribuídas à organização criminosa esvaziam o periculum libertatis e autorizam a substituição da prisão preventiva por medidas cautelares alternativas.
   > (AgRg no AgRg no HC n. 1.071.161/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 207. AgRg no HC nº 1118236 / CE (STJ)
+## 236. AgRg no HC nº 1118236 / CE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Homicídio qualificado · Corrupção de menores · Dosimetria
 - Resumo: Condenações anteriores não usadas para a reincidência só valem como antecedentes, não para desabonar a personalidade (Tema 1.077/STJ). Usar nas circunstâncias o mesmo contexto da qualificadora é bis in idem. O HC corrige a dosimetria mesmo após o trânsito em julgado, e a liminar concedida antes do parecer do MPF não gera nulidade; agravo do MPF desprovido.
@@ -2616,7 +3002,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo regimental improvido.
   > (AgRg no HC n. 1.118.236/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 208. AgRg no HC nº 1121320 / SP (STJ)
+## 237. AgRg no HC nº 1121320 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: a dedicação a atividades criminosas não se presume e exige elementos concretos. Regime mais gravoso e negativa de substituição por restritivas também exigem fundamentação concreta, não bastando a natureza do crime ou a quantidade. Sentença restabelecida, com a fração de 1/2; agravos do MPSP e do MPF desprovidos.
@@ -2631,7 +3017,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental improvido.
   > (AgRg no HC n. 1.121.320/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 209. AgRg no AgRg no HC nº 1042570 / SP (STJ)
+## 238. AgRg no AgRg no HC nº 1042570 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: Mãe de criança menor de 12 anos tem direito à prisão domiciliar, mesmo no regime semiaberto, sem precisar provar que os cuidados maternos são imprescindíveis, salvo situação excepcional. Tráfico sem violência e sem faltas disciplinares. Domiciliar com monitoramento mantida; agravo do MP desprovido.
@@ -2644,7 +3030,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental não provido.
   > (AgRg no AgRg no HC n. 1.042.570/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 210. AgRg no HC nº 1108896 / SP (STJ)
+## 239. AgRg no HC nº 1108896 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Tráfico de drogas · Confissão espontânea · Dosimetria
 - Resumo: Confissão informal aos policiais, usada para condenar, gera a atenuante do art. 65, III, d, do CP. Ela se compensa integralmente com a reincidência, salvo multirreincidência. HC de ofício corrige a dosimetria; agravo do MP desprovido.
@@ -2670,7 +3056,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. É possível conceder habeas corpus de ofício para corrigir flagrante ilegalidade na dosimetria da pena, mesmo quando o writ não é conhecido por ser incabível como sucedâneo recursal.
   > (AgRg no HC n. 1.108.896/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 211. AgRg no HC nº 1123541 / PR (STJ)
+## 240. AgRg no HC nº 1123541 / PR (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Estelionato · Prisão e medidas cautelares · Cabimento do HC
 - Resumo: Não há supressão de instância quando o HC no tribunal de origem ataca diretamente o decreto de preventiva: não se exige pedido prévio de revogação ao juiz que o decretou. Ordem de ofício para o TJPR examinar as teses da defesa, mas o STJ não revoga a prisão sem ilegalidade teratológica.
@@ -2685,7 +3071,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Agravo regimental desprovido.
   > (AgRg no HC n. 1.123.541/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 212. REsp nº 2232648 / MG (STJ)
+## 241. REsp nº 2232648 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: No recurso exclusivo da defesa, o novo júri não pode alcançar fatos já desclassificados ou com punibilidade extinta. Seria reformatio in pejus indireta (art. 617 do CPP), e a soberania dos veredictos não autoriza repetir o julgamento inteiro. Novo júri limitado ao homicídio tentado remanescente.
@@ -2698,7 +3084,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso especial provido nos termos do dispositivo.
   > (REsp n. 2.232.648/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 213. REsp nº 2256734 / RS (STJ)
+## 242. REsp nº 2256734 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/10/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Reconhecimento fotográfico sem o art. 226 do CPP contamina o reconhecimento pessoal feito depois, porque é prova irrepetível (Tema 1.258/STJ). Condenação apoiada só nesses dois atos, sem prova independente de autoria. Sentença absolutória restabelecida.
@@ -2710,13 +3096,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Recurso especial provido.
   > (REsp n. 2.256.734/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2026, DJEN de 5/10/2026.)
 
-## 214. AgRg no RHC nº 275.857 / MS (STF)
+## 243. AgRg no RHC nº 275.857 / MS (STF)
 - Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 02/10/2026.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Prisão e medidas cautelares
 - Resumo: O agravamento do quadro clínico do preso exige reavaliar a preventiva (art. 316, par. único, do CPP), com análise de cautelares diversas ou prisão domiciliar. Reavaliação determinada de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-275857.pdf
 
-## 215. AgRg no HC nº 245.446 / AL (STF)
+## 244. AgRg no HC nº 245.446 / AL (STF)
 - Decisão colegiada. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 01/10/2026.
 - Crime / Tema: Quebra de sigilo · Competência
 - Resumo: Surgindo indícios contra autoridade com foro (prefeito), a investigação deve ir ao tribunal competente; interceptação autorizada por juízo incompetente é nula (juiz natural). Mantida a ordem de ofício que desconstituiu o trânsito em julgado e anulou as provas; agravo do MPF desprovido, vencidos Fux e Mendonça.
@@ -2737,7 +3123,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo interno desprovido.
   > (STF, AgRg no HC n. 245.446/AL, relator Ministro Nunes Marques, Segunda Turma, julgado em 21/8/2026, DJe de 1/10/2026.)
 
-## 216. AgRg no HC nº 268.633 / MG (STF)
+## 245. AgRg no HC nº 268.633 / MG (STF)
 - Decisão colegiada. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 01/10/2026.
 - Crime / Tema: Furto · Princípio da insignificância
 - Resumo: Furto de valor pouco relevante, sem violência ou grave ameaça, é insignificante mesmo com réu reincidente. Absolvição mantida; agravo do MPF desprovido.
@@ -2757,25 +3143,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo interno desprovido.
   > (STF, AgRg no HC n. 268.633/MG, relator Ministro Nunes Marques, Segunda Turma, julgado em 21/8/2026, DJe de 1/10/2026.)
 
-## 217. HC nº 1133535 / TO (STJ)
+## 246. HC nº 1133535 / TO (STJ)
 - Decisão monocrática (liminar). Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Prisão e medidas cautelares
 - Resumo: A defesa só soube na véspera do paradeiro da testemunha presencial arrolada como imprescindível pelas duas partes, e o adiamento foi negado em plenário. Com dúvida plausível sobre a validade do veredicto, a execução provisória baseada só no Tema 1.068/STF foi suspensa: os réus aguardam o mérito em liberdade, com cautelares.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133535.pdf
 
-## 218. HC nº 1120948 / ES (STJ)
+## 247. HC nº 1120948 / ES (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/10/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
 - Resumo: Pronúncia baseada só em depoimento do inquérito e em testemunhos de "ouvir dizer" é nula, mesmo depois da condenação pelo Júri (art. 155 do CPP; Tema 1.260/STJ). Processo anulado desde a pronúncia e réu impronunciado de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1120948.pdf
 
-## 219. HC nº 276.580 / GO (STF)
+## 248. HC nº 276.580 / GO (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 01/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Cabimento do HC
 - Resumo: Reincidência em crime culposo (homicídio culposo de trânsito) não impede o tráfico privilegiado, e quantidade e natureza da droga, sozinhas, não provam dedicação ao crime (art. 33, § 4º, da Lei 11.343/06). HC substitutivo de revisão criminal não conhecido, mas redutor aplicado de ofício na fração de 2/3.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276580.pdf
 
-## 220. HC nº 1.0000.26.509274-2/000 (TJMG)
+## 249. HC nº 1.0000.26.509274-2/000 (TJMG)
 - Decisão colegiada. Relator: Des. Alberto Deodato Neto. 1ª Câmara Criminal. Publicado em 30/09/2026.
 - Crime / Tema: Homicídio qualificado · Inépcia da denúncia
 - Resumo: Denúncia inepta: no concurso de agentes, a acusação precisa indicar ao menos uma conduta de cada denunciado e o vínculo dele com o crime (art. 41 do CPP). Ter estado reunido com o atirador e ter o celular encontrado no local não basta. Ação penal trancada quanto ao paciente e mandado de prisão recolhido. Voto vencido (V.V.): o trancamento exige ausência manifesta de justa causa; as alegações dependeriam de dilação probatória.
@@ -2785,13 +3171,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > V.V. Como é cediço, o trancamento do inquérito policial ou da ação penal por meio do Habeas Corpus deve ocorrer em casos excepcionais e somente quando se encontrar manifestadamente ausente justa causa para o seu prosseguimento, seja pela comprovação de existência de alguma excludente de tipicidade, extinção da punibilidade ou inexistência de prova da materialidade do crime ou indícios de sua autoria. Contudo, se as alegações defensivas demandam dilação probatória, inviável a concessão da ordem, especialmente diante da sumária instrução do Habeas Corpus.
   > (TJMG, Habeas Corpus Criminal n. 1.0000.26.509274-2/000, relator Desembargador Alberto Deodato Neto, 1ª Câmara Criminal, julgado em 29/9/2026, publicado em 30/9/2026.)
 
-## 221. HC nº 1081081 / AL (STJ)
+## 250. HC nº 1081081 / AL (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Porte ilegal de arma de fogo · Fundada suspeita · Busca e apreensão
 - Resumo: Nervosismo e “atitude suspeita”, sem dado objetivo, não autorizam a busca pessoal (art. 244 do CPP); provas ilícitas e réu absolvido. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1081081.pdf
 
-## 222. AgRg no REsp nº 2266487 / MG (STJ)
+## 251. AgRg no REsp nº 2266487 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Busca e apreensão
 - Resumo: Entrar na casa para apreender o veículo furtado visto na garagem foi lícito (Tema 280/STF), mas vasculhar depois cômodo interno e armário desvia da finalidade da diligência (fishing expedition). A arma achada ali é prova ilícita: réu absolvido do art. 16, § 1º, IV, da Lei 10.826/2003. Receptação, adulteração de sinal e corrupção ativa mantidas, com prova independente.
@@ -2813,43 +3199,43 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 9. Agravo regimental parcialmente provido para reconsiderar, em parte, a decisão agravada e dar parcial provimento ao recurso especial, a fim de reconhecer a ilicitude da prova obtida no interior da residência quanto à arma de fogo apreendida, absolvendo o agravante da imputação relativa ao art. 16, § 1º, IV, da Lei nº 10.826/2003.
   > (AgRg no REsp n. 2.266.487/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 24/9/2026, DJEN de 29/9/2026.)
 
-## 223. HC nº 1132260 / MS (STJ)
+## 252. HC nº 1132260 / MS (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia, monitoramento ou venda presenciada, não autoriza o ingresso no domicílio. O suposto consentimento do morador, abordado por policiais armados, não é crível (coação ambiental), e cabia ao Estado prová-lo. Provas ilícitas e réu absolvido do tráfico (15 g de cocaína).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1132260.pdf
 
-## 224. EDcl no RHC nº 248299 / PA (STJ)
+## 253. EDcl no RHC nº 248299 / PA (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Usurpação de bem da União · Prisão e medidas cautelares
 - Resumo: A manutenção de medida cautelar diversa da prisão exige demonstração concreta e atual da sua necessidade (art. 282, § 5º, do CPP). Monitoração eletrônica cassada: imposta sem fundamentação específica e mantida por mais de 6 meses sem reavaliação. A ausência de fato novo não basta para mantê-la, e o tribunal não pode suprir a falta de fundamento no julgamento do HC. Demais cautelares mantidas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248299.pdf
 
-## 225. HC nº 997670 / SP (STJ)
+## 254. HC nº 997670 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/09/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Confissão informal na rua de que há droga em casa não autoriza, sozinha, o ingresso no domicílio sem indício concreto de que a casa serve ao tráfico. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A abordagem pela guarda municipal foi considerada válida (flagrante aparente, art. 301 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-997670.pdf
 
-## 226. HC nº 1113498 / MA (STJ)
+## 255. HC nº 1113498 / MA (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 25/09/2026.
 - Crime / Tema: Homicídio qualificado · Organização criminosa · Tribunal do Júri
 - Resumo: É nulo o julgamento de recurso em sentido estrito em sessão virtual sem prévia intimação do defensor constituído, que fica impedido de sustentar oralmente. Ordem concedida: trânsito em julgado desconstituído e novo julgamento do recurso contra a pronúncia.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1113498.pdf
 
-## 227. RHC nº 248048 / MG (STJ)
+## 256. RHC nº 248048 / MG (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
 - Resumo: Preventiva por tráfico revogada: pequena quantidade de droga não justifica a prisão, ainda que a ré responda a outra ação penal por tráfico. Medidas cautelares diversas são suficientes.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-248048.pdf
 
-## 228. HC nº 1131734 / PB (STJ)
+## 257. HC nº 1131734 / PB (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto
 - Resumo: Impronúncia de ofício: pronúncia baseada só em testemunhos indiretos (“ouvir dizer”) e em áudio de motorista de aplicativo não juntado aos autos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131734.pdf
 
-## 229. RE nº 1.615.925 / MG (STF)
+## 258. RE nº 1.615.925 / MG (STF)
 - Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 25/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Andar com a mão na cintura segurando as calças e olhando para o chão é suspeita subjetiva, não fundada suspeita para busca pessoal (art. 244 do CPP). Mantida a absolvição por tráfico; RE do MP desprovido.
@@ -2868,31 +3254,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Recurso extraordinário ao qual se nega provimento.
   > (STF, RE n. 1.615.925/MG, relator Ministro André Mendonça, Segunda Turma, julgado em 14/9/2026, DJe de 25/9/2026.)
 
-## 230. RHC nº 277.409 / ES (STF)
+## 259. RHC nº 277.409 / ES (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 25/09/2026.
 - Crime / Tema: Tráfico de drogas · Falsa identidade · Cabimento do HC
 - Resumo: A unirrecorribilidade não se aplica ao HC: recurso especial ou agravo em recurso especial pendente não impede o STJ de conhecer do HC. Acórdão do STJ cassado para que julgue o mérito do HC.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277409.pdf
 
-## 231. AREsp nº 3115056 / RS (STJ)
+## 260. AREsp nº 3115056 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Prova digital · Quebra da cadeia de custódia
 - Resumo: Prints de WhatsApp extraídos sem perícia nem documentação da cadeia de custódia: anulado o acórdão dos embargos para o TJRS esclarecer como os dados foram arrecadados e extraídos e examinar a integridade da prova (arts. 158-A a 158-F do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3115056.pdf
 
-## 232. HC nº 1131181 / PR (STJ)
+## 261. HC nº 1131181 / PR (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Violência doméstica · Prova digital · Quebra da cadeia de custódia
 - Resumo: Imagens digitais juntadas ao processo de violência doméstica: ordem concedida de ofício para assegurar à defesa o controle técnico delas (metadados), com desentranhamento se não forem auditáveis.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1131181.pdf
 
-## 233. ARE nº 1.623.941 / GO (STF)
+## 262. ARE nº 1.623.941 / GO (STF)
 - Decisão monocrática. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 24/09/2026.
 - Crime / Tema: Homicídio qualificado · Pronúncia
 - Resumo: Impronúncia por falta de indícios suficientes de autoria mantida: rever exige reexame de provas, e a impronúncia não ofende a competência do Júri (Tema 154/STF). ARE do MP com seguimento negado.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1623941.pdf
 
-## 234. REsp nº 2270023 / SC (STJ)
+## 263. REsp nº 2270023 / SC (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Peculato · Continuidade delitiva · Dosimetria
 - Resumo: "Rachadinha" (peculato-desvio): repasses mensais padronizados de servidores do mesmo gabinete configuram continuidade delitiva (art. 71 do CP), e não concurso material. A pluralidade de vítimas não afasta, por si só, o crime continuado. A habitualidade criminosa exige condutas autônomas com dolo renovado. Recurso do MP desprovido: mantidas as penas de 6 anos e 5 anos (a sentença tinha fixado 24 e 20).
@@ -2920,13 +3306,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Em esquema de peculato-desvio praticado no mesmo gabinete, com repasses mensais padronizados e atuação conjunta, incide o art. 71 do Código Penal, afastando o concurso material do art. 69.
   > (REsp n. 2.270.023/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/9/2026, DJEN de 24/9/2026.)
 
-## 235. AgRg no HC nº 1115674 / SP (STJ)
+## 264. AgRg no HC nº 1115674 / SP (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Busca pessoal ilícita: blusa de frio com volume no bolso em dia quente e prévio conhecimento policial não configuram fundada suspeita. Absolvição de ofício (tráfico).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115674.pdf
 
-## 236. AgRg no AgRg no HC nº 1066684 / BA (STJ)
+## 265. AgRg no AgRg no HC nº 1066684 / BA (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/09/2026.
 - Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
 - Resumo: Prisão cautelar por mais de 3 anos (domiciliar desde 2024) configura excesso de prazo, ainda que a causa seja complexa. Relaxamento mantido e estendido aos corréus (art. 580 do CPP); agravos do MP desprovidos.
@@ -2953,7 +3339,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Não cabe ao Superior Tribunal de Justiça apreciar dispositivos constitucionais para fins de prequestionamento.
   > (AgRg no AgRg no HC n. 1.066.684/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2026, DJEN de 23/9/2026.)
 
-## 237. AgExPen nº 9000340-23.2026.4.04.7017 / PR (TRF4)
+## 266. AgExPen nº 9000340-23.2026.4.04.7017 / PR (TRF4)
 - Decisão colegiada. Relator: Des. Fed. Luiz Carlos Canalli. 7ª Turma. Publicado em 23/09/2026.
 - Crime / Tema: Execução penal
 - Resumo: A reconversão das penas restritivas em privativa de liberdade (art. 181, § 1º, da LEP) exige descumprimento injustificado. É nula a intimação por edital feita depois de tentar a intimação pessoal em endereço errado, sem esgotar os meios de localização. Sem ocultação deliberada, não há falta grave (art. 50, II, da LEP). Reconversão e regressão ao regime fechado anuladas, e restabelecidas as penas restritivas.
@@ -2975,7 +3361,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento: 9. É nula a reconversão de penas restritivas de direitos em privativa de liberdade quando a intimação por edital é realizada de forma prematura, sem a prévia tentativa de intimação pessoal no endereço correto constante dos autos.
   > (TRF4, Agravo de Execução Penal n. 9000340-23.2026.4.04.7017/PR, relator Desembargador Federal Luiz Carlos Canalli, 7ª Turma, julgado em 25/8/2026, publicado em 23/9/2026.)
 
-## 238. REsp nº 2204206 / PE (STJ)
+## 267. REsp nº 2204206 / PE (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/09/2026.
 - Crime / Tema: Prova digital · Quebra da cadeia de custódia · Justa causa
 - Resumo: Sem fonte independente, a denúncia baseada só nos sistemas Drousys e My Web Day B, declarados imprestáveis pelo STF por comprometimento da cadeia de custódia, não tem justa causa. Mantida a rejeição da denúncia; REsp do MPF desprovido.
@@ -2990,43 +3376,43 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
   > (REsp n. 2.204.206/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/9/2026, DJEN de 22/9/2026.)
 
-## 239. HC nº 1125136 / PB (STJ)
+## 268. HC nº 1125136 / PB (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 22/09/2026.
 - Crime / Tema: Crimes contra a ordem tributária · Prescrição
 - Resumo: Crime tributário material (art. 1º, II, da Lei 8.137/90): a prescrição corre da constituição definitiva do crédito (SV 24), conta a pena sem o acréscimo da continuidade (Súmula 497/STF) e cai pela metade para maior de 70 anos na data do acórdão (art. 115 do CP). Prescrição reconhecida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1125136.pdf
 
-## 240. Rcl nº 99.520 / AC (STF)
+## 269. Rcl nº 99.520 / AC (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 21/09/2026.
 - Crime / Tema: Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito de copiar, em meio físico ou digital, as conversas de WhatsApp já documentadas e a documentação da cadeia de custódia dos laudos; só poder consultá-las no instituto de perícia, sem extrair, não basta. Reclamação procedente.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-99520.pdf
 
-## 241. HC nº 1129639 / SP (STJ)
+## 270. HC nº 1129639 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/09/2026.
 - Crime / Tema: Ameaça · Violência doméstica · Prisão e medidas cautelares
 - Resumo: Preventiva por ameaça em violência doméstica (pena máxima inferior a 4 anos): o art. 313, III, do CPP exige descumprimento prévio de medida protetiva, e o réu nem havia sido intimado dela. Prisão substituída por medidas protetivas e cautelares diversas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129639.pdf
 
-## 242. HC nº 1130315 / SP (STJ)
+## 271. HC nº 1130315 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Busca pessoal em usuário por "comportamento suspeito" genérico, em patrulhamento de rotina, é ilícita (art. 244 do CPP) e contamina o que veio depois: a indicação da casa do vendedor e as apreensões feitas lá (art. 157, § 1º). A ilicitude vale mesmo com a busca feita em terceiro. Paciente e corréu absolvidos de ofício (art. 580 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1130315.pdf
 
-## 243. PET no AREsp nº 2593373 / AM (STJ)
+## 272. PET no AREsp nº 2593373 / AM (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2026.
 - Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
 - Resumo: ANPP retroativo (HC 185.913/STF): sem trânsito em julgado, cabe ao MP de primeiro grau avaliar o acordo, e não ao MPF no STJ. Autos remetidos à origem para o MP estadual se manifestar motivadamente sobre o ANPP (art. 28-A do CPP), com direito à revisão do § 14 se houver recusa. O relator não antecipou juízo sobre requisitos nem preclusão.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2593373.pdf
 
-## 244. HC nº 1102439 / SP (STJ)
+## 273. HC nº 1102439 / SP (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 18/09/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Prisão e medidas cautelares
 - Resumo: A campana feita depois de informação anônima, a venda vista no portão da casa e confirmada pelo comprador abordado, e a droga achada no carro do réu formam fundadas razões para a busca domiciliar sem mandado; nulidade afastada. Mas maus antecedentes, com penas já extintas, e pouca droga (34 g de cocaína), num crime sem violência, não justificam a preventiva, substituída por medidas cautelares (art. 319 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1102439.pdf
 
-## 245. AgRg no AREsp nº 3203005 / MT (STJ)
+## 274. AgRg no AREsp nº 3203005 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 17/09/2026.
 - Crime / Tema: Porte ilegal de munição · Fundada suspeita
 - Resumo: Busca veicular ilícita: vidros escuros, região associada ao tráfico e fiscalização de rotina não configuram fundada suspeita. Provas desentranhadas e absolvição (porte de munição).
@@ -3055,13 +3441,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Circunstâncias genéricas como película escura nos vidros, circulação em região periférica e fiscalização de rotina não constituem justa causa para busca pessoal/veicular de natureza probatória.
   > (AgRg no AREsp n. 3.203.005/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/8/2026, DJEN de 17/9/2026.)
 
-## 246. REsp nº 2279989 / PR (STJ)
+## 275. REsp nº 2279989 / PR (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A pronúncia não pode se apoiar só em elementos do inquérito e em testemunho indireto (art. 155 do CPP): sem prova judicial de autoria, impõe-se a impronúncia. Restabelecida a sentença de impronúncia (homicídio qualificado).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2279989.pdf
 
-## 247. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
+## 276. HC nº 5027157-97.2026.4.04.0000 / PR (TRF4)
 - Decisão colegiada. Relator: Des. Fed. Ângelo Roberto Ilha da Silva. 7ª Turma. Publicado em 16/09/2026.
 - Crime / Tema: Quebra de sigilo · RIF · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito de acessar o registro, no sistema SEI-C, do pedido que originou o RIF, para verificar se já havia investigação formal instaurada quando o relatório foi solicitado ao COAF. Isso não dá acesso aos sistemas da acusação nem antecipa juízo sobre a licitude do RIF.
@@ -3072,7 +3458,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. No caso concreto, em que os elementos constantes dos autos não permitem identificar a data da solicitação que deu origem ao RIF nem aferir se, naquele momento, havia procedimento investigatório formalmente instaurado, mostra-se cabível assegurar à defesa o acesso ao registro da comunicação realizada por meio do Sistema Eletrônico de Intercâmbio – SEI-C. A providência não implica produção de nova prova nem importa antecipação de juízo acerca da validade ou licitude do relatório, destinando-se, nas circunstâncias específicas da hipótese, a viabilizar o controle da regularidade do compartilhamento.
   > (TRF4, HC n. 5027157-97.2026.4.04.0000/PR, relator Desembargador Federal Ângelo Roberto Ilha da Silva, 7ª Turma, julgado em 15/9/2026, publicado em 16/9/2026.)
 
-## 248. ARE nº 1.610.959 / RS (STF)
+## 277. ARE nº 1.610.959 / RS (STF)
 - Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 15/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Contradições nos depoimentos dos policiais sobre a abordagem e a entrada na casa, sem campana nem investigação prévia, justificaram a absolvição pelo TJRS. A Segunda Turma negou provimento ao recurso do MP (Súmula 279/STF).
@@ -3091,7 +3477,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Recurso extraordinário ao qual se nega seguimento.
   > (STF, ARE n. 1.610.959/RS, relator Ministro André Mendonça, Segunda Turma, julgado em 28/8/2026, DJe de 15/9/2026.)
 
-## 249. RE nº 1.608.434 / ES (STF)
+## 278. RE nº 1.608.434 / ES (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Dias Toffoli. Plenário. Publicado em 15/09/2026.
 - Crime / Tema: Quebra de sigilo · Repercussão geral
 - Resumo: Tema 1.474/STF (repercussão geral reconhecida, mérito pendente). Discute se ordem judicial pode quebrar o sigilo telemático (conteúdo de e-mail e nuvem) para subsidiar fiscalização tributária, fora da investigação criminal (art. 5º, XII, da CF).
@@ -3100,13 +3486,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Repercussão geral em recurso extraordinário. Direito constitucional e tributário. Fiscalização da Administração Tributária para cobrança de tributo. Quebra de sigilo telemático por ordem judicial. Obtenção de conteúdo armazenado em conta de e-mail ou nuvem vinculada. Presença de matéria constitucional e de repercussão geral.
   > (STF, RE n. 1.608.434 RG/ES, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 24/8/2026, DJe de 15/9/2026.)
 
-## 250. RE nº 1.566.844 / MG (STF)
+## 279. RE nº 1.566.844 / MG (STF)
 - Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 14/09/2026.
 - Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal · Dosimetria
 - Resumo: Condenação anterior pelo art. 28 da Lei de Drogas não gera reincidência: depois do Tema 506/STF, essas sanções não têm repercussão criminal. RE da defesa provido para refazer a pena.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1566844.pdf
 
-## 251. AgRg no AREsp nº 3141827 / DF (STJ)
+## 280. AgRg no AREsp nº 3141827 / DF (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
 - Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
@@ -3131,7 +3517,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 11. Resultado do Julgamento: Agravo regimental provido para anular o julgamento e determinar a submissão do Agravante a novo julgamento perante o Conselho de Sentença.
   > (AgRg no AREsp n. 3.141.827/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/9/2026, DJEN de 14/9/2026.)
 
-## 252. AgRg no HC nº 1112658 / PR (STJ)
+## 281. AgRg no HC nº 1112658 / PR (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
 - Crime / Tema: Denunciação caluniosa · Perseguição · Violência psicológica contra a mulher · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
 - Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
@@ -3152,37 +3538,37 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Resultado do Julgamento: Agravo regimental provido, com confirmação da decisão liminar para substituir a prisão preventiva por internação provisória e demais medidas cautelares diversas da prisão fixadas.
   > (AgRg no HC n. 1.112.658/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/9/2026, DJEN de 11/9/2026.)
 
-## 253. HC nº 276.512 / PB (STF)
+## 282. HC nº 276.512 / PB (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 10/09/2026.
 - Crime / Tema: Estelionato · Dosimetria
 - Resumo: Culpabilidade e personalidade valoradas com juízo conjectural ('aparenta ser um mentiroso compulsivo') e com o próprio modo de execução não elevam a pena-base. Os documentos forjados como meio da fraude também não pesam nas circunstâncias, sob pena de bis in idem. Pena-base no mínimo, e o juízo de origem deve examinar a prescrição (bolsa da CAPES, art. 171, § 3º, do CP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276512.pdf
 
-## 254. HC nº 276.724 / RS (STF)
+## 283. HC nº 276.724 / RS (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 10/09/2026.
 - Crime / Tema: Cabimento do HC
 - Resumo: A unirrecorribilidade não se aplica ao habeas corpus: a interposição de recurso especial contra o mesmo acórdão não impede o conhecimento do HC. Ordem concedida para o STJ julgar o mérito do HC.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276724.pdf
 
-## 255. REsp nº 2176719 / MG (STJ)
+## 284. REsp nº 2176719 / MG (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
 - Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
 - Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
 
-## 256. RHC nº 245864 / RS (STJ)
+## 285. RHC nº 245864 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 09/09/2026.
 - Crime / Tema: Colaboração premiada · Acesso da defesa às provas
 - Resumo: Acesso tardio à colaboração premiada de corréu, só depois da resposta à acusação: anulados, quanto ao recorrente, os atos a partir da resposta, com novo prazo para apresentá-la após o efetivo acesso aos elementos já documentados.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-245864.pdf
 
-## 257. RE nº 1.203.378 / RS (STF)
+## 286. RE nº 1.203.378 / RS (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 09/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Revista íntima manual em visitante de presídio, sem revista mecânica prévia nem fundada suspeita, viola a intimidade e a dignidade e torna a prova ilícita. Absolvição pelo TJRS mantida; RE do MP com seguimento negado (Tema 998 inaplicável).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1203378.pdf
 
-## 258. AgRg no REsp nº 2245002 / RS (STJ)
+## 287. AgRg no REsp nº 2245002 / RS (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/09/2026.
 - Crime / Tema: Perseguição · Violência doméstica · Violência psicológica contra a mulher · Dosimetria
 - Resumo: A agravante do art. 61, II, 'f', do CP não incide na perseguição contra a mulher (art. 147-A, § 1º, II) nem na violência psicológica (art. 147-B): a violência contra a mulher já é elementar, e aplicá-la seria bis in idem. Distinção do Tema 1.197/STJ, que vale para a lesão do art. 129, § 9º. Agravo do MP desprovido.
@@ -3203,13 +3589,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 1. Não incide a agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher, pois, sob o princípio da especialidade, a violência contra a mulher já integra os elementos do tipo penal, esta incidência configura indevido bis in idem.
   > (AgRg no REsp n. 2.245.002/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2026, DJEN de 9/9/2026.)
 
-## 259. HC nº 1127513 / SP (STJ)
+## 288. HC nº 1127513 / SP (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
 - Crime / Tema: Falsidade ideológica · Alucinação de IA
 - Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
 
-## 260. AgRg no AREsp nº 3115023 / RS (STJ)
+## 289. AgRg no AREsp nº 3115023 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 09/09/2026.
 - Crime / Tema: Homicídio · Tribunal do Júri
 - Resumo: A plenitude de defesa prevalece sobre a preclusão do art. 422 do CPP quando há prejuízo concreto: a acusação explorou os pareceres da defesa sem que os assistentes técnicos fossem ouvidos em plenário. Júri anulado (médico e enfermeira acusados da morte de um recém-nascido); agravos do MPRS e do MPF desprovidos.
@@ -3224,7 +3610,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental a que se nega provimento.
   > (AgRg no AREsp n. 3.115.023/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2026, DJEN de 9/9/2026.)
 
-## 261. REsp nº 2253784 / PA (STJ)
+## 290. REsp nº 2253784 / PA (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Estupro de vulnerável
 - Resumo: Estupro de vulnerável (art. 217-A do CP): distinguishing excepcional do Tema 918/STJ e da Súmula 593/STJ. Havia relacionamento amoroso duradouro (réu com 25 anos, vítima com 12), com ciência e anuência da família, do qual nasceu uma filha reconhecida e assistida pelo réu, sem violência, coação ou exploração. Reconhecida a atipicidade material e restabelecida a sentença absolutória.
@@ -3237,7 +3623,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso especial provido para cassar o acórdão condenatório e restabelecer a sentença absolutória, em consonância com o parecer ministerial.
   > (REsp n. 2.253.784/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/9/2026, DJEN de 8/9/2026.)
 
-## 262. REsp nº 2059576 / MG (STJ)
+## 291. REsp nº 2059576 / MG (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Tema repetitivo
@@ -3265,7 +3651,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento: (Temas Repetitivos n. 1214 e n. 1154): "A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto — como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento —, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa".
   > (REsp n. 2.059.576/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 263. REsp nº 1963433 / SP (STJ)
+## 292. REsp nº 1963433 / SP (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Terceira Seção. Publicado em 08/09/2026.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria · Tema repetitivo
@@ -3298,7 +3684,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. A apreensão de quantidade de drogas de tal modo expressiva que, por sua própria dimensão, seja incompatível com a figura do traficante eventual ou de pequeno traficante, configura fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. Fora dessa hipótese, a natureza e a quantidade das drogas podem afastar a minorante quando associadas a outros elementos do caso concreto - como alto grau de profissionalismo, sofisticada logística de transporte ou complexa estrutura de armazenamento -, dos quais se possa inferir, mediante fundamentação concreta, a dedicação do agente a atividades criminosas ou sua integração a organização criminosa.
   > (REsp n. 1.963.433/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 18/6/2026, DJEN de 8/9/2026.)
 
-## 264. REsp nº 2048687 / BA (STJ)
+## 293. REsp nº 2048687 / BA (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 08/09/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Tema repetitivo
 - Resumo: Tema 1.260/STJ — Pronúncia não pode se basear só em elementos do inquérito nem só em testemunho indireto (“ouvir dizer”), ainda que colhido em juízo. Em contextos de intimidação, facções ou silenciamento de testemunhas, o testemunho indireto qualificado pode ter maior relevo, sob controle judicial estrito.
@@ -3314,31 +3700,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Recurso especial provido.
   > (REsp n. 2.048.687/BA, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/8/2026, DJEN de 8/9/2026.)
 
-## 265. HC nº 1095439 / SP (STJ)
+## 294. HC nº 1095439 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: A quantidade de droga, sozinha, não afasta o tráfico privilegiado: são necessários elementos concretos de dedicação a atividades criminosas ou de integração a organização criminosa. A quantidade expressiva (86,6 kg de cocaína) só modula a fração, aplicada no mínimo (1/6). Pena reduzida para 5 anos, 2 meses e 15 dias, em regime semiaberto. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1095439.pdf
 
-## 266. HC nº 1104105 / SP (STJ)
+## 295. HC nº 1104105 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 08/09/2026.
 - Crime / Tema: Tráfico de drogas · Busca e apreensão · Inviolabilidade de domicílio
 - Resumo: Mandado de busca não possui caráter itinerante: ordem judicial não autoriza a entrada em endereço distinto daquele expressamente indicado; suposta autorização somente verbal, sem comprovação idônea. Prova ilícita, ausência de materialidade.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1104105.pdf
 
-## 267. RHC nº 243155 / SP (STJ)
+## 296. RHC nº 243155 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 02/09/2026.
 - Crime / Tema: Furto · Execução penal
 - Resumo: A guia de execução definitiva deve ser expedida independentemente do cumprimento do mandado de prisão, para que a defesa possa fazer seus pedidos no Juízo da Execução. Recurso parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243155.pdf
 
-## 268. HC nº 276.144 / MS (STF)
+## 297. HC nº 276.144 / MS (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 02/09/2026.
 - Crime / Tema: Corrupção passiva · Dosimetria
 - Resumo: Desproporcionalidade na dosimetria: exasperação de quase 2/3 na pena-base baseada em única circunstância judicial negativa (culpabilidade) é excessiva; fração correta 1/6. Fixado regime aberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276144.pdf
 
-## 269. AgRg no HC nº 1089462 / MG (STJ)
+## 298. AgRg no HC nº 1089462 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 01/09/2026.
 - Crime / Tema: Embriaguez ao volante · Excesso de prazo
 - Resumo: Inquérito parado há mais de três anos, sem complexidade nem justificativa, com o investigado solto, viola a duração razoável do processo; o prazo impróprio não legitima a demora. Mantido o trancamento do inquérito, que pode ser reaberto se surgirem novas provas.
@@ -3359,19 +3745,19 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental desprovido.
   > (AgRg no HC n. 1.089.462/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/8/2026, DJEN de 1/9/2026.)
 
-## 270. HC nº 1124321 / PR (STJ)
+## 299. HC nº 1124321 / PR (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 31/08/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: Tribunal do Júri: agravante só pode ser aplicada se alegada especificamente nos debates em plenário (art. 492, I, b, do CPP). Menções na denúncia, em depoimentos ou em laudos (ex.: idade da vítima) não suprem essa exigência. Ordem concedida de ofício para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124321.pdf
 
-## 271. RHC nº 243213 / SP (STJ)
+## 300. RHC nº 243213 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/08/2026.
 - Crime / Tema: Tráfico de drogas · Quebra de sigilo
 - Resumo: Cabe HC para controle de legalidade da quebra de sigilo telemático: acórdão do TJ adotou parecer do MP, sem enfrentar as teses defensivas, cassado para novo julgamento.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243213.pdf
 
-## 272. EDcl no AREsp nº 3028845 / PR (STJ)
+## 301. EDcl no AREsp nº 3028845 / PR (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 25/08/2026.
 - Crime / Tema: Acesso da defesa às provas
 - Resumo: Juntada tardia e incompleta das gravações ambientais sob custódia do Estado causa prejuízo concreto: a defesa perdeu oportunidades na resposta à acusação, na inquirição de testemunhas e na contraprova, e reabrir prazo só para complementar as alegações finais não recompõe essas fases. Mantida a nulidade a partir da resposta à acusação; embargos do MP rejeitados.
@@ -3399,31 +3785,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. A ausência de uso direto das mídias na sentença e a alegada convergência de seu conteúdo com a narrativa acusatória não afastam o direito de acesso integral e o controle defensivo sobre a íntegra da fonte probatória.
   > (EDcl no AREsp n. 3.028.845/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/8/2026, DJEN de 25/8/2026.)
 
-## 273. HC nº 1123362 / RJ (STJ)
+## 302. HC nº 1123362 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 24/08/2026.
 - Crime / Tema: Vias de fato · Ameaça · Violência doméstica · Dosimetria
 - Resumo: O aumento pela agravante do art. 61, II, 'f', do CP sem motivação deve ficar na fração usual de 1/6. Penas reduzidas: ameaça para 1 mês e 5 dias e vias de fato de 25 para 17 dias de prisão simples.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123362.pdf
 
-## 274. HC nº 1114613 / MG (STJ)
+## 303. HC nº 1114613 / MG (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/08/2026.
 - Crime / Tema: Vias de fato · Confissão espontânea
 - Resumo: Quem admite a conduta das vias de fato (art. 21, § 2º, da LCP) tem direito à atenuante da confissão, compensada com a reincidência, como o próprio TJ fez quanto à lesão corporal no mesmo julgado. Pena redimensionada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114613.pdf
 
-## 275. HC nº 1121206 / PI (STJ)
+## 304. HC nº 1121206 / PI (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 21/08/2026.
 - Crime / Tema: Organização criminosa · Prisão e medidas cautelares
 - Resumo: Mãe solo de duas crianças (3 e 8 anos) tem direito à prisão domiciliar no lugar da preventiva: o crime (organização criminosa) não envolveu violência, grave ameaça nem os filhos, e não há situação excepcional que impeça o benefício (arts. 318, V, e 318-A do CPP; HC 143.641/STF). Domiciliar concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1121206.pdf
 
-## 276. HC nº 275.317 / BA (STF)
+## 305. HC nº 275.317 / BA (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 20/08/2026.
 - Crime / Tema: Crimes contra a honra
 - Resumo: Matéria jornalística de interesse público que critica magistrados, ainda que dura, não é difamação: falta o animus diffamandi, e prevalece a liberdade de imprensa (ADPF 130). Mesmo com a condenação já transitada em julgado, o jornalista foi absolvido por atipicidade manifesta.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-275317.pdf
 
-## 277. REsp nº 2204349 / MG (STJ)
+## 306. REsp nº 2204349 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Terceira Seção. Publicado em 20/08/2026.
 - Crime / Tema: Associação para o tráfico · Execução penal · Tema repetitivo
 - Resumo: Tema 1.374/STJ — O art. 112, § 3º, V, da LEP (progressão especial para gestante, mãe ou responsável por criança ou pessoa com deficiência) se interpreta de modo restritivo: "organização criminosa" é só a condenação nos termos da Lei 12.850/2013, e não abrange associação criminosa (art. 288 do CP) nem associação para o tráfico (art. 35 da Lei 11.343/2006). Recurso provido para retificar o cálculo de pena.
@@ -3447,25 +3833,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 15. Recurso especial provido para determinar ao Juízo das Execuções Penais que retifique o cálculo de penas da recorrente, abstendo-se de considerar a condenação pelo crime de associação para o tráfico de drogas para fins de análise do requisito contido no art. 112, § 3º, V, da Lei n. 7.210/1984.
   > (REsp n. 2.204.349/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/8/2026, DJEN de 20/8/2026.)
 
-## 278. RHC nº 244894 / MG (STJ)
+## 307. RHC nº 244894 / MG (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
 - Resumo: Preventiva só pela contravenção de vias de fato, contra réu sem medida protetiva anterior nem descumprimento, é excessiva: a pena máxima não autoriza a prisão (art. 313 do CPP). Preventiva revogada, com medidas cautelares.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-244894.pdf
 
-## 279. HC nº 1112820 / RJ (STJ)
+## 308. HC nº 1112820 / RJ (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Vias de fato · Violência doméstica · Prisão e medidas cautelares
 - Resumo: Vias de fato contra adolescentes sem nenhuma lesão e hematomas leves na companheira não mostram gravidade concreta. Manter a preventiva fere a homogeneidade, porque a pena provável seria em regime aberto ou suspensa. Prisão substituída por cautelares, com parecer favorável do MPF.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112820.pdf
 
-## 280. HC nº 1122510 / BA (STJ)
+## 309. HC nº 1122510 / BA (STJ)
 - Decisão monocrática (liminar). Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/08/2026.
 - Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares · Superação da Súmula 691
 - Resumo: Superação excepcional da Súmula 691/STF — liminar para soltura imediata, paciente mantido preso em flagrante por mais de 72h sem qualquer controle jurisdicional da custódia, sem prejuízo de nova decretação de preventiva pelo Juízo natural, se fundamentada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1122510.pdf
 
-## 281. AgRg no AREsp nº 3136066 / MG (STJ)
+## 310. AgRg no AREsp nº 3136066 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 14/08/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Dosimetria
 - Resumo: Afastadas, em apelação só da defesa, circunstâncias judiciais negativas, a pena-base deve ser reduzida na mesma proporção (Tema 1.214/STJ). Agravo desprovido, mas HC de ofício para refazer a dosimetria.
@@ -3474,25 +3860,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 7/STJ. INSURGÊNCIA GENÉRICA. APLICAÇÃO DA SÚMULA 182/STJ MANTIDA. HABEAS CORPUS DE OFÍCIO. DOSIMETRIA. TEMA 1.214/STJ. AFASTAMENTO DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS NA SENTENÇA. AUSÊNCIA DE REDUÇÃO PROPORCIONAL DA PENA-BASE. ILEGALIDADE MANIFESTA. Agravo regimental improvido. Concedido habeas corpus de ofício, nos termos do dispositivo.
   > (AgRg no AREsp n. 3.136.066/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2026, DJEN de 14/8/2026.)
 
-## 282. RHC nº 224142 / SE (STJ)
+## 311. RHC nº 224142 / SE (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/08/2026.
 - Crime / Tema: Estelionato · Lavagem de dinheiro · Acesso da defesa às provas
 - Resumo: Laudo dos dispositivos apreendidos e dados bancários que embasaram a denúncia não franqueados à defesa: processo anulado a partir da intimação para a resposta à acusação, com juntada e acesso imediato a esse material.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-224142.pdf
 
-## 283. REsp nº 2261350 / AL (STJ)
+## 312. REsp nº 2261350 / AL (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 12/08/2026.
 - Crime / Tema: Roubo · Organização criminosa · Corrupção de menores · Reconhecimento de pessoa
 - Resumo: Reconhecimento feito pela simples exibição de oito fotos, sem alinhar pessoas parecidas, viola o art. 226 do CPP. A confirmação em juízo não o convalida, porque a memória da vítima já estava contaminada, e em juízo ela admitiu que o assaltante estava de rosto coberto e que reconheceu o réu pelo "biótipo parecido". O TJAL divergiu do Tema 1.258. Sem outras provas independentes, o réu foi absolvido (art. 386, VII, do CPP), com pena de 18 anos e 4 meses afastada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2261350.pdf
 
-## 284. RHC nº 238535 / RS (STJ)
+## 313. RHC nº 238535 / RS (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 05/08/2026.
 - Crime / Tema: Organização criminosa · Extorsão · Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
 - Resumo: Defesa sem acesso aos arquivos das extrações (UFDR): audiência suspensa até o acesso efetivo, com entrega das mídias e declaração formal sobre armazenamento e histórico de manipulação, para permitir o controle da cadeia de custódia.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-238535.pdf
 
-## 285. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
+## 314. ApCrim nº 0027305-77.2022.8.12.0001 (TJMS)
 - Decisão colegiada. Relator: Des. Carlos Eduardo Contar. 2ª Câmara Criminal. Publicado em 04/08/2026.
 - Crime / Tema: Extorsão · Quebra da cadeia de custódia · Prova digital
 - Resumo: Absolvição por insuficiência de provas: prints de WhatsApp sem perícia não bastam para condenar. Ausência de integridade do material digital.
@@ -3501,13 +3887,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > APELAÇÃO – DIREITO PROCESSUAL PENAL – EXTORSÃO – ABSOLVIÇÃO – PROVA DIGITAL – APONTAMENTO DE SÉRIA DÚVIDA QUANTO À ORIGEM E ELABORAÇÃO – IMPOSSIBILIDADE DE AFERIÇÃO TÉCNICA DE SUA CONFIABILIDADE – ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS IMPOSITIVA – PROVIMENTO. Ainda que o conjunto de indícios apontem para a possível responsabilidade do acusado, não sendo possível aferir-se tecnicamente a rastreabilidade da prova digital coligida e fundamentadamente impugnada pela defesa, de rigor a absolvição, em homenagem ao princípio do in dubio pro reo. Apelação defensiva a que se dá provimento, a fim de acolher o pleito absolutório.
   > (TJMS, Apelação Criminal n. 0027305-77.2022.8.12.0001, relator Desembargador Carlos Eduardo Contar, 2ª Câmara Criminal, julgado em 31/7/2026, publicado em 4/8/2026.)
 
-## 286. HC nº 1101979 / PE (STJ)
+## 315. HC nº 1101979 / PE (STJ)
 - Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 31/07/2026.
 - Crime / Tema: Homicídio qualificado · Dosimetria · Revisão criminal
 - Resumo: A revisão criminal pode ser ajuizada a qualquer tempo (art. 622 do CPP). Dolo e consciência da ilicitude não elevam a culpabilidade, e ação penal em curso não gera maus antecedentes (Súmula 444/STJ). Ordem concedida de ofício: pena-base no mínimo legal.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1101979.pdf
 
-## 287. AgRg no AREsp nº 2781519 / GO (STJ)
+## 316. AgRg no AREsp nº 2781519 / GO (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 29/07/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
 - Resumo: Histórico criminal e estar abaixado em determinado local não são fundada suspeita para busca pessoal (art. 244 do CPP). Faltavam denúncia específica, diligência prévia, fuga ou dispensa de droga. Absolvição mantida por maioria. Vencidos os Ministros Carlos Pires Brandão (voto-vista) e Og Fernandes.
@@ -3516,19 +3902,19 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO PARA CONDENAÇÃO. BUSCA PESSOAL. VALIDADE DOS FUNDAMENTOS APRESENTADOS PELA CORTE DE ORIGEM. JUSTA CAUSA NÃO RECONHECIDA PELA INSTÂNCIA ORDINÁRIA. AUSÊNCIA DE FUNDADA SUSPEITA. JURISPRUDÊNCIA DO STJ. ABSOLVIÇÃO QUE SE IMPÕE. Agravo regimental improvido.
   > (AgRg no AREsp n. 2.781.519/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/6/2026, DJEN de 29/7/2026.)
 
-## 288. HC nº 1100530 / SP (STJ)
+## 317. HC nº 1100530 / SP (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 20/07/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico
 - Resumo: O réu preso tem de ser intimado pessoalmente da sentença; anulada a intimação feita só ao defensor, com devolução do prazo da apelação. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1100530.pdf
 
-## 289. RHC nº 239931 / MG (STJ)
+## 318. RHC nº 239931 / MG (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 30/06/2026.
 - Crime / Tema: Organização criminosa · Corrupção passiva · Acesso da defesa às provas
 - Resumo: Mídias das interceptações disponibilizadas à defesa só depois de oferecida a resposta à acusação: ação penal anulada desde o recebimento da denúncia, com novo prazo para a resposta à vista do acervo integral.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-239931.pdf
 
-## 290. REsp nº 2197493 / RS (STJ)
+## 319. REsp nº 2197493 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/06/2026.
 - Crime / Tema: Abuso sexual infantojuvenil (ECA) · Prova digital · Acesso da defesa às provas
 - Resumo: Relatórios (reports) do NCMEC que deram origem à investigação de material de abuso sexual infantil não foram entregues à defesa. Sem acesso a essa fonte primária do relatório policial, os autos voltam à origem para juntada integral e reabertura do prazo defensivo. A confissão não supre a falta.
@@ -3562,7 +3948,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. A confissão do acusado não supre a ausência de disponibilização da fonte primária utilizada na elaboração do relatório policial, nem afasta a necessidade de elementos externos de corroboração independentes para sustentar condenação pelo art. 241-B do ECA.
   > (REsp n. 2.197.493/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/6/2026, DJEN de 23/6/2026.)
 
-## 291. REsp nº 2163522 / RJ (STJ)
+## 320. REsp nº 2163522 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/06/2026.
 - Crime / Tema: Crimes contra o sistema financeiro · Dosimetria · Confissão espontânea
 - Resumo: A atenuante da confissão espontânea (art. 65, III, d, do CP) incide sempre que o réu admite a autoria, ainda que de forma parcial, qualificada, retratada ou sem uso na sentença. Retorno para nova dosimetria; mantidos a condenação e o concurso material (Lei 7.492/86, caso Telexfree).
@@ -3571,7 +3957,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. OPERAÇÃO ORION. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. CONTRA A ECONOMIA POPULAR. CRIMES DO ART. 16 E 4º, CAPUT, AMBOS DA LEI N. 7.492/1986. GESTÃO FRAUDULENTA. OPERAÇÃO DE INSTITUIÇÃO FINANCEIRA SEM AUTORIZAÇÃO. AGRAVO INTERPOSTO EM RAZÃO DA ADMISSIBILIDADE PARCIAL DO RECURSO ESPECIAL. NÃO CABIMENTO. APLICAÇÃO ANALÓGICA DAS SÚMULAS 292 E 528, AMBAS DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. ENFRENTAMENTO ESPECÍFICO DAS TESES NA APELAÇÃO E NOS EMBARGOS DE DECLARAÇÃO. EMENDATIO LIBELLI SEM ALTERAÇÃO FÁTICA. CONCURSO MATERIAL MANTIDO. CONDUTAS AUTÔNOMAS E COMPATÍVEIS. ATIPICIDADE REJEITADA. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA. FUNDAMENTAÇÃO NA CULPABILIDADE E CONSEQUÊNCIAS. REEXAME FÁTICO VEDADO. SÚMULA 7/STJ. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO DA ATENUANTE DIANTE DE ADMISSÃO PARCIAL OU QUALIFICADA. ENTENDIMENTO DO STJ. LIMITAÇÃO QUANDO A PENA-BASE ESTÁ NO MÍNIMO. SÚMULA 231/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RETORNO DOS AUTOS PARA NOVA DOSIMETRIA. Agravo em recurso especial não conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido, em parte, nos termos do dispositivo.
   > (REsp n. 2.163.522/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/6/2026, DJEN de 22/6/2026.)
 
-## 292. AgRg no AREsp nº 2985235 / MT (STJ)
+## 321. AgRg no AREsp nº 2985235 / MT (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/06/2026.
 - Crime / Tema: Associação criminosa · Quebra da cadeia de custódia · Prova digital
 - Resumo: Relatórios técnicos sobre os celulares não bastam quando o acórdão não responde às impugnações da defesa sobre quem extraiu os dados, por qual método, em que data, se a extração foi integral e se a análise partiu dos aparelhos ou de um HD externo. Cabe ao Estado provar integridade, autenticidade e rastreabilidade da prova digital. Acórdão anulado para novo julgamento (Operação Capistrum).
@@ -3603,7 +3989,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. A insuficiência de fundamentação quanto à cadeia de custódia da prova digital impõe a anulação do acórdão recorrido para novo julgamento pela instância de origem.
   > (AgRg no AREsp n. 2.985.235/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 16/6/2026.)
 
-## 293. EDcl no AgRg no HC nº 1060880 / AM (STJ)
+## 322. EDcl no AgRg no HC nº 1060880 / AM (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 15/06/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima sobre furto pretérito e "diligências preliminares" genéricas, sem monitoramento nem movimentação típica, não são fundadas razões para entrar no domicílio. O consentimento do morador precisa de registro escrito ou audiovisual. Provas ilícitas e absolvição mantidas; embargos do MP rejeitados.
@@ -3630,7 +4016,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. A absolvição é devida quando inexistem provas válidas e independentes aptas a sustentar a condenação (CPP, art. 386, VII).
   > (EDcl no AgRg no HC n. 1.060.880/AM, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/6/2026, DJEN de 15/6/2026.)
 
-## 294. AgRg no HC nº 1050683 / SP (STJ)
+## 323. AgRg no HC nº 1050683 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 10/06/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital
 - Resumo: Sem apreensão de droga e sem laudo toxicológico definitivo, não há materialidade do tráfico (EREsp 1.544.057/RJ). Mensagens extraídas do celular e depoimentos policiais não suprem a falta. Absolvição mantida, com extensão ao corréu; agravo do MPF desprovido.
@@ -3656,13 +4042,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Reconhecida a ausência de materialidade, deve ser mantida a absolvição, ficando prejudicadas questões acessórias.
   > (AgRg no HC n. 1.050.683/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/6/2026, DJEN de 10/6/2026.)
 
-## 295. HC nº 1088218 / SP (STJ)
+## 324. HC nº 1088218 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 03/06/2026.
 - Crime / Tema: Violência doméstica · Perseguição · Ameaça · Prisão e medidas cautelares
 - Resumo: A preventiva decretada só pelo descumprimento de medida protetiva perde o fundamento quando o próprio MP arquiva o inquérito desse descumprimento por atipicidade (encontro fortuito, sem dolo). Sem fato novo e contemporâneo, a condição de foragido não basta para mantê-la, e as medidas protetivas vigentes já resguardam a vítima. Preventiva revogada, facultadas as cautelares do art. 319 do CPP.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1088218.pdf
 
-## 296. AgRg no RHC nº 235625 / SP (STJ)
+## 325. AgRg no RHC nº 235625 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 01/06/2026.
 - Crime / Tema: Violência doméstica · Quebra da cadeia de custódia · Prova digital
 - Resumo: A cadeia de custódia da prova digital não é formalismo. Não houve laudo de extração, indicação de como os vídeos chegaram à polícia, hash nem registro do percurso, e a defesa só viu uma regravação da tela do sistema: a integridade não está demonstrada. Presunção de idoneidade e fé pública da servidora não suprem a falta, e não se pode exigir da defesa a prova da adulteração (prova diabólica). A questão é objetiva e cabe em HC. Vídeos inadmissíveis, ressalvada perícia nos originais. Agravo do MP desprovido.
@@ -3679,7 +4065,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental não provido.
   > (AgRg no RHC n. 235.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2026, DJEN de 1/6/2026.)
 
-## 297. EDcl no AgRg no AREsp nº 2410587 / AP (STJ)
+## 326. EDcl no AgRg no AREsp nº 2410587 / AP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 18/05/2026.
 - Crime / Tema: Roubo · Reconhecimento de pessoa
 - Resumo: Embargos acolhidos para suprir omissão sobre ilegalidade flagrante: reconhecimento por foto na delegacia sem o art. 226 do CPP, confirmado só pela vítima em juízo e sem outra prova independente (Tema 1.258/STJ). HC de ofício: réu absolvido do roubo, com extensão aos corréus (art. 580 do CPP).
@@ -3689,7 +4075,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Embargos de declaração acolhidos. Ordem concedida de ofício com extensão aos demais réus.
   > (EDcl no AgRg no AREsp n. 2.410.587/AP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/5/2026, DJEN de 18/5/2026.)
 
-## 298. HC nº 1024858 / AP (STJ)
+## 327. HC nº 1024858 / AP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 13/05/2026.
 - Crime / Tema: Crimes ambientais · ANPP · Justa causa
 - Resumo: Sem oferta do ANPP nem recusa fundamentada do MP, o processo é nulo desde a denúncia. Ordem concedida.
@@ -3702,7 +4088,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Ordem concedida para anular o processo desde o oferecimento da denúncia.
   > (HC n. 1.024.858/AP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/5/2026, DJEN de 13/5/2026.)
 
-## 299. AgRg no AREsp nº 2786040 / GO (STJ)
+## 328. AgRg no AREsp nº 2786040 / GO (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/05/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Fundada suspeita
 - Resumo: A afirmação de corréus presos em flagrante de que compraram a droga na casa do acusado, sem confirmação por nenhum outro elemento, não é fundada razão para entrar sem mandado. O Estado não provou o consentimento do morador. Provas nulas e réu absolvido; a busca veicular dos corréus foi considerada válida.
@@ -3724,7 +4110,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento [na ementa oficial a tese saiu em branco; texto extraído do voto do relator, que reproduz a decisão monocrática, em que o réu era o agravante]: "os policiais se deslocaram até a residência do agravante porque foram informados pelos ocupantes do veículo de que a droga foi adquirida com aquele. Entretanto, nota-se que este fato não foi confirmado previamente por nenhum elemento probatório, mas somente sustentado na narrativa dos corréus. Destarte, a medida deveria ser precedida de mandado judicial, com melhor esclarecimento do vínculo do agravante com a venda das drogas aos corréus." […] "o ônus para comprovar o suposto consentimento do morador para a entrada dos policiais no imóvel é do Estado que o alega."
   > (AgRg no AREsp n. 2.786.040/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2026, DJEN de 13/5/2026.)
 
-## 300. AgRg no AgRg no HC nº 1041340 / RS (STJ)
+## 329. AgRg no AgRg no HC nº 1041340 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/04/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia · Prova digital · Acesso da defesa às provas
 - Resumo: Havendo requerimento, a defesa deve poder examinar, no órgão oficial e com perito, a cópia forense integral das extrações (UFD, UFDX e UFDR) e a documentação técnica; relatórios em PDF e áudios selecionados não bastam, sobretudo diante de alegação concreta de manipulação (art. 158-A, § 6º, do CPP). Agravo do MP improvido; preliminares a reexaminar na origem.
@@ -3750,13 +4136,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. A ausência de obrigatoriedade de transcrição integral de áudios não dispensa o Estado de franquear à defesa o acesso integral ao material probatório digital subjacente, sobretudo diante de alegações específicas de manipulação ou edição da prova.
   > (AgRg no AgRg no HC n. 1.041.340/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2026, DJEN de 23/4/2026.)
 
-## 301. REsp nº 2223655 / RS (STJ)
+## 330. REsp nº 2223655 / RS (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 14/04/2026.
 - Crime / Tema: Infanticídio · Pronúncia
 - Resumo: Desclassificação para infanticídio (art. 123 do CP) na pronúncia mantida: laudo psicológico e prova testemunhal prevaleceram sobre o laudo do incidente de insanidade. REsp do MP não conhecido (Súmula 126).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2223655.pdf
 
-## 302. AgRg no HC nº 1079684 / MG (STJ)
+## 331. AgRg no HC nº 1079684 / MG (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 14/04/2026.
 - Crime / Tema: Associação criminosa · Crimes contra a Administração Pública · Lavagem de dinheiro · Quebra de sigilo · Busca e apreensão
 - Resumo: Acesso a dados telemáticos armazenados (dados estáticos) não exige prazo, como a interceptação exige, mas precisa guardar pertinência temática e temporal com os fatos investigados. A investigação de fatos de 2009 a 2015 não autoriza vasculhar dados anteriores ou posteriores, o que seria pescaria probatória. Busca e apreensão mantida, com recorte temporal.
@@ -3772,7 +4158,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental a que se dá parcial provimento, para acolher o pedido subsidiário e, de ofício, delimitar as medidas invasivas ao período dos fatos investigados (2009-2015).
   > (AgRg no HC n. 1.079.684/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/4/2026, DJEN de 14/4/2026.)
 
-## 303. AREsp nº 3126435 / MT (STJ)
+## 332. AREsp nº 3126435 / MT (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/04/2026.
 - Crime / Tema: Crimes contra a honra · Ameaça · Perseguição · Violência psicológica contra a mulher · Prova digital · Quebra da cadeia de custódia
 - Resumo: Prints unilaterais de conversa, sem perícia nem rastreabilidade, são inadmissíveis como prova. Acórdão anulado para novo julgamento.
@@ -3802,7 +4188,37 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Depoimento isolado da vítima, desacompanhado de outros elementos probatórios idôneos, e confissão extrajudicial não reproduzida em juízo não constituem suporte suficiente para afastar a dúvida razoável e infirmar absolvição fundada no art. 386, VII, do CPP.
   > (AREsp n. 3.126.435/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/4/2026, DJEN de 13/4/2026.)
 
-## 304. HC nº 1048611 / RS (STJ)
+## 333. AgRg no RHC nº 228842 / MS (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 17/03/2026.
+- Crime / Tema: Organização criminosa · Crimes contra a Administração Pública · Prisão e medidas cautelares
+- Resumo: Participar de organização criminosa não torna a preventiva obrigatória, nem após a Lei 15.272/2025 (art. 312, § 3º, II, do CPP): sem fato concreto de risco à instrução, cautelares alternativas bastam para crimes ligados à função pública. Preventiva substituída, com extensão aos corréus (art. 580 do CPP); agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-228842.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. EXTENSÃO DE EFEITOS AOS DEMAIS DENUNCIADOS. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO IMPROVIDO.
+  > I. CASO EM EXAME
+  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Mato Grosso do Sul contra decisão monocrática que deu parcial provimento ao recurso, determinando a substituição da prisão preventiva por medidas cautelares alternativas, com extensão de efeitos aos denunciados em semelhante contexto fático-processual.
+  > 2. O agravado foi preso preventivamente no âmbito da "Operação Águas Turvas", em decorrência de evidências surgidas na "Operação Velatus", que revelaram a existência de uma organização criminosa instalada na Administração Pública do Município de Bonito/MS, dedicada à prática de fraudes licitatórias, corrupção e lavagem de dinheiro.
+  > 3. A prisão preventiva foi decretada para preservar a ordem pública, diante da gravidade dos fatos atribuídos ao agravado, visando à desarticulação da organização criminosa e à prevenção de reiteração delitiva, além de resguardar a instrução processual.
+  > 4. A decisão monocrática considerou que, embora presentes indícios concretos de autoria e materialidade dos crimes, as circunstâncias descritas não demonstraram a imprescindibilidade da prisão preventiva, sendo adequadas as medidas cautelares alternativas.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 5. A questão em discussão consiste em saber se a prisão preventiva do agravado e dos demais denunciados é imprescindível para preservar a ordem pública e resguardar a instrução processual, ou se é possível a substituição por medidas cautelares alternativas.
+  > 6. Outra questão em discussão é saber se há elementos suficientes nos autos para justificar a extensão dos efeitos da decisão aos demais denunciados.
+  > III. RAZÕES DE DECIDIR
+  > 7. A prisão preventiva é medida cautelar extrema, que só pode ser decretada quando demonstrado o fumus comissi delicti e o periculum libertatis, nos termos do art. 312 do Código de Processo Penal, e quando as medidas cautelares alternativas se revelarem inadequadas ou insuficientes.
+  > 8. No caso, em que pese a presença de prova de materialidade dos crimes sob investigação, bem como de indícios concretos de autoria, constata-se que as circunstâncias descritas na decisão impugnada não demonstram a imprescindibilidade da prisão preventiva, mostrando-se adequadas as medidas cautelares alternativas.
+  > 9. Não se admite que a prisão preventiva se ampare em motivação genérica, nem tampouco na mera conjectura de que o investigado poderá vir a influir na produção das provas, sendo imprescindível que haja a indicação de fato específico que revele a intenção de prejudicar o regular andamento da instrução processual, o que não se verificou no caso dos autos
+  > 10. Considerando a natureza dos delitos praticados, todos eles vinculados ao exercício da função pública de integrantes do grupo criminoso, que nesta condição estavam viabilizando, sistematicamente, as fraudes licitatórias e o dano ao erário municipal, vislumbra-se a existência de medidas cautelares alternativas capazes de preservar, satisfatoriamente, a ordem pública.
+  > 11. O entendimento adotado por esta Corte Superior, acompanhando a jurisprudência do STF, no sentido de que a "necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, Rel. Ministra CÁRMEN LÚCIA, DJe 20/2/2009), não impõe, obrigatoriamente, a decretação de prisão preventiva em crime que envolva organização criminosa.
+  > 12. A linha jurisprudencial adotada por esta Corte Superior encontra-se em estrita consonância com a inovação inserida pela Lei n. 15.272/2025 no art. 312, § 3º, II, do CPP, no sentido de considerar a participação em organização criminosa como um dos critérios de aferição da periculosidade do agente, o que não significa dizer que a prisão preventiva, nesta hipótese, tornou-se obrigatória.
+  > 13. A extensão dos efeitos da decisão aos demais denunciados, nos termos do art. 580 do CPP, se justifica diante da constatação de que todas as prisões preventivas foram decretadas com base em idêntica fundamentação.
+  > IV. DISPOSITIVO E TESE
+  > 14. Resultado do Julgamento: Agravo regimental improvido.
+  > Tese de julgamento:
+  > 1. A prisão preventiva é medida cautelar extrema, que só pode ser decretada quando demonstrado o fumus comissi delicti e o periculum libertatis, nos termos do art. 312 do Código de Processo Penal, e quando as medidas cautelares alternativas se revelarem inadequadas ou insuficientes.
+  > 2. A substituição da prisão preventiva por medidas cautelares alternativas é possível quando estas se mostram suficientes para preservar a ordem pública e evitar a reiteração delitiva.
+  > (AgRg no RHC n. 228.842/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/3/2026, DJEN de 17/3/2026.)
+
+## 334. HC nº 1048611 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 17/03/2026.
 - Crime / Tema: Execução penal
 - Resumo: A remição pelo trabalho pode ser comprovada por prova testemunhal idônea, mesmo de outros presos, sobretudo quando o Estado falhou em registrar o trabalho (art. 126 da LEP). Proibir de antemão essa prova é ilegal. Ordem concedida para o juízo da execução reanalisar a remição.
@@ -3827,7 +4243,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. A participação do Ministério Público e da administração carcerária na produção probatória pode assegurar a idoneidade da prova testemunhal para fins de remição pelo trabalho.
   > (HC n. 1.048.611/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2026, DJEN de 17/3/2026.)
 
-## 305. AgRg no REsp nº 2237192 / RJ (STJ)
+## 335. AgRg no REsp nº 2237192 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/03/2026.
 - Crime / Tema: Manipulação de mercado · Imparcialidade do juiz
 - Resumo: Suspeição de juiz acionista da empresa ligada à investigação (manipulação de mercado): a parcialidade é aferível objetivamente, e o prejuízo decorre dela. Mantida a anulação de todos os atos do magistrado.
@@ -3841,7 +4257,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental a que se nega provimento.
   > (AgRg no REsp n. 2.237.192/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2026, DJEN de 16/3/2026.)
 
-## 306. AgRg no HC nº 1017481 / RN (STJ)
+## 336. AgRg no HC nº 1017481 / RN (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 12/03/2026.
 - Crime / Tema: Tráfico de drogas · Prova digital · Fundada suspeita · Cabimento do HC
 - Resumo: O acesso da polícia às conversas do celular do corréu sem autorização judicial é ilícito. Essa prova e as dela derivadas devem ser desentranhadas, cabendo ao juízo verificar se há prova independente que sustente a condenação. A busca pessoal, feita com fundada suspeita, foi considerada válida (art. 244 do CPP).
@@ -3867,7 +4283,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Provas obtidas de forma ilícita, em violação ao direito constitucional de proteção à intimidade e ao sigilo das comunicações, bem como todas as provas delas derivadas, devem ser desentranhadas dos autos.
   > (AgRg no HC n. 1.017.481/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2026, DJEN de 12/3/2026.)
 
-## 307. RHC nº 223931 / PE (STJ)
+## 337. RHC nº 223931 / PE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 11/03/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inépcia da denúncia
 - Resumo: Denúncia inepta: imputar genericamente tráfico e associação para o tráfico, sem descrever a coordenação, a divisão de tarefas ou o vínculo estável entre os réus, viola o art. 41 do CPP. Registros policiais antigos e apreensões sem data, local e circunstâncias não suprem a falta. Ação penal trancada, com extensão aos corréus (art. 580 do CPP).
@@ -3881,7 +4297,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recurso em habeas corpus provido, para determinar o trancamento da ação penal em relação ao recorrente, com extensão de efeitos aos corréus.
   > (RHC n. 223.931/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/3/2026, DJEN de 11/3/2026.)
 
-## 308. APn nº 927 / DF (STJ)
+## 338. APn nº 927 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Maria Isabel Gallotti. Corte Especial. Publicado em 10/03/2026.
 - Crime / Tema: Lavagem de dinheiro · Prescrição
 - Resumo: A lavagem é crime autônomo: pode ser julgada antes do crime antecedente (corrupção e organização criminosa), bastando prova da infração antecedente, ainda que prescrita (art. 2º, II e § 1º, da Lei 9.613/1998). Na modalidade "ocultar", é permanente, e a prescrição corre da descoberta dos valores. A majorante do art. 1º, § 4º, só incide se a própria lavagem for praticada por organização criminosa. O dano moral coletivo exige ação própria. Conselheiro do TCE-RJ condenado a 13 anos e a esposa a 3 anos e 8 meses, com absolvições parciais. Vencidos quatro ministros, entre eles o revisor, que absolviam os réus.
@@ -3907,7 +4323,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 17. Ação penal julgada procedente em parte, porque: (a) absolvida a corré quanto às imputações do conjunto de fatos 1; (b) afastada a continuidade delitiva alegada quanto ao conjunto de fatos 2, beneficiando ambos os réus; (c) absolvidos ambos os réus quanto às imputações do conjunto de fatos 3.
   > (APn n. 927/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 4/2/2026, DJEN de 10/3/2026.)
 
-## 309. REsp nº 2194002 / MS (STJ)
+## 339. REsp nº 2194002 / MS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 04/03/2026.
 - Crime / Tema: Contrabando · Continuidade delitiva
 - Resumo: Intervalo de mais de 30 dias entre os crimes não afasta, por si, a continuidade delitiva: reconhecida entre ciclos de contrabando com o mesmo modo de agir. REsp do MPF desprovido.
@@ -3933,7 +4349,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. A jurisprudência do Superior Tribunal de Justiça admite, de maneira excepcional, a flexibilização do interstício temporal máximo de 30 dias entre as condutas criminosas para fins de reconhecimento da continuidade delitiva, considerando as peculiaridades do caso concreto.
   > (REsp n. 2.194.002/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/2/2026, DJEN de 4/3/2026.)
 
-## 310. AgRg no HC nº 1014212 / ES (STJ)
+## 340. AgRg no HC nº 1014212 / ES (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 20/02/2026.
 - Crime / Tema: Homicídio qualificado · Associação criminosa · Prova digital · Quebra da cadeia de custódia · Prisão e medidas cautelares
 - Resumo: Dúvida razoável sobre a integridade da prova digital exige perícia oficial; preventiva substituída por cautelares enquanto a prova é verificada. Agravo parcialmente provido.
@@ -3959,7 +4375,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Quando os principais elementos probatórios de autoria consistem em dados digitais cuja fidedignidade necessita de confirmação mediante exame pericial, a proporcionalidade recomenda a substituição da prisão preventiva por medidas cautelares diversas até a conclusão da diligência técnica.
   > (AgRg no HC n. 1.014.212/ES, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 10/2/2026, DJEN de 20/2/2026.)
 
-## 311. AgRg no AREsp nº 2583516 / TO (STJ)
+## 341. AgRg no AREsp nº 2583516 / TO (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/02/2026.
 - Crime / Tema: Lavagem de dinheiro
 - Resumo: Mantida absolvição por lavagem de dinheiro: depósito fracionado em conta própria/terceiros, sem dolo específico de ocultar/dissimular origem ilícita nem nexo causal com o crime antecedente, não configura o delito. Reexame vedado pelas Súmulas 7 e 83/STJ.
@@ -3986,25 +4402,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. A Súmula 83 do STJ é aplicável quando o acórdão recorrido está em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça.
   > (AgRg no AREsp n. 2.583.516/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/2/2026, DJEN de 12/2/2026.)
 
-## 312. RHC nº 226065 / PA (STJ)
+## 342. RHC nº 226065 / PA (STJ)
 - Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 05/02/2026.
 - Crime / Tema: Homicídio · Tribunal do Júri · Acesso da defesa às provas
 - Resumo: Provas das medidas cautelares sigilosas (interceptações, quebras de sigilo e buscas) acessadas só tardiamente: anulados os atos desde a citação, com reabertura do prazo da resposta à acusação e acesso integral aos apensos antes de qualquer novo ato.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-226065.pdf
 
-## 313. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
+## 343. ARE nº 1.585.074 / SP — sob segredo de justiça (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin (Presidente). Publicado em 02/02/2026.
 - Crime / Tema: Dosimetria
 - Resumo: Devolução do processo ao fluxo regular após pacificação do Tema 150/STF (RE 593818): maus antecedentes não prescrevem em 5 anos como a reincidência, mas o julgador pode deixar de valorá-los se irrelevantes ou muito distantes no tempo.
 - Ver andamento no STF: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7467927
 
-## 314. HC nº 1047527 / TO (STJ)
+## 344. HC nº 1047527 / TO (STJ)
 - Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 22/12/2025.
 - Crime / Tema: Organização criminosa · Peculato · Quebra de sigilo · Acesso da defesa às provas
 - Resumo: Sem acesso à totalidade das provas que embasaram a denúncia (dados bancários da quebra de sigilo e conteúdo dos aparelhos), a defesa não pode responder à acusação. Anulados os atos a partir da resposta, com novo prazo.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1047527.pdf
 
-## 315. AREsp nº 2967413 / RS (STJ)
+## 345. AREsp nº 2967413 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/12/2025.
 - Crime / Tema: Organização criminosa · Quebra da cadeia de custódia · Prova digital
 - Resumo: A cadeia de custódia condiciona a confiabilidade da prova digital. Prints de aplicativo extraídos do celular de um corréu exigem documentação verificável da coleta e preservação, e o ônus de provar integridade e autenticidade é da acusação. O acórdão que só disse que a defesa não provou prejuízo inverteu esse ônus e foi anulado para novo julgamento.
@@ -4033,7 +4449,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. A ausência, no acórdão de apelação, de fundamentação específica sobre a forma de obtenção e preservação de capturas de tela utilizadas como prova central em condenação penal enseja a anulação do julgamento e a devolução dos autos ao Tribunal de origem para novo exame, com motivação expressa à luz dos arts. 157, § 1º, 158 e 158-A a 158-F do CPP.
   > (AREsp n. 2.967.413/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/12/2025, DJEN de 16/12/2025.)
 
-## 316. REsp nº 2166900 / SP (STJ)
+## 346. REsp nº 2166900 / SP (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Execução penal · Tema repetitivo
@@ -4056,7 +4472,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
   > (REsp n. 2.166.900/SP, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
 
-## 317. REsp nº 2167128 / RJ (STJ)
+## 347. REsp nº 2167128 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 18/11/2025.
 - **Resultado desfavorável à defesa:** Recurso do MP provido (vale pela tese)
 - Crime / Tema: Execução penal · Tema repetitivo
@@ -4079,7 +4495,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento e de solução do Tema n. 1.347 do STJ: "A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a apuração definitiva da falta."
   > (REsp n. 2.167.128/RJ, relator Ministro Og Fernandes, Terceira Seção, julgado em 12/11/2025, DJEN de 18/11/2025.)
 
-## 318. AgRg no HC nº 1004144 / SP (STJ)
+## 348. AgRg no HC nº 1004144 / SP (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 30/10/2025.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Quantidade e natureza da droga, falta de prova de trabalho lícito e apreensão em ponto de tráfico não afastam, cada uma sozinha, o tráfico privilegiado. Usar a quantidade para elevar a pena-base e para negar a minorante é bis in idem. Ordem de ofício mantida; agravo do MP desprovido.
@@ -4106,7 +4522,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. A utilização da quantidade e da natureza das drogas para exasperar a pena-base e para afastar a minorante do art. 33, § 4º, da Lei nº 11.343/2006 configura indevido bis in idem.
   > (AgRg no HC n. 1.004.144/SP, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2025, DJEN de 30/10/2025.)
 
-## 319. AgRg no REsp nº 2217162 / SC (STJ)
+## 349. AgRg no REsp nº 2217162 / SC (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 29/10/2025.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Execução penal
@@ -4122,31 +4538,31 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Agravo regimental não provido.
   > (AgRg no REsp n. 2.217.162/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/10/2025, DJEN de 29/10/2025.)
 
-## 320. AREsp nº 3045207 / MT (STJ)
+## 350. AREsp nº 3045207 / MT (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 23/10/2025.
 - Crime / Tema: Homicídio qualificado · Ameaça · Violência doméstica · Tribunal do Júri
 - Resumo: Tentativa exige o início da execução do núcleo do tipo (teoria objetivo-formal). O réu foi armado ao local com intenção de matar, mas foi impedido de se aproximar da vítima: houve só atos preparatórios. Mantida a desclassificação para ameaça no âmbito doméstico (art. 419 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3045207.pdf
 
-## 321. AREsp nº 2968442 / ES (STJ)
+## 351. AREsp nº 2968442 / ES (STJ)
 - Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 15/10/2025.
 - Crime / Tema: Infanticídio · Tribunal do Júri
 - Resumo: Anulação do Júri mantida, para novo julgamento com quesito de infanticídio. Fato ocorrido imediatamente após o parto faz presumir o estado puerperal, e cabe à acusação afastá-lo (perda de uma chance probatória, art. 156 do CPP). Relatório médico feito mais de 2 meses depois não retrata o puerpério imediato.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2968442.pdf
 
-## 322. REsp nº 2231330 / MG (STJ)
+## 352. REsp nº 2231330 / MG (STJ)
 - Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 29/09/2025.
 - Crime / Tema: Infanticídio · Pronúncia
 - Resumo: Desclassificação para infanticídio já na pronúncia mantida: asfixia durante ou logo após o parto, sob forte alteração psicofísica, com a prova convergindo para essa única versão.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2231330.pdf
 
-## 323. AREsp nº 2605530 / RS (STJ)
+## 353. AREsp nº 2605530 / RS (STJ)
 - Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 25/09/2025.
 - Crime / Tema: RIF
 - Resumo: A polícia não pode pedir RIF diretamente ao COAF sem autorização judicial: o Tema 990/STF cobre só o envio espontâneo pelo COAF, e a encomenda é pescaria probatória que viola a reserva de jurisdição. AREsp do MP desprovido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2605530.pdf
 
-## 324. REsp nº 2001973 / RS (STJ)
+## 354. REsp nº 2001973 / RS (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 16/09/2025.
 - Crime / Tema: Descaminho · Confissão espontânea · Dosimetria · Tema repetitivo
 - Resumo: Tema 1.194/STJ e revisão da Súmula 545/STJ: na redação de 2015, a confissão só atenuava a pena quando usada para formar o convencimento do julgador; na nova, de 2025, atenua (art. 65, III, d, do CP) independentemente disso, mesmo com outras provas, salvo retratação que não tenha servido à apuração dos fatos. Confissão parcial ou qualificada atenua em menor proporção e não prepondera sobre agravantes. Efeitos prejudiciais só para fatos posteriores ao acórdão. REsp da defesa parcialmente provido.
@@ -4170,7 +4586,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
   > (REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
 
-## 325. AgRg no REsp nº 2206947 / PR (STJ)
+## 355. AgRg no REsp nº 2206947 / PR (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/09/2025.
 - Crime / Tema: Infanticídio · Homicídio · Pronúncia
 - Resumo: Desclassificação para homicídio culposo mantida: o estado puerperal ficou provado, mas não o dolo (demora de cerca de 3 horas para levar o bebê ao hospital). Não existe infanticídio culposo (art. 18, parágrafo único, do CP), e o dolo deve ser examinado já na pronúncia. Rever isso esbarra na Súmula 7.
@@ -4190,25 +4606,25 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Tese de julgamento: "1. É inviável o reexame de fatos e provas em recurso especial".
   > (AgRg no REsp n. 2.206.947/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.)
 
-## 326. REsp nº 2195682 / SP (STJ)
+## 356. REsp nº 2195682 / SP (STJ)
 - Decisão monocrática. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 29/08/2025.
 - Crime / Tema: Lavagem de dinheiro · RIF
 - Resumo: RIFs enviados pelo COAF a pedido da polícia, sem autorização judicial, são nulos e devem sair dos autos com as provas deles derivadas; o juiz deve reavaliar o sequestro de bens à luz do que restar. REsp da defesa parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2195682.pdf
 
-## 327. RHC nº 221603 / RS (STJ)
+## 357. RHC nº 221603 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/08/2025.
 - Crime / Tema: RIF
 - Resumo: O Tema 990/STF não autoriza a requisição direta de dados financeiros pela polícia sem ordem judicial. RIF pedido pela autoridade policial em verificação preliminar declarado ilícito e desentranhado, com as provas derivadas (TRF4).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-221603.pdf
 
-## 328. RHC nº 153706 / RS (STJ)
+## 358. RHC nº 153706 / RS (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 25/07/2025.
 - Crime / Tema: Crimes contra o sistema financeiro · Lavagem de dinheiro · Organização criminosa · Acesso da defesa às provas
 - Resumo: Relatório complementar da PF com novos elementos, juntado depois da resposta à acusação, exige restituir o prazo da resposta, com acesso integral aos elementos que o embasaram; reinquirir as testemunhas não basta.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-153706.pdf
 
-## 329. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+## 359. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
 - Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
@@ -4231,7 +4647,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
   > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 330. REsp nº 1953602 / SP (STJ)
+## 360. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -4251,7 +4667,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 331. AgRg no REsp nº 2132630 / RS (STJ)
+## 361. AgRg no REsp nº 2132630 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Infanticídio · Tribunal do Júri
 - Resumo: Desclassificação para infanticídio tentado mantida: a prova indicava que a mãe agiu sob a influência do estado puerperal (parto sozinha no banheiro de um ônibus, gravidez oculta, sem pré-natal), e rever isso esbarra na Súmula 7. O in dubio pro societate não tem amparo legal. A decisão monocrática anterior transcreve o TJRS: o estado puerperal é perturbação sutil e transitória, e laudo feito meses depois não o afasta.
@@ -4264,13 +4680,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.132.630/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
 
-## 332. RHC nº 213637 / BA (STJ)
+## 362. RHC nº 213637 / BA (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf
 
-## 333. AgRg no REsp nº 2173273 / MG (STJ)
+## 363. AgRg no REsp nº 2173273 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 16/06/2025.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Ingresso em domicílio ilícito: denúncia anônima e nervosismo não são fundadas razões, e o consentimento do morador não foi comprovado. Absolvição mantida (tráfico).
@@ -4284,13 +4700,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental não provido.
   > (AgRg no REsp n. 2.173.273/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
 
-## 334. Rcl nº 80.133 / PR (STF)
+## 364. Rcl nº 80.133 / PR (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 05/06/2025.
 - Crime / Tema: Prova digital · Acesso da defesa às provas
 - Resumo: Súmula Vinculante 14: a defesa tem direito a todo o material extraído dos aparelhos periciados, sem filtragem prévia do perito, do MP ou do juiz; só a defesa decide o que lhe é útil. Acesso integral em 5 dias e audiências suspensas até a análise.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-80133.pdf
 
-## 335. AREsp nº 2895381 / RJ (STJ)
+## 365. AREsp nº 2895381 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 28/05/2025.
 - Crime / Tema: Infanticídio · Pronúncia · Testemunho indireto
 - Resumo: A pronúncia por infanticídio não pode se apoiar só em elementos do inquérito nem em testemunho de 'ouvir dizer', sem prova mínima produzida em juízo. Ré despronunciada (art. 123 do CP).
@@ -4313,7 +4729,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Testemunho indireto não é considerado prova suficiente para um juízo positivo na fase da pronúncia".
   > (AREsp n. 2.895.381/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
 
-## 336. AgRg no AREsp nº 2243364 / MG (STJ)
+## 366. AgRg no AREsp nº 2243364 / MG (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 15/04/2025.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Oferecer droga de graça a preso é tráfico (art. 33, caput), e não a figura do § 2º. Mas a quantidade ínfima e a falta de intuito de lucro justificam o tráfico privilegiado mesmo com maus antecedentes não específicos. Agravo desprovido; ordem concedida de ofício: 2 anos e 6 meses, regime aberto e penas restritivas de direitos.
@@ -4337,7 +4753,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. A pena pode ser substituída por restritivas de direito, considerando a confissão e a interpretação sistemática dos dispositivos penais.
   > (AgRg no AREsp n. 2.243.364/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
 
-## 337. AgRg no RHC nº 189376 / MT (STJ)
+## 367. AgRg no RHC nº 189376 / MT (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 05/03/2025.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Lavagem de dinheiro · Quebra de sigilo · Prova digital · Competência
 - Resumo: A quebra de sigilo de dados de celular autorizada pela Justiça Estadual é nula quando, desde o início, era crível que os fatos fossem conexos a operação da Justiça Federal (a apreensão partiu de pedido da PF). Não se aplica a teoria do juízo aparente. Também não havia urgência, porque o celular já estava sob custódia judicial. A extração foi anulada e a prova desentranhada, podendo ser refeita por ordem do juízo competente. Agravo do MPF desprovido.
@@ -4350,31 +4766,45 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Agravo regimental desprovido.
   > (AgRg no RHC n. 189.376/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
 
-## 338. HC nº 978977 / PE (STJ)
+## 368. HC nº 937177 / MG (STJ)
+- Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 18/02/2025.
+- Crime / Tema: Organização criminosa · Prisão e medidas cautelares
+- Resumo: Preventiva restabelecida pelo tribunal em recurso em sentido estrito sem elementos contemporâneos de periculum libertatis é ilegal, sobretudo com o réu primário, afastado da função pública, cumpridor das cautelares e com a instrução encerrada. Ordem concedida para restabelecer as cautelares do art. 319 do CPP, com extensão aos corréus.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-937177.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA, CORRUPÇÃO PASSIVA, TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA RETOMADA PELO TRIBUNAL A QUO NO JULGAMENTO DE RECURSO EM SENTIDO ESTRITO. AUSÊNCIA DE ELEMENTOS CONTEMPORÂNEOS QUE DEMONSTREM O PERICULUM LIBERTATIS. RÉU PRIMÁRIO E PORTADOR DE BONS ANTECEDENTES. AFASTAMENTO DA FUNÇÃO PÚBLICA. INSTRUÇÃO CRIMINAL ENCERRADA. DESPROPORCIONALIDADE DA MEDIDA EXTREMA. POSSIBILIDADE DE APLICAÇÃO DE CAUTELARES DIVERSAS. LIMINAR CONFIRMADA. ORDEM DE HABEAS CORPUS CONCEDIDA PARA RESTABELECER A DECISÃO PROFERIDA PELO MAGISTRADO SINGULAR QUE BENEFICIOU O ACUSADO COM A LIBERDADE PROVISÓRIA. DEFERIDA A EXTENSÃO DE EFEITOS.
+  > 1. Conforme o entendimento do Superior Tribunal de Justiça, a segregação provisória há de ser medida necessária e adequada aos propósitos processuais a que serve, não podendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, consagradas no art. 319 do CPP, mostrem-se, por si sós, suficientes para acautelar o processo e/ou a sociedade (HC n. 693.012/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+  > 2. No caso, a despeito da gravidade dos supostos fatos delituosos, o Tribunal estadual, ao cassar a decisão proferida pelo Juízo de primeiro grau e restabelecer a prisão preventiva, deixou de indicar de forma concreta elementos contemporâneos que demonstrassem o periculum libertatis do paciente, inexistindo fundamentação idônea acerca de como a manutenção da liberdade do acusado iria comprometer a ordem pública ou a aplicação da lei penal, bem como quanto à insuficiência das medidas cautelares diversas da prisão, notadamente diante do afastamento da função pública, como anteriormente determinado na ação penal.
+  > 3. Ademais, o paciente é primário, portador de bons antecedentes, sempre cumpriu as medidas cautelares alternativas que lhe foram impostas no período em que não permaneceu preso durante a tramitação do processo-crime e a instrução já foi encerrada, sendo plenamente cabível a imposição de restrições outras, capazes de alcançar o fim almejado com o encarceramento.
+  > 4. Incidente a orientação desta Corte no sentido de que, à vista das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a aplicação das medidas cautelares alternativas quando se mostrarem suficientes para garantir a ordem pública (...) (AgRg no HC n. 623.414/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1º/12/2020, DJe de 4/12/2020).
+  > 5. Ordem de habeas corpus concedida, com extensão dos efeitos aos corréus mencionados no voto, na forma do art. 580 do Código de Processo Penal.
+  > (HC n. 937.177/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/2/2025, DJEN de 18/2/2025.)
+
+## 369. HC nº 978977 / PE (STJ)
 - Decisão monocrática. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 17/02/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A condenação pelo Júri se apoiou só em depoimento do inquérito e em testemunhos indiretos de testemunhas sigilosas, sem ouvir as fontes originais. Isso viola o art. 593, III, "d", do CPP e não alcança nem o standard exigido para a pronúncia. Réu despronunciado de ofício e anulados os atos posteriores, sem prejuízo de nova denúncia.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-978977.pdf
 
-## 339. AgRg no AREsp nº 2697575 / RJ (STJ)
+## 370. AgRg no AREsp nº 2697575 / RJ (STJ)
 - Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 13/02/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Reconhecimento de pessoa · Pronúncia
 - Resumo: O reconhecimento pessoal feito em desacordo com o art. 226 do CPP é nulo e, sem outro indício de autoria, não sustenta pronúncia nem condenação. As vítimas tinham visto antes fotos do suspeito enviadas por conhecidos e depois o reconheceram por foto na delegacia. Anulada a condenação pelo Júri e o réu despronunciado, de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2697575.pdf
 
-## 340. HC nº 840695 / PB (STJ)
+## 371. HC nº 840695 / PB (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/02/2025.
 - Crime / Tema: Estelionato · Continuidade delitiva · Dosimetria
 - Resumo: Pirâmide financeira: os 41 estelionatos, praticados do mesmo modo e em sequência, configuram crime continuado, e não concurso material. Em vez de somar as penas, aplica-se uma só pena aumentada. Continuidade reconhecida de ofício, com pena final de 3 anos e 4 meses em regime semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-840695.pdf
 
-## 341. AREsp nº 2508013 / MG (STJ)
+## 372. AREsp nº 2508013 / MG (STJ)
 - Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 29/01/2025.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
 - Resumo: A pronúncia não pode se basear só em elementos do inquérito e em testemunhos de "ouvir dizer" (art. 155 do CPP). O in dubio pro societate não supre lacuna de prova. Detectado o vício na própria pronúncia, não cabe sequer submeter o réu a novo Júri. Réu despronunciado de ofício, mesmo depois da condenação.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2508013.pdf
 
-## 342. HC nº 943710 / SC (STJ)
+## 373. HC nº 943710 / SC (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
 - Crime / Tema: Crimes contra o sistema financeiro · RIF · Competência
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
@@ -4390,7 +4820,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Ordem concedida parcialmente para reconhecer a ilicitude da solicitação direta dos Relatórios de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos deles derivados, cabendo ao Juízo de primeiro grau identificá-los, procedendo ao seu desentranhamento, além de analisar se persiste a justa causa para o trâmite da ação penal na sua ausência.
   > (HC n. 943.710/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
 
-## 343. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
+## 374. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
 - Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
 - Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.
@@ -4402,13 +4832,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > - Diante do julgamento do STF no RE nº 635.659, que, por maioria e nos termos do voto do Relator, apreciando o declarou a inconstitucionalidade, sem redução de texto, do art. 28 da Lei 11.343/2006, quando o usuário portar menos de 40g de maconha, de modo a afastar do referido dispositivo todo e qualquer efeito de natureza penal, deve ser reconhecida a atipicidade da conduta, com a consequente absolvição do apelante, devendo os autos serem remetidos ao Juizado Especial Criminal da comarca de origem, para aplicação das sanções administrativas cabíveis.
   > (TJMG, Apelação Criminal n. 1.0000.24.303113-5/001, relator Desembargador Jaubert Carneiro Jaques, 6ª Câmara Criminal, julgado em 22/10/2024, publicado em 23/10/2024.)
 
-## 344. HC nº 902195 / RS (STJ)
+## 375. HC nº 902195 / RS (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 13/08/2024.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Quebra da cadeia de custódia · Prova digital · Pronúncia
 - Resumo: A cadeia de custódia vale também para fatos anteriores ao Pacote Anticrime, porque decorre do conceito de corpo de delito (art. 158 do CPP). A perícia não conseguiu acessar o celular da vítima, e a defesa não pode verificar a integridade nem o contexto das mensagens extraídas dele: essas provas são inadmissíveis e devem ser desentranhadas (art. 157 do CPP). A tese de ilicitude, mesmo levantada só na fase do art. 422, deve ser conhecida. Determinada nova decisão de pronúncia; preventiva mantida. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-902195.pdf
 
-## 345. AgRg no HC nº 828054 / RN (STJ)
+## 376. AgRg no HC nº 828054 / RN (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/04/2024.
 - Crime / Tema: Tráfico de drogas · Quebra da cadeia de custódia · Prova digital
 - Resumo: Extração de dados de celular sem metodologia que garanta a integridade (hash, software certificado; só prints de tela): a quebra da cadeia de custódia torna a prova digital inadmissível, e o ônus é do Estado. Ordem concedida de ofício.
@@ -4425,7 +4855,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
   > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
 
-## 346. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
+## 377. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
 - Decisão colegiada. Relator: Des. Leme Garcia. 16ª Câmara de Direito Criminal. Publicado em 16/04/2024.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Nenhuma droga foi encontrada com o réu nem houve venda presenciada; as drogas foram apreendidas em via pública e uma testemunha presencial confirmou a versão dele. Na dúvida sobre a autoria, mantida a absolvição (in dubio pro reo).
@@ -4434,7 +4864,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > APELAÇÃO. Tráfico de drogas. Recurso ministerial. Apelado que foi absolvido pelo d. juízo a quo. Pleito de condenação do acusado nos termos exatos propostos na inicial acusatória. Inviabilidade. Nenhuma droga foi encontrada diretamente em poder do acusado, bem como nenhum ato de comercialização foi presenciado pelos policiais militares, de tal modo que não há elementos seguros que indiquem o seu envolvimento na prática da traficância. Substâncias ilícitas apreendidas em via pública. Testemunha presencial que confirmou a versão apresentada pelo acusado. Existência de dúvidas sobre a autoria do delito. Aplicação do princípio do in dubio pro reo. Sentença de primeiro grau mantida. Negado provimento ao recurso.
   > (TJSP, Apelação Criminal n. 1500766-76.2020.8.26.0228, relator Desembargador Leme Garcia, 16ª Câmara de Direito Criminal, julgado em 9/4/2024, publicado em 16/4/2024.)
 
-## 347. RvCr nº 0063421-56.2023.8.19.0000 (TJRJ)
+## 378. RvCr nº 0063421-56.2023.8.19.0000 (TJRJ)
 - Decisão colegiada. Relator: Des. Alcides da Fonseca Neto. 3º Grupo de Câmaras Criminais. Publicado em 08/03/2024.
 - Crime / Tema: Roubo · Reconhecimento de pessoa · Revisão criminal
 - Resumo: Revisão deferida porque a condenação por roubo se apoiou só em reconhecimento fotográfico que não atendeu a nenhuma formalidade do art. 226 do CPP (prova isolada, nula). Rescindido o acórdão e réu absolvido.
@@ -4443,7 +4873,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > REVISÃO CRIMINAL. ROUBO. CONCURSO FORMAL DE DELITOS. CONDENÇÃO. PRONUNCIAMENTO MANTIDO POR UNANIMIDADE, PELA COLENDA 2ª CÂMARA CRIMINAL. INSURGÊNCIA DEFENSIVA BUSCA A DESCONSTITUIÇÃO DA CONDENAÇÃO, COM FULCRO NO ARTIGO 621, I, DO CÓDIGO DE PROCESSO PENAL, PARA ABSOLVER O REQUERENTE DO CRIME DE ROUBO, AO ARGUMENTO DE QUE HOUVE RECONHECIMENTO EXCLUSIVAMENTE FOTOGRÁFICO E EM DESCOMPASSO COM O DETERMINADO NO ARTIGO 226, DO CÓDIGO DE PROCESSO PENAL. PROCEDÊNCIA DO PEDIDO. PROVA SOLTEIRA NOS AUTOS. AUTORIA DELITIVA ANCORADA, EXCLUSIVAMENTE, EM RECONHECIMENTO DO ACUSADO QUE EM NADA ATENDEU ÀS FORMALIDADES LEGAIS, DE MODO QUE DEVE SER CONSIDERADO NULO. HIPÓTESE DOS AUTOS QUE AUTORIZA A EXCEPCIONAL DESCONSTITUIÇÃO DO ACÓRDÃO RESCINDENDO. PRECEDENTES DO STJ. CONHECIMENTO E PROVIMENTO DO PEDIDO REVISIONAL.
   > (TJRJ, Revisão Criminal n. 0063421-56.2023.8.19.0000, relator Desembargador Alcides da Fonseca Neto, 3º Grupo de Câmaras Criminais, julgado em 8/3/2024, publicado em 8/3/2024.)
 
-## 348. RMS nº 38.983 / DF (STF)
+## 379. RMS nº 38.983 / DF (STF)
 - Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Gilmar Mendes. Segunda Turma. Publicado em 28/02/2024.
 - Crime / Tema: PAD (administrativo)
 - Resumo: PAD: é ilegal a demissão por abandono de cargo sem prova da intenção de abandonar (art. 138 da Lei 8.112/90). Os motivos e pressupostos de fato da penalidade podem ser controlados pelo Judiciário, pois não são juízo de conveniência da Administração. Segurança concedida.
@@ -4456,7 +4886,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso ordinário provido para reformar o acórdão recorrido e conceder a segurança.
   > (STF, RMS n. 38.983/DF, relator Ministro André Mendonça, redator do acórdão Ministro Gilmar Mendes, Segunda Turma, julgado em 13/11/2023, DJe de 28/2/2024.)
 
-## 349. ApCrim nº 5001797-60.2023.8.24.0135 (TJSC)
+## 380. ApCrim nº 5001797-60.2023.8.24.0135 (TJSC)
 - Decisão colegiada. Relator: Des. Leopoldo Augusto Brüggemann. 3ª Câmara Criminal. Publicado em 06/02/2024.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Os policiais foram à casa apurar denúncia anônima de violência doméstica, não a confirmaram e, sem autorização, arrombaram a porta. A droga encontrada depois não legitima o ingresso, porque a flagrância foi constatada só a posteriori. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A entrada na casa do corréu, derivada da primeira, também é ilícita, e a absolvição dele foi mantida.
@@ -4468,7 +4898,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > RECURSO DEFENSIVO CONHECIDO E PROVIDO. RECLAMO ACUSATÓRIO CONHECIDO E DESPROVIDO.
   > (TJSC, Apelação Criminal n. 5001797-60.2023.8.24.0135, relator Desembargador Leopoldo Augusto Brüggemann, 3ª Câmara Criminal, julgado em 6/2/2024, publicado em 6/2/2024.)
 
-## 350. Súmula nº 665 (STJ)
+## 381. Súmula nº 665 (STJ)
 - Súmula aprovada pela Primeira Seção em 13/12/2023. Publicado em 14/12/2023.
 - Crime / Tema: PAD (administrativo)
 - Resumo: Controle judicial do PAD restringe-se à regularidade do procedimento e à legalidade do ato; mérito administrativo só em flagrante ilegalidade, teratologia ou sanção manifestamente desproporcional.
@@ -4477,7 +4907,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > O controle jurisdicional do processo administrativo disciplinar restringe-se ao exame da regularidade do procedimento e da legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, não sendo possível incursão no mérito administrativo, ressalvadas as hipóteses de flagrante ilegalidade, teratologia ou manifesta desproporcionalidade da sanção aplicada.
   > (Súmula n. 665, Primeira Seção, julgado em 13/12/2023, DJe de 14/12/2023.)
 
-## 351. AREsp nº 2236994 / SP (STJ)
+## 382. AREsp nº 2236994 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/11/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri
 - Resumo: A pronúncia exige autoria corroborada com alto grau de probabilidade (arts. 155, 413 e 414 do CPP); a palavra dos policiais, contrariada por cinco laudos periciais, não basta. Impronúncia restabelecida, com comunicação à Corregedoria da PM.
@@ -4498,7 +4928,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 12. Agravo conhecido e recurso especial provido, a fim de restabelecer a decisão de impronúncia, com determinação de comunicação dos fatos à Corregedoria da PM/SP.
   > (AREsp n. 2.236.994/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023.)
 
-## 352. REsp nº 2004051 / SC (STJ)
+## 383. REsp nº 2004051 / SC (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 22/08/2023.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri
 - Resumo: Laudos periciais produzidos unilateralmente pelo MP e pela polícia, durante a instrução e sem controle judicial, são nulos e devem ser desentranhados, assim como o ofício do DNIT juntado após a pronúncia. A pronúncia foi mantida, porque não se baseou neles: embriaguez e direção perigosa indicam dolo eventual, que é compatível com a tentativa.
@@ -4518,7 +4948,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 11. Agravo conhecido para negar provimento ao recurso especial interposto contra o acórdão proferido nos Embargos Infringentes. Recurso especial dirigido contra o acórdão proferido no Recurso em Sentido Estrito parcialmente conhecido e, nessa extensão, provido em parte, a fim de anular os exames periciais realizados pela autoridade policial e pelo Ministério Público e que foram juntados após a pronúncia, determinando que sejam desentranhados dos autos. Habeas corpus concedido, de ofício, para anular a prova produzida por meio da requisição de diligências feita pelo Ministério Público do Estado de Santa Catarina ao Departamento Nacional de Infraestrutura e Transportes - DNIT, determinando o desentranhamento do Ofício n. 55223/2019, do referido Órgão.
   > (REsp n. 2.004.051/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
 
-## 353. RvCr nº 5620 / SP (STJ)
+## 384. RvCr nº 5620 / SP (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Terceira Seção. Publicado em 30/06/2023.
 - **Resultado desfavorável à defesa:** Revisão criminal não conhecida (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Revisão criminal
@@ -4531,13 +4961,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Revisão criminal não conhecida.
   > (RvCr n. 5.620/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/6/2023, DJe de 30/6/2023.)
 
-## 354. HC nº 219.196 / GO (STF)
+## 385. HC nº 219.196 / GO (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 02/06/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão · Direito ao silêncio · Cabimento do HC
 - Resumo: Confissão informal colhida sem aviso do direito ao silêncio é ilícita, e denúncia anônima, sozinha, não autoriza o ingresso em domicílio (art. 5º, XI e LXIII, da CF). Busca anulada junto com as provas derivadas (art. 157, § 1º, do CPP); ré absolvida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-219196.pdf
 
-## 355. HC nº 166.373 / PR (STF)
+## 386. HC nº 166.373 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Alexandre de Moraes. Plenário. Publicado em 18/05/2023.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
@@ -4551,7 +4981,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5.Habeas Corpus deferido, com a fixação da seguinte TESE: “Havendo pedido expresso da defesa no momento processual adequado (art. 403 do CPP e art. 11 da Lei 8.038/90), os réus têm o direito de apresentar suas alegações finais após a manifestação das defesas dos colaboradores, sob pena de nulidade”.
   > (STF, HC n. 166.373/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 30/11/2022, DJe de 18/5/2023.)
 
-## 356. AgRg no REsp nº 2009839 / MG (STJ)
+## 387. AgRg no REsp nº 2009839 / MG (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 16/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão
 - Resumo: Mandado de busca e apreensão de menor não autoriza vasculhar a casa: o art. 283, § 2º, do CPP manda respeitar a inviolabilidade do domicílio. O rádio comunicador só foi visto quando os policiais já estavam dentro. O ônus de provar o consentimento voluntário do morador é do Estado. Provas nulas.
@@ -4566,7 +4996,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.009.839/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/5/2023, DJe de 16/5/2023.)
 
-## 357. AgRg no AREsp nº 2223319 / MS (STJ)
+## 388. AgRg no AREsp nº 2223319 / MS (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: A confissão do réu, sozinha, não autoriza a entrada na casa, e a suspeita de que ali funcionava um ponto de tráfico também não. O consentimento do morador precisa ser livre e registrado por escrito (e em áudio e vídeo), o que não houve. Provas nulas e absolvição mantida.
@@ -4579,7 +5009,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > IV - No caso, as circunstâncias que ensejaram o ingresso policial na residência do agravado, decorreram de suspeitas de que na casa do réu funcionava ponto de tráfico de drogas, bem como de sua confissão. Ocorre que, a confissão do réu, por sí só, não autoriza a entrada dos policiais no domicílio, sendo necessário que a permissão conferida de forma livre e voluntária pelo morador seja registrada pela autoridade policial por escrito, o que não ocorreu na hipótese, razão pela qual foi reconhecida a nulidade da diligência e das provas dela decorrentes, com a consequente absolvição do recorrido. Agravo regimental desprovido.
   > (AgRg no AREsp n. 2.223.319/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023.)
 
-## 358. RvCr nº 1.0000.22.247560-0/000 (TJMG)
+## 389. RvCr nº 1.0000.22.247560-0/000 (TJMG)
 - Decisão colegiada. Relatora: Des.ª Beatriz Pinheiro Caires. 1º Grupo de Câmaras Criminais. Publicado em 12/05/2023.
 - Crime / Tema: Roubo · Revisão criminal
 - Resumo: Revisão criminal deferida porque a condenação por roubo contrariou a evidência dos autos: não há prova do dolo de subtrair (puxão na camisa da vítima durante briga entre torcidas). A falta de intimação pessoal do réu da sentença absolutória não gera nulidade quando a defesa teve ciência e contra-arrazoou. Voto vencido (V.V.): a revisão não serve para rediscutir prova.
@@ -4591,7 +5021,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > V. V.: A revisão criminal, que possibilita a superação da coisa julgada, destina-se à correção de erros judiciários, não se prestando à rediscussão de questões já superadas durante o curso regular da ação penal em duas instâncias.
   > (TJMG, Revisão Criminal n. 1.0000.22.247560-0/000, relatora Desembargadora Beatriz Pinheiro Caires, 1º Grupo de Câmaras Criminais, julgado em 10/5/2023, publicado em 12/5/2023.)
 
-## 359. AgRg no AREsp nº 2045772 / MG (STJ)
+## 390. AgRg no AREsp nº 2045772 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/04/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncias anônimas e uma busca pessoal sem nada encontrado não são fundadas razões para entrar na casa, e a autorização dada por corré (depois absolvida) não valida o ingresso. Provas nulas e réus absolvidos. Determinado o envio de cópias ao MP e à PM para apurar abuso de autoridade (art. 40 do CPP; arts. 22 e 23, II, da Lei 13.869/2019).
@@ -4606,7 +5036,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > VI - No caso presente, a atuação precipitada da polícia culminou na nulidade das provas colhidas, com a inutilização da apreensão de 533,34g de maconha, comprometendo a regularidade da persecução penal, o que certamente poderia ser evitado com as devidas investigações e diligências. Sob essa perspectiva, com esteio nos elementos fáticos subjacentes ao presente recurso, determina-se, com fundamento no artigo 40 do Código de Processo Penal, o envio de cópia dos presentes autos ao Ministério Público Federal e Estadual, ante a competência definida na ADPF 635 - MC, bem como a Polícia Militar, para apuração de infração aos artigos 22 e 23, II, ambos da Lei n. 13.869/2019, dentre outros possíveis crimes previstos no Código Penal, Código Penal Militar e legislação extravagante, com as imediatas providências cabíveis. Agravo regimental provido, para reconhecer a nulidade das provas obtidas mediante ingresso domiciliar sem mandado, bem como as provas derivadas, e absolver os agravantes das imputações contidas na denúncia (art. 386, VII, do CPP), remetendo-se, com esteio no artigo 40 do Código de Processo Penal, cópia dos presentes autos ao Ministério Público Federal e Estadual, para apuração de eventuais crimes, bem como a Polícia Militar, com a imediata comunicação a este Superior Tribunal de Justiça quanto às providências tomadas no âmbito da instituição de segurança pública.
   > (AgRg no AREsp n. 2.045.772/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
 
-## 360. ApCrim nº 1500466-02.2020.8.26.0621 (TJSP)
+## 391. ApCrim nº 1500466-02.2020.8.26.0621 (TJSP)
 - Decisão colegiada. Relator: Des. Guilherme de Souza Nucci. 16ª Câmara de Direito Criminal. Publicado em 03/04/2023.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima genérica, sem investigação prévia (campana com registro), sem flagrante de venda e sem urgência, não autoriza a entrada na casa. Também há dúvida sobre o consentimento dado pela mãe da moradora. Provas ilícitas e réus absolvidos (art. 386, VII, do CPP).
@@ -4615,7 +5045,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Apelação. Tráfico de drogas e associação ao tráfico. Pleito objetivando a ilicitude das provas obtidas a partir de denúncia anônima e posterior ingresso em domicílio, por policiais civis, com a consequente absolvição por falta de provas. Possibilidade. Apelantes que teriam guardado, em suas residências, 30 porções de maconha (51,2 g), 10 porções de cocaína (1,5 g) e uma porção menor de maconha (37,85 g), sem autorização e em desacordo com determinação legal e regulamentar. Ilegalidade da atuação policial no caso concreto. Diligência policial iniciada por meio de “denúncia anônima” genérica, não esclarecida quanto à sua origem e existência. Entrada na residência da recorrente que ocorreu sem nenhuma diligência prévia de investigação policial, como o acompanhamento do movimento no imóvel por meio de campanas, com registro documental, ou mesmo o flagrante de uma atividade de mercancia ilícita, não se demonstrando sequer a urgência necessária para a excepcional invasão da residência naquele momento específico por parte dos policiais militares. Dúvidas acerca da existência do suposto consentimento oferecido pela genitora da apelante, quanto à entrada dos policiais no local. Circunstâncias do caso concreto que, em seu conjunto, demonstram a ilicitude da entrada dos policiais no imóvel da recorrente e, por consequência, da apreensão dos entorpecentes. Precedentes do STF e do STJ. Assim, tendo em vista a inadmissibilidade de utilização de tais elementos de prova ilícitos, resta frágil e insuficiente o acervo probatório amealhado para comprovação dos crimes, sendo de rigor a absolvição dos apelantes, nos termos do art. 386, inciso VII, do CPP. Recursos providos.
   > (TJSP, Apelação Criminal n. 1500466-02.2020.8.26.0621, relator Desembargador Guilherme de Souza Nucci, 16ª Câmara de Direito Criminal, julgado em 28/3/2023, publicado em 3/4/2023.)
 
-## 361. RHC nº 173448 / DF (STJ)
+## 392. RHC nº 173448 / DF (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/03/2023.
 - Crime / Tema: Crimes contra a Administração Pública · Justa causa
 - Resumo: A independência das esferas não é absoluta. Absolvida a particular na ação de improbidade por falta de dolo sobre o mesmo fato, a ação penal perde a justa causa, já que o tipo não tem forma culposa. Ação penal trancada quanto à recorrente (Operação Caixa de Pandora).
@@ -4637,7 +5067,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Recurso em habeas corpus a que se dá provimento.
   > (RHC n. 173.448/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
 
-## 362. AgRg no AREsp nº 2249976 / SP (STJ)
+## 393. AgRg no AREsp nº 2249976 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
 - Crime / Tema: Receptação · Ato infracional (ECA)
 - Resumo: Adolescente que era só carona da moto receptada, sem estar na posse do bem nem haver prova de que a recebeu ou de que agiu em concurso: a conduta é atípica. Mantida a improcedência da representação (ato infracional análogo à receptação).
@@ -4649,13 +5079,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
 
-## 363. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
+## 394. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
 - Crime / Tema: Tráfico de drogas
 - Resumo: O réu não foi preso em flagrante, os policiais não presenciaram venda e não havia outra prova além da denúncia anônima e dos depoimentos policiais. Depoimento policial só sustenta condenação quando harmônico com as demais provas. Réu absolvido do tráfico (in dubio pro reo).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2167621.pdf
 
-## 364. AgRg no RHC nº 143169 / RJ (STJ)
+## 395. AgRg no RHC nº 143169 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto; redator do acórdão: Min. Ribeiro Dantas. Quinta Turma. Publicado em 02/03/2023.
 - Crime / Tema: Furto · Organização criminosa · Lavagem de dinheiro · Quebra da cadeia de custódia · Prova digital
 - Resumo: Quebra da cadeia de custódia da prova digital: a polícia não documentou a apreensão e a análise dos computadores, sem imagem bit a bit nem hash. É ônus do Estado provar a integridade da prova. São inadmissíveis as provas extraídas e as delas derivadas, e a exigência vale mesmo para fatos anteriores ao Pacote Anticrime.
@@ -4673,13 +5103,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 9. Agravo regimental parcialmente provido, para prover também em parte o recurso ordinário em habeas corpus e declarar a inadmissibilidade das provas em questão.
   > (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023.)
 
-## 365. HC nº 776885 / MG (STJ)
+## 396. HC nº 776885 / MG (STJ)
 - Decisão monocrática. Relator: Min. Jesuíno Rissato (Des. convocado do TJDFT). Sexta Turma. Publicado em 14/02/2023.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima e "características físicas" do suspeito não configuram fundada suspeita para a busca pessoal (art. 244 do CPP), e o ingresso na casa que se seguiu também não tinha fundadas razões. Provas nulas, inclusive as da casa. Ação penal trancada, com extensão ao corréu (art. 580 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-776885.pdf
 
-## 366. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
+## 397. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
 - Decisão colegiada. Relator: Des. André Carvalho e Silva de Almeida. 1º Grupo de Direito Criminal. Publicado em 03/02/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Revisão criminal
 - Resumo: Revisão deferida contra condenação do Júri manifestamente contrária à prova: não havia testemunha presencial, a vítima não foi ouvida em juízo e as testemunhas nada disseram contra os réus. Absolvição por falta de prova da autoria (art. 386, V, do CPP), estendida ao corréu.
@@ -4688,7 +5118,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > Revisão Criminal – Júri – Decisão manifestamente contrário à prova dos autos – Inexistência de testemunhas presenciais – Vítima não ouvida em juízo – Testemunhas que nada disseram contra os denunciados – Revisão deferida para absolver.
   > (TJSP, Revisão Criminal n. 0019378-10.2021.8.26.0000, relator Desembargador André Carvalho e Silva de Almeida, 1º Grupo de Direito Criminal, julgado em 27/1/2023, publicado em 3/2/2023.)
 
-## 367. HC nº 762932 / SP (STJ)
+## 398. HC nº 762932 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Antecedente por tráfico, sozinho, não autoriza busca domiciliar; admitir isso seria Direito Penal do autor. O réu já estava preso por porte de arma na rua, sozinho, diante de policiais armados e sem defesa: nessas condições, o consentimento para a busca com cães farejadores não é crível nem válido (coação ambiental), e cabe ao Estado prová-lo. Foi uma pescaria probatória (fishing expedition). Réu absolvido do tráfico; mantida a condenação pela arma, apreendida antes e fora da casa.
@@ -4716,7 +5146,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 19. Ordem concedida para, considerando que não houve fundadas razões, tampouco comprovação de consentimento válido para a realização de buscas por drogas no domicílio do paciente, reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram, e, por conseguinte, absolvê-lo em relação à prática do delito de tráfico de drogas.
   > (HC n. 762.932/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 30/11/2022.)
 
-## 368. AgRg no HC nº 731882 / AM (STJ)
+## 399. AgRg no HC nº 731882 / AM (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Revisão criminal
 - Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
@@ -4730,13 +5160,13 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
   > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
 
-## 369. HC nº 221.204 / MG (STF)
+## 400. HC nº 221.204 / MG (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 24/10/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Cabimento do HC
 - Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
 
-## 370. HC nº 683878 / RS (STJ)
+## 401. HC nº 683878 / RS (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 23/05/2022.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Tribunal do Júri
 - Resumo: Pronúncia não pode se lastrear somente em elementos do inquérito não ratificados em juízo. Ordem concedida para restabelecer a impronúncia.
@@ -4750,7 +5180,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Ordem de habeas corpus concedida, em conformidade com o parecer ministerial, para restabelecer a sentença de impronúncia.
   > (HC n. 683.878/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/5/2022, DJe de 23/5/2022.)
 
-## 371. RHC nº 147043 / SP (STJ)
+## 402. RHC nº 147043 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
 - Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
@@ -4763,7 +5193,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
   > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)
 
-## 372. AgRg no HC nº 703960 / RS (STJ)
+## 403. AgRg no HC nº 703960 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/02/2022.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: Pronúncia não pode se fundar exclusivamente em elementos do inquérito (art. 155 do CPP); testemunho indireto também não a embasa. Agravo do MPRS desprovido.
@@ -4775,7 +5205,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Agravo regimental desprovido.
   > (AgRg no HC n. 703.960/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/2/2022, DJe de 21/2/2022.)
 
-## 373. HC nº 653515 / RJ (STJ)
+## 404. HC nº 653515 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 01/02/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Quebra da cadeia de custódia
 - Resumo: Droga entregue para perícia sem lacre: a quebra da cadeia de custódia compromete a prova da materialidade. Absolvição por tráfico; mantida a condenação por associação para o tráfico.
@@ -4799,7 +5229,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 15. Ordem concedida, a fim de absolver o paciente em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0219295-36.2020.8.19.0001. Ainda, fica assegurado ao réu o direito de aguardar no regime aberto o julgamento do recurso de apelação.
   > (HC n. 653.515/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/11/2021, DJe de 1/2/2022.)
 
-## 374. AREsp nº 1940381 / AL (STJ)
+## 405. AREsp nº 1940381 / AL (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 16/12/2021.
 - Crime / Tema: Homicídio · Ato infracional (ECA) · Testemunho indireto
 - Resumo: Testemunho indireto não serve para fundamentar condenação, e a omissão da acusação em produzir provas possíveis e essenciais (perda da chance probatória) a inviabiliza. Adolescente absolvido de ato infracional análogo a homicídio tentado.
@@ -4818,7 +5248,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8.2: quando a acusação não produzir todas as provas possíveis e essenciais para a elucidação dos fatos, capazes de, em tese, levar à absolvição do réu ou confirmar a narrativa acusatória caso produzidas, a condenação será inviável, não podendo o magistrado condenar com fundamento nas provas remanescentes.
   > (AREsp n. 1.940.381/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe de 16/12/2021.)
 
-## 375. HC nº 660930 / SP (STJ)
+## 406. HC nº 660930 / SP (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2021.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Quantidade ínfima (1,53 g de cocaína) prevalece sobre a reincidência: cabe o tráfico privilegiado na fração intermediária (1/2), com regime aberto e substituição da pena. Condenações anteriores não podem negativar a personalidade. Ordem concedida. Vencido, em parte, o relator, que anulava as provas da busca pessoal (motivada, a seu ver, pela cor da pele) e absolvia o paciente.
@@ -4838,7 +5268,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 9. Ordem concedida, à unanimidade, nos termos da impetração, a fim de redimensionar a pena para 2 anos e 11 meses de reclusão, além de 250 dias-multa, no valor mínimo legal, e, de ofício, para estabelecer o regime aberto e determinar a substituição da pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
   > (HC n. 660.930/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2021, DJe de 21/9/2021.)
 
-## 376. REsp nº 1932774 / AM (STJ)
+## 407. REsp nº 1932774 / AM (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/08/2021.
 - Crime / Tema: Homicídio · Pronúncia · Tribunal do Júri
 - Resumo: Não se admite pronúncia fundada só em elementos do inquérito não confirmados em juízo. Réu já condenado pelo Júri: processo anulado desde a pronúncia e acusado impronunciado.
@@ -4853,7 +5283,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 6. Recurso especial parcialmente conhecido e provido, a fim de anular o processo desde a decisão de pronúncia e impronunciar o recorrente.
   > (REsp n. 1.932.774/AM, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/8/2021, DJe de 30/8/2021.)
 
-## 377. RE nº 1.301.250 / RJ (STF)
+## 408. RE nº 1.301.250 / RJ (STF)
 - Decisão colegiada (repercussão geral). Relatora: Min.ª Rosa Weber. Plenário. Publicado em 08/06/2021.
 - Crime / Tema: Quebra de sigilo · Prova digital · Repercussão geral
 - Resumo: Tema 1.148/STF (repercussão geral reconhecida, mérito pendente). Discute os limites da quebra de sigilo de dados telemáticos contra pessoas indeterminadas: busca reversa no Google de quem pesquisou termos ligados a Marielle Franco nos dias anteriores ao crime. Até 25/9/2025, 5 a 2 pela divergência (Min. Alexandre de Moraes), que admite a medida contra pessoas indeterminadas, mas determináveis, com requisitos. Julgamento não concluído até 8/10/2026.
@@ -4865,7 +5295,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Repercussão geral reconhecida.
   > (STF, RE n. 1.301.250 RG/RJ, relatora Ministra Rosa Weber, Tribunal Pleno, julgado em 27/5/2021, DJe de 8/6/2021.)
 
-## 378. AgRg no HC nº 644971 / RS (STJ)
+## 409. AgRg no HC nº 644971 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 29/03/2021.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: É ilegal a pronúncia baseada apenas em depoimentos da fase policial e em relatos de ouvir dizer colhidos em juízo. Agravo do MPF improvido; despronúncia mantida.
@@ -4879,7 +5309,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Agravo regimental do Ministério Público Federal improvido.
   > (AgRg no HC n. 644.971/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/3/2021, DJe de 29/3/2021.)
 
-## 379. HC nº 589270 / GO (STJ)
+## 410. HC nº 589270 / GO (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/03/2021.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Tribunal do Júri · Prisão e medidas cautelares
 - Resumo: É ilegal a pronúncia baseada exclusivamente em provas do inquérito (art. 155 do CPP). Ordem concedida para despronunciar e revogar a preventiva, sem prejuízo de nova denúncia.
@@ -4892,7 +5322,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Ordem de habeas corpus concedida para despronunciar o paciente e revogar sua prisão preventiva, sem prejuízo de formulação de nova denúncia, nos termos do art. 414, parágrafo único, do Código de Processo Penal.
   > (HC n. 589.270/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/2/2021, DJe de 22/3/2021.)
 
-## 380. HC nº 560552 / RS (STJ)
+## 411. HC nº 560552 / RS (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/02/2021.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Tribunal do Júri
 - Resumo: Pronúncia exige padrão probatório mais elevado e não pode se apoiar só em elementos extrajudiciais (arts. 155 e 413 do CPP). HC não conhecido; ordem concedida de ofício para despronunciar.
@@ -4911,7 +5341,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 10. Habeas corpus não conhecido. Ordem concedida de ofício para cassar o acórdão atacado e despronunciar os pacientes.
   > (HC n. 560.552/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/2/2021, DJe de 26/2/2021.)
 
-## 381. HC nº 611918 / SP (STJ)
+## 412. HC nº 611918 / SP (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
@@ -4923,7 +5353,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
   > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
 
-## 382. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 413. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
@@ -4937,7 +5367,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
   > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
 
-## 383. RESE nº 1.0024.12.210216-3/001 (TJMG)
+## 414. RESE nº 1.0024.12.210216-3/001 (TJMG)
 - Decisão colegiada. Relator: Des. Nelson Missias de Morais. 2ª Câmara Criminal. Publicado em 28/08/2020.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: Pronúncia sustentada só em boatos e testemunho indireto não se mantém: 1º recorrente impronunciado. Para os outros dois, pronúncia mantida com indícios do inquérito, sem ofensa ao art. 155 do CPP, decotado o motivo fútil.
@@ -4953,7 +5383,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > - Primeiro recurso provido e segundo recurso provido em parte.
   > (TJMG, Recurso em Sentido Estrito n. 1.0024.12.210216-3/001, relator Desembargador Nelson Missias de Morais, 2ª Câmara Criminal, julgado em 20/8/2020, publicado em 28/8/2020.)
 
-## 384. REsp nº 1871856 / SE (STJ)
+## 415. REsp nº 1871856 / SE (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
@@ -4966,7 +5396,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
   > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
 
-## 385. AgRg no HC nº 157.627 / PR (STF)
+## 416. AgRg no HC nº 157.627 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
@@ -4979,7 +5409,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > IV – Agravo regimental provido, para conhecer e conceder a ordem.
   > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
 
-## 386. AgRg no REsp nº 1838513 / RS (STJ)
+## 417. AgRg no REsp nº 1838513 / RS (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 21/11/2019.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: Pronúncia não pode se basear exclusivamente em boatos e testemunho de ouvir dizer sem indicação da fonte. Agravo do MPF desprovido; despronúncia mantida.
@@ -4990,7 +5420,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Agravo regimental desprovido.
   > (AgRg no REsp n. 1.838.513/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/11/2019, DJe de 21/11/2019.)
 
-## 387. ApCrim nº 1.0024.17.131538-5/001 (TJMG)
+## 418. ApCrim nº 1.0024.17.131538-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 07/10/2019.
 - **Verificar antes de citar:** Esta decisão consta do acervo somente pela tese: policiais que apenas repetem o relato extrajudicial da vítima, não confirmado em juízo, não provam a grave ameaça do roubo. O acórdão é inconsistente quanto à extinção da punibilidade: o voto fala em cumprimento da pena e o dispositivo, em prescrição. Não a cite por esse ponto e confira o inteiro teor antes de usar.
 - Crime / Tema: Roubo · Furto · Testemunho indireto · Dosimetria
@@ -5005,7 +5435,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 05. Recurso parcialmente provido.
   > (TJMG, Apelação Criminal n. 1.0024.17.131538-5/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/10/2019, publicado em 7/10/2019.)
 
-## 388. REsp nº 1795341 / RS (STJ)
+## 419. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -5019,7 +5449,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 389. Inq nº 3.994 / DF (STF)
+## 420. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -5039,7 +5469,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 390. REsp nº 1674198 / MG (STJ)
+## 421. REsp nº 1674198 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 12/12/2017.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: É inadmissível pronúncia fundada exclusivamente em boatos e testemunho indireto (por ouvir dizer). Recorrentes despronunciados, sem prejuízo de nova denúncia diante de provas novas.
@@ -5053,7 +5483,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recurso especial parcialmente conhecido e, nessa extensão, provido, para reformar o acórdão recorrido de modo a despronunciar os recorrentes nos autos do Processo n. 0702.08.432189-3, em trâmite no Juízo de Direito da Vara de Crimes contra a Pessoa da Comarca de Uberlândia, sem prejuízo do oferecimento de nova denúncia em eventual superveniência de provas.
   > (REsp n. 1.674.198/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2017, DJe de 12/12/2017.)
 
-## 391. AgRg no Inq nº 1093 / DF (STJ)
+## 422. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -5071,7 +5501,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 392. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
+## 423. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
 - Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 09/08/2017.
 - Crime / Tema: Roubo · Testemunho indireto · Reconhecimento de pessoa
 - Resumo: Reconhecimento fotográfico não confirmado em juízo e testemunhas que só repetem o que ouviram não bastam para condenar por roubo. Réu absolvido (in dubio pro reo).
@@ -5082,7 +5512,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Recurso provido.
   > (TJMG, Apelação Criminal n. 1.0079.15.056165-6/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/8/2017, publicado em 9/8/2017.)
 
-## 393. REsp nº 1574681 / RS (STJ)
+## 424. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -5106,7 +5536,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 394. APn nº 746 / MT (STJ)
+## 425. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -5123,7 +5553,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 395. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
+## 426. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
 - Decisão colegiada. Relator: Des. Nelson Missias de Morais. 2ª Câmara Criminal. Publicado em 17/10/2016.
 - Crime / Tema: Homicídio qualificado · Testemunho indireto · Tribunal do Júri
 - Resumo: Condenação do Júri sustentada só em boatos e ouvir dizer de uma única fonte de credibilidade duvidosa, com álibi não desconstituído, é manifestamente contrária à prova dos autos. Julgamento anulado, com novo Júri.
@@ -5134,7 +5564,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. O acervo probatório inteiramente constituído através da palavra de uma testemunha cujas palavras têm duvidosa credibilidade não é apto a sustentar minimamente a tese acusatória, sendo imperioso reconhecer o divórcio entre as provas dos autos e a decisão do Conselho de Sentença, o que autoriza a anulação do julgamento com a consequente submissão do acusado a novo Júri.
   > (TJMG, Apelação Criminal n. 1.0313.13.008010-1/002, relator Desembargador Nelson Missias de Morais, 2ª Câmara Criminal, julgado em 6/10/2016, publicado em 17/10/2016.)
 
-## 396. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
+## 427. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
 - Decisão colegiada. Relator: Des. Doorgal Borges de Andrada. 4ª Câmara Criminal. Publicado em 23/08/2016.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Acesso da defesa às provas
 - Resumo: O acórdão foi omisso sobre os documentos juntados pela acusação nas contrarrazões sem vista à defesa. Embargos acolhidos para decretar a nulidade por cerceamento de defesa.
@@ -5145,7 +5575,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > - Embargos acolhidos para decretar a nulidade.
   > (TJMG, Embargos de Declaração Criminal n. 1.0134.09.129196-0/002, relator Desembargador Doorgal Borges de Andrada, 4ª Câmara Criminal, julgado em 17/8/2016, publicado em 23/8/2016.)
 
-## 397. RE nº 603.616 / RO (STF)
+## 428. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -5161,7 +5591,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 398. HC nº 341790 / PR (STJ)
+## 429. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -5177,7 +5607,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 399. HC nº 127.483 / PR (STF)
+## 430. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -5199,7 +5629,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 400. Inq nº 4.130 QO / PR (STF)
+## 431. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
@@ -5228,7 +5658,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
 
-## 401. REsp nº 1388440 / ES (STJ)
+## 432. REsp nº 1388440 / ES (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
 - Crime / Tema: Crimes contra as relações de consumo · Prescrição
 - Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.
@@ -5242,7 +5672,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recurso parcialmente provido para anular a sentença condenatória e julgar extinta a punibilidade dos recorrentes.
   > (REsp n. 1.388.440/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/3/2015, DJe de 17/3/2015.)
 
-## 402. ApCrim nº 1.0522.13.000319-0/001 (TJMG)
+## 433. ApCrim nº 1.0522.13.000319-0/001 (TJMG)
 - Decisão colegiada. Relator: Juiz convocado Amauri Pinto Ferreira; redator do acórdão: Des. Doorgal Andrada. 4ª Câmara Criminal. Publicado em 27/01/2015.
 - Crime / Tema: Posse ilegal de arma de fogo · Acesso da defesa às provas
 - Resumo: Documentos juntados pela acusação nas contrarrazões, sem vista à defesa, causam nulidade absoluta por cerceamento de defesa. Processo anulado desde a remessa ao Tribunal, para a defesa se manifestar sobre eles. Decisão por maioria, vencido o relator.
@@ -5255,7 +5685,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINARES - NULIDADE DO PROCESSO - DESRESPEITO ÀS REGRAS DE CONEXÃO E VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA - INOCORRÊNCIA - ABSOLVIÇÃO - IMPOSSIBILIDADE - ESTADO DE NECESSIDADE E ERRO DE PROIBIÇÃO - CAUSAS EXCLUDENTES DE ILICITUDE E DE CULPABILIDADE NÃO CARACTERIZADAS - REDUÇÃO DO VALOR DA MULTA E DA PRESTAÇÃO PECUNIÁRIA - INVIABILIDADE - PRELIMINARES REJEITADAS E RECURSO DESPROVIDO - ERRO MATERIAL NA SENTENÇA - CORREÇÃO DE OFÍCIO. - Uma vez proferida sentença definitiva em um dos feitos, não há falar em conexão, pois, nesse caso, a unidade dos processos somente ocorrerá em sede de execução, nos termos do disposto no art. 82 do CPP. - Para que haja a configuração do estado de necessidade, é mister que haja uma situação de perigo atual, o que não ocorreu no caso em comento. - É pouco crível que uma pessoa de diligência normal desconheça a proibição de se portar arma de fogo sem a devida autorização legal, mormente após a grande repercussão gerada em torno da campanha pelo desarmamento. - A redução, nesta seara recursal, do valor da prestação pecuniária imposta ao apelante na sentença afigura-se francamente inoportuna, nada impedindo, contudo, que o acusado formule o pedido que entender conveniente perante o Juízo da Execução. - Constatado erro material na fixação da pena, deve-se proceder à sua correção de ofício.
   > (TJMG, Apelação Criminal n. 1.0522.13.000319-0/001, relator Juiz de Direito Convocado Amauri Pinto Ferreira, relator para o acórdão Desembargador Doorgal Andrada, 4ª Câmara Criminal, julgado em 16/1/2014, publicado em 27/1/2015.)
 
-## 403. Inq nº 1.674 / PA (STF)
+## 434. Inq nº 1.674 / PA (STF)
 - Decisão colegiada. Relator: Min. Ilmar Galvão; redator do acórdão: Min. Sepúlveda Pertence. Plenário. Publicado em 01/08/2003.
 - Crime / Tema: Crimes contra a honra · Imunidade do advogado
 - Resumo: Pelo art. 7º, § 2º, do Estatuto da OAB, a imunidade profissional do advogado cobre injúria e difamação dirigidas ao juiz, desde que pertinentes à causa. Isso superou a jurisprudência do art. 142 do CP; a suspensão cautelar no STF só atingiu o desacato. A imunidade alcança a manifestação à imprensa do Advogado-Geral da União sobre despacho em causa contra a União. Queixa-crime extinta, por maioria.
