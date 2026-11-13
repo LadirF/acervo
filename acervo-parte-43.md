@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 43 de 44 (decisões 421 a 430)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 434 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 436 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,41 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 421. REsp nº 1674198 / MG (STJ)
+## 421. REsp nº 1795341 / RS (STJ)
+- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
+- Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
+- Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1795341.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. ART. 305 DO CPM. NULIDADE. INTERCEPTAÇÃO TELEFÔNICA. PROVA EMPRESTADA. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. FALTA DE ACESSO À INTEGRALIDADE DAS CONVERSAS. EVIDENCIADO PELO TRIBUNAL DE ORIGEM A EXISTÊNCIA DE ÁUDIOS DESCONTINUADOS, SEM ORDENAÇÃO, SEQUENCIAL LÓGICA E COM OMISSÃO DE TRECHOS DA DEGRAVAÇÃO. FILTRAGEM ESTABELECIDA SEM A PRESENÇA DO DEFENSOR. NULIDADE RECONHECIDA. PRESCRIÇÃO CONFIGURADA. RECURSOS PROVIDOS. DECRETADA A EXTINÇÃO DA PUNIBILIDADE.
+  > 1. A quebra da cadeia de custódia tem como objetivo garantir a todos os acusados o devido processo legal e os recursos a ele inerentes, como a ampla defesa, o contraditório e principalmente o direito à prova lícita. O instituto abrange todo o caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade (RHC 77.836/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/02/2019, DJe 12/02/2019).
+  > 2. É dever o Estado a disponibilização da integralidade das conversas advindas nos autos de forma emprestada, sendo inadmissível a seleção pelas autoridades de persecução de partes dos áudios interceptados.
+  > 3. A apresentação de parcela do produto extraído dos áudios, cuja filtragem foi estabelecida sem a presença do defensor, acarreta ofensa ao princípio da paridade de armas e ao direito à prova, porquanto a pertinência do acervo probatório não pode ser realizado apenas pela acusação, na medida em que gera vantagem desarrazoada em detrimento da defesa.
+  > 4. Reconhecida a nulidade, inegável a superveniência da prescrição, com fundamento no art. 61 do CPP.
+  > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
+  > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
+
+## 422. Inq nº 3.994 / DF (STF)
+- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
+- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
+- Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-3994.pdf
+- Ementa oficial:
+  > Inquérito. Corrupção passiva e lavagem de dinheiro (art. 317, § 1º, e art. 1º, § 4º, da Lei nº 9.613/98, c/c os arts. 29 e 69 do CP). Denúncia. Parlamentares federais. Suposto envolvimento em esquema de corrupção de agentes públicos relacionado à Diretoria de Abastecimento da Petrobras. Vantagens indevidas. Supostos recebimentos na forma de doações eleitorais oficiais, por intermédio de empresas de fachada e também em espécie. Imputações calcadas em depoimentos de réus colaboradores. Ausência de provas minimamente consistentes de corroboração. Fumus commissi delicti não demonstrado. Inexistência de justa causa para a ação penal. Denúncia rejeitada (art. 395, III, CPP) com relação aos parlamentares federais, com determinação de baixa dos autos ao primeiro grau quanto ao não detentor de prerrogativa de foro.
+  > 1. A justa causa para a ação penal consiste na exigência de suporte probatório mínimo a indicar a legitimidade da imputação e se traduz na existência, no inquérito policial ou nas peças de informação que instruem a denúncia, de elementos sérios e idôneos que demonstrem a materialidade do crime e de indícios razoáveis de autoria (Inq nº 3.719/DF, Segunda Turma, de minha relatoria, DJe de 29/10/14).
+  > 2. Na espécie, encontra-se ausente esse substrato probatório mínimo que autoriza a deflagração da ação penal.
+  > 3. Se os depoimentos do réu colaborador, sem outras provas minimamente consistentes de corroboração, não podem conduzir à condenação, também não podem autorizar a instauração da ação penal, por padecerem da presunção relativa de falta de fidedignidade.
+  > 4. A colaboração premiada, como meio de obtenção de prova, tem aptidão para autorizar a deflagração da investigação preliminar, visando adquirir coisas materiais, traços ou declarações dotadas de força probatória. Essa, em verdade, constitui sua verdadeira vocação probatória.
+  > 5. Todavia, os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear um juízo positivo de admissibilidade da acusação, o qual exige a presença do fumus commissi delicti.
+  > 6. O fumus commissi delicti, que se funda em um juízo de probabilidade de condenação, traduz-se, em nosso ordenamento, na prova da existência do crime e na presença de indícios suficientes de autoria.
+  > 7. Se “nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador” (art. 4º, § 16, da Lei nº 12.850/13), é lícito concluir que essas declarações, por si sós, não autorizam a formulação de um juízo de probabilidade de condenação e, por via de consequência, não permitem um juízo positivo de admissibilidade da acusação.
+  > 8. Como não há prova do conhecimento da suposta origem ilícita dos valores, não subsiste a imputação de corrupção passiva e fenece, por arrastamento, a de lavagem de capitais.
+  > 9. Não obstante, em sua contabilidade paralela, os colaboradores premiados tenham feito anotações pessoais que supostamente traduziriam pagamentos indevidos aos parlamentares federais, uma anotação unilateralmente feita em manuscrito particular não tem o condão de corroborar, por si só, o depoimento do colaborador, ainda que para fins de recebimento da denúncia.
+  > 10. Se o depoimento do colaborador necessita ser corroborado por fontes diversas de prova, evidente que uma anotação particular dele próprio emanada não pode servir, por si só, de instrumento de validação.
+  > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
+  > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
+
+## 423. REsp nº 1674198 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 12/12/2017.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: É inadmissível pronúncia fundada exclusivamente em boatos e testemunho indireto (por ouvir dizer). Recorrentes despronunciados, sem prejuízo de nova denúncia diante de provas novas.
@@ -22,7 +56,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Recurso especial parcialmente conhecido e, nessa extensão, provido, para reformar o acórdão recorrido de modo a despronunciar os recorrentes nos autos do Processo n. 0702.08.432189-3, em trâmite no Juízo de Direito da Vara de Crimes contra a Pessoa da Comarca de Uberlândia, sem prejuízo do oferecimento de nova denúncia em eventual superveniência de provas.
   > (REsp n. 1.674.198/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2017, DJe de 12/12/2017.)
 
-## 422. AgRg no Inq nº 1093 / DF (STJ)
+## 424. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -40,7 +74,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 423. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
+## 425. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
 - Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 09/08/2017.
 - Crime / Tema: Roubo · Testemunho indireto · Reconhecimento de pessoa
 - Resumo: Reconhecimento fotográfico não confirmado em juízo e testemunhas que só repetem o que ouviram não bastam para condenar por roubo. Réu absolvido (in dubio pro reo).
@@ -51,7 +85,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Recurso provido.
   > (TJMG, Apelação Criminal n. 1.0079.15.056165-6/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/8/2017, publicado em 9/8/2017.)
 
-## 424. REsp nº 1574681 / RS (STJ)
+## 426. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -75,7 +109,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 425. APn nº 746 / MT (STJ)
+## 427. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -92,7 +126,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 426. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
+## 428. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
 - Decisão colegiada. Relator: Des. Nelson Missias de Morais. 2ª Câmara Criminal. Publicado em 17/10/2016.
 - Crime / Tema: Homicídio qualificado · Testemunho indireto · Tribunal do Júri
 - Resumo: Condenação do Júri sustentada só em boatos e ouvir dizer de uma única fonte de credibilidade duvidosa, com álibi não desconstituído, é manifestamente contrária à prova dos autos. Julgamento anulado, com novo Júri.
@@ -103,7 +137,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. O acervo probatório inteiramente constituído através da palavra de uma testemunha cujas palavras têm duvidosa credibilidade não é apto a sustentar minimamente a tese acusatória, sendo imperioso reconhecer o divórcio entre as provas dos autos e a decisão do Conselho de Sentença, o que autoriza a anulação do julgamento com a consequente submissão do acusado a novo Júri.
   > (TJMG, Apelação Criminal n. 1.0313.13.008010-1/002, relator Desembargador Nelson Missias de Morais, 2ª Câmara Criminal, julgado em 6/10/2016, publicado em 17/10/2016.)
 
-## 427. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
+## 429. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
 - Decisão colegiada. Relator: Des. Doorgal Borges de Andrada. 4ª Câmara Criminal. Publicado em 23/08/2016.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Acesso da defesa às provas
 - Resumo: O acórdão foi omisso sobre os documentos juntados pela acusação nas contrarrazões sem vista à defesa. Embargos acolhidos para decretar a nulidade por cerceamento de defesa.
@@ -114,7 +148,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > - Embargos acolhidos para decretar a nulidade.
   > (TJMG, Embargos de Declaração Criminal n. 1.0134.09.129196-0/002, relator Desembargador Doorgal Borges de Andrada, 4ª Câmara Criminal, julgado em 17/8/2016, publicado em 23/8/2016.)
 
-## 428. RE nº 603.616 / RO (STF)
+## 430. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -129,41 +163,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Fixada a interpretação de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados.
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
-
-## 429. HC nº 341790 / PR (STJ)
-- Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
-- **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
-- Resumo: Colaboração premiada é meio de obtenção de prova e não basta, sozinha, para condenar (art. 4º, § 16, da Lei 12.850/13). Negar à defesa a fase preliminar do acordo e os dados pessoais do colaborador (art. 5º) não gera nulidade sem prejuízo demonstrado (art. 563 do CPP). HC não conhecido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-341790.pdf
-- Ementa oficial:
-  > PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. OPERAÇÃO "LAVA-JATO". NULIDADE. NEGATIVA DE ACESSO À INTEGRALIDADE DOS ELEMENTOS DE PROVAS COLHIDOS NA OPERAÇÃO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. HABEAS CORPUS NÃO CONHECIDO.
-  > I - A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso ordinário (v.g.: HC n. 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC n. 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC n. 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014). As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC n. 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC n. 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC n. 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC n. 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
-  > II - Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
-  > III - As teses referentes à nulidade do processo em razão da oitiva de um colaborador como testemunha durante a instrução, bem como acerca da ausência de manifestação do juiz de primeiro grau sobre a expedição de ofício ao Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional (DRCI) dirigido às autoridades suíças não foram analisadas pelo Tribunal a quo, razão pela qual esta Corte fica impedida de manifestar-se sobre os pedidos, sob pena de supressão de instância.
-  > IV - De acordo com o artigo 5º da Lei nº 12.850/13, no bojo da colaboração premiada, é direito do colaborador ter a sua qualificação e dados pessoais preservados. No presente caso, a decisão do magistrado de vedar o acesso às informações referentes ao local de residência e às autorizações para deslocamentos do colaborador está assente com a legislação de regência, bem como não tem o condão de inviabilizar o direito defesa do ora paciente.
-  > V - É cediço que a colaboração premiada tem natureza jurídica de meio de obtenção de prova. Dessa forma, um acordo de colaboração não enseja, por si só, uma sentença condenatória, aquele precisa estar amparado por um conjunto probatório, conforme o art. 4º, § 16, da Lei nº 12.850/13. In casu, a eventual falta de acesso à fase preliminar de um acordo não tem o condão de anular o processo por cerceamento de defesa.
-  > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
-  > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
-
-## 430. HC nº 127.483 / PR (STF)
-- Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
-- **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
-- Crime / Tema: Organização criminosa · Colaboração premiada
-- Resumo: O acordo de colaboração é negócio jurídico processual personalíssimo: o delatado não pode impugná-lo, mas pode confrontar em juízo as declarações do colaborador. A homologação só confere regularidade, voluntariedade e legalidade. Ordem denegada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-127483.pdf
-- Ementa oficial:
-  > Habeas corpus. Impetração contra ato de Ministro do Supremo Tribunal Federal. Conhecimento. Empate na votação. Prevalência da decisão mais favorável ao paciente (art. 146, parágrafo único, do Regimento Interno do Supremo Tribunal Federal). Inteligência do art. 102, I, i, da Constituição Federal. Mérito. Acordo de colaboração premiada. Homologação judicial (art. 4º, § 7º, da Lei nº 12.850/13). Competência do relator (art. 21, I e II, do Regimento Interno do Supremo Tribunal Federal). Decisão que, no exercício de atividade de delibação, se limita a aferir a regularidade, a voluntariedade e a legalidade do acordo. Ausência de emissão de qualquer juízo de valor sobre as declarações do colaborador. Negócio jurídico processual personalíssimo. Impugnação por coautores ou partícipes do colaborador. Inadmissibilidade. Possibilidade de, em juízo, os partícipes ou os coautores confrontarem as declarações do colaborador e de impugnarem, a qualquer tempo, medidas restritivas de direitos fundamentais adotadas em seu desfavor. Personalidade do colaborador. Pretendida valoração como requisito de validade do acordo de colaboração. Descabimento. Vetor a ser considerado no estabelecimento das cláusulas do acordo de colaboração - notadamente na escolha da sanção premial a que fará jus o colaborador -, bem como no momento da aplicação dessa sanção pelo juiz na sentença (art. 4º, § 11, da Lei nº 12.850/13). Descumprimento de anterior acordo de colaboração. Irrelevância. Inadimplemento que se restringiu ao negócio jurídico pretérito, sem o condão de contaminar, a priori, futuros acordos de mesma natureza. Confisco. Disposição, no acordo de colaboração, sobre os efeitos extrapenais de natureza patrimonial da condenação. Admissibilidade. Interpretação do art. 26.1 da Convenção das Nações Unidas contra o Crime Organizado Transnacional (Convenção de Palermo), e do art. 37.2 da Convenção das Nações Unidas Contra a Corrupção (Convenção de Mérida). Sanção premial. Direito subjetivo do colaborador caso sua colaboração seja efetiva e produza os resultados almejados. Incidência dos princípios da segurança jurídica e da proteção da confiança. Precedente. Habeas corpus do qual se conhece. Ordem denegada.
-  > 1. Diante do empate na votação quanto ao conhecimento de habeas corpus impetrado para o Pleno contra ato de Ministro, prevalece a decisão mais favorável ao paciente, nos termos do art. 146, parágrafo único, do Regimento Interno do Supremo Tribunal Federal. Conhecimento do habeas corpus, nos termos do art. 102, I, “i”, da Constituição Federal.
-  > 2. Nos termos do art. 21, I e II, do Regimento Interno do Supremo Tribunal Federal, o relator tem poderes instrutórios para ordenar, monocraticamente, a realização de quaisquer meios de obtenção de prova (v.g., busca e apreensão, interceptação telefônica, afastamento de sigilo bancário e fiscal).
-  > 3. Considerando-se que o acordo de colaboração premiada constitui meio de obtenção de prova (art. 3º da Lei nº 12.850/13), é indubitável que o relator tem poderes para, monocraticamente, homologá-lo (art. 4º, § 7º, da Lei nº 12.850/13).
-  > 4. A colaboração premiada é um negócio jurídico processual, uma vez que, além de ser qualificada expressamente pela lei como “meio de obtenção de prova”, seu objeto é a cooperação do imputado para a investigação e para o processo criminal, atividade de natureza processual, ainda que se agregue a esse negócio jurídico o efeito substancial (de direito material) concernente à sanção premial a ser atribuída a essa colaboração.
-  > 5. A homologação judicial do acordo de colaboração, por consistir em exercício de atividade de delibação, limita-se a aferir a regularidade, a voluntariedade e a legalidade do acordo, não havendo qualquer juízo de valor a respeito das declarações do colaborador.
-  > 6. Por se tratar de negócio jurídico personalíssimo, o acordo de colaboração premiada não pode ser impugnado por coautores ou partícipes do colaborador na organização criminosa e nas infrações penais por ela praticadas, ainda que venham a ser expressamente nominados no respectivo instrumento no “relato da colaboração e seus possíveis resultados” (art. 6º, I, da Lei nº 12.850/13).
-  > 7. De todo modo, nos procedimentos em que figurarem como imputados, os coautores ou partícipes delatados - no exercício do contraditório - poderão confrontar, em juízo, as declarações do colaborador e as provas por ele indicadas, bem como impugnar, a qualquer tempo, as medidas restritivas de direitos fundamentais eventualmente adotadas em seu desfavor.
-  > 8. A personalidade do colaborador não constitui requisito de validade do acordo de colaboração, mas sim vetor a ser considerado no estabelecimento de suas cláusulas, notadamente na escolha da sanção premial a que fará jus o colaborador, bem como no momento da aplicação dessa sanção pelo juiz na sentença (art. 4º, § 11, da Lei nº 12.850/13).
-  > 9. A confiança no agente colaborador não constitui elemento de existência ou requisito de validade do acordo de colaboração.
-  > 10. Havendo previsão em Convenções firmadas pelo Brasil para que sejam adotadas “as medidas adequadas para encorajar” formas de colaboração premiada (art. 26.1 da Convenção de Palermo) e para “mitigação da pena” (art. 37.2 da Convenção de Mérida), no sentido de abrandamento das consequências do crime, o acordo de colaboração, ao estabelecer as sanções premiais a que fará jus o colaborador, pode dispor sobre questões de caráter patrimonial, como o destino de bens adquiridos com o produto da infração pelo agente colaborador.
-  > 11. Os princípios da segurança jurídica e da proteção da confiança tornam indeclinável o dever estatal de honrar o compromisso assumido no acordo de colaboração, concedendo a sanção premial estipulada, legítima contraprestação ao adimplemento da obrigação por parte do colaborador.
-  > 12. Habeas corpus do qual se conhece. Ordem denegada.
-  > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)

@@ -7,7 +7,7 @@
 - [Índice STJ e STF (2 de 5)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice STJ e STF (3 de 5)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice STJ e STF (4 de 5)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md): 100 decisões com tipo de decisão, data, relator, crime / tema e resumo.
-- [Índice STJ e STF (5 de 5)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-5.md): 13 decisões com tipo de decisão, data, relator, crime / tema e resumo.
+- [Índice STJ e STF (5 de 5)](https://ladirf.github.io/acervo/acervo-indice-stj-stf-5.md): 15 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Índice TRFs e tribunais estaduais](https://ladirf.github.io/acervo/acervo-indice-tribunais.md): 21 decisões com tipo de decisão, data, relator, crime / tema e resumo.
 - [Parte 1](https://ladirf.github.io/acervo/acervo-parte-1.md): ementas oficiais, referências e PDFs das decisões 1 a 10.
 - [Parte 2](https://ladirf.github.io/acervo/acervo-parte-2.md): ementas oficiais, referências e PDFs das decisões 11 a 20.
@@ -52,6 +52,6 @@
 - [Parte 41](https://ladirf.github.io/acervo/acervo-parte-41.md): ementas oficiais, referências e PDFs das decisões 401 a 410.
 - [Parte 42](https://ladirf.github.io/acervo/acervo-parte-42.md): ementas oficiais, referências e PDFs das decisões 411 a 420.
 - [Parte 43](https://ladirf.github.io/acervo/acervo-parte-43.md): ementas oficiais, referências e PDFs das decisões 421 a 430.
-- [Parte 44](https://ladirf.github.io/acervo/acervo-parte-44.md): ementas oficiais, referências e PDFs das decisões 431 a 434.
+- [Parte 44](https://ladirf.github.io/acervo/acervo-parte-44.md): ementas oficiais, referências e PDFs das decisões 431 a 436.
 - [Arquivo único](https://ladirf.github.io/acervo/acervo-completo.md): tudo junto (grande; para enviar a projetos).
 - [Página do acervo](https://ladirf.github.io/acervo/): busca e filtros (interface para pessoas).

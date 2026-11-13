@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto completa)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 434 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 436 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -5435,7 +5435,35 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 05. Recurso parcialmente provido.
   > (TJMG, Apelação Criminal n. 1.0024.17.131538-5/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/10/2019, publicado em 7/10/2019.)
 
-## 419. REsp nº 1795341 / RS (STJ)
+## 419. HC nº 496533 / DF (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 18/06/2019.
+- Crime / Tema: Organização criminosa · Corrupção passiva · Lavagem de dinheiro · Crimes contra o sistema financeiro · Prisão e medidas cautelares
+- Resumo: Organização criminosa desmontada, diretoria do banco trocada e cinco meses de prisão: os riscos de reiteração seguem presentes, mas diminuídos, e as cautelares do art. 319 do CPP bastam no lugar da preventiva, mesmo para o apontado como líder do grupo. O voto ressalva que a contemporaneidade pode ser relativizada no pertencimento a organização criminosa, salvo evidência em contrário. Ordem concedida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-496533.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO PASSIVA. GESTÃO FRAUDULENTA. DESVIO DE RECURSO DE INSTITUIÇÃO FINANCEIRA. LAVAGEM DE DINHEIRO. CUSTÓDIA PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. NECESSIDADE EVIDENCIADA NO MOMENTO DA PRISÃO. FATOS PASSADOS. ORGANIZAÇÃO CRIMINOSA DESARTICULADA. RISCOS DE REITERAÇÃO DELITIVA PRESENTES, MAS DIMINUÍDOS. FINALIDADE DAS CAUTELAS PESSOAIS. FUNÇÃO NÃO PUNITIVA. ADEQUAÇÃO E SUFICIÊNCIA DE CAUTELARES MENOS GRAVOSAS. ORDEM CONCEDIDA.
+  > 1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito – o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas –, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+  > 2. A decisão que impôs prisão preventiva ao paciente não possui vício de fundamentação, uma vez que, além da indicação de indícios razoáveis de cometimento de inúmeros crimes, justificou a necessidade de proteção da ordem pública ao salientar, em relação ao paciente, a existência de "indícios fortes de montagem e estruturação da organização criminosa e sua total liderança no grupo do conglomerado bancário Banco de Brasília".
+  > 3. O decreto de prisão preventiva, apoiado em representação do Ministério Público Federal, indica a prática de atos de corrupção (ativa e passiva), lavagem de dinheiro, gestão fraudulenta, em contexto de organização criminosa, da qual participariam ex-dirigentes do Banco Regional de Brasília, que promoviam o aporte de volumosos recursos de RPPS, fundos de pensão e fundos privados administrados pela BRB DTVM - braço do banco responsável pela gestão de recursos, distribuição de títulos e valores mobiliários e administração de ativos - em investimentos e empreendimentos promovidos por terceiros, de quem recolhiam propinas em vultosas quantias, como contrapartida ilícita por suas decisões.
+  > 4. Noticiam os autos que os fatos ilícitos ocorreram há cerca de 3 anos, permanecendo, todavia, a suspeita de continuidade da organização criminosa quando decretadas as cautelas. Entretanto, o grupo criminoso foi identificado e desmontado com a deflagração da Operação Circus Máximus, que culminou na prisão e bloqueio de bens dos suspeitos e o oferecimento de denúncia pelo Ministério Público Federal.
+  > 5. Passados cinco meses desde então, com a troca da diretoria e dos conselheiros por meio de quem as ilicitudes teriam sido cometidas, e com a ausência de sinais de possível interferência do paciente nas decisões políticas do atual governo do Distrito Federal, não mais se apresenta a prisão cautelar como único meio adequado e necessário para a tutela dos interesses que, no momento da prisão, se encontravam sob risco de lesão (sobretudo a evitação da prática de novos crimes), sendo suficiente, para eliminar tal risco, a imposição de medidas cautelares pessoais com igual idoneidade para preservar esses interesses, em juízo de estrita proporcionalidade, na forma dos artigos 282, I e II c/c 319, ambos do Código de Processo Penal.
+  > 6. Habeas corpus concedido para substituir a prisão preventiva por cautelares descritas no voto, sem prejuízo de imposição de outras que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas.
+  > (HC n. 496.533/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2019, DJe de 18/6/2019.)
+
+## 420. HC nº 495894 / DF (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 17/06/2019.
+- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Prisão e medidas cautelares
+- Resumo: Organização criminosa desarticulada e paciente sem maior protagonismo: os riscos de reiteração seguem presentes, mas diminuídos, e as cautelares do art. 319 do CPP bastam no lugar da preventiva. O voto ressalva que a contemporaneidade pode ser relativizada no pertencimento a organização criminosa, salvo evidência em contrário. Ordem concedida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-495894.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. CUSTÓDIA PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. NECESSIDADE EVIDENCIADA NO MOMENTO DA PRISÃO. FATOS PASSADOS. ORGANIZAÇÃO CRIMINOSA DESARTICULADA. RISCOS DE REITERAÇÃO DELITIVA PRESENTES, MAS DIMINUÍDOS. FINALIDADE DAS CAUTELAS PESSOAIS. FUNÇÃO NÃO PUNITIVA. ADEQUAÇÃO E SUFICIÊNCIA DE CAUTELARES MENOS GRAVOSAS. ORDEM CONCEDIDA.
+  > 1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito – o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas –, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+  > 2. A decisão que impôs prisão preventiva ao paciente não possui vício de fundamentação, uma vez justificada a necessidade de proteção da ordem pública ao salientar o "risco concreto de reiteração delitiva, com indícios fortes de que as ilicitudes poderiam ocorrer em outras operações, ante o modus operandi adotado".
+  > 3. Tendo sido responsável pela emissão de notas fiscais falsas para dar aparência de legalidade aos negócios relacionados ao FIP LSH/BARRA DA TIJUCA/RJ, sem, todavia, maior protagonismo na estrutura do grupo criminoso, e já tendo sido desarticulada a organização delitiva, não mais se apresenta a prisão cautelar como único meio adequado e necessário para a tutela dos interesses que, no momento da prisão, se encontravam sob risco de lesão (sobretudo a evitação da prática de novos crimes), sendo suficiente, para eliminar tal risco, a imposição de medidas cautelares pessoais com igual idoneidade para preservar esses interesses, em juízo de estrita proporcionalidade, na forma dos artigos 282, I e II c/c 319, ambos do Código de Processo Penal.
+  > 4. Habeas corpus concedido para substituir a prisão preventiva por cautelares descritas no voto, sem prejuízo de imposição de outras que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas.
+  > (HC n. 495.894/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2019, DJe de 17/6/2019.)
+
+## 421. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -5449,7 +5477,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
 
-## 420. Inq nº 3.994 / DF (STF)
+## 422. Inq nº 3.994 / DF (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
 - Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
@@ -5469,7 +5497,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
   > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
 
-## 421. REsp nº 1674198 / MG (STJ)
+## 423. REsp nº 1674198 / MG (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 12/12/2017.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: É inadmissível pronúncia fundada exclusivamente em boatos e testemunho indireto (por ouvir dizer). Recorrentes despronunciados, sem prejuízo de nova denúncia diante de provas novas.
@@ -5483,7 +5511,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recurso especial parcialmente conhecido e, nessa extensão, provido, para reformar o acórdão recorrido de modo a despronunciar os recorrentes nos autos do Processo n. 0702.08.432189-3, em trâmite no Juízo de Direito da Vara de Crimes contra a Pessoa da Comarca de Uberlândia, sem prejuízo do oferecimento de nova denúncia em eventual superveniência de provas.
   > (REsp n. 1.674.198/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2017, DJe de 12/12/2017.)
 
-## 422. AgRg no Inq nº 1093 / DF (STJ)
+## 424. AgRg no Inq nº 1093 / DF (STJ)
 - Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
 - **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
 - Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
@@ -5501,7 +5529,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Agravo regimental improvido.
   > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
 
-## 423. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
+## 425. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
 - Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 09/08/2017.
 - Crime / Tema: Roubo · Testemunho indireto · Reconhecimento de pessoa
 - Resumo: Reconhecimento fotográfico não confirmado em juízo e testemunhas que só repetem o que ouviram não bastam para condenar por roubo. Réu absolvido (in dubio pro reo).
@@ -5512,7 +5540,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. Recurso provido.
   > (TJMG, Apelação Criminal n. 1.0079.15.056165-6/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/8/2017, publicado em 9/8/2017.)
 
-## 424. REsp nº 1574681 / RS (STJ)
+## 426. REsp nº 1574681 / RS (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
@@ -5536,7 +5564,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 15. Recurso especial não provido, para manter a absolvição do recorrido.
   > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
 
-## 425. APn nº 746 / MT (STJ)
+## 427. APn nº 746 / MT (STJ)
 - Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
 - Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
 - Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
@@ -5553,7 +5581,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 8. Denúncia rejeitada por ausência de justa causa.
   > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
 
-## 426. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
+## 428. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
 - Decisão colegiada. Relator: Des. Nelson Missias de Morais. 2ª Câmara Criminal. Publicado em 17/10/2016.
 - Crime / Tema: Homicídio qualificado · Testemunho indireto · Tribunal do Júri
 - Resumo: Condenação do Júri sustentada só em boatos e ouvir dizer de uma única fonte de credibilidade duvidosa, com álibi não desconstituído, é manifestamente contrária à prova dos autos. Julgamento anulado, com novo Júri.
@@ -5564,7 +5592,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 2. O acervo probatório inteiramente constituído através da palavra de uma testemunha cujas palavras têm duvidosa credibilidade não é apto a sustentar minimamente a tese acusatória, sendo imperioso reconhecer o divórcio entre as provas dos autos e a decisão do Conselho de Sentença, o que autoriza a anulação do julgamento com a consequente submissão do acusado a novo Júri.
   > (TJMG, Apelação Criminal n. 1.0313.13.008010-1/002, relator Desembargador Nelson Missias de Morais, 2ª Câmara Criminal, julgado em 6/10/2016, publicado em 17/10/2016.)
 
-## 427. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
+## 429. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
 - Decisão colegiada. Relator: Des. Doorgal Borges de Andrada. 4ª Câmara Criminal. Publicado em 23/08/2016.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Acesso da defesa às provas
 - Resumo: O acórdão foi omisso sobre os documentos juntados pela acusação nas contrarrazões sem vista à defesa. Embargos acolhidos para decretar a nulidade por cerceamento de defesa.
@@ -5575,7 +5603,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > - Embargos acolhidos para decretar a nulidade.
   > (TJMG, Embargos de Declaração Criminal n. 1.0134.09.129196-0/002, relator Desembargador Doorgal Borges de Andrada, 4ª Câmara Criminal, julgado em 17/8/2016, publicado em 23/8/2016.)
 
-## 428. RE nº 603.616 / RO (STF)
+## 430. RE nº 603.616 / RO (STF)
 - Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
 - **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
@@ -5591,7 +5619,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
   > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
 
-## 429. HC nº 341790 / PR (STJ)
+## 431. HC nº 341790 / PR (STJ)
 - Decisão colegiada. Relator: Min. Felix Fischer. Quinta Turma. Publicado em 04/05/2016.
 - **Resultado desfavorável à defesa:** HC não conhecido (vale pela tese)
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção ativa · Colaboração premiada · Cabimento do HC · Acesso da defesa às provas
@@ -5607,7 +5635,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > VI - Consoante o princípio pas de nullité sans grief, evidenciado no art. 563 do CPP ("nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa"), não há que se falar em declaração de nulidade de ato processual se dele não resultou qualquer prejuízo concreto para a defesa do paciente. Habeas corpus não conhecido.
   > (HC n. 341.790/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 26/4/2016, DJe de 4/5/2016.)
 
-## 430. HC nº 127.483 / PR (STF)
+## 432. HC nº 127.483 / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 04/02/2016.
 - **Resultado desfavorável à defesa:** Ordem denegada (vale pela tese)
 - Crime / Tema: Organização criminosa · Colaboração premiada
@@ -5629,7 +5657,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 12. Habeas corpus do qual se conhece. Ordem denegada.
   > (STF, HC n. 127.483/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 27/8/2015, DJe de 4/2/2016.)
 
-## 431. Inq nº 4.130 QO / PR (STF)
+## 433. Inq nº 4.130 QO / PR (STF)
 - Decisão colegiada. Relator: Min. Dias Toffoli. Plenário. Publicado em 03/02/2016.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Corrupção passiva · Colaboração premiada · Competência
 - Resumo: Colaboração premiada não fixa competência: crimes delatados sem conexão com a investigação principal são tratados como encontro fortuito de provas e seguem as regras comuns (arts. 70 e 78 do CPP). Feito remetido à Justiça Federal de SP, com atos preservados pelo juízo aparente.
@@ -5658,7 +5686,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 20. A questão de ordem se resolve no sentido do desmembramento do feito, a fim de que a investigação prossiga perante a Suprema Corte somente em relação à autoridade com prerrogativa de foro, com a consequente remessa de cópia dos autos à Seção Judiciária do Estado de São Paulo, independentemente da publicação do acórdão, para livre distribuição, preservada a validade dos atos praticados na origem, inclusive medidas cautelares, dentre as quais a prisão preventiva de um dos investigados, tendo em vista a aplicação da teoria do juízo aparente (HC nº 81.260/ES, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 19/4/02).
   > (STF, Inq n. 4.130 QO/PR, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 23/9/2015, DJe de 3/2/2016.)
 
-## 432. REsp nº 1388440 / ES (STJ)
+## 434. REsp nº 1388440 / ES (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 17/03/2015.
 - Crime / Tema: Crimes contra as relações de consumo · Prescrição
 - Resumo: Mutatio libelli: se a denúncia imputa dolo, condenar por culpa exige aditamento do MP (art. 384 do CPP), mesmo com pena menor. Sentença anulada e prescrição reconhecida.
@@ -5672,7 +5700,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > 5. Recurso parcialmente provido para anular a sentença condenatória e julgar extinta a punibilidade dos recorrentes.
   > (REsp n. 1.388.440/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/3/2015, DJe de 17/3/2015.)
 
-## 433. ApCrim nº 1.0522.13.000319-0/001 (TJMG)
+## 435. ApCrim nº 1.0522.13.000319-0/001 (TJMG)
 - Decisão colegiada. Relator: Juiz convocado Amauri Pinto Ferreira; redator do acórdão: Des. Doorgal Andrada. 4ª Câmara Criminal. Publicado em 27/01/2015.
 - Crime / Tema: Posse ilegal de arma de fogo · Acesso da defesa às provas
 - Resumo: Documentos juntados pela acusação nas contrarrazões, sem vista à defesa, causam nulidade absoluta por cerceamento de defesa. Processo anulado desde a remessa ao Tribunal, para a defesa se manifestar sobre eles. Decisão por maioria, vencido o relator.
@@ -5685,7 +5713,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
   > APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINARES - NULIDADE DO PROCESSO - DESRESPEITO ÀS REGRAS DE CONEXÃO E VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA - INOCORRÊNCIA - ABSOLVIÇÃO - IMPOSSIBILIDADE - ESTADO DE NECESSIDADE E ERRO DE PROIBIÇÃO - CAUSAS EXCLUDENTES DE ILICITUDE E DE CULPABILIDADE NÃO CARACTERIZADAS - REDUÇÃO DO VALOR DA MULTA E DA PRESTAÇÃO PECUNIÁRIA - INVIABILIDADE - PRELIMINARES REJEITADAS E RECURSO DESPROVIDO - ERRO MATERIAL NA SENTENÇA - CORREÇÃO DE OFÍCIO. - Uma vez proferida sentença definitiva em um dos feitos, não há falar em conexão, pois, nesse caso, a unidade dos processos somente ocorrerá em sede de execução, nos termos do disposto no art. 82 do CPP. - Para que haja a configuração do estado de necessidade, é mister que haja uma situação de perigo atual, o que não ocorreu no caso em comento. - É pouco crível que uma pessoa de diligência normal desconheça a proibição de se portar arma de fogo sem a devida autorização legal, mormente após a grande repercussão gerada em torno da campanha pelo desarmamento. - A redução, nesta seara recursal, do valor da prestação pecuniária imposta ao apelante na sentença afigura-se francamente inoportuna, nada impedindo, contudo, que o acusado formule o pedido que entender conveniente perante o Juízo da Execução. - Constatado erro material na fixação da pena, deve-se proceder à sua correção de ofício.
   > (TJMG, Apelação Criminal n. 1.0522.13.000319-0/001, relator Juiz de Direito Convocado Amauri Pinto Ferreira, relator para o acórdão Desembargador Doorgal Andrada, 4ª Câmara Criminal, julgado em 16/1/2014, publicado em 27/1/2015.)
 
-## 434. Inq nº 1.674 / PA (STF)
+## 436. Inq nº 1.674 / PA (STF)
 - Decisão colegiada. Relator: Min. Ilmar Galvão; redator do acórdão: Min. Sepúlveda Pertence. Plenário. Publicado em 01/08/2003.
 - Crime / Tema: Crimes contra a honra · Imunidade do advogado
 - Resumo: Pelo art. 7º, § 2º, do Estatuto da OAB, a imunidade profissional do advogado cobre injúria e difamação dirigidas ao juiz, desde que pertinentes à causa. Isso superou a jurisprudência do art. 142 do CP; a suspensão cautelar no STF só atingiu o desacato. A imunidade alcança a manifestação à imprensa do Advogado-Geral da União sobre despacho em causa contra a União. Queixa-crime extinta, por maioria.
