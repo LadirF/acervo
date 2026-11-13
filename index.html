@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex, nofollow">
-<link rel="alternate" type="text/markdown" href="ia/20261113-1240/acervo.md" title="Acervo em texto (para IA)">
+<link rel="alternate" type="text/markdown" href="ia/20261113-1514/acervo.md" title="Acervo em texto (para IA)">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#101010">
 <title>Acervo de Jurisprudência</title>
@@ -1939,9 +1939,161 @@
     .topo-v3, .topo-v3.visivel { transform: none; }
   }
 </style>
+<style id="fluidez-v4">
+  /* ===== Fluidez v4 (13/11/2026): rolagem mais leve e resposta mais clara ao clique e ao toque.
+     Não muda cores, fonte nem disposição; só acrescenta. Para voltar: apagar este bloco
+     (os dois ganchos no JavaScript, marcados com "fluidez-v4", ficam inofensivos sem ele). ===== */
+
+  /* 1. Rolagem: o hachurado preso ao fundo (background-attachment: fixed) era redesenhado
+     a cada quadro da rolagem; agora fica numa camada fixa própria, que o navegador só compõe */
+  body { background-image: none; background-attachment: scroll; }
+
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    height: 100vh;
+    height: 100lvh;
+    z-index: -1;
+    pointer-events: none;
+    background-image: repeating-linear-gradient(135deg, var(--hatch) 0 1px, transparent 1px 7px);
+  }
+
+  /* 2. Toque: sem a espera do duplo toque nem o clarão cinza do iPhone */
+  a, button, select, input, .lista-opcoes li { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+
+  /* 3. Todo botão responde: transição nos que mudavam de estado de uma vez… */
+  .salvas-toggle, .salvas-acao, .ficha-ativa, .vazio-acao, .filtros-toggle, .vf-btn,
+  .busca-limpar, .crimes button, .acao-v3, .lista-clear, .lista-opcoes li {
+    transition: color .16s var(--ease), background-color .16s var(--ease), border-color .16s var(--ease),
+                box-shadow .16s var(--ease), transform .16s var(--ease);
+  }
+
+  /* …e todos "afundam" de leve ao clicar ou tocar */
+  .chips button:active, .segmented button:active, .lista-trigger:active, .lista-clear:active,
+  .limpar-filtros:active, .crimes button:active, .pdf-link:active, .viewer-btn:active,
+  .paginacao button:active:not(:disabled):not(.active), .tema-toggle:active,
+  .salvas-toggle:active, .salvas-acao:active, .ficha-ativa:active, .vazio-acao:active,
+  .filtros-toggle:active, .vf-btn:active:not(:disabled) {
+    transform: scale(.96);
+    transition-duration: .07s;
+  }
+
+  .acao-v3:active { transform: scale(.86); transition-duration: .07s; }
+  .busca-limpar:active { transform: translateY(-50%) scale(.86); transition-duration: .07s; }
+  .topo-v3.visivel:active { transform: scale(.92); }
+
+  @media (hover: hover) {
+    .salvas-toggle:hover, .salvas-acao:hover, .vazio-acao:hover, .filtros-toggle:hover {
+      transform: translateY(-1px);
+      box-shadow: var(--shadow-md);
+    }
+    .lista-opcoes li:hover:not(.vazio) { background: var(--paper); }
+    .chips button .dot { transition: background-color .18s var(--ease), transform .18s var(--ease); }
+    .chips button:hover .dot { transform: scale(1.35); }
+    .pdf-link::before { transition: transform .2s var(--ease); }
+    .pdf-link:hover::before { transform: translateY(-1px) scale(1.08); }
+    .topo-v3.visivel:hover { transform: translateY(-2px); }
+  }
+
+  /* 4. Cartões: a cor do tribunal se espalha de leve pelo cartão ao passar o mouse
+     ou ao navegar por teclado (antes só o mouse dava retorno) */
+  li.entry { isolation: isolate; }
+
+  li.entry::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    border-radius: inherit;
+    background: linear-gradient(90deg, color-mix(in srgb, var(--case-color, var(--ouro)) 8%, transparent), transparent 42%);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .28s var(--ease);
+  }
+
+  li.entry:hover::before, li.entry:focus-within::before { opacity: 1; }
+
+  li.entry:focus-within {
+    border-color: rgba(181, 151, 41, 0.55);
+    border-left-color: var(--case-color, var(--rule));
+    box-shadow: var(--shadow-md), 0 0 0 3px rgba(181, 151, 41, 0.10);
+  }
+
+  @media (hover: none) { li.entry:hover::before { opacity: 0; } }
+
+  /* Cartões que entram na lista (busca, filtro, página): em cascata, um depois do outro.
+     O --i vem do recursos-v3 (gancho "fluidez-v4"); sem ele, entram todos juntos como antes */
+  li.entry.entrando { animation-delay: calc(var(--i, 0) * 30ms); }
+
+  /* Trocar de página: a linha da contagem não cola no topo da tela */
+  .count-line { scroll-margin-top: 16px; }
+
+  /* Listas de Relator e Crime / Tema: barra de rolagem fina, nas cores da página */
+  .lista-opcoes { scrollbar-width: thin; scrollbar-color: var(--rule-strong) transparent; }
+
+  /* 5. Leitor de PDF e janelinhas de filtro: também fecham com suavidade
+     (Chrome, Edge, Safari e Firefox recentes; nos demais continuam como antes) */
+  @supports (transition-behavior: allow-discrete) {
+    dialog.viewer {
+      opacity: 0;
+      transform: translateY(10px) scale(.985);
+      transition: opacity .2s var(--ease), transform .2s var(--ease),
+                  overlay .2s allow-discrete, display .2s allow-discrete;
+    }
+
+    dialog.viewer[open] { opacity: 1; transform: none; animation: none; }
+
+    dialog.viewer::backdrop {
+      opacity: 0;
+      transition: opacity .2s var(--ease), overlay .2s allow-discrete, display .2s allow-discrete;
+    }
+
+    dialog.viewer[open]::backdrop { opacity: 1; }
+
+    @starting-style {
+      dialog.viewer[open] { opacity: 0; transform: translateY(10px) scale(.985); }
+      dialog.viewer[open]::backdrop { opacity: 0; }
+    }
+
+    .lista-pop {
+      animation: none;
+      transition: opacity .14s var(--ease), transform .14s var(--ease), display .14s allow-discrete;
+    }
+
+    .lista-pop[hidden] { opacity: 0; transform: translateY(-4px); pointer-events: none; }
+
+    @starting-style {
+      .lista-pop:not([hidden]) { opacity: 0; transform: translateY(-4px); }
+    }
+  }
+
+  /* No celular o leitor ocupa a tela toda: o desfoque do fundo não aparece e só pesava na abertura */
+  @media (max-width: 560px) {
+    dialog.viewer::backdrop { -webkit-backdrop-filter: none; backdrop-filter: none; }
+  }
+
+  /* 6. Troca de tema claro/escuro: as cores se cruzam em vez de piscar (gancho "fluidez-v4" no script) */
+  ::view-transition-old(root), ::view-transition-new(root) { animation-duration: .3s; }
+
+  @media (prefers-reduced-motion: reduce) {
+    dialog.viewer, dialog.viewer::backdrop, .lista-pop { transition: none; }
+    li.entry::before, .topo-v3 { transition: none; }
+    li.entry.entrando { animation-delay: 0s; }
+    .chips button:active, .segmented button:active, .lista-trigger:active, .lista-clear:active,
+    .limpar-filtros:active, .crimes button:active, .pdf-link:active, .viewer-btn:active,
+    .paginacao button:active, .tema-toggle:active, .salvas-toggle:active, .salvas-acao:active,
+    .ficha-ativa:active, .vazio-acao:active, .filtros-toggle:active, .vf-btn:active,
+    .acao-v3:active, .topo-v3.visivel:active, .topo-v3.visivel:hover,
+    .salvas-toggle:hover, .salvas-acao:hover, .vazio-acao:hover, .filtros-toggle:hover,
+    .chips button:hover .dot, .pdf-link:hover::before { transform: none; }
+    .busca-limpar:active { transform: translateY(-50%); }
+    ::view-transition-old(root), ::view-transition-new(root) { animation: none; }
+  }
+</style>
 </head>
 <body>
-<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261113-1240/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
+<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261113-1514/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
 <a class="pular" href="#docket">Pular para as decisões</a>
 <div class="wrap">
 
@@ -8640,9 +8792,15 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
   }
   document.getElementById('temaToggle').addEventListener('click', function () {
     var novo = temaAtivo() === 'dark' ? 'light' : 'dark';
-    raiz.setAttribute('data-theme', novo);
     try { localStorage.setItem('acervo-tema', novo); } catch (err) { /* sem armazenamento: vale só nesta visita */ }
-    marcarTema();
+    // fluidez-v4: as cores se cruzam (View Transitions) onde o navegador permite; senão, troca direta
+    var trocarTema = function () { raiz.setAttribute('data-theme', novo); marcarTema(); };
+    var calmoTema = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (document.startViewTransition && !calmoTema && document.visibilityState === 'visible') {
+      var transicaoTema = document.startViewTransition(trocarTema);
+      ['ready', 'finished', 'updateCallbackDone'].forEach(function (k) { if (transicaoTema[k]) transicaoTema[k].catch(function () {}); });
+      setTimeout(function () { if (temaAtivo() !== novo) trocarTema(); }, 500);  // garantia, se a transição não rodar
+    } else trocarTema();
   });
   marcarTema();
 
@@ -10043,8 +10201,9 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
   // Só os que acabaram de aparecer (não na carga da página, nem os que já estavam).
   var mostradasAntes = null;
   aoAplicar.push(function (info) {
+    var ordemEntrada = 0;  // fluidez-v4: entrada em cascata (até 8 degraus)
     if (mostradasAntes) info.mostradas.forEach(function (li) {
-      if (!mostradasAntes.has(li)) li.classList.add('entrando');
+      if (!mostradasAntes.has(li)) { li.style.setProperty('--i', Math.min(ordemEntrada++, 8)); li.classList.add('entrando'); }
     });
     mostradasAntes = new Set(info.mostradas);
   });
