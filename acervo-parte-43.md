@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 43 de 44 (decisões 421 a 430)
+# Acervo de Jurisprudência — Cury Advogados — parte 43 de 45 (decisões 421 a 430)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 436 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 448 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,158 +8,142 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 421. REsp nº 1795341 / RS (STJ)
-- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
-- Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
-- Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1795341.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. ART. 305 DO CPM. NULIDADE. INTERCEPTAÇÃO TELEFÔNICA. PROVA EMPRESTADA. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. FALTA DE ACESSO À INTEGRALIDADE DAS CONVERSAS. EVIDENCIADO PELO TRIBUNAL DE ORIGEM A EXISTÊNCIA DE ÁUDIOS DESCONTINUADOS, SEM ORDENAÇÃO, SEQUENCIAL LÓGICA E COM OMISSÃO DE TRECHOS DA DEGRAVAÇÃO. FILTRAGEM ESTABELECIDA SEM A PRESENÇA DO DEFENSOR. NULIDADE RECONHECIDA. PRESCRIÇÃO CONFIGURADA. RECURSOS PROVIDOS. DECRETADA A EXTINÇÃO DA PUNIBILIDADE.
-  > 1. A quebra da cadeia de custódia tem como objetivo garantir a todos os acusados o devido processo legal e os recursos a ele inerentes, como a ampla defesa, o contraditório e principalmente o direito à prova lícita. O instituto abrange todo o caminho que deve ser percorrido pela prova até sua análise pelo magistrado, sendo certo que qualquer interferência durante o trâmite processual pode resultar na sua imprestabilidade (RHC 77.836/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/02/2019, DJe 12/02/2019).
-  > 2. É dever o Estado a disponibilização da integralidade das conversas advindas nos autos de forma emprestada, sendo inadmissível a seleção pelas autoridades de persecução de partes dos áudios interceptados.
-  > 3. A apresentação de parcela do produto extraído dos áudios, cuja filtragem foi estabelecida sem a presença do defensor, acarreta ofensa ao princípio da paridade de armas e ao direito à prova, porquanto a pertinência do acervo probatório não pode ser realizado apenas pela acusação, na medida em que gera vantagem desarrazoada em detrimento da defesa.
-  > 4. Reconhecida a nulidade, inegável a superveniência da prescrição, com fundamento no art. 61 do CPP.
-  > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
-  > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
-
-## 422. Inq nº 3.994 / DF (STF)
-- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
-- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
-- Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-3994.pdf
-- Ementa oficial:
-  > Inquérito. Corrupção passiva e lavagem de dinheiro (art. 317, § 1º, e art. 1º, § 4º, da Lei nº 9.613/98, c/c os arts. 29 e 69 do CP). Denúncia. Parlamentares federais. Suposto envolvimento em esquema de corrupção de agentes públicos relacionado à Diretoria de Abastecimento da Petrobras. Vantagens indevidas. Supostos recebimentos na forma de doações eleitorais oficiais, por intermédio de empresas de fachada e também em espécie. Imputações calcadas em depoimentos de réus colaboradores. Ausência de provas minimamente consistentes de corroboração. Fumus commissi delicti não demonstrado. Inexistência de justa causa para a ação penal. Denúncia rejeitada (art. 395, III, CPP) com relação aos parlamentares federais, com determinação de baixa dos autos ao primeiro grau quanto ao não detentor de prerrogativa de foro.
-  > 1. A justa causa para a ação penal consiste na exigência de suporte probatório mínimo a indicar a legitimidade da imputação e se traduz na existência, no inquérito policial ou nas peças de informação que instruem a denúncia, de elementos sérios e idôneos que demonstrem a materialidade do crime e de indícios razoáveis de autoria (Inq nº 3.719/DF, Segunda Turma, de minha relatoria, DJe de 29/10/14).
-  > 2. Na espécie, encontra-se ausente esse substrato probatório mínimo que autoriza a deflagração da ação penal.
-  > 3. Se os depoimentos do réu colaborador, sem outras provas minimamente consistentes de corroboração, não podem conduzir à condenação, também não podem autorizar a instauração da ação penal, por padecerem da presunção relativa de falta de fidedignidade.
-  > 4. A colaboração premiada, como meio de obtenção de prova, tem aptidão para autorizar a deflagração da investigação preliminar, visando adquirir coisas materiais, traços ou declarações dotadas de força probatória. Essa, em verdade, constitui sua verdadeira vocação probatória.
-  > 5. Todavia, os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear um juízo positivo de admissibilidade da acusação, o qual exige a presença do fumus commissi delicti.
-  > 6. O fumus commissi delicti, que se funda em um juízo de probabilidade de condenação, traduz-se, em nosso ordenamento, na prova da existência do crime e na presença de indícios suficientes de autoria.
-  > 7. Se “nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador” (art. 4º, § 16, da Lei nº 12.850/13), é lícito concluir que essas declarações, por si sós, não autorizam a formulação de um juízo de probabilidade de condenação e, por via de consequência, não permitem um juízo positivo de admissibilidade da acusação.
-  > 8. Como não há prova do conhecimento da suposta origem ilícita dos valores, não subsiste a imputação de corrupção passiva e fenece, por arrastamento, a de lavagem de capitais.
-  > 9. Não obstante, em sua contabilidade paralela, os colaboradores premiados tenham feito anotações pessoais que supostamente traduziriam pagamentos indevidos aos parlamentares federais, uma anotação unilateralmente feita em manuscrito particular não tem o condão de corroborar, por si só, o depoimento do colaborador, ainda que para fins de recebimento da denúncia.
-  > 10. Se o depoimento do colaborador necessita ser corroborado por fontes diversas de prova, evidente que uma anotação particular dele próprio emanada não pode servir, por si só, de instrumento de validação.
-  > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
-  > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)
-
-## 423. REsp nº 1674198 / MG (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 12/12/2017.
+## 421. AgRg no HC nº 644971 / RS (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 29/03/2021.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
-- Resumo: É inadmissível pronúncia fundada exclusivamente em boatos e testemunho indireto (por ouvir dizer). Recorrentes despronunciados, sem prejuízo de nova denúncia diante de provas novas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1674198.pdf
+- Resumo: É ilegal a pronúncia baseada apenas em depoimentos da fase policial e em relatos de ouvir dizer colhidos em juízo. Agravo do MPF improvido; despronúncia mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-644971.pdf
 - Ementa oficial:
-  > RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA FUNDAMENTADA EXCLUSIVAMENTE EM BOATOS E TESTEMUNHA DE OUVIR DIZER. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
-  > 1. A decisão de pronúncia é um mero juízo de admissibilidade da acusação, sem exigência, neste momento processual, de prova incontroversa da autoria do delito – bastam indícios suficientes de que o réu seja seu autor e a certeza quanto à materialidade do crime.
-  > 2. Muito embora a análise aprofundada dos elementos probatórios seja feita somente pelo Tribunal Popular, não se pode admitir, em um Estado Democrático de Direito, a pronúncia baseada, exclusivamente, em testemunho indireto (por ouvir dizer) como prova idônea, de per si, para submeter alguém a julgamento pelo Tribunal Popular.
-  > 3. A norma segundo a qual a testemunha deve depor pelo que sabe per proprium sensum et non per sensum alterius impede, em alguns sistemas – como o norte-americano –, o depoimento da testemunha indireta, por ouvir dizer (hearsay rule). No Brasil, ainda que não haja impedimento legal a esse tipo de depoimento, “não se pode tolerar que alguém vá a juízo repetir a vox publica. Testemunha que depusesse para dizer o que lhe constou, o que ouviu, sem apontar seus informantes, não deveria ser levada em conta” (Helio Tornaghi).
-  > 4. A primeira etapa do procedimento bifásico do Tribunal do Júri tem o objetivo de avaliar a suficiência ou não de razões (justa causa) para levar o acusado ao seu juízo natural. O juízo da acusação (iudicium accusationis) funciona como um filtro pelo qual somente passam as acusações fundadas, viáveis, plausíveis, idôneas a serem objeto de decisão pelo juízo da causa (iudicium causae). A instrução preliminar realizada na primeira fase do procedimento do Júri, leciona Mendes de Almeida, é indispensável para evitar imputações temerárias e levianas. Ao proteger o inocente, "dá à defesa a faculdade de dissipar as suspeitas, de combater os indícios, de explicar os atos e de destruir a prevenção no nascedouro; propicia-lhe meios de desvendar prontamente a mentira e de evitar a escandalosa publicidade do julgamento".
-  > 5. Recurso especial parcialmente conhecido e, nessa extensão, provido, para reformar o acórdão recorrido de modo a despronunciar os recorrentes nos autos do Processo n. 0702.08.432189-3, em trâmite no Juízo de Direito da Vara de Crimes contra a Pessoa da Comarca de Uberlândia, sem prejuízo do oferecimento de nova denúncia em eventual superveniência de provas.
-  > (REsp n. 1.674.198/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2017, DJe de 12/12/2017.)
+  > AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. PRONÚNCIA BASEADA, APENAS, EM DEPOIMENTOS COLHIDOS NA FASE POLICIAL. ILEGALIDADE. DEPOIMENTO EM JUÍZO DE "OUVI DIZER". RELATOS INDIRETOS. FUNDAMENTO INIDÔNEO PARA SUBMISSÃO DO ACUSADO AO JÚRI. AGRAVO IMPROVIDO.
+  > 1. A sentença de pronúncia encerra a primeira etapa do procedimento de crimes de competência do Tribunal do Júri e constitui juízo positivo de admissibilidade da acusação, a dispensar, nesse momento processual, prova incontroversa de autoria do delito em toda sua complexidade normativa.
+  > 2. Não obstante, consoante recente orientação jurisprudencial desta Corte Superior, é ilegal a sentença de pronúncia baseada, exclusivamente, em informações coletadas na fase extrajudicial.
+  > 3. Ademais, "muito embora a análise aprofundada dos elementos probatórios seja feita somente pelo Tribunal Popular, não se pode admitir, em um Estado Democrático de Direito, a pronúncia baseada, exclusivamente, em testemunho indireto (por ouvir dizer) como prova idônea, de per si, para submeter alguém a julgamento pelo Tribunal Popular" (REsp 1.674.198/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 12/12/2017).
+  > 4. Na hipótese, a despronúncia dos acusados é medida que se impõe, tendo em vista que, desconsiderando os depoimentos colhidos ainda na fase investigativa, os quais não foram repetidos em Juízo, as únicas provas submetidas ao crivo do Juízo de primeiro grau são relatos de duas testemunhas que teriam “ouvido dizer” de outras pessoas sobre a suposta autoria delitiva, inexistindo fundamentos idôneos para a submissão dos acusados ao Tribunal do Júri.
+  > 5. Agravo regimental do Ministério Público Federal improvido.
+  > (AgRg no HC n. 644.971/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/3/2021, DJe de 29/3/2021.)
 
-## 424. AgRg no Inq nº 1093 / DF (STJ)
-- Decisão colegiada. Relatora: Min.ª Nancy Andrighi. Corte Especial. Publicado em 13/09/2017.
-- **Resultado desfavorável à defesa:** Agravo desprovido (vale pela tese)
-- Crime / Tema: Lavagem de dinheiro · Corrupção passiva · Falsidade ideológica · Colaboração premiada
-- Resumo: O delatado não tem legitimidade nem interesse para impugnar o acordo de colaboração, que não atinge terceiros; a colaboração é delatio criminis, não prova. Agravo desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-1093.pdf
+## 422. HC nº 589270 / GO (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/03/2021.
+- Crime / Tema: Homicídio qualificado · Pronúncia · Tribunal do Júri · Prisão e medidas cautelares
+- Resumo: É ilegal a pronúncia baseada exclusivamente em provas do inquérito (art. 155 do CPP). Ordem concedida para despronunciar e revogar a preventiva, sem prejuízo de nova denúncia.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-589270.pdf
 - Ementa oficial:
-  > PROCESSUAL PENAL. INQUÉRITO. COLABORAÇÃO PREMIADA. ART. 4º DA LEI 12.850/13. EXISTÊNCIA, VALIDADE E EFICÁCIA. QUESTIONAMENTO. DELATADO. LEGITIMIDADE E INTERESSE. AUSÊNCIA. NEGÓCIO JURÍDICO PROCESSUAL. EFEITOS. RESTRIÇÃO. NATUREZA JURÍDICA PROCESSUAL. DELATIO CRIMINIS. CONTEÚDO. ELEMENTOS DE CONVICÇÃO. DESTINATÁRIO. ÓRGÃO DA ACUSAÇÃO.
-  > 1. O propósito recursal é determinar se o agravante, citado nas informações prestadas por colaborador, tem interesse e legitimidade para impugnar a existência, validade e eficácia de acordo de colaboração premiada ou se existem razões para o imediato trancamento do presente inquérito por meio da concessão de habeas corpus de ofício.
-  > 2. Como reflexo dos princípios do devido processo legal, da presunção de inocência e da ampla defesa, impõe-se à acusação o ônus de colher, preambularmente, um lastro indiciário mínimo para o exercício da pretensão penal punitiva, o que corresponde ao dever de demonstrar a justa causa, conforme previsto no art. 395, III, do CPP.
-  > 3. A colaboração premiada somou à já existente previsão de qualquer pessoa do povo contribuir com a investigação criminal de crime de ação penal pública incondicionada (arts. 5º, § 3º, e 27 do CPP) a possibilidade de, quando se tratar de coautor ou partícipe, obter benefícios processuais e materiais penais.
-  > 4. Quanto ao aspecto processual, a natureza jurídica da colaboração premiada é de delatio criminis, porquanto é mero recurso à formação da convicção da acusação e não elemento de prova, sendo insuficiente para subsidiar, por si só, a condenação de alguém.
-  > 5. O acordo de colaboração não se confunde com seu conteúdo e as cláusulas de referido acordo não repercutem, nem sequer remotamente, na esfera jurídica de terceiros, razão pela qual não têm esses terceiros interesse jurídico nem legitimidade para sua impugnação.
-  > 6. Na presente hipótese, o agravante questiona a validade de acordo de colaboração, por ter sido firmado por órgão do Ministério Público que não possuiria atribuições e homologado por juiz que não possuiria competência para tratar de fatos que envolvessem autoridade com prerrogativa de foro no STJ. Argumenta, ademais, que a colaboração se referiria a crime diverso daquele envolvido do acordo, o que evidenciaria a ilicitude de seu objeto.
-  > 7. As indagações referentes à atribuição do membro do Parquet ou do juiz que o homologa o acordo não afetam a existência, validade ou veracidade dos elementos de convicção fornecidos ao órgão de acusação, os quais podem ser contraditados no momento processual adequado. Ademais, os crimes objeto do acordo têm íntima relação com aquele supostamente praticado pelo agravante.
-  > 8. Agravo regimental improvido.
-  > (AgRg no Inq n. 1.093/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 6/9/2017, DJe de 13/9/2017.)
+  > HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE. PRONÚNCIA FUNDAMENTADA EXCLUSIVAMENTE EM ELEMENTOS DE INFORMAÇÃO COLETADAS NA FASE EXTRAJUDICIAL. OFENSA AO ART. 155 DO CPP. IMPOSSIBILIDADE. NOVA ORIENTAÇAO DO STF.
+  > 1. A atual posição do Superior Tribunal de Justiça sobre o tema admite a pronúncia do acusado com base em indícios derivados do inquérito policial, sem que isso represente afronta ao art. 155 do Código de Processo Penal.
+  > 2. Nova orientação do Supremo Tribunal Federal (HC n. 180144, Ministro Celso de Mello, Segunda Turma, DJe 22/10/2020). A primeira fase do procedimento do júri constitui filtro processual com a função de evitar julgamento pelo plenário sem a existência de prova de materialidade e indícios de autoria.
+  > 3. É ilegal a sentença de pronúncia com base exclusiva em provas produzidas no inquérito, sob pena de igualar em densidade a sentença que encera o jus accusationis à decisão de recebimento de denúncia. Todo o procedimento delineado entre os arts. 406 e 421 do Código de Processo Penal disciplina a produção probatória destinada a embasar o deslinde da primeira fase do procedimento do Tribunal do Júri. Trata-se de arranjo legal, que busca evitar a submissão dos acusados ao Conselho de Sentença de forma temerária, não havendo razão de ser em tais exigências legais, fosse admissível a atividade inquisitorial como suficiente.
+  > 4. Ordem de habeas corpus concedida para despronunciar o paciente e revogar sua prisão preventiva, sem prejuízo de formulação de nova denúncia, nos termos do art. 414, parágrafo único, do Código de Processo Penal.
+  > (HC n. 589.270/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/2/2021, DJe de 22/3/2021.)
 
-## 425. ApCrim nº 1.0079.15.056165-6/001 (TJMG)
-- Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 09/08/2017.
-- Crime / Tema: Roubo · Testemunho indireto · Reconhecimento de pessoa
-- Resumo: Reconhecimento fotográfico não confirmado em juízo e testemunhas que só repetem o que ouviram não bastam para condenar por roubo. Réu absolvido (in dubio pro reo).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0079-15-056165.pdf
+## 423. HC nº 560552 / RS (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/02/2021.
+- Crime / Tema: Homicídio qualificado · Pronúncia · Tribunal do Júri
+- Resumo: Pronúncia exige padrão probatório mais elevado e não pode se apoiar só em elementos extrajudiciais (arts. 155 e 413 do CPP). HC não conhecido; ordem concedida de ofício para despronunciar.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-560552.pdf
 - Ementa oficial:
-  > APELAÇÃO CRIMINAL - ROUBO MAJORADO - ABSOLVIÇÃO - NECESSIDADE - RECONHECIMENTO FOTOGRÁFICO - TESTEMUNHA DE OUVIR DIZER - PROVA INSUFICIENTE - IN DÚBIO PRO REO - RECURSO PROVIDO.
-  > 1. Impõe-se a absolvição quando inexiste prova da participação do apelante na prática delitiva, havendo apenas o reconhecimento fotográfico e testemunha de ouvir dizer, devendo ser observado o princípio do in dúbio pro reo.
-  > 2. Recurso provido.
-  > (TJMG, Apelação Criminal n. 1.0079.15.056165-6/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/8/2017, publicado em 9/8/2017.)
+  > PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO E TENTATIVA DE HOMICÍDIO QUALIFICADO. ALEGADA OFENSA AO ART. 155 DO CÓDIGO DE PROCESSO PENAL. PRONÚNCIA FUNDADA EM ELEMENTOS EXCLUSIVAMENTE EXTRAJUDICIAIS. INSUFICIÊNCIA. PRECEDENTES. PADRÃO PROBATÓRIO ELEVADO. COGNIÇÃO APROFUNDADA. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA PLENITUDE DE DEFESA. INVOCAÇÃO DO IN DUBIO PRO SOCIETATE PARA JUSTIFICAR A DECISÃO DE PRONÚNCIA. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+  > 1. Esta Corte ― HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 ― e o Supremo Tribunal Federal ― AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 ― , pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+  > 2. In casu, o Tribunal local manteve a decisão que pronunciou os réus, com base em dois depoimentos extrajudiciais, o da testemunha Kauã de Machado Machado, que não foi confirmado na fase processual e o da testemunha Welington Alves dos Santos, que assumiu caráter não repetível, em razão de seu desaparecimento durante a instrução.
+  > 3. Note-se a ausência de indícios suficientes de autoria delitiva (art. 413 do CPP) submetidos ao devido processo legal, carecendo, portanto, a referenciada prova, de judicialização apta a embasar a pronúncia.
+  > 4. Força argumentativa das convicções dos magistrados. Provas submetidas ao contraditório e à ampla defesa. No Estado Democrático de Direito, o mínimo flerte com decisões despóticas não é tolerado, e a liberdade do cidadão só pode ser restringida após a superação do princípio da presunção de inocência, medida que se dá por meio de procedimento realizado sob o crivo do devido processo legal.
+  > 5. Art. 155 do CPP. Prova produzida extrajudicialmente. Elemento cognitivo formado sem o devido processo legal, princípio garantidor das liberdades públicas e limitador do arbítrio estatal.
+  > 6. Na hipótese, optar pela pronúncia implica considerar suficiente a existência de prova inquisitorial para submeter o réu ao Tribunal do Júri sem que se precisasse, em última análise, de nenhum elemento de prova a ser produzido judicialmente. Ou seja, significa inverter a ordem de relevância das fases da persecução penal, conferindo maior juridicidade a um procedimento administrativo realizado sem as garantias do devido processo legal em detrimento do processo penal, o qual é regido por princípios democráticos e por garantias fundamentais.
+  > 7. Opção legislativa. Procedimento escalonado. Diante da possibilidade da perda de um dos bens mais caros ao cidadão ― a liberdade ― , o Código de Processo Penal submeteu o início dos trabalhos do Tribunal do Júri a uma cognição judicial antecedente. Perfunctória, é verdade, mas munida de estrutura mínima a proteger o cidadão do arbítrio e do uso do aparelho repressor do Estado para satisfação da sanha popular por vingança cega, desproporcional e injusta.
+  > 8. O standard probatório relativo à pronúncia é mais alto que o de uma decisão qualquer (exceto condenação de meritis). A cognição, nela, é ― transpondo para o processo penal as lições de Kazuo Watanabe (Cognição no Processo Civil, São Paulo: Saraiva, 2012) para o processo civil ― muito mais profunda. Por isso, a pronúncia, exigindo um padrão de prova mais elevado, dado que requer cognição mais aprofundada, não pode se contentar unicamente com elementos probatórios que não foram submetidos ao contraditório.
+  > 9. Impossibilidade de se admitir a pronúncia de acusado com base em indícios derivados do inquérito policial. Precedentes.
+  > 10. Habeas corpus não conhecido. Ordem concedida de ofício para cassar o acórdão atacado e despronunciar os pacientes.
+  > (HC n. 560.552/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/2/2021, DJe de 26/2/2021.)
 
-## 426. REsp nº 1574681 / RS (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/05/2017.
+## 424. HC nº 611918 / SP (STJ)
+- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Nem todo crime permanente autoriza o ingresso sem mandado: são necessárias fundadas razões extraídas do contexto anterior à entrada. O réu estava em suposto ponto de venda e correu para casa ao ver a polícia: isso é suspeita vaga, que permitiria abordagem na rua, mas não a entrada na casa. O consentimento do morador deve ser comprovado. Provas nulas (frutos da árvore envenenada); mantida a absolvição.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1574681.pdf
+- Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-611918.pdf
 - Ementa oficial:
-  > RECURSO ESPECIAL. TRÁFICO DE DROGAS. FLAGRANTE. DOMICÍLIO COMO EXPRESSÃO DO DIREITO À INTIMIDADE. ASILO INVIOLÁVEL. EXCEÇÕES CONSTITUCIONAIS. INTERPRETAÇÃO RESTRITIVA. INVASÃO DE DOMICÍLIO PELA POLÍCIA. NECESSIDADE DE JUSTA CAUSA. NULIDADE DAS PROVAS OBTIDAS. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. ABSOLVIÇÃO DO AGENTE. RECURSO NÃO PROVIDO.
-  > 1. O art. 5º, XI, da Constituição Federal consagrou o direito fundamental relativo à inviolabilidade domiciliar, ao dispor que "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial".
-  > 2. A inviolabilidade de sua morada é uma das expressões do direito à intimidade do indivíduo, o qual, na companhia de seu grupo familiar espera ter o seu espaço de intimidade preservado contra devassas indiscriminadas e arbitrárias, perpetradas sem os cuidados e os limites que a excepcionalidade da ressalva a tal franquia constitucional exigem.
-  > 3. O ingresso regular de domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio.
-  > 4. O Supremo Tribunal Federal definiu, em repercussão geral, que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo – a qualquer hora do dia, inclusive durante o período noturno – quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes) DJe 8/10/2010).
-  > 5. O direito à inviolabilidade de domicílio, dada a sua magnitude e seu relevo, é salvaguardado em diversos catálogos constitucionais de direitos e garantias fundamentais, a exemplo da Convenção Americana de Direitos Humanos, cujo art. 11.2, destinado, explicitamente, à proteção da honra e da dignidade, assim dispõe: “Ninguém pode ser objeto de ingerências arbitrárias ou abusivas em sua vida privada, em sua família, em seu domicílio ou em sua correspondência, nem de ofensas ilegais à sua honra ou reputação.”
-  > 6. A complexa e sofrida realidade social brasileira sujeita as forças policiais a situações de risco e à necessidade de tomada urgente de decisões no desempenho de suas relevantes funções, o que há de ser considerado quando, no conforto de seus gabinetes, realizamos os juízes o controle posterior das ações policiais. Mas, não se há de desconsiderar, por outra ótica, que ocasionalmente a ação policial submete pessoas a situações abusivas e arbitrárias, especialmente as que habitam comunidades socialmente vulneráveis e de baixa renda.
-  > 7. Se, por um lado, a dinâmica e a sofisticação do crime organizado exigem uma postura mais enérgica por parte do Estado, por outro, a coletividade, sobretudo a integrada por segmentos das camadas sociais mais precárias economicamente, também precisa sentir-se segura e ver preservados seus mínimos direitos e garantias constitucionais, em especial o de não ter a residência invadida, a qualquer hora do dia, por policiais, sem as cautelas devidas e sob a única justificativa, não amparada em elementos concretos de convicção, de que o local supostamente seria um ponto de tráfico de drogas, ou que o suspeito do tráfico ali se homiziou.
-  > 8. A ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar írrito o direito à intimidade e à inviolabilidade domiciliar.
-  > 9. Tal compreensão não se traduz, obviamente, em transformar o domicílio em salvaguarda de criminosos, tampouco um espaço de criminalidade. Há de se convir, no entanto, que só justifica o ingresso no domicílio alheio a situação fática emergencial consubstanciadora de flagrante delito, incompatível com o aguardo do momento adequado para, mediante mandado judicial, legitimar a entrada na residência ou local de abrigo.
-  > 10. Se é verdade que o art. 5º, XI, da Constituição Federal, num primeiro momento, parece exigir a emergência da situação para autorizar o ingresso em domicílio alheio sem prévia autorização judicial – ao elencar hipóteses excepcionais como o flagrante delito, casos de desastre ou prestação de socorro –, também é certo que nem todo crime permanente denota essa emergência.
-  > 11. Na hipótese sob exame, o acusado estava em local supostamente conhecido como ponto de venda de drogas, quando, ao avistar a guarnição de policiais, refugiou-se dentro de sua casa, sendo certo que, após revista em seu domicílio, foram encontradas substâncias entorpecentes (18 pedras de crack). Havia, consoante se demonstrou, suspeitas vagas sobre eventual tráfico de drogas perpetrado pelo réu, em razão, única e exclusivamente, do local em que ele estava no momento em que policiais militares realizavam patrulhamento de rotina e em virtude de seu comportamento de correr para sua residência, conduta que pode explicar-se por diversos motivos, não necessariamente o de que o suspeito cometia, no momento, ação caracterizadora de mercancia ilícita de drogas.
-  > 12. A mera intuição acerca de eventual traficância praticada pelo recorrido, embora pudesse autorizar abordagem policial, em via pública, para averiguação, não configura, por si só, justa causa a autorizar o ingresso em seu domicílio, sem o consentimento do morador – que deve ser mínima e seguramente comprovado – e sem determinação judicial.
-  > 13. Ante a ausência de normatização que oriente e regule o ingresso em domicílio alheio, nas hipóteses excepcionais previstas no Texto Maior, há de se aceitar com muita reserva a usual afirmação – como ocorreu na espécie – de que o morador anuiu livremente ao ingresso dos policiais para a busca domiciliar, máxime quando a diligência não é acompanhada de qualquer preocupação em documentar e tornar imune a dúvidas a voluntariedade do consentimento.
-  > 14. Em que pese eventual boa-fé dos policiais militares, não havia elementos objetivos, seguros e racionais, que justificassem a invasão de domicílio. Assim, como decorrência da Doutrina dos Frutos da Árvore Envenenada (ou venenosa, visto que decorre da fruits of the poisonous tree doctrine, de origem norte-americana), consagrada no art. 5º, LVI, da nossa Constituição da República, é nula a prova derivada de conduta ilícita – no caso, a apreensão, após invasão desautorizada do domicílio do recorrido, de 18 pedras de crack –, pois evidente o nexo causal entre uma e outra conduta, ou seja, entre a invasão de domicílio (permeada de ilicitude) e a apreensão de drogas.
-  > 15. Recurso especial não provido, para manter a absolvição do recorrido.
-  > (REsp n. 1.574.681/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/4/2017, DJe de 30/5/2017.)
+  > HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE. ILICITUDE DAS PROVAS. INVASÃO DE DOMICÍLIO. ATUAÇÃO COM BASE EM DENÚNCIA ANÔNIMA. IMPOSSIBILIDADE. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. OCORRÊNCIA. ORDEM CONCEDIDA.
+  > 1. Esta Corte Superior entende serem exigíveis fundamentos razoáveis da existência de crime permanente para justificarem o ingresso desautorizado na residência do agente. Desse modo, a mera denúncia anônima, desacompanhada de outros elementos preliminares indicativos de crime, não legitima o ingresso de policiais no domicílio, sem autorização judicial.
+  > 2. A abordagem em face do réu, em local conhecido como ponto de tráfico, sendo encontrado com ele drogas, não autoriza o ingresso na residência, por não demonstrar os fundamentos razoáveis da existência de crime permanente dentro do domicílio.
+  > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
+  > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
 
-## 427. APn nº 746 / MT (STJ)
-- Decisão colegiada. Relator: Min. Humberto Martins; redatora do acórdão: Min.ª Maria Thereza de Assis Moura. Corte Especial. Publicado em 15/02/2017.
-- Crime / Tema: Peculato · Colaboração premiada · Justa causa · Prescrição
-- Resumo: A delação é meio de obtenção de prova e só sustenta o recebimento da denúncia se corroborada. Denúncia de peculato rejeitada por falta de justa causa; fatos de 1999 prescritos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apn-746.pdf
+## 425. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+- Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
+- Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
+- Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0702-16-075074.pdf
 - Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. RECEBIMENTO DE DENÚNCIA. CONSELHEIRO DE TRIBUNAL DE CONTAS. PECULATO. PRESCRIÇÃO. JUSTA CAUSA. INDÍCIOS DE AUTORIA E PROVA DE MATERIALIDADE. DENÚNCIA. EXIGÊNCIAS DO ART. 41 DO CPP. PEÇA REJEITADA.
-  > 1. A pretensão punitiva para o crime de peculato prescreve em 16 anos, razão pela qual, inexistindo causas interruptivas da prescrição, está extinta a punibilidade das condutas eventualmente praticadas em 1999.
-  > 2. A legalidade estrita é regra fundante do estado de direito e constitui o mais importante freio à atuação do poder público em matéria penal, motivo pelo qual, não havendo previsão legal com relação aos dirigentes de autarquias, é inaplicável ao caso a majorante do § 2º do art. 327.
-  > 3. O crime de peculato, na modalidade desvio, consuma-se quando à coisa é dada destinação ou emprego diverso daquele para o qual ela foi entregue ao agente, independentemente da concreta obtenção do proveito. Afirmando a denúncia que os valores foram desviados para pagar dívidas da campanha com empresa de fomento mercantil, o momento consumativo do crime teria ocorrido quando os valores que deveriam ter sido pagos às empresas supostamente prestadoras de serviço foram depositados nas contas da factoring.
-  > 4. Na hipótese dos autos, os indícios de materialidade estão consubstanciados pelo Laudo de Exame Contábil, indicando a existência de indícios de desvio de verbas, consubstanciada na "triangulação entre as empresas vencedoras das licitações, a CONFIANÇA FACTORING e os órgãos públicos para desvio das verbas"; pelos documentos fornecidos pelo Banco Central em cumprimento a decisão judicial, que demonstram o depósito de valores do órgão público nas contas da Confiança Factoring num montante que atinge a quantia de R$ 1.723.600,00, e pela análise da atuação das empresas vencedoras das licitações analisadas, que em sua maioria (correspondendo a 16 do total das 25 licitações) haviam sido constituídas poucos meses antes do certame e, após o recebimento dos valores, permaneceram em inatividade até o cancelamento de seu registro na Junta Comercial.
-  > 5. No entanto, os indícios de autoria em relação ao acusado são frágeis porque não há prova evidente de que tenha ele se beneficiado do desvio, existindo apenas uma testemunha que afirmou tê-lo visto conversando com a pessoa que veio prestar delação, o que, por si só, não pode alicerçar o recebimento da denúncia.
-  > 6. Por sinal, as informações prestadas pelo réu colaborador não constituem prova no sentido pleno, mas instrumento de obtenção de prova, podendo ser valoradas como indícios para o recebimento da denúncia quando sua narrativa for corroborada por outros elementos, o que não ocorre na hipótese dos autos.
-  > 7. De mais a mais, o recebimento da denúncia pressupõe que a ação penal tenha alguma viabilidade condenatória, a qual, à luz dos elementos frágeis da prova examinada, não parece existir no caso.
-  > 8. Denúncia rejeitada por ausência de justa causa.
-  > (APn n. 746/MT, relator Ministro Humberto Martins, relatora para acórdão Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 19/12/2016, DJe de 15/2/2017.)
+  > APELAÇÕES CRIMINAIS - COAÇÃO NO CURSO DO PROCESSO E OBSTRUÇÃO DE JUSTIÇA - ABSOLVIÇÃO EM FACE DE AMBOS OS DELITOS - NECESSIDADE - AUTORIA NÃO DEMONSTRADA - PRINCÍPIO DO "IN DUBIO PRO REO" - CONDENAÇÃO FUNDADA APENAS EM COLABORAÇÕES PREMIADAS - DESCABIMENTO - AUSÊNCIA DE ELEMENTOS DE CORROBORAÇÃO ESPECÍFICOS - INTELIGÊNCIA DO ART. 4º, § 16, INC. III, DA LEI Nº 12.850/2013 - RECURSO MINISTERIAL - RECRUDESCIMENTO DA PENA E DO REGIME PRISIONAL - INVIABILIDADE - MATÉRIAS PREJUDICADAS - ABSOLVIÇÃO DO ACUSADO. APELAÇÃO DEFENSIVA PROVIDA E RECURSO MINISTERIAL DESPROVIDO.
+  > 01. Ausentes provas seguras de que o acusado, dolosamente, praticou ou concorreu finalisticamente para a prática dos elementos típicos dos arts. 344 do Código Penal e 2º, § 1º, da Lei nº 12.850/2013, necessária se afigura sua absolvição, mormente em face do princípio do "in dubio pro reo".
+  > 02. Nos termos do art. 4º, § 16, inc. III, da Lei nº 12.850/2013, mostra-se inadmissível a prolação de sentença condenatória fundada apenas nas declarações de colaboradores premiados.
+  > 03. Colaborações premiadas não consubstanciam provas, senão meros meios de obtenção de prova, devendo ser especificamente corroboradas por outros elementos que evidenciem, extreme de dúvidas, os fatos descritos na denúncia.
+  > 04. Não se prestam à corroboração de delações premiadas elementos genéricos, dissociados dos relatos contidos na denúncia ou incapazes de comprovar a específica realização dolosa das condutas imputadas a cada um dos acusados.
+  > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
+  > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
 
-## 428. ApCrim nº 1.0313.13.008010-1/002 (TJMG)
-- Decisão colegiada. Relator: Des. Nelson Missias de Morais. 2ª Câmara Criminal. Publicado em 17/10/2016.
-- Crime / Tema: Homicídio qualificado · Testemunho indireto · Tribunal do Júri
-- Resumo: Condenação do Júri sustentada só em boatos e ouvir dizer de uma única fonte de credibilidade duvidosa, com álibi não desconstituído, é manifestamente contrária à prova dos autos. Julgamento anulado, com novo Júri.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0313-13-008010.pdf
+## 426. RESE nº 1.0024.12.210216-3/001 (TJMG)
+- Decisão colegiada. Relator: Des. Nelson Missias de Morais. 2ª Câmara Criminal. Publicado em 28/08/2020.
+- Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
+- Resumo: Pronúncia sustentada só em boatos e testemunho indireto não se mantém: 1º recorrente impronunciado. Para os outros dois, pronúncia mantida com indícios do inquérito, sem ofensa ao art. 155 do CPP, decotado o motivo fútil.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rese-1-0024-12-210216.pdf
 - Ementa oficial:
-  > APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. ANULAÇÃO DO JULGAMENTO. DECISÃO DO CONSELHO DE SENTENÇA MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. PROVA TESTEMUNHAL CONSISTENTE EM BOATOS E DEPOIMENTOS DE "OUVIR DIZER". CASSAÇÃO DO VEREDICTO. NECESSIDADE. SUBMISSÃO DO ACUSADO A NOVO JULGAMENTO.
-  > 1. Conquanto os testemunhos "de ouvir dizer" não sejam proibidos como prova no processo criminal brasileiro, tais depoimentos devem ser avaliados com cautela pelo magistrado, tendo em vista a sabida facilidade de alteração da versão dos fatos quando estes são repassados de pessoa a pessoa. Não é desejável, para a elucidação dos fatos, que a testemunha apenas repita em juízo a vox publica, sem sequer apontar seus informantes.
-  > 2. O acervo probatório inteiramente constituído através da palavra de uma testemunha cujas palavras têm duvidosa credibilidade não é apto a sustentar minimamente a tese acusatória, sendo imperioso reconhecer o divórcio entre as provas dos autos e a decisão do Conselho de Sentença, o que autoriza a anulação do julgamento com a consequente submissão do acusado a novo Júri.
-  > (TJMG, Apelação Criminal n. 1.0313.13.008010-1/002, relator Desembargador Nelson Missias de Morais, 2ª Câmara Criminal, julgado em 6/10/2016, publicado em 17/10/2016.)
+  > RECURSOS EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. AUSÊNCIA DE INDÍCIOS MÍNIMOS ACERCA DA AUTORIA CRIMINOSA IMPUTADA AO PRIMEIRO RECORRENTE. PRONÚNCIA SUSTENTADA EXCLUSIVAMENTE EM BOATOS E TESTEMUNHAS DE OUVIR DIZER. MERAS ILAÇÕES. IMPRONÚNCIA. SEGUNDO RECURSO. MATERIALIDADE COMPROVADA. ELEMENTOS INDICIÁRIOS COLHIDOS EM FASE DE INQUÉRITO SUFICIENTES À MANUTENÇÃO DA DECISÃO. MERA ADMISSIBILIDADE DA ACUSAÇÃO QUE NÃO ENCERRA JUÍZO DE CONDENAÇÃO. QUALIFICADORA DO MOTIVO FÚTIL. INCOMPROVAÇÃO DO MÓVEL DA AÇÃO. DECOTE. RECURSO QUE DIFICULTOU A DEFESA DO OFENDIDO. DINÂMICA DO EVENTO A SUGERIR SUA OCORRÊNCIA. PRIMEIRO RECURSO PROVIDO E SEGUNDO RECURSO PROVIDO EM PARTE.
+  > - Nos procedimentos do Tribunal do Júri, conquanto se reserve aos jurados a apreciação dos elementos probatórios, é inadmissível manter-se uma decisão de pronúncia sustentada, exclusivamente, em testemunho indireto, ou seja, aquele "por ouvir dizer".
+  > - Simples probabilidades ou conjecturas não se mostram suficientes para uma decisão de pronúncia, sendo exigidos que os indícios estejam lastreados em um mínimo e idôneo suporte probatório.
+  > - Se os elementos produzidos em sede de inquérito e as declarações derivadas dos depoimentos das vítimas e testemunhas sob o crivo do contraditório não se mostram minimamente razoáveis, uma vez que vagos e imprecisos, impõe-se o decreto de impronúncia.
+  > - Presentes elementos indiciários relativamente aos outros acusados, decorrentes de depoimentos de testemunhas, secundados por outros documentos constantes dos autos, tudo a sugerir a autoria da execução, cabível a manutenção da submissão a julgamento popular sem que tal proceder possa ser interpretado como ofensa ao art. 155 do CPP.
+  > - Na primeira fase dos processos de competência do Tribunal do Júri o decote de qualquer qualificadora apenas é possível quando manifestamente improcedente, descabida ou sem qualquer apoio nos elementos indiciários contidos nos autos. Assim, ausente prova quanto ao móvel da ação, de rigor o decote da qualificadora do motivo fútil.
+  > - Havendo indícios que sugerem a ação perpetrada tenha sido executada mediante recurso que dificultou a defesa da vítima, o julgamento do recorrente pelos juízes naturais da causa quanto a referidas circunstâncias é medida de rigor.
+  > - Primeiro recurso provido e segundo recurso provido em parte.
+  > (TJMG, Recurso em Sentido Estrito n. 1.0024.12.210216-3/001, relator Desembargador Nelson Missias de Morais, 2ª Câmara Criminal, julgado em 20/8/2020, publicado em 28/8/2020.)
 
-## 429. EDcl na ApCrim nº 1.0134.09.129196-0/002 (TJMG)
-- Decisão colegiada. Relator: Des. Doorgal Borges de Andrada. 4ª Câmara Criminal. Publicado em 23/08/2016.
-- Crime / Tema: Tráfico de drogas · Associação para o tráfico · Acesso da defesa às provas
-- Resumo: O acórdão foi omisso sobre os documentos juntados pela acusação nas contrarrazões sem vista à defesa. Embargos acolhidos para decretar a nulidade por cerceamento de defesa.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-edcl-1-0134-09-129196.pdf
+## 427. REsp nº 1871856 / SE (STJ)
+- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1871856.pdf
 - Ementa oficial:
-  > EMBARGOS DECLARATÓRIOS. OMISSÃO NO ACÓRDÃO. CERCEAMENTO DE DEFESA. OCORRÊNCIA. DOCUMENTOS JUNTADOS EM CONTRARRAZÕES, SEM VISTA À DEFESA. VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. NULIDADE DECRETADA. EMBARGOS ACOLHIDOS.
-  > - A juntada de documentos pela acusação, nas contrarrazões, sem vista à defesa sobre tais documentos, ocasiona cerceamento de defesa, ensejando a nulidade absoluta do feito, por violação aos princípios constitucionais do contraditório e da ampla defesa.
-  > - Embargos acolhidos para decretar a nulidade.
-  > (TJMG, Embargos de Declaração Criminal n. 1.0134.09.129196-0/002, relator Desembargador Doorgal Borges de Andrada, 4ª Câmara Criminal, julgado em 17/8/2016, publicado em 23/8/2016.)
+  > RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR DESPROVIDA DE MANDADO JUDICIAL. ESTADO DE FLAGRÂNCIA. INEXISTÊNCIA DE INDÍCIOS DA PRÁTICA DELITIVA. DENÚNCIA ANÔNIMA. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. NULIDADE DA PROVA OBTIDA E DAQUELAS DELA DERIVADAS. ABSOLVIÇÃO DO AGENTE. RECURSO PROVIDO.
+  > 1. Nos crimes permanentes, tal como o tráfico de drogas, o estado de flagrância protrai-se no tempo, o que, todavia, não é suficiente, por si só, para justificar busca domiciliar desprovida de mandado judicial, exigindo-se a demonstração de indícios mínimos de que, naquele momento, dentro da residência, ocorra situação de flagrante delito.
+  > 2. A denúncia anônima, desacompanhada de outros elementos indicativos da ocorrência de crime, não legitima o ingresso de policiais no domicílio indicado, inexistindo, nessas situações, justa causa para a medida.
+  > 3. A prova obtida com violação à norma constitucional é imprestável a legitimar os atos dela derivados.
+  > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
+  > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
 
-## 430. RE nº 603.616 / RO (STF)
-- Decisão colegiada (repercussão geral). Relator: Min. Gilmar Mendes. Plenário. Publicado em 10/05/2016.
-- **Resultado desfavorável à defesa:** Recurso desprovido (vale pela tese)
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Repercussão geral
-- Resumo: Tema 280/STF — A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo à noite, quando amparada em fundadas razões, justificadas a posteriori, de que há flagrante delito dentro da casa, sob pena de responsabilidade do agente e de nulidade dos atos praticados. A flagrância constatada só depois do ingresso não o justifica. No caso, havia fundadas razões.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-603616.pdf
+## 428. AgRg no HC nº 157.627 / PR (STF)
+- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
+- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
+- Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-157627.pdf
 - Ementa oficial:
-  > Recurso extraordinário representativo da controvérsia. Repercussão geral.
-  > 2. Inviolabilidade de domicílio – art. 5º, XI, da CF. Busca e apreensão domiciliar sem mandado judicial em caso de crime permanente. Possibilidade. A Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo.
-  > 3. Período noturno. A cláusula que limita o ingresso ao período do dia é aplicável apenas aos casos em que a busca é determinada por ordem judicial. Nos demais casos – flagrante delito, desastre ou para prestar socorro – a Constituição não faz exigência quanto ao período do dia.
-  > 4. Controle judicial a posteriori. Necessidade de preservação da inviolabilidade domiciliar. Interpretação da Constituição. Proteção contra ingerências arbitrárias no domicílio. Muito embora o flagrante delito legitime o ingresso forçado em casa sem determinação judicial, a medida deve ser controlada judicialmente. A inexistência de controle judicial, ainda que posterior à execução da medida, esvaziaria o núcleo fundamental da garantia contra a inviolabilidade da casa (art. 5, XI, da CF) e deixaria de proteger contra ingerências arbitrárias no domicílio (Pacto de São José da Costa Rica, artigo 11, 2, e Pacto Internacional sobre Direitos Civis e Políticos, artigo 17, 1). O controle judicial a posteriori decorre tanto da interpretação da Constituição, quanto da aplicação da proteção consagrada em tratados internacionais sobre direitos humanos incorporados ao ordenamento jurídico. Normas internacionais de caráter judicial que se incorporam à cláusula do devido processo legal.
-  > 5. Justa causa. A entrada forçada em domicílio, sem uma justificativa prévia conforme o direito, é arbitrária. Não será a constatação de situação de flagrância, posterior ao ingresso, que justificará a medida. Os agentes estatais devem demonstrar que havia elementos mínimos a caracterizar fundadas razões (justa causa) para a medida.
-  > 6. Fixada a interpretação de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados.
-  > 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso.
-  > (STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 5/11/2015, DJe de 10/5/2016.)
+  > AGRAVO REGIMENTAL EM HABEAS CORPUS. CONHECIMENTO. POSSIBILIDADE. APRESENTAÇÃO DE MEMORIAIS ESCRITOS POR RÉUS COLABORADORES E DELATADOS. PRAZO COMUM. INADMISSIBILIDADE. OFENSA ÀS REGRAS DO CONTRADITÓRIO E DA AMPLA DEFESA. NULIDADE. EXISTÊNCIA DE PREJUÍZO. EXEGESE IMEDIATA DOS DIREITOS FUNDAMENTAIS INDEPENDENTEMENTE DA NORMA INFRACONSTITUCIONAL. INTELIGÊNCIA DOS ARTS. 5º, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA DE 1988, E 603, DO CPP. ORDEM CONCEDIDA.
+  > I – Possibilidade de impetração de habeas corpus nos casos em que, configurada flagrante ilegalidade do provimento jurisdicional, descortina-se premente o risco atual ou iminente à liberdade de locomoção, apta, pois, a gerar constrangimento ilegal. Precedentes desta Suprema Corte (HC 87.926/SP, Rel. Min. Cezar Peluso; HC 136.331, Rel. Min. Ricardo Lewandowski).
+  > II - Decisão de primeiro grau de jurisdição que indefere pedido para apresentação de memoriais escritos após o prazo dos réus colaboradores. Prejuízo demonstrado.
+  > III – Memoriais escritos de réus colaboradores, com nítida carga acusatória, deverão preceder aos dos réus delatados, sob pena de nulidade do julgamento. Exegese imediata dos preceitos fundamentais do contraditório e da ampla defesa (art. 5º, LV, da CF/88) que prescindem da previsão expressa de regras infraconstitucionais.
+  > IV – Agravo regimental provido, para conhecer e conceder a ordem.
+  > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
+
+## 429. AgRg no REsp nº 1838513 / RS (STJ)
+- Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 21/11/2019.
+- Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
+- Resumo: Pronúncia não pode se basear exclusivamente em boatos e testemunho de ouvir dizer sem indicação da fonte. Agravo do MPF desprovido; despronúncia mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-1838513.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA FUNDAMENTADA EXCLUSIVAMENTE EM BOATOS E EM TESTEMUNHA DE "OUVIR DIZER". AGRAVO DESPROVIDO.
+  > 1. "Muito embora a análise aprofundada dos elementos probatórios seja feita somente pelo Tribunal Popular, não se pode admitir, em um Estado Democrático de Direito, a pronúncia baseada, exclusivamente, em testemunho indireto (por ouvir dizer) como prova idônea, de per si, para submeter alguém a julgamento pelo Tribunal Popular." (REsp n. 1674198/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 5/12/2017, DJe 12/12/2017, grifei).
+  > 2. Agravo regimental desprovido.
+  > (AgRg no REsp n. 1.838.513/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/11/2019, DJe de 21/11/2019.)
+
+## 430. ApCrim nº 1.0024.17.131538-5/001 (TJMG)
+- Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 07/10/2019.
+- **Verificar antes de citar:** Esta decisão consta do acervo somente pela tese: policiais que apenas repetem o relato extrajudicial da vítima, não confirmado em juízo, não provam a grave ameaça do roubo. O acórdão é inconsistente quanto à extinção da punibilidade: o voto fala em cumprimento da pena e o dispositivo, em prescrição. Não a cite por esse ponto e confira o inteiro teor antes de usar.
+- Crime / Tema: Roubo · Furto · Testemunho indireto · Dosimetria
+- Resumo: Policiais que só repetem o relato da vítima na fase policial, não confirmado em juízo, não provam a grave ameaça: roubo desclassificado para furto. Pena reduzida; regime fechado mantido pela reincidência.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-1-0024-17-131538.pdf
+- Ementa oficial:
+  > APELAÇÃO CRIMINAL - ROUBO - DESCLASSIFICAÇÃO PARA O DELITO DE FURTO - NECESSIDADE - GRAVE AMEAÇA E VIOLÊNCIA NÃO COMPROVAS EM JUÍZO - TESTEMUNHAS DE OUVIR DIZER - REDUÇÃO DA PENA - VIABILIDADE - REPRIMENDA FIXADA DE FORMA DESPROPORCIONAL - ALTERAÇÃO DO REGIME - INADMISSIBILIDADE - NECESSIDADE DE FIXAÇÃO DO REGIME FECHADO - APELANTE REINCIDENTE - ISENÇÃO DAS CUSTAS - PEDIDO PREJUDICADO - RECURSO PARCIALMENTE PROVIDO.
+  > 1. Necessária é a desclassificação da conduta para as sanções do artigo 155 do Código Penal eis que a grave ameaça ou a violência não foram comprovadas em juízo, havendo apenas testemunhas de ouvir dizer.
+  > 2. Reduz-se a pena corporal e de multa porquanto fixadas de forma desproporcional com as balizas judiciais do artigo 59 do Código Penal.
+  > 3. Mantém-se o regime fechado diante da pena e da reincidência do apelante.
+  > 4. Prejudicado se encontra o pedido de isenção das custas já que deferido pelo magistrado primevo.
+  > 05. Recurso parcialmente provido.
+  > (TJMG, Apelação Criminal n. 1.0024.17.131538-5/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/10/2019, publicado em 7/10/2019.)

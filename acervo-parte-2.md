@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 2 de 44 (decisões 11 a 20)
+# Acervo de Jurisprudência — Cury Advogados — parte 2 de 45 (decisões 11 a 20)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 436 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 448 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,87 +8,186 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 11. HC nº 278.724 / DF (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 13/11/2026.
-- Crime / Tema: Prisão e medidas cautelares · Excesso de prazo
-- Resumo: Quase 2 anos de monitoramento eletrônico sem denúncia e sem demonstração concreta e atual de sua imprescindibilidade tornam a medida desproporcional: revogado o monitoramento, mantidas as demais cautelares, sem extensão automática a outros investigados. Ordem concedida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278724.pdf
+## 11. RHC nº 279.704 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 16/11/2026.
+- Crime / Tema: Organização criminosa · Associação para o tráfico · Cabimento do HC
+- Resumo: HC de próprio punho do preso, levado à DPU pelo acordo de cooperação com o STJ, deve ter o mérito examinado pelo STJ, ainda que funcione como substitutivo de revisão criminal, para não esvaziar o acordo. RHC parcialmente provido; o STF não examinou o mérito e a condenação segue.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-279704.pdf
 
-## 12. RE nº 1.631.265 / RS (STF)
-- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
-- Crime / Tema: Roubo · Execução penal
-- Resumo: A hediondez superveniente ao fato não impede o indulto: o TRF4 deve reanalisar o pedido de indulto da multa sem esse óbice. Recurso provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1631265.pdf
+## 12. HC nº 278.867 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 16/11/2026.
+- Crime / Tema: Receptação · Dosimetria
+- Resumo: Reincidência e maus antecedentes, sem explicar por que exigem regime mais rigoroso, não sustentam o fechado para pena de 1 ano, 4 meses e 24 dias (Súmula 719/STF). Restabelecida a sentença (regime aberto) por HC de ofício, superada a supressão de instância.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278867.pdf
 
-## 13. ARE nº 1.628.737 / SP (STF)
-- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
-- Resumo: Agravo do MP em RE negado por falta de prequestionamento (Súmulas 282 e 356/STF); mantido o acórdão do STJ que restabeleceu a absolvição pelo júri.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628737.pdf
+## 13. AREsp nº 3214098 / MG (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Uso de documento falso · Prescrição
+- Resumo: Prescrição retroativa pela pena concreta (2 anos) consumada entre a sentença e o acórdão condenatório, depois do trânsito para a acusação; a tese, deduzida na apelação e enfrentada na origem, está prequestionada. Punibilidade extinta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3214098.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. TERMO DE ARROLAMENTO DE CINCO FAZENDAS INEXISTENTES APRESENTADO EM EXECUÇÃO FISCAL DE DÉBITO SUPERIOR A R$ 14 MILHÕES. REPRIMENDA REDUZIDA A 2 (DOIS) ANOS DE RECLUSÃO NOS EMBARGOS DE DECLARAÇÃO. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA PELA PENA EM CONCRETO. TESE DEDUZIDA NA APELAÇÃO E ENFRENTADA PELO TRIBUNAL DE ORIGEM. PRAZO QUADRIENAL SUPERADO ENTRE A PUBLICAÇÃO DA SENTENÇA E O ACÓRDÃO CONDENATÓRIO. EXTINÇÃO DA PUNIBILIDADE. PROVIMENTO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pela defesa contra decisão que inadmitiu o recurso especial por ausência de prequestionamento da tese de prescrição e pela Súmula n. 7/STJ.
+  > 2. O réu foi condenado por uso de documento falso. Em 17/8/2009, termo de arrolamento de bens com cinco fazendas inexistentes no Município de São Desidério/BA foi apresentado como garantia em execução fiscal de débito superior a R$ 14.000.000,00. A sentença fixou a pena em 1 (um) ano e 6 (seis) meses de reclusão. O Tribunal de origem elevou-a no julgamento da apelação do Ministério Público. Nos embargos de declaração da defesa, a pena foi redimensionada para 2 (dois) anos de reclusão, em regime aberto, com substituição por penas restritivas de direitos.
+  > II. Questão em discussão
+  > 3. A questão em discussão consiste em saber se a pretensão punitiva está prescrita pela pena em concreto de 2 (dois) anos de reclusão.
+  > III. Razões de decidir
+  > 4. O agravo impugnou de forma específica os dois fundamentos da decisão de inadmissão.
+  > 5. A prescrição é matéria de ordem pública e deve ser examinada antes das demais questões. A tese foi deduzida na apelação e enfrentada pelo Tribunal de origem. A redução da pena nos embargos de declaração não alterou a questão federal debatida.
+  > 6. Fixada a pena em 2 (dois) anos de reclusão sem impugnação da acusação, o prazo prescricional é de 4 anos (arts. 109, V, e 110, § 1º, do CP). Entre a publicação da sentença, em 16/12/2019, e o acórdão condenatório, em 16/9/2025, transcorreram mais de 4 anos sem causa interruptiva.
+  > 7. Extinta a punibilidade, fica prejudicado o exame das teses de atipicidade e de absolvição.
+  > IV. Dispositivo
+  > 8. Agravo conhecido para dar provimento ao recurso especial. Punibilidade extinta pela prescrição retroativa.
+  > (AREsp n. 3.214.098/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 14. ARE nº 1.630.299 / PR (STF)
-- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
-- Crime / Tema: Peculato
-- Resumo: Agravo do MP em RE negado por falta de prequestionamento (Súmula 282/STF); mantido o acórdão do TJPR que cassou a sentença por se basear em interceptação e quebra de sigilo declaradas ilícitas em HC de corréu, com nova sentença sem essa prova.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630299.pdf
+## 14. AREsp nº 3355942 / RS (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Peculato · Execução penal · Competência
+- Resumo: A pena em regime semiaberto imposta pela Justiça Federal é executada pela Justiça Estadual, a quem cabe aferir vagas e aplicar a SV 56. Recurso provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3355942.pdf
+- Ementa oficial:
+  > EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. PECULATO. PENA IMPOSTA PELA JUSTIÇA FEDERAL EM REGIME SEMIABERTO. JUÍZO DA CONDENAÇÃO QUE RETEVE O PROCESSO EXECUTIVO E HARMONIZOU O CUMPRIMENTO COM MONITORAMENTO ELETRÔNICO ANTE A SUPERLOTAÇÃO DO SISTEMA PENITENCIÁRIO PARANAENSE. PREQUESTIONAMENTO CONFIGURADO. TESE DEBATIDA PELO ACÓRDÃO SOB O ENFOQUE DA DEFESA. QUESTÃO DE DIREITO SEM REEXAME DE PROVAS. COMPETÊNCIA ESTADUAL NOS TERMOS DA SÚMULA N. 192/STJ. AFERIÇÃO DE VAGAS E APLICAÇÃO DA SÚMULA VINCULANTE N. 56/STF RESERVADAS AO JUIZ ESTADUAL. MULTA QUE ACOMPANHA A PRIVAÇÃO DE LIBERDADE. PROVIMENTO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pelo réu contra decisão que inadmitiu o recurso especial por ausência de prequestionamento do art. 91 da Lei n. 7.210/1984. O agravante foi condenado pela Justiça Federal por peculato à pena de 5 (cinco) anos, 1 (um) mês e 15 (quinze) dias, no regime semiaberto, e 119 (cento e dezenove) dias-multa.
+  > 2. O juízo federal da execução reputou notória a pouca disponibilidade de vagas para o regime semiaberto no Paraná. Concedeu ao apenado o regime semiaberto harmonizado, com tornozeleira eletrônica, sob sua própria fiscalização. Recusou a declinação da competência para a Justiça Estadual. O Tribunal Regional Federal da 4ª Região manteve a decisão.
+  > II. Questão em discussão
+  > 3. Há duas questões em discussão: (i) saber se a tese do recurso especial foi prequestionada; e (ii) saber se compete ao juízo federal ou ao juízo estadual executar a pena privativa de liberdade em regime semiaberto, e a multa cumulativa, impostas pela Justiça Federal.
+  > III. Razões de decidir
+  > 4. O agravo enfrentou de modo específico o único fundamento da decisão de inadmissão. Demonstrou que o acórdão debateu a competência para executar a pena em regime semiaberto à luz da Súmula n. 192/STJ.
+  > 5. O prequestionamento implícito dispensa a menção expressa ao dispositivo legal quando o Tribunal de origem debate a matéria sob o enfoque do recurso especial. É o caso. A controvérsia é de direito e parte de premissas fáticas incontroversas.
+  > 6. A Terceira Seção firmou que a execução da pena imposta pela Justiça Federal a ser cumprida no regime semiaberto compete à Justiça Estadual, independentemente de o apenado estar preso. Somente o juízo estadual pode verificar a existência de vaga em estabelecimento adequado e aplicar a Súmula Vinculante n. 56/STF.
+  > 7. O juízo federal fez justamente a aferição reservada ao juízo estadual. Afirmou a ausência de vagas no sistema penitenciário do Estado e, com base nela, reteve a execução. Ato normativo da Corregedoria regional não altera a repartição de competência.
+  > 8. A Terceira Seção pacificou que a pena de multa deve ser executada perante o juízo estadual da execução penal quando a este couber a pena privativa de liberdade. A execução penal é una.
+  > IV. Dispositivo
+  > 9. Agravo conhecido para dar provimento ao recurso especial.
+  > (AREsp n. 3.355.942/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 15. ARE nº 1.630.300 / RS (STF)
-- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
+## 15. AREsp nº 3425934 / SC (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Lesão corporal grave · Dosimetria
+- Resumo: Erro material na pena-base da lesão corporal grave (mínimo do art. 129, § 1º, do CP tomado como 2 anos, quando é 1) corrigido de ofício: pena de cada réu reduzida de 2 anos para 1 ano. Condenação mantida (Súmula 7/STJ).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3425934.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVOS EM RECURSO ESPECIAL. LESÃO CORPORAL GRAVE. VÍTIMA AGREDIDA COM SOCOS E CHUTES POR DOIS RÉUS NA CASA DA NAMORADA DE UM DELES. FRATURAS NO BRAÇO E NA COSTELA COM INCAPACIDADE PARA AS OCUPAÇÕES HABITUAIS POR MAIS DE 30 DIAS. ABSOLVIÇÃO EM PRIMEIRO GRAU REFORMADA EM APELAÇÃO. PEDIDO DE RESTABELECIMENTO DA SENTENÇA. REEXAME DE PROVAS VEDADO PELA SÚMULA N. 7/STJ. ALEGADA VIOLAÇÃO DO ART. 155 DO CPP. CONDENAÇÃO APOIADA EM LAUDO PERICIAL E EM ELEMENTOS COLHIDOS SOB O CONTRADITÓRIO. DIVERGÊNCIA JURISPRUDENCIAL SEM COTEJO ANALÍTICO E COM PARADIGMA PROFERIDO EM HABEAS CORPUS. PENA-BASE CALCULADA SOBRE MÍNIMO DE 2 ANOS NÃO PREVISTO NO PRECEITO SECUNDÁRIO DO ART. 129, § 1º, DO CÓDIGO PENAL. ERRO MATERIAL EVIDENTE. DESPROVIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravos em recurso especial interpostos pelos réus RODRIGO e WILLIAN contra decisão que inadmitiu o recurso especial, interposto em petição conjunta, pela Súmula n. 7/STJ e à míngua de cotejo analítico. A sentença absolveu ambos da imputação de lesão corporal grave por insuficiência de provas. O Tribunal de origem deu provimento à apelação do Ministério Público e condenou cada um à pena de 2 (dois) anos de reclusão, em regime aberto, pelas agressões com socos e chutes que causaram à vítima fraturas no braço e na costela, com incapacidade para as ocupações habituais por mais de 30 (trinta) dias.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se (i) o pedido de restabelecimento da absolvição dispensa o reexame de provas; (ii) a condenação se apoiou exclusivamente em elementos do inquérito, em violação do art. 155 do CPP; e (iii) o dissídio jurisprudencial foi demonstrado.
+  > III. Razões de decidir
+  > 3. Os agravos impugnaram especificamente os fundamentos da decisão de inadmissão e devem ser conhecidos.
+  > 4. O acórdão recorrido afastou as contradições apontadas na sentença. Apoiou-se no relato da vítima corroborado pelo laudo pericial e desacreditou a versão de legítima defesa pela ausência de lesões nos réus. Rever essa conclusão para restabelecer a absolvição exige reexame de provas, vedado pela Súmula n. 7/STJ.
+  > 5. O dissídio jurisprudencial não se demonstra pela mera transcrição de ementa, sem cotejo analítico, nem por paradigma proferido em habeas corpus.
+  > 6. Não há violação do art. 155 do CPP. A condenação apoiou-se em laudo pericial e em prova produzida em juízo, inclusive nos interrogatórios em que os réus admitiram ter participado da refrega. A narrativa do boletim de ocorrência foi tida por dissociada da realidade e não fundamentou a condenação.
+  > 7. Há erro material na dosimetria. O Tribunal de origem tomou 2 (dois) anos como mínimo legal, mas o art. 129, § 1º, do CP comina reclusão de 1 (um) a 5 (cinco) anos. Refeito o cálculo com os critérios do próprio acórdão, a pena de cada réu fica em 1 (um) ano de reclusão. A prescrição não se consumou.
+  > IV. Dispositivo
+  > 8. Agravos conhecidos para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. Ordem concedida de ofício para redimensionar a pena de cada agravante para 1 (um) ano de reclusão.
+  > (AREsp n. 3.425.934/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 16. AREsp nº 3255904 / RO (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Execução penal
-- Resumo: Recurso do MP contra a progressão em prisão domiciliar sem monitoramento eletrônico desprovido, por falta de prequestionamento e reexame de fatos (Súmulas 282 e 279/STF); mantido o acórdão do TJRS.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630300.pdf
-
-## 16. EREsp nº 2211037 / SP (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 11/11/2026.
-- Resumo: Em recurso especial criminal, alegar negativa de prestação jurisdicional com base nos arts. 489, § 1º, e 1.022 do CPC não atrai, por si só, a Súmula 284/STF: o primeiro tem comando idêntico ao do art. 315, § 2º, do CPP e o segundo se aplica supletivamente ao art. 619 do CPP. Embargos providos; autos voltam à Sexta Turma, sem reconhecer omissão.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-eresp-2211037.pdf
+- Resumo: O requisito do art. 7º, parágrafo único, do Decreto 12.338/2024 considera o tempo total de pena cumprida, sem exigir ordem cronológica das guias. Indulto restabelecido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3255904.pdf
 - Ementa oficial:
-  > PENAL E PROCESSO PENAL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. 1. DIVERGÊNCIA SOBRE INTERPRETAÇÃO ABSTRATA DE NORMA PROCESSUAL. ART. 1.043, III E § 2º, DO CPC. DISTINÇÃO EM RELAÇÃO AO EXAME CASUÍSTICO DE OMISSÃO. 2. ART. 489, § 1º, DO CPC. IDENTIDADE DE COMANDO COM O ART. 315, § 2º, DO CPP. ART. 1.022 DO CPC. APLICAÇÃO SUPLETIVA. ARTS. 3º E 619 DO CPP. 3. SÚMULA 284/STF. INAPLICABILIDADE. RETORNO DOS AUTOS À TURMA DE ORIGEM. 4. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
-  > 1. O acórdão embargado não conheceu do capítulo do recurso especial relativo à negativa de prestação jurisdicional por entender que os arts. 489, § 1º, e 1.022 do CPC não incidem no processo penal, ante a disciplina específica dos arts. 315, § 2º, 381, III, e 619 do CPP, a atrair a Súmula 284/STF. Embora os embargos de divergência não se prestem a rediscutir a aplicação de regra técnica de admissibilidade nem a verificar, caso a caso, a ocorrência de omissão, a controvérsia, no caso, antecede o juízo concreto de admissibilidade e versa sobre a interpretação de normas processuais federais abstratamente consideradas, hipótese contemplada pelo art. 1.043, III e § 2º, do CPC.
-  > - A Corte Especial admite embargos de divergência quando o dissenso recai sobre a própria interpretação da regra processual, e não sobre sua aplicação ao caso concreto (AgInt nos EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 4/3/2020, DJe de 17/9/2020), tendo dado provimento, em matéria criminal, a embargos opostos contra acórdão da Sexta Turma que não conhecera de agravo em recurso especial por intempestividade, para reconhecer justa causa nos termos do art. 223, § 1º, do CPC (EAREsp n. 2.068.662/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 20/5/2026, DJEN de 26/5/2026).
-  > - Divergência demonstrada com acórdãos da Quinta Turma que aplicam os arts. 489, § 1º, e 1.022 do CPC, em conjunto com os arts. 315 e 619 do CPP e por força do art. 3º deste diploma, para examinar no mérito alegações de negativa de prestação jurisdicional em recursos criminais (AgRg no AREsp n. 2.680.396/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 5/5/2026, DJEN de 12/5/2026; AgRg no REsp n. 2.268.972/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/8/2026, DJEN de 13/8/2026). Inaplicabilidade da Súmula 168/STJ, ante a atualidade do dissenso e a existência de julgados da própria Sexta Turma no mesmo sentido dos paradigmas.
-  > 2. A Terceira Seção assentou que se aplica o Código de Processo Civil ao processo penal quando este for omisso sobre determinada matéria (REsp n. 1.568.445/PR, relator Ministro Rogerio Schietti Cruz, relator para acórdão Ministro Ribeiro Dantas, Terceira Seção, julgado em 24/6/2020, DJe de 20/8/2020). Diversamente do que ocorre com a contagem dos prazos, exaustivamente disciplinada pelo art. 798 do CPP, a existência de dispositivo processual penal sobre o mesmo tema não afasta, por si só, o suplemento do CPC quando aquele não esgota a disciplina da matéria. Entre os dispositivos do CPP invocados pelo acórdão embargado e os do CPC, não há relação de exclusão, mas de complementaridade, que se manifesta de modo distinto em relação a cada um deles.
-  > - Quanto ao art. 489, § 1º, do CPC, não há lacuna a suprir, pois o art. 315, § 2º, do CPP reproduz-lhe o conteúdo inciso por inciso, embora situado no capítulo da prisão preventiva. Trata-se de enunciados distintos que veiculam o mesmo comando normativo, de modo que a indicação de um ou de outro não altera a substância da tese recursal. "[O] regramento inserido de forma expressa no CPP já era observado na seara criminal, com fundamento no art. 489, § 1º, do CPC c/c o art. 3º do CPP" (AgRg nos EDcl no AREsp n. 1.361.814/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2020, DJe de 27/5/2020).
-  > - Quanto ao art. 1.022 do CPC, a aplicação é supletiva: o art. 619 do CPP enumera os vícios que autorizam os aclaratórios, mas não define quando a decisão deve ser considerada omissa, conceito densificado pelo art. 1.022, parágrafo único, II, do CPC, por remissão ao art. 489, § 1º.
-  > 3. A Súmula 284/STF não sanciona a escolha do diploma em que se localiza o enunciado normativo, mas a deficiência que impeça a exata compreensão da controvérsia. Quando o dispositivo indicado veicula o mesmo comando do preceito processual penal correspondente, ou o complementa, a tese recursal é plenamente inteligível, tanto que a própria Sexta Turma a compreendeu e a ela respondeu, ainda que sob a forma de juízo de admissibilidade. A indicação dos dispositivos do CPP constitui técnica mais adequada ao recurso de fundamentação vinculada, mas sua ausência não pode obstar o exame da pretensão, sob pena de "privilegiar a forma, em detrimento do conteúdo", exigência de instrumentalidade que assume relevo ainda maior no processo penal, em que está em jogo a liberdade.
-  > - O acolhimento da tese não implica reconhecimento de omissão no acórdão de origem, juízo casuístico que escapa ao âmbito dos embargos de divergência e compete ao órgão fracionário. Afastado o fundamento do não conhecimento, os autos devem retornar à Sexta Turma para prosseguimento do julgamento da matéria, ficando prejudicado o pedido subsidiário de aplicação do direito à espécie. O pedido de preservação da cláusula que condiciona a execução da pena ao trânsito em julgado não integra a divergência submetida à Seção.
-  > 4. Embargos de divergência providos para afastar o óbice da Súmula 284/STF no capítulo relativo à negativa de prestação jurisdicional e determinar o retorno dos autos à Sexta Turma, com a fixação da seguinte tese: "Em recurso especial criminal, a alegação de negativa de prestação jurisdicional fundada nos arts. 489, § 1º, e 1.022 do Código de Processo Civil não atrai, por si só, o óbice da Súmula 284/STF, porquanto o primeiro veicula comando idêntico ao do art. 315, § 2º, do Código de Processo Penal, e o segundo aplica-se supletivamente ao processo penal, por força do art. 3º deste diploma, para densificar o conceito de omissão previsto em seu art. 619".
-  > (EREsp n. 2.211.037/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 5/11/2026, DJEN de 11/11/2026.)
+  > EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. INDULTO DO DECRETO N. 12.338/2024. CONDENAÇÕES POR CRIMES COMUNS E POR DELITOS IMPEDITIVOS DE VIOLÊNCIA DOMÉSTICA SOMANDO 2 (DOIS) MESES E 24 (VINTE E QUATRO) DIAS. 7 (SETE) ANOS, 2 (DOIS) MESES E 23 (VINTE E TRÊS) DIAS RESGATADOS ATÉ 25/12/2024. SUPOSTA AUSÊNCIA DE IMPUGNAÇÃO DA SÚMULA N. 83/STJ. ÓBICE ENFRENTADO COM PRECEDENTE CONTEMPORÂNEO E DISTINÇÃO DA TESE. REVALORAÇÃO DE PREMISSAS INCONTROVERSAS. FRAÇÃO DE 2/3 DO ART. 7º, PARÁGRAFO ÚNICO, DO DECRETO N. 12.338/2024 TIDA POR NÃO ALCANÇADA COM BASE NA LINHA DO TEMPO DO SEEU. ORDEM CRONOLÓGICA DE EXECUÇÃO SEM PREVISÃO NO ATO DE CLEMÊNCIA. REQUISITO OBJETIVO AFERIDO PELO TOTAL DE PENA CUMPRIDA. PRESSUPOSTOS PARA O INDULTO ATENDIDOS. PROVIMENTO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pela defesa contra decisão que inadmitiu o recurso especial pela Súmula n. 83/STJ. O recurso especial impugna acórdão que, em agravo em execução do Ministério Público, cassou o indulto do art. 9º, VIII, do Decreto n. 12.338/2024. O apenado cumpre penas por crimes comuns e por delitos impeditivos de violência doméstica, estes somando 2 (dois) meses e 24 (vinte e quatro) dias. Até 25/12/2024, resgatou 7 (sete) anos, 2 (dois) meses e 23 (vinte e três) dias. O Tribunal de origem entendeu que, segundo a linha do tempo do SEEU, ele cumprira apenas 1 (um) dia da pena impeditiva.
+  > II. Questão em discussão
+  > 2. Há duas questões em discussão: (i) saber se o agravo impugnou especificamente a Súmula n. 83/STJ; e (ii) saber se a fração de 2/3 da pena do crime impeditivo, exigida pelo art. 7º, parágrafo único, do Decreto n. 12.338/2024, se afere pela ordem cronológica de execução das guias ou pelo tempo total de pena cumprida.
+  > III. Razões de decidir
+  > 3. O agravo enfrentou o único fundamento da decisão de inadmissão. Sustentou que o recurso especial não discute a exigência dos 2/3, mas o critério de sua aferição, e invocou precedente contemporâneo da Quinta Turma. A restrição ao acórdão de habeas corpus como paradigma diz respeito à divergência da alínea “c”, não manejada no caso.
+  > 4. A controvérsia é jurídica. As penas e o tempo cumprido são premissas incontroversas, fixadas pelo juízo da execução e admitidas pelo Ministério Público. Sua revaloração não esbarra na Súmula n. 7/STJ.
+  > 5. O decreto manda somar as penas e exige o cumprimento de 2/3 da pena do crime impeditivo. Não impõe, porém, ordem de execução das guias. O requisito afere-se pelo confronto do tempo total cumprido com a soma das frações de cada grupo de crimes. A ordem cronológica do art. 76 do CP não disciplina os critérios do decreto presidencial.
+  > 6. O acórdão condicionou o indulto à distribuição do tempo cumprido feita pela linha do tempo do SEEU. Criou, assim, requisito não previsto no decreto. Os 7 (sete) anos, 2 (dois) meses e 23 (vinte e três) dias cumpridos superam a fração de 2/3 da pena impeditiva, equivalente a 1 (um) mês e 26 (vinte e seis) dias. Os demais requisitos reconhecidos pelo juízo da execução não foram impugnados.
+  > IV. Dispositivo
+  > 7. Agravo conhecido para dar provimento ao recurso especial.
+  > (AREsp n. 3.255.904/RO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 17. AgRg no AREsp nº 3331551 / SP (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 11/11/2026.
-- Crime / Tema: Estelionato · Prescrição
-- Resumo: Esgotado o limite da suspensão do prazo prescricional pelo art. 366 do CPP (máximo da pena cominada, Súmula 415/STJ), a prescrição volta a correr e, pela pena em concreto, consumou-se antes da sentença. Agravo intempestivo; punibilidade extinta de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3331551.pdf
+## 17. AREsp nº 3372006 / SP (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Violência doméstica · Dosimetria
+- Resumo: A reincidência específica, como único fundamento, não justifica aumento acima de 1/6 sem fundamentação concreta e excepcional (Tema 1.172/STJ). Pena da lesão corporal reduzida; condenação e regime mantidos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3372006.pdf
 - Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE 15 DIAS CORRIDOS. ART. 798 DO CPP. INTEMPESTIVIDADE RECONHECIDA PELA PRÓPRIA DEFESA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CITAÇÃO POR EDITAL. SUSPENSÃO DO PRAZO PRESCRICIONAL (ART. 366 DO CPP). LIMITE MÁXIMO. SÚMULA 415/STJ. PENA EM CONCRETO. PRAZO DE QUATRO ANOS. LAPSO CONSUMADO ANTES DA SENTENÇA CONDENATÓRIA. ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
-  > 1. Intimada a defesa da decisão de inadmissão do recurso especial em 4/5/2026, o agravo em recurso especial foi interposto apenas em 21/5/2026, fora do prazo de 15 dias corridos previsto no art. 994, VIII, c/ c os arts. 1.003, § 5º, e 1.042 do CPC, e no art. 798 do CPP. A intempestividade é reconhecida pelo próprio agravante e não foi comprovada causa de suspensão ou prorrogação do prazo, de modo que se mantém o não conhecimento do recurso.
-  > 2. A intempestividade do recurso não impede o exame, de ofício, de ilegalidade flagrante. Nos termos da Súmula 415/STJ, o período de suspensão do prazo prescricional decorrente do art. 366 do CPP é regulado pelo máximo da pena cominada, segundo as regras do art. 109 do Código Penal.
-  > 3. No caso, o recebimento da denúncia por estelionato (art. 171, caput, do CP, pena máxima de 5 anos) ocorreu em 5/11/2007, e o processo e o prazo prescricional foram suspensos em 10/7/2008, com fundamento no art. 366 do CPP. A suspensão do prazo prescricional estava limitada a 12 anos (art. 109, III, do CP), esgotando-se em 10/7/2020, data a partir da qual a prescrição voltou a correr, ainda que o processo tenha permanecido formalmente suspenso até 24/3/2023.
-  > 4. Fixada a pena definitiva em 1 ano, 4 meses e 10 dias de reclusão, com trânsito em julgado para a acusação, o prazo prescricional é de 4 anos (art. 109, V, c/c o art. 110, § 1º, do CP), não influindo a reincidência no prazo da prescrição da pretensão punitiva (Súmula 220/STJ). Entre 10/7/2020 e a publicação da sentença condenatória, em 19/8/2025, transcorreram mais de 4 anos, consumando-se a prescrição da pretensão punitiva, na modalidade retroativa.
-  > 5. Agravo regimental não provido. Habeas corpus concedido de ofício para declarar extinta a punibilidade do agravante, pela prescrição da pretensão punitiva, nos termos do art. 107, IV, do Código Penal.
-  > (AgRg no AREsp n. 3.331.551/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/11/2026, DJEN de 11/11/2026.)
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL CONTRA MULHER POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO, AMEAÇA E VIAS DE FATO. RÉU QUE AGREDIU AS FILHAS EM VIA PÚBLICA E AS AMEAÇOU DE MORTE, ASSIM COMO A EX-COMPANHEIRA. CONTROVÉRSIA DE DIREITO SOBRE PREMISSAS INCONTROVERSAS. REINCIDÊNCIA ESPECÍFICA ÚNICA QUE ELEVOU A PENA INTERMEDIÁRIA EM 1/5. ACÓRDÃO QUE MANTEVE O AUMENTO SOB A PREMISSA EQUIVOCADA DE QUE SERIA DE 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. APLICAÇÃO DO TEMA N. 1.172/STJ. PROVIMENTO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pelo réu contra decisão que inadmitiu o recurso especial por ausência de prequestionamento, com base nas Súmulas n. 282 e 356/STF, e por necessidade de reexame de provas, nos termos da Súmula n. 7/STJ. O recurso especial impugna acórdão do Tribunal de Justiça do Estado de São Paulo que manteve a condenação do réu pela lesão corporal praticada contra uma filha por razões da condição do sexo feminino, pelas ameaças de morte dirigidas às filhas e à ex-companheira e pelas vias de fato contra a outra filha, em fatos ocorridos em 17/11/2024. Pelo crime de lesão corporal, a pena foi fixada em 2 (dois) anos, 9 (nove) meses e 18 (dezoito) dias de reclusão, em regime inicial semiaberto, com aumento de 1/5 na segunda fase pela reincidência específica.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se o agravo impugnou especificamente os fundamentos da decisão de inadmissão e se a reincidência específica, como único fundamento, justifica o aumento da pena intermediária em fração superior a 1/6.
+  > III. Razões de decidir
+  > 3. O agravo enfrentou de modo específico os dois fundamentos da decisão de inadmissão. Demonstrou que o acórdão recorrido emitiu juízo de valor sobre a fração da reincidência e que a controvérsia se resolve pelas premissas incontroversas da sentença e do acórdão.
+  > 4. A matéria foi prequestionada. O Tribunal de origem examinou a fração da agravante e manteve a dosimetria da sentença, ainda que sob a premissa equivocada de que o aumento seria de 1/6. A revaloração jurídica de fatos incontroversos não esbarra na Súmula n. 7/STJ.
+  > 5. Segundo o Tema n. 1.172/STJ, a reincidência específica como único fundamento somente justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso.
+  > 6. A sentença elevou a pena intermediária do crime de lesão corporal em 1/5 apenas porque a recidiva seria específica, sem indicar dado concreto que demonstrasse excepcionalidade. Aplicada a fração de 1/6 à pena-base de 2 (dois) anos e 4 (quatro) meses de reclusão, a pena definitiva desse crime fica em 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, mantidos o regime inicial semiaberto e as demais penas.
+  > IV. Dispositivo
+  > 7. Agravo conhecido para dar provimento ao recurso especial.
+  > (AREsp n. 3.372.006/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 18. RE nº 1.612.829 / SP (STF)
-- Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 11/11/2026.
-- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
-- Resumo: Denúncia anônima isolada, sem investigação prévia, e autorização de ingresso negada pela mãe do réu não configuram fundadas razões (Tema 280/STF). Absolvição mantida por maioria; recurso do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1612829.pdf
+## 18. AREsp nº 3226434 / AL (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Organização criminosa · Falsidade ideológica · Prescrição · Dosimetria
+- Resumo: No concurso de crimes, a prescrição incide sobre a pena de cada um (art. 119 do CP): extinta de ofício a da falsidade ideológica do líder. Afastada a soma das penas, regime aberto e restritivas de direitos para as penas remanescentes de réus sem antecedentes e com pena-base mínima. Condenação por organização criminosa mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3226434.pdf
 - Ementa oficial:
-  > DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO. CONDENAÇÃO POR CRIME DE TRÁFICO DE DROGAS. AUSÊNCIA DE FUNDADAS RAZÕES PARA O INGRESSO NO DOMICÍLIO. DENÚNCIA ANÔNIMA E AUTORIZAÇÃO DESMENTIDA. RECURSO DESPROVIDO.
-  > I. CASO EM EXAME Trata-se de recurso extraordinário contra acórdão do STJ que manteve negou agravo regimental e manteve a absolvição do recorrido, acusado de tráfico de drogas, tendo em vista a entrada domiciliar dos policiais não precedida de mandado e desprovida de fundadas razões.
-  > II. QUESTÕES EM DISCUSSÃO Verificar se estão presentes os óbices ao conhecimento e eventual provimento do recurso e se, de fato, o acórdão recorrido violou frontalmente os dispositivos constitucionais invocados.
-  > III. RAZÕES DE DECIDIR Consoante entendimento do Plenário desta Suprema Corte, assentado no julgamento do Tema nº 280 do ementário da Repercussão Geral, nos crimes de natureza permanente — como neste caso, o tráfico de drogas, cuja consumação e consequente flagrância se prolongam no tempo —, é dispensável o mandado judicial para o ingresso forçado na residência do acusado, desde que presentes fundadas razões, as quais devem ser justificadas a posteriori. Assim, afora a controversa autorização de entrada na residência pela mãe do recorrido, rechaçada pelo STJ, constata-se que, de fato, não houve investigação prévia, campana, visualização prévia do réu, atitude suspeita, tentativa de fuga. A denúncia anônima restou isolada. A mãe do réu negou a autorização de entrada, restando isoladas as palavras dos policiais, sem qualquer elemento de corroboração.
-  > IV. DISPOSITIVO E TESE Recurso extraordinário ao qual se nega provimento.
-  > (STF, RE n. 1.612.829/SP, relator Ministro André Mendonça, Segunda Turma, julgado em 19/10/2026, DJe de 11/11/2026.)
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVOS EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA E FALSIDADE IDEOLÓGICA. EMPRESAS DE FACHADA EM NOME DE TESTAS DE FERRO PARA EMISSÃO DE NOTAS FISCAIS GRACIOSAS QUE SOMARAM R$ 10,4 MILHÕES. FUNDAMENTO DA DECISÃO DE INADMISSÃO NÃO IMPUGNADO POR UM DOS RECORRENTES. PEDIDOS DE ABSOLVIÇÃO. REEXAME DE PROVAS VEDADO PELA SÚMULA N. 7/STJ. ALEGADA APLICAÇÃO RETROATIVA DA LEI N. 12.850/2013. CRIME PERMANENTE PROLONGADO ATÉ DEZEMBRO DE 2013. LEI MAIS GRAVE APLICÁVEL PELA SÚMULA N. 711/STF. PRESCRIÇÃO DO FALSO AFERIDA ISOLADAMENTE. REGIME ABERTO E SUBSTITUIÇÃO DA REPRIMENDA PARA RÉUS SEM ANTECEDENTES COM PENA-BASE NO MÍNIMO LEGAL. DESPROVIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravos em recurso especial interpostos por três réus contra decisão que inadmitiu os recursos especiais. VICTOR foi condenado como líder de organização criminosa que usava empresas de fachada em nome de testas de ferro. As empresas emitiam notas fiscais ideologicamente falsas que somaram R$ 10.492.886,60. SILVÂNIO, contador, e SÉRGIO respondiam pela abertura das empresas.
+  > 2. VICTOR recebeu a pena de 5 (cinco) anos e 2 (dois) meses de reclusão, em regime semiaberto. Dela, 1 (um) ano e 8 (oito) meses correspondem à falsidade ideológica. SILVÂNIO e SÉRGIO receberam 4 (quatro) anos e 8 (oito) meses de reclusão, em regime semiaberto. O Tribunal de origem declarou prescrita a falsidade ideológica somente quanto a SILVÂNIO e SÉRGIO. A inadmissão aplicou a Súmula n. 284/STF a SILVÂNIO e SÉRGIO e a Súmula n. 7/STJ a VICTOR.
+  > II. Questão em discussão
+  > 3. Há quatro questões em discussão: (i) saber se os agravos impugnaram especificamente os fundamentos da decisão de inadmissão; (ii) saber se as teses de insuficiência de provas e de não configuração da organização criminosa dispensam o reexame do acervo probatório; (iii) saber se a condenação por organização criminosa aplicou retroativamente a Lei n. 12.850/2013; e (iv) saber se há ilegalidade flagrante na prescrição da falsidade ideológica e no regime das penas remanescentes.
+  > III. Razões de decidir
+  > 4. O agravo de SILVÂNIO não impugnou concretamente a Súmula n. 284/STF. Limitou-se a reiterar as teses de mérito do recurso especial. Incide a Súmula n. 182/STJ.
+  > 5. Os agravos de VICTOR e SÉRGIO atacaram de modo específico os óbices aplicados na origem.
+  > 6. A alegada ofensa a dispositivo constitucional não se examina em recurso especial.
+  > 7. As teses de VICTOR sobre insuficiência de provas, ausência de dolo e estrutura da organização contrariam as premissas fáticas do acórdão. Revê-las exigiria reexame de provas, vedado pela Súmula n. 7/STJ. A divergência jurisprudencial não foi demonstrada por cotejo analítico.
+  > 8. A organização criminosa é crime permanente. O acórdão fixou que a atuação do grupo perdurou até dezembro de 2013, após a vigência da Lei n. 12.850/2013. Aplica-se a lei mais grave, conforme a Súmula n. 711/STF.
+  > 9. No concurso de crimes, a prescrição incide sobre a pena de cada um, isoladamente (art. 119 do CP). A pena de 1 (um) ano e 8 (oito) meses de reclusão imposta a VICTOR pela falsidade ideológica prescreve em 4 anos. Esse prazo transcorreu entre o recebimento da denúncia, em 13/9/2018, e a publicação da sentença, em 10/10/2023.
+  > 10. Extinta a punibilidade da falsidade, restam 3 (três) anos e 6 (seis) meses de reclusão para VICTOR e 3 (três) anos de reclusão para SILVÂNIO e SÉRGIO. Os réus não têm antecedentes e tiveram a pena-base fixada no mínimo. O regime semiaberto e a recusa da substituição apoiaram-se apenas na soma das penas. Impõem-se o regime aberto e a substituição por penas restritivas de direitos.
+  > IV. Dispositivo
+  > 11. Agravo de SILVÂNIO não conhecido. Agravo de VICTOR conhecido e recurso especial não conhecido. Agravo de SÉRGIO conhecido e recurso especial conhecido em parte e, nessa extensão, desprovido. Ordem concedida de ofício aos três agravantes.
+  > (AREsp n. 3.226.434/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 19. ARE nº 1.607.672 / CE (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 11/11/2026.
-- Crime / Tema: Homicídio qualificado · Prisão e medidas cautelares · Excesso de prazo
-- Resumo: Recurso do MP contra a substituição da preventiva por cautelares, após cerca de 7 anos e meio sem júri, sem seguimento: matéria infraconstitucional e Súmula 279/STF.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1607672.pdf
+## 19. AREsp nº 3121786 / DF (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Organização criminosa · Falsificação de documento público · Dosimetria
+- Resumo: Aliciamento e adesão ao grupo já valorados não podem pesar de novo na pena-base ou na agravante do art. 62, IV, do CP (bis in idem); no crime continuado, a multa segue o art. 71, e não o art. 72. Agravos não conhecidos; penas de três rés corrigidas de ofício, com extensão da multa a corréu.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3121786.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVOS EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. GRUPO QUE RECRUTAVA PESSOAS PARA ABRIR CONTAS BANCÁRIAS COM IDENTIDADES FALSAS DE TERCEIROS E OBTER CARTÕES E EMPRÉSTIMOS. RECURSOS ESPECIAIS INADMITIDOS POR EXIGIREM REEXAME DE PROVAS VEDADO PELA SÚMULA N. 7/STJ. IMPUGNAÇÃO GENÉRICA OU DISSOCIADA DESSE FUNDAMENTO. ILEGALIDADES FLAGRANTES NA DOSIMETRIA. ALICIAMENTO DE AMIGAS E DA PRÓPRIA MÃE VALORADO NA PENA-BASE E NA AGRAVANTE DO ART. 62, I, DO CP. ADESÃO REMUNERADA AO GRUPO JÁ PUNIDA PELA ORGANIZAÇÃO CRIMINOSA E REPETIDA NO ART. 62, IV, DO CP. BIS IN IDEM EM AMBOS OS CASOS. MULTA DO CRIME CONTINUADO INDEVIDAMENTE SOMADA NA FORMA DO ART. 72 DO CP. EXTENSÃO A CORRÉU QUE NÃO RECORREU. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravos em recurso especial interpostos por PAULO, JESSICA, ELIANE, GLEIDIANE e LOUHANY contra decisões que inadmitiram os recursos especiais pela incidência da Súmula n. 7/STJ. Os réus foram condenados por integrar organização criminosa que recrutava pessoas para abrir contas bancárias com dados de terceiros e documentos falsos, com o objetivo de obter cartões de crédito e empréstimos, e por falsificação de documento público. PAULO recebeu 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado. JESSICA recebeu 7 (sete) anos e 2 (dois) meses de reclusão. GLEIDIANE, ELIANE e LOUHANY receberam penas entre 5 (cinco) e 6 (seis) anos de reclusão.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se os agravos impugnaram, de forma específica, o fundamento das decisões de inadmissão e se há flagrante ilegalidade na dosimetria que autorize a concessão de habeas corpus de ofício, com extensão a corréu que não recorreu.
+  > III. Razões de decidir
+  > 3. Não se conhece do agravo que deixa de impugnar, de forma específica, todos os fundamentos da decisão de inadmissão (art. 932, III, do CPC; art. 253, parágrafo único, I, do RISTJ; Súmula n. 182/STJ). A impugnação da Súmula n. 7/STJ exige que se demonstre, tese a tese, que a solução prescinde do reexame de provas, com a indicação das premissas fáticas incontroversas do acórdão.
+  > 4. O agravo de PAULO trata da lavagem de capitais, crime do qual foi absolvido, e não da quebra da cadeia de custódia, única tese do seu recurso especial. O de JESSICA combate decisão proferida no recurso de outro réu e fundamento que não foi adotado na decisão que inadmitiu o seu recurso. Os de ELIANE, GLEIDIANE e LOUHANY afirmam genericamente a revaloração jurídica dos fatos e reiteram a discussão sobre a prova da estabilidade e da permanência do vínculo associativo.
+  > 5. Na dosimetria dos crimes de falsificação praticados por JESSICA, o aliciamento de amigas e da própria mãe para o fornecimento de fotografias e assinaturas negativou as circunstâncias do crime e também sustentou a agravante do art. 62, I, do CP. A dupla valoração configura bis in idem, e a vetorial é afastada.
+  > 6. ELIANE e LOUHANY passaram a responder por organização criminosa pela adesão remunerada ao grupo. O mesmo fato foi de novo valorado, nos crimes de falsificação, na agravante do art. 62, IV, do CP. O próprio Tribunal de origem afastou, pela mesma razão, a culpabilidade negativa. A agravante é decotada. Para ELIANE, a confissão não reduz a pena abaixo do mínimo legal, nos termos da Súmula n. 231/STJ.
+  > 7. No crime continuado, a multa segue a exasperação do art. 71 do CP, e não a soma do art. 72, restrita aos concursos material e formal. As penas ficam em 6 (seis) anos e 4 (quatro) meses de reclusão e 26 (vinte e seis) dias-multa para JESSICA e em 5 (cinco) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão e 22 (vinte e dois) dias-multa para ELIANE e para LOUHANY, no regime inicial semiaberto.
+  > 8. A correção da multa estende-se ao corréu WELLINGTON, que não recorreu, por não se fundar em motivo de caráter exclusivamente pessoal (art. 580 do CPP). A multa dele passa a 23 (vinte e três) dias-multa.
+  > IV. Dispositivo
+  > 9. Agravos de PAULO e GLEIDIANE não conhecidos. Agravos de JESSICA, ELIANE e LOUHANY não conhecidos, com ordem concedida de ofício para redimensionar as penas. Efeitos estendidos a WELLINGTON quanto à pena de multa.
+  > (AREsp n. 3.121.786/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 20. RE nº 1.630.580 / SC (STF)
-- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 11/11/2026.
-- Crime / Tema: Associação para o tráfico · ANPP
-- Resumo: Em processo sem trânsito em julgado, cabe ao MP avaliar, motivadamente, o ANPP (HC 185.913/MS): RE de um réu provido e autos à PGR. Agravo do corréu desprovido: transcrição integral e perícia de voz das interceptações dispensáveis e Súmula 279/STF quanto à associação.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1630580.pdf
+## 20. AREsp nº 3323852 / MG (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Roubo · Dosimetria
+- Resumo: Perda de celular de cerca de R$ 1 mil, não recuperado, é consequência ordinária do roubo e não autoriza negativar as consequências (art. 59 do CP): o prejuízo patrimonial só eleva a pena-base quando exacerbado. Agravo não conhecido; pena reduzida de ofício, regime fechado mantido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3323852.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO SIMPLES. APARELHO CELULAR DE CERCA DE R$ 1 MIL SUBTRAÍDO DE VÍTIMA EM VIA PÚBLICA E NÃO RECUPERADO. RECURSO ESPECIAL INADMITIDO PELA FALTA DE PREQUESTIONAMENTO DAS NULIDADES ALEGADAS. IMPUGNAÇÃO GENÉRICA LIMITADA A AFIRMAR O DEBATE DA MATÉRIA NA ORIGEM E A ATACAR ÓBICES NÃO APLICADOS. INCIDÊNCIA DA SÚMULA N. 182/STJ. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME NEGATIVADAS PELA MERA NÃO RESTITUIÇÃO DO BEM. PREJUÍZO INERENTE AO TIPO. ILEGALIDADE FLAGRANTE. PENA REDIMENSIONADA. NÃO CONHECIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravo em recurso especial interposto pelo réu contra decisão que inadmitiu o recurso especial pela ausência de prequestionamento, com base nas Súmulas n. 282 e 356/STF.
+  > 2. O réu foi condenado por roubo simples. Mediante violência e grave ameaça, subtraiu o aparelho celular de uma vítima que caminhava em via pública. O Tribunal de origem fixou a pena em 7 (sete) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime fechado, e 26 (vinte e seis) dias-multa. Manteve negativas as vetoriais dos antecedentes e das consequências do crime, esta pela não restituição do celular, de cerca de R$ 1.000,00.
+  > 3. O recurso especial sustentou a nulidade do reconhecimento pessoal por ofensa ao art. 226 do CPP. Alegou também cerceamento de defesa pela retirada do réu da audiência virtual durante a oitiva da vítima.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se o agravo impugnou de forma específica o fundamento da decisão de inadmissão; e (ii) saber se há ilegalidade flagrante na valoração negativa das consequências do crime apta à concessão de habeas corpus de ofício.
+  > III. Razões de decidir
+  > 5. A decisão de inadmissão deve ser impugnada em sua integralidade. A falta de impugnação específica de seu fundamento impede o conhecimento do agravo, nos termos da Súmula n. 182/STJ.
+  > 6. O agravo limitou-se a afirmar que o acórdão recorrido enfrentou as nulidades. Não indicou o trecho em que isso teria ocorrido. No mais, atacou óbices que a decisão agravada não aplicou, como a Súmula n. 7/STJ e a falta de cotejo analítico.
+  > 7. O valor do prejuízo, nos crimes patrimoniais, somente autoriza a exasperação da pena-base quando exacerbado. A perda de um celular de cerca de R$ 1.000,00 é consequência ordinária do roubo.
+  > 8. Afastada a vetorial, a pena-base é reduzida segundo o critério adotado pelo Tribunal de origem. A pena definitiva fica em 6 (seis) anos, 3 (três) meses e 10 (dez) dias de reclusão e 20 (vinte) dias-multa. Mantém-se o regime fechado diante da reincidência e dos maus antecedentes.
+  > IV. Dispositivo
+  > 9. Agravo em recurso especial não conhecido. Ordem concedida de ofício.
+  > (AREsp n. 3.323.852/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)

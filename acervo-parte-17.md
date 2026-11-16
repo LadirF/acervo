@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 17 de 44 (decisões 161 a 170)
+# Acervo de Jurisprudência — Cury Advogados — parte 17 de 45 (decisões 161 a 170)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 436 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 448 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,106 +8,80 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 161. AgRg no REsp nº 2052674 / MG (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Inserção de dados falsos em sistema de informações
-- Resumo: Absolvição pelo art. 313-A do CP mantida: o TJ reconheceu a falta de dolo específico e a fragilidade da prova, e rever isso exige reexame de provas (Súmula 7). Perda da função pública não prequestionada; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2052674.pdf
+## 161. AgRg nos EDcl no REsp nº 2117444 / RS (STJ)
+- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Corrupção passiva · Falsidade ideológica · ANPP · Prescrição
+- Resumo: O ANPP cabe em processos em curso até o trânsito em julgado, sem confissão prévia, e a recusa do MP tem de ser motivada e revista internamente (aqui foi). Reconhecida a prescrição superveniente da corrupção passiva privilegiada; mantida a falsidade ideológica.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2117444.pdf
 - Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES. ATIPICIDADE DA CONDUTA. AUSÊNCIA DE DOLO. SÚMULA N. 7/STJ. PERDA DA FUNÇÃO PÚBLICA. SÚMULA N. 211/STJ. IMPOSSIBILIDADE DO PREQUESTIONAMENTO FICTO, NO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROVA EMPRESTADA. ACORDO DE NÃO PERSECUÇÃO PENAL. INDEPENDÊNCIA DAS INSTÂNCIAS. SÚMULA N. 7/STJ. PRESCRIÇÃO SUPERVENIENTE. RECURSO PARCIALMENTE PROVIDO.
   > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão que conheceu em parte de recurso especial e, no mérito, negou-lhe provimento, mantendo a absolvição de um dos recorridos quanto à imputação do delito do art. 313-A do Código Penal e não acolhendo a pretensão de decretação da perda da função pública do agente condenado.
+  > 1. Agravo regimental contra decisão monocrática que negou provimento a recurso especial interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, em oposição a acórdão de Tribunal de Justiça estadual que manteve condenação pelos arts. 317, § 2º, e 299, parágrafo único, do Código Penal.
+  > 2. Condenação do agravante, então secretário municipal, por determinar ao fiscal sanitário subordinado a alteração de auto de apreensão e inutilização para beneficiar terceira interessada, com exclusão de itens classificados como impróprios ao consumo; penas fixadas em 1 ano e 9 meses de reclusão e 30 dias-multa (falsidade ideológica majorada) e 3 meses de detenção (corrupção passiva privilegiada), substituída a pena privativa de liberdade por restritivas de direitos.
   > II. Questão em discussão
-  > 2. A controvérsia consiste em saber se (i) a condenação do recorrido Diogo pela prática do crime de inserção de dados falsos em sistema de informações é viável, considerando a ausência de comprovação do dolo específico e a fragilidade do conjunto probatório reconhecidas no acórdão proferido pelo Tribunal local; e se (ii) é possível a aplicação da perda da função pública ao(s) condenado(s).
+  > 3. Há múltiplas questões em discussão: (i) saber se há nulidade pela utilização de prova emprestada em razão da inexistência de traslado aos autos físicos antes da sentença e juntada apenas na migração digital; (ii) saber se é devido o acordo de não persecução penal em processos em curso após a Lei 13.964/2019 e qual a extensão do controle judicial sobre a recusa ministerial; (iii) saber se a improcedência, por atipicidade superveniente, da ação de improbidade administrativa esvazia a justa causa da ação penal fundada nos mesmos fatos; (iv) saber se é possível revaloração jurídica para reconhecer atipicidade ou insuficiência probatória sem reexame de provas, diante da moldura fática fixada na origem; (v) saber se foi demonstrado dissídio jurisprudencial pela alínea c do art. 105, III, da CF; (vi) saber se houve prescrição da pretensão punitiva superveniente quanto ao crime do art. 317, § 2º, do CP; e (vii) saber se cabe concessão de habeas corpus de ofício.
   > III. Razões de decidir
-  > 3. A Corte de origem reconheceu a atipicidade da conduta imputada ao recorrido, em razão da ausência de comprovação do dolo específico e da fragilidade do conjunto probatório, aplicando o princípio do in dubio pro reo.
-  > 4. A pretensão ministerial de condenação do recorrido pelo crime de inserção de dados falsos em sistema de informações demanda revolvimento fático-probatório, providência vedada no âmbito do recurso especial, conforme a Súmula n. 7/STJ.
-  > 5. O pleito de decretação da perda da função pública conforme o art. 92, inciso I, do Código Penal, não foi especificamente tratado pelo Tribunal a quo, mesmo com a oposição de aclaratórios, o que impede o exame do mérito da tese suscitada no recurso especial, por ausência de prequestionamento, conforme a orientação da Súmula n. 211/STJ.
-  > 6. Para que se configure o prequestionamento ficto previsto no art. 1.025 do Código de Processo Civil, aplicado por analogia ao processo penal, é indispensável que o recorrente, nas razões do apelo nobre, aponte a ofensa ao art. 619 do Código de Processo Penal, abrangendo a tese alegada, providência que não foi efetivada na hipótese.
+  > 4. A alegada nulidade pela prova emprestada demanda incursão fática sobre a existência e o momento da juntada das mídias aos autos físicos, vedada pela Súmula n. 7/STJ; o acórdão recorrido assentou que a prova emprestada estava anexada e foi posteriormente juntada aos autos digitalizados, com manifestação defensiva e reabertura de vista. Além disso, a prova emprestada é admissível no processo penal desde que respeitados o contraditório e a ampla defesa, e a nulidade reclama demonstração de prejuízo concreto (CPP, art. 563), inexistente nos autos.
+  > 5. O acordo de não persecução penal é cabível em processos em curso quando da entrada em vigor da Lei n. 13.964/2019 e pode ser requerido até o trânsito em julgado, independentemente de confissão prévia; o Ministério Público deve motivar a recusa e submetê-la à revisão interna (art. 28-A, § 14, CPP; STF, HC n. 185.913; STJ, Tema n. 1.098). No caso, a recusa foi fundamentada em circunstâncias concretas e ratificada pelo órgão revisional. O controle judicial limita-se à legalidade e aos requisitos objetivos, sem substituição do juízo de suficiência da medida despenalizadora.
+  > 6. A improcedência da ação de improbidade administrativa por atipicidade superveniente de índole normativa (revogação do art. 11, I, da LIA e taxatividade do rol: Tema n. 1.199/STF) não afasta, por si só, a justa causa da ação penal. A exceção à independência entre as instâncias pressupõe afastamento categórico do dolo no juízo cível, o que não ocorreu; os tipos penais dos arts. 317, § 2º, e 299, parágrafo único, do CP permanecem incólumes.
+  > 7. A tese de atipicidade e a invocação de insuficiência probatória, contrapondo-se ao especial fim de agir e à moldura fática fixada pelo acórdão, exigem reexame de provas, vedado pela Súmula n. 7/STJ. A alegada ofensa ao art. 155 do CPP carece de prequestionamento, atraindo as Súmulas n. 211/STJ e 282 e 356/STF.
+  > 8. O dissídio jurisprudencial não foi demonstrado por ausência de cotejo analítico entre os julgados e por invocação de paradigma oriundo de habeas corpus, inapto à comprovação da divergência (CF, art. 105, III, c).
+  > 9. Reconhece-se a prescrição superveniente da pretensão punitiva do crime do art. 317, § 2º, do CP: pena concreta de 3 meses de detenção (CP, art. 110, § 1º), prazo prescricional de 3 anos (CP, art. 109, VI), último marco interruptivo na publicação do acórdão condenatório em 9/2/2023 (CP, art. 117, IV; STF, HC 176.473; STJ, Tema 1.100). Não houve novo marco interruptivo; embargos desacolhidos não interrompem o prazo e decisões do STJ não constituem causas interruptivas (STJ, HC n. 826.977). A causa impeditiva do CP, art. 116, III, não incide, pois o recurso especial foi admitido, mereceu conhecimento e foi desprovido, vedada interpretação extensiva em desfavor do réu.
+  > 10. O pedido de habeas corpus de ofício está prejudicado quanto ao crime prescrito e, quanto às demais teses, não se constata ilegalidade manifesta nem se supera o óbice da Súmula n. 7/STJ pela via de ofício.
   > IV. Dispositivo
-  > 7. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.052.674/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/10/2026, DJEN de 16/10/2026.)
+  > 11. Agravo regimental parcialmente provido para declarar extinta a punibilidade do agravante quanto ao crime do art. 317, § 2º, do Código Penal, pela prescrição da pretensão punitiva superveniente, mantida a condenação pelo art. 299, parágrafo único, do Código Penal.
+  > (AgRg nos EDcl no REsp n. 2.117.444/RS, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 15/10/2026, DJEN de 19/10/2026.)
 
-## 162. AREsp nº 3317207 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Receptação · Fundada suspeita
-- Resumo: Abordagem do motorista só pelo nervosismo, sem elemento objetivo, é ilegal (art. 244 do CPP). A descoberta posterior do veículo adulterado não convalida a busca, e as provas derivadas são ilícitas. Réu absolvido da receptação (art. 386, II, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3317207.pdf
+## 162. HC nº 1134069 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Furto · Prisão e medidas cautelares
+- Resumo: O juiz não pode decretar a preventiva de ofício, sem pedido do MP ou representação da polícia (art. 311 do CPP; Súmula 676/STJ). Preventiva anulada num furto de 8 latas de Pringles, avaliadas em R$ 72.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1134069.pdf
 
-## 163. RHC nº 237625 / PA (STJ)
-- Decisão monocrática. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Usurpação de bem da União · Inépcia da denúncia
-- Resumo: Denúncia inepta quanto aos crimes da Lei 8.176/1991 (ouro e combustível), por não descrever a conduta. E ordem de desocupação não é 'suspensão de direito': enquadrá-la no art. 359 do CP seria interpretação extensiva contra o réu. Ação penal trancada nesses pontos; segue quanto aos demais crimes.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-237625.pdf
+## 163. HC nº 1109888 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Tribunal do Júri
+- Resumo: Para o desaforamento basta dúvida fundada sobre a imparcialidade do Júri (art. 427 do CPP): cidade de 20 mil habitantes, grande repercussão e o poder público local tomando partido, com parecer favorável da Procuradoria de Justiça. Júri anulado e desaforado.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1109888.pdf
 
-## 164. PExt no AREsp nº 2714514 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Quebra de sigilo
-- Resumo: A nulidade das interceptações reconhecida para corréus se estende a quem está na mesma situação (art. 580 do CPP), mesmo em processo desmembrado e com recurso extraordinário pendente contra o acórdão-paradigma. Provas desentranhadas; o juízo de origem verifica as fontes independentes (Operação Materello).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2714514.pdf
+## 164. HC nº 1114459 / PR (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Violência doméstica
+- Resumo: Lesão corporal culposa (art. 129, § 6º, do CP) exige a demonstração da violação do dever objetivo de cuidado e da previsibilidade; a dinâmica descrita era a de um acidente com o veículo. Réu absolvido por atipicidade (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114459.pdf
 
-## 165. HC nº 1133453 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Contrabando · Prisão e medidas cautelares
-- Resumo: Tornozeleira e recolhimento domiciliar noturno mantidos por longo período, sem motivação concreta, são desproporcionais. Revogados, mantidas as demais cautelares de ônus reduzido (caso de contrabando).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1133453.pdf
+## 165. HC nº 1112935 / ES (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Lavagem de dinheiro
+- Resumo: Sem atos de ocultação ou dissimulação da origem ilícita dos valores, a conduta descrita não é lavagem de dinheiro (art. 1º da Lei 9.613/1998). Ação penal trancada quanto à paciente por atipicidade.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112935.pdf
 
-## 166. HC nº 1136779 / BA (STJ)
-- Decisão monocrática (liminar). Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Violência doméstica · Prisão e medidas cautelares · Superação da Súmula 691
-- Resumo: Quem recebe liberdade provisória com fiança e continua preso por não poder pagar, assistido pela Defensoria, não pode ficar preso por pobreza (art. 350 do CPP; HC coletivo 568.693/ES). Fiança dispensada, mantidas as protetivas e cautelares; Súmula 691 superada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136779.pdf
+## 166. HC nº 942619 / GO (STJ)
+- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Tráfico de drogas · ANPP
+- Resumo: Negar o ANPP por falta de confissão no inquérito é inválido: a confissão pode ser formalizada na assinatura do acordo (Tema 1.303/STJ). Autos devolvidos para o MP examinar a proposta, com recusa fundamentada se for o caso.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-942619.pdf
 
-## 167. HC nº 1128385 / PR (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Furto · Execução penal
-- Resumo: No indulto do Decreto 12.338/2024 (art. 9º, XV), a assistência pela Defensoria presume a incapacidade econômica (art. 12, § 2º) e dispensa a reparação do dano, sem exigir arrependimento posterior. Indulto restabelecido nas condenações por furto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1128385.pdf
+## 167. AREsp nº 3274597 / TO (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Ameaça · Violência doméstica · Testemunho indireto
+- Resumo: A declaração da vítima só na delegacia e o testemunho de quem apenas a repete em juízo vêm da mesma fonte e não se corroboram (art. 155 do CPP). Sem prova judicial autônoma, réu absolvido da ameaça (art. 386, VII).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3274597.pdf
 
-## 168. HC nº 1114885 / BA (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/10/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento feito sem as cautelas do art. 226 do CPP, só confirmado em juízo, sem flagrante, apreensão de bens ou outra prova independente, não sustenta a condenação (Tema 1.258/STJ). Réu absolvido de roubo e importunação sexual (art. 386, VII, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1114885.pdf
+## 168. HC nº 1137700 / SP (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Tráfico de drogas · Busca e apreensão
+- Resumo: Mandado de busca deferido apenas 'considerando os documentos' e o parecer do MP, sem fundamentação própria, é nulo; não se trata nem de fundamentação per relationem. A droga achada depois não convalida a busca. Provas ilícitas, preventiva revogada e justa causa a reexaminar na origem.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1137700.pdf
 
-## 169. ApCrim nº 0204142-84.2025.8.06.0312 (TJCE)
-- Decisão colegiada. Relatora: Des.ª Lira Ramos de Oliveira. 1ª Câmara Criminal. Publicado em 16/10/2026.
-- Crime / Tema: Tráfico de drogas · Porte ilegal de munição · Fundada suspeita · Inviolabilidade de domicílio
-- Resumo: Busca pessoal só porque o réu 'olhava para trás e parecia nervoso', sem elemento objetivo, é ilícita (art. 244 do CPP), assim como o ingresso na casa que dela decorreu. Local ermo e notícias genéricas de tráfico na região não suprem a falta de fundada suspeita. Sem outras provas, réu absolvido de tráfico e porte de munição (art. 386, VII, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-apcrim-0204142-84-2025.pdf
-- Ementa oficial:
-  > EMENTA: DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. RECURSO DA DEFESA. ADMISSIBILIDADE. NÃO CONHECIMENTO DO PLEITO DE INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO NA FRAÇÃO MÁXIMA (2/3). BENEFÍCIO JÁ RECONHECIDO E APLICADO PELO JUÍZO DE ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL. PRELIMINAR. PLEITO DE ABSOLVIÇÃO. TESE DE ILICITUDE DAS PROVAS DECORRENTES DA BUSCA PESSOAL E DO INGRESSO DOMICILIAR SEM JUSTA CAUSA. ACOLHIMENTO. AUSÊNCIA DE FUNDADAS RAZÕES. AUSÊNCIA DE DESCRIÇÃO CONCRETA E PRECISA DA ATITUDE SUSPEITA. ALEGATIVA DE QUE O RÉU PARECIA NERVOSO. INEXISTÊNCIA DE ELEMENTOS OBJETIVOS. DIVERGÊNCIA NOS DEPOIMENTOS DAS TESTEMUNHAS DE ACUSAÇÃO. PRECEDENTES STJ E TJCE. INEXISTÊNCIA DE OUTROS INDÍCIOS OU ELEMENTOS JUSTIFICADORES DA MEDIDA INVASIVA. NÃO COMPROVAÇÃO DE INVESTIGAÇÃO PRÉVIA, DENÚNCIA ROBUSTA OU OUTROS INDÍCIOS DE ATIVIDADE CRIMINOSA. ILICITUDE DAS PROVAS DECORRENTES. INEXISTÊNCIA DE OUTRAS PROVAS HÁBEIS AO DECRETO CONDENATÓRIO. ABSOLVIÇÃO QUE SE IMPÕE. ART. 386, VII, DO CPP. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PROVIDO.
-  > I – CASO EM EXAME
-  > 1. Cuida-se de Apelação Criminal interposta por Kauã Félix de Sousa, objurgando sentença proferida pelo Juízo da 1ª Vara da Comarca de Cascavel, que o condenou pelo cometimento dos crimes capitulados no art. 33, caput da Lei n. 11.343/06 e art. 14 da Lei n. 10.826/2003, à pena de 4 (quatro) anos de reclusão, em regime inicialmente aberto, e ao pagamento de 232 (duzentos e trinta e dois) dias-multa.
-  > II – QUESTÃO EM DISCUSSÃO
-  > 2. A questão em discussão consiste em saber se a busca pessoal realizada com base em atitude suspeita genérica da parte ré atende ao requisito de fundada suspeita exigido pelo art. 244 do CPP e, em caso negativo, se subsistem nos autos outras provas, produzidas em contraditório judicial, suficientes para a condenação nos termos da denúncia.
-  > III – RAZÕES DE DECIDIR
-  > 3. Admissibilidade: Recurso parcialmente conhecido.
-  > 3.1. Do não conhecimento do pedido de incidência do tráfico privilegiado. Pugna a parte recorrente pela incidência da minorante do tráfico privilegiado na fração máxima. Contudo, no caso concreto, verifica-se que o magistrado a quo, na terceira fase da dosimetria da pena, aplicou redutor do § 4.º do art. 33 da Lei n. 11.343/06, reduzindo a pena de 2/3 (dois terços). Portanto, o referido pleito recursal não comporta conhecimento, por ausência de interesse recursal e por ofensa ao princípio da dialeticidade.
-  > Preliminar
-  > 4. Tese de nulidade das provas colhidas ante a busca pessoal ilegal e a invasão de domicílio sem justa causa. A Defesa sustenta que "A sentença recorrida rejeitou a nulidade da busca pessoal sob o argumento de que o "nervosismo" e os "olhares para trás" do Apelante constituiriam fundadas razões para a abordagem, nos termos do art. 244 do CPP. Todavia, a prova colhida em audiência não sustenta sequer essa narrativa", destacando que "O "nervosismo" narrado pelo policial Elias é, em si, elemento de natureza puramente subjetiva, de difícil aferição objetiva e insuscetível de controle judicial posterior. Não há qualquer registro de câmera corporal (body cam), câmera de viatura ou outra gravação que objetive e confirme a narrativa de fuga ou nervosismo. A única prova é o depoimento do próprio policial que realizou a abordagem o que configura hipótese clássica de autolegitimação da abordagem, sem suporte probatório externo" (fl. 223).
-  > 4.1. Cumpre esclarecer que, segundo a denúncia (fls. 01/03), amparada no incluso inquérito policial, "no dia 21 de setembro de 2025, por volta das 20h30min, no Sítio Boa Vista, nesta urbe, o denunciado Kauã Félix de Sousa foi flagrado portando ilegalmente três munições intactas de calibre .38, e mantendo em sua residência substâncias entorpecentes (maconha) destinadas à comercialização. Conforme se extrai dos autos, policiais militares realizavam patrulhamento de rotina quando visualizaram o denunciado em atitude suspeita. Ao perceber a aproximação da guarnição, Kauã demonstrou visível nervosismo, razão pela qual foi realizada a abordagem. Durante a busca pessoal, foram localizadas em seu bolso três munições intactas calibre .38. Procedida consulta ao sistema policial, constatou-se a existência de mandado de prisão preventiva em aberto em desfavor do denunciado. Indagado acerca de seu endereço, Kauã informou residir em uma casa situada nas proximidades da Areninha Espaço Nobre, nesta cidade. A equipe deslocou-se ao local indicado, onde foi recebida por Karen Thaíssa Farias Monteiro, sua companheira. Questionada pelos policiais sobre a eventual existência de materiais ilícitos no imóvel, Karen relatou que havia drogas guardadas na geladeira. Realizadas as buscas, foram encontradas porções de maconha acondicionadas em invólucros plásticos, típicos de fracionamento para venda, além de duas balanças de precisão sobre o balcão da cozinha — elementos que evidenciam a inequívoca destinação comercial do entorpecente".
-  > 4.2. No caso concreto, a análise detida dos autos (termos de depoimentos dos policiais Eliezer Alves de Sousa Neto, fls. 6/7, Igor Francisco do Nascimento, fls. 13/14, e Antônio Elson da Costa Lemos, fls. 15/16) revela que: i) a equipe policial realizava patrulhamento de rotina em motocicletas quando avistou o réu em atitude suspeita; ii) o réu olhava para trás e parecia nervoso; iii) na busca pessoal, os policiais encontraram em seu bolso três munições intactas de calibre .38; iv) a consulta ao sistema mostrou um mandado de prisão preventiva em aberto contra o réu; v) perguntado sobre onde residia, o réu disse que morava nas proximidades e conduziu os policiais até o imóvel; vi) perguntando se havia algo ilícito na residência, respondeu que guardava drogas na geladeira; vii) os policiais encontraram maconha e balança de precisão no local indicado; viii) em razão do material apreendido e do mandado de prisão, o réu foi conduzido à unidade policial.
-  > 4.3. Extrai-se, assim, que os policiais militares, em sede policial, afirmaram que abordaram o réu apenas por considerarem sua conduta suspeita, já que ele olhava para trás e parecia nervoso. Por conseguinte, realizada a busca pessoal, foram encontradas três munições, momento em que também tomaram conhecimento do mandado de prisão preventiva em aberto, e dirigiram-se a residência do réu, resultando na apreensão de maconha (217g) e duas balanças de precisão.
-  > 4.4. Em juízo, sob o crivo do contraditório e ampla defesa, o policial militar Eliezer Alves de Sousa Neto disse "que, durante patrulhamento de rotina, avistou o acusado em local ermo, demonstrando nervosismo ao perceber a aproximação da composição policial. Realizada a abordagem, foram encontradas munições em sua posse. Consultado o sistema policial, constatou-se mandado de prisão em aberto. No trajeto até a residência, o próprio acusado informou que havia drogas em sua casa. A companheira autorizou a entrada e foram localizadas drogas na geladeira e expostas em um balcão" (fl. 168/169 e mídia audiovisual de fl. 159/160).
-  > 4.5. O policial militar Antônio Elson da Costa Lemos, em juízo, declarou "ter recebido informações sobre tráfico na região. Ao avistar o acusado em local ermo, este demonstrou nervosismo e olhava para trás. Na abordagem, foram localizadas munições. O acusado não portava documento de identificação. Durante o deslocamento à residência, o acusado indicou que havia drogas em sua casa. A companheira autorizou a entrada e as drogas foram encontradas" (fl. 169 e mídia audiovisual de fl. 159/160).
-  > 4.6. Em juízo, o réu negou a prática do tráfico e do porte das munições, afirmando que a droga apreendida era destinada ao seu consumo pessoal.
-  > 4.7. Diante desse contexto, verifica-se que a busca pessoal foi realizada com base unicamente em suposta atitude suspeita do réu, sem que houvesse qualquer elemento objetivo ou circunstância concreta que justificasse a medida. Além disso, a análise da prova oral contida nos autos, tanto em sede de inquérito policial como em juízo, revela que é impossível se afirmar, com o mínimo grau de certeza necessária, como se deu a abordagem policial e quais foram as suas circunstâncias concretas. Com efeito, os depoimentos colhidos limitam-se a mencionar uma suposta "atitude suspeita", descrita apenas como o fato de o réu olhar para trás e "parecer nervoso", o que não se mostra suficiente para justificar a busca pessoal, nos moldes como se deu, uma vez que não restaram comprovadas nos autos a realização de diligências prévias e quais as atitudes concretas do réu que motivaram a atuação policial.
-  > 4.8. Logo, a suposta autorização para ingresso na residência é consequência da preexistência das fundadas razões justificadoras da abordagem e busca pessoal, situação que não restou evidenciada nos caso em apreço. Não obstante o local ermo, característica que favorece práticas ilícitas, e denúncias anônimas de tráfico na região, constata-se a inexistência de outros elementos indicativos da ocorrência de crime a justificar abordagem policial e pessoal, bem como o ingresso na residência.
-  > 4.9. A jurisprudência do Superior Tribunal de Justiça exige "a existência de fundada suspeita (justa causa) para a realização de busca pessoal, baseada em elementos objetivos e concretos, não legitimando a medida se amparada apenas em impressões subjetivas ou "atitude suspeita" genérica" (STJ – AgRg no REsp n. 2.225.740/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/3/2026, DJEN de 16/3/2026).
-  > 4.10. Importante mencionar que a 1ª Câmara Criminal desta eg. Corte de Justiça já teve a oportunidade de se manifestar sobre a matéria, em caso semelhante, concluindo que "1. A busca pessoal sem mandado judicial exige fundada suspeita objetiva e concreta, não sendo suficientes para sua legitimação meras percepções subjetivas, comportamentos ambíguos ou o simples o fato de se encontrar em local conhecido pelo intenso tráfico de drogas. 2. Quando a busca pessoal é realizada sem fundada suspeita, em violação ao art. 244 do CPP, as provas dela decorrentes são ilícitas e devem ser desentranhadas do processo, conforme art. 157 do CPP e art. 5º, LVI, da Constituição Federal. 3. O fato de terem sido encontradas drogas após a revista ilegal não convalida a ilegalidade prévia, sendo necessário que o elemento "fundada suspeita" seja aferido com base nas circunstâncias anteriores à diligência." (TJCE – Apelação Criminal - 0039845-14.2014.8.06.0064, Rel. Desembargador(a) LIRA RAMOS DE OLIVEIRA, 1ª Câmara Criminal, data do julgamento: 25/08/2026, data da publicação: 26/08/2026).
-  > 4.11. No caso em apreço, conforme entendimento jurisprudencial firmado pelas Cortes Superiores, observa-se a inexistência de fundadas razões justificadoras da busca pessoal e, por conseguinte, do ingresso na residência.
-  > 4.12. Verificando-se a ilicitude da busca pessoal e do ingresso na residência, ante a ausência de fundadas razões prévias, concretas e objetivamente amparadas em indícios e circunstâncias verificáveis, não constituindo fundadas suspeitas a alegação genérica de denúncia anônima, de atitude suspeita vaga e a existência de tráfico de drogas na região, impõe-se o reconhecimento da ilicitude das provas oriundas das medidas mencionadas, de modo a desentranhá-las do feito, ignorando-as para fins de julgamento da ação penal.
-  > 4.13. Dessa feita, excluídas as provas obtidas a partir do ingresso na residência ilícita, vê-se inexistirem outras provas suficientes no feito que comprovem a materialidade e autoria delitiva de modo a corroborar a pretensão condenatória da peça acusatória. Logo, conclui-se que as provas dos autos são incapazes de atribuir ao réu a responsabilidade pela prática delituosa denunciada.
-  > 4.14. Desse modo, considerando "A teoria dos frutos da árvore envenenada (art. 157, CPP) torna ilícitas todas as provas derivadas da busca ilegal, incluindo as drogas encontradas na casa do acusado, sendo a absolvição a medida correta diante da nulidade das provas" (STJ – AREsp n. 2.593.191/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024).
-  > 4.15. Assim, conforme se sustenta no apelo mencionado, entende-se que os elementos dos autos evidenciam a ilicitude da busca pessoal e do ingresso na residência realizada em face da parte recorrente, de modo que as provas obtidas devem ser desentranhadas e desconsideradas para fins de julgamento da ação penal, não constando nos autos provas suficientes para a condenação do réu pelos delitos imputados, razão pela qual se impõe a reforma da sentença que condenou o réu, ante a ausência de provas suficientes para a condenação, ao teor do art. 386, VII, do Código de Processo Penal.
-  > IV. DISPOSITIVO E TESE
-  > 5. Recurso parcialmente conhecido e, na parte conhecida, provido.
-  > Tese de julgamento: "1. A busca pessoal sem mandado judicial exige fundada suspeita objetiva e concreta, não sendo suficientes para sua legitimação meras percepções subjetivas, comportamentos ambíguos ou o simples o fato de se encontrar em local conhecido pelo intenso tráfico de drogas. 2. Quando a busca pessoal é realizada sem fundada suspeita, em violação ao art. 244 do CPP, as provas dela decorrentes são ilícitas e devem ser desentranhadas do processo, conforme art. 157 do CPP e art. 5º, LVI, da Constituição Federal. 3. O fato de terem sido encontradas drogas após a revista ilegal não convalida a ilegalidade prévia, sendo necessário que o elemento "fundada suspeita" seja aferido com base nas circunstâncias anteriores à diligência."
-  > (TJCE, Apelação Criminal n. 0204142-84.2025.8.06.0312, relatora Desembargadora Lira Ramos de Oliveira, 1ª Câmara Criminal, julgado em 6/10/2026, publicado em 16/10/2026.)
+## 169. HC nº 1115285 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Prova digital · Busca e apreensão
+- Resumo: Celulares apreendidos durante o cumprimento de mandado de prisão contra outra pessoa, sem mandado de busca, flagrante ou consentimento, são prova ilícita; a autorização posterior para extrair os dados não corrige a apreensão. O juízo delimita as provas derivadas e reavalia a preventiva.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115285.pdf
 
-## 170. AREsp nº 3352144 / SP (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 15/10/2026.
-- Crime / Tema: Porte de drogas para consumo pessoal
-- Resumo: Porte de 0,9 g de cocaína para consumo pessoal, sem ofensividade penalmente relevante, é materialmente atípico (art. 28 da Lei 11.343/2006). Agravo não conhecido, mas HC de ofício: restabelecida a rejeição da denúncia (art. 395, II, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3352144.pdf
+## 170. HC nº 1111126 / RS (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 19/10/2026.
+- Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
+- Resumo: Preso preventivamente desde 2021 e pronunciado em 2023, sem previsão de Júri: o excesso de prazo na formação da culpa torna a prisão ilegal. Preventiva relaxada, com cautelares do art. 319 do CPP.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1111126.pdf

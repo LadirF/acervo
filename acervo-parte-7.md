@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 7 de 44 (decisões 61 a 70)
+# Acervo de Jurisprudência — Cury Advogados — parte 7 de 45 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 436 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 448 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,136 +8,91 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. HC nº 1083969 / SP (STJ)
+## 61. ARE nº 1.315.025 / ES (STF)
+- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 05/11/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Resumo: Negado seguimento ao agravo do MP contra acórdão que anulou o júri por qualificadora (art. 121, § 2º, IV, do CP) contrária à prova: sem repercussão geral demonstrada, ofensa reflexa e Súmula 279/STF. Anulação mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1315025.pdf
+
+## 62. HC nº 278.460 / SP (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 05/11/2026.
+- Crime / Tema: Homicídio qualificado · Ocultação de cadáver · Continuidade delitiva
+- Resumo: A continuidade específica do art. 71, parágrafo único, do CP não alcança a ocultação de cadáver, sem violência à pessoa; aplica-se a comum. Ordem parcial, mantida a dosimetria dos homicídios.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278460.pdf
+
+## 63. HC nº 278.718 / PR (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Descaminho
+- Resumo: A prestação pecuniária pode ser parcelada se comprovada a dificuldade financeira, a ser apurada pelo juízo; a redução do valor não foi acolhida. Ordem parcial.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278718.pdf
+
+## 64. RHC nº 278.722 / AL (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Furto · Princípio da insignificância
+- Resumo: Reiteração ou antecedentes não afastam, por si sós, a insignificância: furto de alimentos e guloseimas de valor irrisório, sem violência e com restituição integral, é atípico. Paciente absolvida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278722.pdf
+
+## 65. HC nº 279.064 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
+- Resumo: A preventiva é, em regra, incompatível com o regime semiaberto ou aberto fixado na sentença, salvo crime com violência ou grave ameaça. Prisão revogada, com cautelares do art. 319 do CPP. Ordem de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279064.pdf
+
+## 66. HC nº 278.903 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Posse ilegal de arma de fogo · Porte ilegal de arma de fogo
+- Resumo: A reincidência, por si só, não impede a substituição por restritivas ao reincidente não específico (art. 44, § 3º, do CP), e o juízo deve avaliá-la fundamentadamente. Ordem parcial, de ofício; mantido o semiaberto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278903.pdf
+
+## 67. HC nº 278.451 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
+- Resumo: Quantidade e natureza da droga, dinheiro e mensagens sobre "produto não especificado" não bastam, por si sós, para provar dedicação ao crime e afastar o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Ordem de ofício para aplicar o redutor, em fração motivada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278451.pdf
+
+## 68. AgRg no HC nº 1029565 / ES (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik; redator do acórdão: Min. Messod Azulay Neto. Quinta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Corrupção passiva · Quebra da cadeia de custódia · Prova digital
+- Resumo: A senha surgida no celular e a falta de lacre durante a custódia estatal tornam imprestável a prova digital extraída em outro processo e usada contra terceiro, pois a perícia não pode mais ser repetida sob contraditório; o ônus de provar a integridade é do Estado, e o hash da extração original não supre a falha posterior (art. 158 do CPP). Agravo parcialmente provido por maioria; ordem concedida para vedar o uso da prova.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1029565.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PROVA DIGITAL. CADEIA DE CUSTÓDIA. BLOQUEIO POR SENHA SUPERVENIENTE E AUSÊNCIA DE LACRE. IMPOSSIBILIDADE DE REPETIÇÃO DA PERÍCIA. ÔNUS DO ESTADO SOBRE INTEGRIDADE E CONFIABILIDADE DA PROVA. IMPRESTABILIDADE PROBATÓRIA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. ORDEM CONCEDIDA.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto em habeas corpus, impugnando decisão monocrática que denegou a ordem e revogou liminar, em ação penal que apura, em tese, corrupção passiva majorada (art. 317, caput e § 1º, c/c arts. 29 e 71 do Código Penal), com denúncia lastreada em dados telemáticos extraídos, em processo diverso e sem a participação do paciente, de aparelho celular de corréu.
+  > 2. Fato relevante. Em decisão colegiada, foi determinada nova perícia com a possibilidade de apresentação de quesitos pelas partes. O Laudo Pericial n. 18.500/2023 registrou, no entanto, bloqueio por senha no dispositivo, inviabilizando nova extração do conteúdo. Consta divergência documental quanto à conservação do vestígio: laudo anterior registrou devolução em sacola lacrada com número específico, enquanto o novo exame encontrou apenas fita adesiva e grampeamento, sem lacre formal.
+  > 3. As decisões anteriores. Órgão julgador estadual rejeitou nulidade por suposta quebra da cadeia de custódia, sob fundamento de licitude da extração originária (mandado judicial, peritos oficiais e certificação por hash). Na via do habeas corpus, decisão monocrática entendeu inexistente adulteração efetiva e reputou eventual falha superveniente insuficiente para contaminar a prova, apontando acervo probatório autônomo. A defesa agravou buscando reconhecer a inadmissibilidade ou, sucessivamente, a imprestabilidade da prova digital e o cerceamento de defesa pelo impedimento de contraprova técnica.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se a impossibilidade de repetição da perícia, decorrente do aparecimento de senha no aparelho durante a custódia estatal e da ausência de lacre formal, justifica o reconhecimento de quebra da cadeia de custódia e a consequente imprestabilidade da prova digital para a ação penal em curso; e (ii) saber se a impossibilidade de nova extração impõe ao Estado o ônus de afirmar e demonstrar a integralidade, identidade e confiabilidade da prova, afastando a presunção de veracidade quando descumpridos procedimentos de conservação do vestígio.
+  > III. Razões de decidir
+  > 5. A superveniência de bloqueio por senha enquanto o aparelho permaneceu sob custódia estatal e a ausência de lacre formal rompem a mesmidade do vestígio, geram desconfiança epistêmica e comprometem a autenticidade e a comparabilidade do conteúdo, inviabilizando o contraditório técnico na reprodução da prova.
+  > 6. A conservação do corpo de delito é dever estatal contínuo; a divergência documental entre o lacre certificado no laudo originário e o estado do aparelho no novo exame evidencia inobservância da preservação adequada, o que afasta a confiabilidade da prova digital para fins de persecução penal contra terceiro não participante da relação processual originária.
+  > 7. Diante da irrepetibilidade criada pela própria custódia estatal, não se pode exigir da defesa demonstração específica de adulteração do conteúdo; o ônus de comprovar integridade e confiabilidade das fontes de prova apresentadas recai sobre o Estado.
+  > 8. A certificação por hash na extração originária atesta apenas a correspondência naquele momento histórico específico e, portanto, não elide incertezas supervenientes nem substitui a necessidade de repetição em atenção ao contraditório efetivo de quem não fez parte da relação jurídica que deu causa à descoberta fortuita; a irrepetibilidade esvazia o valor probatório do conteúdo para a ação penal decorrente da descoberta de indícios na perícia originária de outro delito.
+  > 9. Na via do habeas corpus, não se examina a suficiência do acervo probatório autônomo remanescente, limitando-se ao reconhecimento da imprestabilidade da prova digital impugnada e dos efeitos correlatos sobre o contraditório e a ampla defesa.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para reconhecer a imprestabilidade da prova digital extraída do aparelho celular e conceder a ordem, vedando sua utilização na ação penal decorrente da descoberta fortuita.
+  > Tese de julgamento:
+  > 1. O Estado deve conservar, com integridade, identidade e autenticidade, vestígios sob sua custódia; a inobservância dessa preservação compromete a confiabilidade e impede o uso da prova na persecução penal.
+  > 2. A impossibilidade de repetição da perícia, ocasionada por bloqueio por senha superveniente e ausência de lacre, torna imprestável a prova digital para acusação contra terceiro e impede o contraditório técnico efetivo.
+  > 3. O ônus de comprovar a integridade e a confiabilidade das fontes de prova apresentadas recai sobre o Estado, especialmente quando descumpridos procedimentos de cadeia de custódia.
+  > 4. A certificação por hash na extração originária não supre falhas posteriores de custódia nem afasta dúvidas sobre autenticidade e comparabilidade do conteúdo em contexto diverso.
+  > (AgRg no HC n. 1.029.565/ES, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/10/2026, DJEN de 4/11/2026.)
+
+## 69. RHC nº 244387 / PE (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Estupro de vulnerável · Ameaça
+- Resumo: A decisão que confirma o recebimento da denúncia deve enfrentar, ainda que de forma sucinta, as teses da resposta à acusação; despacho genérico que só designa audiência é nulo (art. 93, IX, da CF). RHC provido; ação anulada desde essa decisão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-244387.pdf
+- Ementa oficial:
+  > PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ESTUPRO DE VULNERÁVEL E AMEAÇA. AUSÊNCIA DE APRECIAÇÃO DAS RESPOSTAS À ACUSAÇÃO. DEVER DE FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECURSO EM HABEAS CORPUS PROVIDO.
+  > 1. A jurisprudência consolidada desta Corte Superior entende que a decisão que mantém ou confirma o recebimento da denúncia deve ser fundamentada, ainda que de forma concisa, com apreciação das teses deduzidas na resposta à acusação, providência não observada na espécie.
+  > 2. O Juízo de origem afirmou estarem ausentes as hipóteses de absolvição sumária e determinou o prosseguimento do feito por meio de decisão genérica, com a mera designação da audiência de instrução e julgamento, sem o exame, ainda que sucinto, das preliminares e teses suscitadas pela defesa, o que configura negativa de prestação jurisdicional.
+  > 3. A ausência de apreciação das teses defensivas acarreta evidente prejuízo ao contraditório, à ampla defesa e ao dever constitucional de fundamentação das decisões judiciais, previsto no art. 93, IX, da CF.
+  > 4. Recurso em habeas corpus provido para anular a ação penal a partir da decisão que confirmou o recebimento da denúncia e determinar a prolação de nova decisão, com apreciação das teses defensivas, como se entender de direito.
+  > (RHC n. 244.387/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 29/10/2026, DJEN de 4/11/2026.)
+
+## 70. HC nº 1124087 / RJ (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Prisão e medidas cautelares
-- Resumo: Ser "conhecido no meio policial" por tráfico não é fundada suspeita para busca pessoal (art. 244 do CPP), e o encontro posterior da droga não convalida a diligência. HC concedido de ofício para trancar a ação penal e revogar a prisão.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1083969.pdf
-
-## 62. HC nº 1123210 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento por exibição isolada (show-up), sem alinhamento nem prova independente, é nulo e contamina os depoimentos em juízo, e o tribunal não pode anular a absolvição para "sanar" o vício com novo reconhecimento (art. 226 do CPP). Ordem de ofício; absolvição restabelecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123210.pdf
-
-## 63. HC nº 1129431 / AL (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Estupro de vulnerável · Corrupção de menores · Revisão criminal
-- Resumo: A retratação da vítima depois do trânsito em julgado autoriza a justificação criminal para instruir futura revisão, sem que o juízo antecipe o valor da prova. Ordem concedida para processar a justificação e ouvir a ofendida, com as cautelas dos arts. 201 e 400-A do CPP; condenação mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129431.pdf
-
-## 64. AgRg no AREsp nº 3175114 / RS (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão
-- Resumo: Nervosismo do condutor e estar parado em local conhecido pelo tráfico não são fundada suspeita para busca veicular (arts. 240, § 2º, e 244 do CPP), e a apreensão posterior não convalida a diligência. Agravo do MP desprovido, por maioria; absolvição por tráfico mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3175114.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA VEICULAR. NERVOSISMO E LOCAL ASSOCIADO À TRAFICÂNCIA. AUSÊNCIA DE FUNDADAS RAZÕES. ILICITUDE DA PROVA. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. ABSOLVIÇÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo órgão acusador estadual contra decisão que, ao conhecer do agravo, conheceu do recurso especial e negou-lhe provimento, mantendo acórdão que reconheceu a nulidade das provas obtidas a partir de busca veicular reputada ilegal e absolveu os recorridos do delito de tráfico de drogas.
-  > 2. A Abordagem e busca veicular foram motivadas por nervosismo do condutor em local usualmente associado à traficância, sem a presença de elementos objetivos e concretos pré-existentes. Assim, o Tribunal de origem reconheceu a ilicitude das provas e absolveu os acusados com fundamento no art. 386 do CPP.
-  > II. Questão em discussão
-  > 3. As questões em discussão consistem em saber se: a) à luz dos arts. 240, § 2º, e 244 do CPP, o mero nervosismo do abordado e a proximidade de local comum de tráfico consubstanciam elementos objetivos e concretos para legitimar a busca veicular; e b) a ilicitude da diligência inicial contamina as provas subsequentes, impondo a absolvição.
-  > III. Razões de decidir
-  > 4. A busca veicular sem mandado exige fundada suspeita ancorada em elementos objetivos e verificáveis; o nervosismo do abordado, a movimentação interna no veículo e a proximidade de área conhecida por tráfico não constituem, isoladamente, justa causa nos termos dos arts. 240, § 2º, e 244 do CPP.
-  > 5. A posterior apreensão de objetos ilícitos não convalida a ilegalidade antecedente da diligência, sob pena de retroatividade da causa de justificação; incide a teoria dos frutos da árvore envenenada, que contamina as provas derivadas.
-  > 6. Ausentes elementos concretos e objetivos pré-existentes à diligência, correta a conclusão pela ilicitude das provas e pela manutenção da absolvição, em consonância com a jurisprudência consolidada do STJ.
-  > IV. Dispositivo e tese
-  > 7. Resultado do Julgamento: Agravo regimental desprovido. Teses de julgamento:
-  > 1. A busca veicular sem mandado judicial exige fundada suspeita baseada em elementos objetivos e concretos, não bastando o nervosismo, a movimentação interna no veículo ou a proximidade de local comum de tráfico.
-  > 2. A ilicitude da diligência inicial contamina as provas subsequentes, nos termos da teoria dos frutos da árvore envenenada, impondo a absolvição.
-  > 3. A apreensão posterior de entorpecentes não convalida a ilegalidade prévia da busca, devendo o controle judicial recair sobre os elementos ex ante da medida.
-  > (AgRg no AREsp n. 3.175.114/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
-
-## 65. AREsp nº 3349933 / MG (STJ)
-- Decisão monocrática. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Inviolabilidade de domicílio
-- Resumo: Denúncia anônima, mesmo com nome e endereço, sem diligência prévia que a confirme, não é fundada suspeita para busca pessoal (art. 244 do CPP), e a ilicitude contamina a entrada no domicílio que veio depois. HC de ofício absolve o réu.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3349933.pdf
-
-## 66. AREsp nº 3321210 / SP (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento feito só na delegacia, sem as regras do art. 226 do CPP e apenas reafirmado pela vítima em juízo, não prova a autoria sem outra prova independente (Tema 1.258/STJ). REsp da defesa provido para absolver, com extensão ao corréu (art. 580 do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3321210.pdf
-
-## 67. AREsp nº 3266856 / SP (STJ)
-- Decisão monocrática. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Receptação · Fundada suspeita · Busca e apreensão
-- Resumo: Mudar de direção ou atravessar a rua ao avistar a polícia, sem outro dado objetivo, não é fundada suspeita para busca pessoal (art. 244 do CPP); a apreensão do celular e a consulta do IMEI são ilícitas por derivação. REsp da defesa provido; réu absolvido de receptação.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3266856.pdf
-
-## 68. AgRg no AREsp nº 3244311 / MG (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · ANPP
-- Resumo: Reconhecido o tráfico privilegiado, a redução entra no cálculo da pena mínima para o ANPP (art. 28-A do CPP), e a recusa do MP baseada só na gravidade abstrata do crime é inválida. Agravo do MP desprovido; autos voltam para o MP examinar o acordo de forma motivada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3244311.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL. TRÁFICO PRIVILEGIADO. RECUSA MINISTERIAL GENÉRICA. RETORNO DOS AUTOS PARA ANÁLISE DO ANPP. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo órgão ministerial estadual contra decisão que deu provimento a recurso defensivo para determinar o retorno dos autos ao Ministério Público, a fim de que analise concretamente e justifique a (im)possibilidade de propositura de acordo de não persecução penal (ANPP) em favor do agravado.
-  > 2. Reconhecimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006 (tráfico privilegiado), com redução que autoriza, em tese, a aferição da pena mínima em abstrato inferior a 4 anos, nos termos do art. 28-A, § 1º, do CPP.
-  > 3. Recusa ministerial ao ANPP motivada de forma genérica e fundada em gravidade abstrata do delito. Decisão agravada mantida para oportunizar, na origem, a inauguração do procedimento de ANPP e a motivação concreta quanto à sua viabilidade, como requisito para manutenção dos efeitos da condenação.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se, reconhecida a causa de diminuição do tráfico privilegiado, deve-se considerar as causas de redução para aferir a pena mínima em abstrato do art. 28-A do CPP e oportunizar ao Ministério Público a análise do ANPP; e (ii) saber se a recusa ministerial ao ANPP, fundada em gravidade abstrata e sem individualização de elementos concretos do caso, é suficiente para afastar a medida despenalizadora.
-  > III. Razões de decidir
-  > 5. O ANPP é faculdade do Ministério Público condicionada aos requisitos legais, mas a recusa deve ser motivada com dados concretos do caso. Fundamentação genérica, baseada na gravidade abstrata do tipo penal e em circunstâncias inerentes ao delito, não se mostra idônea para afastar a possibilidade de oferecimento do acordo.
-  > 6. O reconhecimento do tráfico privilegiado exige considerar, para fins do art. 28-A do CPP, as causas de diminuição aplicáveis, podendo resultar em pena mínima em abstrato inferior a 4 anos, o que autoriza a análise da viabilidade de ANPP.
-  > 7. A jurisprudência das Turmas do STJ reconhece a necessidade de retorno dos autos à origem para oportunizar a proposta de ANPP quando há desclassificação para o tráfico privilegiado, a fim de evitar o excesso de acusação (overcharging) em prejuízo da defesa.
-  > 8. No caso, ausentes elementos individualizados que demonstrem a insuficiência ou desnecessidade do ANPP, impõe-se manter a determinação de que o Ministério Público examine e motive, concretamente, a (im)possibilidade de propositura do acordo.
-  > IV. Dispositivo e tese
-  > 9. Resultado do Julgamento: Agravo regimental desprovido, mantida a determinação de retorno dos autos à origem para análise motivada da viabilidade de ANPP pelo Ministério Público.
-  > Tese de julgamento:
-  > 1. O reconhecimento do tráfico privilegiado impõe considerar as causas de diminuição para aferição da pena mínima em abstrato do art. 28-A do CPP, permitindo a análise da viabilidade de ANPP.
-  > 2. A recusa ministerial ao ANPP deve ser motivada com elementos concretos do caso; fundamentação genérica ou baseada em gravidade abstrata não é suficiente para afastar o oferecimento do acordo.
-  > 3. Havendo possível excesso de acusação decorrente da desclassificação para tráfico privilegiado, os autos devem retornar à origem para que o Ministério Público examine, de forma motivada, a proposta de ANPP.
-  > (AgRg no AREsp n. 3.244.311/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
-
-## 69. AgRg no AREsp nº 3270585 / BA (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Roubo · Dosimetria
-- Resumo: No concurso formal próprio, o aumento vai de 1/6 a 1/2 conforme o número de crimes: com 6 ou mais, aplica-se 1/2, nunca 2/3 (art. 70 do CP). Agravo da defesa desprovido (Súmula 284/STF), mas HC de ofício reduz a pena dos três réus.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3270585.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 284/STF. AUSÊNCIA DE INDICAÇÃO CLARA DE DISPOSITIVO LEGAL VIOLADO. CONCURSO FORMAL DE CRIMES. APLICAR FRAÇÃO DE 1/2. AGRAVO REGIMENTAL NÃO PROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO PARA REDUÇÃO DA PENA.
-  > I. Caso em exame
-  > 1. Agravo regimental contra decisão da Presidência que não conheceu o recurso especial, diante do óbice da Súmula 284/STF (ausência de indicação do dispositivo legal violado).
-  > 2. A defesa sustenta ter apontado expressamente o art. 70 do Código Penal e requer o conhecimento do recurso especial.
-  > 3. As instâncias ordinárias majoraram a pena em 2/3 pelo concurso formal de crimes, em roubo praticado mediante uma só ação com 10 vítimas.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se a ausência de indicação clara e precisa dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, com incidência da Súmula 284/STF; e (ii) saber se é possível, diante de flagrante ilegalidade na dosimetria pela aplicação de fração de 2/3 no concurso formal de crimes, conceder, de ofício, habeas corpus para aplicar a fração de 1/2 prevista no art. 70 do Código Penal.
-  > III. Razões de decidir
-  > 5. A ausência de indicação clara e precisa dos dispositivos legais federais violados nas razões do recurso especial caracteriza deficiência de fundamentação e atrai a incidência da Súmula 284/STF, o que impede o conhecimento do especial.
-  > 6. O art. 647-A do Código de Processo Penal autoriza a concessão de habeas corpus de ofício, quando verificada flagrante ilegalidade no curso do processo.
-  > 7. O art. 70 do Código Penal fixa a fração de aumento pelo concurso formal entre 1/6 e 1/2, devendo, em hipóteses de 6 ou mais infrações, aplicar-se a fração de 1/2; a majoração de 2/3 extrapola o limite legal.
-  > 8. Configurada a ilegalidade na fração do concurso formal, impõe-se a readequação da pena, com aplicação da fração de 1/2, mantendo-se, no mais, a condenação.
-  > IV. Dispositivo e tese
-  > 9. Resultado do Julgamento: Agravo regimental não provido; ordem de habeas corpus concedida de ofício para reduzir a pena mediante aplicação da fração de 1/2 no concurso formal de crimes.
-  > Tese de julgamento:
-  > 1. A ausência de indicação clara e precisa dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, por incidência da Súmula 284/STF.
-  > 2. O órgão julgador pode conceder habeas corpus de ofício, nos termos do art. 647-A do CPP, quando verificada flagrante ilegalidade no curso do processo.
-  > 3. A fração de aumento pelo concurso formal de crimes deve observar os limites do art. 70 do CP, aplicando-se 1/2 quando praticadas 6 ou mais infrações, vedada a majoração acima desse patamar.
-  > (AgRg no AREsp n. 3.270.585/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
-
-## 70. AgRg no AREsp nº 3248667 / PA (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Crimes ambientais
-- Resumo: No crime do art. 50-A da Lei 9.605/1998, a natureza pública ou devoluta da área deve estar certificada antes do desmatamento; com a demarcação da terra indígena suspensa, a dúvida sobre a área e sobre o dolo leva à absolvição. Agravo do MPF desprovido (Súmula 7/STJ).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3248667.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 50-A DA LEI 9.605. TERRAS DE DOMÍNIO PÚBLICO OU DEVOLUTAS. DEMARCAÇÃO DE TERRA INDÍGENA. CERTIFICAÇÃO PRÉVIA. INSUFICIÊNCIA PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental no agravo em recurso especial interposto pela acusação contra decisão que não conheceu do recurso especial, em face de acórdão absolutório quanto ao crime do Art. 50-A da Lei 9.605.
-  > 2. Instâncias ordinárias reconheceram inexistência de prova, em nível acima de dúvida razoável, de que o desmatamento ocorreu em “terras de domínio público ou devolutas” na data dos fatos, bem como incerteza quanto à natureza jurídica da área, afastando o dolo. Absolvição com fundamento no CPP, Art. 386, VII.
-  > 3. Decisão agravada manteve o acórdão absolutório e não conheceu do recurso especial por incidência da Súmula 7/STJ, ante a necessidade de revolvimento do conjunto fático-probatório.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se o conhecimento do recurso especial é obstado pela Súmula 7/STJ, por demandar reexame de fatos e provas para desconstituir a conclusão absolutória das instâncias ordinárias.
-  > III. Razões de decidir
-  > 5. Incide a Súmula 7/STJ, pois a reforma da conclusão do Tribunal de origem sobre insuficiência probatória e ausência de dolo exigiria novo exame do conjunto fático-probatório, providência inviável na via estreita do recurso especial.
-  > 6. A condenação penal exige prova robusta, segura e harmônica de autoria e materialidade, inclusive quanto ao elemento normativo do tipo; persistindo dúvida razoável sobre a natureza jurídica da área e o dolo, impõe-se a absolvição nos termos do CPP, Art. 386, VII.
-  > IV. Dispositivo e tese
-  > 7. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que não conheceu do recurso especial.
-  > Tese de julgamento:
-  > 1. O reexame de fatos e provas para infirmar acórdão absolutório encontra óbice na Súmula 7/STJ em sede de recurso especial.
-  > 2. Persistindo dúvida razoável sobre a natureza jurídica da área e sobre o dolo, a absolvição deve ser mantida com fundamento no CPP, Art. 386, VII.
-  > (AgRg no AREsp n. 3.248.667/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
+- Crime / Tema: Receptação · Inviolabilidade de domicílio · Prisão e medidas cautelares
+- Resumo: Declaração de terceiro em outra investigação, sem diligência prévia, não autoriza ingresso domiciliar, nem em crime permanente (Tema 280/STF; art. 157 do CPP). Provas ilícitas desentranhadas e preventiva revogada; a ação segue, para sentença só com prova autônoma.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124087.pdf
