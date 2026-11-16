@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex, nofollow">
-<link rel="alternate" type="text/markdown" href="ia/20261116-1328/acervo.md" title="Acervo em texto (para IA)">
+<link rel="alternate" type="text/markdown" href="ia/20261116-1509/acervo.md" title="Acervo em texto (para IA)">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#101010">
 <title>Acervo de Jurisprudência</title>
@@ -2093,7 +2093,7 @@
 </style>
 </head>
 <body>
-<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261116-1328/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
+<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261116-1509/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
 <a class="pular" href="#docket">Pular para as decisões</a>
 <div class="wrap">
 
@@ -8998,12 +8998,15 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
             return folha._tarefa.promise.then(function () {
               if (token !== renderToken || ger !== folha._ger) return;
               folha._tarefa = null;
-              return lib.renderTextLayer({
-                textContentSource: page.streamTextContent(),
-                container: texto,
-                viewport: viewport,
-                textDivs: []
-              }).promise;
+              return page.getTextContent().then(function (tc) {
+                if (token !== renderToken || ger !== folha._ger) return;
+                return lib.renderTextLayer({
+                  textContentSource: ordenarTextoPdf(tc),
+                  container: texto,
+                  viewport: viewport,
+                  textDivs: []
+                }).promise;
+              });
             });
           }).catch(function () { /* desenho cancelado ao rolar para longe */ });
         }
@@ -9035,6 +9038,51 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
     }).catch(function () {
       if (token === renderToken) status('Não foi possível exibir o PDF aqui. Use “Baixar PDF”.');
     });
+  }
+
+  // Texto do PDF na ordem de leitura (16/11/2026). O PDF.js entrega os pedaços de
+  // texto na ordem em que o arquivo os gravou, e os PDFs do STJ gravam o itálico
+  // e as referências (art. 312, Lei n. 15.272/2025...) num pedaço à parte: copiar
+  // ou buscar "RECURSO EM HABEAS CORPUS" falhava ("EM . CRIMES CONTRA AHABEAS
+  // CORPUS"). Aqui os pedaços são reagrupados por linha (de cima para baixo) e,
+  // na linha, da esquerda para a direita; onde há distância entre dois pedaços
+  // sem espaço, entra um pedaço " " invisível. A camada de texto (seleção e
+  // cópia) e a busca usam o mesmo resultado. Texto girado vai ao fim, como veio.
+  // Só muda a ORDEM dos pedaços: nenhuma letra é alterada, e o desenho da página
+  // (canvas) continua sendo o do arquivo original.
+  function ordenarTextoPdf(tc) {
+    var itens = [], girados = [];
+    tc.items.forEach(function (it, i) {
+      if (it.str === undefined || it.str === '') return;
+      var t = it.transform;
+      if (Math.abs(t[1]) > 1e-3 || Math.abs(t[2]) > 1e-3 || t[0] <= 0) { girados.push(it); return; }
+      itens.push({ it: it, i: i, x: t[4], y: t[5], h: it.height || Math.abs(t[3]) || 1 });
+    });
+    itens.sort(function (a, b) { return b.y - a.y || a.x - b.x || a.i - b.i; });
+    var linhas = [];
+    itens.forEach(function (o) {
+      var l = linhas[linhas.length - 1];
+      if (l && Math.abs(o.y - l.y) <= Math.max(1, 0.45 * Math.min(o.h, l.h))) l.itens.push(o);
+      else linhas.push({ y: o.y, h: o.h, itens: [o] });
+    });
+    var saida = [];
+    linhas.forEach(function (l) {
+      l.itens.sort(function (a, b) { return a.x - b.x || a.i - b.i; });
+      l.itens.forEach(function (o, k) {
+        var ant = k ? l.itens[k - 1] : null;
+        if (ant) {
+          var fim = ant.x + (ant.it.width || 0), vao = o.x - fim;
+          if (vao > 0.12 * Math.min(o.h, ant.h) && !/\s$/.test(ant.it.str) && !/^\s/.test(o.it.str)) {
+            var ta = ant.it.transform;
+            saida.push({ str: ' ', dir: 'ltr', width: vao, height: ant.it.height, fontName: ant.it.fontName, hasEOL: false,
+              transform: [ta[0], ta[1], ta[2], ta[3], fim, ta[5]] });
+          }
+        }
+        saida.push(Object.assign({}, o.it, { hasEOL: k === l.itens.length - 1 }));
+      });
+    });
+    girados.forEach(function (it) { saida.push(Object.assign({}, it, { hasEOL: true })); });
+    return { items: saida, styles: tc.styles, lang: tc.lang };
   }
 
   // De onde vem o PDF: embutido na página (HTML do Drive, bloco <script
@@ -9219,6 +9267,7 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
     avisoBotao: avisoBotao,
     carregarPdfjs: carregarPdfjs,
     obterPdf: obterPdf,
+    ordenarTextoPdf: ordenarTextoPdf,
     porPagina: POR_PAGINA
   };
 
@@ -10444,11 +10493,16 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
           f._divs = [];
           f._strs = [];
           f._textoPronto = false;
-          var conteudo = L.textos && L.textos[f._n - 1] ? L.textos[f._n - 1].conteudo : page.streamTextContent();
-          return lib.renderTextLayer({ textContentSource: conteudo, container: texto, viewport: vp, textDivs: f._divs, textContentItemsStr: f._strs }).promise.then(function () {
+          // texto na ordem de leitura (A.ordenarTextoPdf), o mesmo que a busca usa
+          var pronto = L.textos && L.textos[f._n - 1];
+          var conteudoP = pronto ? Promise.resolve(pronto.conteudo) : page.getTextContent().then(A.ordenarTextoPdf);
+          return conteudoP.then(function (conteudo) {
             if (token !== L.token || ger !== f._ger) return;
-            f._textoPronto = true;
-            aoTextoDaPagina.forEach(function (fn) { fn(f); });
+            return lib.renderTextLayer({ textContentSource: conteudo, container: texto, viewport: vp, textDivs: f._divs, textContentItemsStr: f._strs }).promise.then(function () {
+              if (token !== L.token || ger !== f._ger) return;
+              f._textoPronto = true;
+              aoTextoDaPagina.forEach(function (fn) { fn(f); });
+            });
           });
         });
       }).catch(function () {
@@ -10702,9 +10756,10 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
           }
           var num = ++n;
           doc.getPage(num).then(function (page) {
-            return page.getTextContent().then(function (tc) {
+            return page.getTextContent().then(function (tc0) {
               if (token !== L.token) return;
-              var itens = tc.items.filter(function (it) { return it.str !== undefined; });
+              var tc = A.ordenarTextoPdf(tc0);   // ordem de leitura (ver ordenarTextoPdf no script principal)
+              var itens = tc.items;
               var inicios = [], orig = '';
               itens.forEach(function (it) {
                 inicios.push(orig.length);
@@ -10712,7 +10767,7 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
                 if (it.hasEOL) orig += ' ';
               });
               var mapa = [];
-              var dob = dobrar(orig, mapa);
+              var dob = dobrar(igualarAspas(orig), mapa);
               L.textos[num - 1] = { conteudo: tc, itens: itens, inicios: inicios, dob: dob, mapa: new Uint32Array(mapa), vp1: page.getViewport({ scale: 1 }) };
               aoLerPagina.forEach(function (fn) { fn(num); });
             });
@@ -10720,6 +10775,15 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
             .then(function () { darVez(proxima); });
         };
         proxima();
+      };
+
+      // Na busca do PDF, aspas retas e curvas (e hífen e travessão) valem o mesmo:
+      // para o computador são caracteres diferentes, e o leitor não os distingue de
+      // olho. Troca um caractere por um, para o mapa de posições continuar valendo.
+      var igualarAspas = function (s) {
+        return s.replace(/[“”„‟″«»]/g, '"')
+          .replace(/[‘’‚‛′]/g, "'")
+          .replace(/[‐‑‒–—―−]/g, '-');
       };
 
       // Item de texto que contém a posição `pos` do texto original da página
@@ -10844,7 +10908,7 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
       var buscarNoPdf = function () {
         clearTimeout(B.tempo);
         B.tempo = 0;
-        var q = dobrar(vfCampo.value);
+        var q = dobrar(igualarAspas(vfCampo.value));
         if (q === B.termo) return;
         B.termo = q;
         B.resultados = [];
