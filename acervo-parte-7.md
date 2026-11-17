@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 7 de 45 (decisões 61 a 70)
+# Acervo de Jurisprudência — Cury Advogados — parte 7 de 47 (decisões 61 a 70)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 448 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,91 +8,112 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 61. ARE nº 1.315.025 / ES (STF)
-- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 05/11/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Negado seguimento ao agravo do MP contra acórdão que anulou o júri por qualificadora (art. 121, § 2º, IV, do CP) contrária à prova: sem repercussão geral demonstrada, ofensa reflexa e Súmula 279/STF. Anulação mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1315025.pdf
+## 61. AREsp nº 3378457 / SC (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 09/11/2026.
+- Crime / Tema: Tráfico internacional de arma de fogo · Execução penal
+- Resumo: Semiaberto fixado só pelo tempo de pena (4 anos e 2 meses): descontada a prisão cautelar, a pena fica abaixo de 4 anos e cabe o regime aberto, mesmo com circunstância negativa na pena-base (art. 387, § 2º, do CPP). Recurso provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3378457.pdf
 
-## 62. HC nº 278.460 / SP (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 05/11/2026.
-- Crime / Tema: Homicídio qualificado · Ocultação de cadáver · Continuidade delitiva
-- Resumo: A continuidade específica do art. 71, parágrafo único, do CP não alcança a ocultação de cadáver, sem violência à pessoa; aplica-se a comum. Ordem parcial, mantida a dosimetria dos homicídios.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278460.pdf
+## 62. REsp nº 2292117 / RS (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/11/2026.
+- Crime / Tema: Estelionato
+- Resumo: Embargos de declaração que não enfrentam teses defensivas relevantes (art. 619 do CPP) levam à cassação do acórdão dos embargos e a novo julgamento; a condenação segue por ora. Recurso provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2292117.pdf
 
-## 63. HC nº 278.718 / PR (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Descaminho
-- Resumo: A prestação pecuniária pode ser parcelada se comprovada a dificuldade financeira, a ser apurada pelo juízo; a redução do valor não foi acolhida. Ordem parcial.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278718.pdf
-
-## 64. RHC nº 278.722 / AL (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Furto · Princípio da insignificância
-- Resumo: Reiteração ou antecedentes não afastam, por si sós, a insignificância: furto de alimentos e guloseimas de valor irrisório, sem violência e com restituição integral, é atípico. Paciente absolvida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278722.pdf
-
-## 65. HC nº 279.064 / SP (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
-- Resumo: A preventiva é, em regra, incompatível com o regime semiaberto ou aberto fixado na sentença, salvo crime com violência ou grave ameaça. Prisão revogada, com cautelares do art. 319 do CPP. Ordem de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279064.pdf
-
-## 66. HC nº 278.903 / SP (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Posse ilegal de arma de fogo · Porte ilegal de arma de fogo
-- Resumo: A reincidência, por si só, não impede a substituição por restritivas ao reincidente não específico (art. 44, § 3º, do CP), e o juízo deve avaliá-la fundamentadamente. Ordem parcial, de ofício; mantido o semiaberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278903.pdf
-
-## 67. HC nº 278.451 / SP (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Quantidade e natureza da droga, dinheiro e mensagens sobre "produto não especificado" não bastam, por si sós, para provar dedicação ao crime e afastar o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Ordem de ofício para aplicar o redutor, em fração motivada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278451.pdf
-
-## 68. AgRg no HC nº 1029565 / ES (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik; redator do acórdão: Min. Messod Azulay Neto. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Corrupção passiva · Quebra da cadeia de custódia · Prova digital
-- Resumo: A senha surgida no celular e a falta de lacre durante a custódia estatal tornam imprestável a prova digital extraída em outro processo e usada contra terceiro, pois a perícia não pode mais ser repetida sob contraditório; o ônus de provar a integridade é do Estado, e o hash da extração original não supre a falha posterior (art. 158 do CPP). Agravo parcialmente provido por maioria; ordem concedida para vedar o uso da prova.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1029565.pdf
+## 63. AgRg no AREsp nº 3271753 / SC (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Tráfico de drogas
+- Resumo: Cabe apelação adesiva da defesa, por analogia ao art. 997, § 2º, do CPC (art. 3º do CPP), e da recusa em recebê-la cabe RESE (art. 581, XV, do CPP). Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3271753.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PROVA DIGITAL. CADEIA DE CUSTÓDIA. BLOQUEIO POR SENHA SUPERVENIENTE E AUSÊNCIA DE LACRE. IMPOSSIBILIDADE DE REPETIÇÃO DA PERÍCIA. ÔNUS DO ESTADO SOBRE INTEGRIDADE E CONFIABILIDADE DA PROVA. IMPRESTABILIDADE PROBATÓRIA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. ORDEM CONCEDIDA.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ADESIVO EM PROCESSO PENAL. APLICAÇÃO ANALÓGICA DO CPC. APELAÇÃO ADESIVA DEFENSIVA. CABIMENTO DE RECURSO EM SENTIDO ESTRITO. AGRAVO REGIMENTAL IMPROVIDO.
   > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto em habeas corpus, impugnando decisão monocrática que denegou a ordem e revogou liminar, em ação penal que apura, em tese, corrupção passiva majorada (art. 317, caput e § 1º, c/c arts. 29 e 71 do Código Penal), com denúncia lastreada em dados telemáticos extraídos, em processo diverso e sem a participação do paciente, de aparelho celular de corréu.
-  > 2. Fato relevante. Em decisão colegiada, foi determinada nova perícia com a possibilidade de apresentação de quesitos pelas partes. O Laudo Pericial n. 18.500/2023 registrou, no entanto, bloqueio por senha no dispositivo, inviabilizando nova extração do conteúdo. Consta divergência documental quanto à conservação do vestígio: laudo anterior registrou devolução em sacola lacrada com número específico, enquanto o novo exame encontrou apenas fita adesiva e grampeamento, sem lacre formal.
-  > 3. As decisões anteriores. Órgão julgador estadual rejeitou nulidade por suposta quebra da cadeia de custódia, sob fundamento de licitude da extração originária (mandado judicial, peritos oficiais e certificação por hash). Na via do habeas corpus, decisão monocrática entendeu inexistente adulteração efetiva e reputou eventual falha superveniente insuficiente para contaminar a prova, apontando acervo probatório autônomo. A defesa agravou buscando reconhecer a inadmissibilidade ou, sucessivamente, a imprestabilidade da prova digital e o cerceamento de defesa pelo impedimento de contraprova técnica.
+  > 1. Agravo regimental interposto contra decisão monocrática que conheceu de agravo para dar provimento a recurso especial, reconhecendo o cabimento da apelação adesiva defensiva e determinando ao Tribunal de origem o regular juízo de admissibilidade, afastado o óbice da ausência de previsão legal.
+  > 2. Fato relevante. Ré condenada pelo art. 33, caput, da Lei n. 11.343/2006, com redimensionamento da reprimenda em apelação. O Tribunal de origem obstou o processamento da apelação adesiva defensiva por inexistência de previsão legal e não admitiu a via eleita para impugnação do não recebimento.
   > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se a impossibilidade de repetição da perícia, decorrente do aparecimento de senha no aparelho durante a custódia estatal e da ausência de lacre formal, justifica o reconhecimento de quebra da cadeia de custódia e a consequente imprestabilidade da prova digital para a ação penal em curso; e (ii) saber se a impossibilidade de nova extração impõe ao Estado o ônus de afirmar e demonstrar a integralidade, identidade e confiabilidade da prova, afastando a presunção de veracidade quando descumpridos procedimentos de conservação do vestígio.
+  > 3. Há duas questões em discussão: (i) saber se há previsão legal para a interposição de recurso adesivo no processo penal, por aplicação analógica do art. 997, § 2º, do Código de Processo Civil, nos termos do art. 3º do Código de Processo Penal, em favor da defesa; e (ii) saber se a decisão de primeiro grau que recusa o recebimento de apelação adesiva defensiva desafia recurso em sentido estrito, com fundamento no art. 581, inciso XV, do Código de Processo Penal.
   > III. Razões de decidir
-  > 5. A superveniência de bloqueio por senha enquanto o aparelho permaneceu sob custódia estatal e a ausência de lacre formal rompem a mesmidade do vestígio, geram desconfiança epistêmica e comprometem a autenticidade e a comparabilidade do conteúdo, inviabilizando o contraditório técnico na reprodução da prova.
-  > 6. A conservação do corpo de delito é dever estatal contínuo; a divergência documental entre o lacre certificado no laudo originário e o estado do aparelho no novo exame evidencia inobservância da preservação adequada, o que afasta a confiabilidade da prova digital para fins de persecução penal contra terceiro não participante da relação processual originária.
-  > 7. Diante da irrepetibilidade criada pela própria custódia estatal, não se pode exigir da defesa demonstração específica de adulteração do conteúdo; o ônus de comprovar integridade e confiabilidade das fontes de prova apresentadas recai sobre o Estado.
-  > 8. A certificação por hash na extração originária atesta apenas a correspondência naquele momento histórico específico e, portanto, não elide incertezas supervenientes nem substitui a necessidade de repetição em atenção ao contraditório efetivo de quem não fez parte da relação jurídica que deu causa à descoberta fortuita; a irrepetibilidade esvazia o valor probatório do conteúdo para a ação penal decorrente da descoberta de indícios na perícia originária de outro delito.
-  > 9. Na via do habeas corpus, não se examina a suficiência do acervo probatório autônomo remanescente, limitando-se ao reconhecimento da imprestabilidade da prova digital impugnada e dos efeitos correlatos sobre o contraditório e a ampla defesa.
-  > IV. Dispositivo e tese
-  > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para reconhecer a imprestabilidade da prova digital extraída do aparelho celular e conceder a ordem, vedando sua utilização na ação penal decorrente da descoberta fortuita.
-  > Tese de julgamento:
-  > 1. O Estado deve conservar, com integridade, identidade e autenticidade, vestígios sob sua custódia; a inobservância dessa preservação compromete a confiabilidade e impede o uso da prova na persecução penal.
-  > 2. A impossibilidade de repetição da perícia, ocasionada por bloqueio por senha superveniente e ausência de lacre, torna imprestável a prova digital para acusação contra terceiro e impede o contraditório técnico efetivo.
-  > 3. O ônus de comprovar a integridade e a confiabilidade das fontes de prova apresentadas recai sobre o Estado, especialmente quando descumpridos procedimentos de cadeia de custódia.
-  > 4. A certificação por hash na extração originária não supre falhas posteriores de custódia nem afasta dúvidas sobre autenticidade e comparabilidade do conteúdo em contexto diverso.
-  > (AgRg no HC n. 1.029.565/ES, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/10/2026, DJEN de 4/11/2026.)
+  > 4. A jurisprudência consolidada admite, em favor da defesa, a interposição de recurso adesivo no âmbito penal, por aplicação analógica do regime do art. 997, § 2º, do Código de Processo Civil, autorizada pelo art. 3º do Código de Processo Penal, por constituir mera forma de interposição de recursos já existentes e compatível com os princípios do processo penal.
+  > 5. Ao obstar o processamento da apelação adesiva por alegada inexistência no processo penal, o Tribunal de origem divergiu da orientação desta Corte Superior.
+  > 6. Reconhecida a viabilidade jurídica da apelação adesiva defensiva, a recusa de seu recebimento equipara-se à denegação da apelação e desafia recurso em sentido estrito, na forma do art. 581, inciso XV, do Código de Processo Penal.
+  > IV. Dispositivo
+  > 7. Resultado do Julgamento: Agravo regimental improvido.
+  > (AgRg no AREsp n. 3.271.753/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2026, DJEN de 6/11/2026.)
 
-## 69. RHC nº 244387 / PE (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Estupro de vulnerável · Ameaça
-- Resumo: A decisão que confirma o recebimento da denúncia deve enfrentar, ainda que de forma sucinta, as teses da resposta à acusação; despacho genérico que só designa audiência é nulo (art. 93, IX, da CF). RHC provido; ação anulada desde essa decisão.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-244387.pdf
+## 64. AgRg no AgRg no AREsp nº 3105882 / AP (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Execução penal
+- Resumo: Restituídos os bens e sem perda patrimonial da vítima, não há dano a reparar para o indulto do art. 2º, XV, do Decreto 11.846/2023, ainda que a recuperação tenha sido pela polícia. Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3105882.pdf
 - Ementa oficial:
-  > PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ESTUPRO DE VULNERÁVEL E AMEAÇA. AUSÊNCIA DE APRECIAÇÃO DAS RESPOSTAS À ACUSAÇÃO. DEVER DE FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECURSO EM HABEAS CORPUS PROVIDO.
-  > 1. A jurisprudência consolidada desta Corte Superior entende que a decisão que mantém ou confirma o recebimento da denúncia deve ser fundamentada, ainda que de forma concisa, com apreciação das teses deduzidas na resposta à acusação, providência não observada na espécie.
-  > 2. O Juízo de origem afirmou estarem ausentes as hipóteses de absolvição sumária e determinou o prosseguimento do feito por meio de decisão genérica, com a mera designação da audiência de instrução e julgamento, sem o exame, ainda que sucinto, das preliminares e teses suscitadas pela defesa, o que configura negativa de prestação jurisdicional.
-  > 3. A ausência de apreciação das teses defensivas acarreta evidente prejuízo ao contraditório, à ampla defesa e ao dever constitucional de fundamentação das decisões judiciais, previsto no art. 93, IX, da CF.
-  > 4. Recurso em habeas corpus provido para anular a ação penal a partir da decisão que confirmou o recebimento da denúncia e determinar a prolação de nova decisão, com apreciação das teses defensivas, como se entender de direito.
-  > (RHC n. 244.387/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 29/10/2026, DJEN de 4/11/2026.)
+  > EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDULTO. ART. 2º, XV, DO DECRETO N. 11.846/2023. INOCORRÊNCIA DE DANO A SER REPARADO. AGRAVO REGIMENTAL IMPROVIDO..
+  > I. Caso em exame
+  > 1. Trata-se de agravo regimental interposto pelo Ministério Público contra decisão monocrática que reconsiderou a decisão agravada para conhecer do agravo em recurso especial e negar provimento ao recurso especial no qual se pleiteia a cassação de indulto natalino fundamentado no art. 2º, XV, do Decreto n. 11.846/2023.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se a restituição dos bens subtraídos à vítima por diligência policial, sem prejuízo material, configura a hipótese de inocorrência de dano ressalvada pelo art. 2º, XV, do Decreto n. 11.846/2023, de modo a dispensar a reparação do dano para a concessão do indulto.
+  > III. Razões de decidir
+  > 3. O art. 2º, XV, do Decreto n. 11.846/2023 exige, para a concessão de indulto a condenado por crime contra o patrimônio cometido sem grave ameaça ou violência a pessoa, a reparação do dano até 25/12/2023. Trata-se de requisito objetivo, dispensado apenas nas hipóteses de inocorrência de dano ou de incapacidade econômica do condenado de repará-lo.
+  > 4. A reparação do dano pressupõe a existência de prejuízo a ser recomposto. Restituídos os bens subtraídos e ausente perda patrimonial da vítima, não há dano a reparar, situação abrangida pela ressalva da inocorrência de dano.
+  > 5. O decreto não especifica a causa da ausência de prejuízo nem exige que a restituição decorra de ato espontâneo do condenado. Exigi-la implicaria acrescentar restrição não prevista no ato presidencial, em indevida invasão da competência privativa do Presidente da República.
+  > IV. Dispositivo
+  > 6. Agravo regimental improvido.
+  > (AgRg no AgRg no AREsp n. 3.105.882/AP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2026, DJEN de 6/11/2026.)
 
-## 70. HC nº 1124087 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Receptação · Inviolabilidade de domicílio · Prisão e medidas cautelares
-- Resumo: Declaração de terceiro em outra investigação, sem diligência prévia, não autoriza ingresso domiciliar, nem em crime permanente (Tema 280/STF; art. 157 do CPP). Provas ilícitas desentranhadas e preventiva revogada; a ação segue, para sentença só com prova autônoma.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124087.pdf
+## 65. AgRg no AREsp nº 3211511 / PE (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
+- Resumo: A pronúncia não se apoia só em inquérito e testemunho indireto, nem em temor presumido da testemunha sem dado concreto (arts. 155 e 413 do CPP). Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3211511.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRIBUNAL DO JÚRI. PRONÚNCIA. ELEMENTOS DO INQUÉRITO. ART. 155 DO CPP. INDÍCIOS DE AUTORIA (ART. 413 DO CPP). AGRAVO IMPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto contra decisão monocrática que deu provimento a recurso especial defensivo e despronunciou o réu.
+  > II. Questão em discussão
+  > 2. Há duas questões em discussão: (i) saber se a pronúncia pode se fundamentar exclusivamente em elementos do inquérito e testemunho indireto, à luz do art. 155 do CPP; (ii) saber se a presunção de temor da testemunha, desacompanhada de dados concretos, supre a ausência de confirmação judicial do relato e autoriza a pronúncia, nos termos do art. 413 do CPP.
+  > III. Razões de decidir
+  > 3. Elementos oriundos do inquérito e testemunhos indiretos, ressalvadas as provas irrepetíveis, cautelares e antecipadas, não são aptos, por si sós, para embasar a pronúncia, sob pena de violação aos arts. 155 e 413 do CPP.
+  > 4. No caso concreto, o único indício de autoria é o depoimento extrajudicial de uma testemunha, não confirmado em juízo. Não se produziu nenhum outro dado probatório sequer sobre a autoria.
+  > 5. Inexistem dados concretos que sustentem a presunção de que a retratação em juízo decorreu de temor da testemunha.
+  > IV. Dispositivo
+  > 6. Resultado do Julgamento: Agravo regimental improvido.
+  > (AgRg no AREsp n. 3.211.511/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2026, DJEN de 6/11/2026.)
+
+## 66. AgRg no AREsp nº 3137829 / RN (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Furto · Execução penal
+- Resumo: Violação do monitoramento não homologada como falta grave é falta média e não impede a progressão; o exame criminológico da Lei 14.843/2024 não alcança crime anterior à sua vigência (art. 112, § 1º, da LEP). Agravo do MP não provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3137829.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. VIOLAÇÕES DO MONITORAMENTO ELETRÔNICO NÃO HOMOLOGADAS COMO FALTA GRAVE. FALTA MÉDIA. AUSÊNCIA DE ÓBICE À PROGRESSÃO. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NATUREZA MATERIAL. IRRETROATIVIDADE DA LEI PENAL MAIS GRAVOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A progressão de regime pressupõe o preenchimento cumulativo do requisito objetivo, consistente no cumprimento de determinado percentual da pena, e do requisito subjetivo, consubstanciado na “boa conduta carcerária, comprovada pelo diretor do estabelecimento”, nos termos do art. 112, § 1º, da Lei de Execução Penal. Somente a falta grave, por força da lei, interrompe o curso do requisito objetivo e evidencia, por si só, a ausência do requisito subjetivo, ao passo que a falta média sujeita o apenado exclusivamente às sanções previstas no art. 49, parágrafo único, da Lei de Execução Penal, entre as quais não figura a obstrução à progressão.
+  > 2. A violação do monitoramento eletrônico pode, em tese, configurar falta grave e obstar a progressão de regime, mas somente quando assim for formalmente homologada pelo juízo da execução penal. Ausente a homologação, as violações ostentam, no máximo, a natureza de faltas médias, com as consequências que a lei expressamente lhes reserva, entre as quais não figura o impedimento à progressão.
+  > 3.A jurisprudência consolidada desta Corte Superior reconhece que a Lei n. 14.843/2024, ao alterar o § 1º do art. 112 da Lei de Execução Penal, tem natureza material, na medida em que estabelece nova exigência para a obtenção do direito à progressão de regime. O exame criminológico não se limita a aspectos meramente probatórios, mas constitui requisito substancial que condiciona o próprio exercício do direito ao benefício executório.
+  > 4. Firmada a natureza material da norma, impõe-se a aplicação do princípio constitucional da irretroatividade da lei penal prejudicial, consagrado no art. 5º, XL, da Constituição Federal. Por constituir novatio legis in pejus, a Lei n. 14.843/2024 não pode retroagir para alcançar crimes praticados antes de sua vigência, sob pena de violação da garantia fundamental da irretroatividade da lei penal mais severa.
+  > 5. No caso concreto, as treze violações do monitoramento eletrônico praticadas pelo agravado foram qualificadas pelas instâncias de origem como faltas médias, sem homologação de falta grave no curso da execução, circunstância não impugnada pelo recurso especial. O crime pelo qual o agravado cumpre pena, furto qualificado pelo repouso noturno, previsto no art. 155, § 1º, do Código Penal, foi praticado em 20/1/2024, data anterior à publicação da Lei n. 14.843/2024, ocorrida em 11/4/2024.
+  > 6. Diante da ausência de falta grave homologada, a conclusão dos órgãos julgadores de origem de que o apenado preenchia o requisito subjetivo para a progressão de regime não configura violação do art. 112, § 1º, da Lei de Execução Penal. A incidência da nova exigência do exame criminológico à progressão de regime do agravado importaria, portanto, em retroatividade de lei penal mais severa, o que a Constituição Federal veda.
+  > 7. Agravo regimental não provido.
+  > (AgRg no AREsp n. 3.137.829/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 6/11/2026.)
+
+## 67. AREsp nº 3342895 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Retirado o reconhecimento fotográfico fora do art. 226 do CPP, sem prova autônoma de autoria, não resta base para a condenação (Tema 1.258/STJ). Réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3342895.pdf
+
+## 68. AgRg no AREsp nº 3269997 / GO (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Estupro de vulnerável · Prescrição
+- Resumo: Citação por edital sem esgotar as diligências (mandado dirigido a outra comarca, não ao endereço dos autos) é inválida; cai a suspensão do art. 366 do CPP e a prescrição corre desde o recebimento da denúncia. Punibilidade extinta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3269997.pdf
+
+## 69. HC nº 279.244 / PR (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 06/11/2026.
+- Crime / Tema: Contrabando
+- Resumo: Para multirreincidente condenado a pena baixíssima, inferior a quatro anos, o regime fechado é excessivo no caso concreto. Fixado o semiaberto, sem prejuízo de agravamento na unificação de penas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279244.pdf
+
+## 70. HC nº 1129246 / MS (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
+- Crime / Tema: Organização criminosa · Dosimetria
+- Resumo: A função de batedor, já usada para demonstrar a integração à organização criminosa, não sustenta a culpabilidade negativa sem circunstância concreta e individualizada. HC não conhecido; ordem de ofício: pena de 3 anos, 7 meses e 15 dias e 53 dias-multa; mantidos a condenação e o semiaberto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129246.pdf

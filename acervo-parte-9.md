@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 9 de 45 (decisões 81 a 90)
+# Acervo de Jurisprudência — Cury Advogados — parte 9 de 47 (decisões 81 a 90)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 448 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,146 +8,91 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 81. AgRg no AREsp nº 3270585 / BA (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Roubo · Dosimetria
-- Resumo: No concurso formal próprio, o aumento vai de 1/6 a 1/2 conforme o número de crimes: com 6 ou mais, aplica-se 1/2, nunca 2/3 (art. 70 do CP). Agravo da defesa desprovido (Súmula 284/STF), mas HC de ofício reduz a pena dos três réus.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3270585.pdf
+## 81. HC nº 278.903 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Posse ilegal de arma de fogo · Porte ilegal de arma de fogo
+- Resumo: A reincidência, por si só, não impede a substituição por restritivas ao reincidente não específico (art. 44, § 3º, do CP), e o juízo deve avaliá-la fundamentadamente. Ordem parcial, de ofício; mantido o semiaberto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278903.pdf
+
+## 82. HC nº 278.451 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
+- Resumo: Quantidade e natureza da droga, dinheiro e mensagens sobre "produto não especificado" não bastam, por si sós, para provar dedicação ao crime e afastar o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Ordem de ofício para aplicar o redutor, em fração motivada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278451.pdf
+
+## 83. AgRg no HC nº 1029565 / ES (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik; redator do acórdão: Min. Messod Azulay Neto. Quinta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Corrupção passiva · Quebra da cadeia de custódia · Prova digital
+- Resumo: A senha surgida no celular e a falta de lacre durante a custódia estatal tornam imprestável a prova digital extraída em outro processo e usada contra terceiro, pois a perícia não pode mais ser repetida sob contraditório; o ônus de provar a integridade é do Estado, e o hash da extração original não supre a falha posterior (art. 158 do CPP). Agravo parcialmente provido por maioria; ordem concedida para vedar o uso da prova.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1029565.pdf
 - Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 284/STF. AUSÊNCIA DE INDICAÇÃO CLARA DE DISPOSITIVO LEGAL VIOLADO. CONCURSO FORMAL DE CRIMES. APLICAR FRAÇÃO DE 1/2. AGRAVO REGIMENTAL NÃO PROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO PARA REDUÇÃO DA PENA.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PROVA DIGITAL. CADEIA DE CUSTÓDIA. BLOQUEIO POR SENHA SUPERVENIENTE E AUSÊNCIA DE LACRE. IMPOSSIBILIDADE DE REPETIÇÃO DA PERÍCIA. ÔNUS DO ESTADO SOBRE INTEGRIDADE E CONFIABILIDADE DA PROVA. IMPRESTABILIDADE PROBATÓRIA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. ORDEM CONCEDIDA.
   > I. Caso em exame
-  > 1. Agravo regimental contra decisão da Presidência que não conheceu o recurso especial, diante do óbice da Súmula 284/STF (ausência de indicação do dispositivo legal violado).
-  > 2. A defesa sustenta ter apontado expressamente o art. 70 do Código Penal e requer o conhecimento do recurso especial.
-  > 3. As instâncias ordinárias majoraram a pena em 2/3 pelo concurso formal de crimes, em roubo praticado mediante uma só ação com 10 vítimas.
+  > 1. O recurso. Agravo regimental interposto em habeas corpus, impugnando decisão monocrática que denegou a ordem e revogou liminar, em ação penal que apura, em tese, corrupção passiva majorada (art. 317, caput e § 1º, c/c arts. 29 e 71 do Código Penal), com denúncia lastreada em dados telemáticos extraídos, em processo diverso e sem a participação do paciente, de aparelho celular de corréu.
+  > 2. Fato relevante. Em decisão colegiada, foi determinada nova perícia com a possibilidade de apresentação de quesitos pelas partes. O Laudo Pericial n. 18.500/2023 registrou, no entanto, bloqueio por senha no dispositivo, inviabilizando nova extração do conteúdo. Consta divergência documental quanto à conservação do vestígio: laudo anterior registrou devolução em sacola lacrada com número específico, enquanto o novo exame encontrou apenas fita adesiva e grampeamento, sem lacre formal.
+  > 3. As decisões anteriores. Órgão julgador estadual rejeitou nulidade por suposta quebra da cadeia de custódia, sob fundamento de licitude da extração originária (mandado judicial, peritos oficiais e certificação por hash). Na via do habeas corpus, decisão monocrática entendeu inexistente adulteração efetiva e reputou eventual falha superveniente insuficiente para contaminar a prova, apontando acervo probatório autônomo. A defesa agravou buscando reconhecer a inadmissibilidade ou, sucessivamente, a imprestabilidade da prova digital e o cerceamento de defesa pelo impedimento de contraprova técnica.
   > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se a ausência de indicação clara e precisa dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, com incidência da Súmula 284/STF; e (ii) saber se é possível, diante de flagrante ilegalidade na dosimetria pela aplicação de fração de 2/3 no concurso formal de crimes, conceder, de ofício, habeas corpus para aplicar a fração de 1/2 prevista no art. 70 do Código Penal.
+  > 4. Há duas questões em discussão: (i) saber se a impossibilidade de repetição da perícia, decorrente do aparecimento de senha no aparelho durante a custódia estatal e da ausência de lacre formal, justifica o reconhecimento de quebra da cadeia de custódia e a consequente imprestabilidade da prova digital para a ação penal em curso; e (ii) saber se a impossibilidade de nova extração impõe ao Estado o ônus de afirmar e demonstrar a integralidade, identidade e confiabilidade da prova, afastando a presunção de veracidade quando descumpridos procedimentos de conservação do vestígio.
   > III. Razões de decidir
-  > 5. A ausência de indicação clara e precisa dos dispositivos legais federais violados nas razões do recurso especial caracteriza deficiência de fundamentação e atrai a incidência da Súmula 284/STF, o que impede o conhecimento do especial.
-  > 6. O art. 647-A do Código de Processo Penal autoriza a concessão de habeas corpus de ofício, quando verificada flagrante ilegalidade no curso do processo.
-  > 7. O art. 70 do Código Penal fixa a fração de aumento pelo concurso formal entre 1/6 e 1/2, devendo, em hipóteses de 6 ou mais infrações, aplicar-se a fração de 1/2; a majoração de 2/3 extrapola o limite legal.
-  > 8. Configurada a ilegalidade na fração do concurso formal, impõe-se a readequação da pena, com aplicação da fração de 1/2, mantendo-se, no mais, a condenação.
+  > 5. A superveniência de bloqueio por senha enquanto o aparelho permaneceu sob custódia estatal e a ausência de lacre formal rompem a mesmidade do vestígio, geram desconfiança epistêmica e comprometem a autenticidade e a comparabilidade do conteúdo, inviabilizando o contraditório técnico na reprodução da prova.
+  > 6. A conservação do corpo de delito é dever estatal contínuo; a divergência documental entre o lacre certificado no laudo originário e o estado do aparelho no novo exame evidencia inobservância da preservação adequada, o que afasta a confiabilidade da prova digital para fins de persecução penal contra terceiro não participante da relação processual originária.
+  > 7. Diante da irrepetibilidade criada pela própria custódia estatal, não se pode exigir da defesa demonstração específica de adulteração do conteúdo; o ônus de comprovar integridade e confiabilidade das fontes de prova apresentadas recai sobre o Estado.
+  > 8. A certificação por hash na extração originária atesta apenas a correspondência naquele momento histórico específico e, portanto, não elide incertezas supervenientes nem substitui a necessidade de repetição em atenção ao contraditório efetivo de quem não fez parte da relação jurídica que deu causa à descoberta fortuita; a irrepetibilidade esvazia o valor probatório do conteúdo para a ação penal decorrente da descoberta de indícios na perícia originária de outro delito.
+  > 9. Na via do habeas corpus, não se examina a suficiência do acervo probatório autônomo remanescente, limitando-se ao reconhecimento da imprestabilidade da prova digital impugnada e dos efeitos correlatos sobre o contraditório e a ampla defesa.
   > IV. Dispositivo e tese
-  > 9. Resultado do Julgamento: Agravo regimental não provido; ordem de habeas corpus concedida de ofício para reduzir a pena mediante aplicação da fração de 1/2 no concurso formal de crimes.
+  > 6. Resultado do Julgamento: Agravo regimental parcialmente provido para reconhecer a imprestabilidade da prova digital extraída do aparelho celular e conceder a ordem, vedando sua utilização na ação penal decorrente da descoberta fortuita.
   > Tese de julgamento:
-  > 1. A ausência de indicação clara e precisa dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, por incidência da Súmula 284/STF.
-  > 2. O órgão julgador pode conceder habeas corpus de ofício, nos termos do art. 647-A do CPP, quando verificada flagrante ilegalidade no curso do processo.
-  > 3. A fração de aumento pelo concurso formal de crimes deve observar os limites do art. 70 do CP, aplicando-se 1/2 quando praticadas 6 ou mais infrações, vedada a majoração acima desse patamar.
-  > (AgRg no AREsp n. 3.270.585/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
+  > 1. O Estado deve conservar, com integridade, identidade e autenticidade, vestígios sob sua custódia; a inobservância dessa preservação compromete a confiabilidade e impede o uso da prova na persecução penal.
+  > 2. A impossibilidade de repetição da perícia, ocasionada por bloqueio por senha superveniente e ausência de lacre, torna imprestável a prova digital para acusação contra terceiro e impede o contraditório técnico efetivo.
+  > 3. O ônus de comprovar a integridade e a confiabilidade das fontes de prova apresentadas recai sobre o Estado, especialmente quando descumpridos procedimentos de cadeia de custódia.
+  > 4. A certificação por hash na extração originária não supre falhas posteriores de custódia nem afasta dúvidas sobre autenticidade e comparabilidade do conteúdo em contexto diverso.
+  > (AgRg no HC n. 1.029.565/ES, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/10/2026, DJEN de 4/11/2026.)
 
-## 82. AgRg no AREsp nº 3248667 / PA (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Crimes ambientais
-- Resumo: No crime do art. 50-A da Lei 9.605/1998, a natureza pública ou devoluta da área deve estar certificada antes do desmatamento; com a demarcação da terra indígena suspensa, a dúvida sobre a área e sobre o dolo leva à absolvição. Agravo do MPF desprovido (Súmula 7/STJ).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3248667.pdf
+## 84. RHC nº 244387 / PE (STJ)
+- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Estupro de vulnerável · Ameaça
+- Resumo: A decisão que confirma o recebimento da denúncia deve enfrentar, ainda que de forma sucinta, as teses da resposta à acusação; despacho genérico que só designa audiência é nulo (art. 93, IX, da CF). RHC provido; ação anulada desde essa decisão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-244387.pdf
 - Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 50-A DA LEI 9.605. TERRAS DE DOMÍNIO PÚBLICO OU DEVOLUTAS. DEMARCAÇÃO DE TERRA INDÍGENA. CERTIFICAÇÃO PRÉVIA. INSUFICIÊNCIA PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental no agravo em recurso especial interposto pela acusação contra decisão que não conheceu do recurso especial, em face de acórdão absolutório quanto ao crime do Art. 50-A da Lei 9.605.
-  > 2. Instâncias ordinárias reconheceram inexistência de prova, em nível acima de dúvida razoável, de que o desmatamento ocorreu em “terras de domínio público ou devolutas” na data dos fatos, bem como incerteza quanto à natureza jurídica da área, afastando o dolo. Absolvição com fundamento no CPP, Art. 386, VII.
-  > 3. Decisão agravada manteve o acórdão absolutório e não conheceu do recurso especial por incidência da Súmula 7/STJ, ante a necessidade de revolvimento do conjunto fático-probatório.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se o conhecimento do recurso especial é obstado pela Súmula 7/STJ, por demandar reexame de fatos e provas para desconstituir a conclusão absolutória das instâncias ordinárias.
-  > III. Razões de decidir
-  > 5. Incide a Súmula 7/STJ, pois a reforma da conclusão do Tribunal de origem sobre insuficiência probatória e ausência de dolo exigiria novo exame do conjunto fático-probatório, providência inviável na via estreita do recurso especial.
-  > 6. A condenação penal exige prova robusta, segura e harmônica de autoria e materialidade, inclusive quanto ao elemento normativo do tipo; persistindo dúvida razoável sobre a natureza jurídica da área e o dolo, impõe-se a absolvição nos termos do CPP, Art. 386, VII.
-  > IV. Dispositivo e tese
-  > 7. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que não conheceu do recurso especial.
-  > Tese de julgamento:
-  > 1. O reexame de fatos e provas para infirmar acórdão absolutório encontra óbice na Súmula 7/STJ em sede de recurso especial.
-  > 2. Persistindo dúvida razoável sobre a natureza jurídica da área e sobre o dolo, a absolvição deve ser mantida com fundamento no CPP, Art. 386, VII.
-  > (AgRg no AREsp n. 3.248.667/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
+  > PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ESTUPRO DE VULNERÁVEL E AMEAÇA. AUSÊNCIA DE APRECIAÇÃO DAS RESPOSTAS À ACUSAÇÃO. DEVER DE FUNDAMENTAÇÃO DAS DECISÕES JUDICIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECURSO EM HABEAS CORPUS PROVIDO.
+  > 1. A jurisprudência consolidada desta Corte Superior entende que a decisão que mantém ou confirma o recebimento da denúncia deve ser fundamentada, ainda que de forma concisa, com apreciação das teses deduzidas na resposta à acusação, providência não observada na espécie.
+  > 2. O Juízo de origem afirmou estarem ausentes as hipóteses de absolvição sumária e determinou o prosseguimento do feito por meio de decisão genérica, com a mera designação da audiência de instrução e julgamento, sem o exame, ainda que sucinto, das preliminares e teses suscitadas pela defesa, o que configura negativa de prestação jurisdicional.
+  > 3. A ausência de apreciação das teses defensivas acarreta evidente prejuízo ao contraditório, à ampla defesa e ao dever constitucional de fundamentação das decisões judiciais, previsto no art. 93, IX, da CF.
+  > 4. Recurso em habeas corpus provido para anular a ação penal a partir da decisão que confirmou o recebimento da denúncia e determinar a prolação de nova decisão, com apreciação das teses defensivas, como se entender de direito.
+  > (RHC n. 244.387/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 29/10/2026, DJEN de 4/11/2026.)
 
-## 83. HC nº 279.008 / SP (STF)
-- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 03/11/2026.
-- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
-- Resumo: Pequena quantidade de maconha (9,89 g), sem flagrante de venda nem petrechos de comércio, não sustenta a condenação por tráfico: aplica-se a presunção de uso do Tema 506/STF (RE 635.659). HC concedido após o trânsito em julgado para absolver (art. 386, III, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279008.pdf
+## 85. HC nº 1124087 / RJ (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Receptação · Inviolabilidade de domicílio · Prisão e medidas cautelares
+- Resumo: Declaração de terceiro em outra investigação, sem diligência prévia, não autoriza ingresso domiciliar, nem em crime permanente (Tema 280/STF; art. 157 do CPP). Provas ilícitas desentranhadas e preventiva revogada; a ação segue, para sentença só com prova autônoma.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124087.pdf
 
-## 84. ARE nº 1.630.118 / GO (STF)
-- Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 03/11/2026.
-- Crime / Tema: Perturbação do sossego
-- Resumo: A perturbação do sossego (art. 42, III, da LCP) exige atingir uma multiplicidade de pessoas; o incômodo a uma só vítima não configura a contravenção. O STF negou seguimento ao ARE do MP (Súmula 279/STF e ofensa reflexa) e manteve a absolvição.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630118.pdf
+## 86. HC nº 1089695 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Ato infracional (ECA) · Roubo · Reconhecimento de pessoa
+- Resumo: Reconhecimento sem as formalidades do art. 226 do CPP (show-up, fotos mostradas antes) é inválido e não serve nem como prova suplementar, também no ato infracional (Tema 1.258/STJ). Ordem parcial para novo julgamento sem os reconhecimentos, podendo a medida se sustentar em prova independente.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089695.pdf
 
-## 85. RHC nº 278.721 / ES (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 03/11/2026.
-- Crime / Tema: Tráfico de drogas · Ato infracional (ECA)
-- Resumo: No procedimento do ECA, o adolescente deve ser notificado pessoalmente para a audiência e ouvido como último ato da instrução (arts. 184 e 187 do ECA; art. 400 do CPP); a falta de oitiva é nulidade absoluta, que a defesa técnica não supre. RHC provido para anular a instrução e a sentença.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278721.pdf
+## 87. AgRg no HC nº 1089770 / DF (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Crimes contra a ordem tributária · Cabimento do HC
+- Resumo: Ser sócio-administrador não basta para condenar por sonegação: é preciso demonstrar a contribuição dolosa individual (art. 1º, II, da Lei 8.137/1990), e o domínio do fato não supre essa prova. Mesmo após o trânsito em julgado, HC de ofício (art. 647-A do CPP) absolve.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089770.pdf
 
-## 86. AgRg no HC nº 1126685 / SP (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 29/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: Prévio recolhimento à prisão dispensado, em caso excepcional, para analisar a transferência da execução (art. 105 da LEP): o paciente reside com a família em outro estado. Agravo provido; ordem concedida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1126685.pdf
+## 88. HC nº 1083969 / SP (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Prisão e medidas cautelares
+- Resumo: Ser "conhecido no meio policial" por tráfico não é fundada suspeita para busca pessoal (art. 244 do CPP), e o encontro posterior da droga não convalida a diligência. HC concedido de ofício para trancar a ação penal e revogar a prisão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1083969.pdf
 
-## 87. AgRg no REsp nº 2265602 / MG (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: Condenação com punibilidade extinta há mais de 10 anos antes do novo crime não serve como maus antecedentes, ainda que o crime anterior seja grave (art. 59 do CP). Sem outros elementos, 68 g de crack e uma balança não justificam fração menor que 2/3 no tráfico privilegiado. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2265602.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. MAUS ANTECEDENTES. PARÂMETRO DECENAL JURISPRUDENCIAL. TRÁFICO PRIVILEGIADO. FRAÇÃO DA MINORANTE. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão monocrática que conheceu e deu provimento ao recurso especial defensivo, com concessão de ordem de habeas corpus de ofício, para afastar a valoração negativa dos antecedentes, fixar a pena-base no mínimo legal, reconhecer a causa de diminuição do art. 33, § 4º, da Lei nº 11.343/2006 na fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, em regime aberto, com substituição por duas penas restritivas de direitos.
-  > 2. O agravante pretende a reforma da decisão para restabelecer o acórdão do Tribunal de origem que havia mantido a pena de 5 anos e 10 meses de reclusão, em regime semiaberto, e 583 dias-multa, com afastamento do tráfico privilegiado em razão dos maus antecedentes decorrentes de condenação anterior por roubo majorado cuja punibilidade foi extinta em 24/3/2009, tendo o novo delito ocorrido em 18/11/2023; subsidiariamente, requer a aplicação de fração inferior à máxima da minorante em razão da apreensão de 350 pedras de crack (68,4 g) e balança de precisão.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 3. Há duas questões em discussão: (i) saber se, diante do lapso superior a dez anos entre a extinção da pena anterior e o novo delito, é juridicamente adequada a desconsideração dos maus antecedentes, à luz dos princípios da proporcionalidade, da razoabilidade, da vedação a penas de caráter perpétuo e do art. 59 do CP; e (ii) saber se, reconhecida a incidência do art. 33, § 4º, da Lei nº 11.343/2006, a fração máxima de 2/3 deve ser mantida ou modulada com base na natureza e quantidade da droga e na apreensão de balança de precisão, conforme o art. 42 da Lei nº 11.343/2006.
-  > III. RAZÕES DE DECIDIR
-  > 4. A uniformização jurisprudencial desta Corte admite, por critérios de proporcionalidade e isonomia, a neutralização dos maus antecedentes quando a extinção da punibilidade da condenação pretérita ocorreu há mais de dez anos em relação ao novo crime, vedando a perpetuidade dos efeitos penais negativos sem prazo legal e assegurando previsibilidade na dosimetria.
-  > 5. A gravidade abstrata do crime anterior não pode, por si só, prolongar indefinidamente a eficácia negativa dos antecedentes para além do parâmetro decenal, sob pena de esvaziar o limite temporal jurisprudencial e contrariar a vedação constitucional a penas de caráter perpétuo.
-  > 6. No caso, a extinção da punibilidade do roubo majorado ocorreu em 2009 e o novo crime foi praticado em 2023, com lapso superior a quatorze anos, razão pela qual é juridicamente adequada a desconsideração dos maus antecedentes e a fixação da pena-base no mínimo legal.
-  > 7. A incidência do art. 33, § 4º, da Lei nº 11.343/2006 é devida quando presentes a primariedade técnica, os bons antecedentes e a ausência de dedicação a atividades criminosas ou integração a organização criminosa, não havendo, na espécie, fundamento autônomo remanescente para afastar o benefício.
-  > 8. A modulação da fração da minorante não pode recriar, na terceira fase, agravamento já afastado na primeira fase sem base concreta adicional; a apreensão de 68,4 g de crack e de balança de precisão, dissociada de outros elementos, não justifica reduzir a fração ao mínimo e não supera o enquadramento típico, sendo adequada a aplicação da fração de 2/3 diante do perfil subjetivo do agente.
-  > IV. DISPOSITIVO
-  > 9. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.265.602/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
+## 89. HC nº 1123210 / RJ (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Reconhecimento por exibição isolada (show-up), sem alinhamento nem prova independente, é nulo e contamina os depoimentos em juízo, e o tribunal não pode anular a absolvição para "sanar" o vício com novo reconhecimento (art. 226 do CPP). Ordem de ofício; absolvição restabelecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123210.pdf
 
-## 88. AgRg no REsp nº 2243946 / MG (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
-- Crime / Tema: Tráfico de drogas · Execução penal
-- Resumo: O apenado assistido pela Defensoria tem presunção relativa de hipossuficiência; cabe ao MP provar que ele pode pagar a multa (art. 51 do CP; Tema 931/STJ), e a ADI 7.032/STF não muda isso. Agravo do MP desprovido; mantida a extinção da punibilidade sem o pagamento da multa.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2243946.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. HIPOSSUFICIÊNCIA. ASSISTÊNCIA PELA DEFENSORIA PÚBLICA. PRESUNÇÃO RELATIVA. ÔNUS DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE PROVA DA CAPACIDADE ECONÔMICA. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto contra decisão monocrática que conheceu do recurso especial e negou-lhe provimento. O acórdão recorrido manteve a extinção da punibilidade após o cumprimento da pena privativa de liberdade, apesar do inadimplemento da multa, diante da hipossuficiência do apenado, assistido pela Defensoria Pública. O agravante requer a reforma da decisão para determinar novo exame da situação econômica do sentenciado, nos termos do art. 51 do Código Penal.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 2. A questão em discussão consiste em saber se a hipossuficiência reconhecida pelas instâncias ordinárias, considerada a assistência pela Defensoria Pública, pode ser afastada sem demonstração concreta, pelo Ministério Público, da capacidade econômica do apenado.
-  > III. RAZÕES DE DECIDIR
-  > 3. A Terceira Seção, ao revisitar o Tema 931/STJ, estabeleceu que o inadimplemento da pena de multa, após o cumprimento da pena privativa de liberdade ou restritiva de direitos, não impede a extinção da punibilidade diante da alegada hipossuficiência, salvo decisão suficientemente motivada que indique concretamente a possibilidade de pagamento.
-  > 4. A orientação mais recente da Sexta Turma reconhece que a hipossuficiência do condenado assistido pela Defensoria Pública constitui presunção relativa, passível de ser afastada mediante prova concreta de sua capacidade econômica.
-  > 5. Incumbe ao Ministério Público apresentar elementos capazes de demonstrar que o apenado possui condições de pagar a sanção pecuniária. Ausente prova nesse sentido, deve ser mantida a extinção da punibilidade.
-  > 6. O julgamento da ADI 7.032/DF não afasta essa conclusão, pois a exigência de demonstração da impossibilidade de pagamento é compatível com o reconhecimento de presunção relativa de hipossuficiência, suscetível de prova em contrário.
-  > 7. Não tendo o Ministério Público produzido, nas instâncias ordinárias, elementos concretos capazes de demonstrar a capacidade econômica do sentenciado, não cabe determinar o retorno dos autos para nova instrução destinada a suprir a ausência dessa prova.
-  > IV. DISPOSITIVO
-  > 8. Agravo regimental desprovido.
-  > (AgRg no REsp n. 2.243.946/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
-
-## 89. AgRg no REsp nº 2210727 / SC (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
-- Crime / Tema: Furto · Dosimetria
-- Resumo: Afastada a majorante do repouso noturno no furto qualificado (Tema 1.087/STJ), levá-lo para a pena-base é faculdade do juiz e exige fundamentação concreta; não é automático (art. 59 do CP). Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2210727.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. REPOUSO NOTURNO AFASTADO COMO CAUSA DE AUMENTO. MIGRAÇÃO PARA A PRIMEIRA FASE. POSSIBILIDADE. AUSÊNCIA DE OBRIGATORIEDADE. NECESSIDADE DE VALORAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto pelo Ministério Público estadual contra decisão monocrática que conheceu do recurso especial e negou-lhe provimento.
-  > 2. A pretensão recursal busca determinar a migração da causa de aumento do repouso noturno, afastada pelo Tribunal de origem, para a primeira fase da dosimetria, com a negativação das circunstâncias do crime, sem piora material ou qualitativa da situação do condenado.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 3. A questão em discussão consiste em definir se, afastada a causa de aumento prevista no art. 155, § 1º, do Código Penal, o órgão julgador está obrigado a considerar o repouso noturno como circunstância judicial desfavorável na primeira fase da dosimetria, ainda que a migração possa, em tese, ser realizada sem reformatio in pejus.
-  > III. RAZÕES DE DECIDIR
-  > 4. A exclusão da causa de aumento do repouso noturno no furto qualificado não impõe, automaticamente, sua consideração como circunstância judicial desfavorável na primeira fase da dosimetria, por se tratar de faculdade sujeita à apreciação fundamentada do julgador.
-  > 5. O julgamento do Tema nº 1.087/STJ ressalvou a possibilidade de consideração do repouso noturno na primeira fase da dosimetria, diante das circunstâncias concretas do caso, sem estabelecer obrigatoriedade de migração sempre que afastada a causa de aumento.
-  > 6. A valoração negativa das circunstâncias do crime exige juízo concreto acerca da maior reprovabilidade da conduta, não decorrendo automaticamente do simples fato de o delito ter sido praticado durante o repouso noturno.
-  > 7. A circunstância de o Ministério Público não ter formulado, nas contrarrazões à apelação defensiva, pedido de migração não torna, por si só, inviável a providência, mas reforça que a pretensão foi deduzida apenas posteriormente, sem que, no julgamento da apelação, tivesse sido realizada valoração concreta do repouso noturno como circunstância judicial desfavorável.
-  > 8. O Tema nº 1.214/STJ, ao admitir determinadas readequações dos fundamentos da dosimetria sem reformatio in pejus, não estabelece dever de migrar o repouso noturno para a primeira fase nem dispensa a correspondente valoração concreta das circunstâncias do crime.
-  > IV. DISPOSITIVO
-  > 9. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.210.727/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
-
-## 90. HC nº 279.042 / ES (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 29/10/2026.
-- Crime / Tema: Roubo · Confissão espontânea · Dosimetria · Revisão criminal
-- Resumo: Reconhecida a confissão espontânea (art. 65, III, d, do CP), reduzir menos de 1/6 exige fundamentação concreta na sentença, mesmo que a confissão seja qualificada; a motivação dada depois pelas instâncias revisoras não supre a falta. HC concedido para o juízo da execução aplicar 1/6.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279042.pdf
+## 90. HC nº 1129431 / AL (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Estupro de vulnerável · Corrupção de menores · Revisão criminal
+- Resumo: A retratação da vítima depois do trânsito em julgado autoriza a justificação criminal para instruir futura revisão, sem que o juízo antecipe o valor da prova. Ordem concedida para processar a justificação e ouvir a ofendida, com as cautelas dos arts. 201 e 400-A do CPP; condenação mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129431.pdf

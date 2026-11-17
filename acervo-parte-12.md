@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 12 de 45 (decisões 111 a 120)
+# Acervo de Jurisprudência — Cury Advogados — parte 12 de 47 (decisões 111 a 120)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 448 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,98 +8,114 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 111. REsp nº 2253748 / MG (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Homicídio qualificado · Homicídio · Dosimetria
-- Resumo: A pena-base do homicídio simples tentado não pode igualar a do qualificado consumado sem fundamento concreto para o acréscimo. REsp parcialmente provido: pena redimensionada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2253748.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. RECURSO ESPECIAL. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO SIMPLES TENTADO. DOSIMETRIA. PENA-BASE. ANTECEDENTES, MOTIVOS E CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEIS. HOMICÍDIO QUALIFICADO. EXASPERAÇÃO COMPATÍVEL COM O PARÂMETRO DE 1/8 DO INTERVALO ENTRE AS PENAS MÍNIMA E MÁXIMA EM ABSTRATO. AUSÊNCIA DE ILEGALIDADE. HOMICÍDIO SIMPLES TENTADO. FIXAÇÃO DA PENA-BASE NO MESMO PATAMAR DO HOMICÍDIO QUALIFICADO. ACRÉSCIMO SEM FUNDAMENTAÇÃO CONCRETA IDÔNEA. ILEGALIDADE. REDIMENSIONAMENTO DA PENA.
-  > 1. A fixação da pena-base não se submete a critério matemático rígido, sendo as frações de 1/6 sobre a pena mínima ou de 1/8 sobre o intervalo entre os limites mínimo e máximo abstratamente cominados ao tipo penal meros referenciais adotados pela jurisprudência desta Corte para aferição da proporcionalidade da exasperação, admitida a utilização de critério diverso ou mais gravoso desde que amparado em fundamentação concreta e idônea.
-  > 2. No caso, a exasperação da pena-base do crime de homicídio qualificado consumado em montante correspondente a aproximadamente 1/8 do intervalo entre as penas mínima e máxima abstratamente cominadas ao tipo penal para cada circunstância judicial negativada não evidencia ilegalidade ou desproporcionalidade.
-  > 3. É desproporcional a fixação da pena-base do crime de homicídio simples tentado em patamar equivalente ao estabelecido para o homicídio qualificado consumado quando valoradas negativamente apenas três circunstâncias judiciais, resultando em incremento substancialmente superior ao parâmetro de referência ordinariamente adotado pela jurisprudência desta Corte, sem fundamentação concreta apta a justificá-lo.
-  > 4. Recurso especial parcialmente provido.
-  > (REsp n. 2.253.748/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
-
-## 112. REsp nº 2239370 / PE (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Excesso de prazo
-- Resumo: Os prazos do art. 131, I, do CPP não são peremptórios, mas o sequestro de bens mantido por mais de 2 anos sem denúncia contra os investigados é excesso de prazo. REsp do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2239370.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. PROCESSUAL PENAL. MEDIDAS ASSECURATÓRIAS. SEQUESTRO E INDISPONIBILIDADE DE BENS. OPERAÇÃO LÁCTEOS. AUSÊNCIA DE DENÚNCIA EM RELAÇÃO AOS INVESTIGADOS. EXCESSO DE PRAZO RECONHECIDO PELA CORTE DE ORIGEM. ART. 131, I, DO CPP. PRAZO NÃO PEREMPTÓRIO. ARTS. 3º E 4º DO DECRETO-LEI N. 3.240/1941.
-  > 1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que os prazos previstos no art. 131, I, do Código de Processo Penal não possuem natureza peremptória, devendo a manutenção das medidas assecuratórias ser aferida à luz dos princípios da proporcionalidade, da razoabilidade e da duração razoável do processo.
-  > 2. Hipótese em que o Tribunal de origem reconheceu a ocorrência de excesso de prazo, diante da manutenção das constrições patrimoniais por mais de dois anos sem oferecimento de denúncia em relação aos investigados atingidos pelas medidas, concluindo pela ausência de justa causa para a continuidade das restrições.
-  > 3. A pretensão recursal de reconhecer que a complexidade da investigação seria suficiente para justificar a permanência das constrições demanda a revisão do juízo de razoabilidade realizado pelas instâncias ordinárias com base nas circunstâncias concretas da causa, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
-  > 4. Embora o sequestro previsto nos arts. 3º e 4º do Decreto-Lei n. 3.240/1941 possa alcançar bens de origem lícita, a demonstração da licitude patrimonial não constituiu fundamento determinante do acórdão recorrido, que se apoiou precipuamente no reconhecimento do excesso de prazo.
-  > 5. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
-  > (REsp n. 2.239.370/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
-
-## 113. HC nº 1119746 / SP (STJ)
-- Decisão monocrática. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Homicídio no trânsito · Tribunal do Júri · Prisão e medidas cautelares
-- Resumo: A execução imediata da pena do Júri (Tema 1.068/STF) pode ser suspensa até a apelação quando há plausibilidade concreta de nulidade ou de decisão contrária à prova. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1119746.pdf
-
-## 114. HC nº 1140133 / SP (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
-- Resumo: Anulada a condenação e comprovada a materialidade só de parte das drogas, conjecturas sobre reiteração ou fuga não mantêm a preventiva de réu primário. Ordem concedida: preventiva revogada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1140133.pdf
-
-## 115. HC nº 1139230 / TO (STJ)
-- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Porte de drogas para consumo pessoal
-- Resumo: Pouca maconha, sem balança nem material de fracionamento, não presume tráfico, e confissão informal não confirmada em juízo não prova a mercancia. Ordem concedida: desclassificação para o art. 28 restabelecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139230.pdf
-
-## 116. RHC nº 247075 / RJ (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Adulteração de sinal identificador de veículo · Justa causa
-- Resumo: A simples falta da placa, com regularização iniciada antes da abordagem, sem outro sinal adulterado, não indica dolo de suprimir o sinal identificador (art. 311 do CP). RHC provido: ação penal trancada.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-247075.pdf
-
-## 117. AgRg no HC nº 277.418 / RJ (STF)
-- Decisão colegiada. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 26/10/2026.
-- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
-- Resumo: A prisão preventiva é incompatível com o regime semiaberto fixado na condenação, por ofender a proporcionalidade. A Segunda Turma, por maioria, negou provimento ao agravo do MPF e manteve a revogação da preventiva concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277418.pdf
-- Ementa oficial:
-  > Agravo regimental em habeas corpus interposto pelo Ministério Público Federal. Prisão preventiva. Regime semiaberto estabelecido no título penal condenatório. Concessão da ordem de ofício. Compatibilização da custódia cautelar com o regime imposto no decreto condenatório. Afronta ao princípio da proporcionalidade. Revogação da prisão preventiva. Decisão agravada em harmonia com entendimento consolidado pela Suprema Corte. Manutenção da decisão por seus próprios fundamentos. Agravo ao qual se nega provimento.
-  > 1. A decisão atacada não merece reforma, uma vez que seus fundamentos se harmonizam estritamente com o entendimento consolidado pela Suprema Corte.
-  > 2. O recurso mostra-se inviável, na medida em que contém apenas a reiteração dos argumentos anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões expressas na decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
-  > 3. Agravo ao qual se nega provimento.
-  > (STF, AgRg no HC n. 277.418/RJ, relator Ministro Dias Toffoli, Segunda Turma, julgado em 19/10/2026, DJe de 26/10/2026.)
-
-## 118. REsp nº 2245806 / MG (STJ)
-- Decisão colegiada. Relator: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 26/10/2026.
+## 111. REsp nº 2266241 / SC (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: Natureza e quantidade da droga, sem outros dados concretos, não justificam fração do privilégio abaixo de 2/3 (art. 33, § 4º, da Lei 11.343/2006). REsp da defesa provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245806.pdf
-- Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI 11.343/2006. TRÁFICO PRIVILEGIADO. FIXAÇÃO DA FRAÇÃO REDUTORA EM 3/5. RÉU PRIMÁRIO, DE BONS ANTECEDENTES. PEQUENA QUANTIDADE DE COCAÍNA. FUNDAMENTAÇÃO INIDÔNEA PARA REDUÇÃO INFERIOR À MÁXIMA. NECESSIDADE DE APLICAÇÃO DA FRAÇÃO DE 2/3. PRECEDENTES DO STJ. RECURSO PROVIDO.
-  > 1. É pacífica a jurisprudência desta Corte no sentido de que a quantidade e a natureza da droga apreendida, por si sós, não constituem fundamentos suficientes para afastar a aplicação da fração máxima (2/3) da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, quando preenchidos os demais requisitos legais.
-  > 2. No caso concreto, embora a Corte local tenha reconhecido a incidência do redutor, fixou a fração em 3/5, com base exclusiva na natureza (cocaína) e na quantidade da droga apreendida (14,73g), sem demonstrar outros elementos concretos que evidenciem maior gravidade da conduta.
-  > 3. Preenchidos os requisitos subjetivos e objetivos exigidos pelo § 4º do art. 33 da Lei de Drogas — primariedade, bons antecedentes, inexistência de vínculo com organização criminosa ou dedicação a atividades criminosas — impõe-se a aplicação da fração máxima.
-  > 4. Recurso especial conhecido e provido para aplicar a fração de 2/3 e redimensionar a pena para 1 ano e 8 meses de reclusão, mantido o regime aberto e a substituição por penas restritivas de direitos.
-  > (REsp n. 2.245.806/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 22/10/2026, DJEN de 26/10/2026.)
+- Resumo: Natureza e quantidade da droga se valoram em conjunto: é inidônea a fração de 1/2 no tráfico privilegiado fundada só na natureza da droga (art. 33, § 4º, da Lei 11.343/2006; Temas 1.154 e 1.241/STJ). REsp da defesa provido para nova dosimetria.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2266241.pdf
 
-## 119. AREsp nº 3137169 / RS (STJ)
-- Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 26/10/2026.
-- Crime / Tema: Abandono de posto (CPM) · ANPP
-- Resumo: O ANPP pode ser analisado no processo penal militar, mesmo após condenação confirmada em 2º grau. Recurso especial provido: autos ao MP para avaliar o acordo.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3137169.pdf
-- Ementa oficial:
-  > DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL – ANPP. JUSTIÇA MILITAR. INTERPRETAÇÃO SISTEMÁTICA. RETROATIVIDADE BENÉFICA. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
-  > 1. A incidência do art. 28-A do Código de Processo Penal ao processo penal militar é possível mediante interpretação sistemática com o art. 3º do Código de Processo Penal Militar, sendo inadequada a vedação abstrata do instituto em razão da natureza militar da infração.
-  > 2. No caso, o Tribunal de origem afastou a análise do ANPP por suposta incompatibilidade com o estágio processual (condenação confirmada em apelação), fundamento que deve ser revisto ante a orientação consolidada.
-  > 3. A retroatividade benéfica do art. 28-A do CPP, norma de natureza híbrida, autoriza a avaliação do ANPP mesmo após a prolação de sentença e confirmação em segundo grau, cabendo ao Ministério Público analisar o preenchimento dos requisitos legais.
-  > 4. Esta Corte Superior reconhece a possibilidade de aplicação do ANPP em processo penal militar, inclusive diante de condenação já proferida, com retorno dos autos à origem para oportunizar a manifestação ministerial. Precedente.
-  > 5. Agravo conhecido. Recurso especial provido a fim de que o Tribunal de origem adote as providências necessárias para possibilitar a discussão do acordo de não persecução penal entre as partes da ação penal.
-  > (AREsp n. 3.137.169/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/10/2026, DJEN de 26/10/2026.)
+## 112. ARE nº 1.628.735 / SP (STF)
+- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 28/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Direito ao silêncio
+- Resumo: Mantida a decisão do STJ segundo a qual o silêncio do acusado e o lucro, inerente ao tráfico, não afastam nem reduzem o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). O STF negou provimento ao ARE do MP (ofensa reflexa e Súmula 279/STF), e ficou mantida a fração de 2/3.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628735.pdf
 
-## 120. AREsp nº 3371938 / RJ (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/10/2026.
-- Crime / Tema: Violência doméstica
-- Resumo: Negar assistente técnico para contraditar o laudo oficial é cerceamento de defesa. Recurso especial provido: processo anulado desde o indeferimento.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3371938.pdf
+## 113. RHC nº 277.683 / SC (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 28/10/2026.
+- Crime / Tema: Furto · Dosimetria
+- Resumo: O furto privilegiado (art. 155, § 2º, do CP) é compatível com qualquer qualificadora, inclusive a subjetiva do abuso de confiança, em sentido contrário à Súmula 511/STJ. A escusa do art. 181, II, não alcança padrasto e enteado. RHC parcialmente provido para redimensionar a pena.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277683.pdf
+
+## 114. HC nº 278.547 / SP (STF)
+- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 27/10/2026.
+- Crime / Tema: Tráfico de drogas · Ato infracional (ECA) · Prisão e medidas cautelares · Superação da Súmula 691
+- Resumo: A internação provisória (art. 108, parágrafo único, do ECA) exige necessidade imperiosa e uma das hipóteses do art. 122; ato análogo ao tráfico, sem violência nem reiteração, não a autoriza. HC concedido, superada a Súmula 691/STF, para substituí-la por medida em meio aberto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278547.pdf
+
+## 115. HC nº 278.717 / MS (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 27/10/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
+- Resumo: A condição de “mula”, sem prova concreta de vínculo com organização criminosa, não justifica aplicar o redutor do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) no mínimo de 1/6. HC concedido para restabelecer a sentença, que aplicou 1/2.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278717.pdf
+
+## 116. HC nº 277.559 / MG (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 27/10/2026.
+- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
+- Resumo: O juiz não pode impor a preventiva na sentença contra o pedido expresso do MP para o réu recorrer em liberdade (arts. 282, §§ 2º e 4º, e 311 do CPP); a reavaliação de ofício do art. 316 não alcança esse caso. Em reconsideração, ordem concedida de ofício para restabelecer o comparecimento mensal em juízo.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277559.pdf
+
+## 117. REsp nº 2294353 / PR (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Furto
+- Resumo: No furto privilegiado, o pequeno valor considera só a coisa furtada, sem somar o custo de reparar obstáculo danificado (art. 155, § 2º, do CP). Minorante reconhecida; REsp da defesa parcialmente provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2294353.pdf
+- Ementa oficial:
+  > DIREITO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO E ESCALADA. ART. 155, § 2º, DO CP. FURTO PRIVILEGIADO. PEQUENO VALOR DA COISA FURTADA. PARÂMETRO DE AFERIÇÃO. RES FURTIVA. IMPOSSIBILIDADE DE CONSIDERAÇÃO DOS PREJUÍZOS DECORRENTES DA EXECUÇÃO DO DELITO. INTERPRETAÇÃO EXTENSIVA IN MALAM PARTEM. PRIMARIEDADE RECONHECIDA. QUALIFICADORAS DE NATUREZA OBJETIVA. COMPATIBILIDADE. SÚMULA 511/STJ. INCIDÊNCIA DA MINORANTE. RETORNO DOS AUTOS À ORIGEM PARA DEFINIÇÃO DA FRAÇÃO DE REDUÇÃO E REDIMENSIONAMENTO DA PENA.
+  > 1. A controvérsia consiste em definir se, para a incidência da causa de diminuição prevista no art. 155, § 2º, do Código Penal, o requisito do pequeno valor deve ser aferido exclusivamente pelo valor da coisa furtada ou se podem ser considerados os prejuízos patrimoniais decorrentes da execução do delito.
+  > 2. A expressão legal “pequeno valor da coisa furtada” refere-se ao valor da res furtiva, inexistindo autorização normativa para a inclusão de danos produzidos durante a prática delitiva, ainda que relacionados ao rompimento de obstáculo ou a outros meios de execução do crime.
+  > 3. A utilização dos prejuízos decorrentes da reparação dos obstáculos danificados para afastar o furto privilegiado amplia indevidamente o alcance restritivo da norma penal, mediante interpretação desfavorável ao acusado, em desconformidade com o princípio da legalidade estrita.
+  > 4. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o pequeno valor da coisa furtada, para os fins do art. 155, § 2º, do Código Penal, deve ser aferido, em regra, a partir do valor da res furtiva, usualmente em comparação com o salário mínimo vigente à época dos fatos.
+  > 5. Hipótese em que os bens subtraídos foram avaliados em R$ 320,00, quantia inferior ao salário mínimo vigente ao tempo do delito, estando igualmente presente a primariedade técnica do agente.
+  > 6. As qualificadoras do rompimento de obstáculo e da escalada possuem natureza objetiva, circunstância que não impede o reconhecimento do furto qualificado-privilegiado, nos termos da Súmula 511/STJ.
+  > 7. Reconhecida a incidência do privilégio, a definição da modalidade da benesse e da fração de redução prevista no art. 155, § 2º, do Código Penal deve ser realizada pelas instâncias ordinárias, à luz das peculiaridades do caso concreto e das circunstâncias relevantes para a individualização da pena.
+  > 8. Recurso especial parcialmente provido para reconhecer a incidência da causa de diminuição prevista no art. 155, § 2º, do Código Penal e determinar o retorno dos autos ao Tribunal de origem para aplicação da minorante e consequente redimensionamento da pena, mantidos os demais termos do acórdão recorrido.
+  > (REsp n. 2.294.353/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
+
+## 118. AgRg no REsp nº 2294354 / SC (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Violência doméstica · Dosimetria
+- Resumo: A agravante do art. 61, II, “f”, do CP não se soma à qualificadora do art. 129, § 13, quando ambas se baseiam na violência contra a mulher: é bis in idem (distinção do Tema 1.197/STJ). Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2294354.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. VIOLÊNCIA DOMÉSTICA. LESÃO CORPORAL QUALIFICADA (§ 13 DO ART. 129 DO CP). AGRAVANTE DO ART. 61, II, “F”. BIS IN IDEM. DISSÍDIO JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo órgão acusatório contra decisão que conheceu em parte de recurso especial e, nessa extensão, negou-lhe provimento, mantendo o afastamento da agravante do art. 61, II, “f”, do Código Penal na condenação pelo art. 129, § 13, do mesmo diploma.
+  > 2. Condenação pelos arts. 129, § 13, e 147, do Código Penal, c.c. arts. 5º, III, e 7º, I, da Lei n. 11.340/2006. Em apelação, foi afastada a agravante do art. 61, II, “f”, do Código Penal, com redução da pena do crime de lesão corporal.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se o dissídio jurisprudencial poderia ser conhecido pela alínea “c” do art. 105, III, da Constituição, diante da ausência de cotejo analítico e da indicação de paradigmas adequados; e (ii) saber se a aplicação cumulativa da agravante do art. 61, II, “f”, do Código Penal com a qualificadora do art. 129, § 13, do Código Penal, em crime de lesão corporal cometido em contexto de violência doméstica e de gênero contra a mulher, configura bis in idem.
+  > III. Razões de decidir
+  > 5. Consta dos autos que o recurso especial foi interposto com fundamento no art. 105, III, “a” e “c”, da Constituição Federal. A ausência de cotejo analítico e a indicação de paradigmas impróprios impedem o conhecimento do dissídio pela alínea “c”, sendo insuficiente a mera transcrição de ementas ou a invocação de julgados em habeas corpus.
+  > 6. A orientação do Tema 1.197/STJ admite a incidência da agravante do art. 61, II, “f”, do Código Penal com o art. 129, § 9º, do Código Penal, porque as elementares desse tipo não contemplam o gênero da vítima; contudo, tal ratio não se estende às hipóteses do art. 129, § 13, do Código Penal.
+  > 7. O art. 129, § 13, do Código Penal qualifica a lesão corporal quando praticada contra a mulher, por razões da condição do sexo feminino, nos termos do art. 121, § 2º-A, do Código Penal, abrangendo, entre outras, a violência doméstica e familiar, incorporando o contexto de violência de gênero como elemento do tipo penal. A aplicação da agravante do art. 61, II, “f”, do Código Penal sobre fato já qualificado pelo § 13 recai na mesma circunstância fático-normativa (violência de doméstica e de gênero contra a mulher), implicando duplicidade punitiva vedadaa, por implicar bis in idem e violar os princípios da proporcionalidade e da especialidade na aplicação da lei penal.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental desprovido.
+  > Tese de julgamento:
+  > 1. O conhecimento do dissídio pela alínea “c” do art. 105, III, da Constituição exige cotejo analítico, similitude fática e jurídica e paradigmas adequados.
+  > 2. A aplicação cumulativa da agravante do art. 61, II, “f”, do Código Penal com a qualificadora do art. 129, § 13, do Código Penal configura bis in idem, uma vez que a violência de gênero contra a mulher, em contexto doméstico ou familiar, já constitui elementar do tipo penal qualificado.
+  > 3. A tese firmada no Tema 1.197/STJ não se aplica às hipóteses do art. 129, § 13, do Código Penal, em que a condição de mulher e a violência de gênero já integram o tipo qualificado.
+  > (AgRg no REsp n. 2.294.354/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
+
+## 119. AgRg no AgRg no REsp nº 2246840 / MG (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Tráfico de drogas
+- Resumo: A reparação mínima por dano moral coletivo exige pedido expresso, indicação do valor e instrução específica sobre o dano (art. 387, IV, do CPP). Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2246840.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. DANO MORAL COLETIVO. FIXAÇÃO DE VALOR MÍNIMO NA SENTENÇA PENAL CONDENATÓRIA (CPP, ART. 387, IV). NECESSIDADE DE INSTRUÇÃO ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que conheceu em parte e negou provimento a recurso especial.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se a fixação de valor mínimo para reparação de danos morais coletivos, em sentença penal condenatória com fundamento no art. 387, IV, do CPP, exige instrução probatória específica ou se basta o pedido expresso na denúncia.
+  > III. Razões de decidir
+  > 3. A fixação de valor mínimo a título de dano moral coletivo, nos termos do art. 387, IV, do CPP, exige cumulativamente: (i) pedido expresso na peça acusatória; (ii) indicação do montante pretendido; e (iii) realização de instrução probatória específica, para assegurar o contraditório e a ampla defesa.
+  > 4. Em crimes de tráfico de drogas, cujo sujeito passivo é indeterminado, é indispensável instrução específica para demonstrar o abalo à esfera moral coletiva e a extensão do dano; ausente essa instrução, inviável a definição do quantum indenizatório.
+  > 5. O acórdão recorrido está alinhado à jurisprudência do STJ quanto aos requisitos para a indenização mínima do art. 387, IV, do CPP, incidindo a Súmula 83/STJ.
+  > IV. Dispositivo e tese
+  > 6. Resultado do Julgamento: Agravo regimental não provido.
+  > Tese de julgamento:
+  > 1. A fixação de danos morais coletivos, com base no art. 387, IV, do CPP, exige pedido expresso, indicação do montante pretendido e instrução probatória específica para assegurar contraditório e ampla defesa.
+  > (AgRg no AgRg no REsp n. 2.246.840/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2026, DJEN de 27/10/2026.)
+
+## 120. AgRg no AREsp nº 3246028 / RS (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Crimes contra a saúde pública · Dosimetria
+- Resumo: Importar anabolizantes sem registro na Anvisa se enquadra no art. 273, § 1º-B, I, do CP, com a pena anterior repristinada (Tema 1.003/STF). Agravo do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3246028.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPORTAÇÃO IRREGULAR DE ANABOLIZANTES. SUBSTÂNCIAS CONSTANTES DA LISTA C5 DA PORTARIA SVS/MS N. 344/1998. DESCLASSIFICAÇÃO PARA O ART. 273, § 1º-B, I, DO CÓDIGO PENAL. MEDICAMENTOS SEM REGISTRO NA ANVISA. ADEQUAÇÃO TÍPICA. APLICAÇÃO DO PRECEITO SECUNDÁRIO REPRISTINADO. TEMA N. 1.003/STF. AGRAVO REGIMENTAL DESPROVIDO.
+  > 1. A controvérsia consiste em definir o enquadramento jurídico da importação irregular de medicamentos anabolizantes cujos princípios ativos integram a Lista C5 da Portaria SVS/MS n. 344/1998, bem como a disciplina sancionatória aplicável à conduta.
+  > 2. A inclusão dos princípios ativos identificados pela perícia na relação de substâncias sujeitas a controle especial não afasta, nas circunstâncias do caso, o enquadramento da importação irregular de produtos destinados a fins terapêuticos ou medicinais, sem registro na Anvisa, no art. 273, § 1º-B, I, do Código Penal, conforme reconhecido na decisão agravada.
+  > 3. Mantida a desclassificação para o art. 273, § 1º-B, I, do Código Penal, aplica-se o preceito secundário repristinado, em observância à orientação firmada pelo Supremo Tribunal Federal no Tema n. 1.003 da repercussão geral, que reconheceu a inconstitucionalidade da pena cominada pela Lei n. 9.677/1998 à referida hipótese típica.
+  > 4. A alteração da capitulação jurídica impõe o retorno dos autos ao Tribunal de origem para o redimensionamento da pena, observados os parâmetros legais correspondentes ao delito reconhecido.
+  > 5. Agravo regimental a que se nega provimento.
+  > (AgRg no AREsp n. 3.246.028/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)

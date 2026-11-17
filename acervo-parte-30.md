@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 30 de 45 (decisões 291 a 300)
+# Acervo de Jurisprudência — Cury Advogados — parte 30 de 47 (decisões 291 a 300)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 448 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,111 +8,108 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 291. RE nº 1.566.844 / MG (STF)
-- Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 14/09/2026.
-- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal · Dosimetria
-- Resumo: Condenação anterior pelo art. 28 da Lei de Drogas não gera reincidência: depois do Tema 506/STF, essas sanções não têm repercussão criminal. RE da defesa provido para refazer a pena.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1566844.pdf
-
-## 292. AgRg no AREsp nº 3141827 / DF (STJ)
-- Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 14/09/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Imparcialidade do juiz
-- Resumo: Tribunal do Júri: o juiz presidente que conduz ativamente as oitivas, sugere provas ao MP, emite juízos de valor e interroga o réu de forma incisiva viola o sistema acusatório (art. 212 do CPP) e compromete a imparcialidade. Julgamento anulado, com novo júri.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3141827.pdf
-- Informativo 901: https://ladirf.github.io/acervo/pdfs/info-901-aresp-3141827.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRIBUNAL DO JÚRI. SISTEMA ACUSATÓRIO. ATUAÇÃO ATIVA DO JUIZ PRESIDENTE EM SESSÃO PLENÁRIA. PRODUÇÃO PROBATÓRIA. IMPARCIALIDADE COMPROMETIDA. NULIDADE. AGRAVO REGIMENTAL PROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto pela Defesa contra decisão monocrática que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
-  > 2. Fato relevante. Alegada nulidade da Sessão Plenária do Tribunal do Júri por indevida interferência do Juiz Presidente na produção da prova, em violação ao sistema acusatório, com atuação ativa na condução das oitivas e no interrogatório do réu, manifestações subjetivas sobre fatos e pleitos defensivos, confrontação de testemunhas e sugestão de prova ao Ministério Público. Pedido de anulação do julgamento e submissão do Agravante a novo julgamento perante o Conselho de Sentença.
-  > 3. As decisões anteriores. Pronúncia e condenação pelo Conselho de Sentença; apelação parcialmente provida para reduzir a pena; recurso especial inadmitido na origem à luz da Súmula 7/STJ; agravo em recurso especial conhecido para conhecer parcialmente do especial e, nessa extensão, negar-lhe provimento.
-  > II. Questão em discussão
-  > 4. A questão em discussão consiste em saber se a atuação do Juiz Presidente em Sessão Plenária, desbordando dos limites do sistema acusatório — com protagonismo probatório, juízos de valor e condução incisiva do interrogatório do réu — compromete a imparcialidade e a paridade de armas, ensejando nulidade dos atos e do julgamento do júri.
-  > 5. Há três questões em discussão: (i) saber se o óbice da Súmula 7/STJ impede o exame da nulidade quando se realiza revaloração jurídica de elementos incontroversos; (ii) saber se é necessária demonstração específica de prejuízo para reconhecimento da nulidade, à luz do julgamento pelo Conselho de Sentença; e (iii) saber se a nulidade está preclusa ou se pode ser reconhecida quando demonstrado o prejuízo.
-  > III. Razões de decidir
-  > 6. A conclusão adotada decorre de revaloração jurídica de elementos constantes dos autos e incontroversos, não implicando reexame de prova, o que afasta a incidência da Súmula 7/STJ.
-  > 7. À luz do sistema acusatório (CPP, art. 3º) e do procedimento de inquirição (CPP, art. 212), a atuação do magistrado na instrução deve ser residual e complementar, preservando sua imparcialidade; no caso, a condução ativa das oitivas, a sugestão de provas ao Ministério Público, as manifestações subjetivas e o interrogatório incisivo do réu sob o escrutínio dos jurados desbordaram tais limites e comprometeram a imparcialidade e a paridade de armas.
-  > 8. A atuação ativa do Juiz Presidente na produção probatória em desconformidade com a legislação vigente viola o devido processo legal e acarreta a nulidade das provas produzidas em plenário e do julgamento perante o Conselho de Sentença.
-  > 9. No caso concreto, não é mensurável a influência da atuação judicial sobre a íntima convicção dos jurados; o prejuízo ressai da própria violação ao sistema acusatório.
-  > 10. Demonstrado o prejuízo, não incide preclusão sobre a nulidade verificada, sendo cabível a anulação do julgamento para preservar a soberania do júri e a imparcialidade do juízo natural.
-  > IV. Dispositivo e tese
-  > 11. Resultado do Julgamento: Agravo regimental provido para anular o julgamento e determinar a submissão do Agravante a novo julgamento perante o Conselho de Sentença.
-  > (AgRg no AREsp n. 3.141.827/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/9/2026, DJEN de 14/9/2026.)
-
-## 293. AgRg no HC nº 1112658 / PR (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 11/09/2026.
-- Crime / Tema: Denunciação caluniosa · Perseguição · Violência psicológica contra a mulher · Prisão e medidas cautelares · Excesso de prazo · Superação da Súmula 691
-- Resumo: Excesso de prazo na perícia do incidente de insanidade mental, por mora estatal (mais de 197 dias preso): superação da Súmula 691/STF e substituição da preventiva por (i) internação provisória, (ii) proibição de acesso à internet e (iii) de contato com as vítimas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1112658.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA QUE PERDUROU POR MAIS 197 DIAS. INCIDENTE DE INSANIDADE MENTAL. EXCESSO DE PRAZO NA REALIZAÇÃO DA PERÍCIA. AUSÊNCIA DE JUSTIFICATIVA. MORA ESTATAL. CONSTRANGIMENTO ILEGAL. SUPERAÇÃO DA SÚMULA 691/STF. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INTERNAÇÃO PROVISÓRIA E MEDIDAS ACESSORIAS. DEFERIMENTO LIMINAR. SUBMISSÃO AO COLEGIADO. AGRAVO REGIMENTAL PROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental contra decisão monocrática que indeferiu liminar em habeas corpus, por incidência da Súmula 691/STF, em favor de Paciente submetido à prisão preventiva, decretada em 17/01/2026, e cumprida em 19/01/2026, sob fundamento de garantia da ordem pública, em ação penal por condutas praticadas por meio da internet, sem violência física. A Custódia prolongou-se por mais de 197 dias.
-  > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se o excesso de prazo na realização da perícia do incidente de insanidade mental, com suspensão da ação penal e sem contribuição da Defesa, configura constrangimento ilegal apto a autorizar a revogação ou substituição da prisão preventiva por medidas cautelares diversas.
-  > 3. Também se analisa a possibilidade de superação da Súmula 691/STF em habeas corpus contra indeferimento de liminar, diante de flagrante ilegalidade, teratologia ou ausência de fundamentação adequada, com consequente imposição de internação provisória e de outras medidas cautelares (proibição de acesso à internet e de contato com vítimas), mesmo antes da conclusão de exame pericial, com fundamento nos arts. 319, VII, 282 e 3º do Código de Processo Penal.
-  > III. Razões de decidir
-  > 4. A prisão preventiva, medida excepcional, exige prova da materialidade e indícios suficientes de autoria, além de perigo concreto na liberdade (CPP, art. 312). No caso, a prolongada suspensão processual e a ausência de qualquer perspectiva para a perícia do incidente de insanidade, por mora estatal, evidenciam excesso de prazo não atribuível à Defesa, configurando constrangimento ilegal e impondo a substituição da custódia por medidas cautelares menos gravosas.
-  > 5. É possível superar a Súmula 691/STF quando caracterizada flagrante ilegalidade ou ausência de fundamentação idônea na decisão que indeferiu a liminar, especialmente ante excesso de prazo decorrente de deficiência estrutural do aparato pericial estatal, em atenção à razoável duração do processo e à presunção de inocência.
-  > 6. O Código de Processo Penal autoriza a substituição da prisão preventiva por medidas cautelares diversas (CPP, art. 319), e o poder geral de cautela aplicável ao processo penal (CPP, art. 3º c/c art. 282) permite medidas atípicas adequadas e necessárias, devidamente motivadas. A internação provisória do acusado (CPP, art. 319, VII) pode ser imposta antes da conclusão do exame pericial, à vista de elementos concretos indicativos de transtorno mental, cumulando-se com outras cautelares aptas a evitar reiteração delitiva e resguardar as vítimas.
-  > 7. As cautelares fixadas, quais sejam, internação provisória em clínica habilitada, proibição de acesso à internet e de contato com as vítimas, mostram-se adequadas, necessárias e proporcionais ao caso, preservando a ordem pública e as finalidades da prisão preventiva sem os efeitos deletérios da custódia, razão pela qual se confirma a liminar concedida.
-  > IV. Dispositivo
-  > 8. Resultado do Julgamento: Agravo regimental provido, com confirmação da decisão liminar para substituir a prisão preventiva por internação provisória e demais medidas cautelares diversas da prisão fixadas.
-  > (AgRg no HC n. 1.112.658/PR, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 8/9/2026, DJEN de 11/9/2026.)
-
-## 294. HC nº 276.512 / PB (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 10/09/2026.
-- Crime / Tema: Estelionato · Dosimetria
-- Resumo: Culpabilidade e personalidade valoradas com juízo conjectural ('aparenta ser um mentiroso compulsivo') e com o próprio modo de execução não elevam a pena-base. Os documentos forjados como meio da fraude também não pesam nas circunstâncias, sob pena de bis in idem. Pena-base no mínimo, e o juízo de origem deve examinar a prescrição (bolsa da CAPES, art. 171, § 3º, do CP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276512.pdf
-
-## 295. HC nº 276.724 / RS (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 10/09/2026.
-- Crime / Tema: Cabimento do HC
-- Resumo: A unirrecorribilidade não se aplica ao habeas corpus: a interposição de recurso especial contra o mesmo acórdão não impede o conhecimento do HC. Ordem concedida para o STJ julgar o mérito do HC.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-276724.pdf
-
-## 296. REsp nº 2176719 / MG (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 10/09/2026.
-- Crime / Tema: Lavagem de dinheiro · Organização criminosa · Continuidade delitiva
-- Resumo: Continuidade delitiva na lavagem de dinheiro mantida mesmo com intervalo superior a 30 dias entre os crimes, diante da similaridade das condutas e da unidade de desígnios.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2176719.pdf
-
-## 297. RHC nº 245864 / RS (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 09/09/2026.
-- Crime / Tema: Colaboração premiada · Acesso da defesa às provas
-- Resumo: Acesso tardio à colaboração premiada de corréu, só depois da resposta à acusação: anulados, quanto ao recorrente, os atos a partir da resposta, com novo prazo para apresentá-la após o efetivo acesso aos elementos já documentados.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-245864.pdf
-
-## 298. RE nº 1.203.378 / RS (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 09/09/2026.
+## 291. AgRg no HC nº 1115674 / SP (STJ)
+- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 24/09/2026.
 - Crime / Tema: Tráfico de drogas · Fundada suspeita
-- Resumo: Revista íntima manual em visitante de presídio, sem revista mecânica prévia nem fundada suspeita, viola a intimidade e a dignidade e torna a prova ilícita. Absolvição pelo TJRS mantida; RE do MP com seguimento negado (Tema 998 inaplicável).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1203378.pdf
+- Resumo: Busca pessoal ilícita: blusa de frio com volume no bolso em dia quente e prévio conhecimento policial não configuram fundada suspeita. Absolvição de ofício (tráfico).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1115674.pdf
 
-## 299. AgRg no REsp nº 2245002 / RS (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 09/09/2026.
-- Crime / Tema: Perseguição · Violência doméstica · Violência psicológica contra a mulher · Dosimetria
-- Resumo: A agravante do art. 61, II, 'f', do CP não incide na perseguição contra a mulher (art. 147-A, § 1º, II) nem na violência psicológica (art. 147-B): a violência contra a mulher já é elementar, e aplicá-la seria bis in idem. Distinção do Tema 1.197/STJ, que vale para a lesão do art. 129, § 9º. Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2245002.pdf
+## 292. AgRg no AgRg no HC nº 1066684 / BA (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/09/2026.
+- Crime / Tema: Homicídio qualificado · Excesso de prazo · Prisão e medidas cautelares
+- Resumo: Prisão cautelar por mais de 3 anos (domiciliar desde 2024) configura excesso de prazo, ainda que a causa seja complexa. Relaxamento mantido e estendido aos corréus (art. 580 do CPP); agravos do MP desprovidos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1066684.pdf
+- Pedido de extensão: https://ladirf.github.io/acervo/pdfs/ext-hc-1066684.pdf
 - Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL. INDEVIDA INCIDÊNCIA DA AGRAVANTE DO ART. 61, II, "F", DO CÓDIGO PENAL NOS CRIMES TIPIFICADOS NOS ARTS. 147-A, II, E 147-B, AMBOS DO CP. BIS IN IDEM CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO DOMICILIAR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. AGRAVO IMPROVIDO.
   > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão monocrática que, com fundamento na Súmula n. 568 do STJ, negou provimento ao recurso especial, mantendo a decisão que afastou a incidência da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher.
-  > 2. A decisão monocrática considerou que a aplicação da referida agravante nos crimes de perseguição contra mulher e violência psicológica contra a mulher configuraria bis in idem, uma vez que a violência contra a mulher já integra os elementos do tipo penal.
+  > 1. Agravo regimental interposto pelo órgão ministerial contra decisão que concedeu a ordem de ofício para relaxar a prisão do agravado.
+  > 2. Alegações do agravante: (i) inexistência de excesso de prazo ante a elevada complexidade da causa, com pluralidade de réus, crimes dolosos contra a vida, acervo probatório digital volumoso e extensa instrução, sem desídia estatal; (ii) encerramento da instrução com abertura de prazo para alegações finais, atraindo a Súmula 52/STJ; (iii) persistência contemporânea dos fundamentos da preventiva, em razão da gravidade concreta, periculosidade e risco de reiteração; (iv) concessão anterior de prisão domiciliar por motivo de saúde; e (v) necessidade de prequestionamento de dispositivos constitucionais.
+  > 3. Fato relevante considerado no voto: prisão cautelar iniciada em 8/9/2022, substituída por prisão domiciliar em 9/2/2024, lapso capaz de desnaturar o caráter precário da prisão preventiva e evidenciar constrangimento ilegal à luz da duração razoável do processo.
   > II. Questão em discussão
-  > 3. A questão em discussão consiste em saber se a incidência concomitante da agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição qualificada, contra mulher, e violência psicológica contra a mulher configura bis in idem, considerando que a violência contra a mulher já integra os elementos do tipo penal.
+  > 4. A questão em discussão consiste em saber se o excesso de prazo, aferido pelos princípios da razoabilidade e proporcionalidade, caracteriza constrangimento ilegal apto a justificar o relaxamento da prisão domiciliar diante do tempo de custódia cautelar e das particularidades do caso concreto.
+  > 5. Outra questão em discussão consiste em saber se compete ao Superior Tribunal de Justiça enfrentar dispositivos constitucionais para fins de prequestionamento.
   > III. Razões de decidir
-  > 4. A jurisprudência do STJ admite a incidência da agravante prevista no art. 61, II, "f", do Código Penal apenas nas hipóteses em que a violência contra a mulher não integra os elementos do tipo penal.
-  > 5. Nos crimes de perseguição contra mulher e violência psicológica contra a mulher, previstos nos arts. 147-A, § 1º, II, e 147-B do Código Penal, a violência contra a mulher já integra os elementos do tipo penal, sendo indevida a aplicação concomitante da agravante do art. 61, II, "f", do Código Penal, sob pena de indevido bis in idem e violação ao princípio da especialidade.
+  > 6. A aferição do excesso de prazo na instrução criminal observa os princípios da razoabilidade e da proporcionalidade, considerando as particularidades do caso, a atuação das partes e a condução do feito, não se tratando de critério aritmético; a mera extrapolação dos prazos legais não acarreta automaticamente o relaxamento da custódia cautelar.
+  > 7. O tempo de custódia cautelar, com prisão preventiva iniciada em 8/9/2022 e posteriormente convertida em prisão domiciliar em 9/2/2024, desnatura o caráter precário da medida e torna desproporcional e injustificada a sua manutenção, evidenciando constrangimento ilegal à luz da duração razoável do processo.
+  > 8. Não compete ao Superior Tribunal de Justiça manifestar-se explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.
   > IV. Dispositivo e tese
-  > 6. Resultado do Julgamento: Agravo regimental desprovido.
+  > 9. Resultado do Julgamento: Agravo regimental improvido.
   > Tese de julgamento:
-  > 1. Não incide a agravante prevista no art. 61, II, "f", do Código Penal nos crimes de perseguição contra mulher e violência psicológica contra a mulher, pois, sob o princípio da especialidade, a violência contra a mulher já integra os elementos do tipo penal, esta incidência configura indevido bis in idem.
-  > (AgRg no REsp n. 2.245.002/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2026, DJEN de 9/9/2026.)
+  > 1. A aferição do excesso de prazo na instrução criminal deve observar os princípios da razoabilidade e proporcionalidade, consideradas as particularidades do caso, a atuação das partes e a condução do feito.
+  > 2. A manutenção de prisão cautelar por lapso que desnatura o caráter precário configura constrangimento ilegal diante do princípio da duração razoável do processo.
+  > 3. Não cabe ao Superior Tribunal de Justiça apreciar dispositivos constitucionais para fins de prequestionamento.
+  > (AgRg no AgRg no HC n. 1.066.684/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2026, DJEN de 23/9/2026.)
 
-## 300. HC nº 1127513 / SP (STJ)
-- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 09/09/2026.
-- Crime / Tema: Falsidade ideológica · Alucinação de IA
-- Resumo: O relatório final de indiciamento com citações de jurisprudência inexistentes ou que não correspondem aos julgados (alucinação de IA) é nulo: deve ser desentranhado e não pode servir de fonte para a denúncia. Anulado também o recebimento da denúncia. Ordem concedida de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127513.pdf
+## 293. AgExPen nº 9000340-23.2026.4.04.7017 / PR (TRF4)
+- Decisão colegiada. Relator: Des. Fed. Luiz Carlos Canalli. 7ª Turma. Publicado em 23/09/2026.
+- Crime / Tema: Execução penal
+- Resumo: A reconversão das penas restritivas em privativa de liberdade (art. 181, § 1º, da LEP) exige descumprimento injustificado. É nula a intimação por edital feita depois de tentar a intimação pessoal em endereço errado, sem esgotar os meios de localização. Sem ocultação deliberada, não há falta grave (art. 50, II, da LEP). Reconversão e regressão ao regime fechado anuladas, e restabelecidas as penas restritivas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-agexpen-9000340-23-2026.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO DE EXECUÇÃO PENAL. RECONVERSÃO DE PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. INTIMAÇÃO POR EDITAL PREMATURA. NULIDADE RECONHECIDA. PROVIMENTO DO RECURSO.
+  > I. CASO EM EXAME:
+  > 1. Agravo de execução penal interposto contra decisão que determinou a reconversão das penas restritivas de direitos em pena privativa de liberdade, em regime inicial fechado, sob o fundamento de que o apenado se encontrava em local incerto e não atendeu à intimação por edital.
+  > II. QUESTÃO EM DISCUSSÃO:
+  > 2. A questão em discussão consiste em saber se é válida a reconversão das penas restritivas de direitos em privativa de liberdade quando a intimação pessoal foi tentada em endereço incorreto e realizada por edital de forma prematura, sem o esgotamento dos meios de localização do apenado.
+  > III. RAZÕES DE DECIDIR:
+  > 3. A conversão da pena restritiva de direitos em privativa de liberdade exige o descumprimento injustificado da obrigação imposta, nos termos do art. 181, § 1º, da LEP, em observância às garantias do contraditório e da ampla defesa previstas no art. 5º, LV, da CF/1988.
+  > 4. Há nulidade na intimação por edital quando a tentativa de intimação pessoal do apenado é realizada em endereço incorreto, diverso daquele constante nos autos e indicado pelo Ministério Público Federal.
+  > 5. A intimação por edital possui natureza ficta e excepcional, sendo cabível apenas após o esgotamento de todos os meios razoáveis para a localização presencial do apenado.
+  > 6. Inexistindo intimação pessoal válida e não demonstrada a ocultação deliberada do apenado, não se caracteriza a frustração injustificada do cumprimento da pena ou a prática de falta grave prevista no art. 50, II, da LEP.
+  > 7. A ausência de esgotamento dos meios de localização do apenado impõe a anulação da decisão de reconversão das penas e o restabelecimento das penas restritivas de direitos originalmente impostas.
+  > IV. DISPOSITIVO E TESE:
+  > 8. Recurso provido.
+  > Tese de julgamento: 9. É nula a reconversão de penas restritivas de direitos em privativa de liberdade quando a intimação por edital é realizada de forma prematura, sem a prévia tentativa de intimação pessoal no endereço correto constante dos autos.
+  > (TRF4, Agravo de Execução Penal n. 9000340-23.2026.4.04.7017/PR, relator Desembargador Federal Luiz Carlos Canalli, 7ª Turma, julgado em 25/8/2026, publicado em 23/9/2026.)
+
+## 294. REsp nº 2204206 / PE (STJ)
+- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 22/09/2026.
+- Crime / Tema: Prova digital · Quebra da cadeia de custódia · Justa causa
+- Resumo: Sem fonte independente, a denúncia baseada só nos sistemas Drousys e My Web Day B, declarados imprestáveis pelo STF por comprometimento da cadeia de custódia, não tem justa causa. Mantida a rejeição da denúncia; REsp do MPF desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2204206.pdf
+- Ementa oficial:
+  > RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. AÇÃO PENAL. REJEIÇÃO DA DENÚNCIA POR FALTA DE JUSTA CAUSA. DECISÃO DO STF SOBRE IMPRESTABILIDADE DOS SISTEMAS DROUSYS E MY WEB DAY B. DERIVAÇÃO DAS PROVAS. AUSÊNCIA DE FONTE INDEPENDENTE. ART. 157, § 1º, SEGUNDA PARTE, DO CPP. PROVA ILÍCITA POR DERIVAÇÃO. REVALORAÇÃO JURÍDICA INVIÁVEL. SÚMULA 7/STJ. ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS. PRESTAÇÃO JURISDICIONAL ADEQUADA. TESE DO IN DUBIO PRO SOCIETATE REFUTADA. MANUTENÇÃO DOS ACÓRDÃOS QUE AFASTARAM A JUSTA CAUSA. PRETENSÃO DE PROSSEGUIMENTO DA AÇÃO PENAL SEM LASTRO AUTÔNOMO.
+  > 1. A ação penal foi trancada em relação à recorrida por falta de justa causa após decisão que reconheceu a imprestabilidade dos sistemas Drousys e My Web Day B. O Tribunal de origem confirmou que todas as provas relativas à recorrida derivavam desses sistemas.
+  > 2. O Ministério Público Federal sustenta a existência de provas independentes e a aplicação do art. 157, § 1º, do Código de Processo Penal, além de alegar omissão quanto ao art. 619 do Código de Processo Penal.
+  > 3. O acórdão recorrido refuta a tese de fonte independente e afirma que pedidos de cooperação internacional, quebras de sigilo e demais elementos também decorrem dos sistemas invalidados.
+  > 4. A revisão da origem e da autonomia das provas demanda reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ, conforme precedente do Superior Tribunal de Justiça.
+  > 5. Não procede a alegação de prestação jurisdicional deficiente, pois a Corte de origem enfrentou a ilicitude por derivação, rejeitou a existência de provas independentes e afastou a tese do in dubio pro societate, em consonância com a jurisprudência do Superior Tribunal de Justiça.
+  > 6. Recurso especial parcialmente conhecido e, nessa extensão, improvido.
+  > (REsp n. 2.204.206/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/9/2026, DJEN de 22/9/2026.)
+
+## 295. HC nº 1125136 / PB (STJ)
+- Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 22/09/2026.
+- Crime / Tema: Crimes contra a ordem tributária · Prescrição
+- Resumo: Crime tributário material (art. 1º, II, da Lei 8.137/90): a prescrição corre da constituição definitiva do crédito (SV 24), conta a pena sem o acréscimo da continuidade (Súmula 497/STF) e cai pela metade para maior de 70 anos na data do acórdão (art. 115 do CP). Prescrição reconhecida de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1125136.pdf
+
+## 296. Rcl nº 99.520 / AC (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 21/09/2026.
+- Crime / Tema: Prova digital · Quebra da cadeia de custódia · Acesso da defesa às provas
+- Resumo: Súmula Vinculante 14: a defesa tem direito de copiar, em meio físico ou digital, as conversas de WhatsApp já documentadas e a documentação da cadeia de custódia dos laudos; só poder consultá-las no instituto de perícia, sem extrair, não basta. Reclamação procedente.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-99520.pdf
+
+## 297. HC nº 1129639 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Ameaça · Violência doméstica · Prisão e medidas cautelares
+- Resumo: Preventiva por ameaça em violência doméstica (pena máxima inferior a 4 anos): o art. 313, III, do CPP exige descumprimento prévio de medida protetiva, e o réu nem havia sido intimado dela. Prisão substituída por medidas protetivas e cautelares diversas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129639.pdf
+
+## 298. HC nº 1130315 / SP (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita
+- Resumo: Busca pessoal em usuário por "comportamento suspeito" genérico, em patrulhamento de rotina, é ilícita (art. 244 do CPP) e contamina o que veio depois: a indicação da casa do vendedor e as apreensões feitas lá (art. 157, § 1º). A ilicitude vale mesmo com a busca feita em terceiro. Paciente e corréu absolvidos de ofício (art. 580 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1130315.pdf
+
+## 299. PET no AREsp nº 2593373 / AM (STJ)
+- Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 21/09/2026.
+- Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
+- Resumo: ANPP retroativo (HC 185.913/STF): sem trânsito em julgado, cabe ao MP de primeiro grau avaliar o acordo, e não ao MPF no STJ. Autos remetidos à origem para o MP estadual se manifestar motivadamente sobre o ANPP (art. 28-A do CPP), com direito à revisão do § 14 se houver recusa. O relator não antecipou juízo sobre requisitos nem preclusão.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2593373.pdf
+
+## 300. HC nº 1102439 / SP (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 18/09/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Prisão e medidas cautelares
+- Resumo: A campana feita depois de informação anônima, a venda vista no portão da casa e confirmada pelo comprador abordado, e a droga achada no carro do réu formam fundadas razões para a busca domiciliar sem mandado; nulidade afastada. Mas maus antecedentes, com penas já extintas, e pouca droga (34 g de cocaína), num crime sem violência, não justificam a preventiva, substituída por medidas cautelares (art. 319 do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1102439.pdf
