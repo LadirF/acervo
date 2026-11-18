@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 40 de 48 (decisões 391 a 400)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 475 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,31 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 391. AgRg no HC nº 986940 / RS (STJ)
+## 391. ARE nº 1.042.075 / RJ (STF)
+- Decisão colegiada (repercussão geral). Relator: Min. Dias Toffoli. Plenário. Publicado em 24/09/2025.
+- **Resultado desfavorável à defesa:** Recurso do MP provido (vale pela tese)
+- Crime / Tema: Roubo · Prova digital · Quebra de sigilo · Repercussão geral
+- Resumo: Tema 977/STF — A apreensão do celular não depende de ordem judicial, mas o acesso aos dados do aparelho apreendido em flagrante exige consentimento expresso e livre do titular ou prévia decisão judicial fundamentada (arts. 7º, III, e 10, § 2º, do Marco Civil da Internet). No encontro fortuito, o acesso só para identificar o autor ou o dono dispensa a ordem, com justificação posterior. A polícia pode preservar os dados (backup) antes da autorização, sem explorar o conteúdo (EDcl). Efeitos prospectivos. No caso, celular achado no local do roubo; recurso do MP provido e condenação restabelecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1042075.pdf
+- Embargos de declaração: https://ladirf.github.io/acervo/pdfs/ed-are-1042075.pdf
+- Ementa oficial:
+  > Recurso extraordinário com agravo. Julgamento sob a sistemática da repercussão geral. Constitucional. Processual penal. Aparelho celular encontrado fortuitamente no local do crime. Acesso à agenda telefônica, aos registros de chamadas e às fotografias arquivadas no aparelho sem prévia autorização judicial. Condenação em primeira instância. Acórdão recorrido em que se reconheceu a ilicitude da prova. Violação do sigilo das comunicações (CF, art. 5º, inciso XII). Aplicação da teoria dos frutos da árvore envenenada. Absolvição do recorrido por insuficiência de provas. Alteração considerável do contexto fático e normativo. Transformação tecnológica. Superveniência do MCI, da LGPD e da EC nº 115, de 2022. Direito à proteção dos dados pessoais nos meios digitais. Autodeterminação informacional. Proteção jurídica especial e autônoma. Direitos fundamentais à vida privada e à intimidade. Superação do entendimento firmado no HC nº 91.867/PA. Necessidade de consentimento ou de prévia autorização judicial para acesso aos dados contidos no aparelho celular apreendido em prisão em flagrante. Contemporização desse entendimento nas situações de encontro fortuito do aparelho no local do crime. Identificação do autor do fato ou do proprietário do aparelho celular. Licitude da prova. Restabelecimento da condenação. Possibilidade de preservação cautelar dos dados. Recurso provido.
+  > I. CASO EM EXAME
+  > 1. No caso dos autos, o aparelho celular foi encontrado fortuitamente no local dos fatos e apreendido pela autoridade policial (CPP, art. 6º, inciso II). A identificação do autor do delito decorreu do exame da agenda telefônica, dos registros de chamadas e de fotografias constantes do aparelho celular pelos agentes policiais, sem consentimento de quem de direito ou prévia autorização judicial, o qual permitiu a coleta de evidências que nortearam a realização de diligências que culminaram na identificação e na prisão do autor do fato (flagrante impróprio) e em sua posterior condenação, em primeira instância, pelo crime de roubo.
+  > II. QUESTÃO EM DISCUSSÃO
+  > 2. A controvérsia constitucional posta nos autos consiste em saber se a autoridade policial pode acessar, sem prévia autorização judicial, os dados armazenados em aparelho celular encontrado fortuitamente no local do crime e apreendido nos termos do art. 6º, inciso II, do CPP.
+  > III. RAZÕES DE DECIDIR
+  > 3. Os smartphones já eram realidade no país em 2013. Tais aparelhos multifuncionais, além de servirem de instrumento para os serviços ordinários de telefonia móvel, permitem a produção, o armazenamento, a transmissão e a reprodução de arquivos dos mais diversos formatos (textos, imagens, áudios e vídeos) e – mais que isso – viabilizam o acesso amplo e irrestrito à internet e, por conseguinte, às redes sociais, aos provedores de e-mail, às plataformas bancárias e de e-commerce, a uma miríade de sites e blogs e aos inúmeros aplicativos de mensagens instantâneas, inclusive gratuitamente. Graças aos smartphones, “o mundo passou a caber na palma da mão”. Mas, à medida que isso acontecia, as informações pessoais também se concentraram nos aparelhos celulares. Hoje, as múltiplas funcionalidades dos aparelhos celulares geram dados e metadados que são registrados na memória física do aparelho, ou “em nuvem”, e podem ser facilmente acessados, rastreados e/ou recuperados.
+  > 4. Examinados em conjunto, dados e metadados revelam um espectro enorme de dados pessoais, o que torna possível uma investigação completa e – diga-se de passagem – muito eficiente acerca das preferências pessoais, das relações familiares e interpessoais, dos hábitos de vida, de trabalho e de consumo e, em última análise, da forma de pensar, de agir e de decidir de determinado indivíduo. Isso sem falar, obviamente, das facilidades que o acesso proporciona para a intrusão indevida e “para o futuro”, a partir da instalação de softwares “espiões”.
+  > 5. A possibilidade de se acessar, por meio de aparelhos celulares, bem mais que metadados relativos à comunicação telefônica desloca a discussão travada nos autos para a questão da inviolabilidade da intimidade, da vida privada, da honra e da imagem (CF/88, art. 5º, inciso X), do direito à proteção dos dados pessoais, inclusive nos meios digitais (CF/88, art. 5º, inciso LXXIX, introduzido pela Emenda Constitucional nº 115, de 2022), e do direito à autodeterminação informacional, os quais conferem proteção jurídica especial e diferenciada aos dados pessoais armazenados e justificam a superação do entendimento firmado no HC nº 91.867/PA para se construir uma solução mais condizente com a nova realidade.
+  > 6. Após revisitar os precedentes sobre a matéria, verifica-se que a jurisprudência do Supremo Tribunal Federal acabou encampando, ao menos em parte, o texto seminal do Professor Tércio Sampaio Ferraz Júnior, para quem, “[o] sigilo, no inciso XII do art. 5º, está referido à comunicação, no interesse da defesa da privacidade”. Isso não significa, contudo, que o texto constitucional asseguraria proteção jurídica apenas e tão somente à “comunicação de dados”, isto é, ao “fluxo comunicacional”, ou aos “dados em trânsito”. Como lembrou Ferraz Júnior, os “dados estáticos”, ou seja, os “dados armazenados” também são passíveis de proteção jurídica e, embora não se revistam sempre e incondicionalmente de caráter sigiloso, podem alcançar tal qualidade a depender das circunstâncias, encontrando guarida, por exemplo, no disposto no art. 5º, inciso X, do texto constitucional.
+  > 7. A Emenda Constitucional nº 115, de 2022, ao introduzir no art. 5º da Constituição o inciso LXXIX, segundo o qual “é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais” e, antes dela, as Leis nº 12.695/14 e nº 13.709/18, que instituíram no ordenamento jurídico brasileiro, respectivamente, o Marco Civil da Internet e a Lei Geral de Proteção de Dados, passaram a conferir proteção jurídica especial e autônoma aos dados pessoais. Assim, enquanto o primeiro diploma legal elevou ao patamar de direito dos usuários de internet a inviolabilidade e o sigilo de suas comunicações privadas armazenadas e o não fornecimento de seus dados pessoais, a segunda lei alçou a proteção jurídica dos dados pessoais a uma categoria autônoma com relação aos direitos à privacidade e à intimidade (CF, art. 5º, inciso X).
+  > 8. Não se pode olvidar, ainda, que o direito à privacidade, apesar de relativamente recente, passou – e ainda passa – por considerável ressignificação. É dizer, no contexto da sociedade atual, a possibilidade de o indivíduo proceder ao controle dos dados que dizem respeito à própria pessoa – porque eles consistem em manifestação de sua personalidade – é conditio sine qua non para a preservação de sua personalidade e para o desenvolvimento pleno de sua autonomia. Isso porque é o direito à privacidade que assegura a cada indivíduo um espaço próprio de experimentação, no qual é possível a cada qual expressar “sentimentos, reflexões, visões de mundo e experiências pessoais sem medo de estar sendo observado por órgãos estatais” (GRECO, Luís; GLEIZER, Orlandino. A infiltração online no processo penal – Notícia sobre a experiência alemã. Revista Brasileira de Direito Processual Penal. Porto Alegre, v. 5, n. 3, set./dez. 2019, p. 1495).
+  > IV. DISPOSITIVO E TESE
+  > 9. Recurso extraordinário com agravo ao qual se dá provimento para se reconhecer a licitude da prova e se restabelecer a sentença condenatória proferida em primeiro grau de jurisdição, fixando-se a seguinte tese de repercussão geral: “1. A mera apreensão de aparelho celular, nos termos do art. 6º do CPP ou em flagrante delito, não está sujeita à reserva de jurisdição. Contudo, o acesso aos dados nele contidos deve observar as seguintes condicionantes: 1.1 Nas hipóteses de encontro fortuito de aparelho celular, o acesso aos respectivos dados para o fim exclusivo de se esclarecer a autoria do fato supostamente criminoso, ou quem seja o proprietário do aparelho, não depende de consentimento ou de prévia decisão judicial, desde que justificada posteriormente a adoção da medida. 1.2 No caso de aparelho celular apreendido por ocasião de prisão em flagrante, o acesso aos respectivos dados está condicionado ao consentimento expresso e livre do titular dos dados ou de prévia decisão judicial (cf. art. 7º, inciso III, e art. 10, § 2º, da Lei nº 12.965/14) que justifique, com base em elementos concretos, a proporcionalidade da medida e delimite sua abrangência à luz dos direitos fundamentais à intimidade, à privacidade, à proteção dos dados pessoais e à autodeterminação informacional, inclusive nos meios digitais (art. 5º, incisos X e LXXIX, da CRFB/88). Nesses casos, a celeridade se impõe, devendo a autoridade policial atuar com a maior rapidez e eficiência possível e o Poder Judiciário conferir tramitação e apreciação prioritárias aos pedidos dessa natureza, inclusive em regime de plantão. 2. A autoridade policial poderá adotar as providências necessárias para a preservação dos dados e metadados contidos no aparelho celular apreendido antes da autorização judicial, justificando posteriormente a adoção da medida. 3. As teses acima enunciadas só produzirão efeitos prospectivos, ressalvados os pedidos eventualmente formulados pelas defesas até a data do encerramento do presente julgamento".
+  > (STF, ARE n. 1.042.075/RJ, relator Ministro Dias Toffoli, Tribunal Pleno, julgado em 25/6/2025, DJe de 24/9/2025.)
+
+## 392. AgRg no HC nº 986940 / RS (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 22/09/2025.
 - Crime / Tema: Lavagem de dinheiro · Inépcia da denúncia
 - Resumo: É inepta a denúncia que só diz que o dono de revenda lavou dinheiro vendendo veículos, sem descrever o vínculo com a ocultação (arts. 41 e 395, I, do CPP). Agravo do MP desprovido; ação trancada quanto a ele.
@@ -32,7 +56,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. A mera venda de bens, por si só, não caracteriza a participação do vendedor como coautor do crime de lavagem de capitais, sendo necessário o detalhamento do liame entre sua conduta e os atos de ocultação ou dissimulação de bens e valores.
   > (AgRg no HC n. 986.940/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/9/2025, DJEN de 22/9/2025.)
 
-## 392. REsp nº 2001973 / RS (STJ)
+## 393. REsp nº 2001973 / RS (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Terceira Seção. Publicado em 16/09/2025.
 - Crime / Tema: Descaminho · Confissão espontânea · Dosimetria · Tema repetitivo
 - Resumo: Tema 1.194/STJ e revisão da Súmula 545/STJ: na redação de 2015, a confissão só atenuava a pena quando usada para formar o convencimento do julgador; na nova, de 2025, atenua (art. 65, III, d, do CP) independentemente disso, mesmo com outras provas, salvo retratação que não tenha servido à apuração dos fatos. Confissão parcial ou qualificada atenua em menor proporção e não prepondera sobre agravantes. Efeitos prejudiciais só para fatos posteriores ao acórdão. REsp da defesa parcialmente provido.
@@ -56,7 +80,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
   > (REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
 
-## 393. AgRg no REsp nº 2206947 / PR (STJ)
+## 394. AgRg no REsp nº 2206947 / PR (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 01/09/2025.
 - Crime / Tema: Infanticídio · Homicídio · Pronúncia
 - Resumo: Desclassificação para homicídio culposo mantida: o estado puerperal ficou provado, mas não o dolo (demora de cerca de 3 horas para levar o bebê ao hospital). Não existe infanticídio culposo (art. 18, parágrafo único, do CP), e o dolo deve ser examinado já na pronúncia. Rever isso esbarra na Súmula 7.
@@ -76,25 +100,25 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Tese de julgamento: "1. É inviável o reexame de fatos e provas em recurso especial".
   > (AgRg no REsp n. 2.206.947/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2025, DJEN de 1/9/2025.)
 
-## 394. REsp nº 2195682 / SP (STJ)
+## 395. REsp nº 2195682 / SP (STJ)
 - Decisão monocrática. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 29/08/2025.
 - Crime / Tema: Lavagem de dinheiro · RIF
 - Resumo: RIFs enviados pelo COAF a pedido da polícia, sem autorização judicial, são nulos e devem sair dos autos com as provas deles derivadas; o juiz deve reavaliar o sequestro de bens à luz do que restar. REsp da defesa parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2195682.pdf
 
-## 395. RHC nº 221603 / RS (STJ)
+## 396. RHC nº 221603 / RS (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 26/08/2025.
 - Crime / Tema: RIF
 - Resumo: O Tema 990/STF não autoriza a requisição direta de dados financeiros pela polícia sem ordem judicial. RIF pedido pela autoridade policial em verificação preliminar declarado ilícito e desentranhado, com as provas derivadas (TRF4).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-221603.pdf
 
-## 396. RHC nº 153706 / RS (STJ)
+## 397. RHC nº 153706 / RS (STJ)
 - Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 25/07/2025.
 - Crime / Tema: Crimes contra o sistema financeiro · Lavagem de dinheiro · Organização criminosa · Acesso da defesa às provas
 - Resumo: Relatório complementar da PF com novos elementos, juntado depois da resposta à acusação, exige restituir o prazo da resposta, com acesso integral aos elementos que o embasaram; reinquirir as testemunhas não basta.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-153706.pdf
 
-## 397. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
+## 398. ApCrim nº 0803817-76.2023.8.19.0083 (TJRJ)
 - Decisão colegiada. Relator: Des. Joaquim Domingos de Almeida Neto. 7ª Câmara Criminal. Publicado em 30/06/2025.
 - Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima, sem investigação prévia nem indício concreto de crime dentro da casa, não autoriza o ingresso sem mandado, mesmo em crime permanente: a diligência foi exploratória. Provas ilícitas e réu absolvido (art. 386, II, do CPP) da posse de arma de fogo com numeração suprimida (art. 16, § 1º, IV, da Lei 10.826/2003).
@@ -117,7 +141,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 10. PROVIMENTO DO RECURSO. ABSOLVIÇÃO.
   > (TJRJ, Apelação Criminal n. 0803817-76.2023.8.19.0083, relator Desembargador Joaquim Domingos de Almeida Neto, 7ª Câmara Criminal, julgado em 26/6/2025, publicado em 30/6/2025.)
 
-## 398. REsp nº 1953602 / SP (STJ)
+## 399. REsp nº 1953602 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 30/06/2025.
 - Crime / Tema: Roubo · Tema repetitivo · Reconhecimento de pessoa
 - Resumo: Tema 1.258/STJ — O art. 226 do CPP é de observância obrigatória, no inquérito e em juízo. O reconhecimento de pessoa feito sem essas formalidades é inválido: não sustenta condenação, preventiva, recebimento de denúncia ou pronúncia e, por ser prova irrepetível, não se corrige refazendo o ato. A autoria só pode vir de provas independentes.
@@ -137,7 +161,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Recurso especial provido, para absolver o réu.
   > (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025.)
 
-## 399. AgRg no REsp nº 2132630 / RS (STJ)
+## 400. AgRg no REsp nº 2132630 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 26/06/2025.
 - Crime / Tema: Infanticídio · Tribunal do Júri
 - Resumo: Desclassificação para infanticídio tentado mantida: a prova indicava que a mãe agiu sob a influência do estado puerperal (parto sozinha no banheiro de um ônibus, gravidez oculta, sem pré-natal), e rever isso esbarra na Súmula 7. O in dubio pro societate não tem amparo legal. A decisão monocrática anterior transcreve o TJRS: o estado puerperal é perturbação sutil e transitória, e laudo feito meses depois não o afasta.
@@ -149,9 +173,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Esta Corte Superior de Justiça já se manifestou no sentido de que o "princípio in dubio pro societate não encontra amparo constitucional ou legal no sistema processual penal brasileiro, sendo incompatível com o ônus probatório que recai exclusivamente sobre a acusação e com o papel contramajoritário do Poder Judiciário na proteção de direitos fundamentais" (AgRg no AREsp n. 2.566.173/AM, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
   > 3. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.132.630/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
-
-## 400. RHC nº 213637 / BA (STJ)
-- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 26/06/2025.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · RIF
-- Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é nulo, assim como as provas dele derivadas.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-213637.pdf

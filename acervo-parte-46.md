@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 46 de 48 (decisões 451 a 460)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 475 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,19 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 451. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
+## 451. HC nº 611918 / SP (STJ)
+- Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 11/12/2020.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Denúncia anônima sem investigação prévia não legitima o ingresso. Ser abordado com droga em local conhecido como ponto de tráfico também não autoriza entrar na casa, porque não indica crime permanente lá dentro. Provas ilícitas e réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-611918.pdf
+- Ementa oficial:
+  > HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE. ILICITUDE DAS PROVAS. INVASÃO DE DOMICÍLIO. ATUAÇÃO COM BASE EM DENÚNCIA ANÔNIMA. IMPOSSIBILIDADE. AUSÊNCIA DE INVESTIGAÇÕES PRÉVIAS E DE FUNDADAS RAZÕES. ILEGALIDADE. OCORRÊNCIA. ORDEM CONCEDIDA.
+  > 1. Esta Corte Superior entende serem exigíveis fundamentos razoáveis da existência de crime permanente para justificarem o ingresso desautorizado na residência do agente. Desse modo, a mera denúncia anônima, desacompanhada de outros elementos preliminares indicativos de crime, não legitima o ingresso de policiais no domicílio, sem autorização judicial.
+  > 2. A abordagem em face do réu, em local conhecido como ponto de tráfico, sendo encontrado com ele drogas, não autoriza o ingresso na residência, por não demonstrar os fundamentos razoáveis da existência de crime permanente dentro do domicílio.
+  > 3. Habeas corpus concedido para reconhecer a ilicitude da apreensão da droga, pela violação de domicílio, e, consequentemente, absolver o paciente RAFAEL AUGUSTO NUNES.
+  > (HC n. 611.918/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
+
+## 452. ApCrim nº 1.0702.16.075074-2/001 (TJMG)
 - Decisão colegiada. Relator: Des. Rubens Gabriel Soares. 6ª Câmara Criminal. Publicado em 30/11/2020.
 - Crime / Tema: Coação no curso do processo · Obstrução de justiça · Colaboração premiada
 - Resumo: Não se condena só com base em delação (art. 4º, § 16, III, da Lei 12.850/13); a corroboração exige elementos específicos sobre a conduta de cada réu, não genéricos. Réu absolvido.
@@ -22,7 +34,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 05. Tendo a apelação defensiva sido provida para absolver o acusado em face de todas as imputações delitivas, resta prejudicado o recurso ministerial exclusivamente dirigido ao recrudescimento das reprimendas e do regime prisional.
   > (TJMG, Apelação Criminal n. 1.0702.16.075074-2/001, relator Desembargador Rubens Gabriel Soares, 6ª Câmara Criminal, julgado em 24/11/2020, publicado em 30/11/2020.)
 
-## 452. RESE nº 1.0024.12.210216-3/001 (TJMG)
+## 453. RESE nº 1.0024.12.210216-3/001 (TJMG)
 - Decisão colegiada. Relator: Des. Nelson Missias de Morais. 2ª Câmara Criminal. Publicado em 28/08/2020.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: Pronúncia sustentada só em boatos e testemunho indireto não se mantém: 1º recorrente impronunciado. Para os outros dois, pronúncia mantida com indícios do inquérito, sem ofensa ao art. 155 do CPP, decotado o motivo fútil.
@@ -38,7 +50,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > - Primeiro recurso provido e segundo recurso provido em parte.
   > (TJMG, Recurso em Sentido Estrito n. 1.0024.12.210216-3/001, relator Desembargador Nelson Missias de Morais, 2ª Câmara Criminal, julgado em 20/8/2020, publicado em 28/8/2020.)
 
-## 453. REsp nº 1871856 / SE (STJ)
+## 454. REsp nº 1871856 / SE (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 30/06/2020.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: No tráfico, a flagrância permanente não basta, por si só, para a busca domiciliar sem mandado. Denúncia anônima sem outros elementos, sem investigação prévia, não é justa causa. Provas nulas, assim como as derivadas; réu absolvido (art. 386, II, do CPP).
@@ -51,7 +63,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso especial provido para reconhecer a ilicitude das provas obtidas por meio de violação de domicílio e dela derivadas, por conseguinte, absolver o recorrente, com fulcro no art. 386, II, do CPP.
   > (REsp n. 1.871.856/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 30/6/2020.)
 
-## 454. AgRg no HC nº 157.627 / PR (STF)
+## 455. AgRg no HC nº 157.627 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Ricardo Lewandowski. Segunda Turma. Publicado em 17/03/2020.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Memoriais dos réus colaboradores, com carga acusatória, devem preceder os dos delatados; prazo comum ofende o contraditório e a ampla defesa. Julgamento anulado a partir do fim da instrução. Precedente que originou a tese do HC nº 166.373.
@@ -64,7 +76,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV – Agravo regimental provido, para conhecer e conceder a ordem.
   > (STF, AgRg no HC n. 157.627/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Ricardo Lewandowski, Segunda Turma, julgado em 27/8/2019, DJe de 17/3/2020.)
 
-## 455. AgRg no REsp nº 1838513 / RS (STJ)
+## 456. AgRg no REsp nº 1838513 / RS (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 21/11/2019.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Testemunho indireto · Tribunal do Júri
 - Resumo: Pronúncia não pode se basear exclusivamente em boatos e testemunho de ouvir dizer sem indicação da fonte. Agravo do MPF desprovido; despronúncia mantida.
@@ -75,7 +87,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 2. Agravo regimental desprovido.
   > (AgRg no REsp n. 1.838.513/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/11/2019, DJe de 21/11/2019.)
 
-## 456. ApCrim nº 1.0024.17.131538-5/001 (TJMG)
+## 457. ApCrim nº 1.0024.17.131538-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Pedro Vergara. 5ª Câmara Criminal. Publicado em 07/10/2019.
 - **Verificar antes de citar:** Esta decisão consta do acervo somente pela tese: policiais que apenas repetem o relato extrajudicial da vítima, não confirmado em juízo, não provam a grave ameaça do roubo. O acórdão é inconsistente quanto à extinção da punibilidade: o voto fala em cumprimento da pena e o dispositivo, em prescrição. Não a cite por esse ponto e confira o inteiro teor antes de usar.
 - Crime / Tema: Roubo · Furto · Testemunho indireto · Dosimetria
@@ -90,7 +102,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 05. Recurso parcialmente provido.
   > (TJMG, Apelação Criminal n. 1.0024.17.131538-5/001, relator Desembargador Pedro Vergara, 5ª Câmara Criminal, julgado em 1/10/2019, publicado em 7/10/2019.)
 
-## 457. HC nº 496533 / DF (STJ)
+## 458. HC nº 496533 / DF (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 18/06/2019.
 - Crime / Tema: Organização criminosa · Corrupção passiva · Lavagem de dinheiro · Crimes contra o sistema financeiro · Prisão e medidas cautelares
 - Resumo: Organização criminosa desmontada, diretoria do banco trocada e cinco meses de prisão: os riscos de reiteração seguem presentes, mas diminuídos, e as cautelares do art. 319 do CPP bastam no lugar da preventiva, mesmo para o apontado como líder do grupo. O voto ressalva que a contemporaneidade pode ser relativizada no pertencimento a organização criminosa, salvo evidência em contrário. Ordem concedida.
@@ -105,7 +117,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Habeas corpus concedido para substituir a prisão preventiva por cautelares descritas no voto, sem prejuízo de imposição de outras que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas.
   > (HC n. 496.533/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2019, DJe de 18/6/2019.)
 
-## 458. HC nº 495894 / DF (STJ)
+## 459. HC nº 495894 / DF (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 17/06/2019.
 - Crime / Tema: Organização criminosa · Lavagem de dinheiro · Prisão e medidas cautelares
 - Resumo: Organização criminosa desarticulada e paciente sem maior protagonismo: os riscos de reiteração seguem presentes, mas diminuídos, e as cautelares do art. 319 do CPP bastam no lugar da preventiva. O voto ressalva que a contemporaneidade pode ser relativizada no pertencimento a organização criminosa, salvo evidência em contrário. Ordem concedida.
@@ -118,7 +130,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Habeas corpus concedido para substituir a prisão preventiva por cautelares descritas no voto, sem prejuízo de imposição de outras que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas.
   > (HC n. 495.894/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2019, DJe de 17/6/2019.)
 
-## 459. REsp nº 1795341 / RS (STJ)
+## 460. REsp nº 1795341 / RS (STJ)
 - Decisão colegiada. Relator: Min. Nefi Cordeiro. Sexta Turma. Publicado em 14/05/2019.
 - Crime / Tema: Concussão (CPM) · Quebra de sigilo · Quebra da cadeia de custódia · Acesso da defesa às provas · Prescrição
 - Resumo: A defesa tem direito de acessar todos os áudios da interceptação; a seleção dos trechos só pela acusação quebra a cadeia de custódia e viola a paridade de armas (art. 9º da Lei 9.296/96). Prova anulada e prescrição reconhecida.
@@ -131,23 +143,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Reconhecida a nulidade, inegável a superveniência da prescrição, com fundamento no art. 61 do CPP.
   > 5. Recursos especiais providos para declarar a nulidade da interceptação telefônica e das provas dela decorrentes, reconhecendo, por consequência, a superveniência da prescrição da pretensão punitiva do Estado, de ofício.
   > (REsp n. 1.795.341/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/5/2019, DJe de 14/5/2019.)
-
-## 460. Inq nº 3.994 / DF (STF)
-- Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Dias Toffoli. Segunda Turma. Publicado em 06/04/2018.
-- Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada · Justa causa
-- Resumo: Palavra do colaborador sem corroboração não basta nem para receber a denúncia (art. 4º, § 16, da Lei 12.850/13); anotação feita pelo próprio colaborador não serve de corroboração. Denúncia rejeitada por falta de justa causa (art. 395, III, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-inq-3994.pdf
-- Ementa oficial:
-  > Inquérito. Corrupção passiva e lavagem de dinheiro (art. 317, § 1º, e art. 1º, § 4º, da Lei nº 9.613/98, c/c os arts. 29 e 69 do CP). Denúncia. Parlamentares federais. Suposto envolvimento em esquema de corrupção de agentes públicos relacionado à Diretoria de Abastecimento da Petrobras. Vantagens indevidas. Supostos recebimentos na forma de doações eleitorais oficiais, por intermédio de empresas de fachada e também em espécie. Imputações calcadas em depoimentos de réus colaboradores. Ausência de provas minimamente consistentes de corroboração. Fumus commissi delicti não demonstrado. Inexistência de justa causa para a ação penal. Denúncia rejeitada (art. 395, III, CPP) com relação aos parlamentares federais, com determinação de baixa dos autos ao primeiro grau quanto ao não detentor de prerrogativa de foro.
-  > 1. A justa causa para a ação penal consiste na exigência de suporte probatório mínimo a indicar a legitimidade da imputação e se traduz na existência, no inquérito policial ou nas peças de informação que instruem a denúncia, de elementos sérios e idôneos que demonstrem a materialidade do crime e de indícios razoáveis de autoria (Inq nº 3.719/DF, Segunda Turma, de minha relatoria, DJe de 29/10/14).
-  > 2. Na espécie, encontra-se ausente esse substrato probatório mínimo que autoriza a deflagração da ação penal.
-  > 3. Se os depoimentos do réu colaborador, sem outras provas minimamente consistentes de corroboração, não podem conduzir à condenação, também não podem autorizar a instauração da ação penal, por padecerem da presunção relativa de falta de fidedignidade.
-  > 4. A colaboração premiada, como meio de obtenção de prova, tem aptidão para autorizar a deflagração da investigação preliminar, visando adquirir coisas materiais, traços ou declarações dotadas de força probatória. Essa, em verdade, constitui sua verdadeira vocação probatória.
-  > 5. Todavia, os depoimentos do colaborador premiado, sem outras provas idôneas de corroboração, não se revestem de densidade suficiente para lastrear um juízo positivo de admissibilidade da acusação, o qual exige a presença do fumus commissi delicti.
-  > 6. O fumus commissi delicti, que se funda em um juízo de probabilidade de condenação, traduz-se, em nosso ordenamento, na prova da existência do crime e na presença de indícios suficientes de autoria.
-  > 7. Se “nenhuma sentença condenatória será proferida com fundamento apenas nas declarações de agente colaborador” (art. 4º, § 16, da Lei nº 12.850/13), é lícito concluir que essas declarações, por si sós, não autorizam a formulação de um juízo de probabilidade de condenação e, por via de consequência, não permitem um juízo positivo de admissibilidade da acusação.
-  > 8. Como não há prova do conhecimento da suposta origem ilícita dos valores, não subsiste a imputação de corrupção passiva e fenece, por arrastamento, a de lavagem de capitais.
-  > 9. Não obstante, em sua contabilidade paralela, os colaboradores premiados tenham feito anotações pessoais que supostamente traduziriam pagamentos indevidos aos parlamentares federais, uma anotação unilateralmente feita em manuscrito particular não tem o condão de corroborar, por si só, o depoimento do colaborador, ainda que para fins de recebimento da denúncia.
-  > 10. Se o depoimento do colaborador necessita ser corroborado por fontes diversas de prova, evidente que uma anotação particular dele próprio emanada não pode servir, por si só, de instrumento de validação.
-  > 11. Denúncia rejeitada quanto aos parlamentares federais, nos termos do art. 395, III, do Código de Processo Penal, com determinação de baixa dos autos ao primeiro grau para as providências que se reputarem pertinentes em relação ao denunciado sem prerrogativa de foro.
-  > (STF, Inq n. 3.994/DF, relator Ministro Edson Fachin, redator do acórdão Ministro Dias Toffoli, Segunda Turma, julgado em 18/12/2017, DJe de 6/4/2018.)

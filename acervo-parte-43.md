@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 43 de 48 (decisões 421 a 430)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 475 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,28 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 421. REsp nº 2004051 / SC (STJ)
+## 421. AREsp nº 2236994 / SP (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/11/2023.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Resumo: A pronúncia exige autoria corroborada com alto grau de probabilidade (arts. 155, 413 e 414 do CPP); a palavra dos policiais, contrariada por cinco laudos periciais, não basta. Impronúncia restabelecida, com comunicação à Corregedoria da PM.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2236994.pdf
+- Ementa oficial:
+  > PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. PRONÚNCIA. INEXISTÊNCIA, NO CASO CONCRETO, DE INDÍCIOS MÍNIMOS PARA CORROBORAR COM ALTO GRAU DE PROBABILIDADE A HIPÓTESE DA ACUSAÇÃO SOBRE A AUTORIA. INTELIGÊNCIA DOS ARTS. 155, 156, 413 E 414 DO CPP. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, A FIM DE RESTABELECER A DECISÃO DE IMPRONÚNCIA, COM COMUNICAÇÃO DOS FATOS À CORREGEDORIA DA POLÍCIA.
+  > 1. Pelo entendimento deste colegiado, vale na etapa da pronúncia o brocardo in dubio pro societate. Em minha visão pessoal, a rigor, o in dubio pro societate não existe. Quando nos referimos a ele como "princípio", o utilizamos na verdade como uma simples metáfora ou um atalho argumentativo, para expressar, em poucas palavras, que a pronúncia tem standards probatórios próprios, não se confundindo com uma sentença condenatória.
+  > 2. De todo modo, não proponho alterarmos o entendimento da Turma sobre a aplicação do in dubio pro societate. Apenas registro aqui minha visão particular a seu respeito, alinhada à nova orientação da Sexta Turma firmada no julgamento do REsp 2.091.647/DF, finalizado em 26/9/2023, quando aquele colegiado baniu de seu léxico o in dubio pro societate.
+  > 3. Não obstante essa breve ressalva, permanece na fase de pronúncia o ônus da acusação (art. 156 do CPP) de comprovar, com provas produzidas sob o crivo do contraditório (art. 155 do CPP), a hipótese por ela vertida na denúncia, com um nível de corroboração suficiente para aquela etapa processual (art. 413 do CPP).
+  > 4. Quanto à materialidade, o art. 413 do CPP exige da pronúncia e da sentença o mesmo nível de segurança, de modo que ambas devem seguir, nesse ponto, o mais alto standard do processo penal. A incerteza quanto à existência do fato em si torna inviável o julgamento popular, como decidiu esta Turma no recente julgamento do AgRg no AgRg no REsp n. 1.991.574/SP, relator Ministro João Batista Moreira, DJe de 8/11/2023, em que recebeu a adesão da maioria do colegiado a fundamentação do voto-vista do Ministro Joel Ilan Paciornik.
+  > 5. Em relação à autoria, o que diferencia pronúncia e sentença é o standard probatório exigido para se ter como provada a hipótese acusatória e a profundidade da cognição judicial a ser exercida em cada etapa processual.
+  > 6. A pronúncia é uma garantia do réu contra o risco de ocorrência de erros judiciários. Para que o acusado seja pronunciado, então, não basta à hipótese acusatória sobre a autoria ser possível, coerente ou a melhor; além de tudo isso, a pronúncia exige que a imputação esteja fortemente corroborada, com alto grau de probabilidade, por provas claras e convincentes, e que o conjunto probatório seja completo, sem a omissão de provas importantes para a elucidação dos fatos. Suspeitas, boatos e a mera possibilidade de que o réu tenha sido o autor do crime não bastam para a pronúncia. Inteligência dos arts. 155, 156, 413 e 414 do CPP.
+  > 7. Segundo a denúncia, os policiais militares supostamente seguiram dois indivíduos "suspeitos" em patrulhamento de rotina e foram surpreendidos com disparos de arma de fogo efetuados pelo réu, mas conseguiram antes disso alvejá-lo. Já o acusado conta que esteve no local dos fatos para comprar maconha e foi pego no tiroteio entre policiais e traficantes.
+  > 8. O réu foi baleado com um fuzil da polícia pelas costas – o que já torna em alguma medida inverossímeis as alegações dos policiais –, e nenhum dos cinco exames periciais realizados na origem conseguiu confirmar a hipótese acusatória. Não havia impressões digitais do acusado na suposta arma do crime, suas mãos não tinham resíduos de pólvora, não era sua a grafia das "anotações de tráfico" cuja autoria o MP/SP lhe imputa e não se sabe, até agora, como transcorreu o tiroteio, pois o laudo no local dos fatos foi inconclusivo.
+  > 9. Este colegiado entende que a palavra dos policiais pode, ainda que seja o único dado probatório de determinado fato, fundamentar o proferimento de decisões desfavoráveis ao réu. Fica ressalvada a compreensão pessoal deste relator, para quem a palavra da polícia exige sempre a corroboração por outros meios de prova, notadamente a gravação audiovisual por câmeras corporais. Compreensão firmada no julgamento do AREsp 1.936.393/RJ, em que fiquei parcialmente vencido.
+  > 10. De todo modo, esta Turma decidiu, naquela ocasião, que o testemunho do policial não é superior a outras provas, sendo dever do juiz confrontá-las (quando existentes) com a palavra do agente estatal, para aferir a compatibilidade entre elas. Foi exatamente isso que fez aqui o juízo de primeiro grau, ao detectar as profundas contradições entre o testemunho dos policiais (que, reitero, balearam o réu pelas costas) e as cinco provas periciais e, por isso, impronunciar o acusado.
+  > 11. O Tribunal local não examinou minimamente os dados probatórios técnicos valorados pelo juiz singular, nem explicou o porquê de estar equivocada sua valoração. Na verdade, a Corte estadual apenas invocou genericamente o in dubio pro societate para pronunciar o recorrente, mas não dedicou uma linha sequer à análise das provas periciais, tampouco às contradições entre elas e o testemunho dos policiais.
+  > 12. Agravo conhecido e recurso especial provido, a fim de restabelecer a decisão de impronúncia, com determinação de comunicação dos fatos à Corregedoria da PM/SP.
+  > (AREsp n. 2.236.994/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023.)
+
+## 422. REsp nº 2004051 / SC (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 22/08/2023.
 - Crime / Tema: Homicídio no trânsito · Tribunal do Júri
 - Resumo: Laudos periciais produzidos unilateralmente pelo MP e pela polícia, durante a instrução e sem controle judicial, são nulos e devem ser desentranhados, assim como o ofício do DNIT juntado após a pronúncia. A pronúncia foi mantida, porque não se baseou neles: embriaguez e direção perigosa indicam dolo eventual, que é compatível com a tentativa.
@@ -28,7 +49,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Agravo conhecido para negar provimento ao recurso especial interposto contra o acórdão proferido nos Embargos Infringentes. Recurso especial dirigido contra o acórdão proferido no Recurso em Sentido Estrito parcialmente conhecido e, nessa extensão, provido em parte, a fim de anular os exames periciais realizados pela autoridade policial e pelo Ministério Público e que foram juntados após a pronúncia, determinando que sejam desentranhados dos autos. Habeas corpus concedido, de ofício, para anular a prova produzida por meio da requisição de diligências feita pelo Ministério Público do Estado de Santa Catarina ao Departamento Nacional de Infraestrutura e Transportes - DNIT, determinando o desentranhamento do Ofício n. 55223/2019, do referido Órgão.
   > (REsp n. 2.004.051/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
 
-## 422. RvCr nº 5620 / SP (STJ)
+## 423. RvCr nº 5620 / SP (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Terceira Seção. Publicado em 30/06/2023.
 - **Resultado desfavorável à defesa:** Revisão criminal não conhecida (vale pela tese)
 - Crime / Tema: Tráfico de drogas · Revisão criminal
@@ -41,13 +62,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Revisão criminal não conhecida.
   > (RvCr n. 5.620/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/6/2023, DJe de 30/6/2023.)
 
-## 423. HC nº 219.196 / GO (STF)
+## 424. HC nº 219.196 / GO (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 02/06/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão · Direito ao silêncio · Cabimento do HC
 - Resumo: Confissão informal colhida sem aviso do direito ao silêncio é ilícita, e denúncia anônima, sozinha, não autoriza o ingresso em domicílio (art. 5º, XI e LXIII, da CF). Busca anulada junto com as provas derivadas (art. 157, § 1º, do CPP); ré absolvida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-219196.pdf
 
-## 424. HC nº 166.373 / PR (STF)
+## 425. HC nº 166.373 / PR (STF)
 - Decisão colegiada. Relator: Min. Edson Fachin; redator do acórdão: Min. Alexandre de Moraes. Plenário. Publicado em 18/05/2023.
 - Crime / Tema: Corrupção passiva · Lavagem de dinheiro · Colaboração premiada
 - Resumo: Réu delatado tem o direito de apresentar alegações finais depois do colaborador (direito de falar por último), desde que peça no momento processual adequado (art. 403 do CPP), sob pena de nulidade. Tese fixada pelo Plenário; retorno à fase de alegações finais.
@@ -61,7 +82,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5.Habeas Corpus deferido, com a fixação da seguinte TESE: “Havendo pedido expresso da defesa no momento processual adequado (art. 403 do CPP e art. 11 da Lei 8.038/90), os réus têm o direito de apresentar suas alegações finais após a manifestação das defesas dos colaboradores, sob pena de nulidade”.
   > (STF, HC n. 166.373/PR, relator Ministro Edson Fachin, redator do acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 30/11/2022, DJe de 18/5/2023.)
 
-## 425. AgRg no REsp nº 2009839 / MG (STJ)
+## 426. AgRg no REsp nº 2009839 / MG (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro. Sexta Turma. Publicado em 16/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio · Busca e apreensão
 - Resumo: Mandado de busca e apreensão de menor não autoriza vasculhar a casa: o art. 283, § 2º, do CPP manda respeitar a inviolabilidade do domicílio. O rádio comunicador só foi visto quando os policiais já estavam dentro. O ônus de provar o consentimento voluntário do morador é do Estado. Provas nulas.
@@ -76,7 +97,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 6. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.009.839/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/5/2023, DJe de 16/5/2023.)
 
-## 426. AgRg no AREsp nº 2223319 / MS (STJ)
+## 427. AgRg no AREsp nº 2223319 / MS (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 12/05/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: A confissão do réu, sozinha, não autoriza a entrada na casa, e a suspeita de que ali funcionava um ponto de tráfico também não. O consentimento do morador precisa ser livre e registrado por escrito (e em áudio e vídeo), o que não houve. Provas nulas e absolvição mantida.
@@ -89,7 +110,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV - No caso, as circunstâncias que ensejaram o ingresso policial na residência do agravado, decorreram de suspeitas de que na casa do réu funcionava ponto de tráfico de drogas, bem como de sua confissão. Ocorre que, a confissão do réu, por sí só, não autoriza a entrada dos policiais no domicílio, sendo necessário que a permissão conferida de forma livre e voluntária pelo morador seja registrada pela autoridade policial por escrito, o que não ocorreu na hipótese, razão pela qual foi reconhecida a nulidade da diligência e das provas dela decorrentes, com a consequente absolvição do recorrido. Agravo regimental desprovido.
   > (AgRg no AREsp n. 2.223.319/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023.)
 
-## 427. RvCr nº 1.0000.22.247560-0/000 (TJMG)
+## 428. RvCr nº 1.0000.22.247560-0/000 (TJMG)
 - Decisão colegiada. Relatora: Des.ª Beatriz Pinheiro Caires. 1º Grupo de Câmaras Criminais. Publicado em 12/05/2023.
 - Crime / Tema: Roubo · Revisão criminal
 - Resumo: Revisão criminal deferida porque a condenação por roubo contrariou a evidência dos autos: não há prova do dolo de subtrair (puxão na camisa da vítima durante briga entre torcidas). A falta de intimação pessoal do réu da sentença absolutória não gera nulidade quando a defesa teve ciência e contra-arrazoou. Voto vencido (V.V.): a revisão não serve para rediscutir prova.
@@ -101,7 +122,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > V. V.: A revisão criminal, que possibilita a superação da coisa julgada, destina-se à correção de erros judiciários, não se prestando à rediscussão de questões já superadas durante o curso regular da ação penal em duas instâncias.
   > (TJMG, Revisão Criminal n. 1.0000.22.247560-0/000, relatora Desembargadora Beatriz Pinheiro Caires, 1º Grupo de Câmaras Criminais, julgado em 10/5/2023, publicado em 12/5/2023.)
 
-## 428. AgRg no AREsp nº 2045772 / MG (STJ)
+## 429. AgRg no AREsp nº 2045772 / MG (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 24/04/2023.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncias anônimas e uma busca pessoal sem nada encontrado não são fundadas razões para entrar na casa, e a autorização dada por corré (depois absolvida) não valida o ingresso. Provas nulas e réus absolvidos. Determinado o envio de cópias ao MP e à PM para apurar abuso de autoridade (art. 40 do CPP; arts. 22 e 23, II, da Lei 13.869/2019).
@@ -116,7 +137,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > VI - No caso presente, a atuação precipitada da polícia culminou na nulidade das provas colhidas, com a inutilização da apreensão de 533,34g de maconha, comprometendo a regularidade da persecução penal, o que certamente poderia ser evitado com as devidas investigações e diligências. Sob essa perspectiva, com esteio nos elementos fáticos subjacentes ao presente recurso, determina-se, com fundamento no artigo 40 do Código de Processo Penal, o envio de cópia dos presentes autos ao Ministério Público Federal e Estadual, ante a competência definida na ADPF 635 - MC, bem como a Polícia Militar, para apuração de infração aos artigos 22 e 23, II, ambos da Lei n. 13.869/2019, dentre outros possíveis crimes previstos no Código Penal, Código Penal Militar e legislação extravagante, com as imediatas providências cabíveis. Agravo regimental provido, para reconhecer a nulidade das provas obtidas mediante ingresso domiciliar sem mandado, bem como as provas derivadas, e absolver os agravantes das imputações contidas na denúncia (art. 386, VII, do CPP), remetendo-se, com esteio no artigo 40 do Código de Processo Penal, cópia dos presentes autos ao Ministério Público Federal e Estadual, para apuração de eventuais crimes, bem como a Polícia Militar, com a imediata comunicação a este Superior Tribunal de Justiça quanto às providências tomadas no âmbito da instituição de segurança pública.
   > (AgRg no AREsp n. 2.045.772/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
 
-## 429. ApCrim nº 1500466-02.2020.8.26.0621 (TJSP)
+## 430. ApCrim nº 1500466-02.2020.8.26.0621 (TJSP)
 - Decisão colegiada. Relator: Des. Guilherme de Souza Nucci. 16ª Câmara de Direito Criminal. Publicado em 03/04/2023.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima genérica, sem investigação prévia (campana com registro), sem flagrante de venda e sem urgência, não autoriza a entrada na casa. Também há dúvida sobre o consentimento dado pela mãe da moradora. Provas ilícitas e réus absolvidos (art. 386, VII, do CPP).
@@ -124,25 +145,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 - Ementa oficial:
   > Apelação. Tráfico de drogas e associação ao tráfico. Pleito objetivando a ilicitude das provas obtidas a partir de denúncia anônima e posterior ingresso em domicílio, por policiais civis, com a consequente absolvição por falta de provas. Possibilidade. Apelantes que teriam guardado, em suas residências, 30 porções de maconha (51,2 g), 10 porções de cocaína (1,5 g) e uma porção menor de maconha (37,85 g), sem autorização e em desacordo com determinação legal e regulamentar. Ilegalidade da atuação policial no caso concreto. Diligência policial iniciada por meio de “denúncia anônima” genérica, não esclarecida quanto à sua origem e existência. Entrada na residência da recorrente que ocorreu sem nenhuma diligência prévia de investigação policial, como o acompanhamento do movimento no imóvel por meio de campanas, com registro documental, ou mesmo o flagrante de uma atividade de mercancia ilícita, não se demonstrando sequer a urgência necessária para a excepcional invasão da residência naquele momento específico por parte dos policiais militares. Dúvidas acerca da existência do suposto consentimento oferecido pela genitora da apelante, quanto à entrada dos policiais no local. Circunstâncias do caso concreto que, em seu conjunto, demonstram a ilicitude da entrada dos policiais no imóvel da recorrente e, por consequência, da apreensão dos entorpecentes. Precedentes do STF e do STJ. Assim, tendo em vista a inadmissibilidade de utilização de tais elementos de prova ilícitos, resta frágil e insuficiente o acervo probatório amealhado para comprovação dos crimes, sendo de rigor a absolvição dos apelantes, nos termos do art. 386, inciso VII, do CPP. Recursos providos.
   > (TJSP, Apelação Criminal n. 1500466-02.2020.8.26.0621, relator Desembargador Guilherme de Souza Nucci, 16ª Câmara de Direito Criminal, julgado em 28/3/2023, publicado em 3/4/2023.)
-
-## 430. RHC nº 173448 / DF (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/03/2023.
-- Crime / Tema: Crimes contra a Administração Pública · Justa causa
-- Resumo: A independência das esferas não é absoluta. Absolvida a particular na ação de improbidade por falta de dolo sobre o mesmo fato, a ação penal perde a justa causa, já que o tipo não tem forma culposa. Ação penal trancada quanto à recorrente (Operação Caixa de Pandora).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-173448.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. 1. OPERAÇÃO CAIXA DE PANDORA. ABSOLVIÇÃO NA AÇÃO DE IMPROBIDADE ADMINISTRATIVA. REPERCUSSÃO SOBRE A AÇÃO PENAL. INDEPENDÊNCIA DAS ESFERAS. 2. PARTICULARIDADES DO CASO CONCRETO. AUSÊNCIA DO ELEMENTO SUBJETIVO DOS PARTICULARES. 3. CONSEQUÊNCIAS JURÍDICAS QUE RECAEM SOBRE O MESMO FATO. AUSÊNCIA DE DOLO. FATO TÍPICO NÃO CONFIGURADO. 4. CRIME CONTRA A ADMINISTRAÇÃO PÚBLICA. ESPECIFICIDADES EXAMINADAS PELA ESFERA CÍVEL. PARTICULARIDADES DO CASO CONCRETO. EXCEÇÃO À INDEPENDÊNCIA DAS ESFERAS. 5. DOLO DE ATENTAR CONTRA PRINCÍPIOS DA ADMINISTRAÇÃO NÃO CONFIGURADO. CONDUTA QUE NÃO PODE REVELAR DOLO DE VIOLAR BEM JURÍDICO TUTELADO PELO DIREITO PENAL. JUSTA CAUSA ESVAZIADA. 6. RECURSO EM HABEAS CORPUS A QUE SE DÁ PROVIMENTO.
-  > 1. "A jurisprudência desta Corte Superior de Justiça cristalizou-se no sentido de que as esferas civil, penal e administrativa são independentes e autônomas entre si, de tal sorte que as decisões tomadas nos âmbitos administrativo ou cível não vinculam a seara criminal". (EDcl no AgRg no REsp n. 1.831.965/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/12/2020, DJe de 18/12/2020.). É pertinente, todavia, na esfera penal, considerar os argumentos contidos na decisão absolutória na via da improbidade administrativa como elementos de persuasão (REsp n. 1.847.488/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021).
-  > 2. A hipótese dos autos apresenta particularidades, as quais já foram, inclusive, delineadas no julgamento do Habeas Corpus n. 716.033/DF e que, de fato, demandam uma maior atenção do julgador, uma vez que a paciente foi absolvida em virtude da ausência do elemento subjetivo dos particulares.
-  > - Ficou consignado pela instância cível que a prova da apuração judicial demonstra apenas o dolo do gestor público, não justificando a condenação dos particulares. Destacou-se, ademais, que a pessoa jurídica nem ao menos logrou êxito em ser a primeira colocada entre os concorrentes na dispensa de licitação, precisando baixar seu preço para ser escolhida, diante do descredenciamento da primeira colocada. Por fim, registrou-se que não se auferiu benefício, uma vez que o contrato foi anulado pela Corte de Contas.
-  > 3. Como é de conhecimento, a independência das esferas tem por objetivo o exame particularizado do fato narrado, com base em cada ramo do direito, devendo as consequências cíveis e administrativas ser aferidas pelo juízo cível e as repercussões penais pelo Juízo criminal, dada a especialização de cada esfera. No entanto, as consequências jurídicas recaem sobre o mesmo fato.
-  > - Nessa linha de intelecção, não é possível que o dolo da conduta em si não esteja demonstrado no juízo cível e se revele no juízo penal, porquanto se trata do mesmo fato, na medida em que a ausência do requisito subjetivo provado interfere na caracterização da própria tipicidade do delito, mormente se se considera a doutrina finalista (que insere o elemento subjetivo no tipo), bem como que os fatos aduzidos na denúncia não admitem uma figura culposa, culminando-se, dessa forma em atipicidade, ensejadora do trancamento ora visado.
-  > 4. Trata-se de crime contra a Administração Pública, cuja especificidade recomenda atentar para o que decidido, sobre os fatos, na esfera cível. Ademais, deve se levar em consideração que o art. 21, § 4º, da Lei 8.429/1992, incluído pela Lei n. 14.230/2021, disciplina que "a absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede o trâmite da ação da qual trata esta Lei, havendo comunicação com todos os fundamentos de absolvição previstos no art. 386 do Decreto-Lei n. 3.689, de 3 de outubro de 1941 (Código de Processo Penal)".
-  > - Embora referido dispositivo esteja com a eficácia suspensa por liminar deferida pelo Supremo Tribunal Federal, em 27/12/2022, na ADI 7.236/DF, tem-se que o legislador pretendeu definir ampla exceção legal à independência das esferas que, embora não autorize o encerramento da ação penal em virtude da absolvição na ação de improbidade administrativa por qualquer fundamento, revela que existem fundamentos tão relevantes que não podem ser ignorados pelas demais esferas.
-  > - A suspensão do art. 21, § 4º, da Lei 8.429/1992, na redação dada pela Lei n. 14.230/2021 (ADI 7.236/DF) não atinge a vedação constitucional do ne bis in idem (Rcl. n. 57.215/DF MC, Rel.: Min. Gilmar Mendes, j. 06 jan. 2023, p. 09 jan. 2023) e sem justa causa não há persecução penal.
-  > - Apesar de, pela letra da lei, o contrário não justificar o encerramento da ação penal, inevitável concluir que a absolvição na ação de improbidade administrativa, na hipótese dos autos, em virtude da ausência de dolo e da ausência de obtenção de vantagem indevida, esvazia a justa causa para manutenção da ação penal. De fato, não se verifica mais a plausibilidade do direito de punir, uma vez que a conduta típica, primeiro elemento do conceito analítico de crime, depende do dolo para se configurar, e este foi categoricamente afastado pela instância cível.
-  > - A propósito: REsp n. 1.689.173/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/11/2017, DJe de 26/3/2018); AgRg no HC n. 367.173/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/3/2017, DJe de 27/3/2017 e RHC n. 22.914/BA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 4/11/2008, DJe de 24/11/2008.
-  > 5. Tendo a instância cível afirmado que não ficou demonstrado que os particulares induziram ou concorreram dolosamente para a prática de ato que atente contra os princípios da administração, registrando que "a amplitude da previsão legislativa não pode induzir o intérprete a acolher ilações do autor da ação civil pública, pois ausente a subsunção dos fatos à norma que prevê a responsabilização dos particulares na Lei n. 8.429/92 (art. 3º)", não pode a mesma conduta ser violadora de bem jurídico tutelado pelo direito penal. Constata-se, assim, de forma excepcional, a efetiva repercussão da decisão de improbidade sobre a justa causa da ação penal em trâmite, motivo pelo qual não se justifica a manutenção desta última. Nas palavras do Ministro Humberto Martins, então Presidente da Corte: "a unidade do Direito" deve se pautar pela coerência.
-  > - Confiram-se: AgRg nos EDcl no HC n. 601.533/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/9/2021, DJe de 1/10/2021 e Rcl 41557, relator(a): Gilmar Mendes, Segunda Turma, julgado em 15/12/2020, DJe-045 DIVULG 09-03-2021 PUBLIC 10-03-2021 e HC 158319, Relator(a): Gilmar Mendes, Segunda Turma, julgado em 26/06/2018, DJe-219 DIVULG 11-10-2018 PUBLIC 15-10-2018.
-  > 6. Recurso em habeas corpus a que se dá provimento.
-  > (RHC n. 173.448/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)

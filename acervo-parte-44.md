@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 44 de 48 (decisões 431 a 440)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 475 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,29 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 431. AgRg no AREsp nº 2249976 / SP (STJ)
+## 431. RHC nº 173448 / DF (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/03/2023.
+- Crime / Tema: Crimes contra a Administração Pública · Justa causa
+- Resumo: A independência das esferas não é absoluta. Absolvida a particular na ação de improbidade por falta de dolo sobre o mesmo fato, a ação penal perde a justa causa, já que o tipo não tem forma culposa. Ação penal trancada quanto à recorrente (Operação Caixa de Pandora).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-173448.pdf
+- Ementa oficial:
+  > PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. 1. OPERAÇÃO CAIXA DE PANDORA. ABSOLVIÇÃO NA AÇÃO DE IMPROBIDADE ADMINISTRATIVA. REPERCUSSÃO SOBRE A AÇÃO PENAL. INDEPENDÊNCIA DAS ESFERAS. 2. PARTICULARIDADES DO CASO CONCRETO. AUSÊNCIA DO ELEMENTO SUBJETIVO DOS PARTICULARES. 3. CONSEQUÊNCIAS JURÍDICAS QUE RECAEM SOBRE O MESMO FATO. AUSÊNCIA DE DOLO. FATO TÍPICO NÃO CONFIGURADO. 4. CRIME CONTRA A ADMINISTRAÇÃO PÚBLICA. ESPECIFICIDADES EXAMINADAS PELA ESFERA CÍVEL. PARTICULARIDADES DO CASO CONCRETO. EXCEÇÃO À INDEPENDÊNCIA DAS ESFERAS. 5. DOLO DE ATENTAR CONTRA PRINCÍPIOS DA ADMINISTRAÇÃO NÃO CONFIGURADO. CONDUTA QUE NÃO PODE REVELAR DOLO DE VIOLAR BEM JURÍDICO TUTELADO PELO DIREITO PENAL. JUSTA CAUSA ESVAZIADA. 6. RECURSO EM HABEAS CORPUS A QUE SE DÁ PROVIMENTO.
+  > 1. "A jurisprudência desta Corte Superior de Justiça cristalizou-se no sentido de que as esferas civil, penal e administrativa são independentes e autônomas entre si, de tal sorte que as decisões tomadas nos âmbitos administrativo ou cível não vinculam a seara criminal". (EDcl no AgRg no REsp n. 1.831.965/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/12/2020, DJe de 18/12/2020.). É pertinente, todavia, na esfera penal, considerar os argumentos contidos na decisão absolutória na via da improbidade administrativa como elementos de persuasão (REsp n. 1.847.488/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021).
+  > 2. A hipótese dos autos apresenta particularidades, as quais já foram, inclusive, delineadas no julgamento do Habeas Corpus n. 716.033/DF e que, de fato, demandam uma maior atenção do julgador, uma vez que a paciente foi absolvida em virtude da ausência do elemento subjetivo dos particulares.
+  > - Ficou consignado pela instância cível que a prova da apuração judicial demonstra apenas o dolo do gestor público, não justificando a condenação dos particulares. Destacou-se, ademais, que a pessoa jurídica nem ao menos logrou êxito em ser a primeira colocada entre os concorrentes na dispensa de licitação, precisando baixar seu preço para ser escolhida, diante do descredenciamento da primeira colocada. Por fim, registrou-se que não se auferiu benefício, uma vez que o contrato foi anulado pela Corte de Contas.
+  > 3. Como é de conhecimento, a independência das esferas tem por objetivo o exame particularizado do fato narrado, com base em cada ramo do direito, devendo as consequências cíveis e administrativas ser aferidas pelo juízo cível e as repercussões penais pelo Juízo criminal, dada a especialização de cada esfera. No entanto, as consequências jurídicas recaem sobre o mesmo fato.
+  > - Nessa linha de intelecção, não é possível que o dolo da conduta em si não esteja demonstrado no juízo cível e se revele no juízo penal, porquanto se trata do mesmo fato, na medida em que a ausência do requisito subjetivo provado interfere na caracterização da própria tipicidade do delito, mormente se se considera a doutrina finalista (que insere o elemento subjetivo no tipo), bem como que os fatos aduzidos na denúncia não admitem uma figura culposa, culminando-se, dessa forma em atipicidade, ensejadora do trancamento ora visado.
+  > 4. Trata-se de crime contra a Administração Pública, cuja especificidade recomenda atentar para o que decidido, sobre os fatos, na esfera cível. Ademais, deve se levar em consideração que o art. 21, § 4º, da Lei 8.429/1992, incluído pela Lei n. 14.230/2021, disciplina que "a absolvição criminal em ação que discuta os mesmos fatos, confirmada por decisão colegiada, impede o trâmite da ação da qual trata esta Lei, havendo comunicação com todos os fundamentos de absolvição previstos no art. 386 do Decreto-Lei n. 3.689, de 3 de outubro de 1941 (Código de Processo Penal)".
+  > - Embora referido dispositivo esteja com a eficácia suspensa por liminar deferida pelo Supremo Tribunal Federal, em 27/12/2022, na ADI 7.236/DF, tem-se que o legislador pretendeu definir ampla exceção legal à independência das esferas que, embora não autorize o encerramento da ação penal em virtude da absolvição na ação de improbidade administrativa por qualquer fundamento, revela que existem fundamentos tão relevantes que não podem ser ignorados pelas demais esferas.
+  > - A suspensão do art. 21, § 4º, da Lei 8.429/1992, na redação dada pela Lei n. 14.230/2021 (ADI 7.236/DF) não atinge a vedação constitucional do ne bis in idem (Rcl. n. 57.215/DF MC, Rel.: Min. Gilmar Mendes, j. 06 jan. 2023, p. 09 jan. 2023) e sem justa causa não há persecução penal.
+  > - Apesar de, pela letra da lei, o contrário não justificar o encerramento da ação penal, inevitável concluir que a absolvição na ação de improbidade administrativa, na hipótese dos autos, em virtude da ausência de dolo e da ausência de obtenção de vantagem indevida, esvazia a justa causa para manutenção da ação penal. De fato, não se verifica mais a plausibilidade do direito de punir, uma vez que a conduta típica, primeiro elemento do conceito analítico de crime, depende do dolo para se configurar, e este foi categoricamente afastado pela instância cível.
+  > - A propósito: REsp n. 1.689.173/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/11/2017, DJe de 26/3/2018); AgRg no HC n. 367.173/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/3/2017, DJe de 27/3/2017 e RHC n. 22.914/BA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 4/11/2008, DJe de 24/11/2008.
+  > 5. Tendo a instância cível afirmado que não ficou demonstrado que os particulares induziram ou concorreram dolosamente para a prática de ato que atente contra os princípios da administração, registrando que "a amplitude da previsão legislativa não pode induzir o intérprete a acolher ilações do autor da ação civil pública, pois ausente a subsunção dos fatos à norma que prevê a responsabilização dos particulares na Lei n. 8.429/92 (art. 3º)", não pode a mesma conduta ser violadora de bem jurídico tutelado pelo direito penal. Constata-se, assim, de forma excepcional, a efetiva repercussão da decisão de improbidade sobre a justa causa da ação penal em trâmite, motivo pelo qual não se justifica a manutenção desta última. Nas palavras do Ministro Humberto Martins, então Presidente da Corte: "a unidade do Direito" deve se pautar pela coerência.
+  > - Confiram-se: AgRg nos EDcl no HC n. 601.533/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/9/2021, DJe de 1/10/2021 e Rcl 41557, relator(a): Gilmar Mendes, Segunda Turma, julgado em 15/12/2020, DJe-045 DIVULG 09-03-2021 PUBLIC 10-03-2021 e HC 158319, Relator(a): Gilmar Mendes, Segunda Turma, julgado em 26/06/2018, DJe-219 DIVULG 11-10-2018 PUBLIC 15-10-2018.
+  > 6. Recurso em habeas corpus a que se dá provimento.
+  > (RHC n. 173.448/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+
+## 432. AgRg no AREsp nº 2249976 / SP (STJ)
 - Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
 - Crime / Tema: Receptação · Ato infracional (ECA)
 - Resumo: Adolescente que era só carona da moto receptada, sem estar na posse do bem nem haver prova de que a recebeu ou de que agiu em concurso: a conduta é atípica. Mantida a improcedência da representação (ato infracional análogo à receptação).
@@ -20,13 +42,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. Agravo regimental não provido.
   > (AgRg no AREsp n. 2.249.976/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
 
-## 432. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
+## 433. AgRg nos EDcl no AREsp nº 2167621 / SP (STJ)
 - Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 13/03/2023.
 - Crime / Tema: Tráfico de drogas
 - Resumo: O réu não foi preso em flagrante, os policiais não presenciaram venda e não havia outra prova além da denúncia anônima e dos depoimentos policiais. Depoimento policial só sustenta condenação quando harmônico com as demais provas. Réu absolvido do tráfico (in dubio pro reo).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2167621.pdf
 
-## 433. AgRg no RHC nº 143169 / RJ (STJ)
+## 434. AgRg no RHC nº 143169 / RJ (STJ)
 - Decisão colegiada. Relator: Min. Messod Azulay Neto; redator do acórdão: Min. Ribeiro Dantas. Quinta Turma. Publicado em 02/03/2023.
 - Crime / Tema: Furto · Organização criminosa · Lavagem de dinheiro · Quebra da cadeia de custódia · Prova digital
 - Resumo: Quebra da cadeia de custódia da prova digital: a polícia não documentou a apreensão e a análise dos computadores, sem imagem bit a bit nem hash. É ônus do Estado provar a integridade da prova. São inadmissíveis as provas extraídas e as delas derivadas, e a exigência vale mesmo para fatos anteriores ao Pacote Anticrime.
@@ -44,13 +66,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Agravo regimental parcialmente provido, para prover também em parte o recurso ordinário em habeas corpus e declarar a inadmissibilidade das provas em questão.
   > (AgRg no RHC n. 143.169/RJ, relator Ministro Messod Azulay Neto, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023.)
 
-## 434. HC nº 776885 / MG (STJ)
+## 435. HC nº 776885 / MG (STJ)
 - Decisão monocrática. Relator: Min. Jesuíno Rissato (Des. convocado do TJDFT). Sexta Turma. Publicado em 14/02/2023.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Fundada suspeita · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima e "características físicas" do suspeito não configuram fundada suspeita para a busca pessoal (art. 244 do CPP), e o ingresso na casa que se seguiu também não tinha fundadas razões. Provas nulas, inclusive as da casa. Ação penal trancada, com extensão ao corréu (art. 580 do CPP).
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-776885.pdf
 
-## 435. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
+## 436. RvCr nº 0019378-10.2021.8.26.0000 (TJSP)
 - Decisão colegiada. Relator: Des. André Carvalho e Silva de Almeida. 1º Grupo de Direito Criminal. Publicado em 03/02/2023.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Revisão criminal
 - Resumo: Revisão deferida contra condenação do Júri manifestamente contrária à prova: não havia testemunha presencial, a vítima não foi ouvida em juízo e as testemunhas nada disseram contra os réus. Absolvição por falta de prova da autoria (art. 386, V, do CPP), estendida ao corréu.
@@ -59,7 +81,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > Revisão Criminal – Júri – Decisão manifestamente contrário à prova dos autos – Inexistência de testemunhas presenciais – Vítima não ouvida em juízo – Testemunhas que nada disseram contra os denunciados – Revisão deferida para absolver.
   > (TJSP, Revisão Criminal n. 0019378-10.2021.8.26.0000, relator Desembargador André Carvalho e Silva de Almeida, 1º Grupo de Direito Criminal, julgado em 27/1/2023, publicado em 3/2/2023.)
 
-## 436. HC nº 762932 / SP (STJ)
+## 437. HC nº 762932 / SP (STJ)
 - Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Antecedente por tráfico, sozinho, não autoriza busca domiciliar; admitir isso seria Direito Penal do autor. O réu já estava preso por porte de arma na rua, sozinho, diante de policiais armados e sem defesa: nessas condições, o consentimento para a busca com cães farejadores não é crível nem válido (coação ambiental), e cabe ao Estado prová-lo. Foi uma pescaria probatória (fishing expedition). Réu absolvido do tráfico; mantida a condenação pela arma, apreendida antes e fora da casa.
@@ -87,7 +109,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 19. Ordem concedida para, considerando que não houve fundadas razões, tampouco comprovação de consentimento válido para a realização de buscas por drogas no domicílio do paciente, reconhecer a ilicitude das provas por esse meio obtidas, bem como de todas as que delas decorreram, e, por conseguinte, absolvê-lo em relação à prática do delito de tráfico de drogas.
   > (HC n. 762.932/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 30/11/2022.)
 
-## 437. AgRg no HC nº 731882 / AM (STJ)
+## 438. AgRg no HC nº 731882 / AM (STJ)
 - Decisão colegiada. Relator: Min. Antonio Saldanha Palheiro; redator do acórdão: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 30/11/2022.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Revisão criminal
 - Resumo: A pronúncia e a condenação não podem se apoiar só em depoimento colhido no inquérito e não reproduzido em juízo. O entendimento jurisprudencial mais benéfico retroage, mesmo após o trânsito em julgado. Processo anulado desde a pronúncia e réu impronunciado, com nova denúncia possível se houver prova nova (art. 414, parágrafo único, do CPP).
@@ -101,13 +123,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental provido, a fim de desconstituir o trânsito em julgado e impronunciar o acusado.
   > (AgRg no HC n. 731.882/AM, relator Ministro Antonio Saldanha Palheiro, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 30/11/2022.)
 
-## 438. HC nº 221.204 / MG (STF)
+## 439. HC nº 221.204 / MG (STF)
 - Decisão monocrática. Relator: Min. Edson Fachin. Segunda Turma. Publicado em 24/10/2022.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Cabimento do HC
 - Resumo: O HC não serve como sucedâneo de revisão criminal, mas cabe concessão de ofício em ilegalidade flagrante. A condenação por tráfico e associação se apoiou em declaração extrajudicial de corréu, negada em juízo, sem prova produzida sob contraditório, o que viola a presunção de inocência. Restabelecida a sentença absolutória.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-221204.pdf
 
-## 439. HC nº 683878 / RS (STJ)
+## 440. HC nº 683878 / RS (STJ)
 - Decisão colegiada. Relatora: Min.ª Laurita Vaz. Sexta Turma. Publicado em 23/05/2022.
 - Crime / Tema: Homicídio qualificado · Pronúncia · Tribunal do Júri
 - Resumo: Pronúncia não pode se lastrear somente em elementos do inquérito não ratificados em juízo. Ordem concedida para restabelecer a impronúncia.
@@ -120,16 +142,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Nesse contexto, em que os relatos das testemunhas não foram assertivos sobre a suposta prática de tentativa de homicídio pelo Paciente, e a própria vítima, em juízo, limitou-se a informar que, "segundo o que ficou sabendo, teria sido o acusado o autor dos disparos", está evidenciado o constrangimento ilegal resultante da decisão de pronúncia baseada em meros elementos de informação, os quais não são suficientes para fundamentar a decisão de pronúncia. Precedentes.
   > 5. Ordem de habeas corpus concedida, em conformidade com o parecer ministerial, para restabelecer a sentença de impronúncia.
   > (HC n. 683.878/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/5/2022, DJe de 23/5/2022.)
-
-## 440. RHC nº 147043 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 31/03/2022.
-- Crime / Tema: Organização criminosa · Lavagem de dinheiro · Tráfico de influência · Excesso de prazo
-- Resumo: Levantamento de medidas assecuratórias patrimoniais (bloqueio de bens) mantidas por quase 6 anos, por excesso de prazo na formação da culpa e isonomia com corréu que já obtivera desbloqueio na origem. Julgamento por maioria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-147043.pdf
-- Ementa oficial:
-  > RECURSO EM HABEAS CORPUS. OPERAÇÃO CUSTO BRASIL. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E TRÁFICO DE INFLUÊNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA E NA CONSTRIÇÃO CAUTELAR DE BENS. AJUIZAMENTO DE MANDADO DE SEGURANÇA PELO CORRÉU NA ORIGEM. DETERMINAÇÃO, PELA CORTE REGIONAL, DE LEVANTAMENTO DO BLOQUEIO PATRIMONIAL. DEMORA NA FINALIZAÇAO DAS INVESTIGAÇÕES. TRATAMENTO ISONÔMICO. NECESSIDADE.
-  > 1. Hipótese em que medidas cautelares assecuratórias impostas ao acusado persistem desde 3/6/2016, sendo que o oferecimento da denúncia ocorreu somente em 30/4/2019, e seu recebimento, no dia 7/5/2019. Pedido de desbloqueio de bens pendente de apreciação em primeiro grau. Marcha processual sem previsão de início.
-  > 2. Frente à quadra processual na origem ainda indefinida e dado o lapso temporal sobejamente transcorrido, soa desarrazoado manter por mais tempo as providências cautelares então estabelecidas.
-  > 3. Ante a concessão de segurança, em feito ajuizado pelo corréu na origem, a fim de determinar o levantamento da constrição patrimonial, à vista delonga no trâmite das investigações (mesmo com recebimento da denúncia em data anterior pelo Juízo singular), é de rigor a liberação do patrimônio do recorrente, a fim de assegurar tratamento isonômico entre os acusados.
-  > 4. Recurso provido para determinar o levantamento das medidas assecuratórias decretadas em desfavor do recorrente (indisponibilidade de bens e valores). Prejudicada a análise da pretensão formulada na petição às fls. 998/1.001.
-  > (RHC n. 147.043/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022.)

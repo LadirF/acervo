@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados — parte 42 de 48 (decisões 411 a 420)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 475 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,13 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 411. HC nº 943710 / SC (STJ)
+## 411. AREsp nº 2508013 / MG (STJ)
+- Decisão monocrática. Relatora: Min.ª Daniela Teixeira. Quinta Turma. Publicado em 29/01/2025.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Testemunho indireto · Pronúncia
+- Resumo: A pronúncia não pode se basear só em elementos do inquérito e em testemunhos de "ouvir dizer" (art. 155 do CPP). O in dubio pro societate não supre lacuna de prova. Detectado o vício na própria pronúncia, não cabe sequer submeter o réu a novo Júri. Réu despronunciado de ofício, mesmo depois da condenação.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2508013.pdf
+
+## 412. HC nº 943710 / SC (STJ)
 - Decisão colegiada. Relator: Min. Otávio de Almeida Toledo (Des. convocado do TJSP). Sexta Turma. Publicado em 23/12/2024.
 - Crime / Tema: Crimes contra o sistema financeiro · RIF · Competência
 - Resumo: Relatório de Inteligência Financeira (RIF) solicitado diretamente pela polícia ao COAF, sem autorização judicial, é ilícito e deve ser desentranhado dos autos.
@@ -24,7 +30,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Ordem concedida parcialmente para reconhecer a ilicitude da solicitação direta dos Relatórios de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos deles derivados, cabendo ao Juízo de primeiro grau identificá-los, procedendo ao seu desentranhamento, além de analisar se persiste a justa causa para o trâmite da ação penal na sua ausência.
   > (HC n. 943.710/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
 
-## 412. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
+## 413. ApCrim nº 1.0000.24.303113-5/001 (TJMG)
 - Decisão colegiada. Relator: Des. Jaubert Carneiro Jaques. 6ª Câmara Criminal. Publicado em 23/10/2024.
 - Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
 - Resumo: Sem prova da destinação comercial, desclassifica-se o tráfico para porte para consumo (art. 28 da Lei 11.343/2006). Pelo Tema 506/STF (RE 635.659), o porte de menos de 40 g de maconha para consumo é atípico: réu absolvido (6,59 g) e autos remetidos ao Juizado para as sanções administrativas.
@@ -36,13 +42,13 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > - Diante do julgamento do STF no RE nº 635.659, que, por maioria e nos termos do voto do Relator, apreciando o declarou a inconstitucionalidade, sem redução de texto, do art. 28 da Lei 11.343/2006, quando o usuário portar menos de 40g de maconha, de modo a afastar do referido dispositivo todo e qualquer efeito de natureza penal, deve ser reconhecida a atipicidade da conduta, com a consequente absolvição do apelante, devendo os autos serem remetidos ao Juizado Especial Criminal da comarca de origem, para aplicação das sanções administrativas cabíveis.
   > (TJMG, Apelação Criminal n. 1.0000.24.303113-5/001, relator Desembargador Jaubert Carneiro Jaques, 6ª Câmara Criminal, julgado em 22/10/2024, publicado em 23/10/2024.)
 
-## 413. HC nº 902195 / RS (STJ)
+## 414. HC nº 902195 / RS (STJ)
 - Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 13/08/2024.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Quebra da cadeia de custódia · Prova digital · Pronúncia
 - Resumo: A cadeia de custódia vale também para fatos anteriores ao Pacote Anticrime, porque decorre do conceito de corpo de delito (art. 158 do CPP). A perícia não conseguiu acessar o celular da vítima, e a defesa não pode verificar a integridade nem o contexto das mensagens extraídas dele: essas provas são inadmissíveis e devem ser desentranhadas (art. 157 do CPP). A tese de ilicitude, mesmo levantada só na fase do art. 422, deve ser conhecida. Determinada nova decisão de pronúncia; preventiva mantida. Ordem concedida de ofício.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-902195.pdf
 
-## 414. AgRg no HC nº 828054 / RN (STJ)
+## 415. AgRg no HC nº 828054 / RN (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 29/04/2024.
 - Crime / Tema: Tráfico de drogas · Quebra da cadeia de custódia · Prova digital
 - Resumo: Extração de dados de celular sem metodologia que garanta a integridade (hash, software certificado; só prints de tela): a quebra da cadeia de custódia torna a prova digital inadmissível, e o ônus é do Estado. Ordem concedida de ofício.
@@ -59,7 +65,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Agravo regimental provido a fim de conceder a ordem de ofício para que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do corréu, bem como as delas decorrentes, devendo o Juízo singular avaliar a existência de demais elementos probatórios que sustentem a manutenção da condenação.
   > (AgRg no HC n. 828.054/RN, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
 
-## 415. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
+## 416. ApCrim nº 1500766-76.2020.8.26.0228 (TJSP)
 - Decisão colegiada. Relator: Des. Leme Garcia. 16ª Câmara de Direito Criminal. Publicado em 16/04/2024.
 - Crime / Tema: Tráfico de drogas
 - Resumo: Nenhuma droga foi encontrada com o réu nem houve venda presenciada; as drogas foram apreendidas em via pública e uma testemunha presencial confirmou a versão dele. Na dúvida sobre a autoria, mantida a absolvição (in dubio pro reo).
@@ -68,7 +74,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > APELAÇÃO. Tráfico de drogas. Recurso ministerial. Apelado que foi absolvido pelo d. juízo a quo. Pleito de condenação do acusado nos termos exatos propostos na inicial acusatória. Inviabilidade. Nenhuma droga foi encontrada diretamente em poder do acusado, bem como nenhum ato de comercialização foi presenciado pelos policiais militares, de tal modo que não há elementos seguros que indiquem o seu envolvimento na prática da traficância. Substâncias ilícitas apreendidas em via pública. Testemunha presencial que confirmou a versão apresentada pelo acusado. Existência de dúvidas sobre a autoria do delito. Aplicação do princípio do in dubio pro reo. Sentença de primeiro grau mantida. Negado provimento ao recurso.
   > (TJSP, Apelação Criminal n. 1500766-76.2020.8.26.0228, relator Desembargador Leme Garcia, 16ª Câmara de Direito Criminal, julgado em 9/4/2024, publicado em 16/4/2024.)
 
-## 416. RvCr nº 0063421-56.2023.8.19.0000 (TJRJ)
+## 417. RvCr nº 0063421-56.2023.8.19.0000 (TJRJ)
 - Decisão colegiada. Relator: Des. Alcides da Fonseca Neto. 3º Grupo de Câmaras Criminais. Publicado em 08/03/2024.
 - Crime / Tema: Roubo · Reconhecimento de pessoa · Revisão criminal
 - Resumo: Revisão deferida porque a condenação por roubo se apoiou só em reconhecimento fotográfico que não atendeu a nenhuma formalidade do art. 226 do CPP (prova isolada, nula). Rescindido o acórdão e réu absolvido.
@@ -77,7 +83,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > REVISÃO CRIMINAL. ROUBO. CONCURSO FORMAL DE DELITOS. CONDENÇÃO. PRONUNCIAMENTO MANTIDO POR UNANIMIDADE, PELA COLENDA 2ª CÂMARA CRIMINAL. INSURGÊNCIA DEFENSIVA BUSCA A DESCONSTITUIÇÃO DA CONDENAÇÃO, COM FULCRO NO ARTIGO 621, I, DO CÓDIGO DE PROCESSO PENAL, PARA ABSOLVER O REQUERENTE DO CRIME DE ROUBO, AO ARGUMENTO DE QUE HOUVE RECONHECIMENTO EXCLUSIVAMENTE FOTOGRÁFICO E EM DESCOMPASSO COM O DETERMINADO NO ARTIGO 226, DO CÓDIGO DE PROCESSO PENAL. PROCEDÊNCIA DO PEDIDO. PROVA SOLTEIRA NOS AUTOS. AUTORIA DELITIVA ANCORADA, EXCLUSIVAMENTE, EM RECONHECIMENTO DO ACUSADO QUE EM NADA ATENDEU ÀS FORMALIDADES LEGAIS, DE MODO QUE DEVE SER CONSIDERADO NULO. HIPÓTESE DOS AUTOS QUE AUTORIZA A EXCEPCIONAL DESCONSTITUIÇÃO DO ACÓRDÃO RESCINDENDO. PRECEDENTES DO STJ. CONHECIMENTO E PROVIMENTO DO PEDIDO REVISIONAL.
   > (TJRJ, Revisão Criminal n. 0063421-56.2023.8.19.0000, relator Desembargador Alcides da Fonseca Neto, 3º Grupo de Câmaras Criminais, julgado em 8/3/2024, publicado em 8/3/2024.)
 
-## 417. RMS nº 38.983 / DF (STF)
+## 418. RMS nº 38.983 / DF (STF)
 - Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Gilmar Mendes. Segunda Turma. Publicado em 28/02/2024.
 - Crime / Tema: PAD (administrativo)
 - Resumo: PAD: é ilegal a demissão por abandono de cargo sem prova da intenção de abandonar (art. 138 da Lei 8.112/90). Os motivos e pressupostos de fato da penalidade podem ser controlados pelo Judiciário, pois não são juízo de conveniência da Administração. Segurança concedida.
@@ -90,7 +96,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso ordinário provido para reformar o acórdão recorrido e conceder a segurança.
   > (STF, RMS n. 38.983/DF, relator Ministro André Mendonça, redator do acórdão Ministro Gilmar Mendes, Segunda Turma, julgado em 13/11/2023, DJe de 28/2/2024.)
 
-## 418. ApCrim nº 5001797-60.2023.8.24.0135 (TJSC)
+## 419. ApCrim nº 5001797-60.2023.8.24.0135 (TJSC)
 - Decisão colegiada. Relator: Des. Leopoldo Augusto Brüggemann. 3ª Câmara Criminal. Publicado em 06/02/2024.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Os policiais foram à casa apurar denúncia anônima de violência doméstica, não a confirmaram e, sem autorização, arrombaram a porta. A droga encontrada depois não legitima o ingresso, porque a flagrância foi constatada só a posteriori. Provas ilícitas e réu absolvido (art. 386, II, do CPP). A entrada na casa do corréu, derivada da primeira, também é ilícita, e a absolvição dele foi mantida.
@@ -102,7 +108,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > RECURSO DEFENSIVO CONHECIDO E PROVIDO. RECLAMO ACUSATÓRIO CONHECIDO E DESPROVIDO.
   > (TJSC, Apelação Criminal n. 5001797-60.2023.8.24.0135, relator Desembargador Leopoldo Augusto Brüggemann, 3ª Câmara Criminal, julgado em 6/2/2024, publicado em 6/2/2024.)
 
-## 419. Súmula nº 665 (STJ)
+## 420. Súmula nº 665 (STJ)
 - Súmula aprovada pela Primeira Seção em 13/12/2023. Publicado em 14/12/2023.
 - Crime / Tema: PAD (administrativo)
 - Resumo: Controle judicial do PAD restringe-se à regularidade do procedimento e à legalidade do ato; mérito administrativo só em flagrante ilegalidade, teratologia ou sanção manifestamente desproporcional.
@@ -110,24 +116,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
 - Ementa oficial:
   > O controle jurisdicional do processo administrativo disciplinar restringe-se ao exame da regularidade do procedimento e da legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, não sendo possível incursão no mérito administrativo, ressalvadas as hipóteses de flagrante ilegalidade, teratologia ou manifesta desproporcionalidade da sanção aplicada.
   > (Súmula n. 665, Primeira Seção, julgado em 13/12/2023, DJe de 14/12/2023.)
-
-## 420. AREsp nº 2236994 / SP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/11/2023.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: A pronúncia exige autoria corroborada com alto grau de probabilidade (arts. 155, 413 e 414 do CPP); a palavra dos policiais, contrariada por cinco laudos periciais, não basta. Impronúncia restabelecida, com comunicação à Corregedoria da PM.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2236994.pdf
-- Ementa oficial:
-  > PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. PRONÚNCIA. INEXISTÊNCIA, NO CASO CONCRETO, DE INDÍCIOS MÍNIMOS PARA CORROBORAR COM ALTO GRAU DE PROBABILIDADE A HIPÓTESE DA ACUSAÇÃO SOBRE A AUTORIA. INTELIGÊNCIA DOS ARTS. 155, 156, 413 E 414 DO CPP. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, A FIM DE RESTABELECER A DECISÃO DE IMPRONÚNCIA, COM COMUNICAÇÃO DOS FATOS À CORREGEDORIA DA POLÍCIA.
-  > 1. Pelo entendimento deste colegiado, vale na etapa da pronúncia o brocardo in dubio pro societate. Em minha visão pessoal, a rigor, o in dubio pro societate não existe. Quando nos referimos a ele como "princípio", o utilizamos na verdade como uma simples metáfora ou um atalho argumentativo, para expressar, em poucas palavras, que a pronúncia tem standards probatórios próprios, não se confundindo com uma sentença condenatória.
-  > 2. De todo modo, não proponho alterarmos o entendimento da Turma sobre a aplicação do in dubio pro societate. Apenas registro aqui minha visão particular a seu respeito, alinhada à nova orientação da Sexta Turma firmada no julgamento do REsp 2.091.647/DF, finalizado em 26/9/2023, quando aquele colegiado baniu de seu léxico o in dubio pro societate.
-  > 3. Não obstante essa breve ressalva, permanece na fase de pronúncia o ônus da acusação (art. 156 do CPP) de comprovar, com provas produzidas sob o crivo do contraditório (art. 155 do CPP), a hipótese por ela vertida na denúncia, com um nível de corroboração suficiente para aquela etapa processual (art. 413 do CPP).
-  > 4. Quanto à materialidade, o art. 413 do CPP exige da pronúncia e da sentença o mesmo nível de segurança, de modo que ambas devem seguir, nesse ponto, o mais alto standard do processo penal. A incerteza quanto à existência do fato em si torna inviável o julgamento popular, como decidiu esta Turma no recente julgamento do AgRg no AgRg no REsp n. 1.991.574/SP, relator Ministro João Batista Moreira, DJe de 8/11/2023, em que recebeu a adesão da maioria do colegiado a fundamentação do voto-vista do Ministro Joel Ilan Paciornik.
-  > 5. Em relação à autoria, o que diferencia pronúncia e sentença é o standard probatório exigido para se ter como provada a hipótese acusatória e a profundidade da cognição judicial a ser exercida em cada etapa processual.
-  > 6. A pronúncia é uma garantia do réu contra o risco de ocorrência de erros judiciários. Para que o acusado seja pronunciado, então, não basta à hipótese acusatória sobre a autoria ser possível, coerente ou a melhor; além de tudo isso, a pronúncia exige que a imputação esteja fortemente corroborada, com alto grau de probabilidade, por provas claras e convincentes, e que o conjunto probatório seja completo, sem a omissão de provas importantes para a elucidação dos fatos. Suspeitas, boatos e a mera possibilidade de que o réu tenha sido o autor do crime não bastam para a pronúncia. Inteligência dos arts. 155, 156, 413 e 414 do CPP.
-  > 7. Segundo a denúncia, os policiais militares supostamente seguiram dois indivíduos "suspeitos" em patrulhamento de rotina e foram surpreendidos com disparos de arma de fogo efetuados pelo réu, mas conseguiram antes disso alvejá-lo. Já o acusado conta que esteve no local dos fatos para comprar maconha e foi pego no tiroteio entre policiais e traficantes.
-  > 8. O réu foi baleado com um fuzil da polícia pelas costas – o que já torna em alguma medida inverossímeis as alegações dos policiais –, e nenhum dos cinco exames periciais realizados na origem conseguiu confirmar a hipótese acusatória. Não havia impressões digitais do acusado na suposta arma do crime, suas mãos não tinham resíduos de pólvora, não era sua a grafia das "anotações de tráfico" cuja autoria o MP/SP lhe imputa e não se sabe, até agora, como transcorreu o tiroteio, pois o laudo no local dos fatos foi inconclusivo.
-  > 9. Este colegiado entende que a palavra dos policiais pode, ainda que seja o único dado probatório de determinado fato, fundamentar o proferimento de decisões desfavoráveis ao réu. Fica ressalvada a compreensão pessoal deste relator, para quem a palavra da polícia exige sempre a corroboração por outros meios de prova, notadamente a gravação audiovisual por câmeras corporais. Compreensão firmada no julgamento do AREsp 1.936.393/RJ, em que fiquei parcialmente vencido.
-  > 10. De todo modo, esta Turma decidiu, naquela ocasião, que o testemunho do policial não é superior a outras provas, sendo dever do juiz confrontá-las (quando existentes) com a palavra do agente estatal, para aferir a compatibilidade entre elas. Foi exatamente isso que fez aqui o juízo de primeiro grau, ao detectar as profundas contradições entre o testemunho dos policiais (que, reitero, balearam o réu pelas costas) e as cinco provas periciais e, por isso, impronunciar o acusado.
-  > 11. O Tribunal local não examinou minimamente os dados probatórios técnicos valorados pelo juiz singular, nem explicou o porquê de estar equivocada sua valoração. Na verdade, a Corte estadual apenas invocou genericamente o in dubio pro societate para pronunciar o recorrente, mas não dedicou uma linha sequer à análise das provas periciais, tampouco às contradições entre elas e o testemunho dos policiais.
-  > 12. Agravo conhecido e recurso especial provido, a fim de restabelecer a decisão de impronúncia, com determinação de comunicação dos fatos à Corregedoria da PM/SP.
-  > (AREsp n. 2.236.994/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023.)
