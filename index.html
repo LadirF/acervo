@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex, nofollow">
-<link rel="alternate" type="text/markdown" href="ia/20261118-1432/acervo.md" title="Acervo em texto (para IA)">
+<link rel="alternate" type="text/markdown" href="ia/20261118-1443/acervo.md" title="Acervo em texto (para IA)">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#101010">
 <title>Acervo de Jurisprudência</title>
@@ -2093,7 +2093,7 @@
 </style>
 </head>
 <body>
-<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261118-1432/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
+<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261118-1443/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
 <a class="pular" href="#docket">Pular para as decisões</a>
 <div class="wrap">
 
@@ -9493,7 +9493,11 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
     tc.items.forEach(function (it, i) {
       if (it.str === undefined || it.str === '') return;
       var t = it.transform;
-      if (Math.abs(t[1]) > 1e-3 || Math.abs(t[2]) > 1e-3 || t[0] <= 0) { girados.push(it); return; }
+      // Girado = linha de base fora da horizontal (t[1]) ou espelhada (t[0] <= 0).
+      // t[2] sozinho é só inclinação de itálico (citações do STJ, ex. RHC 213637):
+      // tratá-lo como girado punha cada pedaço numa linha própria, fora da ordem,
+      // e a busca não achava as citações (18/11/2026).
+      if (Math.abs(t[1]) > 1e-3 * Math.abs(t[0]) || t[0] <= 0) { girados.push(it); return; }
       itens.push({ it: it, i: i, x: t[4], y: t[5], h: it.height || Math.abs(t[3]) || 1 });
     });
     itens.sort(function (a, b) { return b.y - a.y || a.x - b.x || a.i - b.i; });
@@ -9506,6 +9510,18 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
     var saida = [];
     linhas.forEach(function (l) {
       l.itens.sort(function (a, b) { return a.x - b.x || a.i - b.i; });
+      // Texto gravado duas vezes no mesmo lugar (negrito "por sobreposição", comum
+      // nos PDFs do STF): fica uma cópia só. Sem isso a busca e o copiar liam
+      // "gilmargilmar mendesmendes" (18/11/2026).
+      var unicos = [];
+      l.itens.forEach(function (o) {
+        for (var q = unicos.length - 1; q >= 0 && q >= unicos.length - 4; q--) {
+          var u = unicos[q];
+          if (u.it.str === o.it.str && Math.abs(u.x - o.x) <= Math.max(1, 0.3 * o.h) && Math.abs(u.y - o.y) <= Math.max(1, 0.3 * o.h)) return;
+        }
+        unicos.push(o);
+      });
+      l.itens = unicos;
       l.itens.forEach(function (o, k) {
         var ant = k ? l.itens[k - 1] : null;
         if (ant) {
@@ -11205,8 +11221,8 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
                 if (it.hasEOL) orig += ' ';
               });
               var mapa = [];
-              var dob = dobrar(igualarAspas(orig), mapa);
-              L.textos[num - 1] = { conteudo: tc, itens: itens, inicios: inicios, dob: dob, mapa: new Uint32Array(mapa), vp1: page.getViewport({ scale: 1 }) };
+              var cp = compactarPdf(dobrar(igualarAspas(orig), mapa), mapa);
+              L.textos[num - 1] = { conteudo: tc, itens: itens, inicios: inicios, dob: cp.s, mapa: new Uint32Array(cp.m), vp1: page.getViewport({ scale: 1 }) };
               aoLerPagina.forEach(function (fn) { fn(num); });
             });
           }).catch(function () { /* página sem texto legível: segue para a próxima */ })
@@ -11221,8 +11237,26 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
       var igualarAspas = function (s) {
         return s.replace(/[“”„‟″«»]/g, '"')
           .replace(/[‘’‚‛′]/g, "'")
-          .replace(/[‐‑‒–—―−]/g, '-');
+          .replace(/[‐‑‒–—―−­¬]/g, '-')
+          .replace(/°/g, 'o');
       };
+
+      // A busca do PDF ignora espaços, quebras de linha e hífens (18/11/2026): o
+      // trecho colado de outro lugar vem com quebras e espaços diferentes dos do PDF,
+      // e a palavra partida no fim da linha ("idô-/nea", "fático-/probatórios")
+      // aparece no texto do PDF como "ido- nea". Pontuação e letras continuam
+      // valendo. Devolve o texto compacto e o mapa até o texto original da página.
+      var compactarPdf = function (s, mapa) {
+        var out = '', m = [];
+        for (var i = 0; i < s.length; i++) {
+          var c = s.charAt(i);
+          if (c === ' ' || c === '-' || /[​-‍⁠﻿]/.test(c)) continue; // e os espaços invisíveis (zero-width)
+          out += c;
+          if (mapa) m.push(mapa[i]);
+        }
+        return { s: out, m: m };
+      };
+      var termoPdf = function (v) { return compactarPdf(dobrar(igualarAspas(v))).s; };
 
       // Item de texto que contém a posição `pos` do texto original da página
       var itemDe = function (t, pos) {
@@ -11346,7 +11380,7 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
       var buscarNoPdf = function () {
         clearTimeout(B.tempo);
         B.tempo = 0;
-        var q = dobrar(igualarAspas(vfCampo.value));
+        var q = termoPdf(vfCampo.value);
         if (q === B.termo) return;
         B.termo = q;
         B.resultados = [];
@@ -11395,7 +11429,7 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
         if (e.key !== 'Enter') return;
         e.preventDefault();
         var volta = e.shiftKey;
-        if (B.tempo || dobrar(vfCampo.value) !== B.termo) buscarNoPdf();
+        if (B.tempo || termoPdf(vfCampo.value) !== B.termo) buscarNoPdf();
         else irPara(B.atual + (volta ? -1 : 1));
       });
 
