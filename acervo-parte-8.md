@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 8 de 47 (decisões 71 a 80)
+# Acervo de Jurisprudência — Cury Advogados — parte 8 de 48 (decisões 71 a 80)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,66 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 71. REsp nº 2257858 / GO (STJ)
+## 71. AgRg no AREsp nº 3211511 / PE (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
+- Resumo: A pronúncia não se apoia só em inquérito e testemunho indireto, nem em temor presumido da testemunha sem dado concreto (arts. 155 e 413 do CPP). Agravo do MP desprovido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3211511.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRIBUNAL DO JÚRI. PRONÚNCIA. ELEMENTOS DO INQUÉRITO. ART. 155 DO CPP. INDÍCIOS DE AUTORIA (ART. 413 DO CPP). AGRAVO IMPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto contra decisão monocrática que deu provimento a recurso especial defensivo e despronunciou o réu.
+  > II. Questão em discussão
+  > 2. Há duas questões em discussão: (i) saber se a pronúncia pode se fundamentar exclusivamente em elementos do inquérito e testemunho indireto, à luz do art. 155 do CPP; (ii) saber se a presunção de temor da testemunha, desacompanhada de dados concretos, supre a ausência de confirmação judicial do relato e autoriza a pronúncia, nos termos do art. 413 do CPP.
+  > III. Razões de decidir
+  > 3. Elementos oriundos do inquérito e testemunhos indiretos, ressalvadas as provas irrepetíveis, cautelares e antecipadas, não são aptos, por si sós, para embasar a pronúncia, sob pena de violação aos arts. 155 e 413 do CPP.
+  > 4. No caso concreto, o único indício de autoria é o depoimento extrajudicial de uma testemunha, não confirmado em juízo. Não se produziu nenhum outro dado probatório sequer sobre a autoria.
+  > 5. Inexistem dados concretos que sustentem a presunção de que a retratação em juízo decorreu de temor da testemunha.
+  > IV. Dispositivo
+  > 6. Resultado do Julgamento: Agravo regimental improvido.
+  > (AgRg no AREsp n. 3.211.511/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/11/2026, DJEN de 6/11/2026.)
+
+## 72. AgRg no AREsp nº 3137829 / RN (STJ)
+- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Furto · Execução penal
+- Resumo: Violação do monitoramento não homologada como falta grave é falta média e não impede a progressão; o exame criminológico da Lei 14.843/2024 não alcança crime anterior à sua vigência (art. 112, § 1º, da LEP). Agravo do MP não provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3137829.pdf
+- Ementa oficial:
+  > AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. VIOLAÇÕES DO MONITORAMENTO ELETRÔNICO NÃO HOMOLOGADAS COMO FALTA GRAVE. FALTA MÉDIA. AUSÊNCIA DE ÓBICE À PROGRESSÃO. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NATUREZA MATERIAL. IRRETROATIVIDADE DA LEI PENAL MAIS GRAVOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+  > 1. A progressão de regime pressupõe o preenchimento cumulativo do requisito objetivo, consistente no cumprimento de determinado percentual da pena, e do requisito subjetivo, consubstanciado na “boa conduta carcerária, comprovada pelo diretor do estabelecimento”, nos termos do art. 112, § 1º, da Lei de Execução Penal. Somente a falta grave, por força da lei, interrompe o curso do requisito objetivo e evidencia, por si só, a ausência do requisito subjetivo, ao passo que a falta média sujeita o apenado exclusivamente às sanções previstas no art. 49, parágrafo único, da Lei de Execução Penal, entre as quais não figura a obstrução à progressão.
+  > 2. A violação do monitoramento eletrônico pode, em tese, configurar falta grave e obstar a progressão de regime, mas somente quando assim for formalmente homologada pelo juízo da execução penal. Ausente a homologação, as violações ostentam, no máximo, a natureza de faltas médias, com as consequências que a lei expressamente lhes reserva, entre as quais não figura o impedimento à progressão.
+  > 3.A jurisprudência consolidada desta Corte Superior reconhece que a Lei n. 14.843/2024, ao alterar o § 1º do art. 112 da Lei de Execução Penal, tem natureza material, na medida em que estabelece nova exigência para a obtenção do direito à progressão de regime. O exame criminológico não se limita a aspectos meramente probatórios, mas constitui requisito substancial que condiciona o próprio exercício do direito ao benefício executório.
+  > 4. Firmada a natureza material da norma, impõe-se a aplicação do princípio constitucional da irretroatividade da lei penal prejudicial, consagrado no art. 5º, XL, da Constituição Federal. Por constituir novatio legis in pejus, a Lei n. 14.843/2024 não pode retroagir para alcançar crimes praticados antes de sua vigência, sob pena de violação da garantia fundamental da irretroatividade da lei penal mais severa.
+  > 5. No caso concreto, as treze violações do monitoramento eletrônico praticadas pelo agravado foram qualificadas pelas instâncias de origem como faltas médias, sem homologação de falta grave no curso da execução, circunstância não impugnada pelo recurso especial. O crime pelo qual o agravado cumpre pena, furto qualificado pelo repouso noturno, previsto no art. 155, § 1º, do Código Penal, foi praticado em 20/1/2024, data anterior à publicação da Lei n. 14.843/2024, ocorrida em 11/4/2024.
+  > 6. Diante da ausência de falta grave homologada, a conclusão dos órgãos julgadores de origem de que o apenado preenchia o requisito subjetivo para a progressão de regime não configura violação do art. 112, § 1º, da Lei de Execução Penal. A incidência da nova exigência do exame criminológico à progressão de regime do agravado importaria, portanto, em retroatividade de lei penal mais severa, o que a Constituição Federal veda.
+  > 7. Agravo regimental não provido.
+  > (AgRg no AREsp n. 3.137.829/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/10/2026, DJEN de 6/11/2026.)
+
+## 73. AREsp nº 3342895 / SP (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Retirado o reconhecimento fotográfico fora do art. 226 do CPP, sem prova autônoma de autoria, não resta base para a condenação (Tema 1.258/STJ). Réu absolvido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3342895.pdf
+
+## 74. AgRg no AREsp nº 3269997 / GO (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 06/11/2026.
+- Crime / Tema: Estupro de vulnerável · Prescrição
+- Resumo: Citação por edital sem esgotar as diligências (mandado dirigido a outra comarca, não ao endereço dos autos) é inválida; cai a suspensão do art. 366 do CPP e a prescrição corre desde o recebimento da denúncia. Punibilidade extinta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3269997.pdf
+
+## 75. HC nº 279.244 / PR (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 06/11/2026.
+- Crime / Tema: Contrabando
+- Resumo: Para multirreincidente condenado a pena baixíssima, inferior a quatro anos, o regime fechado é excessivo no caso concreto. Fixado o semiaberto, sem prejuízo de agravamento na unificação de penas.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279244.pdf
+
+## 76. HC nº 1129246 / MS (STJ)
+- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
+- Crime / Tema: Organização criminosa · Dosimetria
+- Resumo: A função de batedor, já usada para demonstrar a integração à organização criminosa, não sustenta a culpabilidade negativa sem circunstância concreta e individualizada. HC não conhecido; ordem de ofício: pena de 3 anos, 7 meses e 15 dias e 53 dias-multa; mantidos a condenação e o semiaberto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129246.pdf
+
+## 77. REsp nº 2257858 / GO (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Estupro de vulnerável · Revisão criminal
 - Resumo: Na justificação criminal, o áudio atribuído à vítima pode ser apurado por perícia e oitiva de terceiros, sem exigir retratação; a vítima só é ouvida se consentir e só sobre o áudio. Recurso do MP desprovido.
@@ -24,7 +83,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Recurso especial improvido.
   > (REsp n. 2.257.858/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
 
-## 72. REsp nº 2259915 / RS (STJ)
+## 78. REsp nº 2259915 / RS (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Ato infracional (ECA) · Prescrição
 - Resumo: Liberdade assistida com prazo certo prescreve pela medida fixada, com a redução legal, e não pelo limite de três anos (arts. 109, VI, e 115 do CP). Recurso provido.
@@ -37,7 +96,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso especial provido para reconhecer a prescrição da pretensão punitiva da liberdade assistida.
   > (REsp n. 2.259.915/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
 
-## 73. REsp nº 2241472 / MG (STJ)
+## 79. REsp nº 2241472 / MG (STJ)
 - Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Vias de fato · Violência doméstica
 - Resumo: Nas contravenções, fixar o sursis acima do mínimo exige motivação concreta (art. 11 da LCP). Recurso provido para fixar um ano; condenação mantida.
@@ -50,57 +109,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Recurso especial provido para fixar o sursis pelo prazo de 1 ano, em condições que serão oportunamente estabelecidas pelo juízo competente para execução.
   > (REsp n. 2.241.472/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/10/2026, DJEN de 5/11/2026.)
 
-## 74. REsp nº 2289130 / SP (STJ)
+## 80. REsp nº 2289130 / SP (STJ)
 - Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 05/11/2026.
 - Crime / Tema: Roubo · Confissão espontânea · Dosimetria
 - Resumo: Na multirreincidência, a confissão se compensa de forma proporcional, não integral (arts. 65, III, d, e 67 do CP; Tema 585/STJ). Recurso provido; pena reduzida e regime fechado mantido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2289130.pdf
-
-## 75. ARE nº 1.619.064 / PR (STF)
-- Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Luiz Fux. Segunda Turma. Publicado em 05/11/2026.
-- Crime / Tema: Tráfico internacional de arma de fogo · Execução penal
-- Resumo: A hediondez que afasta benefício na execução se afere pela lei da data do fato, não pela do decreto. ARE provido para reanalisar o indulto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1619064.pdf
-- Ementa oficial:
-  > RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO PENAL. CRIME DE TRÁFICO INTERNACIONAL DE ARMA DE FOGO. ARTIGO 18 DA LEI 10.826/2003. PLEITO DE CONCESSÃO DE INDULTO. DECRETO PRESIDENCIAL Nº 12.338/2024. SUPERVENIÊNCIA DO CARÁTER HEDIONDO DO CRIME. IRRETROATIVIDADE DA LEI PENAL MAIS GRAVOSA. RECURSO PROVIDO.
-  > I. Caso em exame
-  > 1. Agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região que negou provimento ao agravo em execução interposto pela defesa, assentando que “A aferição da natureza hedionda do crime, para fins de concessão de indulto, deve ocorrer na data da edição do decreto presidencial, e não na data da prática do delito.”
-  > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se a aferição do caráter hediondo do crime deve ser realizada com base na data da edição do decreto presidencial ou na legislação vigente na data do crime.
-  > III. Razões de decidir
-  > 3. No julgamento do HC 267.297-AgR, a Segunda Turma deste Supremo Tribunal Federal sufragou entendimento no sentido de que “a vedação à comutação de pena, prevista em decreto presidencial, não pode alcançar delitos que não eram classificados como hediondos à época de sua prática, sob pena de retroatividade in malam partem”, definindo, ainda, que “a hediondez do crime, para fins de exclusão de benefícios executórios, deve ser aferida conforme a legislação vigente no momento do fato”.
-  > 4. In casu, o acórdão recorrido, quanto ao momento de aferição do caráter hediondo do crime, assentou que “A aferição da natureza hedionda do crime, para fins de concessão de indulto, deve ocorrer na data da edição do decreto presidencial, e não na data da prática do delito.”
-  > 5. a leitura dos fundamentos da decisão ora impugnada revela que o Tribunal de origem divergiu da orientação recentemente firmada sobre a matéria.
-  > IV. Dispositivo
-  > 6. Recurso provido.
-  > (STF, ARE n. 1.619.064/PR, relator Ministro André Mendonça, redator do acórdão Ministro Luiz Fux, Segunda Turma, julgado em 19/10/2026, DJe de 5/11/2026.)
-
-## 76. ARE nº 1.315.025 / ES (STF)
-- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 05/11/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: Negado seguimento ao agravo do MP contra acórdão que anulou o júri por qualificadora (art. 121, § 2º, IV, do CP) contrária à prova: sem repercussão geral demonstrada, ofensa reflexa e Súmula 279/STF. Anulação mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1315025.pdf
-
-## 77. HC nº 278.460 / SP (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 05/11/2026.
-- Crime / Tema: Homicídio qualificado · Ocultação de cadáver · Continuidade delitiva
-- Resumo: A continuidade específica do art. 71, parágrafo único, do CP não alcança a ocultação de cadáver, sem violência à pessoa; aplica-se a comum. Ordem parcial, mantida a dosimetria dos homicídios.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278460.pdf
-
-## 78. HC nº 278.718 / PR (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Descaminho
-- Resumo: A prestação pecuniária pode ser parcelada se comprovada a dificuldade financeira, a ser apurada pelo juízo; a redução do valor não foi acolhida. Ordem parcial.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278718.pdf
-
-## 79. RHC nº 278.722 / AL (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Furto · Princípio da insignificância
-- Resumo: Reiteração ou antecedentes não afastam, por si sós, a insignificância: furto de alimentos e guloseimas de valor irrisório, sem violência e com restituição integral, é atípico. Paciente absolvida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278722.pdf
-
-## 80. HC nº 279.064 / SP (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
-- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
-- Resumo: A preventiva é, em regra, incompatível com o regime semiaberto ou aberto fixado na sentença, salvo crime com violência ou grave ameaça. Prisão revogada, com cautelares do art. 319 do CPP. Ordem de ofício.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279064.pdf

@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 11 de 47 (decisões 101 a 110)
+# Acervo de Jurisprudência — Cury Advogados — parte 11 de 48 (decisões 101 a 110)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,13 +8,106 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 101. AgRg no HC nº 1126685 / SP (STJ)
+## 101. AgRg no AREsp nº 3244311 / MG (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · ANPP
+- Resumo: Reconhecido o tráfico privilegiado, a redução entra no cálculo da pena mínima para o ANPP (art. 28-A do CPP), e a recusa do MP baseada só na gravidade abstrata do crime é inválida. Agravo do MP desprovido; autos voltam para o MP examinar o acordo de forma motivada.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3244311.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL. TRÁFICO PRIVILEGIADO. RECUSA MINISTERIAL GENÉRICA. RETORNO DOS AUTOS PARA ANÁLISE DO ANPP. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental interposto pelo órgão ministerial estadual contra decisão que deu provimento a recurso defensivo para determinar o retorno dos autos ao Ministério Público, a fim de que analise concretamente e justifique a (im)possibilidade de propositura de acordo de não persecução penal (ANPP) em favor do agravado.
+  > 2. Reconhecimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006 (tráfico privilegiado), com redução que autoriza, em tese, a aferição da pena mínima em abstrato inferior a 4 anos, nos termos do art. 28-A, § 1º, do CPP.
+  > 3. Recusa ministerial ao ANPP motivada de forma genérica e fundada em gravidade abstrata do delito. Decisão agravada mantida para oportunizar, na origem, a inauguração do procedimento de ANPP e a motivação concreta quanto à sua viabilidade, como requisito para manutenção dos efeitos da condenação.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se, reconhecida a causa de diminuição do tráfico privilegiado, deve-se considerar as causas de redução para aferir a pena mínima em abstrato do art. 28-A do CPP e oportunizar ao Ministério Público a análise do ANPP; e (ii) saber se a recusa ministerial ao ANPP, fundada em gravidade abstrata e sem individualização de elementos concretos do caso, é suficiente para afastar a medida despenalizadora.
+  > III. Razões de decidir
+  > 5. O ANPP é faculdade do Ministério Público condicionada aos requisitos legais, mas a recusa deve ser motivada com dados concretos do caso. Fundamentação genérica, baseada na gravidade abstrata do tipo penal e em circunstâncias inerentes ao delito, não se mostra idônea para afastar a possibilidade de oferecimento do acordo.
+  > 6. O reconhecimento do tráfico privilegiado exige considerar, para fins do art. 28-A do CPP, as causas de diminuição aplicáveis, podendo resultar em pena mínima em abstrato inferior a 4 anos, o que autoriza a análise da viabilidade de ANPP.
+  > 7. A jurisprudência das Turmas do STJ reconhece a necessidade de retorno dos autos à origem para oportunizar a proposta de ANPP quando há desclassificação para o tráfico privilegiado, a fim de evitar o excesso de acusação (overcharging) em prejuízo da defesa.
+  > 8. No caso, ausentes elementos individualizados que demonstrem a insuficiência ou desnecessidade do ANPP, impõe-se manter a determinação de que o Ministério Público examine e motive, concretamente, a (im)possibilidade de propositura do acordo.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Agravo regimental desprovido, mantida a determinação de retorno dos autos à origem para análise motivada da viabilidade de ANPP pelo Ministério Público.
+  > Tese de julgamento:
+  > 1. O reconhecimento do tráfico privilegiado impõe considerar as causas de diminuição para aferição da pena mínima em abstrato do art. 28-A do CPP, permitindo a análise da viabilidade de ANPP.
+  > 2. A recusa ministerial ao ANPP deve ser motivada com elementos concretos do caso; fundamentação genérica ou baseada em gravidade abstrata não é suficiente para afastar o oferecimento do acordo.
+  > 3. Havendo possível excesso de acusação decorrente da desclassificação para tráfico privilegiado, os autos devem retornar à origem para que o Ministério Público examine, de forma motivada, a proposta de ANPP.
+  > (AgRg no AREsp n. 3.244.311/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
+
+## 102. AgRg no AREsp nº 3270585 / BA (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Roubo · Dosimetria
+- Resumo: No concurso formal próprio, o aumento vai de 1/6 a 1/2 conforme o número de crimes: com 6 ou mais, aplica-se 1/2, nunca 2/3 (art. 70 do CP). Agravo da defesa desprovido (Súmula 284/STF), mas HC de ofício reduz a pena dos três réus.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3270585.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 284/STF. AUSÊNCIA DE INDICAÇÃO CLARA DE DISPOSITIVO LEGAL VIOLADO. CONCURSO FORMAL DE CRIMES. APLICAR FRAÇÃO DE 1/2. AGRAVO REGIMENTAL NÃO PROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO PARA REDUÇÃO DA PENA.
+  > I. Caso em exame
+  > 1. Agravo regimental contra decisão da Presidência que não conheceu o recurso especial, diante do óbice da Súmula 284/STF (ausência de indicação do dispositivo legal violado).
+  > 2. A defesa sustenta ter apontado expressamente o art. 70 do Código Penal e requer o conhecimento do recurso especial.
+  > 3. As instâncias ordinárias majoraram a pena em 2/3 pelo concurso formal de crimes, em roubo praticado mediante uma só ação com 10 vítimas.
+  > II. Questão em discussão
+  > 4. Há duas questões em discussão: (i) saber se a ausência de indicação clara e precisa dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, com incidência da Súmula 284/STF; e (ii) saber se é possível, diante de flagrante ilegalidade na dosimetria pela aplicação de fração de 2/3 no concurso formal de crimes, conceder, de ofício, habeas corpus para aplicar a fração de 1/2 prevista no art. 70 do Código Penal.
+  > III. Razões de decidir
+  > 5. A ausência de indicação clara e precisa dos dispositivos legais federais violados nas razões do recurso especial caracteriza deficiência de fundamentação e atrai a incidência da Súmula 284/STF, o que impede o conhecimento do especial.
+  > 6. O art. 647-A do Código de Processo Penal autoriza a concessão de habeas corpus de ofício, quando verificada flagrante ilegalidade no curso do processo.
+  > 7. O art. 70 do Código Penal fixa a fração de aumento pelo concurso formal entre 1/6 e 1/2, devendo, em hipóteses de 6 ou mais infrações, aplicar-se a fração de 1/2; a majoração de 2/3 extrapola o limite legal.
+  > 8. Configurada a ilegalidade na fração do concurso formal, impõe-se a readequação da pena, com aplicação da fração de 1/2, mantendo-se, no mais, a condenação.
+  > IV. Dispositivo e tese
+  > 9. Resultado do Julgamento: Agravo regimental não provido; ordem de habeas corpus concedida de ofício para reduzir a pena mediante aplicação da fração de 1/2 no concurso formal de crimes.
+  > Tese de julgamento:
+  > 1. A ausência de indicação clara e precisa dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, por incidência da Súmula 284/STF.
+  > 2. O órgão julgador pode conceder habeas corpus de ofício, nos termos do art. 647-A do CPP, quando verificada flagrante ilegalidade no curso do processo.
+  > 3. A fração de aumento pelo concurso formal de crimes deve observar os limites do art. 70 do CP, aplicando-se 1/2 quando praticadas 6 ou mais infrações, vedada a majoração acima desse patamar.
+  > (AgRg no AREsp n. 3.270.585/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
+
+## 103. AgRg no AREsp nº 3248667 / PA (STJ)
+- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 03/11/2026.
+- Crime / Tema: Crimes ambientais
+- Resumo: No crime do art. 50-A da Lei 9.605/1998, a natureza pública ou devoluta da área deve estar certificada antes do desmatamento; com a demarcação da terra indígena suspensa, a dúvida sobre a área e sobre o dolo leva à absolvição. Agravo do MPF desprovido (Súmula 7/STJ).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3248667.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 50-A DA LEI 9.605. TERRAS DE DOMÍNIO PÚBLICO OU DEVOLUTAS. DEMARCAÇÃO DE TERRA INDÍGENA. CERTIFICAÇÃO PRÉVIA. INSUFICIÊNCIA PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental no agravo em recurso especial interposto pela acusação contra decisão que não conheceu do recurso especial, em face de acórdão absolutório quanto ao crime do Art. 50-A da Lei 9.605.
+  > 2. Instâncias ordinárias reconheceram inexistência de prova, em nível acima de dúvida razoável, de que o desmatamento ocorreu em “terras de domínio público ou devolutas” na data dos fatos, bem como incerteza quanto à natureza jurídica da área, afastando o dolo. Absolvição com fundamento no CPP, Art. 386, VII.
+  > 3. Decisão agravada manteve o acórdão absolutório e não conheceu do recurso especial por incidência da Súmula 7/STJ, ante a necessidade de revolvimento do conjunto fático-probatório.
+  > II. Questão em discussão
+  > 4. A questão em discussão consiste em saber se o conhecimento do recurso especial é obstado pela Súmula 7/STJ, por demandar reexame de fatos e provas para desconstituir a conclusão absolutória das instâncias ordinárias.
+  > III. Razões de decidir
+  > 5. Incide a Súmula 7/STJ, pois a reforma da conclusão do Tribunal de origem sobre insuficiência probatória e ausência de dolo exigiria novo exame do conjunto fático-probatório, providência inviável na via estreita do recurso especial.
+  > 6. A condenação penal exige prova robusta, segura e harmônica de autoria e materialidade, inclusive quanto ao elemento normativo do tipo; persistindo dúvida razoável sobre a natureza jurídica da área e o dolo, impõe-se a absolvição nos termos do CPP, Art. 386, VII.
+  > IV. Dispositivo e tese
+  > 7. Resultado do Julgamento: Agravo regimental desprovido, mantida a decisão que não conheceu do recurso especial.
+  > Tese de julgamento:
+  > 1. O reexame de fatos e provas para infirmar acórdão absolutório encontra óbice na Súmula 7/STJ em sede de recurso especial.
+  > 2. Persistindo dúvida razoável sobre a natureza jurídica da área e sobre o dolo, a absolvição deve ser mantida com fundamento no CPP, Art. 386, VII.
+  > (AgRg no AREsp n. 3.248.667/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/10/2026, DJEN de 3/11/2026.)
+
+## 104. HC nº 279.008 / SP (STF)
+- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Porte de drogas para consumo pessoal
+- Resumo: Pequena quantidade de maconha (9,89 g), sem flagrante de venda nem petrechos de comércio, não sustenta a condenação por tráfico: aplica-se a presunção de uso do Tema 506/STF (RE 635.659). HC concedido após o trânsito em julgado para absolver (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279008.pdf
+
+## 105. ARE nº 1.630.118 / GO (STF)
+- Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 03/11/2026.
+- Crime / Tema: Perturbação do sossego
+- Resumo: A perturbação do sossego (art. 42, III, da LCP) exige atingir uma multiplicidade de pessoas; o incômodo a uma só vítima não configura a contravenção. O STF negou seguimento ao ARE do MP (Súmula 279/STF e ofensa reflexa) e manteve a absolvição.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630118.pdf
+
+## 106. RHC nº 278.721 / ES (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 03/11/2026.
+- Crime / Tema: Tráfico de drogas · Ato infracional (ECA)
+- Resumo: No procedimento do ECA, o adolescente deve ser notificado pessoalmente para a audiência e ouvido como último ato da instrução (arts. 184 e 187 do ECA; art. 400 do CPP); a falta de oitiva é nulidade absoluta, que a defesa técnica não supre. RHC provido para anular a instrução e a sentença.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278721.pdf
+
+## 107. AgRg no HC nº 1126685 / SP (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Execução penal
 - Resumo: Prévio recolhimento à prisão dispensado, em caso excepcional, para analisar a transferência da execução (art. 105 da LEP): o paciente reside com a família em outro estado. Agravo provido; ordem concedida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1126685.pdf
 
-## 102. AgRg no REsp nº 2265602 / MG (STJ)
+## 108. AgRg no REsp nº 2265602 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Condenação com punibilidade extinta há mais de 10 anos antes do novo crime não serve como maus antecedentes, ainda que o crime anterior seja grave (art. 59 do CP). Sem outros elementos, 68 g de crack e uma balança não justificam fração menor que 2/3 no tráfico privilegiado. Agravo do MP desprovido.
@@ -36,7 +129,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Agravo regimental não provido.
   > (AgRg no REsp n. 2.265.602/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
 
-## 103. AgRg no REsp nº 2243946 / MG (STJ)
+## 109. AgRg no REsp nº 2243946 / MG (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: O apenado assistido pela Defensoria tem presunção relativa de hipossuficiência; cabe ao MP provar que ele pode pagar a multa (art. 51 do CP; Tema 931/STJ), e a ADI 7.032/STF não muda isso. Agravo do MP desprovido; mantida a extinção da punibilidade sem o pagamento da multa.
@@ -57,7 +150,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo regimental desprovido.
   > (AgRg no REsp n. 2.243.946/MG, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
 
-## 104. AgRg no REsp nº 2210727 / SC (STJ)
+## 110. AgRg no REsp nº 2210727 / SC (STJ)
 - Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 29/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: Afastada a majorante do repouso noturno no furto qualificado (Tema 1.087/STJ), levá-lo para a pena-base é faculdade do juiz e exige fundamentação concreta; não é automático (art. 59 do CP). Agravo do MP desprovido.
@@ -78,84 +171,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. DISPOSITIVO
   > 9. Agravo regimental não provido.
   > (AgRg no REsp n. 2.210.727/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 22/10/2026, DJEN de 29/10/2026.)
-
-## 105. HC nº 279.042 / ES (STF)
-- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 29/10/2026.
-- Crime / Tema: Roubo · Confissão espontânea · Dosimetria · Revisão criminal
-- Resumo: Reconhecida a confissão espontânea (art. 65, III, d, do CP), reduzir menos de 1/6 exige fundamentação concreta na sentença, mesmo que a confissão seja qualificada; a motivação dada depois pelas instâncias revisoras não supre a falta. HC concedido para o juízo da execução aplicar 1/6.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279042.pdf
-
-## 106. REsp nº 2234241 / SC (STJ)
-- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Crimes contra a ordem tributária
-- Resumo: Deixar de recolher ICMS declarado só é crime se houver contumácia e dolo de apropriação, demonstrados por elementos concretos (art. 2º, II, da Lei 8.137/1990; RHC 163.334/STF). HC de ofício absolve por atipicidade (art. 386, III, do CPP).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2234241.pdf
-
-## 107. AgRg no REsp nº 2288472 / SP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Estupro de vulnerável · Dosimetria
-- Resumo: Réu primário com pena-base no mínimo não pode receber regime mais severo que o indicado pela pena sem fundamento concreto além da gravidade do próprio crime (art. 33, §§ 2º e 3º, do CP). Agravo do MP desprovido; mantido o regime semiaberto para pena de 8 anos.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2288472.pdf
-- Ementa oficial:
-  > DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REGIME PRISIONAL INICIAL. FUNDAMENTAÇÃO CONCRETA PARA AGRAVAMENTO. AUSÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que deu provimento ao recurso especial para fixar o regime inicial semiaberto.
-  > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se, ausentes circunstâncias judiciais desfavoráveis e fixada a pena-base no mínimo legal, é legítima a imposição de regime inicial mais gravoso do que o indicado pelo critério temporal do art. 33, § 2º, do Código Penal sem fundamentação idônea baseada em elementos concretos dos autos.
-  > III. Razões de decidir
-  > 3. A imposição de regime prisional mais severo que o correspondente à pena aplicada exige fundamentação idônea, com indicação de circunstâncias judiciais desfavoráveis ou gravidade concreta do delito, não bastando a gravidade abstrata do tipo penal (CP, art. 33, §§ 2º e 3º).
-  > 4. No caso, réu primário, pena-base no mínimo legal e inexistência de vetores judiciais negativos impedem o agravamento do regime inicial, que deve observar o critério temporal do art. 33, § 2º, alínea “b”, do Código Penal.
-  > IV. Dispositivo e tese
-  > 5. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão que fixou o regime inicial semiaberto.
-  > Tese de julgamento:
-  > 1. A imposição de regime inicial mais gravoso do que o indicado pelo art. 33, § 2º, do Código Penal exige fundamentação concreta baseada em circunstâncias judiciais desfavoráveis.
-  > (AgRg no REsp n. 2.288.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2026, DJEN de 28/10/2026.)
-
-## 108. AgRg no AREsp nº 3196600 / AP (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
-- Resumo: A pronúncia não pode se apoiar só em confissões extrajudiciais e testemunhos indiretos (arts. 155 e 413 do CPP); sem fonte identificada nem prova de que era impossível produzir a prova em juízo, não se aplica a exceção do Tema 1.260/STJ. Agravo do MP desprovido; despronúncia mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3196600.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRIBUNAL DO JÚRI. PRONÚNCIA. ELEMENTOS DO INQUÉRITO E TESTEMUNHO INDIRETO. ARTS. 155 E 413 DO CPP. DESPRONÚNCIA. AGRAVO IMPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental contra decisão monocrática que não conheceu do agravo em recurso especial, mas concedeu ordem de ofício para despronunciar o réu Matheus.
-  > II. Questão em discussão
-  > 2. Saber se a pronúncia pode se fundamentar exclusivamente em elementos do inquérito e testemunhos indiretos.
-  > III. Razões de decidir
-  > 3. A pronúncia exige indícios suficientes de autoria e materialidade (art. 413 do CPP), amparados em prova direta produzida em juízo, ressalvadas as provas irrepetíveis, cautelares e antecipadas (art. 155 do CPP). Elementos do inquérito e testemunhos indiretos não são aptos, por si, a comprovar qualquer elemento do crime na etapa da pronúncia.
-  > 4. O depoimento indireto, inclusive o do policial que relata o que ouviu no inquérito, não "judicializa" informações extrajudiciais; os dados probatórios obtidos na investigação devem aportar diretamente ao processo, sob contraditório, sendo inviável substituí-los por relatos indiretos.
-  > 5. No caso concreto, inexistem provas diretas e individualizadas quanto à autoria imputada ao réu (condução do veículo), havendo apenas confissões extrajudiciais e testemunhos indiretos; inaplicável a exceção do Tema 1.260, por ausência de identificação da fonte e de demonstração de impossibilidade de produção da prova.
-  > IV. Dispositivo
-  > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a despronúncia.
-  > (AgRg no AREsp n. 3.196.600/AP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/10/2026, DJEN de 28/10/2026.)
-
-## 109. AgRg no REsp nº 2276538 / RS (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento fotográfico feito só na polícia, sem as formalidades do art. 226 do CPP, não confirmado em juízo e sem prova independente, não sustenta condenação (Tema 1.258/STJ). Agravo do MP desprovido; absolvição por roubo mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2276538.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CPP. INSUFICIÊNCIA PROBATÓRIA. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de recurso especial por incidência da Súmula 7/STJ e afastou alegada negativa de prestação jurisdicional quanto ao art. 619 do CPP.
-  > 2. Fato relevante. Pretensão de reforma do acórdão estadual para condenar os recorridos por roubo majorado, sustentando a aplicação do Tema 1258/STJ e a possibilidade de condenação fundada em reconhecimento realizado na fase investigatória, em consonância com outras provas.
-  > 3. As decisões anteriores. Tribunal de origem manteve absolvição por insuficiência probatória, destacando a fragilidade do reconhecimento fotográfico não confirmado em juízo, a descrição genérica dos assaltantes, a brevidade da ação delitiva e a inexistência de elementos autônomos produzidos sob contraditório capazes de firmar a autoria, em observância aos arts. 226 e 155 do CPP e ao princípio in dubio pro reo.
-  > II. Questão em discussão
-  > 4. As questões em discussão cingem-se a saber: (i) se é possível, em recurso especial, infirmar a conclusão do Tribunal de origem quanto à insuficiência de provas de autoria para o crime de roubo majorado sem incidir no vedado revolvimento do conjunto fático-probatório (Súmula 7/STJ); e (ii)se o reconhecimento fotográfico realizado na fase policial, sem observância das formalidades do art. 226 do CPP, não confirmado em juízo e desacompanhado de provas independentes robustas, pode sustentar condenação à luz do Tema 1258/STJ.
-  > III. Razões de decidir
-  > 5. A conclusão do acórdão recorrido quanto à insuficiência probatória e à fragilidade do reconhecimento decorre da análise do acervo fático-probatório, cujo reexame é vedado em recurso especial, nos termos da Súmula 7/STJ.
-  > 6. O reconhecimento fotográfico realizado apenas na fase investigatória, não corroborado por reconhecimento pessoal em juízo e sem outros elementos autônomos e independentes produzidos sob o contraditório, não afasta a presunção de inocência e impõe a manutenção da absolvição, em atenção ao princípio in dubio pro reo.
-  > 7. A aplicação do Tema 1258/STJ pressupõe a existência de provas autônomas e independentes robustas a corroborar eventual reconhecimento feito na fase policial, circunstância não verificada no caso.
-  > IV. Dispositivo e tese
-  > 8. Resultado do Julgamento: Agravo regimental improvido.
-  > Tese de julgamento:
-  > 1. É inviável, em recurso especial, rediscutir a suficiência probatória para condenação ou afastar absolvição por insuficiência de provas, ante o óbice da Súmula 7/STJ.
-  > 2. O reconhecimento fotográfico realizado na fase policial, sem observância do art. 226 do CPP, não confirmado em juízo e desacompanhado de provas independentes robustas, não sustenta a condenação, impondo a manutenção da absolvição por in dubio pro reo.
-  > (AgRg no REsp n. 2.276.538/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2026, DJEN de 28/10/2026.)
-
-## 110. AREsp nº 3366575 / SP (STJ)
-- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 28/10/2026.
-- Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Busca e apreensão
-- Resumo: Mandado de prisão não autoriza vasculhar a casa: a arma achada debaixo do colchão revela busca exploratória, e permitir a entrada para a prisão não é consentir com busca geral (art. 5º, XI, da CF; art. 157 do CPP). REsp da defesa provido; absolvição restabelecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3366575.pdf

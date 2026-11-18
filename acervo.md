@@ -1,6 +1,6 @@
 # Acervo de Jurisprudência — Cury Advogados (versão em texto para ferramentas de IA)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -26,7 +26,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Índice STJ e STF (2 de 5) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-2.md
 - Índice STJ e STF (3 de 5) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-3.md
 - Índice STJ e STF (4 de 5) (100 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-4.md
-- Índice STJ e STF (5 de 5) (42 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-5.md
+- Índice STJ e STF (5 de 5) (53 decisões): https://ladirf.github.io/acervo/acervo-indice-stj-stf-5.md
 - Índice TRFs e tribunais estaduais (21 decisões): https://ladirf.github.io/acervo/acervo-indice-tribunais.md
 
 **Partes** (ementas oficiais, referências e links de PDF; 10 decisões cada, na mesma numeração do índice):
@@ -76,6 +76,7 @@ Objetivo: quando o usuário apresentar um caso concreto, encontrar neste acervo 
 - Parte 44: decisões 431 a 440 — https://ladirf.github.io/acervo/acervo-parte-44.md
 - Parte 45: decisões 441 a 450 — https://ladirf.github.io/acervo/acervo-parte-45.md
 - Parte 46: decisões 451 a 460 — https://ladirf.github.io/acervo/acervo-parte-46.md
-- Parte 47: decisões 461 a 463 — https://ladirf.github.io/acervo/acervo-parte-47.md
+- Parte 47: decisões 461 a 470 — https://ladirf.github.io/acervo/acervo-parte-47.md
+- Parte 48: decisões 471 a 474 — https://ladirf.github.io/acervo/acervo-parte-48.md
 
 Tudo num arquivo só (para enviar a um projeto): https://ladirf.github.io/acervo/acervo-completo.md

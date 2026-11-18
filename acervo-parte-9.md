@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 9 de 47 (decisões 81 a 90)
+# Acervo de Jurisprudência — Cury Advogados — parte 9 de 48 (decisões 81 a 90)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,19 +8,68 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 81. HC nº 278.903 / SP (STF)
+## 81. ARE nº 1.619.064 / PR (STF)
+- Decisão colegiada. Relator: Min. André Mendonça; redator do acórdão: Min. Luiz Fux. Segunda Turma. Publicado em 05/11/2026.
+- Crime / Tema: Tráfico internacional de arma de fogo · Execução penal
+- Resumo: A hediondez que afasta benefício na execução se afere pela lei da data do fato, não pela do decreto. ARE provido para reanalisar o indulto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1619064.pdf
+- Ementa oficial:
+  > RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO PENAL. CRIME DE TRÁFICO INTERNACIONAL DE ARMA DE FOGO. ARTIGO 18 DA LEI 10.826/2003. PLEITO DE CONCESSÃO DE INDULTO. DECRETO PRESIDENCIAL Nº 12.338/2024. SUPERVENIÊNCIA DO CARÁTER HEDIONDO DO CRIME. IRRETROATIVIDADE DA LEI PENAL MAIS GRAVOSA. RECURSO PROVIDO.
+  > I. Caso em exame
+  > 1. Agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região que negou provimento ao agravo em execução interposto pela defesa, assentando que “A aferição da natureza hedionda do crime, para fins de concessão de indulto, deve ocorrer na data da edição do decreto presidencial, e não na data da prática do delito.”
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se a aferição do caráter hediondo do crime deve ser realizada com base na data da edição do decreto presidencial ou na legislação vigente na data do crime.
+  > III. Razões de decidir
+  > 3. No julgamento do HC 267.297-AgR, a Segunda Turma deste Supremo Tribunal Federal sufragou entendimento no sentido de que “a vedação à comutação de pena, prevista em decreto presidencial, não pode alcançar delitos que não eram classificados como hediondos à época de sua prática, sob pena de retroatividade in malam partem”, definindo, ainda, que “a hediondez do crime, para fins de exclusão de benefícios executórios, deve ser aferida conforme a legislação vigente no momento do fato”.
+  > 4. In casu, o acórdão recorrido, quanto ao momento de aferição do caráter hediondo do crime, assentou que “A aferição da natureza hedionda do crime, para fins de concessão de indulto, deve ocorrer na data da edição do decreto presidencial, e não na data da prática do delito.”
+  > 5. a leitura dos fundamentos da decisão ora impugnada revela que o Tribunal de origem divergiu da orientação recentemente firmada sobre a matéria.
+  > IV. Dispositivo
+  > 6. Recurso provido.
+  > (STF, ARE n. 1.619.064/PR, relator Ministro André Mendonça, redator do acórdão Ministro Luiz Fux, Segunda Turma, julgado em 19/10/2026, DJe de 5/11/2026.)
+
+## 82. ARE nº 1.315.025 / ES (STF)
+- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 05/11/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri
+- Resumo: Negado seguimento ao agravo do MP contra acórdão que anulou o júri por qualificadora (art. 121, § 2º, IV, do CP) contrária à prova: sem repercussão geral demonstrada, ofensa reflexa e Súmula 279/STF. Anulação mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1315025.pdf
+
+## 83. HC nº 278.460 / SP (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 05/11/2026.
+- Crime / Tema: Homicídio qualificado · Ocultação de cadáver · Continuidade delitiva
+- Resumo: A continuidade específica do art. 71, parágrafo único, do CP não alcança a ocultação de cadáver, sem violência à pessoa; aplica-se a comum. Ordem parcial, mantida a dosimetria dos homicídios.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278460.pdf
+
+## 84. HC nº 278.718 / PR (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Descaminho
+- Resumo: A prestação pecuniária pode ser parcelada se comprovada a dificuldade financeira, a ser apurada pelo juízo; a redução do valor não foi acolhida. Ordem parcial.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278718.pdf
+
+## 85. RHC nº 278.722 / AL (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Furto · Princípio da insignificância
+- Resumo: Reiteração ou antecedentes não afastam, por si sós, a insignificância: furto de alimentos e guloseimas de valor irrisório, sem violência e com restituição integral, é atípico. Paciente absolvida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278722.pdf
+
+## 86. HC nº 279.064 / SP (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
+- Crime / Tema: Tráfico de drogas · Posse ilegal de arma de fogo · Prisão e medidas cautelares
+- Resumo: A preventiva é, em regra, incompatível com o regime semiaberto ou aberto fixado na sentença, salvo crime com violência ou grave ameaça. Prisão revogada, com cautelares do art. 319 do CPP. Ordem de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279064.pdf
+
+## 87. HC nº 278.903 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Posse ilegal de arma de fogo · Porte ilegal de arma de fogo
 - Resumo: A reincidência, por si só, não impede a substituição por restritivas ao reincidente não específico (art. 44, § 3º, do CP), e o juízo deve avaliá-la fundamentadamente. Ordem parcial, de ofício; mantido o semiaberto.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278903.pdf
 
-## 82. HC nº 278.451 / SP (STF)
+## 88. HC nº 278.451 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 04/11/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado
 - Resumo: Quantidade e natureza da droga, dinheiro e mensagens sobre "produto não especificado" não bastam, por si sós, para provar dedicação ao crime e afastar o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). Ordem de ofício para aplicar o redutor, em fração motivada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278451.pdf
 
-## 83. AgRg no HC nº 1029565 / ES (STJ)
+## 89. AgRg no HC nº 1029565 / ES (STJ)
 - Decisão colegiada. Relator: Min. Joel Ilan Paciornik; redator do acórdão: Min. Messod Azulay Neto. Quinta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Corrupção passiva · Quebra da cadeia de custódia · Prova digital
 - Resumo: A senha surgida no celular e a falta de lacre durante a custódia estatal tornam imprestável a prova digital extraída em outro processo e usada contra terceiro, pois a perícia não pode mais ser repetida sob contraditório; o ônus de provar a integridade é do Estado, e o hash da extração original não supre a falha posterior (art. 158 do CPP). Agravo parcialmente provido por maioria; ordem concedida para vedar o uso da prova.
@@ -48,7 +97,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. A certificação por hash na extração originária não supre falhas posteriores de custódia nem afasta dúvidas sobre autenticidade e comparabilidade do conteúdo em contexto diverso.
   > (AgRg no HC n. 1.029.565/ES, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/10/2026, DJEN de 4/11/2026.)
 
-## 84. RHC nº 244387 / PE (STJ)
+## 90. RHC nº 244387 / PE (STJ)
 - Decisão colegiada. Relator: Min. Og Fernandes. Sexta Turma. Publicado em 04/11/2026.
 - Crime / Tema: Estupro de vulnerável · Ameaça
 - Resumo: A decisão que confirma o recebimento da denúncia deve enfrentar, ainda que de forma sucinta, as teses da resposta à acusação; despacho genérico que só designa audiência é nulo (art. 93, IX, da CF). RHC provido; ação anulada desde essa decisão.
@@ -60,39 +109,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 3. A ausência de apreciação das teses defensivas acarreta evidente prejuízo ao contraditório, à ampla defesa e ao dever constitucional de fundamentação das decisões judiciais, previsto no art. 93, IX, da CF.
   > 4. Recurso em habeas corpus provido para anular a ação penal a partir da decisão que confirmou o recebimento da denúncia e determinar a prolação de nova decisão, com apreciação das teses defensivas, como se entender de direito.
   > (RHC n. 244.387/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 29/10/2026, DJEN de 4/11/2026.)
-
-## 85. HC nº 1124087 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Receptação · Inviolabilidade de domicílio · Prisão e medidas cautelares
-- Resumo: Declaração de terceiro em outra investigação, sem diligência prévia, não autoriza ingresso domiciliar, nem em crime permanente (Tema 280/STF; art. 157 do CPP). Provas ilícitas desentranhadas e preventiva revogada; a ação segue, para sentença só com prova autônoma.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1124087.pdf
-
-## 86. HC nº 1089695 / SP (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Ato infracional (ECA) · Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento sem as formalidades do art. 226 do CPP (show-up, fotos mostradas antes) é inválido e não serve nem como prova suplementar, também no ato infracional (Tema 1.258/STJ). Ordem parcial para novo julgamento sem os reconhecimentos, podendo a medida se sustentar em prova independente.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089695.pdf
-
-## 87. AgRg no HC nº 1089770 / DF (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Crimes contra a ordem tributária · Cabimento do HC
-- Resumo: Ser sócio-administrador não basta para condenar por sonegação: é preciso demonstrar a contribuição dolosa individual (art. 1º, II, da Lei 8.137/1990), e o domínio do fato não supre essa prova. Mesmo após o trânsito em julgado, HC de ofício (art. 647-A do CPP) absolve.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1089770.pdf
-
-## 88. HC nº 1083969 / SP (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Tráfico de drogas · Fundada suspeita · Busca e apreensão · Prisão e medidas cautelares
-- Resumo: Ser "conhecido no meio policial" por tráfico não é fundada suspeita para busca pessoal (art. 244 do CPP), e o encontro posterior da droga não convalida a diligência. HC concedido de ofício para trancar a ação penal e revogar a prisão.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1083969.pdf
-
-## 89. HC nº 1123210 / RJ (STJ)
-- Decisão monocrática. Relatora: Min.ª Maria Marluce Caldas. Quinta Turma. Publicado em 04/11/2026.
-- Crime / Tema: Roubo · Reconhecimento de pessoa
-- Resumo: Reconhecimento por exibição isolada (show-up), sem alinhamento nem prova independente, é nulo e contamina os depoimentos em juízo, e o tribunal não pode anular a absolvição para "sanar" o vício com novo reconhecimento (art. 226 do CPP). Ordem de ofício; absolvição restabelecida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1123210.pdf
-
-## 90. HC nº 1129431 / AL (STJ)
-- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 03/11/2026.
-- Crime / Tema: Estupro de vulnerável · Corrupção de menores · Revisão criminal
-- Resumo: A retratação da vítima depois do trânsito em julgado autoriza a justificação criminal para instruir futura revisão, sem que o juízo antecipe o valor da prova. Ordem concedida para processar a justificação e ouvir a ofendida, com as cautelas dos arts. 201 e 400-A do CPP; condenação mantida.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1129431.pdf

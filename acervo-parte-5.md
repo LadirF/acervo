@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 5 de 47 (decisões 41 a 50)
+# Acervo de Jurisprudência — Cury Advogados — parte 5 de 48 (decisões 41 a 50)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,19 +8,42 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 41. ARE nº 1.630.299 / PR (STF)
+## 41. RE nº 1.631.265 / RS (STF)
+- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
+- Crime / Tema: Roubo · Execução penal
+- Resumo: A hediondez superveniente ao fato não impede o indulto: o TRF4 deve reanalisar o pedido de indulto da multa sem esse óbice. Recurso provido.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1631265.pdf
+
+## 42. ARE nº 1.628.737 / SP (STF)
+- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
+- Resumo: Agravo do MP em RE negado por falta de prequestionamento (Súmulas 282 e 356/STF); mantido o acórdão do STJ que restabeleceu a absolvição pelo júri.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628737.pdf
+
+## 43. ARE nº 1.630.299 / PR (STF)
 - Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
 - Crime / Tema: Peculato
 - Resumo: Agravo do MP em RE negado por falta de prequestionamento (Súmula 282/STF); mantido o acórdão do TJPR que cassou a sentença por se basear em interceptação e quebra de sigilo declaradas ilícitas em HC de corréu, com nova sentença sem essa prova.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630299.pdf
 
-## 42. ARE nº 1.630.300 / RS (STF)
+## 44. ARE nº 1.630.300 / RS (STF)
 - Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
 - Crime / Tema: Execução penal
 - Resumo: Recurso do MP contra a progressão em prisão domiciliar sem monitoramento eletrônico desprovido, por falta de prequestionamento e reexame de fatos (Súmulas 282 e 279/STF); mantido o acórdão do TJRS.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1630300.pdf
 
-## 43. EREsp nº 2211037 / SP (STJ)
+## 45. AgRg no HC nº 1127688 / SP (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 11/11/2026.
+- Crime / Tema: Estupro de vulnerável · Revisão criminal · Testemunho indireto
+- Resumo: Retratação judicial da vítima, coerente com boletim de ocorrência da época, e falta de prova independente (os demais depoimentos só repetiam o relato dela) geram dúvida razoável. Condenado a 13 anos e 4 meses por estupro de vulnerável absolvido por HC de ofício.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1127688.pdf
+
+## 46. HC nº 1136349 / SC (STJ)
+- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 11/11/2026.
+- Crime / Tema: Execução penal
+- Resumo: Automutilação e recusa de alimentação, sem incitação dos demais presos a movimento de indisciplina, não configuram a falta grave do art. 50, I, da LEP, ainda que causem agitação. Restabelecida a decisão que não homologou a falta.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1136349.pdf
+
+## 47. EREsp nº 2211037 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Terceira Seção. Publicado em 11/11/2026.
 - Resumo: Em recurso especial criminal, alegar negativa de prestação jurisdicional com base nos arts. 489, § 1º, e 1.022 do CPC não atrai, por si só, a Súmula 284/STF: o primeiro tem comando idêntico ao do art. 315, § 2º, do CPP e o segundo se aplica supletivamente ao art. 619 do CPP. Embargos providos; autos voltam à Sexta Turma, sem reconhecer omissão.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-eresp-2211037.pdf
@@ -37,7 +60,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 4. Embargos de divergência providos para afastar o óbice da Súmula 284/STF no capítulo relativo à negativa de prestação jurisdicional e determinar o retorno dos autos à Sexta Turma, com a fixação da seguinte tese: "Em recurso especial criminal, a alegação de negativa de prestação jurisdicional fundada nos arts. 489, § 1º, e 1.022 do Código de Processo Civil não atrai, por si só, o óbice da Súmula 284/STF, porquanto o primeiro veicula comando idêntico ao do art. 315, § 2º, do Código de Processo Penal, e o segundo aplica-se supletivamente ao processo penal, por força do art. 3º deste diploma, para densificar o conceito de omissão previsto em seu art. 619".
   > (EREsp n. 2.211.037/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 5/11/2026, DJEN de 11/11/2026.)
 
-## 44. AgRg no AREsp nº 3331551 / SP (STJ)
+## 48. AgRg no AREsp nº 3331551 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 11/11/2026.
 - Crime / Tema: Estelionato · Prescrição
 - Resumo: Esgotado o limite da suspensão do prazo prescricional pelo art. 366 do CPP (máximo da pena cominada, Súmula 415/STJ), a prescrição volta a correr e, pela pena em concreto, consumou-se antes da sentença. Agravo intempestivo; punibilidade extinta de ofício.
@@ -51,7 +74,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental não provido. Habeas corpus concedido de ofício para declarar extinta a punibilidade do agravante, pela prescrição da pretensão punitiva, nos termos do art. 107, IV, do Código Penal.
   > (AgRg no AREsp n. 3.331.551/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/11/2026, DJEN de 11/11/2026.)
 
-## 45. RE nº 1.612.829 / SP (STF)
+## 49. RE nº 1.612.829 / SP (STF)
 - Decisão colegiada. Relator: Min. André Mendonça. Segunda Turma. Publicado em 11/11/2026.
 - Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
 - Resumo: Denúncia anônima isolada, sem investigação prévia, e autorização de ingresso negada pela mãe do réu não configuram fundadas razões (Tema 280/STF). Absolvição mantida por maioria; recurso do MPF desprovido.
@@ -64,56 +87,8 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. DISPOSITIVO E TESE Recurso extraordinário ao qual se nega provimento.
   > (STF, RE n. 1.612.829/SP, relator Ministro André Mendonça, Segunda Turma, julgado em 19/10/2026, DJe de 11/11/2026.)
 
-## 46. ARE nº 1.607.672 / CE (STF)
+## 50. ARE nº 1.607.672 / CE (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 11/11/2026.
 - Crime / Tema: Homicídio qualificado · Prisão e medidas cautelares · Excesso de prazo
 - Resumo: Recurso do MP contra a substituição da preventiva por cautelares, após cerca de 7 anos e meio sem júri, sem seguimento: matéria infraconstitucional e Súmula 279/STF.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1607672.pdf
-
-## 47. RE nº 1.630.580 / SC (STF)
-- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 11/11/2026.
-- Crime / Tema: Associação para o tráfico · ANPP
-- Resumo: Em processo sem trânsito em julgado, cabe ao MP avaliar, motivadamente, o ANPP (HC 185.913/MS): RE de um réu provido e autos à PGR. Agravo do corréu desprovido: transcrição integral e perícia de voz das interceptações dispensáveis e Súmula 279/STF quanto à associação.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1630580.pdf
-
-## 48. REsp nº 2286191 / RJ (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 10/11/2026.
-- Crime / Tema: Violência doméstica · Dosimetria
-- Resumo: A agravante do art. 61, II, f, do CP não se cumula com a qualificadora do art. 129, § 13 (bis in idem); o Tema 1.197/STJ só alcança o § 9º. Recurso provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2286191.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. LESÃO CORPORAL QUALIFICADA (ART. 129, § 13, DO CP). IMPOSSIBILIDADE DE CUMULAÇÃO DA AGRAVANTE GENÉRICA DO ART. 61, II, F, COM A QUALIFICADORA DO § 13. BIS IN IDEM. PROPORCIONALIDADE E ESPECIALIDADE. INAPLICABILIDADE DO TEMA REPETITIVO 1.197/STJ.
-  > 1. A controvérsia cinge-se à compatibilidade, na dosimetria, da agravante genérica prevista no art. 61, II, f, do Código Penal com a qualificadora do art. 129, § 13, do Código Penal. O acórdão recorrido admitiu a cumulação, sob o fundamento de que os dispositivos teriam âmbitos de tutela distintos.
-  > 2. Afasta-se a cumulação por configurar dupla valoração da mesma circunstância fático-normativa – violência de gênero contra a mulher em contexto doméstico ou familiar – já integrada como elementar do tipo qualificado do art. 129, § 13, do Código Penal, o que viola os princípios da proporcionalidade, da especialidade e da vedação do bis in idem.
-  > 3. O Tema Repetitivo 1.197/STJ, que admite a incidência da agravante do art. 61, II, f, com o art. 129, § 9º, do Código Penal, não se aplica às hipóteses do § 13, pois, neste, a condição de mulher e a violência de gênero constituem elementares do tipo, de modo que a mesma circunstância não pode ser novamente agravada.
-  > 4. Recurso especial provido para decotar a agravante do art. 61, II, f, do Código Penal e redimensionar a pena.
-  > (REsp n. 2.286.191/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/11/2026, DJEN de 10/11/2026.)
-
-## 49. RHC nº 243744 / DF (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/11/2026.
-- Crime / Tema: Lavagem de dinheiro · Inépcia da denúncia
-- Resumo: Autolavagem exige atos autônomos de ocultação; denúncia que descreve só o exaurimento do crime antecedente é inepta. Processo trancado quanto à lavagem, sem prejuízo de nova denúncia.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-243744.pdf
-- Ementa oficial:
-  > RECURSO ORDINÁRIO EM HABEAS CORPUS. LAVAGEM DE CAPITAIS. INÉPCIA DA DENÚNCIA. AUTOLAVAGEM. AUSÊNCIA DE ATOS AUTÔNOMOS DE OCULTAÇÃO OU DISSIMULAÇÃO. CONFIGURAÇÃO. RECURSO ORDINÁRIO PROVIDO.
-  > 1. A jurisprudência desta Corte Superior assenta que a autolavagem é possível desde que demonstrados atos diversos e autônomos, em relação ao crime antecedente, voltados a ocultar ou dissimular a origem do proveito ilícito, e não se admite o mero prolongamento do iter criminis do delito antecedente. Precedentes.
-  > 2. No caso concreto, verifica-se que a denúncia imputou aos recorrentes, na qualidade de sócios-administradores da pessoa jurídica, a "falsificação ideológica de notas fiscais" e mencionou, como artifícios de lavagem, a pessoa jurídica, as notas fiscais simuladas, o fracionamento de depósitos e a "estrutura empresarial formal", porém registrou que os pagamentos ocorreram por "transferências diretas" para a conta da própria empresa, sem interposição de terceiros ou operações estruturadas. Não descreveu nenhuma conduta autônoma e distinta do exaurimento do suposto crime antecedente apta a quebrar, dificultar ou obstar a rastreabilidade da origem e da destinação dos valores.
-  > 3. Nessa moldura, reconhece-se a inépcia da denúncia quanto ao crime de lavagem de capitais, por ausência de descrição suficiente de atos autônomos de ocultação ou dissimulação, o que compromete o exercício do contraditório e da ampla defesa e impõe o trancamento do processo, sem prejuízo de nova denúncia com observância dos requisitos legais.
-  > 4. Recurso ordinário provido.
-  > (RHC n. 243.744/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/11/2026, DJEN de 10/11/2026.)
-
-## 50. AgRg no REsp nº 2194927 / RS (STJ)
-- Decisão colegiada. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 10/11/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
-- Resumo: A “lei do silêncio” não autoriza pronúncia só com depoimento policial retratado em juízo e relatos indiretos, sem outro elemento judicializado que corrobore (art. 155 do CPP). Despronúncia mantida; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2194927.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. SUFICIÊNCIA PROBATÓRIA PARA PRONÚNCIA E CONDENAÇÃO. TESTEMUNHA PRESENCIAL QUE SE RETRATOU EM JUÍZO. DEPOIMENTO INDIRETO DE POLICIAL CIVIL. AUSÊNCIA DE ELEMENTOS CORROBORATIVOS AUTÔNOMOS. VIOLAÇÃO DO ART. 155 DO CPP. DESPRONÚNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
-  > 1. A jurisprudência do STF e desta Corte não desconhece o fenômeno da "lei do silêncio" que acomete testemunhas em crimes praticados em ambientes de criminalidade organizada. É natural que testemunhas, diante de ameaças concretas ou potenciais, recuem de seus depoimentos quando chamadas a depor em juízo.
-  > 2. Os precedentes citados pelo agravante apresentam uma característica essencial que os diferencia radicalmente do presente caso: em todos eles, havia outros elementos probatórios judicializados, independentes do depoimento retratado, que corroboravam a versão acusatória. Os precedentes do STF não autorizam a pronúncia com base exclusiva em depoimento policial retratado, apenas porque havia alegação de represálias. Autorizam a pronúncia quando, além da retratação compreensível, há outros elementos judicializados que corroborem a versão acusatória.
-  > 3. No caso concreto, não há nenhum elemento corroborativo autônomo. O quadro probatório se resume à seguinte estrutura: a) o depoimento policial da testemunha Manoela, retratado integralmente em juízo; b) o depoimento judicial do policial Celso, que narra o que Manoela lhe disse durante a fase investigativa; c) o depoimento do pai da vítima, Valdecir, que igualmente narra o que Manoela haveria dito na fase policial. Toda a cadeia probatória gravita em torno de uma única fonte de informação, a testemunha Manoela que, ouvida sob o crivo do contraditório, negou categoricamente o teor de seu depoimento policial. Não há imagens, perícias, interceptações, apreensões ou outro elemento material que corrobore, de forma independente, a autoria atribuída ao recorrente.
-  > 4. A autoria, que é o único elemento controvertido nos autos, só foi afirmada por Manoela no depoimento policial por ela retratado. O policial Celso não presenciou o crime; ele apenas narrou que Manoela, naquele momento, identificou os acusados. É precisamente nesse ponto que o seu depoimento se converte em prova indireta: para que sirva como indício de autoria, é imprescindível que se acredite no conteúdo da afirmação de Manoela, afirmação essa que ela própria revogou sob o contraditório.
-  > 5.A tentativa de manter a força probatória de um relato extrajudicial retratado por meio de testemunho indireto (de auditu) representa, na prática, burla ao comando do art. 155 do Código de Processo Penal, que veda a formação do convencimento judicial exclusivamente a partir de elementos informativos produzidos na fase investigativa. Embora a análise aprofundada das provas seja feita somente pelo Tribunal Popular, não se pode admitir a pronúncia do réu, dada a sua carga decisória, sem que haja sido atingido um standard probatório suficiente, que se situa entre o da simples preponderância de provas incriminatórias sobre as absolutórias (mera probabilidade ou hipótese acusatória mais provável que a defensiva) – típico do recebimento da denúncia – e o da certeza além de qualquer dúvida razoável (bard ou outro standard que se tenha por equivalente) – necessário somente para a condenação.
-  > 6. Exige-se para a pronúncia, portanto, elevada probabilidade de que o réu seja autor ou partícipe do delito a ele imputado (REsp n. 2.091.647/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 3/10/2023). Esse standard não foi atingido. Os únicos elementos apontados para a autoria delitiva foram extraídos do inquérito policial e infirmados quando submetidos ao contraditório. Não havia como pronunciar o acusado com base nesse acervo, tampouco como mantê-lo submetido à jurisdição do Júri após a retratação integral da única testemunha que o vinculava ao crime. A despronúncia, portanto, não importa em impunidade definitiva: impede apenas que o acusado seja levado a julgamento sem o suporte probatório mínimo exigido pelo sistema processual penal constitucional.
-  > 7. Agravo regimental não provido.
-  > (AgRg no REsp n. 2.194.927/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/11/2026, DJEN de 10/11/2026.)

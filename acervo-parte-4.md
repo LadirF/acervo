@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 4 de 47 (decisões 31 a 40)
+# Acervo de Jurisprudência — Cury Advogados — parte 4 de 48 (decisões 31 a 40)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,7 +8,28 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 31. AREsp nº 3255904 / RO (STJ)
+## 31. AREsp nº 3425934 / SC (STJ)
+- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
+- Crime / Tema: Lesão corporal grave · Dosimetria
+- Resumo: Erro material na pena-base da lesão corporal grave (mínimo do art. 129, § 1º, do CP tomado como 2 anos, quando é 1) corrigido de ofício: pena de cada réu reduzida de 2 anos para 1 ano. Condenação mantida (Súmula 7/STJ).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3425934.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVOS EM RECURSO ESPECIAL. LESÃO CORPORAL GRAVE. VÍTIMA AGREDIDA COM SOCOS E CHUTES POR DOIS RÉUS NA CASA DA NAMORADA DE UM DELES. FRATURAS NO BRAÇO E NA COSTELA COM INCAPACIDADE PARA AS OCUPAÇÕES HABITUAIS POR MAIS DE 30 DIAS. ABSOLVIÇÃO EM PRIMEIRO GRAU REFORMADA EM APELAÇÃO. PEDIDO DE RESTABELECIMENTO DA SENTENÇA. REEXAME DE PROVAS VEDADO PELA SÚMULA N. 7/STJ. ALEGADA VIOLAÇÃO DO ART. 155 DO CPP. CONDENAÇÃO APOIADA EM LAUDO PERICIAL E EM ELEMENTOS COLHIDOS SOB O CONTRADITÓRIO. DIVERGÊNCIA JURISPRUDENCIAL SEM COTEJO ANALÍTICO E COM PARADIGMA PROFERIDO EM HABEAS CORPUS. PENA-BASE CALCULADA SOBRE MÍNIMO DE 2 ANOS NÃO PREVISTO NO PRECEITO SECUNDÁRIO DO ART. 129, § 1º, DO CÓDIGO PENAL. ERRO MATERIAL EVIDENTE. DESPROVIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravos em recurso especial interpostos pelos réus RODRIGO e WILLIAN contra decisão que inadmitiu o recurso especial, interposto em petição conjunta, pela Súmula n. 7/STJ e à míngua de cotejo analítico. A sentença absolveu ambos da imputação de lesão corporal grave por insuficiência de provas. O Tribunal de origem deu provimento à apelação do Ministério Público e condenou cada um à pena de 2 (dois) anos de reclusão, em regime aberto, pelas agressões com socos e chutes que causaram à vítima fraturas no braço e na costela, com incapacidade para as ocupações habituais por mais de 30 (trinta) dias.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se (i) o pedido de restabelecimento da absolvição dispensa o reexame de provas; (ii) a condenação se apoiou exclusivamente em elementos do inquérito, em violação do art. 155 do CPP; e (iii) o dissídio jurisprudencial foi demonstrado.
+  > III. Razões de decidir
+  > 3. Os agravos impugnaram especificamente os fundamentos da decisão de inadmissão e devem ser conhecidos.
+  > 4. O acórdão recorrido afastou as contradições apontadas na sentença. Apoiou-se no relato da vítima corroborado pelo laudo pericial e desacreditou a versão de legítima defesa pela ausência de lesões nos réus. Rever essa conclusão para restabelecer a absolvição exige reexame de provas, vedado pela Súmula n. 7/STJ.
+  > 5. O dissídio jurisprudencial não se demonstra pela mera transcrição de ementa, sem cotejo analítico, nem por paradigma proferido em habeas corpus.
+  > 6. Não há violação do art. 155 do CPP. A condenação apoiou-se em laudo pericial e em prova produzida em juízo, inclusive nos interrogatórios em que os réus admitiram ter participado da refrega. A narrativa do boletim de ocorrência foi tida por dissociada da realidade e não fundamentou a condenação.
+  > 7. Há erro material na dosimetria. O Tribunal de origem tomou 2 (dois) anos como mínimo legal, mas o art. 129, § 1º, do CP comina reclusão de 1 (um) a 5 (cinco) anos. Refeito o cálculo com os critérios do próprio acórdão, a pena de cada réu fica em 1 (um) ano de reclusão. A prescrição não se consumou.
+  > IV. Dispositivo
+  > 8. Agravos conhecidos para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. Ordem concedida de ofício para redimensionar a pena de cada agravante para 1 (um) ano de reclusão.
+  > (AREsp n. 3.425.934/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
+
+## 32. AREsp nº 3255904 / RO (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Execução penal
 - Resumo: O requisito do art. 7º, parágrafo único, do Decreto 12.338/2024 considera o tempo total de pena cumprida, sem exigir ordem cronológica das guias. Indulto restabelecido.
@@ -28,7 +49,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Agravo conhecido para dar provimento ao recurso especial.
   > (AREsp n. 3.255.904/RO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 32. AREsp nº 3372006 / SP (STJ)
+## 33. AREsp nº 3372006 / SP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Violência doméstica · Dosimetria
 - Resumo: A reincidência específica, como único fundamento, não justifica aumento acima de 1/6 sem fundamentação concreta e excepcional (Tema 1.172/STJ). Pena da lesão corporal reduzida; condenação e regime mantidos.
@@ -48,7 +69,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Agravo conhecido para dar provimento ao recurso especial.
   > (AREsp n. 3.372.006/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 33. AREsp nº 3226434 / AL (STJ)
+## 34. AREsp nº 3226434 / AL (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Organização criminosa · Falsidade ideológica · Prescrição · Dosimetria
 - Resumo: No concurso de crimes, a prescrição incide sobre a pena de cada um (art. 119 do CP): extinta de ofício a da falsidade ideológica do líder. Afastada a soma das penas, regime aberto e restritivas de direitos para as penas remanescentes de réus sem antecedentes e com pena-base mínima. Condenação por organização criminosa mantida.
@@ -72,7 +93,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 11. Agravo de SILVÂNIO não conhecido. Agravo de VICTOR conhecido e recurso especial não conhecido. Agravo de SÉRGIO conhecido e recurso especial conhecido em parte e, nessa extensão, desprovido. Ordem concedida de ofício aos três agravantes.
   > (AREsp n. 3.226.434/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 34. AREsp nº 3121786 / DF (STJ)
+## 35. AREsp nº 3121786 / DF (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Organização criminosa · Falsificação de documento público · Dosimetria
 - Resumo: Aliciamento e adesão ao grupo já valorados não podem pesar de novo na pena-base ou na agravante do art. 62, IV, do CP (bis in idem); no crime continuado, a multa segue o art. 71, e não o art. 72. Agravos não conhecidos; penas de três rés corrigidas de ofício, com extensão da multa a corréu.
@@ -94,7 +115,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Agravos de PAULO e GLEIDIANE não conhecidos. Agravos de JESSICA, ELIANE e LOUHANY não conhecidos, com ordem concedida de ofício para redimensionar as penas. Efeitos estendidos a WELLINGTON quanto à pena de multa.
   > (AREsp n. 3.121.786/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 35. AREsp nº 3323852 / MG (STJ)
+## 36. AREsp nº 3323852 / MG (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Roubo · Dosimetria
 - Resumo: Perda de celular de cerca de R$ 1 mil, não recuperado, é consequência ordinária do roubo e não autoriza negativar as consequências (art. 59 do CP): o prejuízo patrimonial só eleva a pena-base quando exacerbado. Agravo não conhecido; pena reduzida de ofício, regime fechado mantido.
@@ -116,7 +137,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 9. Agravo em recurso especial não conhecido. Ordem concedida de ofício.
   > (AREsp n. 3.323.852/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 36. AgRg no AREsp nº 3365478 / AP (STJ)
+## 37. AgRg no AREsp nº 3365478 / AP (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Estelionato
 - Resumo: A citação por WhatsApp só vale com identificação segura do destinatário e ciência inequívoca, aferidas pela finalidade e pela falta de prejuízo; a ausência de contato entre a Defensoria e o réu demonstrou o prejuízo. Nulidade da citação mantida; agravo do MP desprovido.
@@ -130,25 +151,20 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 5. Agravo regimental não provido.
   > (AgRg no AREsp n. 3.365.478/AP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 37. ARE nº 1.632.516 / CE (STF)
+## 38. ARE nº 1.632.516 / CE (STF)
 - Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 13/11/2026.
 - Crime / Tema: Tribunal do Júri · Pronúncia · Reconhecimento de pessoa
 - Resumo: Recurso do MP contra a impronúncia sem seguimento, por exigir reexame de provas (Súmula 279/STF); mantido o acórdão do TJCE, que impronunciou por reconhecimento extrajudicial inválido e falta de prova autônoma judicializada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1632516.pdf
 
-## 38. HC nº 278.724 / DF (STF)
+## 39. HC nº 278.724 / DF (STF)
 - Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 13/11/2026.
 - Crime / Tema: Prisão e medidas cautelares · Excesso de prazo
 - Resumo: Quase 2 anos de monitoramento eletrônico sem denúncia e sem demonstração concreta e atual de sua imprescindibilidade tornam a medida desproporcional: revogado o monitoramento, mantidas as demais cautelares, sem extensão automática a outros investigados. Ordem concedida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278724.pdf
 
-## 39. RE nº 1.631.265 / RS (STF)
-- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
-- Crime / Tema: Roubo · Execução penal
-- Resumo: A hediondez superveniente ao fato não impede o indulto: o TRF4 deve reanalisar o pedido de indulto da multa sem esse óbice. Recurso provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1631265.pdf
-
-## 40. ARE nº 1.628.737 / SP (STF)
-- Decisão monocrática. Relator: Min. Nunes Marques. Segunda Turma. Publicado em 12/11/2026.
-- Resumo: Agravo do MP em RE negado por falta de prequestionamento (Súmulas 282 e 356/STF); mantido o acórdão do STJ que restabeleceu a absolvição pelo júri.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628737.pdf
+## 40. Extn na Rcl nº 100.103 / SP (STF)
+- Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 12/11/2026.
+- Crime / Tema: Direito ao silêncio
+- Resumo: Convocado à CPI como testemunha, mas tratado na prática como investigado, pode deixar de comparecer e não é obrigado a firmar compromisso sobre fatos que possam incriminá-lo. Quarta extensão concedida, com salvo-conduto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-100103.pdf

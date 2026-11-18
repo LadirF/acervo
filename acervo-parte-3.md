@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 3 de 47 (decisões 21 a 30)
+# Acervo de Jurisprudência — Cury Advogados — parte 3 de 48 (decisões 21 a 30)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,49 +8,55 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 21. Rcl nº 102.180 / SP (STF)
+## 21. ARE nº 1.632.960 / RO (STF)
+- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 16/11/2026.
+- Crime / Tema: Crimes contra a Administração Pública · Prescrição
+- Resumo: Agravo do MPF desprovido: saber se houve abolitio criminis da majorante do art. 84, § 2º, da Lei 8.666/1993, revogada pela Lei 14.133/2021, é matéria infraconstitucional. O STF não decide a tese; fica o acórdão do STJ que decotou a majorante e declarou a prescrição retroativa.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1632960.pdf
+
+## 22. Rcl nº 102.180 / SP (STF)
 - Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 16/11/2026.
 - Crime / Tema: Execução penal
 - Resumo: Reclamação do MP sem seguimento: o STJ não afronta a SV 26 ao dispensar o exame criminológico exigido só por gravidade abstrata, pena longa e falta antiga já reabilitada. O relator segue a Segunda Turma, com ressalva pessoal. Mantida a progressão de regime.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-102180.pdf
 
-## 22. HC nº 277.901 / SP (STF)
+## 23. HC nº 277.901 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 16/11/2026.
 - Crime / Tema: Tráfico de drogas · Execução penal
 - Resumo: Em caso excepcional, a mãe condenada ao semiaberto, com quatro filhos menores de 12 anos (um bebê em amamentação, com acompanhamento médico) e sem outra pessoa apta a cuidar deles, pode cumprir a pena em domiciliar humanitária, por extensão das razões dos arts. 318 e 318-A do CPP. Ordem concedida de ofício, superado o óbice da decisão monocrática do STJ.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277901.pdf
 
-## 23. HC nº 278.535 / RJ (STF)
+## 24. HC nº 278.535 / RJ (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 16/11/2026.
 - Crime / Tema: Crimes contra a ordem tributária · Dosimetria
 - Resumo: A reincidência não leva, por si, ao regime fechado (Súmula 719/STF): com a pena de 4 anos, 6 meses e 13 dias fixada pelo STJ, o regime mais grave exige motivação concreta; fixado o semiaberto. Rejeitada a reformatio in pejus: o STJ só deslocou circunstância já valorada, sem agravar a pena. Ordem parcialmente concedida.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278535.pdf
 
-## 24. SL nº 1.967 / RS (STF)
+## 25. SL nº 1.967 / RS (STF)
 - Decisão monocrática. Relator: Ministro Presidente. Presidência. Publicado em 16/11/2026.
 - Crime / Tema: Homicídio qualificado · Prisão e medidas cautelares
 - Resumo: Suspensão de liminar é, em regra, incabível contra decisão em habeas corpus penal; só em caso excepcionalíssimo, e nunca como sucedâneo recursal do MP. Pedido sem seguimento; mantida a prisão domiciliar de réu pronunciado, cuja revisão exigiria reexame de fatos.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-sl-1967.pdf
 
-## 25. Rcl nº 100.846 / SP (STF)
+## 26. Rcl nº 100.846 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 16/11/2026.
 - Crime / Tema: Organização criminosa · Furto · Prisão e medidas cautelares
 - Resumo: Gestante presa preventivamente por crime sem violência ou grave ameaça: a regra é a prisão domiciliar (HC coletivo 143.641/STF), afastada só por situação excepcional fundamentada; gestação sem alto risco e pré-natal no presídio não bastam. Reclamação procedente.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-100846.pdf
 
-## 26. RHC nº 279.704 / SP (STF)
+## 27. RHC nº 279.704 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 16/11/2026.
 - Crime / Tema: Organização criminosa · Associação para o tráfico · Cabimento do HC
 - Resumo: HC de próprio punho do preso, levado à DPU pelo acordo de cooperação com o STJ, deve ter o mérito examinado pelo STJ, ainda que funcione como substitutivo de revisão criminal, para não esvaziar o acordo. RHC parcialmente provido; o STF não examinou o mérito e a condenação segue.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-279704.pdf
 
-## 27. HC nº 278.867 / SP (STF)
+## 28. HC nº 278.867 / SP (STF)
 - Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 16/11/2026.
 - Crime / Tema: Receptação · Dosimetria
 - Resumo: Reincidência e maus antecedentes, sem explicar por que exigem regime mais rigoroso, não sustentam o fechado para pena de 1 ano, 4 meses e 24 dias (Súmula 719/STF). Restabelecida a sentença (regime aberto) por HC de ofício, superada a supressão de instância.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278867.pdf
 
-## 28. AREsp nº 3214098 / MG (STJ)
+## 29. AREsp nº 3214098 / MG (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Uso de documento falso · Prescrição
 - Resumo: Prescrição retroativa pela pena concreta (2 anos) consumada entre a sentença e o acórdão condenatório, depois do trânsito para a acusação; a tese, deduzida na apelação e enfrentada na origem, está prequestionada. Punibilidade extinta.
@@ -71,7 +77,7 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 8. Agravo conhecido para dar provimento ao recurso especial. Punibilidade extinta pela prescrição retroativa.
   > (AREsp n. 3.214.098/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
 
-## 29. AREsp nº 3355942 / RS (STJ)
+## 30. AREsp nº 3355942 / RS (STJ)
 - Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
 - Crime / Tema: Peculato · Execução penal · Competência
 - Resumo: A pena em regime semiaberto imposta pela Justiça Federal é executada pela Justiça Estadual, a quem cabe aferir vagas e aplicar a SV 56. Recurso provido.
@@ -92,24 +98,3 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > IV. Dispositivo
   > 9. Agravo conhecido para dar provimento ao recurso especial.
   > (AREsp n. 3.355.942/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)
-
-## 30. AREsp nº 3425934 / SC (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 13/11/2026.
-- Crime / Tema: Lesão corporal grave · Dosimetria
-- Resumo: Erro material na pena-base da lesão corporal grave (mínimo do art. 129, § 1º, do CP tomado como 2 anos, quando é 1) corrigido de ofício: pena de cada réu reduzida de 2 anos para 1 ano. Condenação mantida (Súmula 7/STJ).
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3425934.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVOS EM RECURSO ESPECIAL. LESÃO CORPORAL GRAVE. VÍTIMA AGREDIDA COM SOCOS E CHUTES POR DOIS RÉUS NA CASA DA NAMORADA DE UM DELES. FRATURAS NO BRAÇO E NA COSTELA COM INCAPACIDADE PARA AS OCUPAÇÕES HABITUAIS POR MAIS DE 30 DIAS. ABSOLVIÇÃO EM PRIMEIRO GRAU REFORMADA EM APELAÇÃO. PEDIDO DE RESTABELECIMENTO DA SENTENÇA. REEXAME DE PROVAS VEDADO PELA SÚMULA N. 7/STJ. ALEGADA VIOLAÇÃO DO ART. 155 DO CPP. CONDENAÇÃO APOIADA EM LAUDO PERICIAL E EM ELEMENTOS COLHIDOS SOB O CONTRADITÓRIO. DIVERGÊNCIA JURISPRUDENCIAL SEM COTEJO ANALÍTICO E COM PARADIGMA PROFERIDO EM HABEAS CORPUS. PENA-BASE CALCULADA SOBRE MÍNIMO DE 2 ANOS NÃO PREVISTO NO PRECEITO SECUNDÁRIO DO ART. 129, § 1º, DO CÓDIGO PENAL. ERRO MATERIAL EVIDENTE. DESPROVIMENTO. ORDEM CONCEDIDA DE OFÍCIO.
-  > I. Caso em exame
-  > 1. Agravos em recurso especial interpostos pelos réus RODRIGO e WILLIAN contra decisão que inadmitiu o recurso especial, interposto em petição conjunta, pela Súmula n. 7/STJ e à míngua de cotejo analítico. A sentença absolveu ambos da imputação de lesão corporal grave por insuficiência de provas. O Tribunal de origem deu provimento à apelação do Ministério Público e condenou cada um à pena de 2 (dois) anos de reclusão, em regime aberto, pelas agressões com socos e chutes que causaram à vítima fraturas no braço e na costela, com incapacidade para as ocupações habituais por mais de 30 (trinta) dias.
-  > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se (i) o pedido de restabelecimento da absolvição dispensa o reexame de provas; (ii) a condenação se apoiou exclusivamente em elementos do inquérito, em violação do art. 155 do CPP; e (iii) o dissídio jurisprudencial foi demonstrado.
-  > III. Razões de decidir
-  > 3. Os agravos impugnaram especificamente os fundamentos da decisão de inadmissão e devem ser conhecidos.
-  > 4. O acórdão recorrido afastou as contradições apontadas na sentença. Apoiou-se no relato da vítima corroborado pelo laudo pericial e desacreditou a versão de legítima defesa pela ausência de lesões nos réus. Rever essa conclusão para restabelecer a absolvição exige reexame de provas, vedado pela Súmula n. 7/STJ.
-  > 5. O dissídio jurisprudencial não se demonstra pela mera transcrição de ementa, sem cotejo analítico, nem por paradigma proferido em habeas corpus.
-  > 6. Não há violação do art. 155 do CPP. A condenação apoiou-se em laudo pericial e em prova produzida em juízo, inclusive nos interrogatórios em que os réus admitiram ter participado da refrega. A narrativa do boletim de ocorrência foi tida por dissociada da realidade e não fundamentou a condenação.
-  > 7. Há erro material na dosimetria. O Tribunal de origem tomou 2 (dois) anos como mínimo legal, mas o art. 129, § 1º, do CP comina reclusão de 1 (um) a 5 (cinco) anos. Refeito o cálculo com os critérios do próprio acórdão, a pena de cada réu fica em 1 (um) ano de reclusão. A prescrição não se consumou.
-  > IV. Dispositivo
-  > 8. Agravos conhecidos para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. Ordem concedida de ofício para redimensionar a pena de cada agravante para 1 (um) ano de reclusão.
-  > (AREsp n. 3.425.934/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/11/2026, DJEN de 13/11/2026.)

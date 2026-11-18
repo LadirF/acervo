@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 2 de 47 (decisões 11 a 20)
+# Acervo de Jurisprudência — Cury Advogados — parte 2 de 48 (decisões 11 a 20)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -106,32 +106,32 @@ Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/ac
   > 7. Agravo regimental improvido. Ordem de habeas corpus concedida de ofício para desclassificar a conduta do crime de roubo para o delito de exercício arbitrário das próprias razões, determinando-se a remessa dos autos ao Juízo de origem para readequação das penas e análise dos institutos aplicáveis da Lei n. 9.099/1995.
   > (AgRg no HC n. 1.086.133/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 10/11/2026, DJEN de 17/11/2026.)
 
-## 16. AREsp nº 3312803 / ES (STJ)
+## 16. Rcl nº 100.735 / MG (STF)
+- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 16/11/2026.
+- Crime / Tema: Execução penal
+- Resumo: Pavilhão chamado de semiaberto, mas com rotina de regime fechado (sem trabalho nem estudo), viola a SV 56. Juízo da execução tem 5 dias para nova decisão: vaga adequada ou medidas do RE 641.320, inclusive domiciliar monitorada. Revogação da preventiva não acolhida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-100735.pdf
+
+## 17. AREsp nº 3312803 / ES (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/11/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Dosimetria
 - Resumo: Associação para o tráfico exige prova do vínculo estável e permanente; absolvição do art. 35 da Lei 11.343/2006 e redução da fração das majorantes do art. 40, IV e VI.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3312803.pdf
 
-## 17. REsp nº 2298966 / CE (STJ)
+## 18. REsp nº 2298966 / CE (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 16/11/2026.
 - Crime / Tema: Tráfico de drogas · Associação para o tráfico · Prova digital
 - Resumo: Sem prova de atos de traficância do próprio réu, impõe-se a absolvição do tráfico, ainda que mantida a condenação por associação. Recurso parcialmente provido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2298966.pdf
 
-## 18. REsp nº 2090913 / RN (STJ)
+## 19. REsp nº 2090913 / RN (STJ)
 - Decisão monocrática. Relator: Min. Messod Azulay Neto. Quinta Turma. Publicado em 16/11/2026.
 - Crime / Tema: Crimes de responsabilidade de prefeito
 - Resumo: Os crimes do art. 1º, IV e V, do Decreto-Lei 201/1967 exigem dolo específico; reconhecido só o dolo genérico na origem, o ex-prefeito é absolvido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2090913.pdf
 
-## 19. RE nº 1.621.808 / CE (STF)
+## 20. RE nº 1.621.808 / CE (STF)
 - Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 16/11/2026.
 - Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
 - Resumo: RE do MP sem seguimento (repercussão geral não demonstrada, ofensa reflexa e Súmula 279/STF): fica a impronúncia concedida pelo STJ em HC, por falta de indícios de participação de quem só emprestou a caçamba usada na emboscada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1621808.pdf
-
-## 20. ARE nº 1.632.960 / RO (STF)
-- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 16/11/2026.
-- Crime / Tema: Crimes contra a Administração Pública · Prescrição
-- Resumo: Agravo do MPF desprovido: saber se houve abolitio criminis da majorante do art. 84, § 2º, da Lei 8.666/1993, revogada pela Lei 14.133/2021, é matéria infraconstitucional. O STF não decide a tese; fica o acórdão do STJ que decotou a majorante e declarou a prescrição retroativa.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1632960.pdf

@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 16 de 47 (decisões 151 a 160)
+# Acervo de Jurisprudência — Cury Advogados — parte 16 de 48 (decisões 151 a 160)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,105 +8,86 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 151. REsp nº 2286601 / SP (STJ)
+## 151. HC nº 1139236 / RJ (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 23/10/2026.
+- Crime / Tema: Estupro de vulnerável · Abuso sexual infantojuvenil (ECA) · Prova digital · Quebra da cadeia de custódia
+- Resumo: A confiabilidade da prova digital (capturas de tela de conta em nuvem) é questão distinta da licitude do acesso: cabe ao Estado demonstrar a integridade da prova, sem exigir da defesa prova de adulteração. Ordem concedida de ofício: novo julgamento da apelação.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139236.pdf
+
+## 152. AREsp nº 2352634 / BA (STJ)
+- Decisão monocrática. Relator: Min. Rogerio Schietti Cruz. Sexta Turma. Publicado em 23/10/2026.
+- Crime / Tema: Tráfico de drogas · Fundada suspeita · Justa causa
+- Resumo: “Atitude suspeita” e pouca droga, sem sinal de mercancia, não dão justa causa para a ação penal por tráfico. Restabelecida a absolvição sumária.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-2352634.pdf
+
+## 153. AgRg no AREsp nº 3352058 / SP (STJ)
+- Decisão colegiada. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 23/10/2026.
+- Crime / Tema: Adulteração de sinal identificador de veículo · Dosimetria
+- Resumo: Condenação anterior extinta há mais de 5 anos (art. 64, I, do CP) não gera reincidência. Agravo desprovido, mas ordem concedida de ofício para redimensionar a pena.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3352058.pdf
+- Ementa oficial:
+  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE INADMISSÃO. REINCIDÊNCIA. PERÍODO DEPURADOR. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+  > I. Caso em exame
+  > 1. Agravo regimental contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial por falta de impugnação específica de dois dos três fundamentos da decisão de inadmissão, a Súmula n. 284/STF e a ausência de comprovação do dissídio. O agravante foi condenado à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, por ter aposto fita isolante no último algarismo da placa do veículo que conduzia, transformando o número 5 em 8, para escapar do rodízio municipal.
+  > 2. O agravante sustenta que o agravo em recurso especial combateu em substância o óbice da Súmula n. 284/STF e que a insurgência sempre se limitou à alínea a. Subsidiariamente, pede a concessão de habeas corpus de ofício para afastar da reincidência condenação cuja punibilidade foi extinta em 2017, para afastar a valoração negativa da culpabilidade, por suposto bis in idem com a reincidência, e para fixar o regime semiaberto.
+  > II. Questão em discussão
+  > 3. Há duas questões em discussão: (i) saber se o agravo em recurso especial impugnou especificamente todos os fundamentos da decisão de inadmissão; e (ii) saber se há ilegalidade flagrante na dosimetria que autorize a concessão de habeas corpus de ofício.
+  > III. Razões de decidir
+  > 4. A decisão de inadmissão do recurso especial é incindível e deve ser impugnada em sua integralidade. O agravo em recurso especial enfrentou apenas a Súmula n. 7/STJ e reiterou a tese de atipicidade, sem rebater a deficiência de fundamentação nem a falta de comprovação do dissídio, embora o recurso especial tivesse sido interposto pelas alíneas a e c.
+  > 5. A renúncia à alínea c e a complementação da impugnação apenas no agravo regimental não suprem a deficiência, alcançada pela preclusão consumativa.
+  > 6. A condenação por furto qualificado tentado, cuja punibilidade foi extinta por indulto em 8/8/2017, não gera reincidência quanto ao crime praticado em 9/4/2025, porque decorrido o prazo de 5 (cinco) anos do art. 64, I, do CP.
+  > 7. Remanescem duas condenações aptas a gerar a reincidência, uma delas compensada com a confissão espontânea. A agravante incide, assim, na fração de 1/6, e não de 1/3, o que reduz a pena a 4 (quatro) anos e 8 (oito) meses de reclusão e 15 (quinze) dias-multa.
+  > 8. O cometimento do crime em gozo de livramento condicional justifica a valoração negativa da culpabilidade e não se confunde com a condenação anterior que fundamenta a reincidência, de modo que não há bis in idem.
+  > 9. O regime inicial fechado subsiste, porque a pena supera 4 (quatro) anos, o agravante é reincidente e há circunstâncias judiciais desfavoráveis.
+  > IV. Dispositivo
+  > 10. Agravo regimental desprovido. Habeas corpus concedido de ofício.
+  > (AgRg no AREsp n. 3.352.058/SP, relatora Ministra Nilsoni de Freitas (Desembargadora Convocada do TJDFT), Sexta Turma, julgado em 20/10/2026, DJEN de 23/10/2026.)
+
+## 154. ARE nº 1.628.157 / SP (STF)
+- Decisão monocrática. Relatora: Min.ª Cármen Lúcia. Primeira Turma. Publicado em 23/10/2026.
+- Crime / Tema: Importunação sexual · Competência
+- Resumo: Onde não há vara especializada em crimes contra crianças e adolescentes, compete ao juizado de violência doméstica julgá-los (art. 23, par. único, da Lei 13.431/2017). ARE do MP com seguimento negado: mantida a decisão de origem.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628157.pdf
+
+## 155. Extn na Rcl nº 98.355 / SP (STF)
+- Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 23/10/2026.
+- Crime / Tema: Direito ao silêncio
+- Resumo: Quem é convocado à CPI como testemunha, mas está de fato na posição de investigado, pode não comparecer e não prestar compromisso. Sétima extensão concedida, com salvo-conduto.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-98355.pdf
+
+## 156. HC nº 278.774 / AM (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 23/10/2026.
+- Crime / Tema: Inserção de dados falsos em sistema de informações · ANPP
+- Resumo: Na Justiça Militar, o ANPP não pode ser recusado por vedação abstrata: o juiz examina só a legalidade e a voluntariedade do acordo. Ordem concedida para novo exame da homologação.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278774.pdf
+
+## 157. Ext nº 1.995 / DF (STF)
+- Decisão colegiada. Relator: Min. Flávio Dino. Primeira Turma. Publicado em 23/10/2026.
+- Resumo: A extradição exige que o pedido descreva, para cada crime, a conduta do extraditando; imputação genérica não atende o art. 82, II, da Lei 13.445/2017. Extradição indeferida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-ext-1995.pdf
+- Ementa oficial:
+  > EXTRADIÇÃO INSTRUTÓRIA. DESCRIÇÃO ESPECÍFICA DA EXTRADIÇÃO INDEFERIDA. AUSÊNCIA DE IMPUTAÇÃO.
+  > 1. Pedido de extradição formulado pelo Governo da Rússia, com base no Tratado de Extradição entre a República Federativa do Brasil e a Federação da Rússia, promulgado pelo Decreto nº 6.056/2007.
+  > 2. A Procuradoria-Geral da República manifestou-se pelo indeferimento do pedido de extradição formulado pelo Governo da Rússia em desfavor do nacional russo Mikhail Verbitsky, dado o não preenchimento do requisito disposto no art. 82, II, da Lei 13.445/2017.
+  > 3. Os fatos imputados ao extraditando são marcados por abstração e generalidade, sem especificar a forma de participação ou colaboração na empreitada criminosa.
+  > 4. A jurisprudência do Supremo Tribunal Federal exige que a documentação instrutória do pedido precise, em relação a cada um dos crimes, a conduta do extraditando, sendo que a descrição precária ou insuficiente inviabiliza o acolhimento do pedido.
+  > 5. Extradição indeferida. Pedido de prisão preventiva julgado prejudicado.
+  > (STF, Ext n. 1.995/DF, relator Ministro Flávio Dino, Primeira Turma, julgado em 19/10/2026, DJe de 23/10/2026.)
+
+## 158. Rcl nº 59.431 / DF (STF)
+- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 23/10/2026.
+- Crime / Tema: Crimes contra a honra · Competência
+- Resumo: Cabe ao STF decidir se a manifestação do parlamentar tem relação com o mandato, para definir o foro. Reclamação procedente: competência do STF para a queixa-crime contra senador.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rcl-59431.pdf
+
+## 159. REsp nº 2286601 / SP (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 22/10/2026.
 - Crime / Tema: Dano qualificado · Execução penal
 - Resumo: Romper a tornozeleira para fugir não configura dano qualificado (art. 163, par. único, III, do CP) sem a intenção de causar prejuízo ao patrimônio (animus nocendi). REsp provido; réu absolvido.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2286601.pdf
 
-## 152. RHC nº 250052 / GO (STJ)
+## 160. RHC nº 250052 / GO (STJ)
 - Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
 - Crime / Tema: Falsidade ideológica · Justa causa · Revisão criminal
 - Resumo: Retratação da vítima por escritura pública, sem eficácia probatória própria, não tem potencial lesivo para configurar falsidade ideológica (art. 299 do CP). RHC parcialmente provido: investigação trancada.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-250052.pdf
-
-## 153. AgRg no AREsp nº 3298877 / PI (STJ)
-- Decisão colegiada. Relator: Min. Carlos Pires Brandão. Sexta Turma. Publicado em 21/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri
-- Resumo: A absolvição pelo quesito genérico pode acolher a clemência sustentada em plenário e registrada em ata, com apoio nas circunstâncias do caso. Veredito mantido; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3298877.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO SIMPLES. TRIBUNAL DO JÚRI. ABSOLVIÇÃO POR QUESITO GENÉRICO. TESE DE CLEMÊNCIA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. CASO EM EXAME
-  > 1. Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que não conheceu do recurso especial, em razão do óbice da Súmula n. 7/STJ.
-  > II. QUESTÃO EM DISCUSSÃO
-  > 2. A questão em discussão consiste em saber se a incidência da Súmula 7/STJ impede o exame, em recurso especial, da alegação de decisão do júri manifestamente contrária à prova dos autos, quando a absolvição decorre de quesito genérico, acolhendo tese de clemência.
-  > III. RAZÕES DE DECIDIR
-  > 3. O acórdão de origem registrou a apresentação em ata da tese de clemência e a sua compatibilidade com a Constituição Federal, com o Tema 1.087/STF e com as circunstâncias fáticas do caso, relativas a homicídio simples.
-  > 4. O Tribunal de origem reconheceu a existência de vertente probatória e de circunstâncias fáticas e pessoais mínimas que justificam a tese de clemência, registrada em ata de julgamento, em harmonia com os limites estabelecidos pelo Supremo Tribunal Federal.
-  > 5. A pretensão de anular o julgamento do Tribunal do Júri sob o argumento de decisão contrária à prova dos autos demanda o reavaliação do acervo fático-probatório, providência vedada pela Súmula 7/STJ.
-  > IV. DISPOSITIVO
-  > 6. Agravo regimental desprovido.
-  > (AgRg no AREsp n. 3.298.877/PI, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 15/10/2026, DJEN de 21/10/2026.)
-
-## 154. RHC nº 278.575 / DF (STF)
-- Decisão monocrática. Relator: Min. Dias Toffoli. Segunda Turma. Publicado em 21/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado
-- Resumo: Ato infracional anterior, sozinho, não afasta o tráfico privilegiado. RHC parcialmente provido para nova dosimetria.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278575.pdf
-
-## 155. RHC nº 278.498 / PR (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 21/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: Comutação anterior não impede nova comutação pelo Decreto 11.846/2023: os arts. 3º e 4º tratam de hipóteses distintas. RHC provido para reexame do pedido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-278498.pdf
-
-## 156. HC nº 1138222 / MS (STJ)
-- Decisão monocrática. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 21/10/2026.
-- Crime / Tema: Organização criminosa · Prisão e medidas cautelares · Superação da Súmula 691
-- Resumo: Prisão temporária por crime fora do rol legal e com as diligências já cumpridas é ilegal. Custódia relaxada de ofício, superada a Súmula 691/STF.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1138222.pdf
-
-## 157. RE nº 1.623.966 / SC (STF)
-- Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 21/10/2026.
-- Crime / Tema: Crimes contra as relações de consumo · ANPP
-- Resumo: O ANPP cabe em processo sem trânsito em julgado, mesmo com denúncia recebida antes da Lei 13.964/2019 e condenação já em grau de recurso (HC 185.913/STF). RE da defesa provido: autos ao MP para avaliar o acordo.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-re-1623966.pdf
-
-## 158. AgRg no REsp nº 2224434 / SP (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Execução penal
-- Resumo: A aprovação no ENEM gera remição mesmo para quem já tem diploma de curso superior: o estudo atual é fato gerador autônomo. Agravo da defesa provido; autos voltam para o cálculo.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2224434.pdf
-- Ementa oficial:
-  > AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA PELO ESTUDO. APROVAÇÃO PARCIAL NO ENEM. APENADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR ANTERIOR AO CUMPRIMENTO DA PENA. IRRELEVÂNCIA. SUPERVENIÊNCIA DO TEMA REPETITIVO 1.357/STJ. FATO GERADOR AUTÔNOMO.
-  > 1. O recurso especial não foi conhecido com fundamento na Súmula 83/STJ, à luz de precedentes segundo os quais o apenado portador de diploma de curso superior anterior ao início do cumprimento da pena não faria jus à remição pela aprovação no ENEM, por inexistir aquisição de conhecimento novo.
-  > 2. Referido entendimento foi superado pela Terceira Seção desta Corte, que, ao julgar o Tema Repetitivo 1.357 (REsp n. 2.072.985/DF, relator Ministro Reynaldo Soares da Fonseca, julgado em 18/6/2026, DJEN de 16/7/2026), fixou a tese de que a aprovação no ENEM é cabível para fins de remição ainda que o sentenciado já tenha concluído o Ensino Médio anteriormente ao início do cumprimento da pena, porquanto o exame demanda estudo por conta própria e representa fato gerador autônomo, distinto da mera certificação de escolaridade pretérita – raciocínio que, por identidade de fundamento, afasta também o óbice relativo à prévia conclusão de curso superior, na linha já consolidada pela Quinta Turma (REsp n. 2.156.059/MS, relator Ministro Ribeiro Dantas, julgado em 5/11/2024; AgRg no REsp n. 2.132.114/MG, relator. Ministro Reynaldo Soares da Fonseca, julgado em 18/6/2024).
-  > 3. O art. 126 da LEP e a Resolução CNJ n. 391/2021 não condicionam a remição pelo estudo à inexistência de escolaridade prévia, seja em Nível Médio, seja em Nível Superior. A remição não representa crédito automático pela posse de diploma, mas reconhecimento do esforço educacional autônomo e atual, comprovado objetivamente pela aprovação no exame durante a execução da pena.
-  > 4. Agravo regimental provido para dar provimento ao recurso especial e, ao reformar o acórdão do Tribunal de Justiça do Estado de São Paulo, reconhecer o direito do agravante à remição de pena com base na aprovação parcial no ENEM, determinando-se o retorno dos autos ao Juízo da execução para o devido cômputo da remição correspondente.
-  > (AgRg no REsp n. 2.224.434/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
-
-## 159. REsp nº 2265467 / PR (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Tráfico de drogas · Execução penal
-- Resumo: A hipossuficiência declarada se presume verdadeira: cabe ao MP provar que o condenado pode pagar a multa para barrar a reabilitação (art. 94 do CP; Tema 931/STJ). REsp da defesa provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2265467.pdf
-- Ementa oficial:
-  > RECURSO ESPECIAL. PENAL. REABILITAÇÃO CRIMINAL. INADIMPLEMENTO DE PENA DE MULTA. HIPOSSUFICIÊNCIA ECONÔMICA DECLARADA. PRESUNÇÃO RELATIVA DE VERACIDADE. ÔNUS DA PROVA ATRIBUÍDO AO MINISTÉRIO PÚBLICO. TEMA 931/STJ.
-  > 1. Trata-se de recurso especial interposto contra acórdão que negou provimento à apelação defensiva e manteve o indeferimento do pedido de reabilitação criminal, sob o fundamento de que o recorrente não comprovou de forma suficiente sua hipossuficiência econômica para justificar o inadimplemento de pena de multa atualizada em R$ 85.908,09.
-  > 2. A questão em discussão consiste em definir: (i) se o inadimplemento da pena de multa, diante de alegação de hipossuficiência econômica, obsta a concessão da reabilitação criminal; e (ii) a quem incumbe o ônus de provar a capacidade ou a incapacidade de pagamento da sanção pecuniária, à luz da tese revisada do Tema 931/STJ.
-  > 3. A tese firmada no Tema Repetitivo 931/STJ (REsp n. 2.024.901/SP e REsp n. 2.090.454/SP), revisada pela Terceira Seção em 28/2/2024, estabelece que o inadimplemento da pena de multa, após o cumprimento da pena privativa de liberdade, não obsta a extinção da punibilidade diante da hipossuficiência do condenado, salvo decisão judicial suficientemente motivada que indique concretamente a possibilidade de pagamento.
-  > 4. Por coerência sistêmica, o mesmo entendimento aplica-se ao instituto da reabilitação criminal, cujo cabimento pressupõe, nos termos do art. 94 do Código Penal, a prévia extinção da punibilidade. Se o inadimplemento da multa, decorrente de comprovada hipossuficiência, não obsta o reconhecimento da extinção da punibilidade, com maior razão não pode obstar a reabilitação, que dela é consequência lógica e cronológica, sob pena de impor ao egresso hipossuficiente restrição desproporcional e perpétua ao gozo de seus direitos.
-  > 5. A declaração de hipossuficiência econômica, amparada no art. 99, § 3º, do Código de Processo Civil, goza de presunção relativa de veracidade. Cabe ao Ministério Público, na condição de fiscal da execução penal, comprovar, com base em elementos concretos, que o condenado possui capacidade financeira de adimplir a sanção pecuniária.
-  > 6. No caso concreto, o recorrente apresentou declaração de hipossuficiência e o Ministério Público não produziu qualquer prova capaz de infirmá-la. O acórdão recorrido, ao exigir do reabilitando prova robusta de sua pobreza e dispensar o Parquet dessa incumbência, inverteu indevidamente o ônus probatório, contrariando o art. 94, III, do Código Penal, interpretado à luz do art. 51 do mesmo diploma e da orientação vinculante fixada no Tema 931/STJ.
-  > 7. Recurso especial provido nos termos do dispositivo.
-  > (REsp n. 2.265.467/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)
-
-## 160. AgRg no AREsp nº 3233531 / BA (STJ)
-- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 20/10/2026.
-- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia
-- Resumo: Qualificadora sem prova judicial que a sustente deve ser afastada já na pronúncia. Mantida a exclusão; agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3233531.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. EXCLUSÃO DE QUALIFICADORAS POR AUSÊNCIA DE PROVA JUDICIAL. REVALORAÇÃO JURÍDICA DOS FATOS. SÚMULA 7/STJ. PREQUESTIONAMENTO CONSTITUCIONAL. AGRAVO REGIMENTAL IMPROVIDO.
-  > I. Caso em exame
-  > 1. O recurso. Agravo regimental interposto contra decisão monocrática que, acompanhando parecer do MPF, conheceu em parte e deu provimento ao recurso especial defensivo para excluir qualificadoras do crime, relativas ao motivo torpe e ao recurso que dificultou a defesa da vítima.
-  > II. Questão em discussão
-  > 2. Há três questões em discussão: (i) saber se, diante do quadro fático delineado no acórdão recorrido, é possível manter as qualificadoras de motivo torpe e de recurso que dificultou a defesa da vítima sem indicação de prova direta produzida em juízo; (ii) saber se a conclusão pela exclusão das qualificadoras demanda vedado reexame de provas (Súmula 7/STJ) ou se se trata de revaloração jurídica; e (iii) saber se é possível o prequestionamento de dispositivo constitucional (art. 5º, XXXVIII, “d”, da CR/1988) no âmbito do recurso especial perante o STJ.
-  > III. Razões de decidir
-  > 3. O acórdão recorrido não apontou prova direta e produzida em juízo que justifique o motivo torpe e o recurso que dificultou a defesa da vítima, sendo inviável a manutenção das qualificadoras nesta etapa processual.
-  > 4. A conclusão pela exclusão das qualificadoras decorre de revaloração jurídica da fundamentação do acórdão recorrido, não exigindo reexame de provas, razão pela qual não incide a Súmula 7/STJ.
-  > 5. Não compete ao STJ enfrentar matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do STF.
-  > IV. Dispositivo
-  > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão monocrática que excluiu as qualificadoras.
-  > (AgRg no AREsp n. 3.233.531/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2026, DJEN de 20/10/2026.)

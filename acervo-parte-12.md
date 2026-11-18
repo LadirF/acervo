@@ -1,6 +1,6 @@
-# Acervo de Jurisprudência — Cury Advogados — parte 12 de 47 (decisões 111 a 120)
+# Acervo de Jurisprudência — Cury Advogados — parte 12 de 48 (decisões 111 a 120)
 
-Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 463 decisões, da mais recente para a mais antiga (por data de publicação).
+Decisões catalogadas em Direito (principalmente Direito Penal e Processual Penal) — STJ, STF, TRFs e tribunais estaduais. Total: 474 decisões, da mais recente para a mais antiga (por data de publicação).
 
 Página para consulta: https://ladirf.github.io/acervo/ — cada decisão tem o PDF original no link indicado.
 
@@ -8,114 +8,107 @@ Campos: **Resumo** = síntese da tese e do desfecho (redação do acervo, não �
 
 Instruções e lista dos arquivos de índice: https://ladirf.github.io/acervo/acervo.md — para analisar um caso, siga as instruções desse arquivo (triagem pelo índice inteiro, filtro pela ementa, leitura do inteiro teor só das que corroboram fortemente o caso, compatibilidade alta/média/baixa).
 
-## 111. REsp nº 2266241 / SC (STJ)
+## 111. HC nº 279.042 / ES (STF)
+- Decisão monocrática. Relator: Min. Cristiano Zanin. Primeira Turma. Publicado em 29/10/2026.
+- Crime / Tema: Roubo · Confissão espontânea · Dosimetria · Revisão criminal
+- Resumo: Reconhecida a confissão espontânea (art. 65, III, d, do CP), reduzir menos de 1/6 exige fundamentação concreta na sentença, mesmo que a confissão seja qualificada; a motivação dada depois pelas instâncias revisoras não supre a falta. HC concedido para o juízo da execução aplicar 1/6.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-279042.pdf
+
+## 112. REsp nº 2234241 / SC (STJ)
+- Decisão monocrática. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
+- Crime / Tema: Crimes contra a ordem tributária
+- Resumo: Deixar de recolher ICMS declarado só é crime se houver contumácia e dolo de apropriação, demonstrados por elementos concretos (art. 2º, II, da Lei 8.137/1990; RHC 163.334/STF). HC de ofício absolve por atipicidade (art. 386, III, do CPP).
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2234241.pdf
+
+## 113. AgRg no REsp nº 2288472 / SP (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
+- Crime / Tema: Estupro de vulnerável · Dosimetria
+- Resumo: Réu primário com pena-base no mínimo não pode receber regime mais severo que o indicado pela pena sem fundamento concreto além da gravidade do próprio crime (art. 33, §§ 2º e 3º, do CP). Agravo do MP desprovido; mantido o regime semiaberto para pena de 8 anos.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2288472.pdf
+- Ementa oficial:
+  > DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REGIME PRISIONAL INICIAL. FUNDAMENTAÇÃO CONCRETA PARA AGRAVAMENTO. AUSÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que deu provimento ao recurso especial para fixar o regime inicial semiaberto.
+  > II. Questão em discussão
+  > 2. A questão em discussão consiste em saber se, ausentes circunstâncias judiciais desfavoráveis e fixada a pena-base no mínimo legal, é legítima a imposição de regime inicial mais gravoso do que o indicado pelo critério temporal do art. 33, § 2º, do Código Penal sem fundamentação idônea baseada em elementos concretos dos autos.
+  > III. Razões de decidir
+  > 3. A imposição de regime prisional mais severo que o correspondente à pena aplicada exige fundamentação idônea, com indicação de circunstâncias judiciais desfavoráveis ou gravidade concreta do delito, não bastando a gravidade abstrata do tipo penal (CP, art. 33, §§ 2º e 3º).
+  > 4. No caso, réu primário, pena-base no mínimo legal e inexistência de vetores judiciais negativos impedem o agravamento do regime inicial, que deve observar o critério temporal do art. 33, § 2º, alínea “b”, do Código Penal.
+  > IV. Dispositivo e tese
+  > 5. Resultado do Julgamento: Agravo regimental improvido, mantida a decisão que fixou o regime inicial semiaberto.
+  > Tese de julgamento:
+  > 1. A imposição de regime inicial mais gravoso do que o indicado pelo art. 33, § 2º, do Código Penal exige fundamentação concreta baseada em circunstâncias judiciais desfavoráveis.
+  > (AgRg no REsp n. 2.288.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2026, DJEN de 28/10/2026.)
+
+## 114. AgRg no AREsp nº 3196600 / AP (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
+- Crime / Tema: Homicídio qualificado · Tribunal do Júri · Pronúncia · Testemunho indireto
+- Resumo: A pronúncia não pode se apoiar só em confissões extrajudiciais e testemunhos indiretos (arts. 155 e 413 do CPP); sem fonte identificada nem prova de que era impossível produzir a prova em juízo, não se aplica a exceção do Tema 1.260/STJ. Agravo do MP desprovido; despronúncia mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3196600.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRIBUNAL DO JÚRI. PRONÚNCIA. ELEMENTOS DO INQUÉRITO E TESTEMUNHO INDIRETO. ARTS. 155 E 413 DO CPP. DESPRONÚNCIA. AGRAVO IMPROVIDO.
+  > I. Caso em exame
+  > 1. Agravo regimental contra decisão monocrática que não conheceu do agravo em recurso especial, mas concedeu ordem de ofício para despronunciar o réu Matheus.
+  > II. Questão em discussão
+  > 2. Saber se a pronúncia pode se fundamentar exclusivamente em elementos do inquérito e testemunhos indiretos.
+  > III. Razões de decidir
+  > 3. A pronúncia exige indícios suficientes de autoria e materialidade (art. 413 do CPP), amparados em prova direta produzida em juízo, ressalvadas as provas irrepetíveis, cautelares e antecipadas (art. 155 do CPP). Elementos do inquérito e testemunhos indiretos não são aptos, por si, a comprovar qualquer elemento do crime na etapa da pronúncia.
+  > 4. O depoimento indireto, inclusive o do policial que relata o que ouviu no inquérito, não "judicializa" informações extrajudiciais; os dados probatórios obtidos na investigação devem aportar diretamente ao processo, sob contraditório, sendo inviável substituí-los por relatos indiretos.
+  > 5. No caso concreto, inexistem provas diretas e individualizadas quanto à autoria imputada ao réu (condução do veículo), havendo apenas confissões extrajudiciais e testemunhos indiretos; inaplicável a exceção do Tema 1.260, por ausência de identificação da fonte e de demonstração de impossibilidade de produção da prova.
+  > IV. Dispositivo
+  > 6. Resultado do Julgamento: Agravo regimental improvido, mantida a despronúncia.
+  > (AgRg no AREsp n. 3.196.600/AP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/10/2026, DJEN de 28/10/2026.)
+
+## 115. AgRg no REsp nº 2276538 / RS (STJ)
+- Decisão colegiada. Relator: Min. Ribeiro Dantas. Quinta Turma. Publicado em 28/10/2026.
+- Crime / Tema: Roubo · Reconhecimento de pessoa
+- Resumo: Reconhecimento fotográfico feito só na polícia, sem as formalidades do art. 226 do CPP, não confirmado em juízo e sem prova independente, não sustenta condenação (Tema 1.258/STJ). Agravo do MP desprovido; absolvição por roubo mantida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2276538.pdf
+- Ementa oficial:
+  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CPP. INSUFICIÊNCIA PROBATÓRIA. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+  > I. Caso em exame
+  > 1. O recurso. Agravo regimental interposto contra decisão monocrática que não conheceu de recurso especial por incidência da Súmula 7/STJ e afastou alegada negativa de prestação jurisdicional quanto ao art. 619 do CPP.
+  > 2. Fato relevante. Pretensão de reforma do acórdão estadual para condenar os recorridos por roubo majorado, sustentando a aplicação do Tema 1258/STJ e a possibilidade de condenação fundada em reconhecimento realizado na fase investigatória, em consonância com outras provas.
+  > 3. As decisões anteriores. Tribunal de origem manteve absolvição por insuficiência probatória, destacando a fragilidade do reconhecimento fotográfico não confirmado em juízo, a descrição genérica dos assaltantes, a brevidade da ação delitiva e a inexistência de elementos autônomos produzidos sob contraditório capazes de firmar a autoria, em observância aos arts. 226 e 155 do CPP e ao princípio in dubio pro reo.
+  > II. Questão em discussão
+  > 4. As questões em discussão cingem-se a saber: (i) se é possível, em recurso especial, infirmar a conclusão do Tribunal de origem quanto à insuficiência de provas de autoria para o crime de roubo majorado sem incidir no vedado revolvimento do conjunto fático-probatório (Súmula 7/STJ); e (ii)se o reconhecimento fotográfico realizado na fase policial, sem observância das formalidades do art. 226 do CPP, não confirmado em juízo e desacompanhado de provas independentes robustas, pode sustentar condenação à luz do Tema 1258/STJ.
+  > III. Razões de decidir
+  > 5. A conclusão do acórdão recorrido quanto à insuficiência probatória e à fragilidade do reconhecimento decorre da análise do acervo fático-probatório, cujo reexame é vedado em recurso especial, nos termos da Súmula 7/STJ.
+  > 6. O reconhecimento fotográfico realizado apenas na fase investigatória, não corroborado por reconhecimento pessoal em juízo e sem outros elementos autônomos e independentes produzidos sob o contraditório, não afasta a presunção de inocência e impõe a manutenção da absolvição, em atenção ao princípio in dubio pro reo.
+  > 7. A aplicação do Tema 1258/STJ pressupõe a existência de provas autônomas e independentes robustas a corroborar eventual reconhecimento feito na fase policial, circunstância não verificada no caso.
+  > IV. Dispositivo e tese
+  > 8. Resultado do Julgamento: Agravo regimental improvido.
+  > Tese de julgamento:
+  > 1. É inviável, em recurso especial, rediscutir a suficiência probatória para condenação ou afastar absolvição por insuficiência de provas, ante o óbice da Súmula 7/STJ.
+  > 2. O reconhecimento fotográfico realizado na fase policial, sem observância do art. 226 do CPP, não confirmado em juízo e desacompanhado de provas independentes robustas, não sustenta a condenação, impondo a manutenção da absolvição por in dubio pro reo.
+  > (AgRg no REsp n. 2.276.538/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/10/2026, DJEN de 28/10/2026.)
+
+## 116. AREsp nº 3366575 / SP (STJ)
+- Decisão monocrática. Relatora: Des.ª convocada Nilsoni de Freitas (TJDFT). Sexta Turma. Publicado em 28/10/2026.
+- Crime / Tema: Posse ilegal de arma de fogo · Inviolabilidade de domicílio · Busca e apreensão
+- Resumo: Mandado de prisão não autoriza vasculhar a casa: a arma achada debaixo do colchão revela busca exploratória, e permitir a entrada para a prisão não é consentir com busca geral (art. 5º, XI, da CF; art. 157 do CPP). REsp da defesa provido; absolvição restabelecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3366575.pdf
+
+## 117. REsp nº 2266241 / SC (STJ)
 - Decisão monocrática. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 28/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
 - Resumo: Natureza e quantidade da droga se valoram em conjunto: é inidônea a fração de 1/2 no tráfico privilegiado fundada só na natureza da droga (art. 33, § 4º, da Lei 11.343/2006; Temas 1.154 e 1.241/STJ). REsp da defesa provido para nova dosimetria.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2266241.pdf
 
-## 112. ARE nº 1.628.735 / SP (STF)
+## 118. ARE nº 1.628.735 / SP (STF)
 - Decisão monocrática. Relator: Min. Luiz Fux. Segunda Turma. Publicado em 28/10/2026.
 - Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Direito ao silêncio
 - Resumo: Mantida a decisão do STJ segundo a qual o silêncio do acusado e o lucro, inerente ao tráfico, não afastam nem reduzem o tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006). O STF negou provimento ao ARE do MP (ofensa reflexa e Súmula 279/STF), e ficou mantida a fração de 2/3.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-are-1628735.pdf
 
-## 113. RHC nº 277.683 / SC (STF)
+## 119. RHC nº 277.683 / SC (STF)
 - Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 28/10/2026.
 - Crime / Tema: Furto · Dosimetria
 - Resumo: O furto privilegiado (art. 155, § 2º, do CP) é compatível com qualquer qualificadora, inclusive a subjetiva do abuso de confiança, em sentido contrário à Súmula 511/STJ. A escusa do art. 181, II, não alcança padrasto e enteado. RHC parcialmente provido para redimensionar a pena.
 - PDF: https://ladirf.github.io/acervo/pdfs/pdf-rhc-277683.pdf
 
-## 114. HC nº 278.547 / SP (STF)
-- Decisão monocrática. Relator: Min. Alexandre de Moraes. Primeira Turma. Publicado em 27/10/2026.
-- Crime / Tema: Tráfico de drogas · Ato infracional (ECA) · Prisão e medidas cautelares · Superação da Súmula 691
-- Resumo: A internação provisória (art. 108, parágrafo único, do ECA) exige necessidade imperiosa e uma das hipóteses do art. 122; ato análogo ao tráfico, sem violência nem reiteração, não a autoriza. HC concedido, superada a Súmula 691/STF, para substituí-la por medida em meio aberto.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278547.pdf
-
-## 115. HC nº 278.717 / MS (STF)
-- Decisão monocrática. Relator: Min. Gilmar Mendes. Segunda Turma. Publicado em 27/10/2026.
-- Crime / Tema: Tráfico de drogas · Tráfico privilegiado · Dosimetria
-- Resumo: A condição de “mula”, sem prova concreta de vínculo com organização criminosa, não justifica aplicar o redutor do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) no mínimo de 1/6. HC concedido para restabelecer a sentença, que aplicou 1/2.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-278717.pdf
-
-## 116. HC nº 277.559 / MG (STF)
-- Decisão monocrática. Relator: Min. André Mendonça. Segunda Turma. Publicado em 27/10/2026.
-- Crime / Tema: Tráfico de drogas · Prisão e medidas cautelares
-- Resumo: O juiz não pode impor a preventiva na sentença contra o pedido expresso do MP para o réu recorrer em liberdade (arts. 282, §§ 2º e 4º, e 311 do CPP); a reavaliação de ofício do art. 316 não alcança esse caso. Em reconsideração, ordem concedida de ofício para restabelecer o comparecimento mensal em juízo.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-277559.pdf
-
-## 117. REsp nº 2294353 / PR (STJ)
-- Decisão colegiada. Relator: Min. Sebastião Reis Júnior. Sexta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Furto
-- Resumo: No furto privilegiado, o pequeno valor considera só a coisa furtada, sem somar o custo de reparar obstáculo danificado (art. 155, § 2º, do CP). Minorante reconhecida; REsp da defesa parcialmente provido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2294353.pdf
-- Ementa oficial:
-  > DIREITO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO E ESCALADA. ART. 155, § 2º, DO CP. FURTO PRIVILEGIADO. PEQUENO VALOR DA COISA FURTADA. PARÂMETRO DE AFERIÇÃO. RES FURTIVA. IMPOSSIBILIDADE DE CONSIDERAÇÃO DOS PREJUÍZOS DECORRENTES DA EXECUÇÃO DO DELITO. INTERPRETAÇÃO EXTENSIVA IN MALAM PARTEM. PRIMARIEDADE RECONHECIDA. QUALIFICADORAS DE NATUREZA OBJETIVA. COMPATIBILIDADE. SÚMULA 511/STJ. INCIDÊNCIA DA MINORANTE. RETORNO DOS AUTOS À ORIGEM PARA DEFINIÇÃO DA FRAÇÃO DE REDUÇÃO E REDIMENSIONAMENTO DA PENA.
-  > 1. A controvérsia consiste em definir se, para a incidência da causa de diminuição prevista no art. 155, § 2º, do Código Penal, o requisito do pequeno valor deve ser aferido exclusivamente pelo valor da coisa furtada ou se podem ser considerados os prejuízos patrimoniais decorrentes da execução do delito.
-  > 2. A expressão legal “pequeno valor da coisa furtada” refere-se ao valor da res furtiva, inexistindo autorização normativa para a inclusão de danos produzidos durante a prática delitiva, ainda que relacionados ao rompimento de obstáculo ou a outros meios de execução do crime.
-  > 3. A utilização dos prejuízos decorrentes da reparação dos obstáculos danificados para afastar o furto privilegiado amplia indevidamente o alcance restritivo da norma penal, mediante interpretação desfavorável ao acusado, em desconformidade com o princípio da legalidade estrita.
-  > 4. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o pequeno valor da coisa furtada, para os fins do art. 155, § 2º, do Código Penal, deve ser aferido, em regra, a partir do valor da res furtiva, usualmente em comparação com o salário mínimo vigente à época dos fatos.
-  > 5. Hipótese em que os bens subtraídos foram avaliados em R$ 320,00, quantia inferior ao salário mínimo vigente ao tempo do delito, estando igualmente presente a primariedade técnica do agente.
-  > 6. As qualificadoras do rompimento de obstáculo e da escalada possuem natureza objetiva, circunstância que não impede o reconhecimento do furto qualificado-privilegiado, nos termos da Súmula 511/STJ.
-  > 7. Reconhecida a incidência do privilégio, a definição da modalidade da benesse e da fração de redução prevista no art. 155, § 2º, do Código Penal deve ser realizada pelas instâncias ordinárias, à luz das peculiaridades do caso concreto e das circunstâncias relevantes para a individualização da pena.
-  > 8. Recurso especial parcialmente provido para reconhecer a incidência da causa de diminuição prevista no art. 155, § 2º, do Código Penal e determinar o retorno dos autos ao Tribunal de origem para aplicação da minorante e consequente redimensionamento da pena, mantidos os demais termos do acórdão recorrido.
-  > (REsp n. 2.294.353/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2026, DJEN de 27/10/2026.)
-
-## 118. AgRg no REsp nº 2294354 / SC (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Violência doméstica · Dosimetria
-- Resumo: A agravante do art. 61, II, “f”, do CP não se soma à qualificadora do art. 129, § 13, quando ambas se baseiam na violência contra a mulher: é bis in idem (distinção do Tema 1.197/STJ). Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2294354.pdf
-- Ementa oficial:
-  > DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. VIOLÊNCIA DOMÉSTICA. LESÃO CORPORAL QUALIFICADA (§ 13 DO ART. 129 DO CP). AGRAVANTE DO ART. 61, II, “F”. BIS IN IDEM. DISSÍDIO JURISPRUDENCIAL. AGRAVO DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo órgão acusatório contra decisão que conheceu em parte de recurso especial e, nessa extensão, negou-lhe provimento, mantendo o afastamento da agravante do art. 61, II, “f”, do Código Penal na condenação pelo art. 129, § 13, do mesmo diploma.
-  > 2. Condenação pelos arts. 129, § 13, e 147, do Código Penal, c.c. arts. 5º, III, e 7º, I, da Lei n. 11.340/2006. Em apelação, foi afastada a agravante do art. 61, II, “f”, do Código Penal, com redução da pena do crime de lesão corporal.
-  > II. Questão em discussão
-  > 4. Há duas questões em discussão: (i) saber se o dissídio jurisprudencial poderia ser conhecido pela alínea “c” do art. 105, III, da Constituição, diante da ausência de cotejo analítico e da indicação de paradigmas adequados; e (ii) saber se a aplicação cumulativa da agravante do art. 61, II, “f”, do Código Penal com a qualificadora do art. 129, § 13, do Código Penal, em crime de lesão corporal cometido em contexto de violência doméstica e de gênero contra a mulher, configura bis in idem.
-  > III. Razões de decidir
-  > 5. Consta dos autos que o recurso especial foi interposto com fundamento no art. 105, III, “a” e “c”, da Constituição Federal. A ausência de cotejo analítico e a indicação de paradigmas impróprios impedem o conhecimento do dissídio pela alínea “c”, sendo insuficiente a mera transcrição de ementas ou a invocação de julgados em habeas corpus.
-  > 6. A orientação do Tema 1.197/STJ admite a incidência da agravante do art. 61, II, “f”, do Código Penal com o art. 129, § 9º, do Código Penal, porque as elementares desse tipo não contemplam o gênero da vítima; contudo, tal ratio não se estende às hipóteses do art. 129, § 13, do Código Penal.
-  > 7. O art. 129, § 13, do Código Penal qualifica a lesão corporal quando praticada contra a mulher, por razões da condição do sexo feminino, nos termos do art. 121, § 2º-A, do Código Penal, abrangendo, entre outras, a violência doméstica e familiar, incorporando o contexto de violência de gênero como elemento do tipo penal. A aplicação da agravante do art. 61, II, “f”, do Código Penal sobre fato já qualificado pelo § 13 recai na mesma circunstância fático-normativa (violência de doméstica e de gênero contra a mulher), implicando duplicidade punitiva vedadaa, por implicar bis in idem e violar os princípios da proporcionalidade e da especialidade na aplicação da lei penal.
-  > IV. Dispositivo e tese
-  > 6. Resultado do Julgamento: Agravo regimental desprovido.
-  > Tese de julgamento:
-  > 1. O conhecimento do dissídio pela alínea “c” do art. 105, III, da Constituição exige cotejo analítico, similitude fática e jurídica e paradigmas adequados.
-  > 2. A aplicação cumulativa da agravante do art. 61, II, “f”, do Código Penal com a qualificadora do art. 129, § 13, do Código Penal configura bis in idem, uma vez que a violência de gênero contra a mulher, em contexto doméstico ou familiar, já constitui elementar do tipo penal qualificado.
-  > 3. A tese firmada no Tema 1.197/STJ não se aplica às hipóteses do art. 129, § 13, do Código Penal, em que a condição de mulher e a violência de gênero já integram o tipo qualificado.
-  > (AgRg no REsp n. 2.294.354/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
-
-## 119. AgRg no AgRg no REsp nº 2246840 / MG (STJ)
-- Decisão colegiada. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Tráfico de drogas
-- Resumo: A reparação mínima por dano moral coletivo exige pedido expresso, indicação do valor e instrução específica sobre o dano (art. 387, IV, do CPP). Agravo do MP desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-resp-2246840.pdf
-- Ementa oficial:
-  > DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. DANO MORAL COLETIVO. FIXAÇÃO DE VALOR MÍNIMO NA SENTENÇA PENAL CONDENATÓRIA (CPP, ART. 387, IV). NECESSIDADE DE INSTRUÇÃO ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
-  > I. Caso em exame
-  > 1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que conheceu em parte e negou provimento a recurso especial.
-  > II. Questão em discussão
-  > 2. A questão em discussão consiste em saber se a fixação de valor mínimo para reparação de danos morais coletivos, em sentença penal condenatória com fundamento no art. 387, IV, do CPP, exige instrução probatória específica ou se basta o pedido expresso na denúncia.
-  > III. Razões de decidir
-  > 3. A fixação de valor mínimo a título de dano moral coletivo, nos termos do art. 387, IV, do CPP, exige cumulativamente: (i) pedido expresso na peça acusatória; (ii) indicação do montante pretendido; e (iii) realização de instrução probatória específica, para assegurar o contraditório e a ampla defesa.
-  > 4. Em crimes de tráfico de drogas, cujo sujeito passivo é indeterminado, é indispensável instrução específica para demonstrar o abalo à esfera moral coletiva e a extensão do dano; ausente essa instrução, inviável a definição do quantum indenizatório.
-  > 5. O acórdão recorrido está alinhado à jurisprudência do STJ quanto aos requisitos para a indenização mínima do art. 387, IV, do CPP, incidindo a Súmula 83/STJ.
-  > IV. Dispositivo e tese
-  > 6. Resultado do Julgamento: Agravo regimental não provido.
-  > Tese de julgamento:
-  > 1. A fixação de danos morais coletivos, com base no art. 387, IV, do CPP, exige pedido expresso, indicação do montante pretendido e instrução probatória específica para assegurar contraditório e ampla defesa.
-  > (AgRg no AgRg no REsp n. 2.246.840/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2026, DJEN de 27/10/2026.)
-
-## 120. AgRg no AREsp nº 3246028 / RS (STJ)
-- Decisão colegiada. Relator: Min. Reynaldo Soares da Fonseca. Quinta Turma. Publicado em 27/10/2026.
-- Crime / Tema: Crimes contra a saúde pública · Dosimetria
-- Resumo: Importar anabolizantes sem registro na Anvisa se enquadra no art. 273, § 1º-B, I, do CP, com a pena anterior repristinada (Tema 1.003/STF). Agravo do MPF desprovido.
-- PDF: https://ladirf.github.io/acervo/pdfs/pdf-aresp-3246028.pdf
-- Ementa oficial:
-  > PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPORTAÇÃO IRREGULAR DE ANABOLIZANTES. SUBSTÂNCIAS CONSTANTES DA LISTA C5 DA PORTARIA SVS/MS N. 344/1998. DESCLASSIFICAÇÃO PARA O ART. 273, § 1º-B, I, DO CÓDIGO PENAL. MEDICAMENTOS SEM REGISTRO NA ANVISA. ADEQUAÇÃO TÍPICA. APLICAÇÃO DO PRECEITO SECUNDÁRIO REPRISTINADO. TEMA N. 1.003/STF. AGRAVO REGIMENTAL DESPROVIDO.
-  > 1. A controvérsia consiste em definir o enquadramento jurídico da importação irregular de medicamentos anabolizantes cujos princípios ativos integram a Lista C5 da Portaria SVS/MS n. 344/1998, bem como a disciplina sancionatória aplicável à conduta.
-  > 2. A inclusão dos princípios ativos identificados pela perícia na relação de substâncias sujeitas a controle especial não afasta, nas circunstâncias do caso, o enquadramento da importação irregular de produtos destinados a fins terapêuticos ou medicinais, sem registro na Anvisa, no art. 273, § 1º-B, I, do Código Penal, conforme reconhecido na decisão agravada.
-  > 3. Mantida a desclassificação para o art. 273, § 1º-B, I, do Código Penal, aplica-se o preceito secundário repristinado, em observância à orientação firmada pelo Supremo Tribunal Federal no Tema n. 1.003 da repercussão geral, que reconheceu a inconstitucionalidade da pena cominada pela Lei n. 9.677/1998 à referida hipótese típica.
-  > 4. A alteração da capitulação jurídica impõe o retorno dos autos ao Tribunal de origem para o redimensionamento da pena, observados os parâmetros legais correspondentes ao delito reconhecido.
-  > 5. Agravo regimental a que se nega provimento.
-  > (AgRg no AREsp n. 3.246.028/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2026, DJEN de 27/10/2026.)
+## 120. HC nº 1139031 / SP (STJ)
+- Decisão monocrática. Relator: Min. Joel Ilan Paciornik. Quinta Turma. Publicado em 27/10/2026.
+- Crime / Tema: Tráfico de drogas · Inviolabilidade de domicílio
+- Resumo: Entrada em domicílio sem mandado, com consentimento não documentado, sem as imagens das câmeras corporais que os policiais disseram existir e só com denúncia anônima, é ilícita; a grande quantidade de droga não convalida a busca. Absolvição restabelecida.
+- PDF: https://ladirf.github.io/acervo/pdfs/pdf-hc-1139031.pdf
