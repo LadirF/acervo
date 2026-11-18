@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex, nofollow">
-<link rel="alternate" type="text/markdown" href="ia/20261118-1443/acervo.md" title="Acervo em texto (para IA)">
+<link rel="alternate" type="text/markdown" href="ia/20261118-1518/acervo.md" title="Acervo em texto (para IA)">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#101010">
 <title>Acervo de Jurisprudência</title>
@@ -2093,7 +2093,7 @@
 </style>
 </head>
 <body>
-<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261118-1443/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
+<p class="para-ia">Versão em texto deste acervo, para ferramentas de IA: https://ladirf.github.io/acervo/ia/20261118-1518/acervo.md (instruções para encontrar as teses mais compatíveis com um caso concreto e lista dos arquivos: índice por tribunal com o resumo de cada decisão; ementas oficiais, referências e PDFs nas partes acervo-parte-1.md, acervo-parte-2.md etc.).</p>
 <a class="pular" href="#docket">Pular para as decisões</a>
 <div class="wrap">
 
@@ -11184,7 +11184,7 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
     var vfFechar = document.getElementById('vfFechar');
 
     if (vfBuscar && vfBusca && vfCampo && vfResultado && vfAnterior && vfProximo && vfFechar) {
-      var B = { termo: '', resultados: [], atual: -1, tempo: 0, contou: 0 };
+      var B = { termo: '', resultados: [], atual: -1, tempo: 0, contou: 0, juncoes: {} };
       var aoLerPagina = []; // function (n): o texto da página n foi lido (n = 0: terminou)
 
       // Devolve a vez ao navegador entre uma página e outra: aqui o PDF.js roda na
@@ -11297,11 +11297,16 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
         if (!B.resultados.length || !L.textos) return;
         var todos = temDestaque ? new Highlight() : null, atual = temDestaque ? new Highlight() : null;
         B.resultados.forEach(function (r, k) {
-          var f = L.folhas[r.pag - 1];
-          var x = f && intervaloDe(f, L.textos[r.pag - 1], r);
-          if (!x) return;
-          if (temDestaque) (k === B.atual ? atual : todos).add(x.rg);
-          else for (var s = x.i; s <= x.j; s++) f._divs[s].classList.add('vf-marca', k === B.atual ? 'vf-marca-atual' : 'vf-marca');
+          // resultado que atravessa a quebra de página tem uma segunda parte (pag2)
+          var partes = [[r.pag, r.a, r.b]];
+          if (r.pag2) partes.push([r.pag2, r.a2, r.b2]);
+          partes.forEach(function (p) {
+            var f = L.folhas[p[0] - 1];
+            var x = f && intervaloDe(f, L.textos[p[0] - 1], { a: p[1], b: p[2] });
+            if (!x) return;
+            if (temDestaque) (k === B.atual ? atual : todos).add(x.rg);
+            else for (var s = x.i; s <= x.j; s++) f._divs[s].classList.add('vf-marca', k === B.atual ? 'vf-marca-atual' : 'vf-marca');
+          });
         });
         if (temDestaque) {
           CSS.highlights.set('pdf-busca-v3', todos);
@@ -11354,6 +11359,110 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
         return achou;
       };
 
+      // ---- Trecho que atravessa a quebra de página (18/11/2026) ----
+      // Junta o fim do texto de uma página ao começo da seguinte, deixando de fora
+      // o cabeçalho e o rodapé que se repetem (nº da página, "Documento assinado…",
+      // "Superior Tribunal de Justiça", "ARE 1042075 / RJ") e o texto girado da margem.
+      var girou = function (it) {
+        var m = it.transform;
+        return Math.abs(m[1]) > 1e-3 * Math.abs(m[0]) || m[0] <= 0;
+      };
+
+      // Linhas da página (as mesmas de ordenarTextoPdf): posição no texto original,
+      // zona (topo/pé, 15% da altura), girada ou não e texto comparável sem números
+      var linhasDe = function (t) {
+        if (t.linhas) return t.linhas;
+        var ls = [], atual = null, H = t.vp1.height;
+        t.itens.forEach(function (it, i) {
+          if (!atual) atual = { ini: t.inicios[i], txt: '', it: it };
+          atual.txt += it.str;
+          if (it.str.trim() && !atual.it.str.trim()) atual.it = it;
+          if (it.hasEOL || i === t.itens.length - 1) {
+            atual.fim = t.inicios[i] + it.str.length;
+            var p = t.vp1.convertToViewportPoint(atual.it.transform[4], atual.it.transform[5]);
+            atual.altura = p[1] / H;
+            atual.zona = p[1] < 0.15 * H ? 'topo' : (p[1] > 0.85 * H ? 'pe' : '');
+            atual.girado = girou(atual.it);
+            atual.norm = termoPdf(atual.txt).replace(/\d/g, '');
+            ls.push(atual);
+            atual = null;
+          }
+        });
+        return (t.linhas = ls);
+      };
+
+      // Linha de topo/pé que se repete, na mesma altura, na página anterior ou na
+      // seguinte, ou que só tem números (nº da página). Só a vizinha imediata e na
+      // mesma altura: a última linha do voto pode repetir a da ementa duas páginas
+      // antes (REsp 2231348) e não é rodapé.
+      var repete = function (num, l) {
+        if (!l.zona) return false;
+        if (l.norm === '') return true;
+        for (var d = -1; d <= 1; d += 2) {
+          var v = L.textos[num - 1 + d];
+          if (!v) continue;
+          var ls = linhasDe(v);
+          for (var i = 0; i < ls.length; i++) {
+            if (ls[i].zona === l.zona && ls[i].norm === l.norm && Math.abs(ls[i].altura - l.altura) < 0.02) return true;
+          }
+        }
+        return false;
+      };
+
+      // Primeiro índice do texto compacto cujo original fica em `pos` ou depois
+      var posCompacta = function (t, pos) {
+        var a = 0, b = t.mapa.length;
+        while (a < b) { var m = (a + b) >> 1; if (t.mapa[m] < pos) a = m + 1; else b = m; }
+        return a;
+      };
+
+      // Onde começa e termina o corpo da página no texto compacto
+      var corpoDe = function (num) {
+        var t = L.textos[num - 1], ls = linhasDe(t), i = 0, j = ls.length - 1;
+        while (i <= j && (ls[i].girado || repete(num, ls[i]))) i++;
+        while (j >= i && (ls[j].girado || repete(num, ls[j]))) j--;
+        if (i > j) return null;
+        return { ini: posCompacta(t, ls[i].ini), fim: posCompacta(t, ls[j].fim) };
+      };
+
+      // Põe o resultado na ordem do documento (o "3 de 12" segue a ordem da lista)
+      var juntarResultado = function (r) {
+        var i = B.resultados.length;
+        while (i > 0 && (B.resultados[i - 1].pag > r.pag || (B.resultados[i - 1].pag === r.pag && B.resultados[i - 1].a > r.a))) i--;
+        B.resultados.splice(i, 0, r);
+        if (B.atual >= i) B.atual++;
+      };
+
+      // Procura nas emendas entre páginas já lidas. Cada emenda é examinada uma vez
+      // por busca, quando a página seguinte à emenda também já foi lida (para
+      // reconhecer o cabeçalho repetido) ou o documento terminou.
+      var procurarJuncoes = function () {
+        if (!B.termo || B.termo.length < 2 || !L.textos || !L.doc) return 0;
+        if (B.juncoesDe !== L.token) { B.juncoes = {}; B.juncoesDe = L.token; } // outro PDF aberto
+        var q = B.termo, achou = 0, n = L.doc.numPages;
+        for (var k = 1; k < n; k++) {
+          if (B.juncoes[k]) continue;
+          var t1 = L.textos[k - 1], t2 = L.textos[k];
+          if (!(L.textos[k + 1] || L.textosProntos || k + 1 >= n)) continue;
+          if (!t1 || !t2) { if (L.textosProntos) B.juncoes[k] = true; continue; }
+          B.juncoes[k] = true;
+          var c1 = corpoDe(k), c2 = corpoDe(k + 1);
+          if (!c1 || !c2) continue;
+          var ini1 = Math.max(c1.ini, c1.fim - (q.length - 1));
+          var cauda = t1.dob.slice(ini1, c1.fim);
+          var cabeca = t2.dob.slice(c2.ini, Math.min(c2.fim, c2.ini + q.length - 1));
+          var J = cauda + cabeca, a = J.indexOf(q);
+          while (a !== -1) {
+            if (a < cauda.length && a + q.length > cauda.length) {
+              juntarResultado({ pag: k, a: ini1 + a, b: c1.fim, pag2: k + 1, a2: c2.ini, b2: c2.ini + (a + q.length - cauda.length) });
+              achou++;
+            }
+            a = J.indexOf(q, a + 1);
+          }
+        }
+        return achou;
+      };
+
       // Assim que aparece um resultado na página da tela ou depois dela, vai até
       // ele; se só houver antes, volta ao primeiro quando terminar de ler
       var irAoPrimeiro = function () {
@@ -11369,9 +11478,10 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
       aoLerPagina.push(function (num) {
         if (!B.termo || B.termo.length < 2) return;
         var novos = num ? procurarNaPagina(num) : 0;
+        var emendas = procurarJuncoes();
         irAoPrimeiro();
         var f = num && L.folhas[num - 1];
-        if (novos && f && f._textoPronto) destacarPdf();
+        if ((novos && f && f._textoPronto) || emendas) destacarPdf();
         // contagem no máximo a cada 0,4 s enquanto lê (o leitor de tela não repete tanto)
         var agora = Date.now();
         if (!num || agora - B.contou > 400) { B.contou = agora; mostrarContagemPdf(); }
@@ -11384,11 +11494,13 @@ APELAÇÃO CRIMINAL - CRIME PREVISTO NO ART. 12 DA LEI Nº 10.826/03 - PRELIMINA
         if (q === B.termo) return;
         B.termo = q;
         B.resultados = [];
+        B.juncoes = {};
         B.atual = -1;
         limparDestaquesPdf();
         if (q.length < 2 || !L.doc) { mostrarContagemPdf(); return; }
         lerTextos();
         L.textos.forEach(function (t, i) { if (t) procurarNaPagina(i + 1); });
+        procurarJuncoes();
         irAoPrimeiro();
         B.contou = Date.now();
         mostrarContagemPdf();
